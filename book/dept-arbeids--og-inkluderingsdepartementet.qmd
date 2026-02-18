@@ -1,0 +1,76 @@
+# Arbeids- og inkluderingsdepartementet
+
+*70 lover*
+
+| Lov | Korttittel | Ikrafttredelse |
+|-----|-----------|----------------|
+| [Lov om 1 og 17 mai som høgtidsdager](../lover/lov-1947-04-26-1.md) | Lov om 1 og 17 mai | 1947-04-26 |
+| [Lov om Norges Krigsskaderåd](../lover/lov-1951-07-06-4.md) | Lov om Norges Krigsskaderåd | 1951-07-06 |
+| [Lov om Statens pensjonskasse](../lover/lov-1949-07-28-26.md) | Statens pensjonskasseloven – stpkl | 1949-08-01 |
+| [Lov om aldersgrenser for statsansatte m.fl.](../lover/lov-1956-12-21-1.md) | Lov om aldersgrenser for statsansatte m.fl. | 1956-12-21 |
+| [Lov om allmenngjøring av bestemmelser i tariffavtale om europeiske samarbeidsutv](../lover/lov-1996-08-23-63.md) | Lov om europeiske samarbeidsutvalg m.v. | 1996-09-22 |
+| [Lov om allmenngjøring av tariffavtaler m.v. (allmenngjøringsloven)](../lover/lov-1993-06-04-58.md) | Allmenngjøringsloven | 1994-01-01 |
+| [Lov om anke til Trygderetten (trygderettsloven)](../lover/lov-1966-12-16-9.md) | Trygderettsloven – trrl | 1967-01-01 |
+| [Lov om arbeids- og velferdsforvaltningen (arbeids- og velferdsforvaltningsloven)](../lover/lov-2006-06-16-20.md) | Nav-loven | 2006-07-01 |
+| [Lov om arbeidsmarkedstjenester (arbeidsmarkedsloven)](../lover/lov-2004-12-10-76.md) | Arbeidsmarkedsloven | 2005-07-01 |
+| [Lov om arbeidsmiljø, arbeidstid og stillingsvern mv. (arbeidsmiljøloven)](../lover/lov-2005-06-17-62.md) | Arbeidsmiljøloven – aml | 2006-01-01 |
+| [Lov om arbeidstvister (arbeidstvistloven)](../lover/lov-2012-01-27-9.md) | Arbeidstvistloven – arbtvl | 2012-03-01 |
+| [Lov om avtalefestet pensjon for arbeidstakere med rett til medlemskap i Pensjons](../lover/lov-1994-07-01-49.md) | Lov om AFP for apotekvirksomhet | 1994-07-01 |
+| [Lov om avtalefestet pensjon for medlemmer av Statens pensjonskasse](../lover/lov-2010-06-25-28.md) | Lov om AFP for medlemmer av Statens pensjonskasse | 2011-01-01 |
+| [Lov om den europeiske arbeidsmarknadsstyresmakta (ELA-lova)](../lover/lov-2025-04-10-8.md) | ELA-lova | 2025-04-10 |
+| [Lov om endringar i folketrygdlova og enkelte andre lover (oppfølging av tiltak i](../lover/lov-2025-12-22-117.md) | Endringslov til folketrygdlova og enkelte andre lover | 2025-12-22, med virkning fra 2026-01-01, med virkning fra 2026-01-01, 2026-07-01 |
+| [Lov om endringer i allmenngjøringsloven (anvendelse på Svalbard)](../lover/lov-2025-03-28-4.md) | Endringslov til allmenngjøringsloven | 2025-07-01, Kongen bestemmer |
+| [Lov om endringer i arbeidsmiljøloven (krav til det psykososiale arbeidsmiljøet)](../lover/lov-2025-06-20-37.md) | Endringslov til arbeidsmiljøloven | 2026-01-01 |
+| [Lov om endringer i arbeidsmiljøloven og sosialtjenesteloven (adgang til midlerti](../lover/lov-2015-04-24-20.md) | Endringslov til arbeidsmiljøloven og sosialtjenesteloven | Kongen bestemmer, 2015-07-01 |
+| [Lov om endringer i arbeidsmiljøloven, lov om aldersgrenser for statsansatte m.fl](../lover/lov-2025-05-27-17.md) | Endringslov til arbeidsmiljøloven, lov om aldersgrenser for statsansatte m.fl. | 2026-01-01 |
+| [Lov om endringer i barnetrygdloven og midlertidige endringer i lovverket som føl](../lover/lov-2024-06-25-53.md) | Endringslov til barnetrygdloven mv. (Ukraina) | 2024-07-01, 2026-07-01 |
+| [Lov om endringer i barnevernsloven, straffeloven, passloven og ID-kortloven (utr](../lover/lov-2025-12-22-115.md) | Endringslov til barnevernsloven, straffeloven, passloven og ID-kortloven | 2026-01-23, 2026-04-15 |
+| [Lov om endringer i folketrygdloven (ny alderspensjon)](../lover/lov-2009-06-05-32.md) | Endringslov til folketrygdloven (ny alderspensjon) | 2010-01-01, 2011-01-01 |
+| [Lov om endringer i folketrygdloven (ny uføretrygd og alderspensjon til uføre)](../lover/lov-2011-12-16-59.md) | Endringslov til folketrygdloven (ny uføretrygd) | 2015-01-01, 2012-02-01 |
+| [Lov om endringer i folketrygdloven (nye etterlatteytelser)](../lover/lov-2020-12-18-139.md) | Endringslov til folketrygdloven (nye etterlatteytelser) | 2024-01-01 |
+| [Lov om endringer i folketrygdloven (yrkessykdommer og elektronisk melding av yrk](../lover/lov-2025-06-10-30.md) | Endringslov til folketrygdloven | 2026-01-01, 2027-01-01 |
+| [Lov om endringer i folketrygdloven mv. (arbeidsavklaringspenger og tilleggsstøna](../lover/lov-2017-06-16-43.md) | Endringslov til folketrygdloven mv. | 2018-01-01 |
+| [Lov om endringer i folketrygdloven og enkelte andre lover](../lover/lov-2019-12-20-84.md) | Endringslov til folketrygdloven og enkelte andre lover | 2020-01-01, 2020-02-01, 2020-03-01, 2021-01-01, 2021-09-03, Kongen bestemmer |
+| [Lov om endringer i integreringsloven mv. (økt arbeidsretting og formell opplærin](../lover/lov-2025-06-20-35.md) | Endringslov til integreringsloven mv. | 2025-06-20, 2026-01-01, Kongen bestemmer |
+| [Lov om endringer i lov om Statens pensjonskasse og enkelte andre lover (ny uføre](../lover/lov-2014-03-07-5.md) | Endringslov til lov om Statens pensjonskasse mfl. | 2015-01-01 |
+| [Lov om endringer i lov om Statens pensjonskasse og enkelte andre lover (nye pens](../lover/lov-2025-06-10-31.md) | Endringslov til lov om Statens pensjonskasse mv. | 2026-01-01 |
+| [Lov om endringer i lov om Statens pensjonskasse, folketrygdloven og i enkelte an](../lover/lov-2014-12-19-73.md) | Endringslov til ftrl. og div. pensjonslover | 2015-01-01, 2014-12-19 |
+| [Lov om endringer i trygderettsloven mv. (ankeerklæring til Trygderetten, avgjøre](../lover/lov-2025-06-20-38.md) | Endringslov til trygderettsloven mv. | 2026-01-01, 2027-01-01 |
+| [Lov om erstatning for krigsskade på eiendom og interesse [krigsskadeerstatningsl](../lover/lov-1953-07-17-2.md) | Krigsskadeerstatningsloven | 1953-10-23 |
+| [Lov om ferie [ferieloven]](../lover/lov-1988-04-29-21.md) | Ferieloven – feriel | 1990-01-01, 1989-01-01, 1988-05-01 |
+| [Lov om folketrygd (folketrygdloven)](../lover/lov-1997-02-28-19.md) | Folketrygdloven – ftrl | 1997-05-01 |
+| [Lov om fri rørsle av arbeidstakarar innanfor EØS mv. (EØS-arbeidstakarlova)](../lover/lov-2012-12-14-81.md) | EØS-arbeidstakarlova | 2012-12-14 |
+| [Lov om informasjonstilgang m.m. for Ekstremismekommisjonen](../lover/lov-2022-12-20-97.md) | Lov om informasjonstilgang m.m. for Ekstremismekommisjonen | 2022-12-20 |
+| [Lov om informasjonstilgang mv. for utvalget for ekstern gransking av saken knytt](../lover/lov-2019-12-20-85.md) | Lov om informasjonstilgang mv. for NAV-granskingsutvalget | 2019-12-20 |
+| [Lov om integrering gjennom opplæring, utdanning og arbeid (integreringsloven)](../lover/lov-2020-11-06-127.md) | Integreringsloven | 2021-01-01 |
+| [Lov om kompensasjonsordning for kjemikalieskadde oljepionerar](../lover/lov-2025-12-22-116.md) | Lov om kompensasjonsordning for kjemikalieskadde oljepionerar | 2025-12-22 |
+| [Lov om krigspensjonering for hjemmestyrkepersonell og sivilpersoner](../lover/lov-1946-12-13-22.md) | Lov om krigspensjonering for sivile m.v. | 1946-12-13 |
+| [Lov om krigspensjonering for militærpersoner](../lover/lov-1946-12-13-21.md) | Lov om krigspensjon for militærpersoner | 1946-12-13 |
+| [Lov om lønnsnemnd i arbeidstvister (lønnsnemndloven)](../lover/lov-2012-01-27-10.md) | Lønnsnemndloven | 2012-03-01 |
+| [Lov om lønnsplikt under permittering (permitteringslønnsloven)](../lover/lov-1988-05-06-22.md) | Permitteringslønnsloven | 1990-10-01 |
+| [Lov om merkning av vekten på tunge kolli som fraktes med fartøi](../lover/lov-1932-04-22-1.md) | Lov om merkning på tunge kolli | 1933-01-01 |
+| [Lov om norsk statsborgerskap (statsborgerloven)](../lover/lov-2005-06-10-51.md) | Statsborgerloven | 2006-09-01 |
+| [Lov om offentlige organers ansvar for bruk av tolk mv. (tolkeloven)](../lover/lov-2021-06-11-79.md) | Tolkeloven | 2022-01-01 |
+| [Lov om opphevelse av lov 9. november 1956 om pensjonsordning for åremålstilsatte](../lover/lov-1982-05-21-29.md) | Lov om opph. av pensjonsordn. for åremålstilsatte | 1982-05-21 |
+| [Lov om pensjonering av militært tilsatte som etter søknad er gitt avskjed med re](../lover/lov-1957-05-03.md) | Lov om pensjonering av militært tilsatte | 1957-05-03 |
+| [Lov om pensjonsordning for Stortingets ombudsmann for forvaltningen](../lover/lov-1966-05-06.md) | Lov om pensjonsordning for sivilombudsmannen | 1966-05-06 med virkning fra 1963-01-01 |
+| [Lov om pensjonsordning for apotekvirksomhet mv. [apotekpensjonsloven]](../lover/lov-1953-06-26-11.md) | Apotekpensjonsloven | 1953-07-01 |
+| [Lov om pensjonsordning for arbeidstakere til sjøs](../lover/lov-1948-12-03-7.md) | Pensjonsordning for arbeidstakere til sjøs – sjømptrl | 1948-12-03 |
+| [Lov om pensjonsordning for ballettdansere, sangsolister og korsangere ved Den No](../lover/lov-1998-08-21-65.md) | Operapensjonsloven | 1999-01-01 |
+| [Lov om pensjonsordning for ledsagere i utenrikstjenesten](../lover/lov-1999-01-15-1.md) | Lov om ledsagerpensjon i utenrikstjenesten | 1999-01-15 med virkning fra 1999-01-01 |
+| [Lov om pensjonsordning for oppdragstaker i beredskapshjem eller spesialisert fos](../lover/lov-2010-02-12-4.md) | Lov om pensjon for oppdragstaker i barnevernet | 2010-02-12 |
+| [Lov om pensjonsordning for stortingsrepresentanter og regjeringsmedlemmer (stort](../lover/lov-2011-12-16-60.md) | Stortings- og regjeringspensjonsloven | 2012-01-01 |
+| [Lov om pensjonsordning for sykepleiere [sykepleierpensjonsloven]](../lover/lov-1962-06-22-12.md) | Sykepleierpensjonsloven | 1962-07-01 |
+| [Lov om pensjonstrygd for fiskere [fiskerpensjonsloven]](../lover/lov-1957-06-28-12.md) | Fiskerpensjonsloven | 1958-01-01 |
+| [Lov om samordning av pensjons- og trygdeytelser (samordningsloven)](../lover/lov-1957-07-06-26.md) | Samordningsloven – samordl | 1959-01-01 |
+| [Lov om sosiale tjenester i arbeids- og velferdsforvaltningen (sosialtjenestelove](../lover/lov-2009-12-18-131.md) | Sosialtjenesteloven – sotjl | 2010-01-01 |
+| [Lov om statsgaranti for lønnskrav ved konkurs m.v. [lønnsgarantiloven]](../lover/lov-1973-12-14-61.md) | Lønnsgarantiloven | 1974-01-01 |
+| [Lov om statstilskott til arbeidstakere som tar ut avtalefestet pensjon i privat ](../lover/lov-2010-02-19-5.md) | AFP-tilskottsloven | 2010-02-19, 2011-01-01 |
+| [Lov om stønad ved krigsskade på person [krigsskadestønadsloven]](../lover/lov-1954-11-26-3.md) | Krigsskadestønadsloven |  |
+| [Lov om supplerande stønad til personar med kort butid i Noreg](../lover/lov-2005-04-29-21.md) | Lov om supplerande stønad ved kort butid | 2006-01-01 |
+| [Lov om tillegg til 1) lov om krigspensjonering for militærpersoner av 13. desemb](../lover/lov-1968-03-22-2.md) | Tilleggslov om krigspensjonering | 1968-04-01 |
+| [Lov om tillegg til lov 28. juli 1949 om Statens pensjonskasse [høyesterettspensj](../lover/lov-1982-05-21-25.md) | Høyesterettspensjonsloven | 1982-05-21 |
+| [Lov om tillegg til lov om Statens pensjonskasse av 28. juli 1949](../lover/lov-1956-11-09-1.md) | Tilleggslov om Statens pensjonskasse | 1956-11-09 |
+| [Lov om ulykkestrygd for arbeidere ved norske bedrifter på Svalbard](../lover/lov-1947-06-27-10.md) | Lov om ulykkestrygd på Svalbard | 1947-07-01 |
+| [Lov om yrkesskadetrygd [yrkesskadetrygdloven]](../lover/lov-1958-12-12-10.md) | Yrkesskadetrygdloven | 1960-01-01 |
+| [Midlertidig lov om tillegg til lover av 13. desember 1946 om 1) Krigspensjonerin](../lover/lov-1951-06-29-34.md) | Tilleggslov om krigspensjonering |  |

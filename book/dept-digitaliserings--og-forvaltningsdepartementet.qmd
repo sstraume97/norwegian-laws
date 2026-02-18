@@ -1,0 +1,19 @@
+# Digitaliserings- og forvaltningsdepartementet
+
+*13 lover*
+
+| Lov | Korttittel | Ikrafttredelse |
+|-----|-----------|----------------|
+| [Lov om Digitaliseringsdirektoratets tilgang til taushetsbelagte opplysninger i F](../lover/lov-2023-06-09-29.md) | Lov om Digdirs tilgang til opplysninger i Folkeregisteret | 2023-06-09 |
+| [Lov om Norsk Lysingsblad](../lover/lov-1946-10-11-1.md) | Lov om Norsk Lysingsblad | 1948-01-01 |
+| [Lov om beskyttelse av undersjøiske kabler og rørledninger utenfor sjøterritoriet](../lover/lov-1884-06-14-3.md) | Lov om undersjøiske kabler |  |
+| [Lov om elektronisk kommunikasjon (ekomloven)](../lover/lov-2024-12-13-76.md) | Ekomloven | 2025-01-01 |
+| [Lov om endringer i statsansatteloven (fortrinnsrett og rett til fast ansettelse)](../lover/lov-2025-06-20-43.md) | Endringslov til statsansatteloven | 2026-01-01 |
+| [Lov om gjennomføring av EUs forordning om elektronisk identifikasjon og tillitst](../lover/lov-2018-06-15-44.md) | Lov om elektroniske tillitstjenester | 2018-06-15 |
+| [Lov om informasjonsplikt, karantene og saksforbud for politikere, embetsmenn og ](../lover/lov-2015-06-19-70.md) | Karanteneloven | 2016-01-01 |
+| [Lov om offentlige tjenestetvister [tjenestetvistloven]](../lover/lov-1958-07-18-2.md) | Tjenestetvistloven – tjtvl | 1958-09-05 |
+| [Lov om statens ansatte mv. (statsansatteloven)](../lover/lov-2017-06-16-67.md) | Statsansatteloven | 2017-07-01 |
+| [Lov om statsforetak](../lover/lov-1991-08-30-71.md) | Statsforetaksloven – statsfol | 1992-01-01 |
+| [Lov om statsføretak (statsføretakslova)](../lover/lov-2025-04-10-9.md) | Statsføretakslova | 2026-01-01 |
+| [Lov om tilrettelegging for utbygging av høyhastighetsnett for elektronisk kommun](../lover/lov-2020-05-07-40.md) | Bredbåndsutbyggingsloven | 2020-07-01, 2021-10-01 |
+| [Lov om visse sider av elektronisk handel og andre informasjonssamfunnstjenester ](../lover/lov-2003-05-23-35.md) | Ehandelsloven – e-hl | 2003-07-01 |

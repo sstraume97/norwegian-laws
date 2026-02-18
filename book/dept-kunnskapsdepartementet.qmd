@@ -1,0 +1,21 @@
+# Kunnskapsdepartementet
+
+*15 lover*
+
+| Lov | Korttittel | Ikrafttredelse |
+|-----|-----------|----------------|
+| [Lov om barnehager (barnehageloven)](../lover/lov-2005-06-17-64.md) | Barnehageloven – bhl | 2006-01-01 |
+| [Lov om endringer i barnehageloven (styring og finansiering av barnehagesektoren)](../lover/lov-2025-06-20-100.md) | Endringslov til barnehageloven | 2025-07-01, 2026-08-01 |
+| [Lov om endringer i opplæringslova (rett til 12 timer gratis skolefritidsordning ](../lover/lov-2026-02-13-6.md) | Endringslov til opplæringslova | 2026-08-01 |
+| [Lov om folkehøgskoler (folkehøgskoleloven)](../lover/lov-2025-06-20-99.md) | Folkehøgskoleloven | 2025-08-01, 2026-08-01 |
+| [Lov om godkjenning av yrkeskvalifikasjoner (yrkeskvalifikasjonsloven)](../lover/lov-2017-06-16-69.md) | Yrkeskvalifikasjonsloven | 2018-01-01, 2019-03-01, Kongen bestemmer |
+| [Lov om grunnskoleopplæringa og den vidaregåande opplæringa (opplæringslova)](../lover/lov-2023-06-09-30.md) | Opplæringslova | 2024-08-01 |
+| [Lov om høyere yrkesfaglig utdanning (fagskoleloven)](../lover/lov-2018-06-08-28.md) | Fagskoleloven | 2018-07-01, 2019-01-01 |
+| [Lov om konsortium for europeisk forskingsinfrastruktur (ERIC-lova)](../lover/lov-2015-12-11-99.md) | ERIC-lova | 2016-01-01 |
+| [Lov om kristendomsundervisning ved vidaregåande skole, høgskole og universitet](../lover/lov-1971-12-17-106.md) | Kristendomslærelov for vidaregåande skoler m.v. | 1972-01-01 |
+| [Lov om organisering av forskningsetisk arbeid (forskningsetikkloven)](../lover/lov-2017-04-28-23.md) | Forskningsetikkloven | 2017-05-01 |
+| [Lov om private skolar med rett til statstilskot (privatskolelova)](../lover/lov-2003-07-04-84.md) | Privatskolelova – prskol | 2003-10-01 |
+| [Lov om studentsamskipnader (studentsamskipnadsloven)](../lover/lov-2007-12-14-116.md) | Studentsamskipnadsloven | 2008-08-01 |
+| [Lov om universiteter og høyskoler (universitets- og høyskoleloven)](../lover/lov-2024-03-08-9.md) | Universitets- og høyskoleloven | 2024-08-01 |
+| [Lov om utdanningsstøtte (utdanningsstøtteloven)](../lover/lov-2005-06-03-37.md) | Utdanningsstøtteloven | 2005-07-15, 2006-01-01, 2006-08-15 |
+| [Lov om voksenopplæring (voksenopplæringsloven)](../lover/lov-2009-06-19-95.md) | Voksenopplæringsloven | 2010-01-01, 2010-07-01 |

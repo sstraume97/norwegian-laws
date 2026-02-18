@@ -1,0 +1,7 @@
+# Statsministerens kontor
+
+*1 lover*
+
+| Lov | Korttittel | Ikrafttredelse |
+|-----|-----------|----------------|
+| [Instruks for Regjeringen](../lover/lov-1909-03-23.md) | Regjeringsinstruksen |  |

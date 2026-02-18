@@ -1,0 +1,21 @@
+# Forord {.unnumbered}
+
+Dette er en uoffisiell samling av Norges gjeldende formelle lover,
+generert fra [Lovdata API](https://api.lovdata.no/) sine åpne data
+under [NLOD 2.0](https://data.norge.no/nlod/no/2.0)-lisensen.
+
+Samlingen inneholder **774 lover**
+fordelt på **18 departementer**.
+
+## Bruk
+
+- Bla gjennom lover etter departement i sidemenyen
+- Bruk søkefeltet for å finne spesifikke lover
+- Se [git-historikken](https://github.com/sondreskarsten/norwegian-laws/commits/main)
+  for endringshistorikk per lov
+
+## Ansvarsfraskrivelse
+
+Denne samlingen er **uoffisiell** og oppdateres automatisk fra Lovdatas åpne API.
+For autoritativ lovtekst, se [lovdata.no](https://lovdata.no).
+Innholdet presenteres «som det er» uten garanti for korrekthet eller aktualitet.

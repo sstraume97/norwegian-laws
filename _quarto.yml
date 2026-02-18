@@ -1,0 +1,47 @@
+project:
+  type: book
+  output-dir: _site
+book:
+  title: Norges Lover
+  subtitle: Gjeldende formelle lover
+  author: 'Kilde: Lovdata API (NLOD 2.0)'
+  date: today
+  chapters:
+  - book/index.qmd
+  - part: Lover etter departement
+    chapters:
+    - book/dept-arbeids--og-inkluderingsdepartementet.qmd
+    - book/dept-barne--og-familiedepartementet.qmd
+    - book/dept-digitaliserings--og-forvaltningsdepartementet.qmd
+    - book/dept-energidepartementet.qmd
+    - book/dept-finansdepartementet.qmd
+    - book/dept-forsvarsdepartementet.qmd
+    - book/dept-helse--og-omsorgsdepartementet.qmd
+    - book/dept-justis--og-beredskapsdepartementet.qmd
+    - book/dept-klima--og-miljødepartementet.qmd
+    - book/dept-klima--og-miljødepartementetlandbruks--og-matdepartementet.qmd
+    - book/dept-kommunal--og-distriktsdepartementet.qmd
+    - book/dept-kultur--og-likestillingsdepartementet.qmd
+    - book/dept-kunnskapsdepartementet.qmd
+    - book/dept-landbruks--og-matdepartementet.qmd
+    - book/dept-nærings--og-fiskeridepartementet.qmd
+    - book/dept-samferdselsdepartementet.qmd
+    - book/dept-statsministerens-kontor.qmd
+    - book/dept-utenriksdepartementet.qmd
+  - book/about.qmd
+  search: true
+  repo-url: https://github.com/sondreskarsten/norwegian-laws
+  repo-actions:
+  - source
+  - issue
+format:
+  html:
+    theme: cosmo
+    toc: true
+    toc-depth: 3
+    number-sections: false
+    code-fold: true
+  pdf:
+    documentclass: scrreprt
+    keep-tex: false
+    lang: nb

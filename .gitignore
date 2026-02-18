@@ -1,0 +1,15 @@
+__pycache__/
+*.pyc
+*.egg-info/
+dist/
+build/
+*.db
+*.tar.bz2
+_site/
+.quarto/
+_book/
+_bookdown_files/
+.Rproj.user
+.ipynb_checkpoints/
+nl/
+lti/

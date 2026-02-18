@@ -1,0 +1,20 @@
+# Om dette prosjektet {.unnumbered}
+
+## Datakilde
+
+Lovtekstene er hentet fra [Lovdata API](https://api.lovdata.no/) sine åpne data.
+
+## Lisens
+
+Innholdet er tilgjengelig under
+[Norsk lisens for offentlige data (NLOD) 2.0](https://data.norge.no/nlod/no/2.0).
+
+> Inneholder data under Norsk lisens for offentlige data (NLOD)
+> tilgjengeliggjort av Lovdata.
+
+Kildekoden for dette prosjektet er lisensiert under MIT.
+
+## Kontakt
+
+Kildekode og feilrapportering:
+[github.com/sondreskarsten/norwegian-laws](https://github.com/sondreskarsten/norwegian-laws)
