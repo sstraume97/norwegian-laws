@@ -81,7 +81,7 @@ def generate_quarto_config(repo_root: str, lover_dir: str = "lover"):
             "author": "Kilde: Lovdata API (NLOD 2.0)",
             "date": "today",
             "chapters": [
-                "book/index.qmd",
+                "index.qmd",
                 {"part": "Lover etter departement", "chapters": chapters},
                 "book/about.qmd",
             ],
@@ -125,7 +125,7 @@ def generate_quarto_config(repo_root: str, lover_dir: str = "lover"):
         "For autoritativ lovtekst, se [lovdata.no](https://lovdata.no).",
         "Innholdet presenteres «som det er» uten garanti for korrekthet eller aktualitet.\n",
     ]
-    with open(os.path.join(book_dir, "index.qmd"), "w", encoding="utf-8") as f:
+    with open(os.path.join(repo_root, "index.qmd"), "w", encoding="utf-8") as f:
         f.write("\n".join(index_lines))
 
     about_lines = [

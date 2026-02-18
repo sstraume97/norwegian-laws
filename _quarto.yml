@@ -7,7 +7,7 @@ book:
   author: 'Kilde: Lovdata API (NLOD 2.0)'
   date: today
   chapters:
-  - book/index.qmd
+  - index.qmd
   - part: Lover etter departement
     chapters:
     - book/dept-arbeids--og-inkluderingsdepartementet.qmd
