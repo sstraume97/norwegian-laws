@@ -97,11 +97,6 @@ def generate_quarto_config(repo_root: str, lover_dir: str = "lover"):
                 "number-sections": False,
                 "code-fold": True,
             },
-            "pdf": {
-                "documentclass": "scrreprt",
-                "keep-tex": False,
-                "lang": "nb",
-            },
         },
     }
 
