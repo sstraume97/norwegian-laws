@@ -5,6 +5,28 @@ import yaml
 from pathlib import Path
 from collections import defaultdict
 
+GITHUB_BASE = "https://github.com/sondreskarsten/norwegian-laws"
+
+KNOWN_DEPARTMENTS = [
+    "Arbeids- og inkluderingsdepartementet",
+    "Barne- og familiedepartementet",
+    "Digitaliserings- og forvaltningsdepartementet",
+    "Energidepartementet",
+    "Finansdepartementet",
+    "Forsvarsdepartementet",
+    "Helse- og omsorgsdepartementet",
+    "Justis- og beredskapsdepartementet",
+    "Klima- og miljødepartementet",
+    "Kommunal- og distriktsdepartementet",
+    "Kultur- og likestillingsdepartementet",
+    "Kunnskapsdepartementet",
+    "Landbruks- og matdepartementet",
+    "Nærings- og fiskeridepartementet",
+    "Samferdselsdepartementet",
+    "Statsministerens kontor",
+    "Utenriksdepartementet",
+]
+
 
 def parse_frontmatter(filepath: str) -> dict:
     with open(filepath, encoding="utf-8") as f:
@@ -20,23 +42,31 @@ def parse_frontmatter(filepath: str) -> dict:
     return result
 
 
+def split_departments(dept_str: str) -> list[str]:
+    for known in sorted(KNOWN_DEPARTMENTS, key=len, reverse=True):
+        dept_str = dept_str.replace(known, f"|{known}|")
+    parts = [p.strip() for p in dept_str.split("|") if p.strip()]
+    return parts if parts else [dept_str]
+
+
 def group_laws_by_area(lover_dir: str) -> dict[str, list[dict]]:
     groups = defaultdict(list)
     for f in sorted(Path(lover_dir).glob("*.md")):
         meta = parse_frontmatter(str(f))
         if not meta.get("tittel"):
             continue
-        area = meta.get("departement", "Annet")
-        if not area:
-            area = "Annet"
-        groups[area].append({
+        raw_dept = meta.get("departement", "Annet") or "Annet"
+        depts = split_departments(raw_dept)
+        entry = {
             "file": f.name,
             "path": str(f),
             "tittel": meta.get("tittel", f.stem),
             "korttittel": meta.get("korttittel", ""),
             "refid": meta.get("refid", ""),
             "ikrafttredelse": meta.get("ikrafttredelse", ""),
-        })
+        }
+        for dept in depts:
+            groups[dept].append(entry)
     return dict(sorted(groups.items()))
 
 
@@ -55,14 +85,17 @@ def generate_quarto_config(repo_root: str, lover_dir: str = "lover"):
 
         lines = [f"# {dept}\n"]
         lines.append(f"*{len(laws)} lover*\n")
-        lines.append("| Lov | Korttittel | Ikrafttredelse |")
-        lines.append("|-----|-----------|----------------|")
+        lines.append("| Lov | Korttittel | Ikrafttredelse | Historikk |")
+        lines.append("|-----|-----------|----------------|-----------|")
         for law in sorted(laws, key=lambda x: x["tittel"]):
-            refid = law["refid"].replace("/", "-")
-            link = f"[{law['tittel'][:80]}](../lover/{law['file']})"
+            blob = f"{GITHUB_BASE}/blob/main/lover/{law['file']}"
+            history = f"{GITHUB_BASE}/commits/main/lover/{law['file']}"
+            title = law["tittel"][:80]
+            link = f"[{title}]({blob})"
             kort = law["korttittel"] or ""
             ikraft = law["ikrafttredelse"] or ""
-            lines.append(f"| {link} | {kort} | {ikraft} |")
+            hist_link = f"[git log]({history})"
+            lines.append(f"| {link} | {kort} | {ikraft} | {hist_link} |")
         lines.append("")
 
         with open(dept_path, "w", encoding="utf-8") as f:
@@ -86,7 +119,7 @@ def generate_quarto_config(repo_root: str, lover_dir: str = "lover"):
                 "book/about.qmd",
             ],
             "search": True,
-            "repo-url": "https://github.com/sondreskarsten/norwegian-laws",
+            "repo-url": GITHUB_BASE,
             "repo-actions": ["source", "issue"],
         },
         "format": {
@@ -103,18 +136,19 @@ def generate_quarto_config(repo_root: str, lover_dir: str = "lover"):
     with open(os.path.join(repo_root, "_quarto.yml"), "w", encoding="utf-8") as f:
         yaml.dump(config, f, default_flow_style=False, allow_unicode=True, sort_keys=False)
 
+    total_unique = len({e["file"] for laws in groups.values() for e in laws})
     index_lines = [
         "# Forord {.unnumbered}\n",
         "Dette er en uoffisiell samling av Norges gjeldende formelle lover,",
         "generert fra [Lovdata API](https://api.lovdata.no/) sine åpne data",
         "under [NLOD 2.0](https://data.norge.no/nlod/no/2.0)-lisensen.\n",
-        f"Samlingen inneholder **{sum(len(v) for v in groups.values())} lover**",
+        f"Samlingen inneholder **{total_unique} lover**",
         f"fordelt på **{len(groups)} departementer**.\n",
         "## Bruk\n",
         "- Bla gjennom lover etter departement i sidemenyen",
-        "- Bruk søkefeltet for å finne spesifikke lover",
-        "- Se [git-historikken](https://github.com/sondreskarsten/norwegian-laws/commits/main)",
-        "  for endringshistorikk per lov\n",
+        "- Klikk en lov for å lese lovteksten på GitHub",
+        "- Klikk «git log» for å se endringshistorikk for den loven",
+        "- Bruk søkefeltet for å finne spesifikke lover\n",
         "## Ansvarsfraskrivelse\n",
         "Denne samlingen er **uoffisiell** og oppdateres automatisk fra Lovdatas åpne API.",
         "For autoritativ lovtekst, se [lovdata.no](https://lovdata.no).",
@@ -135,13 +169,12 @@ def generate_quarto_config(repo_root: str, lover_dir: str = "lover"):
         "Kildekoden for dette prosjektet er lisensiert under MIT.\n",
         "## Kontakt\n",
         "Kildekode og feilrapportering:",
-        "[github.com/sondreskarsten/norwegian-laws](https://github.com/sondreskarsten/norwegian-laws)\n",
+        f"[github.com/sondreskarsten/norwegian-laws]({GITHUB_BASE})\n",
     ]
     with open(os.path.join(book_dir, "about.qmd"), "w", encoding="utf-8") as f:
         f.write("\n".join(about_lines))
 
-    total = sum(len(v) for v in groups.values())
-    print(f"  Generated Quarto config: {total} laws in {len(groups)} departments")
+    print(f"  Generated Quarto config: {total_unique} laws in {len(groups)} departments")
     return config
 
 

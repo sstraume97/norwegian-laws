@@ -2,6 +2,6 @@
 
 *1 lover*
 
-| Lov | Korttittel | Ikrafttredelse |
-|-----|-----------|----------------|
-| [Instruks for Regjeringen](../lover/lov-1909-03-23.md) | Regjeringsinstruksen |  |
+| Lov | Korttittel | Ikrafttredelse | Historikk |
+|-----|-----------|----------------|-----------|
+| [Instruks for Regjeringen](https://github.com/sondreskarsten/norwegian-laws/blob/main/lover/lov-1909-03-23.md) | Regjeringsinstruksen |  | [git log](https://github.com/sondreskarsten/norwegian-laws/commits/main/lover/lov-1909-03-23.md) |

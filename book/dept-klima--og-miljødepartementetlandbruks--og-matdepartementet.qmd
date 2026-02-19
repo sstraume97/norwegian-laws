@@ -1,7 +1,0 @@
-# Klima- og miljødepartementetLandbruks- og matdepartementet
-
-*1 lover*
-
-| Lov | Korttittel | Ikrafttredelse |
-|-----|-----------|----------------|
-| [Lov om jakt og fangst av vilt (viltloven)](../lover/lov-1981-05-29-38.md) | Viltloven – viltl | 1982-04-02 |
