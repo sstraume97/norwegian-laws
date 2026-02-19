@@ -6,6 +6,7 @@ from pathlib import Path
 from collections import defaultdict
 
 GITHUB_BASE = "https://github.com/sondreskarsten/norwegian-laws"
+HISTORY_BRANCH = "law-history"
 
 KNOWN_DEPARTMENTS = [
     "Arbeids- og inkluderingsdepartementet",
@@ -89,7 +90,7 @@ def generate_quarto_config(repo_root: str, lover_dir: str = "lover"):
         lines.append("|-----|-----------|----------------|-----------|")
         for law in sorted(laws, key=lambda x: x["tittel"]):
             blob = f"{GITHUB_BASE}/blob/main/lover/{law['file']}"
-            history = f"{GITHUB_BASE}/commits/main/lover/{law['file']}"
+            history = f"{GITHUB_BASE}/commits/{HISTORY_BRANCH}/lover/{law['file']}"
             title = law["tittel"][:80]
             link = f"[{title}]({blob})"
             kort = law["korttittel"] or ""
@@ -148,6 +149,8 @@ def generate_quarto_config(repo_root: str, lover_dir: str = "lover"):
         "- Bla gjennom lover etter departement i sidemenyen",
         "- Klikk en lov for å lese lovteksten på GitHub",
         "- Klikk «git log» for å se endringshistorikk for den loven",
+        f"- Se [`law-history`-grenen]({GITHUB_BASE}/tree/{HISTORY_BRANCH})",
+        "  for komplett git-historikk med backdaterte endringer",
         "- Bruk søkefeltet for å finne spesifikke lover\n",
         "## Ansvarsfraskrivelse\n",
         "Denne samlingen er **uoffisiell** og oppdateres automatisk fra Lovdatas åpne API.",
