@@ -11,7 +11,8 @@ fordelt på **17 departementer**.
 
 - Bla gjennom lover etter departement i sidemenyen
 - Klikk en lov for å lese lovteksten på GitHub
-- Klikk «git log» for å se endringshistorikk for den loven
+- Klikk «log» for å se endringshistorikk, eller velg en årsversjon (v2024, v2025, ...)
+- Se [Stabile versjoner](book/versjoner.qmd) for å sammenligne lover mellom år
 - Se [`law-history`-grenen](https://github.com/sondreskarsten/norwegian-laws/tree/law-history)
   for komplett git-historikk med backdaterte endringer
 - Bruk søkefeltet for å finne spesifikke lover

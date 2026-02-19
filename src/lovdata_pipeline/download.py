@@ -33,7 +33,7 @@ def download_archives(output_dir: str = ".") -> dict[str, str]:
     result["gjeldende"] = gjeldende_path
 
     lovtidend = []
-    for key in ["lovtidend_current"]:
+    for key in ["lovtidend_historical", "lovtidend_current"]:
         path = os.path.join(output_dir, ARCHIVES[key])
         download_file(f"{BASE_URL}/{ARCHIVES[key]}", path)
         lovtidend.append(path)

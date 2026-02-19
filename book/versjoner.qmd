@@ -1,0 +1,52 @@
+# Stabile versjoner {.unnumbered}
+
+Hver årsversjon (`v{årstall}`) er et øyeblikksbilde av alle norske lover
+slik de var ved utgangen av det året, basert på [`law-history`-grenen](https://github.com/sondreskarsten/norwegian-laws/tree/law-history).
+
+## Årlige versjoner
+
+| Versjon | Bla gjennom | Endringer fra forrige |
+|---------|-------------|----------------------|
+| `v2001` | [v2001](https://github.com/sondreskarsten/norwegian-laws/tree/v2001/lover) | — |
+| `v2002` | [v2002](https://github.com/sondreskarsten/norwegian-laws/tree/v2002/lover) | [v2001...v2002](https://github.com/sondreskarsten/norwegian-laws/compare/v2001...v2002) |
+| `v2003` | [v2003](https://github.com/sondreskarsten/norwegian-laws/tree/v2003/lover) | [v2002...v2003](https://github.com/sondreskarsten/norwegian-laws/compare/v2002...v2003) |
+| `v2004` | [v2004](https://github.com/sondreskarsten/norwegian-laws/tree/v2004/lover) | [v2003...v2004](https://github.com/sondreskarsten/norwegian-laws/compare/v2003...v2004) |
+| `v2005` | [v2005](https://github.com/sondreskarsten/norwegian-laws/tree/v2005/lover) | [v2004...v2005](https://github.com/sondreskarsten/norwegian-laws/compare/v2004...v2005) |
+| `v2006` | [v2006](https://github.com/sondreskarsten/norwegian-laws/tree/v2006/lover) | [v2005...v2006](https://github.com/sondreskarsten/norwegian-laws/compare/v2005...v2006) |
+| `v2007` | [v2007](https://github.com/sondreskarsten/norwegian-laws/tree/v2007/lover) | [v2006...v2007](https://github.com/sondreskarsten/norwegian-laws/compare/v2006...v2007) |
+| `v2008` | [v2008](https://github.com/sondreskarsten/norwegian-laws/tree/v2008/lover) | [v2007...v2008](https://github.com/sondreskarsten/norwegian-laws/compare/v2007...v2008) |
+| `v2009` | [v2009](https://github.com/sondreskarsten/norwegian-laws/tree/v2009/lover) | [v2008...v2009](https://github.com/sondreskarsten/norwegian-laws/compare/v2008...v2009) |
+| `v2010` | [v2010](https://github.com/sondreskarsten/norwegian-laws/tree/v2010/lover) | [v2009...v2010](https://github.com/sondreskarsten/norwegian-laws/compare/v2009...v2010) |
+| `v2011` | [v2011](https://github.com/sondreskarsten/norwegian-laws/tree/v2011/lover) | [v2010...v2011](https://github.com/sondreskarsten/norwegian-laws/compare/v2010...v2011) |
+| `v2012` | [v2012](https://github.com/sondreskarsten/norwegian-laws/tree/v2012/lover) | [v2011...v2012](https://github.com/sondreskarsten/norwegian-laws/compare/v2011...v2012) |
+| `v2013` | [v2013](https://github.com/sondreskarsten/norwegian-laws/tree/v2013/lover) | [v2012...v2013](https://github.com/sondreskarsten/norwegian-laws/compare/v2012...v2013) |
+| `v2014` | [v2014](https://github.com/sondreskarsten/norwegian-laws/tree/v2014/lover) | [v2013...v2014](https://github.com/sondreskarsten/norwegian-laws/compare/v2013...v2014) |
+| `v2015` | [v2015](https://github.com/sondreskarsten/norwegian-laws/tree/v2015/lover) | [v2014...v2015](https://github.com/sondreskarsten/norwegian-laws/compare/v2014...v2015) |
+| `v2016` | [v2016](https://github.com/sondreskarsten/norwegian-laws/tree/v2016/lover) | [v2015...v2016](https://github.com/sondreskarsten/norwegian-laws/compare/v2015...v2016) |
+| `v2017` | [v2017](https://github.com/sondreskarsten/norwegian-laws/tree/v2017/lover) | [v2016...v2017](https://github.com/sondreskarsten/norwegian-laws/compare/v2016...v2017) |
+| `v2018` | [v2018](https://github.com/sondreskarsten/norwegian-laws/tree/v2018/lover) | [v2017...v2018](https://github.com/sondreskarsten/norwegian-laws/compare/v2017...v2018) |
+| `v2019` | [v2019](https://github.com/sondreskarsten/norwegian-laws/tree/v2019/lover) | [v2018...v2019](https://github.com/sondreskarsten/norwegian-laws/compare/v2018...v2019) |
+| `v2020` | [v2020](https://github.com/sondreskarsten/norwegian-laws/tree/v2020/lover) | [v2019...v2020](https://github.com/sondreskarsten/norwegian-laws/compare/v2019...v2020) |
+| `v2021` | [v2021](https://github.com/sondreskarsten/norwegian-laws/tree/v2021/lover) | [v2020...v2021](https://github.com/sondreskarsten/norwegian-laws/compare/v2020...v2021) |
+| `v2022` | [v2022](https://github.com/sondreskarsten/norwegian-laws/tree/v2022/lover) | [v2021...v2022](https://github.com/sondreskarsten/norwegian-laws/compare/v2021...v2022) |
+| `v2023` | [v2023](https://github.com/sondreskarsten/norwegian-laws/tree/v2023/lover) | [v2022...v2023](https://github.com/sondreskarsten/norwegian-laws/compare/v2022...v2023) |
+| `v2024` | [v2024](https://github.com/sondreskarsten/norwegian-laws/tree/v2024/lover) | [v2023...v2024](https://github.com/sondreskarsten/norwegian-laws/compare/v2023...v2024) |
+| `v2025` | [v2025](https://github.com/sondreskarsten/norwegian-laws/tree/v2025/lover) | [v2024...v2025](https://github.com/sondreskarsten/norwegian-laws/compare/v2024...v2025) |
+| `v2026` | [v2026](https://github.com/sondreskarsten/norwegian-laws/tree/v2026/lover) | [v2025...v2026](https://github.com/sondreskarsten/norwegian-laws/compare/v2025...v2026) |
+
+## Bruk med git
+
+```bash
+# Klon historikk-grenen
+git clone -b law-history https://github.com/sondreskarsten/norwegian-laws.git
+cd norwegian-laws
+
+# Se en lov slik den var i 2020
+git show v2020:lover/lov-1998-07-17-56.md
+
+# Sammenlign to versjoner
+git diff v2020 v2024 -- lover/lov-1998-07-17-56.md
+
+# Se alle endringer mellom to år
+git diff --stat v2023 v2024
+```

@@ -71,12 +71,16 @@ def group_laws_by_area(lover_dir: str) -> dict[str, list[dict]]:
     return dict(sorted(groups.items()))
 
 
-def generate_quarto_config(repo_root: str, lover_dir: str = "lover"):
+def generate_quarto_config(repo_root: str, lover_dir: str = "lover", version_tags: list[str] = None):
     full_lover = os.path.join(repo_root, lover_dir)
     book_dir = os.path.join(repo_root, "book")
     os.makedirs(book_dir, exist_ok=True)
 
     groups = group_laws_by_area(full_lover)
+
+    if version_tags is None:
+        version_tags = [f"v{y}" for y in range(2001, 2027)]
+    recent_tags = version_tags[-3:]
 
     chapters = []
     for dept, laws in groups.items():
@@ -86,23 +90,65 @@ def generate_quarto_config(repo_root: str, lover_dir: str = "lover"):
 
         lines = [f"# {dept}\n"]
         lines.append(f"*{len(laws)} lover*\n")
-        lines.append("| Lov | Korttittel | Ikrafttredelse | Historikk |")
-        lines.append("|-----|-----------|----------------|-----------|")
+        lines.append("| Lov | Korttittel | Lovdata | Historikk |")
+        lines.append("|-----|-----------|---------|-----------|")
         for law in sorted(laws, key=lambda x: x["tittel"]):
             blob = f"{GITHUB_BASE}/blob/main/lover/{law['file']}"
             history = f"{GITHUB_BASE}/commits/{HISTORY_BRANCH}/lover/{law['file']}"
+            lovdata_url = f"https://lovdata.no/dokument/NL/{law['refid']}"
             title = law["tittel"][:80]
             link = f"[{title}]({blob})"
             kort = law["korttittel"] or ""
-            ikraft = law["ikrafttredelse"] or ""
-            hist_link = f"[git log]({history})"
-            lines.append(f"| {link} | {kort} | {ikraft} | {hist_link} |")
+            lovdata_link = f"[lovdata.no]({lovdata_url})"
+            version_links = " · ".join(
+                f"[{t}]({GITHUB_BASE}/blob/{t}/lover/{law['file']})"
+                for t in recent_tags
+            )
+            hist_cell = f"[log]({history}) · {version_links}"
+            lines.append(f"| {link} | {kort} | {lovdata_link} | {hist_cell} |")
         lines.append("")
 
         with open(dept_path, "w", encoding="utf-8") as f:
             f.write("\n".join(lines))
 
         chapters.append(f"book/{dept_file}")
+
+    # ─── Versions page ────────────────────────────────────────────────────
+    ver_lines = [
+        "# Stabile versjoner {.unnumbered}\n",
+        "Hver årsversjon (`v{årstall}`) er et øyeblikksbilde av alle norske lover",
+        f"slik de var ved utgangen av det året, basert på [`{HISTORY_BRANCH}`-grenen]({GITHUB_BASE}/tree/{HISTORY_BRANCH}).\n",
+        "## Årlige versjoner\n",
+        "| Versjon | Bla gjennom | Endringer fra forrige |",
+        "|---------|-------------|----------------------|",
+    ]
+    for i, tag in enumerate(version_tags):
+        browse = f"[{tag}]({GITHUB_BASE}/tree/{tag}/lover)"
+        if i > 0:
+            prev = version_tags[i - 1]
+            diff = f"[{prev}...{tag}]({GITHUB_BASE}/compare/{prev}...{tag})"
+        else:
+            diff = "—"
+        ver_lines.append(f"| `{tag}` | {browse} | {diff} |")
+    ver_lines.append("")
+    ver_lines.append("## Bruk med git\n")
+    ver_lines.append("```bash")
+    ver_lines.append(f"# Klon historikk-grenen")
+    ver_lines.append(f"git clone -b {HISTORY_BRANCH} {GITHUB_BASE}.git")
+    ver_lines.append(f"cd norwegian-laws")
+    ver_lines.append("")
+    ver_lines.append("# Se en lov slik den var i 2020")
+    ver_lines.append("git show v2020:lover/lov-1998-07-17-56.md")
+    ver_lines.append("")
+    ver_lines.append("# Sammenlign to versjoner")
+    ver_lines.append("git diff v2020 v2024 -- lover/lov-1998-07-17-56.md")
+    ver_lines.append("")
+    ver_lines.append("# Se alle endringer mellom to år")
+    ver_lines.append("git diff --stat v2023 v2024")
+    ver_lines.append("```\n")
+
+    with open(os.path.join(book_dir, "versjoner.qmd"), "w", encoding="utf-8") as f:
+        f.write("\n".join(ver_lines))
 
     config = {
         "project": {
@@ -117,6 +163,7 @@ def generate_quarto_config(repo_root: str, lover_dir: str = "lover"):
             "chapters": [
                 "index.qmd",
                 {"part": "Lover etter departement", "chapters": chapters},
+                "book/versjoner.qmd",
                 "book/about.qmd",
             ],
             "search": True,
@@ -130,6 +177,7 @@ def generate_quarto_config(repo_root: str, lover_dir: str = "lover"):
                 "toc-depth": 3,
                 "number-sections": False,
                 "code-fold": True,
+                "lang": "nb",
             },
         },
     }
@@ -148,8 +196,9 @@ def generate_quarto_config(repo_root: str, lover_dir: str = "lover"):
         "## Bruk\n",
         "- Bla gjennom lover etter departement i sidemenyen",
         "- Klikk en lov for å lese lovteksten på GitHub",
-        "- Klikk «git log» for å se endringshistorikk for den loven",
-        f"- Se [`law-history`-grenen]({GITHUB_BASE}/tree/{HISTORY_BRANCH})",
+        "- Klikk «log» for å se endringshistorikk, eller velg en årsversjon (v2024, v2025, ...)",
+        "- Se [Stabile versjoner](book/versjoner.qmd) for å sammenligne lover mellom år",
+        f"- Se [`{HISTORY_BRANCH}`-grenen]({GITHUB_BASE}/tree/{HISTORY_BRANCH})",
         "  for komplett git-historikk med backdaterte endringer",
         "- Bruk søkefeltet for å finne spesifikke lover\n",
         "## Ansvarsfraskrivelse\n",

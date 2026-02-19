@@ -34,6 +34,7 @@ class LawMetadata:
     ministry: str
     date_in_force: str
     last_amended: str
+    last_amended_in_force: str
     legal_area: str
 
 @dataclass
@@ -81,15 +82,39 @@ def extract_header_list(header: Tag, css_class: str) -> list[str]:
     return [dd.get_text(strip=True)]
 
 
+def extract_last_changed_by(header: Tag) -> tuple[str, str]:
+    for css_class in ["lastChangedBy", "sistEndret", "lastAmended"]:
+        dd = header.find("dd", class_=css_class)
+        if not dd:
+            continue
+        anchor = dd.find("a")
+        if anchor:
+            refid = anchor.get_text(strip=True)
+            rest = ""
+            for sibling in anchor.next_siblings:
+                t = str(sibling).strip()
+                if t:
+                    rest += t
+            in_force = ""
+            m = re.search(r"fra\s*(\d{4}-\d{2}-\d{2})", rest)
+            if m:
+                in_force = m.group(1)
+            return refid, in_force
+        return dd.get_text(strip=True), ""
+    return "", ""
+
+
 def parse_law_metadata(soup: BeautifulSoup) -> LawMetadata:
     header = soup.find("header")
+    last_amended, last_amended_in_force = extract_last_changed_by(header)
     return LawMetadata(
         refid=extract_header_field(header, "refid"),
         title=extract_header_field(header, "title"),
         short_title=extract_header_field(header, "titleShort"),
         ministry=extract_header_field(header, "ministry"),
         date_in_force=extract_header_field(header, "dateInForce"),
-        last_amended=extract_header_field(header, "lastChangedBy") or extract_header_field(header, "sistEndret") or extract_header_field(header, "lastAmended"),
+        last_amended=last_amended,
+        last_amended_in_force=last_amended_in_force,
         legal_area=extract_header_field(header, "legalArea"),
     )
 
@@ -171,6 +196,8 @@ def law_to_markdown(soup: BeautifulSoup) -> str:
     lines.append(f"ikrafttredelse: \"{meta.date_in_force}\"")
     if meta.last_amended:
         lines.append(f"sist-endret: \"{meta.last_amended}\"")
+    if meta.last_amended_in_force:
+        lines.append(f"sist-endret-ikrafttredelse: \"{meta.last_amended_in_force}\"")
     lines.append("---")
     lines.append("")
     lines.append(f"# {meta.title}")
@@ -540,6 +567,33 @@ class FastImportStream:
         if proc.returncode != 0:
             raise RuntimeError(f"git fast-import failed: {proc.stderr.decode()}")
         subprocess.run(["git", "checkout", "main"], cwd=self.repo_path, capture_output=True)
+
+
+# ─── Yearly Tags ─────────────────────────────────────────────────────────────
+
+def create_yearly_tags(repo_path: str) -> dict[str, str]:
+    log = subprocess.run(
+        ["git", "log", "--format=%H %aI", "--reverse"],
+        cwd=repo_path, capture_output=True, text=True,
+    )
+    year_commits = {}
+    for line in log.stdout.strip().split("\n"):
+        if not line.strip():
+            continue
+        sha, date = line.split(" ", 1)
+        year = date[:4]
+        year_commits[year] = sha
+
+    tags = {}
+    for year in sorted(year_commits):
+        tag_name = f"v{year}"
+        subprocess.run(
+            ["git", "tag", "-f", tag_name, year_commits[year]],
+            cwd=repo_path, capture_output=True,
+        )
+        tags[tag_name] = year_commits[year]
+
+    return tags
 
 
 # ─── Full Pipeline ───────────────────────────────────────────────────────────

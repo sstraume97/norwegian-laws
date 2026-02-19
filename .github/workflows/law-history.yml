@@ -23,6 +23,12 @@ jobs:
       - name: Install pipeline
         run: pip install -e .
 
+      - name: Cache historical Lovtidend archive
+        uses: actions/cache@v4
+        with:
+          path: /tmp/law-build/lovtidend-avd1-2001-2025.tar.bz2
+          key: lovtidend-historical-2001-2025
+
       - name: Download archives
         run: |
           lovdata-pipeline --download --output /tmp/law-build --db /tmp/amendments.db --parse-only
@@ -73,6 +79,7 @@ jobs:
           conn.commit()
 
           # Build fast-import stream
+          act_by_refid = {a.refid: a for a in all_acts}
           stream = FastImportStream(repo)
           today = datetime.now().strftime('%Y-%m-%d')
           stream.add_initial_commit(
@@ -86,7 +93,7 @@ jobs:
           ''').fetchall()
 
           for refid, eff_date, pub_date in rows:
-              act = next((a for a in all_acts if a.refid == refid), None)
+              act = act_by_refid.get(refid)
               if not act:
                   continue
               affected = {}
@@ -98,21 +105,28 @@ jobs:
                           content = re.sub(r'sist-endret: \".*?\"', f'sist-endret: \"{act.refid}\"', content, count=1)
                       else:
                           content = content.replace('\n---\n\n', f'\nsist-endret: \"{act.refid}\"\n---\n\n', 1)
+                      if 'sist-endret-ikrafttredelse:' in content:
+                          content = re.sub(r'sist-endret-ikrafttredelse: \".*?\"', f'sist-endret-ikrafttredelse: \"{eff_date}\"', content, count=1)
                       affected[filepath] = content
                       all_files[filepath] = content
                   else:
-                      affected[filepath] = f'---\nrefid: \"{law_refid}\"\n---\n\n# {law_refid}\n\n(Lov ikke i gjeldende-lover arkiv)\n'
+                      affected[filepath] = f'---\nrefid: \"{law_refid}\"\nsist-endret: \"{act.refid}\"\n---\n\n# {law_refid}\n\n(Lov ikke i gjeldende-lover arkiv)\n'
               if affected:
                   stream.add_amendment_commit(act, affected)
 
           print(f'Generated {stream.mark_counter} commits')
           stream.execute()
           conn.close()
+
+          from lovdata_pipeline.pipeline import create_yearly_tags
+          tags = create_yearly_tags(repo)
+          print(f'Created {len(tags)} yearly tags: {min(tags)}..{max(tags)}')
           "
 
-      - name: Push law-history branch
+      - name: Push law-history branch and tags
         run: |
           cd /tmp/law-repo
           git branch -m main law-history
           git remote add origin https://x-access-token:${{ secrets.GITHUB_TOKEN }}@github.com/${{ github.repository }}.git
           git push -f origin law-history
+          git push -f origin --tags
