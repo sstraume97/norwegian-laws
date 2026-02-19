@@ -1,0 +1,26 @@
+[build-system]
+requires = ["hatchling"]
+build-backend = "hatchling.build"
+
+[project]
+name = "lovdata-loader"
+version = "0.1.0"
+description = "Download and parse Norwegian law XML from the Lovdata public API into structured snapshots"
+requires-python = ">=3.11"
+license = {text = "MIT"}
+dependencies = [
+    "beautifulsoup4>=4.12",
+    "lxml>=5.0",
+]
+
+[project.optional-dependencies]
+test = ["pytest>=8.0"]
+
+[project.scripts]
+lovdata-load = "lovdata_loader.cli:main"
+
+[tool.hatch.build.targets.wheel]
+packages = ["src/lovdata_loader"]
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]
