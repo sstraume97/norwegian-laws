@@ -40,14 +40,14 @@ jobs:
         run: lovdata-pipeline --download --output . --db amendments.db --parse-only
 
       - name: Generate Quarto chapters
-        run: python -m lovdata_pipeline.quarto .
+        run: python -m lovdata_pipeline.quarto . amendments.db
 
       - name: Commit law updates
         id: commit
         run: |
           git config user.name "Lovtidend"
           git config user.email "lovtidend@lovdata.no"
-          git add lover/ book/ _quarto.yml index.qmd
+          git add lover/ book/ _quarto.yml index.qmd laws.json
           if git diff --staged --quiet; then
             echo "No changes to laws"
             echo "changed=false" >> $GITHUB_OUTPUT
@@ -66,10 +66,23 @@ jobs:
         with:
           ref: main
 
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+
+      - name: Install pipeline
+        run: pip install -e .
+
       - uses: quarto-dev/quarto-actions/setup@v2
 
       - name: Render book
         run: quarto render
+
+      - name: Copy laws.json to site
+        run: cp laws.json _site/laws.json
+
+      - name: Merge law metadata into search index
+        run: python -m lovdata_pipeline.search_index _site laws.json
 
       - name: Deploy to GitHub Pages
         uses: JamesIves/github-pages-deploy-action@v4

@@ -569,6 +569,38 @@ class FastImportStream:
         subprocess.run(["git", "checkout", "main"], cwd=self.repo_path, capture_output=True)
 
 
+# ─── Tag README ──────────────────────────────────────────────────────────────
+
+def generate_tag_readme(law_files: dict[str, str], all_files: dict[str, str]) -> str:
+    from collections import defaultdict
+    groups = defaultdict(list)
+    for refid, filepath in law_files.items():
+        content = all_files.get(filepath, "")
+        m = re.match(r"^---\n(.*?)\n---", content, re.DOTALL)
+        meta = {}
+        if m:
+            for line in m.group(1).splitlines():
+                k, _, v = line.partition(":")
+                if v:
+                    meta[k.strip()] = v.strip().strip('"')
+        dept = meta.get("departement", "Annet") or "Annet"
+        kort = meta.get("korttittel", "")
+        filename = filepath.split("/")[-1] if "/" in filepath else filepath
+        groups[dept].append((meta.get("tittel", refid), kort, filename))
+
+    lines = [f"# Norges lover ({len(law_files)} lover)\n"]
+    lines.append("Denne filen er auto-generert for å gjøre tag-visningen lesbar på GitHub.\n")
+    for dept in sorted(groups.keys()):
+        laws = sorted(groups[dept], key=lambda x: x[0])
+        lines.append(f"## {dept} ({len(laws)})\n")
+        lines.append("| Lov | Korttittel |")
+        lines.append("|-----|-----------|")
+        for tittel, kort, filename in laws:
+            lines.append(f"| [{filename}]({filename}) | {kort} |")
+        lines.append("")
+    return "\n".join(lines)
+
+
 # ─── Yearly Tags ─────────────────────────────────────────────────────────────
 
 def create_yearly_tags(repo_path: str) -> dict[str, str]:
@@ -621,6 +653,10 @@ def run_pipeline(
     for refid, filepath in law_files.items():
         full_path = repo_path / filepath
         all_files[filepath] = full_path.read_text(encoding="utf-8")
+
+    readme_md = generate_tag_readme(law_files, all_files)
+    all_files["lover/README.md"] = readme_md
+    (repo_path / "lover" / "README.md").write_text(readme_md, encoding="utf-8")
 
     # Step 2: Parse lovtidend amendments
     print()
