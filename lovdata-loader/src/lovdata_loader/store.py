@@ -56,6 +56,11 @@ def store_amendment_act(conn: sqlite3.Connection, act: AmendmentActData):
     )
     pub_date = parse_publication_date(act.date_published)
 
+    # Delete existing amendment rows first to avoid duplicates on re-run.
+    # INSERT OR REPLACE on the parent table replaces the act row, but
+    # child rows in amendments would otherwise accumulate.
+    conn.execute("DELETE FROM amendments WHERE act_refid = ?", (act.refid,))
+
     conn.execute(
         """
         INSERT OR REPLACE INTO amendment_acts
@@ -116,6 +121,12 @@ def write_snapshot(
     root = Path(output_dir)
     laws_dir = root / "laws"
     laws_dir.mkdir(parents=True, exist_ok=True)
+
+    # Purge stale law JSON files so the snapshot is a true point-in-time
+    # picture. Without this, laws removed from source data would linger
+    # and the publisher would still export them.
+    for stale in laws_dir.glob("*.json"):
+        stale.unlink()
 
     # Write law JSON files
     for law in laws:

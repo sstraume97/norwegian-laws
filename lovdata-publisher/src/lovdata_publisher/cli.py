@@ -54,7 +54,9 @@ def main():
         if os.path.exists(candidate):
             db_path = candidate
 
-    if args.format_only or (not args.build_history and not args.quarto):
+    # Always format laws when producing any output that depends on lover/*.md.
+    # --quarto and default (no flags) both need formatted Markdown to exist.
+    if not args.build_history or args.format_only or args.quarto:
         print("=" * 60)
         print("Formatting laws to Markdown")
         print("=" * 60)
