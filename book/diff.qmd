@@ -1,0 +1,119 @@
+---
+title: "Sammenlign lovversjon"
+search: false
+---
+
+Velg en lov og to årsversjoner for å se endringer på GitHub.
+
+<div style="display:flex;flex-direction:column;gap:12px;max-width:600px;margin:16px 0;">
+<label for="diff-law" style="font-weight:600;">Velg lov:</label>
+<input type="text" id="diff-law-search" placeholder="Søk etter lov..."
+  style="padding:8px;border:1px solid #ccc;border-radius:4px;">
+<select id="diff-law" size="6" style="padding:4px;border:1px solid #ccc;border-radius:4px;"></select>
+
+<div style="display:flex;gap:16px;">
+<div style="flex:1;">
+<label for="diff-from" style="font-weight:600;">Fra versjon:</label>
+<select id="diff-from" style="width:100%;padding:6px;border:1px solid #ccc;border-radius:4px;"></select>
+</div>
+<div style="flex:1;">
+<label for="diff-to" style="font-weight:600;">Til versjon:</label>
+<select id="diff-to" style="width:100%;padding:6px;border:1px solid #ccc;border-radius:4px;"></select>
+</div>
+</div>
+
+<div style="display:flex;gap:12px;">
+<button id="diff-compare" style="padding:8px 20px;background:#0969da;color:#fff;border:none;border-radius:4px;cursor:pointer;">Sammenlign (full diff)</button>
+<button id="diff-log" style="padding:8px 20px;background:#24292f;color:#fff;border:none;border-radius:4px;cursor:pointer;">Se endringslogg</button>
+</div>
+<div id="diff-info" style="color:#666;font-size:0.9em;"></div>
+</div>
+
+```{=html}
+<script src="https://cdn.jsdelivr.net/npm/fuse.js@7.0.0/dist/fuse.min.js"></script>
+<script>
+document.addEventListener("DOMContentLoaded", function() {
+  var lawSearch = document.getElementById("diff-law-search");
+  var lawSelect = document.getElementById("diff-law");
+  var fromSelect = document.getElementById("diff-from");
+  var toSelect = document.getElementById("diff-to");
+  var compareBtn = document.getElementById("diff-compare");
+  var logBtn = document.getElementById("diff-log");
+  var infoDiv = document.getElementById("diff-info");
+  var base = "https://github.com/sondreskarsten/norwegian-laws";
+  var laws = [];
+  var fuse = null;
+
+  function populateTags(sel, tags) {
+    sel.innerHTML = "";
+    tags.forEach(function(t) {
+      var o = document.createElement("option");
+      o.value = t; o.textContent = t;
+      sel.appendChild(o);
+    });
+  }
+
+  function populateLaws(list) {
+    lawSelect.innerHTML = "";
+    list.forEach(function(law) {
+      var o = document.createElement("option");
+      o.value = law.file;
+      o.textContent = (law.korttittel || law.tittel).substring(0,80);
+      o.dataset.tags = JSON.stringify(law.tags);
+      lawSelect.appendChild(o);
+    });
+    if (list.length > 0) {
+      lawSelect.selectedIndex = 0;
+      onLawSelect();
+    }
+  }
+
+  function onLawSelect() {
+    var opt = lawSelect.options[lawSelect.selectedIndex];
+    if (!opt) return;
+    var tags = JSON.parse(opt.dataset.tags || "[]");
+    populateTags(fromSelect, tags);
+    populateTags(toSelect, tags);
+    if (tags.length >= 2) {
+      fromSelect.selectedIndex = Math.max(0, tags.length - 2);
+      toSelect.selectedIndex = tags.length - 1;
+    }
+  }
+
+  fetch("../laws.json").then(function(r){return r.json()}).then(function(data) {
+    laws = data;
+    fuse = new Fuse(laws, {
+      keys: ["tittel","korttittel","refid"],
+      threshold: 0.35
+    });
+    populateLaws(laws);
+  });
+
+  lawSelect.addEventListener("change", onLawSelect);
+
+  lawSearch.addEventListener("input", function() {
+    var q = lawSearch.value.trim();
+    if (!fuse || q.length < 2) { populateLaws(laws); return; }
+    var hits = fuse.search(q, {limit:30}).map(function(r){return r.item;});
+    populateLaws(hits);
+  });
+
+  compareBtn.addEventListener("click", function() {
+    var file = lawSelect.value;
+    var from = fromSelect.value;
+    var to = toSelect.value;
+    if (!file || !from || !to) { infoDiv.textContent = "Velg lov og versjoner."; return; }
+    if (from >= to) { infoDiv.textContent = "Fra-versjon må være eldre enn til-versjon."; return; }
+    window.open(base + "/compare/" + from + "..." + to, "_blank");
+    infoDiv.textContent = "Åpner diff for " + from + "…" + to + ". Finn " + file + " i fillisten.";
+  });
+
+  logBtn.addEventListener("click", function() {
+    var file = lawSelect.value;
+    if (!file) { infoDiv.textContent = "Velg en lov."; return; }
+    window.open(base + "/commits/law-history/lover/" + file, "_blank");
+    infoDiv.textContent = "";
+  });
+});
+</script>
+```

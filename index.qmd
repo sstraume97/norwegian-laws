@@ -7,15 +7,19 @@ under [NLOD 2.0](https://data.norge.no/nlod/no/2.0)-lisensen.
 Samlingen inneholder **774 lover**
 fordelt på **17 departementer**.
 
-## Bruk
+## Les lover
 
+- [Søk etter lov](book/sok.qmd) — finn lover etter tittel, korttittel eller lovnummer
 - Bla gjennom lover etter departement i sidemenyen
 - Klikk en lov for å lese lovteksten på GitHub
-- Klikk «log» for å se endringshistorikk, eller velg en årsversjon (v2024, v2025, ...)
-- Se [Stabile versjoner](book/versjoner.qmd) for å sammenligne lover mellom år
-- Se [`law-history`-grenen](https://github.com/sondreskarsten/norwegian-laws/tree/law-history)
-  for komplett git-historikk med backdaterte endringer
-- Bruk søkefeltet for å finne spesifikke lover
+- For autoritativ lovtekst, se [lovdata.no](https://lovdata.no)
+
+## Utforsk historikk
+
+- [`law-history`-grenen](https://github.com/sondreskarsten/norwegian-laws/tree/law-history) har komplett git-historikk med backdaterte endringer
+- [Stabile versjoner](book/versjoner.qmd) — sammenlign lover mellom år (v2001–v2026)
+- [Sammenlign lovversjon](book/diff.qmd) — velg en lov og to årstall for å se endringer
+- Klikk «log» i lovtabellene for å se endringshistorikk for en enkelt lov
 
 ## Ansvarsfraskrivelse
 

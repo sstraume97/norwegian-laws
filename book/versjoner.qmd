@@ -5,34 +5,39 @@ slik de var ved utgangen av det året, basert på [`law-history`-grenen](https:/
 
 ## Årlige versjoner
 
-| Versjon | Bla gjennom | Endringer fra forrige |
-|---------|-------------|----------------------|
-| `v2001` | [v2001](https://github.com/sondreskarsten/norwegian-laws/tree/v2001/lover) | — |
-| `v2002` | [v2002](https://github.com/sondreskarsten/norwegian-laws/tree/v2002/lover) | [v2001...v2002](https://github.com/sondreskarsten/norwegian-laws/compare/v2001...v2002) |
-| `v2003` | [v2003](https://github.com/sondreskarsten/norwegian-laws/tree/v2003/lover) | [v2002...v2003](https://github.com/sondreskarsten/norwegian-laws/compare/v2002...v2003) |
-| `v2004` | [v2004](https://github.com/sondreskarsten/norwegian-laws/tree/v2004/lover) | [v2003...v2004](https://github.com/sondreskarsten/norwegian-laws/compare/v2003...v2004) |
-| `v2005` | [v2005](https://github.com/sondreskarsten/norwegian-laws/tree/v2005/lover) | [v2004...v2005](https://github.com/sondreskarsten/norwegian-laws/compare/v2004...v2005) |
-| `v2006` | [v2006](https://github.com/sondreskarsten/norwegian-laws/tree/v2006/lover) | [v2005...v2006](https://github.com/sondreskarsten/norwegian-laws/compare/v2005...v2006) |
-| `v2007` | [v2007](https://github.com/sondreskarsten/norwegian-laws/tree/v2007/lover) | [v2006...v2007](https://github.com/sondreskarsten/norwegian-laws/compare/v2006...v2007) |
-| `v2008` | [v2008](https://github.com/sondreskarsten/norwegian-laws/tree/v2008/lover) | [v2007...v2008](https://github.com/sondreskarsten/norwegian-laws/compare/v2007...v2008) |
-| `v2009` | [v2009](https://github.com/sondreskarsten/norwegian-laws/tree/v2009/lover) | [v2008...v2009](https://github.com/sondreskarsten/norwegian-laws/compare/v2008...v2009) |
-| `v2010` | [v2010](https://github.com/sondreskarsten/norwegian-laws/tree/v2010/lover) | [v2009...v2010](https://github.com/sondreskarsten/norwegian-laws/compare/v2009...v2010) |
-| `v2011` | [v2011](https://github.com/sondreskarsten/norwegian-laws/tree/v2011/lover) | [v2010...v2011](https://github.com/sondreskarsten/norwegian-laws/compare/v2010...v2011) |
-| `v2012` | [v2012](https://github.com/sondreskarsten/norwegian-laws/tree/v2012/lover) | [v2011...v2012](https://github.com/sondreskarsten/norwegian-laws/compare/v2011...v2012) |
-| `v2013` | [v2013](https://github.com/sondreskarsten/norwegian-laws/tree/v2013/lover) | [v2012...v2013](https://github.com/sondreskarsten/norwegian-laws/compare/v2012...v2013) |
-| `v2014` | [v2014](https://github.com/sondreskarsten/norwegian-laws/tree/v2014/lover) | [v2013...v2014](https://github.com/sondreskarsten/norwegian-laws/compare/v2013...v2014) |
-| `v2015` | [v2015](https://github.com/sondreskarsten/norwegian-laws/tree/v2015/lover) | [v2014...v2015](https://github.com/sondreskarsten/norwegian-laws/compare/v2014...v2015) |
-| `v2016` | [v2016](https://github.com/sondreskarsten/norwegian-laws/tree/v2016/lover) | [v2015...v2016](https://github.com/sondreskarsten/norwegian-laws/compare/v2015...v2016) |
-| `v2017` | [v2017](https://github.com/sondreskarsten/norwegian-laws/tree/v2017/lover) | [v2016...v2017](https://github.com/sondreskarsten/norwegian-laws/compare/v2016...v2017) |
-| `v2018` | [v2018](https://github.com/sondreskarsten/norwegian-laws/tree/v2018/lover) | [v2017...v2018](https://github.com/sondreskarsten/norwegian-laws/compare/v2017...v2018) |
-| `v2019` | [v2019](https://github.com/sondreskarsten/norwegian-laws/tree/v2019/lover) | [v2018...v2019](https://github.com/sondreskarsten/norwegian-laws/compare/v2018...v2019) |
-| `v2020` | [v2020](https://github.com/sondreskarsten/norwegian-laws/tree/v2020/lover) | [v2019...v2020](https://github.com/sondreskarsten/norwegian-laws/compare/v2019...v2020) |
-| `v2021` | [v2021](https://github.com/sondreskarsten/norwegian-laws/tree/v2021/lover) | [v2020...v2021](https://github.com/sondreskarsten/norwegian-laws/compare/v2020...v2021) |
-| `v2022` | [v2022](https://github.com/sondreskarsten/norwegian-laws/tree/v2022/lover) | [v2021...v2022](https://github.com/sondreskarsten/norwegian-laws/compare/v2021...v2022) |
-| `v2023` | [v2023](https://github.com/sondreskarsten/norwegian-laws/tree/v2023/lover) | [v2022...v2023](https://github.com/sondreskarsten/norwegian-laws/compare/v2022...v2023) |
-| `v2024` | [v2024](https://github.com/sondreskarsten/norwegian-laws/tree/v2024/lover) | [v2023...v2024](https://github.com/sondreskarsten/norwegian-laws/compare/v2023...v2024) |
-| `v2025` | [v2025](https://github.com/sondreskarsten/norwegian-laws/tree/v2025/lover) | [v2024...v2025](https://github.com/sondreskarsten/norwegian-laws/compare/v2024...v2025) |
-| `v2026` | [v2026](https://github.com/sondreskarsten/norwegian-laws/tree/v2026/lover) | [v2025...v2026](https://github.com/sondreskarsten/norwegian-laws/compare/v2025...v2026) |
+| Versjon | Bla gjennom | Endringer fra forrige | Omfang |
+|---------|-------------|----------------------|--------|
+| `v2001` | [v2001](https://github.com/sondreskarsten/norwegian-laws/tree/v2001/lover) | — | 113 vedtak |
+| `v2002` | [v2002](https://github.com/sondreskarsten/norwegian-laws/tree/v2002/lover) | [v2001...v2002](https://github.com/sondreskarsten/norwegian-laws/compare/v2001...v2002) | 106 vedtak |
+| `v2003` | [v2003](https://github.com/sondreskarsten/norwegian-laws/tree/v2003/lover) | [v2002...v2003](https://github.com/sondreskarsten/norwegian-laws/compare/v2002...v2003) | 133 vedtak |
+| `v2004` | [v2004](https://github.com/sondreskarsten/norwegian-laws/tree/v2004/lover) | [v2003...v2004](https://github.com/sondreskarsten/norwegian-laws/compare/v2003...v2004) | 110 vedtak |
+| `v2005` | [v2005](https://github.com/sondreskarsten/norwegian-laws/tree/v2005/lover) | [v2004...v2005](https://github.com/sondreskarsten/norwegian-laws/compare/v2004...v2005) | 131 vedtak |
+| `v2006` | [v2006](https://github.com/sondreskarsten/norwegian-laws/tree/v2006/lover) | [v2005...v2006](https://github.com/sondreskarsten/norwegian-laws/compare/v2005...v2006) | 108 vedtak |
+| `v2007` | [v2007](https://github.com/sondreskarsten/norwegian-laws/tree/v2007/lover) | [v2006...v2007](https://github.com/sondreskarsten/norwegian-laws/compare/v2006...v2007) | 135 vedtak |
+| `v2008` | [v2008](https://github.com/sondreskarsten/norwegian-laws/tree/v2008/lover) | [v2007...v2008](https://github.com/sondreskarsten/norwegian-laws/compare/v2007...v2008) | 125 vedtak |
+| `v2009` | [v2009](https://github.com/sondreskarsten/norwegian-laws/tree/v2009/lover) | [v2008...v2009](https://github.com/sondreskarsten/norwegian-laws/compare/v2008...v2009) | 137 vedtak |
+| `v2010` | [v2010](https://github.com/sondreskarsten/norwegian-laws/tree/v2010/lover) | [v2009...v2010](https://github.com/sondreskarsten/norwegian-laws/compare/v2009...v2010) | 89 vedtak |
+| `v2011` | [v2011](https://github.com/sondreskarsten/norwegian-laws/tree/v2011/lover) | [v2010...v2011](https://github.com/sondreskarsten/norwegian-laws/compare/v2010...v2011) | 68 vedtak |
+| `v2012` | [v2012](https://github.com/sondreskarsten/norwegian-laws/tree/v2012/lover) | [v2011...v2012](https://github.com/sondreskarsten/norwegian-laws/compare/v2011...v2012) | 92 vedtak |
+| `v2013` | [v2013](https://github.com/sondreskarsten/norwegian-laws/tree/v2013/lover) | [v2012...v2013](https://github.com/sondreskarsten/norwegian-laws/compare/v2012...v2013) | 133 vedtak |
+| `v2014` | [v2014](https://github.com/sondreskarsten/norwegian-laws/tree/v2014/lover) | [v2013...v2014](https://github.com/sondreskarsten/norwegian-laws/compare/v2013...v2014) | 95 vedtak |
+| `v2015` | [v2015](https://github.com/sondreskarsten/norwegian-laws/tree/v2015/lover) | [v2014...v2015](https://github.com/sondreskarsten/norwegian-laws/compare/v2014...v2015) | 124 vedtak |
+| `v2016` | [v2016](https://github.com/sondreskarsten/norwegian-laws/tree/v2016/lover) | [v2015...v2016](https://github.com/sondreskarsten/norwegian-laws/compare/v2015...v2016) | 125 vedtak |
+| `v2017` | [v2017](https://github.com/sondreskarsten/norwegian-laws/tree/v2017/lover) | [v2016...v2017](https://github.com/sondreskarsten/norwegian-laws/compare/v2016...v2017) | 133 vedtak |
+| `v2018` | [v2018](https://github.com/sondreskarsten/norwegian-laws/tree/v2018/lover) | [v2017...v2018](https://github.com/sondreskarsten/norwegian-laws/compare/v2017...v2018) | 121 vedtak |
+| `v2019` | [v2019](https://github.com/sondreskarsten/norwegian-laws/tree/v2019/lover) | [v2018...v2019](https://github.com/sondreskarsten/norwegian-laws/compare/v2018...v2019) | 112 vedtak |
+| `v2020` | [v2020](https://github.com/sondreskarsten/norwegian-laws/tree/v2020/lover) | [v2019...v2020](https://github.com/sondreskarsten/norwegian-laws/compare/v2019...v2020) | 172 vedtak |
+| `v2021` | [v2021](https://github.com/sondreskarsten/norwegian-laws/tree/v2021/lover) | [v2020...v2021](https://github.com/sondreskarsten/norwegian-laws/compare/v2020...v2021) | 177 vedtak |
+| `v2022` | [v2022](https://github.com/sondreskarsten/norwegian-laws/tree/v2022/lover) | [v2021...v2022](https://github.com/sondreskarsten/norwegian-laws/compare/v2021...v2022) | 122 vedtak |
+| `v2023` | [v2023](https://github.com/sondreskarsten/norwegian-laws/tree/v2023/lover) | [v2022...v2023](https://github.com/sondreskarsten/norwegian-laws/compare/v2022...v2023) | 115 vedtak |
+| `v2024` | [v2024](https://github.com/sondreskarsten/norwegian-laws/tree/v2024/lover) | [v2023...v2024](https://github.com/sondreskarsten/norwegian-laws/compare/v2023...v2024) | 100 vedtak |
+| `v2025` | [v2025](https://github.com/sondreskarsten/norwegian-laws/tree/v2025/lover) | [v2024...v2025](https://github.com/sondreskarsten/norwegian-laws/compare/v2024...v2025) | 134 vedtak |
+| `v2026` | [v2026](https://github.com/sondreskarsten/norwegian-laws/tree/v2026/lover) | [v2025...v2026](https://github.com/sondreskarsten/norwegian-laws/compare/v2025...v2026) | 8 vedtak |
+
+## Verktøy
+
+- [Søk i lover](sok.qmd) — finn lover etter tittel eller korttittel
+- [Sammenlign lovversjon](diff.qmd) — velg lov og to årstall for å se endringer
 
 ## Bruk med git
 
@@ -44,7 +49,7 @@ cd norwegian-laws
 # Se en lov slik den var i 2020
 git show v2020:lover/lov-1998-07-17-56.md
 
-# Sammenlign to versjoner
+# Sammenlign to versjoner av en lov
 git diff v2020 v2024 -- lover/lov-1998-07-17-56.md
 
 # Se alle endringer mellom to år

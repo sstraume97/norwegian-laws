@@ -28,6 +28,8 @@ book:
     - book/dept-statsministerens-kontor.qmd
     - book/dept-utenriksdepartementet.qmd
   - book/versjoner.qmd
+  - book/sok.qmd
+  - book/diff.qmd
   - book/about.qmd
   search: true
   repo-url: https://github.com/sondreskarsten/norwegian-laws
