@@ -1,0 +1,131 @@
+"""Format structured law data into Markdown with YAML frontmatter.
+
+This module is the core of the publisher. It takes structured data (dicts
+loaded from snapshot JSON files) and produces deterministic Markdown output.
+Same input always produces byte-identical output.
+
+No XML parsing, no BeautifulSoup, no network access.
+"""
+import json
+import re
+from pathlib import Path
+
+
+def refid_to_filepath(refid: str) -> str:
+    """Convert a law refid to a Markdown file path."""
+    return f"lover/{refid.replace('/', '-')}.md"
+
+
+def format_article(article: dict, depth: int = 0) -> str:
+    """Format an article (§/paragraf) as Markdown.
+
+    Args:
+        article: Dict with keys 'name', 'header_text', 'paragraphs'.
+        depth: Nesting depth for heading level (0=top-level, 1=inside section).
+    """
+    lines = []
+
+    if article.get("header_text"):
+        lines.append(f"{'#' * min(depth + 3, 6)} {article['header_text']}")
+        lines.append("")
+
+    for para in article.get("paragraphs", []):
+        if para.get("text"):
+            lines.append(para["text"])
+            lines.append("")
+        for item in para.get("list_items", []):
+            identifier = item.get("identifier", "-")
+            lines.append(f"- {identifier} {item['text']}")
+        if para.get("list_items"):
+            lines.append("")
+
+    return "\n".join(lines)
+
+
+def format_section(section: dict) -> str:
+    """Format a section (kapittel/del) as Markdown."""
+    lines = []
+
+    if section.get("heading"):
+        lines.append(f"## {section['heading']}")
+        lines.append("")
+
+    for article in section.get("articles", []):
+        lines.append(format_article(article, depth=1))
+
+    return "\n".join(lines)
+
+
+def format_law_markdown(law: dict) -> str:
+    """Convert a structured law dict (from snapshot JSON) to Markdown.
+
+    This is the primary formatting function. It produces Markdown with
+    YAML frontmatter from a law data dict.
+
+    The function is deterministic: same input always produces same output.
+
+    Args:
+        law: Dict matching the LawData JSON schema from the snapshot.
+    """
+    lines = []
+
+    # YAML frontmatter
+    lines.append("---")
+    lines.append(f"tittel: \"{law['title']}\"")
+    if law.get("short_title"):
+        lines.append(f"korttittel: \"{law['short_title']}\"")
+    lines.append(f"refid: \"{law['refid']}\"")
+    lines.append(f"departement: \"{law.get('ministry', '')}\"")
+    lines.append(f"ikrafttredelse: \"{law.get('date_in_force', '')}\"")
+    if law.get("last_amended"):
+        lines.append(f"sist-endret: \"{law['last_amended']}\"")
+    if law.get("last_amended_in_force"):
+        lines.append(f"sist-endret-ikrafttredelse: \"{law['last_amended_in_force']}\"")
+    lines.append("---")
+    lines.append("")
+    lines.append(f"# {law['title']}")
+    lines.append("")
+
+    for section in law.get("sections", []):
+        lines.append(format_section(section))
+
+    for article in law.get("top_level_articles", []):
+        lines.append(format_article(article, depth=0))
+
+    return "\n".join(lines)
+
+
+def format_all_laws(snapshot_dir: str, output_dir: str) -> dict[str, str]:
+    """Read all law JSONs from a snapshot and write Markdown files.
+
+    Args:
+        snapshot_dir: Path to the snapshot directory.
+        output_dir: Path to write lover/*.md files.
+
+    Returns:
+        Dict mapping refid → relative filepath of the written Markdown file.
+    """
+    laws_dir = Path(snapshot_dir) / "laws"
+    output = Path(output_dir)
+    (output / "lover").mkdir(parents=True, exist_ok=True)
+
+    results = {}
+    json_files = sorted(laws_dir.glob("*.json"))
+
+    for i, path in enumerate(json_files):
+        data = json.loads(path.read_text(encoding="utf-8"))
+        refid = data.get("refid", "")
+        if not refid:
+            continue
+
+        md = format_law_markdown(data)
+        filepath = refid_to_filepath(refid)
+        full_path = output / filepath
+        full_path.parent.mkdir(parents=True, exist_ok=True)
+        full_path.write_text(md, encoding="utf-8")
+        results[refid] = filepath
+
+        if (i + 1) % 100 == 0:
+            print(f"  Formatted {i + 1}/{len(json_files)} laws...")
+
+    return results

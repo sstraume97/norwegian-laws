@@ -1,0 +1,25 @@
+[build-system]
+requires = ["hatchling"]
+build-backend = "hatchling.build"
+
+[project]
+name = "lovdata-publisher"
+version = "0.1.0"
+description = "Format and publish Norwegian law data as Markdown, git history, and Quarto books"
+requires-python = ">=3.11"
+license = {text = "MIT"}
+dependencies = [
+    "pyyaml>=6.0",
+]
+
+[project.optional-dependencies]
+test = ["pytest>=8.0"]
+
+[project.scripts]
+lovdata-publish = "lovdata_publisher.cli:main"
+
+[tool.hatch.build.targets.wheel]
+packages = ["src/lovdata_publisher"]
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]
