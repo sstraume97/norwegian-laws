@@ -4,7 +4,7 @@ Dette er en uoffisiell samling av Norges gjeldende formelle lover,
 generert fra [Lovdata API](https://api.lovdata.no/) sine åpne data
 under [NLOD 2.0](https://data.norge.no/nlod/no/2.0)-lisensen.
 
-Samlingen inneholder **777 lover**
+Samlingen inneholder **778 lover**
 fordelt på **17 departementer**.
 
 ## Les lover
