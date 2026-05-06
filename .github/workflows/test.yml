@@ -4,9 +4,8 @@ on:
   push:
     branches: [main]
     paths:
-      - 'src/**'
-      - 'tests/**'
-      - 'pyproject.toml'
+      - 'lovdata-loader/**'
+      - 'lovdata-publisher/**'
   pull_request:
     branches: [main]
 
@@ -20,8 +19,13 @@ jobs:
         with:
           python-version: '3.12'
 
-      - name: Install package and test dependencies
-        run: pip install -e ".[test]"
+      - name: Install packages and test dependencies
+        run: |
+          pip install -e "lovdata-loader/[test]"
+          pip install -e "lovdata-publisher/[test]"
 
-      - name: Run tests
-        run: pytest tests/ -v
+      - name: Run loader tests
+        run: cd lovdata-loader && pytest tests/ -v
+
+      - name: Run publisher tests
+        run: cd lovdata-publisher && pytest tests/ -v

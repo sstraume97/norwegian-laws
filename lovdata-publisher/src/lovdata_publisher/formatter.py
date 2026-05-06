@@ -21,7 +21,8 @@ def format_article(article: dict, depth: int = 0) -> str:
 
     Args:
         article: Dict with keys 'name', 'header_text', 'paragraphs'.
-        depth: Nesting depth for heading level (0=top-level, 1=inside section).
+        depth: Nesting depth for heading level (0=top-level, 1=inside section,
+               2=inside subsection, etc.).
     """
     lines = []
 
@@ -39,19 +40,35 @@ def format_article(article: dict, depth: int = 0) -> str:
         if para.get("list_items"):
             lines.append("")
 
+    if article.get("trailing_text"):
+        lines.append(f"*{article['trailing_text']}*")
+        lines.append("")
+
     return "\n".join(lines)
 
 
-def format_section(section: dict) -> str:
+def format_section(section: dict, depth: int = 0) -> str:
     """Format a section (kapittel/del) as Markdown."""
     lines = []
 
     if section.get("heading"):
-        lines.append(f"## {section['heading']}")
+        level = min(depth + 2, 6)
+        lines.append(f"{'#' * level} {section['heading']}")
+        lines.append("")
+
+    for text in section.get("preamble", []):
+        lines.append(text)
         lines.append("")
 
     for article in section.get("articles", []):
-        lines.append(format_article(article, depth=1))
+        lines.append(format_article(article, depth=depth + 1))
+
+    for subsection in section.get("subsections", []):
+        lines.append(format_section(subsection, depth=depth + 1))
+
+    for text in section.get("footnotes", []):
+        lines.append(text)
+        lines.append("")
 
     return "\n".join(lines)
 

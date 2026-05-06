@@ -28,13 +28,42 @@ class Article:
     name: str             # e.g. "§ 1-1"
     header_text: str      # e.g. "§ 1-1. Lovens virkeområde"
     paragraphs: list[Paragraph] = field(default_factory=list)
+    trailing_text: str = ""
 
 
 @dataclass
 class Section:
-    """A section (kapittel/del/avsnitt) containing articles."""
+    """A section (kapittel/del/avsnitt) containing articles and subsections."""
     heading: str
     articles: list[Article] = field(default_factory=list)
+    subsections: list["Section"] = field(default_factory=list)
+    preamble: list[str] = field(default_factory=list)
+    footnotes: list[str] = field(default_factory=list)
+
+
+def _article_from_dict(a: dict) -> Article:
+    return Article(
+        name=a["name"],
+        header_text=a["header_text"],
+        paragraphs=[
+            Paragraph(
+                text=p["text"],
+                list_items=[ListItem(**li) for li in p.get("list_items", [])],
+            )
+            for p in a.get("paragraphs", [])
+        ],
+        trailing_text=a.get("trailing_text", ""),
+    )
+
+
+def _section_from_dict(s: dict) -> Section:
+    return Section(
+        heading=s["heading"],
+        articles=[_article_from_dict(a) for a in s.get("articles", [])],
+        subsections=[_section_from_dict(sub) for sub in s.get("subsections", [])],
+        preamble=s.get("preamble", []),
+        footnotes=s.get("footnotes", []),
+    )
 
 
 @dataclass
@@ -59,40 +88,6 @@ class LawData:
 
     @classmethod
     def from_dict(cls, d: dict) -> "LawData":
-        sections = [
-            Section(
-                heading=s["heading"],
-                articles=[
-                    Article(
-                        name=a["name"],
-                        header_text=a["header_text"],
-                        paragraphs=[
-                            Paragraph(
-                                text=p["text"],
-                                list_items=[ListItem(**li) for li in p.get("list_items", [])],
-                            )
-                            for p in a.get("paragraphs", [])
-                        ],
-                    )
-                    for a in s.get("articles", [])
-                ],
-            )
-            for s in d.get("sections", [])
-        ]
-        top_level = [
-            Article(
-                name=a["name"],
-                header_text=a["header_text"],
-                paragraphs=[
-                    Paragraph(
-                        text=p["text"],
-                        list_items=[ListItem(**li) for li in p.get("list_items", [])],
-                    )
-                    for p in a.get("paragraphs", [])
-                ],
-            )
-            for a in d.get("top_level_articles", [])
-        ]
         return cls(
             refid=d["refid"],
             title=d["title"],
@@ -102,8 +97,8 @@ class LawData:
             last_amended=d.get("last_amended", ""),
             last_amended_in_force=d.get("last_amended_in_force", ""),
             legal_area=d.get("legal_area", ""),
-            sections=sections,
-            top_level_articles=top_level,
+            sections=[_section_from_dict(s) for s in d.get("sections", [])],
+            top_level_articles=[_article_from_dict(a) for a in d.get("top_level_articles", [])],
         )
 
 

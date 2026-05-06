@@ -136,12 +136,47 @@ def _parse_law_metadata(soup: BeautifulSoup) -> dict:
     }
 
 
+def _is_ledd(tag: Tag) -> bool:
+    classes = tag.get("class", [])
+    return tag.name == "article" and any(
+        c in classes for c in ("legalP", "numberedLegalP", "centeredP")
+    )
+
+
+def _is_header(tag: Tag) -> bool:
+    return tag.name in ("h1", "h2", "h3", "h4", "h5", "h6", "div", "span") and any(
+        c in tag.get("class", [])
+        for c in ("legalArticleHeader", "futureLegalArticleHeader")
+    )
+
+
+def _parse_ledd(ledd: Tag) -> Paragraph:
+    text_parts = []
+    items = []
+    for child in ledd.children:
+        if isinstance(child, Tag) and child.name in ("ul", "ol"):
+            for li in child.find_all("li", recursive=False):
+                identifier = li.get("data-li-identifier", "-")
+                li_text = li.get_text(strip=True)
+                items.append(ListItem(identifier=identifier, text=li_text))
+        elif isinstance(child, Tag):
+            text_parts.append(child.get_text(strip=True))
+        else:
+            t = str(child).strip()
+            if t:
+                text_parts.append(t)
+    return Paragraph(text=" ".join(text_parts), list_items=items)
+
+
 def parse_article(article_tag: Tag) -> Article:
     """Parse an XML <article class='legalArticle'> into an Article dataclass."""
     name = article_tag.get("data-name", "")
 
     article_header = (
-        article_tag.find(["h3", "h4", "h5", "span"], class_="legalArticleHeader")
+        article_tag.find(
+            ["h2", "h3", "h4", "h5", "h6", "div", "span"],
+            class_="legalArticleHeader",
+        )
         or article_tag.find("span", class_="futureLegalArticleHeader")
     )
     header_text = ""
@@ -153,46 +188,70 @@ def parse_article(article_tag: Tag) -> Article:
             header_text += f". {title_span.get_text(strip=True)}"
 
     paragraphs = []
-    for ledd in article_tag.find_all(
-        "article",
-        class_=lambda c: c and ("legalP" in c or "numberedLegalP" in c) if c else False,
-        recursive=False,
-    ):
-        text_parts = []
-        items = []
-        for child in ledd.children:
-            if isinstance(child, Tag) and child.name == "ul":
-                for li in child.find_all("li", recursive=False):
-                    identifier = li.get("data-li-identifier", "-")
-                    li_text = li.get_text(strip=True)
-                    items.append(ListItem(identifier=identifier, text=li_text))
-            elif isinstance(child, Tag):
-                text_parts.append(child.get_text(strip=True))
-            else:
-                t = str(child).strip()
-                if t:
-                    text_parts.append(t)
-        paragraphs.append(Paragraph(
-            text=" ".join(text_parts),
-            list_items=items,
-        ))
+    trailing_parts = []
+    for child in article_tag.children:
+        if not isinstance(child, Tag):
+            continue
+        if _is_ledd(child):
+            paragraphs.append(_parse_ledd(child))
+        elif child.name == "p":
+            paragraphs.append(Paragraph(text=child.get_text(strip=True)))
+        elif _is_header(child):
+            pass
+        else:
+            text = child.get_text(strip=True)
+            if text:
+                trailing_parts.append(text)
 
-    return Article(name=name, header_text=header_text, paragraphs=paragraphs)
+    return Article(
+        name=name,
+        header_text=header_text,
+        paragraphs=paragraphs,
+        trailing_text="\n".join(trailing_parts),
+    )
+
+
+def _is_article(tag: Tag) -> bool:
+    classes = tag.get("class", [])
+    return tag.name == "article" and any(
+        c in classes for c in ("legalArticle", "futureLegalArticle")
+    )
 
 
 def parse_section(section_tag: Tag) -> Section:
     """Parse an XML <section> into a Section dataclass."""
-    heading = section_tag.find(["h2", "h3", "h4"])
+    heading = section_tag.find(["h1", "h2", "h3", "h4", "h5", "h6"])
     heading_text = heading.get_text(strip=True) if heading else ""
 
     articles = []
+    subsections = []
+    preamble = []
+    footnotes = []
     for child in section_tag.children:
         if not isinstance(child, Tag):
             continue
-        if "legalArticle" in child.get("class", []):
+        if _is_article(child):
             articles.append(parse_article(child))
+        elif child.name == "section":
+            subsections.append(parse_section(child))
+        elif child.name in ("h1", "h2", "h3", "h4", "h5", "h6"):
+            pass
+        elif child.name == "footer":
+            text = child.get_text(strip=True)
+            if text:
+                footnotes.append(text)
+        else:
+            text = child.get_text(strip=True)
+            if text:
+                preamble.append(text)
 
-    return Section(heading=heading_text, articles=articles)
+    return Section(
+        heading=heading_text,
+        articles=articles,
+        subsections=subsections,
+        preamble=preamble,
+        footnotes=footnotes,
+    )
 
 
 def parse_law(content: bytes) -> LawData | None:
@@ -215,8 +274,11 @@ def parse_law(content: bytes) -> LawData | None:
         sections.append(parse_section(section))
 
     top_level_articles = []
-    for article in body.find_all("article", class_="legalArticle", recursive=False):
-        top_level_articles.append(parse_article(article))
+    for child in body.children:
+        if not isinstance(child, Tag):
+            continue
+        if _is_article(child):
+            top_level_articles.append(parse_article(child))
 
     return LawData(
         **meta,
