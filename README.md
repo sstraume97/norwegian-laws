@@ -6,7 +6,7 @@ Norwegian law texts as git history, with a [Quarto book](https://sondreskarsten.
 
 Every current Norwegian formal law (`gjeldende formelle lover`) parsed from [Lovdata's public API](https://api.lovdata.no/) into Markdown files, committed to git with amendment history. Each amendment act from [Norsk Lovtidend](https://lovdata.no/register/lovtidend) becomes a backdated git commit, so `git log -- lover/lov-1998-07-17-56.md` shows the legislative history of regnskapsloven.
 
-The [Quarto book](https://sondreskarsten.github.io/norwegian-laws/) organizes all 774 laws by responsible ministry and is rebuilt weekly via GitHub Actions.
+The [Quarto book](https://sondreskarsten.github.io/norwegian-laws/) organizes all 735 laws by responsible ministry and is rebuilt weekly via GitHub Actions.
 
 ## Branches
 
@@ -26,41 +26,81 @@ git log --oneline -- lover/lov-1998-07-17-56.md
 ## Quick start
 
 ```bash
-pip install -e .
-lovdata-pipeline --download --output . --db amendments.db
+pip install -e lovdata-loader/ -e lovdata-publisher/
+
+# Download archives, parse to snapshot
+lovdata-load --download --output snapshot
+
+# Format to Markdown + generate Quarto book
+lovdata-publish --snapshot snapshot --output . --quarto
+
+# Or build the full backdated git history
+lovdata-publish --snapshot snapshot --build-history --repo-path /tmp/law-repo
 ```
 
-Flags:
-- `--download`: fetch archives from Lovdata API
-- `--parse-only`: parse to markdown without git fast-import
-- `--output`: repo root directory
-- `--db`: SQLite path for amendment metadata
+## Architecture
 
-## Repository structure
+The pipeline is split into two packages connected by a snapshot directory:
+
+**lovdata-loader** downloads Lovdata archives and parses XML into structured JSON + SQLite:
 
 ```
-lover/                  # 774 Markdown law files (one per law)
-src/lovdata_pipeline/   # Python package
-  pipeline.py           #   XML parsing, git fast-import
-  quarto.py             #   Quarto book generation
-  download.py           #   Lovdata API downloader
-  cli.py                #   CLI entry point
+lovdata-loader/
+  src/lovdata_loader/
+    download.py        # Lovdata API downloader
+    parser.py          # XML → dataclasses (Section, Article, Paragraph)
+    models.py          # Snapshot schema (LawData, AmendmentActData)
+    store.py           # Write snapshot/ (JSON per law + amendments.db)
+    cli.py             # lovdata-load CLI
+```
+
+**lovdata-publisher** reads a snapshot and produces all outputs:
+
+```
+lovdata-publisher/
+  src/lovdata_publisher/
+    formatter.py       # JSON → Markdown with YAML frontmatter
+    git_export.py      # Backdated git fast-import from amendment timeline
+    quarto.py          # Quarto book chapters, search, diff, version pages
+    search_index.py    # Merge law metadata into Quarto search.json
+    releases.py        # Monthly release tags on law-history branch
+    cli.py             # lovdata-publish CLI
+```
+
+The snapshot is the contract between the two:
+
+```
+snapshot/
+  manifest.json                 # Metadata (version, archive names, counts)
+  laws/lov-1998-07-17-56.json   # One structured JSON per law
+  amendments.db                 # SQLite: amendment acts + individual amendments
+```
+
+## Other files
+
+```
+lover/                  # 735 Markdown law files (one per law)
 book/                   # Quarto chapter files (auto-generated per department)
 _quarto.yml             # Quarto book config
+laws.json               # Law metadata for client-side search + diff tools
+src/lovdata_pipeline/   # Deprecated monolithic pipeline (kept for reference)
 .github/workflows/
   deploy.yml            # Weekly: update laws + deploy Quarto book
   law-history.yml       # Weekly: rebuild backdated commit history
+  test.yml              # CI: run loader + publisher tests
   release.yml           # On tag: create GitHub release
+  gcs-sync.yml          # Sync repo to GCS bucket
 ```
 
 ## How it works
 
 1. **Download** `gjeldende-lover.tar.bz2` and `lovtidend-avd1-*.tar.bz2` from Lovdata API
-2. **Parse** consolidated law XML → Markdown with YAML frontmatter
+2. **Parse** consolidated law XML → structured JSON snapshot (one file per law)
 3. **Parse** Lovtidend amendment XML → structured amendment records (SQLite)
-4. **Commit** each amendment act as a backdated git commit via `git fast-import`
-5. **Generate** Quarto book chapters grouped by ministry
-6. **Deploy** rendered book to GitHub Pages
+4. **Format** JSON → Markdown with YAML frontmatter, preserving all content including nested sub-chapters, amendment notes, and footnotes
+5. **Commit** each amendment act as a backdated git commit via `git fast-import`, with yearly version tags (`v2001`–`v2026`)
+6. **Generate** Quarto book chapters grouped by ministry, with full-text search and cross-version diff tools
+7. **Deploy** rendered book to GitHub Pages
 
 ## Data source and license
 
