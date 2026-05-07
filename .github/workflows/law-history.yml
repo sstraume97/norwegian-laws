@@ -32,11 +32,12 @@ jobs:
       - name: Download and parse laws
         run: lovdata-load --download --output snapshot
 
-      - name: Build git history with backdated commits
-        run: lovdata-publish --snapshot snapshot --build-history --repo-path /tmp/law-repo
-
-      - name: Create yearly tags
+      - name: Build and push law history
         run: |
+          # Build in separate repo
+          lovdata-publish --snapshot snapshot --build-history --repo-path /tmp/law-repo
+
+          # Tag
           cd /tmp/law-repo
           python3 -c "
           import sys
@@ -46,12 +47,10 @@ jobs:
           print(f'Created {len(tags)} yearly tags: {min(tags)}..{max(tags)}')
           "
 
-      - name: Push law-history branch and tags
-        run: |
-          # Fetch the fast-import objects into the checkout repo
+          # Import into checkout repo and push from there
           cd ${{ github.workspace }}
-          git fetch /tmp/law-repo main:law-history --tags
-          git repack -a -d -f --depth=250 --window=250
+          git fetch /tmp/law-repo main:law-history --tags 2>&1
+          git repack -a -d -f 2>&1
           echo "Pack size: $(du -sh .git/objects/pack/)"
-          git push -f origin law-history
-          git push -f origin --tags
+          git push -f origin law-history 2>&1
+          git push -f origin --tags 2>&1

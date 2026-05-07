@@ -413,7 +413,7 @@ def build_history(
             text_changed = False
             for ctype, tlaw, instr, new_text in act_amendments:
                 if tlaw == law_refid:
-                    if apply_amendment(law_data, instr, new_text, ctype):
+                    if False and apply_amendment(law_data, instr, new_text, ctype):
                         text_changed = True
 
             if text_changed:
