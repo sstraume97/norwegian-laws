@@ -48,9 +48,9 @@ jobs:
 
       - name: Push law-history branch and tags
         run: |
-          cd /tmp/law-repo
-          git branch -m main law-history
-          git remote add origin https://x-access-token:${{ secrets.GITHUB_TOKEN }}@github.com/${{ github.repository }}.git
+          # Fetch the fast-import objects into the checkout repo
+          cd ${{ github.workspace }}
+          git fetch /tmp/law-repo main:law-history --tags
           git repack -a -d -f --depth=250 --window=250
           echo "Pack size: $(du -sh .git/objects/pack/)"
           git push -f origin law-history
