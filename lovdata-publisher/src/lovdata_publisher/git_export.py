@@ -336,11 +336,15 @@ def build_history(
     all_files = {}
     law_refids = {}
     law_dicts = {}
+
+    from lovdata_loader.reconstruct import strip_trailing_text, apply_amendment
+
     for path in sorted(laws_dir.glob("*.json")):
         data = json.loads(path.read_text(encoding="utf-8"))
         refid = data.get("refid", "")
         if not refid:
             continue
+        strip_trailing_text(data)
         md = format_law_markdown(data)
         filepath = refid_to_filepath(refid)
         all_files[filepath] = md
@@ -405,8 +409,6 @@ def build_history(
             law_data = law_dicts.get(law_refid)
             text_changed = False
             if law_data:
-                from lovdata_loader.reconstruct import apply_amendment
-
                 for ctype, tlaw, instr, new_text in act_amendments:
                     if tlaw == law_refid:
                         if apply_amendment(law_data, instr, new_text, ctype):

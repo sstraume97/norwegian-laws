@@ -2,11 +2,6 @@
 
 Given a current consolidated law (LawData) and a chronological list of
 amendments, produce the law text as it read at any historical date.
-
-Approach: work backwards from current text. For each amendment after the
-target date (in reverse chronological order), undo it by replacing the
-amendment's new_text with the previous version's text (from an earlier
-amendment, or unknown).
 """
 import copy
 import re
@@ -20,6 +15,8 @@ _ORDINALS = {
     "trettende": 13, "fjortende": 14, "femtende": 15, "sekstende": 16,
     "siste": -1,
 }
+
+_LEDD_NUMBER_RE = re.compile(r"^\(\d+\)\s*")
 
 
 @dataclass
@@ -85,6 +82,33 @@ def _split_new_text_to_ledd(new_text: str) -> list[str]:
     return lines if lines else [new_text]
 
 
+def _strip_ledd_number(text: str) -> str:
+    return _LEDD_NUMBER_RE.sub("", text)
+
+
+def _split_sentences(text: str) -> list[str]:
+    parts = re.split(r"(?<=\.)\s+(?=[A-ZÆØÅ])", text)
+    return [p for p in parts if p.strip()]
+
+
+def _replace_sentence(ledd_text: str, sentence_num: int, new_sentence: str) -> str:
+    sentences = _split_sentences(ledd_text)
+    if not sentences:
+        return new_sentence
+    idx = sentence_num - 1
+    if idx == -2:
+        idx = len(sentences) - 1
+    if 0 <= idx < len(sentences):
+        sentences[idx] = new_sentence.strip().rstrip(".")
+        if not sentences[idx].endswith("."):
+            sentences[idx] += "."
+        return " ".join(sentences)
+    if idx >= len(sentences):
+        sentences.append(new_sentence.strip())
+        return " ".join(sentences)
+    return new_sentence
+
+
 def _find_article(law_dict: dict, para_name: str) -> tuple[dict | None, list, int]:
     normalized = re.sub(r"\s+", "", para_name)
 
@@ -107,6 +131,13 @@ def _find_article(law_dict: dict, para_name: str) -> tuple[dict | None, list, in
         if art_name == normalized:
             return art, law_dict["top_level_articles"], i
     return None, [], -1
+
+
+def _parse_punktum_target(sub_target: str) -> int | None:
+    m = re.match(r"(\w+)\s+punktum", sub_target)
+    if m:
+        return _ORDINALS.get(m.group(1).lower())
+    return None
 
 
 def apply_amendment(law_dict: dict, instruction: str, new_text: str,
@@ -156,6 +187,7 @@ def apply_amendment(law_dict: dict, instruction: str, new_text: str,
             ledd_texts[0] = first_text
 
         art["paragraphs"] = [{"text": t, "list_items": []} for t in ledd_texts if t]
+        art["trailing_text"] = ""
         return True
 
     if spec.scope == "heading":
@@ -175,53 +207,46 @@ def apply_amendment(law_dict: dict, instruction: str, new_text: str,
         if li < 0:
             return False
 
+        punktum = _parse_punktum_target(spec.sub_target) if spec.sub_target else None
+
         if spec.is_new:
             insert_at = min(li, len(paragraphs))
             for j, nl in enumerate(new_ledd):
                 paragraphs.insert(insert_at + j, nl)
-        else:
-            if not spec.sub_target:
-                if li <= len(paragraphs):
-                    paragraphs[li:le + 1] = new_ledd
-                else:
-                    paragraphs.extend(new_ledd)
+        elif punktum is not None and li < len(paragraphs):
+            existing_text = _strip_ledd_number(paragraphs[li].get("text", ""))
+            replaced = _replace_sentence(existing_text, punktum, new_text.strip())
+            paragraphs[li] = {"text": replaced, "list_items": paragraphs[li].get("list_items", [])}
+        elif not spec.sub_target:
+            if li <= len(paragraphs):
+                paragraphs[li:le + 1] = new_ledd
             else:
-                if li < len(paragraphs):
-                    paragraphs[li] = {"text": new_text.strip(), "list_items": []}
-                else:
-                    return False
+                paragraphs.extend(new_ledd)
+        else:
+            if li < len(paragraphs):
+                existing_text = _strip_ledd_number(paragraphs[li].get("text", ""))
+                replaced = existing_text.rstrip() + " " + new_text.strip()
+                paragraphs[li] = {"text": replaced, "list_items": paragraphs[li].get("list_items", [])}
+            else:
+                return False
         art["paragraphs"] = paragraphs
         return True
 
     return False
 
 
-def reconstruct_law_at_date(
-    current_law: dict,
-    amendments: list[dict],
-    target_date: str,
-) -> dict:
-    forward = sorted(
-        [a for a in amendments if a["date"] <= target_date],
-        key=lambda a: a["date"],
-    )
+def strip_trailing_text(law_dict: dict) -> None:
+    for section in law_dict.get("sections", []):
+        _strip_section_trailing(section)
+    for art in law_dict.get("top_level_articles", []):
+        art["trailing_text"] = ""
 
-    after = sorted(
-        [a for a in amendments if a["date"] > target_date],
-        key=lambda a: a["date"],
-        reverse=True,
-    )
 
-    law = copy.deepcopy(current_law)
-
-    for a in after:
-        if a["change_type"] == "add" and a.get("scope") == "full":
-            spec = parse_instruction(a["instruction"])
-            art, parent_list, idx = _find_article(law, spec.paragraph)
-            if art and idx >= 0:
-                parent_list.pop(idx)
-
-    return law
+def _strip_section_trailing(section: dict) -> None:
+    for art in section.get("articles", []):
+        art["trailing_text"] = ""
+    for sub in section.get("subsections", []):
+        _strip_section_trailing(sub)
 
 
 def build_paragraph_timeline(amendments: list[dict]) -> dict[str, list[dict]]:
