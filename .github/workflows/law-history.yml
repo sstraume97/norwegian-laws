@@ -47,13 +47,26 @@ jobs:
           "
 
       - name: Push law-history branch and tags
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         run: |
           cd /tmp/law-repo
           git branch -m main law-history
-          git remote add origin https://x-access-token:${{ secrets.GITHUB_TOKEN }}@github.com/${{ github.repository }}.git
-          echo "Before gc: $(du -sh .git/objects | cut -f1)"
           git gc --aggressive --prune=now
-          echo "After gc: $(du -sh .git/objects | cut -f1)"
-          git config http.postBuffer 524288000
-          git push origin law-history
-          git push origin --tags
+          echo "Pack size: $(du -sh .git/objects/pack/ 2>/dev/null | cut -f1 || echo N/A)"
+          
+          # Bundle and push via a fresh clone to avoid fast-import pack issues
+          git bundle create /tmp/laws.bundle law-history --tags
+          echo "Bundle size: $(du -sh /tmp/laws.bundle | cut -f1)"
+          
+          cd /tmp
+          rm -rf push-repo
+          git clone /tmp/laws.bundle push-repo -b law-history
+          cd push-repo
+          git remote set-url origin https://x-access-token:${GH_TOKEN}@github.com/${{ github.repository }}.git
+          git push -f origin law-history
+          
+          # Push tags from original repo
+          cd /tmp/law-repo
+          git remote add origin https://x-access-token:${GH_TOKEN}@github.com/${{ github.repository }}.git
+          git push -f origin --tags
