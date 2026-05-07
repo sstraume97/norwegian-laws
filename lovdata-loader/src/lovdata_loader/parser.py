@@ -310,6 +310,121 @@ def parse_consolidated_archive(archive_path: str) -> list[LawData]:
 
 # ─── Lovtidend Amendment Parser ──────────────────────────────────────────────
 
+_INSTRUCTION_RE = re.compile(
+    r"(§\s*[\d]+[\w\s-]*?)"
+    r"(.*?)"
+    r"(skal lyde|oppheves|endres til|flyttes til|blir ny)",
+    re.DOTALL,
+)
+
+_NEW_SECTION_RE = re.compile(r"Ny(?:tt?)?\s+§\s*[\d]", re.I)
+_RENUMBER_RE = re.compile(r"Nåværende\s+", re.I)
+_KAPITTEL_RE = re.compile(r"(?:Kapittel|kapittel|Kap\.)\s+\d+", re.I)
+_HEADING_RE = re.compile(r"[Oo]verskriften?\s+(?:til\s+)?§", re.I)
+
+
+def _is_old_instruction(text: str) -> bool:
+    return bool(
+        _INSTRUCTION_RE.search(text)
+        or _NEW_SECTION_RE.search(text)
+        or _RENUMBER_RE.match(text)
+        or _KAPITTEL_RE.search(text)
+        or _HEADING_RE.search(text)
+    )
+
+
+def _classify_old_instruction(text: str) -> str:
+    if "oppheves" in text:
+        return "repeal"
+    if _NEW_SECTION_RE.search(text):
+        return "add"
+    if _RENUMBER_RE.match(text):
+        return "renumber"
+    if "skal lyde" in text or "endres til" in text:
+        return "change"
+    if _HEADING_RE.search(text):
+        return "change"
+    return "unknown"
+
+
+def _extract_target(text: str) -> str:
+    m = re.search(r"(§\s*[\d]+[\w-]*(?:\s*[a-z])?)", text)
+    if m:
+        return m.group(1).strip()
+    m = _KAPITTEL_RE.search(text)
+    if m:
+        return m.group(0).strip()
+    return ""
+
+
+def _parse_old_format_section(section: Tag) -> list[Amendment]:
+    children = [c for c in section.children if isinstance(c, Tag)]
+    amendments = []
+    current_instruction = None
+    current_target = ""
+    current_type = "unknown"
+    text_parts = []
+
+    for child in children:
+        classes = child.get("class", [])
+        text = child.get_text(strip=True)
+
+        if child.name in ("h1", "h2", "h3", "h4", "h5", "h6"):
+            continue
+
+        is_instr = "defaultP" in classes and _is_old_instruction(text)
+
+        if is_instr:
+            if current_instruction is not None:
+                amendments.append(Amendment(
+                    change_type=current_type,
+                    target=current_target,
+                    instruction=current_instruction,
+                    new_text="\n".join(text_parts),
+                ))
+
+            current_target = _extract_target(text)
+            current_type = _classify_old_instruction(text)
+
+            if "skal lyde:" in text:
+                parts = text.split("skal lyde:", 1)
+                current_instruction = parts[0].strip() + " skal lyde:"
+                tail = parts[1].strip()
+                text_parts = [tail] if tail else []
+            else:
+                current_instruction = text
+                text_parts = []
+
+        elif current_instruction is not None:
+            if any(c in classes for c in (
+                "legalP", "numberedLegalP", "futureLegalArticle",
+                "listArticle", "centeredP",
+            )):
+                text_parts.append(text)
+            elif "defaultP" in classes and text:
+                text_parts.append(text)
+
+    if current_instruction is not None:
+        amendments.append(Amendment(
+            change_type=current_type,
+            target=current_target,
+            instruction=current_instruction,
+            new_text="\n".join(text_parts),
+        ))
+
+    return amendments
+
+
+def _parse_old_format_amendments(body: Tag) -> list[Amendment]:
+    amendments = []
+    sections = body.find_all("section", recursive=False)
+    if sections:
+        for section in sections:
+            amendments.extend(_parse_old_format_section(section))
+    else:
+        amendments.extend(_parse_old_format_section(body))
+    return amendments
+
 
 def parse_amendment(change_el: Tag) -> Amendment:
     """Parse a single amendment element from Lovtidend XML."""
@@ -371,6 +486,11 @@ def parse_lovtidend_file(content: bytes, filename: str) -> AmendmentActData | No
     amendments = []
     for change_el in soup.find_all("article", class_="change"):
         amendments.append(parse_amendment(change_el))
+
+    if not amendments:
+        body = soup.find("main", class_="documentBody") or soup.find("body")
+        if body:
+            amendments = _parse_old_format_amendments(body)
 
     return AmendmentActData(
         refid=refid,
