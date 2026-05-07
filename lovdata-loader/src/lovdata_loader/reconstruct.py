@@ -1,8 +1,4 @@
-"""Reconstruct historical law text from amendment timeline.
-
-Given a current consolidated law (LawData) and a chronological list of
-amendments, produce the law text as it read at any historical date.
-"""
+"""Reconstruct historical law text from amendment timeline."""
 import copy
 import re
 from dataclasses import dataclass
@@ -82,10 +78,6 @@ def _split_new_text_to_ledd(new_text: str) -> list[str]:
     return lines if lines else [new_text]
 
 
-def _strip_ledd_number(text: str) -> str:
-    return _LEDD_NUMBER_RE.sub("", text)
-
-
 def _split_sentences(text: str) -> list[str]:
     parts = re.split(r"(?<=\.)\s+(?=[A-ZÆØÅ])", text)
     return [p for p in parts if p.strip()]
@@ -99,14 +91,13 @@ def _replace_sentence(ledd_text: str, sentence_num: int, new_sentence: str) -> s
     if idx == -2:
         idx = len(sentences) - 1
     if 0 <= idx < len(sentences):
-        sentences[idx] = new_sentence.strip().rstrip(".")
-        if not sentences[idx].endswith("."):
-            sentences[idx] += "."
+        sentences[idx] = new_sentence.strip()
         return " ".join(sentences)
-    if idx >= len(sentences):
-        sentences.append(new_sentence.strip())
-        return " ".join(sentences)
-    return new_sentence
+    return ledd_text
+
+
+def _normalize_header(text: str) -> str:
+    return re.sub(r"(§\s*\d+[\w-]*(?:\s+[a-z])?)\.", r"\1. ", text).replace(".  ", ". ")
 
 
 def _find_article(law_dict: dict, para_name: str) -> tuple[dict | None, list, int]:
@@ -133,10 +124,41 @@ def _find_article(law_dict: dict, para_name: str) -> tuple[dict | None, list, in
     return None, [], -1
 
 
+def _find_insert_point(law_dict: dict, para_name: str) -> tuple[list, int]:
+    normalized = re.sub(r"\s+", "", para_name)
+    base = re.match(r"(§\d+-\d+)", normalized)
+    if not base:
+        return [], -1
+
+    base_name = base.group(1)
+    suffix = normalized[len(base_name):]
+
+    def search(sections):
+        for section in sections:
+            articles = section.get("articles", [])
+            best_idx = -1
+            for i, art in enumerate(articles):
+                art_name = re.sub(r"\s+", "", art.get("name", ""))
+                if art_name.startswith(base_name):
+                    if art_name <= normalized:
+                        best_idx = i
+            if best_idx >= 0:
+                return articles, best_idx
+            found = search(section.get("subsections", []))
+            if found[1] >= 0:
+                return found
+        return [], -1
+
+    return search(law_dict.get("sections", []))
+
+
 def _parse_punktum_target(sub_target: str) -> int | None:
-    m = re.match(r"(\w+)\s+punktum", sub_target)
+    m = re.match(r"(?:nytt?\s+)?(\w+)\s+punktum", sub_target)
     if m:
-        return _ORDINALS.get(m.group(1).lower())
+        word = m.group(1).lower()
+        if "nytt" in sub_target.lower().split("punktum")[0]:
+            return None
+        return _ORDINALS.get(word)
     return None
 
 
@@ -159,8 +181,8 @@ def apply_amendment(law_dict: dict, instruction: str, new_text: str,
         heading_text = ""
         hm = re.match(r"(§\s*[\d\w-]+\s*[a-z]?\.\s*[^\n]+)", ledd_texts[0])
         if hm:
-            heading_text = hm.group(1)
-            first_text = ledd_texts[0][len(heading_text):].strip()
+            heading_text = _normalize_header(hm.group(1))
+            first_text = ledd_texts[0][len(hm.group(1)):].strip()
             ledd_texts[0] = first_text
 
         new_art = {
@@ -169,10 +191,12 @@ def apply_amendment(law_dict: dict, instruction: str, new_text: str,
             "paragraphs": [{"text": t, "list_items": []} for t in ledd_texts if t],
             "trailing_text": "",
         }
-        _, parent_list, idx = _find_article(law_dict, spec.paragraph)
+
+        parent_list, idx = _find_insert_point(law_dict, spec.paragraph)
         if parent_list:
             parent_list.insert(idx + 1, new_art)
-        return True
+            return True
+        return False
 
     art, parent_list, idx = _find_article(law_dict, spec.paragraph)
     if not art:
@@ -182,7 +206,7 @@ def apply_amendment(law_dict: dict, instruction: str, new_text: str,
         ledd_texts = _split_new_text_to_ledd(new_text)
         hm = re.match(r"(§\s*[\d\w-]+\s*[a-z]?\.\s*[^\n]+)", ledd_texts[0])
         if hm:
-            art["header_text"] = hm.group(1)
+            art["header_text"] = _normalize_header(hm.group(1))
             first_text = ledd_texts[0][len(hm.group(1)):].strip()
             ledd_texts[0] = first_text
 
@@ -191,7 +215,7 @@ def apply_amendment(law_dict: dict, instruction: str, new_text: str,
         return True
 
     if spec.scope == "heading":
-        art["header_text"] = new_text.strip()
+        art["header_text"] = _normalize_header(new_text.strip())
         return True
 
     if spec.scope == "ledd" and spec.ledd_start is not None:
@@ -207,28 +231,29 @@ def apply_amendment(law_dict: dict, instruction: str, new_text: str,
         if li < 0:
             return False
 
-        punktum = _parse_punktum_target(spec.sub_target) if spec.sub_target else None
-
         if spec.is_new:
             insert_at = min(li, len(paragraphs))
             for j, nl in enumerate(new_ledd):
                 paragraphs.insert(insert_at + j, nl)
-        elif punktum is not None and li < len(paragraphs):
-            existing_text = _strip_ledd_number(paragraphs[li].get("text", ""))
-            replaced = _replace_sentence(existing_text, punktum, new_text.strip())
-            paragraphs[li] = {"text": replaced, "list_items": paragraphs[li].get("list_items", [])}
-        elif not spec.sub_target:
-            if li <= len(paragraphs):
-                paragraphs[li:le + 1] = new_ledd
-            else:
-                paragraphs.extend(new_ledd)
-        else:
-            if li < len(paragraphs):
-                existing_text = _strip_ledd_number(paragraphs[li].get("text", ""))
-                replaced = existing_text.rstrip() + " " + new_text.strip()
+            art["paragraphs"] = paragraphs
+            return True
+
+        if spec.sub_target:
+            punktum = _parse_punktum_target(spec.sub_target)
+            if punktum is not None and li < len(paragraphs):
+                existing = _LEDD_NUMBER_RE.sub("", paragraphs[li].get("text", ""))
+                replaced = _replace_sentence(existing, punktum, new_text.strip())
                 paragraphs[li] = {"text": replaced, "list_items": paragraphs[li].get("list_items", [])}
-            else:
-                return False
+                art["paragraphs"] = paragraphs
+                return True
+            return False
+
+        if li < len(paragraphs):
+            paragraphs[li:le + 1] = new_ledd
+        elif li == len(paragraphs):
+            paragraphs.extend(new_ledd)
+        else:
+            return False
         art["paragraphs"] = paragraphs
         return True
 
