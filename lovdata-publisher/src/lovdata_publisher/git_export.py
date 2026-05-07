@@ -331,10 +331,11 @@ def build_history(
         capture_output=True,
     )
 
-    # Read and format all laws
+    # Read and format all laws, keeping JSON dicts for reconstruction
     print("  Reading and formatting laws from snapshot...")
     all_files = {}
     law_refids = {}
+    law_dicts = {}
     for path in sorted(laws_dir.glob("*.json")):
         data = json.loads(path.read_text(encoding="utf-8"))
         refid = data.get("refid", "")
@@ -344,6 +345,7 @@ def build_history(
         filepath = refid_to_filepath(refid)
         all_files[filepath] = md
         law_refids[refid] = filepath
+        law_dicts[refid] = data
 
     readme_md = generate_tag_readme(law_refids, all_files)
     all_files["lover/README.md"] = readme_md
@@ -378,32 +380,59 @@ def build_history(
         act = dict(row)
         changes_to = [r for r in act.get("changes_to", "").split(",") if r.strip()]
 
+        # Load amendment instructions for this act
+        act_amendments = conn.execute(
+            """
+            SELECT change_type, target_law, instruction, new_text
+            FROM amendments
+            WHERE act_refid = ? AND length(new_text) > 0
+        """,
+            (act["refid"],),
+        ).fetchall()
+
         affected = {}
         for law_refid in changes_to:
             filepath = refid_to_filepath(law_refid)
-            if filepath in all_files:
-                content = all_files[filepath]
-                if "sist-endret:" in content:
-                    content = re.sub(
-                        r'sist-endret: ".*?"',
-                        f'sist-endret: "{act["refid"]}"',
-                        content,
-                        count=1,
-                    )
-                else:
-                    content = content.replace(
-                        "\n---\n\n",
-                        f'\nsist-endret: "{act["refid"]}"\n---\n\n',
-                        1,
-                    )
-                affected[filepath] = content
-                all_files[filepath] = content
-            else:
+            if filepath not in all_files:
                 affected[filepath] = (
                     f'---\nrefid: "{law_refid}"\n'
                     f'sist-endret: "{act["refid"]}"\n---\n\n'
                     f"# {law_refid}\n\n(Lov ikke i gjeldende-lover arkiv)\n"
                 )
+                continue
+
+            # Apply amendment instructions to the law JSON
+            law_data = law_dicts.get(law_refid)
+            text_changed = False
+            if law_data:
+                from lovdata_loader.reconstruct import apply_amendment
+
+                for ctype, tlaw, instr, new_text in act_amendments:
+                    if tlaw == law_refid:
+                        if apply_amendment(law_data, instr, new_text, ctype):
+                            text_changed = True
+
+            if text_changed:
+                content = format_law_markdown(law_data)
+            else:
+                content = all_files[filepath]
+
+            # Update frontmatter
+            if "sist-endret:" in content:
+                content = re.sub(
+                    r'sist-endret: ".*?"',
+                    f'sist-endret: "{act["refid"]}"',
+                    content,
+                    count=1,
+                )
+            else:
+                content = content.replace(
+                    "\n---\n\n",
+                    f'\nsist-endret: "{act["refid"]}"\n---\n\n',
+                    1,
+                )
+            affected[filepath] = content
+            all_files[filepath] = content
 
         if affected:
             stream.add_amendment_commit(act, affected)
