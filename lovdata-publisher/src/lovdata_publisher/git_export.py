@@ -413,7 +413,7 @@ def build_history(
             text_changed = False
             for ctype, tlaw, instr, new_text in act_amendments:
                 if tlaw == law_refid:
-                    if False and apply_amendment(law_data, instr, new_text, ctype):
+                    if apply_amendment(law_data, instr, new_text, ctype):
                         text_changed = True
 
             if text_changed:
@@ -443,8 +443,9 @@ def build_history(
 
     conn.close()
 
-    # Reset body-modified laws to current consolidated text at sist-endret date.
-    reset_events = defaultdict(dict)
+    # Single reset commit: snap all body-modified laws back to current text.
+    reset_files = {}
+    latest_date = "2001-01-01"
     for path in sorted(laws_dir.glob("*.json")):
         data = json.loads(path.read_text(encoding="utf-8"))
         refid = data.get("refid", "")
@@ -452,29 +453,27 @@ def build_history(
             continue
         filepath = law_refids[refid]
         effective = data.get("last_amended_in_force", "") or data.get("date_in_force", "")
-        if not effective:
-            m = re.search(r"(\d{4}-\d{2}-\d{2})", refid)
-            effective = m.group(1) if m else "2001-01-01"
+        if effective and effective > latest_date:
+            latest_date = effective
         current = original_texts.get(filepath, "")
-        if current:
-            reset_events[effective][filepath] = current
+        if current and current != all_files.get(filepath, ""):
+            reset_files[filepath] = current
             all_files[filepath] = current
 
-    for date in sorted(reset_events.keys()):
-        files = reset_events[date]
+    if reset_files:
         act_data = {
-            "refid": f"gjeldende-lover/{date}",
-            "title": f"Gjeldende konsolidert tekst ({len(files)} lover)",
+            "refid": f"gjeldende-lover/{latest_date}",
+            "title": f"Gjeldende konsolidert tekst ({len(reset_files)} lover)",
             "short_title": "",
-            "date_in_force": date,
-            "date_in_force_resolved": date,
-            "date_published": date,
+            "date_in_force": latest_date,
+            "date_in_force_resolved": latest_date,
+            "date_published": latest_date,
         }
-        stream.add_amendment_commit(act_data, files)
+        stream.add_amendment_commit(act_data, reset_files)
 
     print(
         f"  Generated {stream.mark_counter} commits "
-        f"(1 initial + amendments + {len(reset_events)} resets)"
+        f"(1 initial + amendments + {'1 reset' if reset_files else '0 resets'})"
     )
 
     # Execute
