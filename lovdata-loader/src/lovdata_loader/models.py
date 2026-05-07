@@ -109,6 +109,7 @@ class Amendment:
     target: str           # e.g. lov/1999-07-02-64/§21
     instruction: str      # e.g. "§ 21 skal lyde:"
     new_text: str
+    target_law: str = ""  # e.g. lov/1998-07-17-56
 
 
 @dataclass

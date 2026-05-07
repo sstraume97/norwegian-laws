@@ -40,11 +40,13 @@ def init_db(db_path: str) -> sqlite3.Connection:
             act_refid TEXT REFERENCES amendment_acts(refid),
             change_type TEXT,
             target TEXT,
+            target_law TEXT,
             instruction TEXT,
             new_text TEXT
         );
         CREATE INDEX IF NOT EXISTS idx_amendments_act ON amendments(act_refid);
         CREATE INDEX IF NOT EXISTS idx_acts_date ON amendment_acts(date_in_force_resolved);
+        CREATE INDEX IF NOT EXISTS idx_amendments_law ON amendments(target_law);
     """)
     return conn
 
@@ -89,10 +91,10 @@ def store_amendment_act(conn: sqlite3.Connection, act: AmendmentActData):
     for a in act.amendments:
         conn.execute(
             """
-            INSERT INTO amendments (act_refid, change_type, target, instruction, new_text)
-            VALUES (?, ?, ?, ?, ?)
+            INSERT INTO amendments (act_refid, change_type, target, target_law, instruction, new_text)
+            VALUES (?, ?, ?, ?, ?, ?)
         """,
-            (act.refid, a.change_type, a.target, a.instruction, a.new_text),
+            (act.refid, a.change_type, a.target, a.target_law, a.instruction, a.new_text),
         )
 
 

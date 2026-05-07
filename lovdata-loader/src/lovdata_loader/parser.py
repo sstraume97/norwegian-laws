@@ -357,9 +357,39 @@ def _extract_target(text: str) -> str:
     return ""
 
 
-def _parse_old_format_section(section: Tag) -> list[Amendment]:
+_MONTHS = {
+    "januar": "01", "februar": "02", "mars": "03", "april": "04",
+    "mai": "05", "juni": "06", "juli": "07", "august": "08",
+    "september": "09", "oktober": "10", "november": "11", "desember": "12",
+}
+
+
+def _extract_law_refid_from_preamble(text: str) -> str:
+    m = re.search(
+        r"lov\s+(?:av\s+)?(\d+)\.\s*(\w+)\s+(\d{4})\s+nr\.\s*(\d+)", text
+    )
+    if not m:
+        return ""
+    day, month_name, year, nr = m.groups()
+    month = _MONTHS.get(month_name.lower(), "")
+    if not month:
+        return ""
+    return f"lov/{year}-{month}-{day.zfill(2)}-{nr}"
+
+
+def _parse_old_format_section(section: Tag, target_law: str = "") -> list[Amendment]:
     children = [c for c in section.children if isinstance(c, Tag)]
     amendments = []
+
+    if not target_law:
+        for child in children:
+            if child.name in ("h1", "h2", "h3", "h4", "h5", "h6"):
+                continue
+            target_law = _extract_law_refid_from_preamble(
+                child.get_text(strip=True)
+            )
+            break
+
     current_instruction = None
     current_target = ""
     current_type = "unknown"
@@ -381,6 +411,7 @@ def _parse_old_format_section(section: Tag) -> list[Amendment]:
                     target=current_target,
                     instruction=current_instruction,
                     new_text="\n".join(text_parts),
+                    target_law=target_law,
                 ))
 
             current_target = _extract_target(text)
@@ -410,6 +441,7 @@ def _parse_old_format_section(section: Tag) -> list[Amendment]:
             target=current_target,
             instruction=current_instruction,
             new_text="\n".join(text_parts),
+            target_law=target_law,
         ))
 
     return amendments
@@ -460,11 +492,18 @@ def parse_amendment(change_el: Tag) -> Amendment:
             continue
         new_text_parts.append(ledd.get_text(strip=True))
 
+    target_law = ""
+    if target:
+        m = re.match(r"(lov/[\d-]+)", target)
+        if m:
+            target_law = m.group(1)
+
     return Amendment(
         change_type=change_type,
         target=target,
         instruction=instruction,
         new_text="\n".join(new_text_parts),
+        target_law=target_law,
     )
 
 
