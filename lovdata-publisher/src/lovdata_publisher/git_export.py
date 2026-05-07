@@ -371,6 +371,9 @@ def build_history(
     )
     print(f"  Initial commit: {len(all_files)} files")
 
+    # Save original current text before amendments mutate law_dicts
+    original_texts = dict(all_files)
+
     # Read amendment acts from SQLite and create commits
     conn = sqlite3.connect(db_path)
     conn.row_factory = sqlite3.Row
@@ -438,9 +441,39 @@ def build_history(
 
     conn.close()
 
+    # Reset each law to current consolidated text at its sist-endret date.
+    # Groups by date so laws sharing the same effective date share one commit.
+    reset_events = defaultdict(dict)
+    for path in sorted(laws_dir.glob("*.json")):
+        data = json.loads(path.read_text(encoding="utf-8"))
+        refid = data.get("refid", "")
+        if not refid or refid not in law_refids:
+            continue
+        filepath = law_refids[refid]
+        effective = data.get("last_amended_in_force", "") or data.get("date_in_force", "")
+        if not effective:
+            m = re.search(r"(\d{4}-\d{2}-\d{2})", refid)
+            effective = m.group(1) if m else "2001-01-01"
+        current = original_texts.get(filepath, "")
+        if current and current != all_files.get(filepath, ""):
+            reset_events[effective][filepath] = current
+            all_files[filepath] = current
+
+    for date in sorted(reset_events.keys()):
+        files = reset_events[date]
+        act_data = {
+            "refid": f"gjeldende-lover/{date}",
+            "title": f"Gjeldende konsolidert tekst ({len(files)} lover)",
+            "short_title": "",
+            "date_in_force": date,
+            "date_in_force_resolved": date,
+            "date_published": date,
+        }
+        stream.add_amendment_commit(act_data, files)
+
     print(
         f"  Generated {stream.mark_counter} commits "
-        f"(1 initial + {stream.mark_counter - 1} amendments)"
+        f"(1 initial + amendments + {len(reset_events)} resets)"
     )
 
     # Execute
