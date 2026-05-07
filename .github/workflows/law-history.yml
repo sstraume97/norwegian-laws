@@ -52,29 +52,25 @@ jobs:
           git branch -m main law-history
           git remote add origin https://x-access-token:${{ secrets.GITHUB_TOKEN }}@github.com/${{ github.repository }}.git
           git config http.postBuffer 524288000
-          git gc --aggressive --prune=now
+          git repack -a -d --depth=250 --window=250
           
-          # Push in batches — GitHub rejects large single pushes
+          # Delete old branch to avoid reconciliation overhead
+          git push origin --delete law-history 2>/dev/null || true
+          
+          # Push incrementally
           TOTAL=$(git rev-list --count law-history)
-          BATCH=500
+          BATCH=100
           echo "Total commits: $TOTAL, pushing in batches of $BATCH"
           
-          COMMITS=$(git rev-list --reverse law-history)
           i=0
-          LAST=""
           while IFS= read -r sha; do
             i=$((i + 1))
-            LAST="$sha"
             if [ $((i % BATCH)) -eq 0 ]; then
-              echo "Pushing commit $i/$TOTAL ($sha)"
-              git push -f origin "$sha:refs/heads/law-history"
+              echo "Pushing batch at commit $i/$TOTAL"
+              git push origin "$sha:refs/heads/law-history" 2>&1 || true
             fi
-          done <<< "$COMMITS"
+          done < <(git rev-list --reverse law-history)
           
-          # Push remaining
-          if [ -n "$LAST" ]; then
-            echo "Pushing final ($i commits)"
-            git push -f origin law-history
-          fi
-          
+          echo "Pushing final ($i commits)"
+          git push -f origin law-history
           git push -f origin --tags
