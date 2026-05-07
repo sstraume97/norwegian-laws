@@ -51,5 +51,7 @@ jobs:
           cd /tmp/law-repo
           git branch -m main law-history
           git remote add origin https://x-access-token:${{ secrets.GITHUB_TOKEN }}@github.com/${{ github.repository }}.git
-          git push -f origin law-history
+          git config http.postBuffer 524288000
+          git gc --aggressive --prune=now
+          git push -f origin law-history || git push -f origin law-history
           git push -f origin --tags
