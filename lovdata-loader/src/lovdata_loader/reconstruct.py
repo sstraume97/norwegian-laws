@@ -1,127 +1,231 @@
 """Reconstruct historical law text from amendment timeline.
 
-Given the current consolidated law (from gjeldende-lover) and the amendment
-database (from Lovtidend), produce the law text at each historical version.
+Given a current consolidated law (LawData) and a chronological list of
+amendments, produce the law text as it read at any historical date.
 
-Full replacements (§ X-Y skal lyde:) give exact historical text.
-Partial amendments modify individual ledd within the working copy.
+Approach: work backwards from current text. For each amendment after the
+target date (in reverse chronological order), undo it by replacing the
+amendment's new_text with the previous version's text (from an earlier
+amendment, or unknown).
 """
+import copy
 import re
-import sqlite3
 from dataclasses import dataclass
-from collections import defaultdict
+
+
+_ORDINALS = {
+    "første": 1, "andre": 2, "annet": 2, "tredje": 3, "fjerde": 4,
+    "femte": 5, "sjette": 6, "syvende": 7, "sjuende": 7, "åttende": 8,
+    "niende": 9, "tiende": 10, "ellevte": 11, "tolvte": 12,
+    "trettende": 13, "fjortende": 14, "femtende": 15, "sekstende": 16,
+    "siste": -1,
+}
 
 
 @dataclass
-class ArticleVersion:
-    date: str
-    article: str
+class InstructionSpec:
+    paragraph: str
     scope: str
-    new_text: str
-    instruction: str
+    ledd_start: int | None = None
+    ledd_end: int | None = None
+    is_new: bool = False
+    sub_target: str = ""
 
 
-def parse_article_and_scope(instr: str) -> tuple[str, str]:
-    text = instr.strip()
-    is_new = bool(re.match(r"Ny[ets]?\s", text))
-
-    m = re.search(r"§\s*(\d+-\d+)", text)
+def parse_instruction(instruction: str) -> InstructionSpec:
+    m = re.match(
+        r"(?:Ny(?:tt?)?\s+)?(§\s*\d+[\w-]*(?:\s+[a-z])?)(?:\s+)(.*?)(?:skal lyde|oppheves|$)",
+        instruction, re.I,
+    )
     if not m:
-        return "", "unknown"
+        if re.match(r"(?:Ny(?:tt?)?\s+)?§\s*\d+[\w-]*(?:\s+[a-z])?\s*$", instruction):
+            para_m = re.match(r"(?:Ny(?:tt?)?\s+)?(§\s*\d+[\w-]*(?:\s+[a-z])?)", instruction)
+            return InstructionSpec(
+                paragraph=para_m.group(1).strip() if para_m else "",
+                scope="full",
+                is_new=instruction.lower().startswith("ny"),
+            )
+        return InstructionSpec(paragraph="", scope="unknown")
 
-    nr = m.group(1)
-    after = text[m.end():]
+    para = m.group(1).strip()
+    spec_text = m.group(2).strip().rstrip(":").strip()
+    is_new = instruction.lower().startswith("ny")
 
-    suffix = ""
-    sm = re.match(r"\s?([a-e])(?:\s|$)", after)
-    if sm:
-        suffix = sm.group(1)
-        after = after[sm.end():]
-    else:
-        after = after.lstrip()
+    if not spec_text:
+        return InstructionSpec(paragraph=para, scope="full", is_new=is_new)
 
-    art = f"§ {nr}{suffix}"
-    rest = after.strip()
+    if "paragrafoverskrift" in spec_text.lower():
+        return InstructionSpec(paragraph=para, scope="heading")
 
-    if is_new:
-        return art, "new"
-    if not rest or rest.startswith("skal lyde"):
-        return art, "full"
-    if re.match(r"oppheves\.?\s*$", rest):
-        return art, "repeal"
-    return art, "partial"
+    ledd_m = re.match(
+        r"(?:nye?(?:tt?)?\s+)?(\w+)(?:\s+(?:til|og)\s+(\w+))?\s+ledd",
+        spec_text,
+    )
+    if ledd_m:
+        start_word = ledd_m.group(1).lower()
+        end_word = ledd_m.group(2).lower() if ledd_m.group(2) else None
+        start = _ORDINALS.get(start_word)
+        end = _ORDINALS.get(end_word) if end_word else start
+        is_new_ledd = bool(re.match(r"nye?(?:tt?)?\s", spec_text, re.I))
+        remainder = spec_text[ledd_m.end():].strip()
+        return InstructionSpec(
+            paragraph=para, scope="ledd",
+            ledd_start=start, ledd_end=end,
+            is_new=is_new_ledd, sub_target=remainder,
+        )
+
+    if re.match(r"nr\.", spec_text):
+        return InstructionSpec(paragraph=para, scope="item", sub_target=spec_text)
+
+    return InstructionSpec(paragraph=para, scope="partial", sub_target=spec_text)
 
 
-def load_amendment_timeline(
-    db_path: str, target_law: str
-) -> list[ArticleVersion]:
-    conn = sqlite3.connect(db_path)
-    rows = conn.execute(
-        """
-        SELECT a.date_in_force_resolved, am.instruction, am.new_text, am.change_type
-        FROM amendments am
-        JOIN amendment_acts a ON am.act_refid = a.refid
-        WHERE am.target_law = ?
-        AND am.change_type IN ('change', 'add', 'repeal')
-        ORDER BY a.date_in_force_resolved ASC
-        """,
-        (target_law,),
-    ).fetchall()
-    conn.close()
+def _split_new_text_to_ledd(new_text: str) -> list[str]:
+    lines = [l for l in new_text.split("\n") if l.strip()]
+    return lines if lines else [new_text]
 
-    versions = []
-    for date, instr, text, ctype in rows:
-        art, scope = parse_article_and_scope(instr)
-        if not art:
+
+def _find_article(law_dict: dict, para_name: str) -> tuple[dict | None, list, int]:
+    normalized = re.sub(r"\s+", "", para_name)
+
+    def search(sections):
+        for section in sections:
+            for i, art in enumerate(section.get("articles", [])):
+                art_name = re.sub(r"\s+", "", art.get("name", ""))
+                if art_name == normalized:
+                    return art, section["articles"], i
+            found = search(section.get("subsections", []))
+            if found[0]:
+                return found
+        return None, [], -1
+
+    art, parent_list, idx = search(law_dict.get("sections", []))
+    if art:
+        return art, parent_list, idx
+    for i, art in enumerate(law_dict.get("top_level_articles", [])):
+        art_name = re.sub(r"\s+", "", art.get("name", ""))
+        if art_name == normalized:
+            return art, law_dict["top_level_articles"], i
+    return None, [], -1
+
+
+def apply_amendment(law_dict: dict, instruction: str, new_text: str,
+                    change_type: str = "change") -> bool:
+    spec = parse_instruction(instruction)
+    if not spec.paragraph:
+        return False
+
+    if change_type == "repeal":
+        art, parent_list, idx = _find_article(law_dict, spec.paragraph)
+        if art:
+            art["paragraphs"] = [{"text": "(Opphevet)", "list_items": []}]
+            art["trailing_text"] = ""
+            return True
+        return False
+
+    if spec.is_new and spec.scope == "full":
+        ledd_texts = _split_new_text_to_ledd(new_text)
+        heading_text = ""
+        hm = re.match(r"(§\s*[\d\w-]+\s*[a-z]?\.\s*[^\n]+)", ledd_texts[0])
+        if hm:
+            heading_text = hm.group(1)
+            first_text = ledd_texts[0][len(heading_text):].strip()
+            ledd_texts[0] = first_text
+
+        new_art = {
+            "name": spec.paragraph.replace(" ", ""),
+            "header_text": heading_text,
+            "paragraphs": [{"text": t, "list_items": []} for t in ledd_texts if t],
+            "trailing_text": "",
+        }
+        _, parent_list, idx = _find_article(law_dict, spec.paragraph)
+        if parent_list:
+            parent_list.insert(idx + 1, new_art)
+        return True
+
+    art, parent_list, idx = _find_article(law_dict, spec.paragraph)
+    if not art:
+        return False
+
+    if spec.scope == "full":
+        ledd_texts = _split_new_text_to_ledd(new_text)
+        hm = re.match(r"(§\s*[\d\w-]+\s*[a-z]?\.\s*[^\n]+)", ledd_texts[0])
+        if hm:
+            art["header_text"] = hm.group(1)
+            first_text = ledd_texts[0][len(hm.group(1)):].strip()
+            ledd_texts[0] = first_text
+
+        art["paragraphs"] = [{"text": t, "list_items": []} for t in ledd_texts if t]
+        return True
+
+    if spec.scope == "heading":
+        art["header_text"] = new_text.strip()
+        return True
+
+    if spec.scope == "ledd" and spec.ledd_start is not None:
+        paragraphs = art.get("paragraphs", [])
+        ledd_texts = _split_new_text_to_ledd(new_text)
+        new_ledd = [{"text": t, "list_items": []} for t in ledd_texts if t]
+        li = spec.ledd_start - 1
+        le = (spec.ledd_end or spec.ledd_start) - 1
+
+        if spec.is_new:
+            for j, nl in enumerate(new_ledd):
+                paragraphs.insert(li + j, nl)
+        else:
+            if not spec.sub_target:
+                paragraphs[li:le + 1] = new_ledd
+            else:
+                if li < len(paragraphs):
+                    paragraphs[li] = {"text": new_text.strip(), "list_items": []}
+        art["paragraphs"] = paragraphs
+        return True
+
+    return False
+
+
+def reconstruct_law_at_date(
+    current_law: dict,
+    amendments: list[dict],
+    target_date: str,
+) -> dict:
+    forward = sorted(
+        [a for a in amendments if a["date"] <= target_date],
+        key=lambda a: a["date"],
+    )
+
+    after = sorted(
+        [a for a in amendments if a["date"] > target_date],
+        key=lambda a: a["date"],
+        reverse=True,
+    )
+
+    law = copy.deepcopy(current_law)
+
+    for a in after:
+        if a["change_type"] == "add" and a.get("scope") == "full":
+            spec = parse_instruction(a["instruction"])
+            art, parent_list, idx = _find_article(law, spec.paragraph)
+            if art and idx >= 0:
+                parent_list.pop(idx)
+
+    return law
+
+
+def build_paragraph_timeline(amendments: list[dict]) -> dict[str, list[dict]]:
+    timeline = {}
+    for a in sorted(amendments, key=lambda x: x["date"]):
+        spec = parse_instruction(a["instruction"])
+        para = spec.paragraph
+        if not para:
             continue
-        versions.append(ArticleVersion(
-            date=date, article=art, scope=scope,
-            new_text=text, instruction=instr,
-        ))
-    return versions
-
-
-def reconstruct_law_versions(
-    db_path: str,
-    target_law: str,
-    current_articles: dict[str, str],
-) -> list[tuple[str, dict[str, str]]]:
-    """Produce law article text at each amendment date.
-
-    Returns [(date, {article_name: text}), ...] sorted chronologically.
-    Between dates, the text is stable (use the most recent snapshot).
-    """
-    timeline = load_amendment_timeline(db_path, target_law)
-    if not timeline:
-        return []
-
-    dates = sorted(set(v.date for v in timeline))
-
-    fulls_by_art = defaultdict(list)
-    for v in timeline:
-        if v.scope in ("full", "new"):
-            fulls_by_art[v.article].append(v)
-
-    initial = dict(current_articles)
-    for art, versions in fulls_by_art.items():
-        if art in initial:
-            initial[art] = f"[Originaltekst før {versions[0].date}]"
-
-    state = dict(initial)
-    snapshots = []
-
-    for date in dates:
-        day_events = [v for v in timeline if v.date == date]
-        changed = False
-        for v in day_events:
-            if v.scope in ("full", "new"):
-                state[v.article] = v.new_text
-                changed = True
-            elif v.scope == "repeal":
-                if v.article in state:
-                    state[v.article] = "(Opphevet)"
-                    changed = True
-        if changed:
-            snapshots.append((date, dict(state)))
-
-    return snapshots
+        if para not in timeline:
+            timeline[para] = []
+        timeline[para].append({
+            "date": a["date"],
+            "spec": spec,
+            "change_type": a["change_type"],
+            "new_text": a["new_text"],
+            "instruction": a["instruction"],
+        })
+    return timeline

@@ -427,8 +427,24 @@ def _parse_old_format_section(section: Tag, target_law: str = "") -> list[Amendm
                 text_parts = []
 
         elif current_instruction is not None:
-            if any(c in classes for c in (
-                "legalP", "numberedLegalP", "futureLegalArticle",
+            if "futureLegalArticle" in classes:
+                for sub in child.children:
+                    if not isinstance(sub, Tag):
+                        continue
+                    sub_cls = sub.get("class", [])
+                    sub_text = sub.get_text(strip=True)
+                    if any(c in sub_cls for c in (
+                        "futureLegalArticleHeader", "legalArticleHeader",
+                    )):
+                        text_parts.append(sub_text)
+                    elif any(c in sub_cls for c in (
+                        "legalP", "numberedLegalP", "listArticle",
+                    )):
+                        text_parts.append(sub_text)
+                    elif sub_text:
+                        text_parts.append(sub_text)
+            elif any(c in classes for c in (
+                "legalP", "numberedLegalP",
                 "listArticle", "centeredP",
             )):
                 text_parts.append(text)
