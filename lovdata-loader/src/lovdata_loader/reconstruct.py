@@ -169,15 +169,27 @@ def apply_amendment(law_dict: dict, instruction: str, new_text: str,
         li = spec.ledd_start - 1
         le = (spec.ledd_end or spec.ledd_start) - 1
 
+        if li == -2:
+            li = len(paragraphs) - 1
+            le = li
+        if li < 0:
+            return False
+
         if spec.is_new:
+            insert_at = min(li, len(paragraphs))
             for j, nl in enumerate(new_ledd):
-                paragraphs.insert(li + j, nl)
+                paragraphs.insert(insert_at + j, nl)
         else:
             if not spec.sub_target:
-                paragraphs[li:le + 1] = new_ledd
+                if li <= len(paragraphs):
+                    paragraphs[li:le + 1] = new_ledd
+                else:
+                    paragraphs.extend(new_ledd)
             else:
                 if li < len(paragraphs):
                     paragraphs[li] = {"text": new_text.strip(), "list_items": []}
+                else:
+                    return False
         art["paragraphs"] = paragraphs
         return True
 
