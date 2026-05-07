@@ -51,7 +51,9 @@ jobs:
           cd /tmp/law-repo
           git branch -m main law-history
           git remote add origin https://x-access-token:${{ secrets.GITHUB_TOKEN }}@github.com/${{ github.repository }}.git
-          # Debug: show repo stats
-          echo "Objects: $(git rev-list --count --all) commits, $(du -sh .git/objects | cut -f1) objects dir"
+          echo "Before gc: $(du -sh .git/objects | cut -f1)"
+          git gc --aggressive --prune=now
+          echo "After gc: $(du -sh .git/objects | cut -f1)"
+          git config http.postBuffer 524288000
           git push -f origin law-history
           git push -f origin --tags
