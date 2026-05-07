@@ -355,19 +355,40 @@ def build_history(
 
     print(f"  {len(law_refids)} laws loaded")
 
-    # Seed commit (README only — git needs a root)
+    # Seed commit: blank law files (frontmatter + title, no body text).
+    # Creates commit history anchor so git log works for every law.
     stream = FastImportStream(repo_path)
+    all_files = {}
+    for refid, data in law_dicts.items():
+        filepath = law_refids[refid]
+        lines = ["---"]
+        lines.append(f"tittel: \"{data['title']}\"")
+        if data.get("short_title"):
+            lines.append(f"korttittel: \"{data['short_title']}\"")
+        lines.append(f"refid: \"{refid}\"")
+        lines.append(f"departement: \"{data.get('ministry', '')}\"")
+        lines.append(f"ikrafttredelse: \"{data.get('date_in_force', '')}\"")
+        lines.append("---")
+        lines.append("")
+        lines.append(f"# {data['title']}")
+        lines.append("")
+        all_files[filepath] = "\n".join(lines)
+
     readme = (
         f"# Norges lover — lovhistorikk\n\n"
         f"Rekonstruert fra Norsk Lovtidend (2001–) og gjeldende-lover.tar.bz2.\n"
-        f"Hver lov opptrer på datoen den sist trådte i kraft.\n"
         f"Lisens: NLOD 2.0\n"
     )
+    all_files["lover/README.md"] = readme
+
     stream.add_initial_commit(
-        {"lover/README.md": readme},
+        all_files,
         timestamp="2001-01-01",
-        message="Opprett lovhistorikk",
+        message=f"Grunnlinje: {len(law_refids)} lover (frontmatter)\n\n"
+        f"Tomme lovfiler. Tekst fra Norsk Lovtidend og gjeldende-lover\n"
+        f"legges til på ikrafttredelsesdato i påfølgende commits.",
     )
+    print(f"  Initial commit: {len(law_refids)} blank law files")
 
     # Build "current text" events: one per law at its effective date
     current_text_events = []
