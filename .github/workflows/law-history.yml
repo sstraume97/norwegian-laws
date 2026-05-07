@@ -51,5 +51,7 @@ jobs:
           cd /tmp/law-repo
           git branch -m main law-history
           git remote add origin https://x-access-token:${{ secrets.GITHUB_TOKEN }}@github.com/${{ github.repository }}.git
+          git repack -a -d -f --depth=250 --window=250
+          echo "Pack size: $(du -sh .git/objects/pack/)"
           git push -f origin law-history
           git push -f origin --tags
