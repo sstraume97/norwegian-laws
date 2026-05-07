@@ -55,5 +55,5 @@ jobs:
           git gc --aggressive --prune=now
           echo "After gc: $(du -sh .git/objects | cut -f1)"
           git config http.postBuffer 524288000
-          git push -f origin law-history
-          git push -f origin --tags
+          git push origin law-history
+          git push origin --tags
