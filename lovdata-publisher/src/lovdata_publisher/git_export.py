@@ -291,35 +291,6 @@ def create_yearly_tags(repo_path: str) -> dict[str, str]:
 # ─── Build History Pipeline ──────────────────────────────────────────────────
 
 
-def _filter_observed(law_dict: dict, observed_names: set) -> dict:
-    """Return a copy of law_dict containing only articles with Lovtidend observations."""
-    import copy
-
-    def filter_section(section):
-        filtered_articles = [
-            a for a in section.get("articles", [])
-            if re.sub(r"\s+", "", a.get("name", "")) in observed_names
-        ]
-        filtered_subs = [filter_section(s) for s in section.get("subsections", [])]
-        filtered_subs = [s for s in filtered_subs
-                         if s.get("articles") or s.get("subsections")]
-        result = copy.copy(section)
-        result["articles"] = filtered_articles
-        result["subsections"] = filtered_subs
-        return result
-
-    result = copy.copy(law_dict)
-    result["sections"] = [
-        s for s in (filter_section(sec) for sec in law_dict.get("sections", []))
-        if s.get("articles") or s.get("subsections")
-    ]
-    result["top_level_articles"] = [
-        a for a in law_dict.get("top_level_articles", [])
-        if re.sub(r"\s+", "", a.get("name", "")) in observed_names
-    ]
-    return result
-
-
 def build_history(
     snapshot_dir: str,
     repo_path: str,
@@ -360,48 +331,26 @@ def build_history(
         capture_output=True,
     )
 
-    # Read law metadata only — body text excluded from initial commit.
-    # Text appears only when Lovtidend provides an observation at a specific date.
-    print("  Reading law metadata from snapshot...")
+    # Read and format all laws, keeping JSON dicts for reconstruction
+    print("  Reading and formatting laws from snapshot...")
     all_files = {}
     law_refids = {}
     law_dicts = {}
-
-    from lovdata_loader.reconstruct import (
-        strip_trailing_text, apply_amendment, parse_instruction,
-    )
-
     for path in sorted(laws_dir.glob("*.json")):
         data = json.loads(path.read_text(encoding="utf-8"))
         refid = data.get("refid", "")
         if not refid:
             continue
-        law_refids[refid] = refid_to_filepath(refid)
-
-        # Store full JSON for amendment application later
-        strip_trailing_text(data)
-        law_dicts[refid] = data
-
-        # Initial commit: frontmatter + title only, no body text
-        lines = []
-        lines.append("---")
-        lines.append(f"tittel: \"{data['title']}\"")
-        if data.get("short_title"):
-            lines.append(f"korttittel: \"{data['short_title']}\"")
-        lines.append(f"refid: \"{refid}\"")
-        lines.append(f"departement: \"{data.get('ministry', '')}\"")
-        lines.append(f"ikrafttredelse: \"{data.get('date_in_force', '')}\"")
-        lines.append("---")
-        lines.append("")
-        lines.append(f"# {data['title']}")
-        lines.append("")
+        md = format_law_markdown(data)
         filepath = refid_to_filepath(refid)
-        all_files[filepath] = "\n".join(lines)
+        all_files[filepath] = md
+        law_refids[refid] = filepath
+        law_dicts[refid] = data
 
     readme_md = generate_tag_readme(law_refids, all_files)
     all_files["lover/README.md"] = readme_md
 
-    print(f"  {len(law_refids)} laws")
+    print(f"  {len(law_refids)} laws formatted")
 
     # Build fast-import stream
     stream = FastImportStream(repo_path)
@@ -409,18 +358,11 @@ def build_history(
     stream.add_initial_commit(
         all_files,
         timestamp=today,
-        message=(
-            f"Grunnlinje: {len(law_refids)} lover (metadata)\n\n"
-            f"Kilde: gjeldende-lover.tar.bz2 (Lovdata API, {today})\n"
-            f"Lisens: NLOD 2.0\n\n"
-            f"Inneholder kun frontmatter og tittel. Lovtekst legges til\n"
-            f"i påfølgende commits fra Norsk Lovtidend (2001–) på\n"
-            f"ikrafttredelsestidspunktet for hver endringslov.\n\n"
-            f"Lovdata API gir ikke tilgang til historiske versjoner\n"
-            f"uten betalt abonnement."
-        ),
+        message=f"Import av {len(all_files)} gjeldende lover\n\n"
+        f"Kilde: Lovdata API (gjeldende-lover.tar.bz2)\n"
+        f"Dato: {today}\nLisens: NLOD 2.0 (https://data.norge.no/nlod/no/2.0)",
     )
-    print(f"  Initial commit: {len(all_files)} files (metadata only)")
+    print(f"  Initial commit: {len(all_files)} files")
 
     # Read amendment acts from SQLite and create commits
     conn = sqlite3.connect(db_path)
@@ -433,9 +375,6 @@ def build_history(
         ORDER BY date_in_force_resolved ASC, date_published ASC
     """
     ).fetchall()
-
-    # Track which articles have Lovtidend observations per law
-    observed = {refid: set() for refid in law_refids}
 
     for row in rows:
         act = dict(row)
@@ -462,27 +401,19 @@ def build_history(
                 )
                 continue
 
+            # Apply amendment instructions to the law JSON
             law_data = law_dicts.get(law_refid)
-            if not law_data:
-                continue
-
             text_changed = False
-            for ctype, tlaw, instr, new_text in act_amendments:
-                if tlaw != law_refid:
-                    continue
-                spec = parse_instruction(instr)
-                is_full = spec.scope == "full"
-                para_name = re.sub(r"\s+", "", spec.paragraph)
+            if law_data:
+                from lovdata_loader.reconstruct import apply_amendment
 
-                if is_full or para_name in observed.get(law_refid, set()):
-                    if apply_amendment(law_data, instr, new_text, ctype):
-                        text_changed = True
-                        if is_full:
-                            observed.setdefault(law_refid, set()).add(para_name)
+                for ctype, tlaw, instr, new_text in act_amendments:
+                    if tlaw == law_refid:
+                        if apply_amendment(law_data, instr, new_text, ctype):
+                            text_changed = True
 
             if text_changed:
-                filtered = _filter_observed(law_data, observed.get(law_refid, set()))
-                content = format_law_markdown(filtered)
+                content = format_law_markdown(law_data)
             else:
                 content = all_files[filepath]
 
