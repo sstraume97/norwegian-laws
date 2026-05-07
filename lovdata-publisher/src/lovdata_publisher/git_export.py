@@ -333,76 +333,48 @@ def build_history(
         capture_output=True,
     )
 
-    # Load all law JSONs
+    # Load and format all laws. Initial commit gets full text — amendments
+    # modify from there. Trailing text stripped (anachronistic).
     print("  Reading laws from snapshot...")
     law_refids = {}
     law_dicts = {}
-    law_dates = {}
+    all_files = {}
+
+    from lovdata_loader.reconstruct import (
+        strip_trailing_text, apply_amendment, parse_instruction,
+    )
+
     for path in sorted(laws_dir.glob("*.json")):
         data = json.loads(path.read_text(encoding="utf-8"))
         refid = data.get("refid", "")
         if not refid:
             continue
         strip_trailing_text(data)
-        law_refids[refid] = refid_to_filepath(refid)
+        md = format_law_markdown(data)
+        filepath = refid_to_filepath(refid)
+        all_files[filepath] = md
+        law_refids[refid] = filepath
         law_dicts[refid] = data
 
-        effective = data.get("last_amended_in_force", "") or data.get("date_in_force", "")
-        if not effective:
-            m = re.search(r"(\d{4}-\d{2}-\d{2})", refid)
-            effective = m.group(1) if m else "2000-01-01"
-        law_dates[refid] = effective
+    readme_md = generate_tag_readme(law_refids, all_files)
+    all_files["lover/README.md"] = readme_md
 
-    print(f"  {len(law_refids)} laws loaded")
+    print(f"  {len(law_refids)} laws formatted")
 
-    # Seed commit: blank law files (frontmatter + title, no body text).
-    # Creates commit history anchor so git log works for every law.
     stream = FastImportStream(repo_path)
-    all_files = {}
-    for refid, data in law_dicts.items():
-        filepath = law_refids[refid]
-        lines = ["---"]
-        lines.append(f"tittel: \"{data['title']}\"")
-        if data.get("short_title"):
-            lines.append(f"korttittel: \"{data['short_title']}\"")
-        lines.append(f"refid: \"{refid}\"")
-        lines.append(f"departement: \"{data.get('ministry', '')}\"")
-        lines.append(f"ikrafttredelse: \"{data.get('date_in_force', '')}\"")
-        lines.append("---")
-        lines.append("")
-        lines.append(f"# {data['title']}")
-        lines.append("")
-        all_files[filepath] = "\n".join(lines)
-
-    readme = (
-        f"# Norges lover — lovhistorikk\n\n"
-        f"Rekonstruert fra Norsk Lovtidend (2001–) og gjeldende-lover.tar.bz2.\n"
-        f"Lisens: NLOD 2.0\n"
-    )
-    all_files["lover/README.md"] = readme
-
     stream.add_initial_commit(
         all_files,
         timestamp="2001-01-01",
-        message=f"Grunnlinje: {len(law_refids)} lover (frontmatter)\n\n"
-        f"Tomme lovfiler. Tekst fra Norsk Lovtidend og gjeldende-lover\n"
-        f"legges til på ikrafttredelsesdato i påfølgende commits.",
+        message=f"Grunnlinje: {len(law_refids)} gjeldende lover\n\n"
+        f"Kilde: gjeldende-lover.tar.bz2 (Lovdata API)\n"
+        f"Lisens: NLOD 2.0",
     )
-    print(f"  Initial commit: {len(law_refids)} blank law files")
+    print(f"  Initial commit: {len(all_files)} files")
 
-    # Build "current text" events: one per law at its effective date
-    current_text_events = []
-    for refid, effective in law_dates.items():
-        current_text_events.append({
-            "type": "current",
-            "date": effective,
-            "refid": refid,
-        })
-
-    # Read amendment acts
+    # Read amendment acts from SQLite and create commits
     conn = sqlite3.connect(db_path)
     conn.row_factory = sqlite3.Row
-    act_rows = conn.execute(
+    rows = conn.execute(
         """
         SELECT refid, title, short_title, date_in_force, date_in_force_resolved,
                date_published, ministry, changes_to, misc_info, journal_number
@@ -411,109 +383,65 @@ def build_history(
     """
     ).fetchall()
 
-    amendment_events = []
-    for row in act_rows:
+    for row in rows:
         act = dict(row)
-        amendment_events.append({
-            "type": "amendment",
-            "date": act["date_in_force_resolved"] or "2000-01-01",
-            "act": act,
-        })
+        changes_to = [r for r in act.get("changes_to", "").split(",") if r.strip()]
 
-    # Merge and sort all events by date
-    all_events = current_text_events + amendment_events
-    all_events.sort(key=lambda e: (e["date"], 0 if e["type"] == "amendment" else 1))
+        act_amendments = conn.execute(
+            """
+            SELECT change_type, target_law, instruction, new_text
+            FROM amendments
+            WHERE act_refid = ? AND length(new_text) > 0
+        """,
+            (act["refid"],),
+        ).fetchall()
 
-    # Track state: which files exist and their current content
-    all_files = {}
-    observed = {refid: set() for refid in law_refids}
+        affected = {}
+        for law_refid in changes_to:
+            filepath = law_refids.get(law_refid)
+            if not filepath or filepath not in all_files:
+                continue
 
-    for event in all_events:
-        if event["type"] == "current":
-            refid = event["refid"]
-            filepath = law_refids[refid]
-            data = law_dicts[refid]
-            content = format_law_markdown(data)
-            if "sist-endret:" in content and data.get("last_amended"):
+            law_data = law_dicts.get(law_refid)
+            if not law_data:
+                continue
+
+            text_changed = False
+            for ctype, tlaw, instr, new_text in act_amendments:
+                if tlaw == law_refid:
+                    if apply_amendment(law_data, instr, new_text, ctype):
+                        text_changed = True
+
+            if text_changed:
+                content = format_law_markdown(law_data)
+            else:
+                content = all_files[filepath]
+
+            if "sist-endret:" in content:
                 content = re.sub(
                     r'sist-endret: ".*?"',
-                    f'sist-endret: "{data["last_amended"]}"',
+                    f'sist-endret: "{act["refid"]}"',
                     content,
                     count=1,
                 )
-            if filepath not in all_files or all_files[filepath] != content:
-                all_files[filepath] = content
-                act_data = {
-                    "refid": data.get("last_amended", refid),
-                    "title": data.get("title", ""),
-                    "short_title": data.get("short_title", ""),
-                    "date_in_force": event["date"],
-                    "date_in_force_resolved": event["date"],
-                    "date_published": event["date"],
-                }
-                stream.add_amendment_commit(act_data, {filepath: content})
+            else:
+                content = content.replace(
+                    "\n---\n\n",
+                    f'\nsist-endret: "{act["refid"]}"\n---\n\n',
+                    1,
+                )
+            affected[filepath] = content
+            all_files[filepath] = content
 
-        elif event["type"] == "amendment":
-            act = event["act"]
-            changes_to = [r for r in act.get("changes_to", "").split(",") if r.strip()]
-
-            act_amendments = conn.execute(
-                """
-                SELECT change_type, target_law, instruction, new_text
-                FROM amendments
-                WHERE act_refid = ? AND length(new_text) > 0
-            """,
-                (act["refid"],),
-            ).fetchall()
-
-            affected = {}
-            for law_refid in changes_to:
-                filepath = law_refids.get(law_refid)
-                if not filepath:
-                    continue
-
-                law_data = law_dicts.get(law_refid)
-                if not law_data:
-                    continue
-
-                text_changed = False
-                for ctype, tlaw, instr, new_text in act_amendments:
-                    if tlaw != law_refid:
-                        continue
-                    spec = parse_instruction(instr)
-                    para_name = re.sub(r"\s+", "", spec.paragraph)
-                    is_full = spec.scope == "full"
-
-                    if is_full or para_name in observed.get(law_refid, set()):
-                        if apply_amendment(law_data, instr, new_text, ctype):
-                            text_changed = True
-                            if is_full:
-                                observed.setdefault(law_refid, set()).add(para_name)
-
-                if text_changed:
-                    content = format_law_markdown(law_data)
-                    if "sist-endret:" in content:
-                        content = re.sub(
-                            r'sist-endret: ".*?"',
-                            f'sist-endret: "{act["refid"]}"',
-                            content,
-                            count=1,
-                        )
-                    else:
-                        content = content.replace(
-                            "\n---\n\n",
-                            f'\nsist-endret: "{act["refid"]}"\n---\n\n',
-                            1,
-                        )
-                    affected[filepath] = content
-                    all_files[filepath] = content
-
-            if affected:
-                stream.add_amendment_commit(act, affected)
+        if affected:
+            stream.add_amendment_commit(act, affected)
 
     conn.close()
 
-    print(f"  Generated {stream.mark_counter} commits")
+    print(
+        f"  Generated {stream.mark_counter} commits "
+        f"(1 initial + {stream.mark_counter - 1} amendments)"
+    )
 
     # Execute
     print("  Running git fast-import...")
