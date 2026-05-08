@@ -375,7 +375,7 @@ def build_history(
     original_texts = dict(all_files)
     body_modified = set()
 
-    # Read amendment acts from SQLite and create commits
+    # Read amendment acts from SQLite, batch by year
     conn = sqlite3.connect(db_path)
     conn.row_factory = sqlite3.Row
     rows = conn.execute(
@@ -387,9 +387,16 @@ def build_history(
     """
     ).fetchall()
 
+    year_files = defaultdict(dict)
+    year_acts = defaultdict(list)
+    year_last_date = {}
+
     for row in rows:
         act = dict(row)
         changes_to = [r for r in act.get("changes_to", "").split(",") if r.strip()]
+        date = act["date_in_force_resolved"] or "2001-01-01"
+        year = date[:4]
+        year_last_date[year] = max(year_last_date.get(year, ""), date)
 
         act_amendments = conn.execute(
             """
@@ -400,7 +407,6 @@ def build_history(
             (act["refid"],),
         ).fetchall()
 
-        affected = {}
         for law_refid in changes_to:
             filepath = law_refids.get(law_refid)
             if not filepath or filepath not in all_files:
@@ -435,13 +441,26 @@ def build_history(
                     f'\nsist-endret: "{act["refid"]}"\n---\n\n',
                     1,
                 )
-            affected[filepath] = content
+            year_files[year][filepath] = content
             all_files[filepath] = content
 
-        if affected:
-            stream.add_amendment_commit(act, affected)
+        year_acts[year].append(act["refid"])
 
     conn.close()
+
+    # Emit one commit per year
+    for year in sorted(year_files.keys()):
+        files = year_files[year]
+        act_count = len(year_acts[year])
+        act_data = {
+            "refid": f"lovtidend/{year}",
+            "title": f"Endringslov {year} ({act_count} lover)",
+            "short_title": "",
+            "date_in_force": year_last_date.get(year, f"{year}-12-31"),
+            "date_in_force_resolved": year_last_date.get(year, f"{year}-12-31"),
+            "date_published": year_last_date.get(year, f"{year}-12-31"),
+        }
+        stream.add_amendment_commit(act_data, files)
 
     # Single reset commit: snap all body-modified laws back to current text.
     reset_files = {}
@@ -473,7 +492,7 @@ def build_history(
 
     print(
         f"  Generated {stream.mark_counter} commits "
-        f"(1 initial + amendments + {'1 reset' if reset_files else '0 resets'})"
+        f"(1 initial + {len(year_files)} year batches + {'1 reset' if reset_files else '0 resets'})"
     )
 
     # Execute
