@@ -53,6 +53,7 @@ jobs:
           git repack -a -d -f 2>&1
           echo "Pack size: $(du -sh .git/objects/pack/)"
           git push -f origin law-history 2>&1
-          # Delete old remote tags, push new
-          git ls-remote --tags origin | grep 'refs/tags/v20' | awk '{print ":" $2}' | xargs -r git push origin 2>/dev/null || true
-          git push origin --tags 2>&1
+          # Push tags (force-update existing)
+          for tag in $(git tag -l 'v*'); do
+            git push origin "refs/tags/$tag" --force 2>&1 || true
+          done
