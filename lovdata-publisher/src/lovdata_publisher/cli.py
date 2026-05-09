@@ -63,6 +63,13 @@ def main():
         results = format_all_laws(args.snapshot, args.output)
         print(f"  Wrote {len(results)} law files to {args.output}/lover/")
 
+        if db_path:
+            from .historie import generate_historie
+            import os
+            historie_dir = os.path.join(args.output, "historie")
+            count = generate_historie(db_path, historie_dir)
+            print(f"  Wrote {count} historie files to {historie_dir}/")
+
     if args.quarto:
         print()
         print("=" * 60)
