@@ -11,6 +11,20 @@ def _normalize_paragraph(instruction: str) -> str:
     return spec.paragraph if spec.paragraph else ""
 
 
+def _law_filename(refid: str, short_title: str, used_names: dict) -> str:
+    if short_title:
+        name = re.sub(r"\s*–\s*.*$", "", short_title).strip().lower()
+    else:
+        name = refid
+    name = re.sub(r"[^a-zæøå0-9]+", "-", name).strip("-")
+    if name in used_names and used_names[name] != refid:
+        m = re.search(r"(\d{4})", refid)
+        year = m.group(1) if m else ""
+        name = f"{name}-{year}"
+    used_names[name] = refid
+    return name + ".md"
+
+
 def _sort_key(para: str) -> tuple:
     m = re.match(r"§\s*(\d+)-(\d+)\s*([a-z])?", para)
     if m:
@@ -18,7 +32,7 @@ def _sort_key(para: str) -> tuple:
     return (999, 999, para)
 
 
-def generate_historie(db_path: str, output_dir: str) -> int:
+def generate_historie(db_path: str, output_dir: str, laws_dir: str = "") -> int:
     conn = sqlite3.connect(db_path)
     conn.row_factory = sqlite3.Row
 
@@ -32,6 +46,23 @@ def generate_historie(db_path: str, output_dir: str) -> int:
         ORDER BY am.target_law, a.date_in_force_resolved
     """).fetchall()
     conn.close()
+
+    # Load law metadata for short titles
+    import json
+    law_titles = {}
+    if laws_dir:
+        laws_path = Path(laws_dir)
+    else:
+        laws_path = Path(db_path).parent / "laws"
+    if laws_path.exists():
+        for path in laws_path.glob("*.json"):
+            data = json.loads(path.read_text(encoding="utf-8"))
+            refid = data.get("refid", "")
+            if refid:
+                law_titles[refid] = {
+                    "short_title": data.get("short_title", ""),
+                    "title": data.get("title", ""),
+                }
 
     laws = defaultdict(lambda: defaultdict(list))
     for row in rows:
@@ -50,14 +81,21 @@ def generate_historie(db_path: str, output_dir: str) -> int:
     out = Path(output_dir)
     out.mkdir(parents=True, exist_ok=True)
     count = 0
+    used_names = {}
 
     for law_refid, paragraphs in sorted(laws.items()):
+        meta = law_titles.get(law_refid, {})
+        short = meta.get("short_title", "")
+        title = meta.get("title", law_refid)
+        display = short if short else title
+
         lines = []
         lines.append("---")
+        lines.append(f"tittel: \"{display}\"")
         lines.append(f"refid: \"{law_refid}\"")
         lines.append("---")
         lines.append("")
-        lines.append(f"# Endringshistorikk: {law_refid}")
+        lines.append(f"# Endringshistorikk: {display}")
         lines.append("")
 
         for para in sorted(paragraphs.keys(), key=_sort_key):
@@ -80,7 +118,7 @@ def generate_historie(db_path: str, output_dir: str) -> int:
                             lines.append(">")
                     lines.append("")
 
-        filename = law_refid.replace("/", "-") + ".md"
+        filename = _law_filename(law_refid, short, used_names)
         filepath = out / filename
         filepath.write_text("\n".join(lines), encoding="utf-8")
         count += 1
