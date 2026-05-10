@@ -1,0 +1,37 @@
+---
+tittel: "Artistskatteloven"
+refid: "lov/1996-12-13-87"
+---
+
+# Endringshistorikk: Artistskatteloven
+
+## (annet)
+
+### 2010-12-10 — lov/2010-12-10-65
+
+*Nåværende femte ledd blir nytt sjette ledd.*
+
+## § 11
+
+### 2010-12-10 — lov/2010-12-10-65
+
+*§ 11 nytt fjerde ledd skal lyde:*
+
+> (4) Oppgjørsblankett som er forhåndsutfylt med opplysninger om den trekkpliktige og artisten, kan gjøres tilgjengelig for den trekkpliktige ved elektronisk kommunikasjon.
+>
+
+### 2013-04-26 — lov/2013-04-26-16
+
+*§ 11 tredje ledd skal lyde:*
+
+> (3) Oppgjørsblanketten erstatter lønnsoppgave etter ligningsloven § 5-2, men har for øvrig samme virkning.
+>
+
+## § 6
+
+### 2010-12-10 — lov/2010-12-10-65
+
+*§ 6 femte ledd skal lyde:*
+
+> Melding som er forhåndsutfylt med opplysninger om den meldepliktige og artisten, kan gjøres tilgjengelig for den meldepliktige ved elektronisk kommunikasjon.
+>

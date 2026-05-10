@@ -1,0 +1,16 @@
+---
+tittel: "Endringer i alkoholloven mv"
+refid: "lov/2018-06-22-76"
+---
+
+# Endringshistorikk: Endringer i alkoholloven mv
+
+## (annet)
+
+### 2018-12-20 — lov/2018-12-20-113
+
+*1.I del IV erstattes i lov 12. mai 1972 nr. 28 om atomenergivirksomhet ny § 55 a og ny § 56 a benevnelsene «Statens strålevern» og «Statens stråleverns» med hhv. «Direktoratet for strålevern og atomsikkerhet» og «Direktoratet for strålevern og atomsikkerhet sin».*
+
+### 2018-12-20 — lov/2018-12-20-113
+
+*2.I del V erstattes i lov 12. mai 2000 nr. 36 om strålevern og bruk av stråling ny § 23 a benevnelsen «Statens strålevern» og «Statens stråleverns» med hhv. «Direktoratet for strålevern og atomsikkerhet» og «Direktoratet for strålevern og atomsikkerhet sin».*

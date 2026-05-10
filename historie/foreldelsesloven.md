@@ -1,0 +1,78 @@
+---
+tittel: "Foreldelsesloven – fl"
+refid: "lov/1979-05-18-18"
+---
+
+# Endringshistorikk: Foreldelsesloven – fl
+
+## § 13
+
+### 2003-01-10 — lov/2003-01-10-1
+
+*§ 13 skal lyde:*
+
+> § 13.(Proklama)
+>
+> Har skyldneren eller er det i hans bo innen utløpet av foreldelsesfristen utferdiget proklama, eller annen offentlige innkallelse med oppfordring til fordringshaverne om å melde sine krav innen en bestemt fastsatt frist, inntrer ikke foreldelse før denne fristen er ute. For rettidig anmeldt fordring inntrer ikke foreldelse før det er gått 1 år etter at meldefristen er utløpt. Ved konkurs, gjeldsforhandling etter konkursloven eller offentlig skifte gjelder §§ 18, 21 og 22 nr. 2 og 3. Ved gjeldsforhandling etter gjeldsordningsloven gjelder § 18 nr. 2, § 21 nr. 3 fjerde punktum og § 22 nr. 2.
+>
+
+## § 17
+
+### 2025-04-25 — lov/2025-04-25-12
+
+*§ 17 skal lyde:*
+
+> § 17.(Tvangsfullbyrdelse.)1. Har fordringshaveren tvangsgrunnlag for sin fordring, avbrytes foreldelsen ved begjæring om tvangsfullbyrdelse (utlegg eller dekning).2. For krav som skal inndrives i fremmed stat, avbrytes foreldelse ved at det settes fram begjæring om inndrivelse overfor vedkommende myndighet her i riket eller i den fremmede stat i samsvar med lov eller overenskomst mellom statene om inndrivelse i den fremmede staten.3. For krav som inndrives etter innkrevingsloven, avbrytes foreldelsen når skyldneren er gitt varsel etter innkrevingsloven § 25. I tilfeller der slikt varsel ikke er gitt, avbrytes foreldelsen når utleggspant, utleggstrekk eller tvangsdekning er besluttet, eller inndrivingsforsøket er avsluttet med beslutning om intet til utlegg. For krav som kan inndrives i fremmed stat etter lov eller overenskomst, avbrytes foreldelse også ved at det settes fram begjæring om inndrivelse overfor rette myndighet i den fremmede staten.4. For krav som kommunene inndriver som særnamsmyndighet, avbrytes foreldelsen når skyldneren er gitt varsel etter tvangsfullbyrdelsesloven § 2-15 annet ledd. For øvrig gjelder nr. 3 tilsvarende.
+>
+> § 17.(Tvangsfullbyrdelse.)
+>
+
+## § 18
+
+### 2003-01-10 — lov/2003-01-10-1
+
+*§ 18 nr. 2 skal lyde:*
+
+> Er skyldnerens bo under konkurs, gjeldsforhandling etter konkursloven, offentlig skifte, eller er det åpnet gjeldsforhandling etter gjeldsordningsloven, avbrytes ellers foreldelse når fordringshaveren anmelder fordringen i boet eller til namsmannen. Foreldelse av alle fordringer som blir anmeldt innen utløpet av meldefristen i boet anses avbrutt den dag da det ble åpnet konkurs, gjeldsforhandling etter konkursloven eller gjeldsordningsloven eller offentlig skifte.
+>
+
+## § 21
+
+### 2003-01-10 — lov/2003-01-10-1
+
+*§ 21 nr. 3 nytt fjerde punktum skal lyde:*
+
+> Dersom fordringen blir omfattet av en gjeldsordning etter gjeldsordningsloven, blir det regnet en ny frist på 10 år fra den dag da fristen for å ta stilling til frivillig gjeldsordning etter gjeldsordningsloven § 4-12 første ledd er løpt ut, eller fra den dag da tvungen gjeldsordning ble stadfestet.
+>
+
+### 2025-04-25 — lov/2025-04-25-12
+
+*§ 21 nr. 1 skal lyde:*
+
+### 2025-04-25 — lov/2025-04-25-12
+
+*§ 21 nr. 3 første punktum skal lyde:*
+
+> Fremmes tvangsfullbyrdelse etter § 17 uten at fordringshaveren får full dekning for sin fordring, blir det regnet ny frist på 10 år fra sakens avslutning.
+>
+
+### 2025-04-25 — lov/2025-04-25-12
+
+*§ 21 ny nr. 4 skal lyde:*
+
+### 2025-04-25 — lov/2025-04-25-12
+
+*§ 21 ny nr. 5 skal lyde:*
+
+## § 22
+
+### 2003-01-10 — lov/2003-01-10-1
+
+*§ 22 nr. 2 nytt tredje punktum skal lyde:*
+
+> Blir et forslag til frivillig eller tvungen gjeldsordning etter gjeldsordningsloven ikke vedtatt eller stadfestet, jf. gjeldsordningsloven §§ 4-12 og 5-4, varer virkningen av avbruddet i 1 år etter at det ble truffet avgjørelse, i tilfelle i høyere instans, om å nekte stadfestelse av tvungen gjeldsordning, eller i 1 år etter at fristen for å ta stilling til frivillig gjeldsordning etter gjeldsordningsloven § 4-12 er løpt ut.
+>
+
+### 2025-04-25 — lov/2025-04-25-12
+
+*§ 22 ny nr. 4 skal lyde:*

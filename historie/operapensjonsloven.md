@@ -1,0 +1,63 @@
+---
+tittel: "Operapensjonsloven"
+refid: "lov/1998-08-21-65"
+---
+
+# Endringshistorikk: Operapensjonsloven
+
+## § 1
+
+### 2011-01-01 — lov/2010-12-17-79
+
+*§ 1 skal lyde:*
+
+> Denne loven gjelder for ballettdansere, sangsolister og korsangere som er ansatt ved Den Norske Opera & Ballett.
+>
+
+## § 3
+
+### 2011-01-01 — lov/2010-12-17-79
+
+*§ 3 første ledd første punktum skal lyde:*
+
+> Aldersgrensen er det tidspunktet når ballettdanserens, sangsolistens eller korsangerens ansettelse ved Den Norske Opera & Ballett opphører uten oppsigelse.
+>
+
+### 2011-01-01 — lov/2010-12-17-79
+
+*§ 3 første ledd tredje punktum skal lyde:*
+
+> Kunstneren kan likevel fortsette i aktiv, lønnet tjeneste ved Den Norske Opera & Ballett i inntil tre sesonger etter at aldersgrensen er nådd, når kunstneren og Operaen blir enige om det.
+>
+
+## § 4
+
+### 2011-01-01 — lov/2010-12-17-79
+
+*§ 4 nytt tredje ledd skal lyde:*
+
+> Et medlem kan ha krav på et garantert pensjonsnivå etter reglene i lov om Statens pensjonskasse § 24 a, likevel slik at kravet til full tjenestetid fastsettes etter første og andre ledd i bestemmelsen her.
+>
+
+### 2019-06-21 — lov/2019-06-21-26
+
+*§ 4 første ledd skal lyde:*
+
+> Beregning av pensjon skal skje etter reglene i lov 28. juli 1949 nr. 26 om Statens pensjonskasse, med unntak av kapittel 5 a. Alderspensjon beregnes etter kapittel 5. Kravet til tjenestetid for rett til full pensjon for den som står i stilling ved pensjonering, er 20 år for ballettdansere og 23 år for sangsolister og korsangere.
+>
+
+### 2019-06-21 — lov/2019-06-21-26
+
+*§ 4 tredje ledd skal lyde:*
+
+> Et medlem kan ha krav på et garantert pensjonsnivå etter reglene i lov 28. juli 1949 nr. 26 om Statens pensjonskasse §§ 24 b og 24 c, likevel slik at kravet til full tjenestetid fastsettes etter første og andre ledd i bestemmelsen her.
+>
+
+## § 6
+
+### 2011-01-01 — lov/2010-12-17-79
+
+*§ 6 andre punktum skal lyde:*
+
+> Den tiden ballettdanseren, sangsolisten eller korsangeren har vært omfattet av den tidligere avtalebaserte pensjonsordningen for det kunstneriske personalet ved Den Norske Opera & Ballett, regnes som pensjonsgivende tjenestetid etter denne loven.
+>

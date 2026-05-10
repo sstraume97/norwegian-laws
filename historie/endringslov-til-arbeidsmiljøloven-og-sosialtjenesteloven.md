@@ -1,0 +1,33 @@
+---
+tittel: "Endringslov til arbeidsmiljøloven og sosialtjenesteloven"
+refid: "lov/2015-04-24-20"
+---
+
+# Endringshistorikk: Endringslov til arbeidsmiljøloven og sosialtjenesteloven
+
+## § 20
+
+### 2020-12-18 — lov/2020-12-18-142
+
+*§ 20 skal lyde:*
+
+> § 20.Bruk av vilkår
+>
+> Det skal stilles vilkår om aktivitet for tildeling av økonomisk stønad. Dersom manglende norsk- eller samiskkunnskaper er årsaken til at personen ikke er selvhjulpen, skal det vurderes å stille vilkår om norsk- eller samiskopplæring. Dersom vedkommende har hatt rett og plikt til å delta i introduksjonsprogram, jf. integreringsloven § 8, og manglende norskkunnskaper er årsaken til at personen ikke er selvhjulpen, skal det stilles vilkår om norskopplæring. Tredje punktum gjelder ikke for samiskspråklige stønadsmottakere. Det skal ikke stilles vilkår om aktivitet når tungtveiende grunner taler mot det.
+>
+> Det kan også stilles andre vilkår for tildeling av økonomisk stønad, inkludert vilkår etter § 25.
+>
+> Vilkårene må ha nær sammenheng med vedtaket. De må ikke være uforholdsmessig byrdefulle for stønadsmottakeren eller begrense hans eller hennes handle- og valgfrihet på en urimelig måte. Vilkårene må heller ikke være i strid med andre bestemmelser i loven her eller i andre lover.
+>
+> Ved brudd på vilkår kan det fattes vedtak om at stønaden reduseres, forutsatt at det i vedtaket om stønad er informert om muligheten for slik reduksjon.
+>
+> Kommunen kan innhente opplysninger om stønadsmottakeres rett og plikt til deltakelse i introduksjonsprogram fra Nasjonalt introduksjonsregister.
+>
+> Departementet kan i forskrift gi nærmere regler om plikten til å stille vilkår om aktivitet og reduksjon av stønaden.
+>
+
+## § 20 a
+
+### 2016-12-20 — lov/2016-12-20-105
+
+*§ 20 a oppheves.*

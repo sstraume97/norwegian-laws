@@ -1,0 +1,12 @@
+---
+tittel: "Næringsberedskapsloven"
+refid: "lov/2011-12-16-65"
+---
+
+# Endringshistorikk: Næringsberedskapsloven
+
+## § 19
+
+### 2025-04-25 — lov/2025-04-25-12
+
+*§ 19 fjerde og sjette ledd oppheves. § 19 nåværende femte ledd blir fjerde ledd.*

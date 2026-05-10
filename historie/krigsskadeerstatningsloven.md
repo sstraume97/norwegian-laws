@@ -1,0 +1,16 @@
+---
+tittel: "Krigsskadeerstatningsloven"
+refid: "lov/1953-07-17-2"
+---
+
+# Endringshistorikk: Krigsskadeerstatningsloven
+
+## (annet)
+
+### 2019-01-01 — lov/2018-12-20-98
+
+*I § 19 andre punktum skal henvisningen til «forordning av 12. mars 1790» endres til «panteloven § 1-5».*
+
+### 2019-01-01 — lov/2018-12-20-98
+
+*I § 25 første ledd andre punktum og § 30 første ledd andre punktum skal ordet «forsikringsloven» endres til «finansforetaksloven».*

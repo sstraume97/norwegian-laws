@@ -1,0 +1,21 @@
+---
+tittel: "Forbrukerklageloven"
+refid: "lov/2020-06-23-98"
+---
+
+# Endringshistorikk: Forbrukerklageloven
+
+## (annet)
+
+### 2024-06-25 — lov/2024-06-25-56
+
+*Nåværende andre og tredje ledd blir tredje og nytt fjerde ledd.*
+
+## § 9
+
+### 2024-06-25 — lov/2024-06-25-56
+
+*§ 9 nytt andre ledd skal lyde:*
+
+> Forbrukertilsynet skal avvise en klage fra mekling dersom gebyr fastsatt i forskrift etter § 7 ikke er innbetalt.
+>

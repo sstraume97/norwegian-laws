@@ -1,0 +1,27 @@
+---
+tittel: "Endringslov om datalagringsdirektivet"
+refid: "lov/2011-04-15-11"
+---
+
+# Endringshistorikk: Endringslov om datalagringsdirektivet
+
+## § 203
+
+### 2012-06-22 — lov/2012-06-22-52
+
+*§ 203 annet ledd oppheves.*
+
+## § 210
+
+### 2012-06-22 — lov/2012-06-22-52
+
+*§ 210 første ledd tredje punktum oppheves.*
+
+> I endringen av § 210 b skal nytt sjette ledd lyde:
+>
+> Ved anmodning fra fremmed stat om rettslig hjelp til utlevering av trafikkdata som nevnt i første ledd, gjelder § 216 a fjerde til sjette ledd tilsvarende.
+>
+> I endringen av § 210 c skal annet ledd lyde:
+>
+> § 210 b annet til sjette ledd gjelder tilsvarende.
+>

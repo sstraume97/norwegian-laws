@@ -1,0 +1,1142 @@
+---
+tittel: "Straffegjennomføringsloven – strgjfl"
+refid: "lov/2001-05-18-21"
+---
+
+# Endringshistorikk: Straffegjennomføringsloven – strgjfl
+
+## (annet)
+
+### 2008-03-07 — lov/2008-03-07-5
+
+*Overskriften i kapittel 2 skal lyde:*
+
+### 2010-12-17 — lov/2010-12-17-85
+
+*Nytt kapittel 1a skal lyde:*
+
+> § 4a.Forholdet til andre lover
+>
+> Personopplysningsloven gjelder med utfyllende regler fastsatt i dette kapitlet.
+>
+> § 4b.Behandlingsansvarlig
+>
+> Med behandlingsansvarlig menes den som etter lov eller forskrift, alene eller sammen med andre, bestemmer formålet med behandlingen og hvilke hjelpemidler som skal brukes.
+>
+> § 4c.Formål med behandlingen av personopplysninger
+>
+> Kriminalomsorgen kan behandle personopplysninger som er nødvendige for åplanlegge, administrere og gjennomføre reaksjoner og tvangsmidler etter straffegjennomføringsloven § 1,opprettholde ro og orden og ivareta sikkerheten for ansatte, innsatte, domfelte og samfunnet for øvrig,sikre innsatte og domfelte tilfredsstillende forhold under gjennomføringen og tilby dem et innhold som skal bidra til å motvirke ny kriminalitet, herunder legge forholdene til rette for tjenester fra andre etater med sikte på å fremme innsattes og domfeltes tilpasning til samfunnet,sikre barns rett til samvær med foreldrene under sikre og trygge forhold,varsle fornærmede eller dennes etterlatte, jf. § 7b.
+>
+> § 4d.Hvem kriminalomsorgen kan behandle personopplysninger om
+>
+> Til formål nevnt i § 4c kan kriminalomsorgen behandle personopplysninger omdomfelte og innsatte,pårørende og andre som har kontakt med eller prøver å oppnå kontakt med den domfelte eller innsatte,personer som har eller søker å få tilgang til fengselsområder,domfeltes eller innsattes barn og barnets pårørende eller andre omsorgspersoner.
+>
+> § 4e.Krav om forskriftsregulering av en behandling
+>
+> Kongen gir forskrift om blant annethvilket rettslig grunnlag som hjemler behandlingen,formålet med behandlingen,hvem som er behandlingsansvarlig,hvilke opplysningskategorier som kan registreres,hvem i kriminalomsorgen som har tilgang til opplysningene,adgangen til å utlevere opplysningene,informasjonsplikt, innsyn, retting, sperring og sletting av opplysninger,informasjonssikkerhet og internkontroll.
+>
+
+### 2012-01-20 — lov/2012-01-20-6
+
+*Nåværende annet punktum blir nytt tredje punktum.*
+
+### 2012-01-20 — lov/2012-01-20-6
+
+*Nåværende annet punktum blir nytt femte punktum.*
+
+### 2015-01-23 — lov/2015-01-23-3
+
+*Kapittel 1 A overskriften skal lyde:*
+
+### 2015-01-23 — lov/2015-01-23-3
+
+*Nytt kapittel 1 B skal lyde:*
+
+> § 4f.Formålet med behandlingen av personopplysninger i Infoflyt-systemet
+>
+> Kriminalomsorgen kan behandle personopplysninger om domfelte og innsatte i Infoflyt-systemet dersom det er nødvendig for åforebygge og forhindre rømning når det foreligger rømningsfareforebygge og forhindre anslag utenfra for å bistå til rømningforebygge og forhindre gisseltakingforebygge, forhindre og bekjempe organisert kriminalitet, terror, voldelig ekstremisme eller annen alvorlig kriminalitet under gjennomføringen av varetekt, straff og andre strafferettslige reaksjoner ellerivareta sikkerheten til innsatte eller domfelte eller andre personer med spesielt beskyttelsesbehov.
+>
+> I vurderingen av om det er nødvendig å behandle personopplysninger i Infoflyt-systemet, skal kriminalomsorgen særlig legge vekt på det straffbare forholdets art og hvor alvorlig det er, straffens lengde, strafferettslig historikk, adferd under tidligere straffegjennomføring, andre straffbare forhold som er under etterforskning eller domstolsbehandling, tilknytning til kriminelle nettverk, samarbeidspartneres kjennskap til den innsatte eller domfelte og andre forhold som gir grunn til å anta at vedkommende vil begå eller medvirke til handlinger som nevnt i første ledd bokstav a til d.
+>
+> Er den innsatte eller domfelte registrert i Infoflyt-systemet, kan kriminalomsorgen behandle personopplysninger om vedkommendes besøkende, telefon- eller brevkontakter, familiemedlemmer, venner, bekjente og andre som har eller søker kontakt med den innsatte eller domfelte eller som den innsatte eller domfelte søker kontakt med, når kontakten antas opprettet eller ønskes opprettet for å begå eller medvirke til handlinger som nevnt i første ledd bokstav a til d.
+>
+> Kriminalomsorgen kan også behandle personopplysninger om andre personer, dersom det er nødvendig for å ivareta sikkerheten til personene selv eller til innsatte eller domfelte i tilfeller hvor det foreligger spesielt beskyttelsesbehov etter første ledd bokstav e.
+>
+> § 4g.Kriminalomsorgens informasjonsplikt
+>
+> Den behandlingsansvarlige i kriminalomsorgen skal informere den registrerte om at det behandles personopplysninger om vedkommende i Infoflyt-systemet og at opplysningene kan utleveres til politiet og påtalemyndigheten etter § 4i.
+>
+> Den behandlingsansvarlige kan unnlate å informere den registrerte dersomdet er nødvendig for å ivareta formålene i § 4f første ledd bokstav a til edet er nødvendig av hensyn til nasjonal eller offentlig sikkerhetopplysningene er mottatt fra Politiets sikkerhetstjeneste ellerden registrerte ikke er innsatt eller domfelt, og det ikke opprettes en egen sak på vedkommende i Infoflyt-systemet.
+>
+> § 4h.Den registrertes rett til innsyn
+>
+> Den registrerte som ber om det, skal gis innsyn i de opplysningene som er registrert om vedkommende i Infoflyt-systemet og de opplysningene som er utlevert til politiet og påtalemyndigheten.
+>
+> Innsynet kan nektes helt eller delvis dersomdet er nødvendig for å ivareta formålene i § 4f første ledd bokstav a til edet er nødvendig av hensyn til nasjonal eller offentlig sikkerhet elleropplysningene er mottatt fra Politiets sikkerhetstjeneste.
+>
+> Dersom begjæringen om innsyn ikke tas til følge og det er grunnlag for kriminalomsorgen å unnlate å informere den registrerte etter § 4g annet ledd, skal det gis et svar som ikke tilkjennegir at det foreligger en registrering i Infoflyt-systemet.
+>
+> § 4i.Utlevering av personopplysninger til politiet og påtalemyndigheten
+>
+> Er det nødvendig for å ivareta formålene i § 4f første ledd bokstavene a til e eller for at politiet skal kunne foreta en risikovurdering i tilknytning til den registrerte innsatte eller domfelte, kan kriminalomsorgen uten hinder av taushetsplikt utlevere opplysninger til politiet og påtalemyndigheten.
+>
+> § 4j.Datatilsynets kontroll og virkemidler
+>
+> Datatilsynet skal etter begjæring fra den registrerte eller den som antar å være registrert, kontrollere at opplysningene om vedkommende er behandlet i samsvar med loven og at reglene om informasjonsplikt og innsyn er fulgt. Dette gjelder ikke opplysninger som kriminalomsorgen har mottatt fra Politiets sikkerhetstjeneste.
+>
+> Har kriminalomsorgen eller politiet besluttet unntak fra informasjonsplikten etter § 4 g annet ledd eller politiregisterloven § 48, skal ikke svaret tilkjennegi at det foreligger en registrering i Infoflyt-systemet.
+>
+> Datatilsynet kan ikke gi pålegg om innsyn i opplysninger som kriminalomsorgen eller politiet har unntatt fra innsynsretten etter § 4h annet ledd eller politiregisterloven § 49 fjerde ledd.
+>
+> § 4k.Forskrifter
+>
+> Kongen kan gi forskrifter ombehandlingsansvartype opplysninger som kan behandlesopplysningskvalitettilgangsamarbeid med politietframgangsmåte ved opprettelse og avslutning av sakinformasjonspliktinnsynretting, sperring og slettinghandleplikt ved feil eller mangleroppbevaring og bruk av sperret informasjonutlevering av informasjon til politietsaksbehandlingsreglerklage og klagefristtilsyn oginformasjonssikkerhet og internkontroll.
+>
+
+### 2016-12-16 — lov/2016-12-16-98
+
+*Nåværende annet ledd blir nytt tredje ledd.*
+
+### 2019-12-20 — lov/2019-12-20-105
+
+*Nåværende § 16 a blir ny § 16 b.*
+
+### 2020-05-26 — lov/2020-05-26-49
+
+*I lov 18. mai 2001 nr. 21 om gjennomføring av straff mv. skal nytt midlertidig kapittel 3 A lyde:*
+
+> § 45 a.Besøk i fengsel
+>
+> Etter en konkret vurdering kan kriminalomsorgen nekte besøk i fengsel dersom besøket vil innebære en særskilt smitte- eller helsefare, eller det på grunn av sykefravær i fengselet vil bli uforholdsmessig krevende å gjennomføre besøket. Kriminalomsorgen skal legge til rette for at innsatte kan ha kontakt med familie eller andre personer som er vesentlige for den innsattes velferd, ved bruk av fjernkommunikasjon.
+>
+> Besøk fra advokat og offentlig myndighetsrepresentant, herunder diplomatisk eller konsulær representant, kan bare nektes dersom besøket ikke kan gjennomføres på en helsemessig forsvarlig måte. Ved nektelse av besøk etter dette ledd skal kriminalomsorgen legge til rette for kontakt ved bruk av fjernkommunikasjon. Kriminalomsorgsdirektoratet gir retningslinjer for praktiseringen av besøk fra advokat. Forskrift 12. desember 2005 nr. 1442 om salær fra det offentlige til advokater m.fl. etter faste satser (stykkprissatser) § 9 fjerde ledd om godtgjøring til forsvarers bistand i fengselsbesøk vil gjelde for fjernkommunikasjonen mellom advokat og klient.
+>
+> Innsattes tilgang til helsetjenester kan ikke begrenses på grunnlag av denne bestemmelsen.
+>
+> § 45 b.Elektroniske kontrolltiltak som vilkår ved prøveløslatelse fra fengselsstraff
+>
+> Dersom det fremstår som nødvendig for en sikkerhetsmessig forsvarlig prøveløslatelse, kan kriminalomsorgen fastsette at den som prøveløslates fra fengselsstraff skal være underlagt elektroniske kontrolltiltak. Straffegjennomføringsloven §§ 43 og 44 gjelder tilsvarende. Prøveløslatelse med elektroniske kontrolltiltak er bare aktuelt dersom domfelte godtar de krav og vilkår som kriminalomsorgen fastsetter for prøveløslatelsen, og domfelte har en bolig som er egnet for kontrolltiltak. For kontrolltiltak i domfeltes bolig er det også en forutsetning at alle samboende over 18 år samtykker til kontrolltiltakene. Kriminalomsorgsdirektoratet gir nærmere retningslinjer for prøveløslatelse etter bestemmelsen her.
+>
+> § 45 c.Straffavbrudd
+>
+> Kriminalomsorgen kan beslutte at straffen skal avbrytes inntil én måned dersom hensynet til kapasiteten i kriminalomsorgen krever det, og hverken sikkerhetsmessige hensyn eller særskilte hensyn til den domfeltes rehabilitering taler imot. Dersom kapasiteten i kriminalomsorgen krever det, kan beslutningen fornyes med inntil én måned. Det skal ikke besluttes straffavbrudd etter bestemmelsen her dersom den domfelte ikke har egen bolig.
+>
+> Dersom forholdene tilsier det, skal kriminalomsorgen varsle fornærmede i saken eller dennes etterlatte om beslutning om straffavbrudd etter bestemmelsen her.
+>
+
+### 2020-12-18 — lov/2020-12-18-148
+
+*I lov 18. mai 2001 nr. 21 om gjennomføring av straff mv. skal nytt kapittel 3 A lyde:*
+
+> § 45 a.Besøk i fengsel
+>
+> Etter en konkret vurdering kan kriminalomsorgen nekte besøk i fengsel dersom besøket vil innebære en særskilt smitte- eller helsefare, eller det på grunn av sykefravær i fengselet vil bli uforholdsmessig krevende å gjennomføre besøket. Kriminalomsorgen skal legge til rette for at innsatte kan ha kontakt med familie eller andre personer som er vesentlige for den innsattes velferd, ved bruk av fjernkommunikasjon.
+>
+> Besøk fra advokat og offentlig myndighetsrepresentant, herunder diplomatisk eller konsulær representant, kan bare nektes dersom besøket ikke kan gjennomføres på en helsemessig forsvarlig måte. Ved nektelse av besøk etter dette ledd skal kriminalomsorgen legge til rette for kontakt ved bruk av fjernkommunikasjon. Kriminalomsorgsdirektoratet gir retningslinjer for praktiseringen av besøk fra advokat. Forskrift 12. desember 2005 nr. 1442 om salær fra det offentlige til advokater m.fl. etter faste satser (stykkprissatser) § 9 fjerde ledd om godtgjøring til forsvarers bistand i fengselsbesøk vil gjelde for fjernkommunikasjonen mellom advokat og klient.
+>
+> Innsattes tilgang til helsetjenester kan ikke begrenses på grunnlag av denne bestemmelsen.
+>
+> § 45 b.Utelukkelse fra fellesskap med andre innsatte som smitteforebyggende tiltak
+>
+> Når det følger av beslutning i medhold av smittevernloven at en innsatt skal være i isolasjon eller karantene, eller en innsatt har symptomer som er forenlig med covid-19, kan kriminalomsorgen etter en konkret vurdering av den innsatte beslutte at vedkommende helt eller delvis skal utelukkes fra fellesskapet med andre innsatte dersom dette er nødvendig for å forebygge smitte, og utelukkelse ikke vil være et uforholdsmessig inngrep. Kriminalomsorgen skal så vidt mulig rådføre seg med helsepersonell før det besluttes utelukkelse på grunn av symptomer. I tillegg skal ansvarlig helsetjeneste straks orienteres om beslutninger om utelukkelse på grunn av symptomer.
+>
+> § 37 fjerde til syvende ledd gjelder tilsvarende ved utelukkelse etter bestemmelsen her. Dersom behovet for utelukkelse kan avhjelpes eller forkortes gjennom testing, skal kriminalomsorgen legge til rette for at helsetjenesten kan gjennomføre testing.
+>
+> Innsatte som er utelukket fra fellesskapet etter bestemmelsen her, skal hver dag ha tilbud om meningsfylt menneskelig kontakt eller andre tiltak som kompenserer for fravær av dette, i minst to timer.
+>
+> § 45 c.Straffegjennomføring utenfor fengsel
+>
+> Kriminalomsorgen kan beslutte at en domfelt som har gjennomført en tredel av den ubetingede fengselsstraffen, kan gjennomføre straffen med elektronisk kontroll utenfor fengsel dersom kapasiteten i kriminalomsorgen krever det og sikkerhetsmessige forhold ikke taler imot. § 16 annet til sjette ledd og § 16 a fjerde ledd gjelder tilsvarende, men slik at det ikke er en forutsetning for straffegjennomføring etter bestemmelsen her at den domfelte er sysselsatt. Adgangen til å beslutte straffegjennomføring etter bestemmelsen her omfatter ikke domfelte som gjennomfører straff for overtredelse av straffeloven kapittel 18 eller 26 eller §§ 275, 282 eller 283. Adgangen er dessuten betinget av at domfelte godtar de krav og vilkår som kriminalomsorgen fastsetter for straffegjennomføringen, at domfelte har en bolig som er egnet for gjennomføring med elektronisk kontroll, og at alle samboende over 18 år samtykker til kontrolltiltak i hjemmet. Dersom sikkerhetsmessige grunner ikke taler imot, kan kriminalomsorgen innvilge permisjon og utgang av kort tids varighet fra straffegjennomføring etter bestemmelsen her.
+>
+> Når vilkårene etter første ledd er oppfylt og det er besluttet gjennomføring etter samme ledd, kan kriminalomsorgen beslutte at den domfelte skal gjennomføre straffen utenfor fengsel uten elektronisk kontroll inntil den elektroniske kontrollen er etablert. § 16 annet til sjette ledd gjelder tilsvarende.
+>
+> Beslutning etter første ledd skal fastsettes for en begrenset tid som ikke kan være lengre enn kapasitetsutfordringen må antas å vare. Beslutning etter annet ledd skal fastsettes for en begrenset tid som ikke kan være lengre enn det antas å ville ta å etablere den elektroniske kontrollen.
+>
+> Departementet kan gi forskrift som begrenser adgangen til å beslutte straffegjennomføring etter bestemmelsen her.
+>
+> § 45 d.Straffavbrudd for gjennomføring av straff i samfunnet
+>
+> Kriminalomsorgen kan beslutte å avbryte gjennomføringen av samfunnsstraff, bøtetjeneste og program mot ruspåvirket kjøring dersom gjennomføringen på grunn av pålegg eller anbefaling fra helsemyndighetene eller endringer hos kriminalomsorgens oppdragsgivere ikke lar seg gjennomføre. Beslutningen skal fastsettes for en begrenset tid, som ikke kan være lengre enn hindringen må antas å vedvare. Dersom den som gjennomfører samfunnsstraff, er under 18 år, skal straffavbrudd så vidt mulig unngås.
+>
+> Dersom det etter en konkret vurdering finnes nødvendig av sikkerhetsmessige grunner, kan kriminalomsorgen stille som vilkår for avbrudd etter første ledd at den som gjennomfører straff, skal melde seg for kriminalomsorgen innen nærmere angitte tidspunkter.
+>
+> § 45 e.Permisjon og frigang
+>
+> Etter en konkret vurdering kan kriminalomsorgen nekte permisjon eller frigang for en innsatt, eller omgjøre beslutning om innvilgelse av dette, dersom permisjonen eller frigangen antas å ville innebære en særskilt smitte- eller helsefare. Så vidt mulig skal helsepersonell konfereres før det besluttes nektelse eller omgjøring etter bestemmelsen her. Ved vurdering av nektelse eller omgjøring skal det blant annet legges vekt på den velferdsmessige betydningen av permisjonen eller frigangen for den innsatte, og om det vil være stor smittefare knyttet til den aktiviteten som permisjonen eller frigangen skal benyttes til.
+>
+> § 45 f.Opphevelse
+>
+> Kapittel 3 A oppheves 1. juni 2021.
+>
+
+### 2021-06-11 — lov/2021-06-11-71
+
+*Kapittel 3 A skal lyde:*
+
+> § 45 a.Virkeområdet for bestemmelsene i dette kapittelet
+>
+> Bestemmelsene i kapittelet her kommer til anvendelse når det har brutt ut en allmennfarlig smittsom sykdom som smitter ved indirekte kontakt, dråpesmitte eller luftbåren smitte, og det på grunn av sykdomsutbruddet er nødvendig med tiltak etter dette kapittelet. Bestemmelsene kan ikke anvendes uten at Kriminalomsorgsdirektoratet har besluttet at det foreligger en situasjon som nevnt i første punktum.
+>
+> § 45 b.Besøk i fengsel
+>
+> Kriminalomsorgen kan beslutte at besøk i fengsel skal gjennomføres i samsvar med råd fra Folkehelseinstituttet. Dersom pålegg om dette ikke overholdes, kan kriminalomsorgen avbryte besøket.
+>
+> Etter en konkret vurdering kan kriminalomsorgen nekte besøk i fengsel dersom besøket vil innebære en særskilt fare for overføring av smitte, eller det på grunn av sykdomsutbruddet vil bli uforholdsmessig krevende å gjennomføre besøket. Dersom situasjonen krever det, kan kriminalomsorgen beslutte at det for en periode på inntil to uker som hovedregel ikke skal gjennomføres besøk i fengselet eller en nærmere angitt del av fengselet. Dersom det er strengt nødvendig, kan Kriminalomsorgsdirektoratet forlenge perioden med inntil to uker. Kriminalomsorgen skal legge til rette for at innsatte kan ha kontakt med personer utenfor fengsel ved bruk av fjernkommunikasjon.
+>
+> Besøk fra advokat og offentlig myndighetsrepresentant, herunder diplomatisk eller konsulær representant, kan bare nektes dersom besøket ikke kan gjennomføres på en helsemessig forsvarlig måte. Ved nektelse av besøk etter dette ledd skal kriminalomsorgen legge til rette for kontakt ved bruk av fjernkommunikasjon. Kriminalomsorgsdirektoratet gir retningslinjer for praktiseringen av besøk fra advokat. Forsvarer som bistår klient ved bruk av fjernkommunikasjon etter bestemmelsen her, har krav på samme godtgjøring fra det offentlige som om bistanden ble gitt i fengselsbesøk.
+>
+> Innsattes tilgang til helsetjenester kan ikke begrenses på grunnlag av denne bestemmelsen.
+>
+> § 45 c.Utelukkelse fra fellesskap med andre innsatte
+>
+> Når det følger av lov eller forskrift, eller av beslutning i medhold av smittevernloven, at en person som er innsatt i fengsel skal være i isolasjon eller karantene, eller personen har symptomer som er forenlig med en allmennfarlig smittsom sykdom som skal medføre isolasjon eller karantene, kan kriminalomsorgen etter en konkret vurdering av personen beslutte at vedkommende helt eller delvis skal utelukkes fra fellesskapet med andre innsatte dersom dette er nødvendig for å forebygge smitteoverføring. Første punktum gjelder ikke dersom utelukkelse vil innebære et uforholdsmessig inngrep. Kriminalomsorgen skal så vidt mulig rådføre seg med helsepersonell før det besluttes utelukkelse på grunn av symptomer. I tillegg skal kriminalomsorgen straks varsle ansvarlig helsetjeneste om beslutninger om utelukkelse på grunn av symptomer, og anmode om at den innsatte undersøkes.
+>
+> Utelukkelse etter bestemmelsen her skal uten opphold meldes til Kriminalomsorgsdirektoratet. I tillegg gjelder § 37 fjerde til syvende ledd tilsvarende. Dersom behovet for utelukkelse kan avhjelpes eller forkortes gjennom testing, skal kriminalomsorgen legge til rette for at helsetjenesten kan gjennomføre testing.
+>
+> Innsatte som er utelukket fra fellesskapet etter bestemmelsen her, skal hver dag ha tilbud om meningsfylt menneskelig kontakt. Den innsatte skal ha tilbud om meningsfylt menneskelig kontakt eller tiltak som kompenserer for fravær av meningsfylt kontakt i til sammen minst to timer hver dag.
+>
+> For varetektsinnsatte som har vært utelukket etter bestemmelsen her, gjelder straffeloven § 83 annet ledd annet og tredje punktum tilsvarende.
+>
+> § 45 d.Straffegjennomføring utenfor fengsel
+>
+> Kriminalomsorgen kan beslutte at en domfelt som har gjennomført en tredel av den ubetingede fengselsstraffen, kan gjennomføre straffen med elektronisk kontroll utenfor fengsel dersom kapasiteten i kriminalomsorgen krever det og sikkerhetsmessige forhold ikke taler imot. § 16 annet til sjette ledd og § 16 a fjerde ledd gjelder tilsvarende, men slik at det ikke er en forutsetning for straffegjennomføring etter bestemmelsen her at den domfelte er sysselsatt. Adgangen til å beslutte straffegjennomføring etter bestemmelsen her omfatter ikke domfelte som gjennomfører straff for overtredelse av straffeloven kapittel 18 eller 26 eller §§ 275, 282 eller 283. Adgangen er dessuten betinget av at domfelte godtar de krav og vilkår som kriminalomsorgen fastsetter for straffegjennomføringen, at domfelte har en bolig som er egnet for gjennomføring med elektronisk kontroll og at alle samboende over 18 år samtykker til kontrolltiltak i hjemmet. Dersom sikkerhetsmessige grunner ikke taler imot, kan kriminalomsorgen innvilge permisjon og utgang av kort tids varighet fra straffegjennomføring etter bestemmelsen her.
+>
+> Når vilkårene etter første ledd er oppfylt og det er besluttet straffegjennomføring etter samme ledd, kan kriminalomsorgen beslutte at den domfelte skal gjennomføre straffen utenfor fengsel uten elektronisk kontroll inntil den elektroniske kontrollen er etablert. § 16 annet til sjette ledd gjelder tilsvarende.
+>
+> Beslutning etter første ledd skal fastsettes for en begrenset tid som ikke kan være lenger enn kapasitetsutfordringen må antas å vare. Beslutning etter annet ledd skal fastsettes for en begrenset tid som ikke kan være lenger enn det antas å ta å etablere den elektroniske kontrollen.
+>
+> Departementet kan gi forskrift som begrenser adgangen til å beslutte straffegjennomføring etter bestemmelsen her.
+>
+> § 45 e.Permisjon og frigang
+>
+> Etter en konkret vurdering kan kriminalomsorgen nekte permisjon eller frigang for en innsatt, eller omgjøre beslutning om innvilgelse av dette, dersom permisjonen eller frigangen antas å ville innebære en særskilt fare for overføring av smitte. Så vidt mulig skal helsepersonell konfereres før det besluttes nektelse eller omgjøring etter bestemmelsen her. Ved vurdering av nektelse eller omgjøring skal det blant annet legges vekt på den velferdsmessige betydningen av permisjonen eller frigangen for den innsatte.
+>
+> Det kan stilles som vilkår for permisjon eller frigang at den innsatte følger råd fra Folkehelseinstituttet.
+>
+> § 45 f.Straffavbrudd for gjennomføring av straff i samfunnet
+>
+> Kriminalomsorgen kan beslutte å avbryte gjennomføringen av samfunnsstraff, bøtetjeneste og program mot ruspåvirket kjøring dersom gjennomføringen på grunn av pålegg eller anbefaling fra statlige eller kommunale myndigheter eller endringer hos kriminalomsorgens oppdragsgivere ikke lar seg gjennomføre. Beslutningen skal fastsettes for en begrenset tid, som ikke kan være lenger enn hindringen må antas å vedvare. Dersom den som gjennomfører samfunnsstraff er under 18 år, skal straffavbrudd så vidt mulig unngås.
+>
+> Dersom det etter en konkret vurdering finnes nødvendig av sikkerhetsmessige grunner, kan kriminalomsorgen stille som vilkår for avbrudd etter første ledd at den som gjennomfører straff skal melde seg for kriminalomsorgen innen nærmere angitte tidspunkter.
+>
+
+### 2021-12-17 — lov/2021-12-17-149
+
+*Nytt kapittel 3 A skal lyde:*
+
+> § 45 a.Virkeområdet for bestemmelsene i dette kapittelet
+>
+> Bestemmelsene i kapittelet her kommer til anvendelse når det har brutt ut en allmennfarlig smittsom sykdom som smitter ved indirekte kontakt, dråpesmitte eller luftbåren smitte, og det på grunn av sykdomsutbruddet er nødvendig med tiltak etter dette kapittelet. Bestemmelsene kan ikke anvendes uten at Kriminalomsorgsdirektoratet har besluttet at det foreligger en situasjon som nevnt i første punktum.
+>
+> § 45 b.Besøk i fengsel
+>
+> Kriminalomsorgen kan beslutte at besøk i fengsel skal gjennomføres i samsvar med råd fra Folkehelseinstituttet. Dersom pålegg om dette ikke overholdes, kan kriminalomsorgen avbryte besøket.
+>
+> Etter en konkret vurdering kan kriminalomsorgen nekte besøk i fengsel dersom besøket vil innebære en særskilt fare for overføring av smitte. Dersom situasjonen krever det, kan kriminalomsorgen beslutte at det for en periode på inntil to uker som hovedregel ikke skal gjennomføres besøk i fengselet eller en nærmere angitt del av fengselet. Dersom det er strengt nødvendig, kan Kriminalomsorgsdirektoratet forlenge perioden med inntil to uker. Kriminalomsorgen skal legge til rette for at innsatte kan ha kontakt med personer utenfor fengsel ved bruk av fjernkommunikasjon.
+>
+> Besøk fra advokat og offentlig myndighetsrepresentant, herunder diplomatisk eller konsulær representant, kan bare nektes dersom besøket ikke kan gjennomføres på en helsemessig forsvarlig måte. Ved nektelse av besøk etter dette ledd skal kriminalomsorgen legge til rette for kontakt ved bruk av fjernkommunikasjon. Kriminalomsorgsdirektoratet gir retningslinjer for praktiseringen av besøk fra advokat. Forsvarer som bistår klient ved bruk av fjernkommunikasjon etter bestemmelsen her, har krav på samme godtgjøring fra det offentlige som om bistanden ble gitt i fengselsbesøk.
+>
+> Innsattes tilgang til helsetjenester kan ikke begrenses på grunnlag av denne bestemmelsen.
+>
+> § 45 c.Utelukkelse fra fellesskap med andre innsatte
+>
+> Når det følger av lov eller forskrift, eller av beslutning i medhold av smittevernloven, at en person som er innsatt i fengsel skal være i isolasjon eller karantene, eller personen har symptomer som er forenlig med en allmennfarlig smittsom sykdom som skal medføre isolasjon eller karantene, kan kriminalomsorgen etter en konkret vurdering av personen beslutte at vedkommende helt eller delvis skal utelukkes fra fellesskapet med andre innsatte dersom dette er nødvendig for å forebygge smitteoverføring. Første punktum gjelder ikke dersom utelukkelse vil innebære et uforholdsmessig inngrep. Kriminalomsorgen skal så vidt mulig rådføre seg med helsepersonell før det besluttes utelukkelse på grunn av symptomer. I tillegg skal kriminalomsorgen straks varsle ansvarlig helsetjeneste om beslutninger om utelukkelse på grunn av symptomer, og anmode om at den innsatte undersøkes.
+>
+> Utelukkelse etter bestemmelsen her skal uten opphold meldes til Kriminalomsorgsdirektoratet. I tillegg gjelder § 37 fjerde til syvende ledd tilsvarende. Dersom behovet for utelukkelse kan avhjelpes eller forkortes gjennom testing, skal kriminalomsorgen legge til rette for at helsetjenesten kan gjennomføre testing.
+>
+> Innsatte som er utelukket fra fellesskapet etter bestemmelsen her, skal hver dag ha tilbud om meningsfylt menneskelig kontakt. Den innsatte skal ha tilbud om meningsfylt menneskelig kontakt eller tiltak som kompenserer for fravær av meningsfylt kontakt i til sammen minst to timer hver dag. Innsatte som er utelukket etter bestemmelsen her, og som har tilbud om mindre enn to timer meningsfylt menneskelig kontakt hver dag, skal hver dag ha mulighet for kontakt med familie eller andre ved bruk av fjernkommunikasjon.
+>
+> For varetektsinnsatte som har vært utelukket etter bestemmelsen her, gjelder straffeloven § 83 annet ledd annet og tredje punktum tilsvarende.
+>
+> § 45 d.Straffegjennomføring utenfor fengsel
+>
+> Kriminalomsorgen kan beslutte at en domfelt som har gjennomført en tredel av den ubetingede fengselsstraffen, kan gjennomføre straffen med elektronisk kontroll utenfor fengsel dersom kapasiteten i kriminalomsorgen krever det og sikkerhetsmessige forhold ikke taler imot. § 16 annet til sjette ledd og § 16 a fjerde ledd gjelder tilsvarende, men slik at det ikke er en forutsetning for straffegjennomføring etter bestemmelsen her at den domfelte er sysselsatt. Adgangen til å beslutte straffegjennomføring etter bestemmelsen her omfatter ikke domfelte som gjennomfører straff for overtredelse av straffeloven kapittel 18 eller 26 eller §§ 275, 282 eller 283. Adgangen er dessuten betinget av at domfelte godtar de krav og vilkår som kriminalomsorgen fastsetter for straffegjennomføringen, at domfelte har en bolig som er egnet for gjennomføring med elektronisk kontroll, og at alle samboende over 18 år samtykker til kontrolltiltak i hjemmet. Dersom sikkerhetsmessige grunner ikke taler imot, kan kriminalomsorgen innvilge permisjon og utgang av kort tids varighet fra straffegjennomføring etter bestemmelsen her.
+>
+> Når vilkårene etter første ledd er oppfylt og det er besluttet straffegjennomføring etter samme ledd, kan kriminalomsorgen beslutte at den domfelte skal gjennomføre straffen utenfor fengsel uten elektronisk kontroll inntil den elektroniske kontrollen er etablert. § 16 annet til sjette ledd gjelder tilsvarende.
+>
+> Beslutning etter første ledd skal fastsettes for en begrenset tid som ikke kan være lengre enn kapasitetsutfordringen må antas å vare. Beslutning etter annet ledd skal fastsettes for en begrenset tid som ikke kan være lengre enn det antas å ta å etablere den elektroniske kontrollen.
+>
+> Departementet kan gi forskrift som begrenser adgangen til å beslutte straffegjennomføring etter bestemmelsen her.
+>
+> § 45 e.Permisjon og frigang
+>
+> Etter en konkret vurdering kan kriminalomsorgen nekte permisjon eller frigang for en innsatt, eller omgjøre beslutning om innvilgelse av dette, dersom permisjonen eller frigangen antas å ville innebære en særskilt fare for overføring av smitte. Så vidt mulig skal helsepersonell konfereres før det besluttes nektelse eller omgjøring etter bestemmelsen her. Ved vurdering av nektelse eller omgjøring skal det blant annet legges vekt på den velferdsmessige betydningen av permisjonen eller frigangen for den innsatte.
+>
+> Det kan stilles som vilkår for permisjon eller frigang at den innsatte følger råd fra Folkehelseinstituttet.
+>
+> § 45 f.Straffavbrudd for gjennomføring av straff i samfunnet
+>
+> Kriminalomsorgen kan beslutte å avbryte gjennomføringen av samfunnsstraff, bøtetjeneste og program mot ruspåvirket kjøring dersom gjennomføringen på grunn av pålegg eller anbefaling fra statlige eller kommunale myndigheter eller endringer hos kriminalomsorgens oppdragsgivere ikke lar seg gjennomføre. Beslutningen skal fastsettes for en begrenset tid, som ikke kan være lengre enn hindringen må antas å vedvare. Dersom den som gjennomfører samfunnsstraff er under 18 år, skal straffavbrudd så vidt mulig unngås.
+>
+> Dersom det etter en konkret vurdering finnes nødvendig av sikkerhetsmessige grunner, kan kriminalomsorgen stille som vilkår for avbrudd etter første ledd at den som gjennomfører straff, skal melde seg for kriminalomsorgen innen nærmere angitte tidspunkter.
+>
+
+### 2023-06-02 — lov/2023-06-02-18
+
+*Etter § 8 skal nytt kapittel 2 A lyde:*
+
+> § 9.Tilsynsrådets oppgaver
+>
+> Tilsynsrådet for kriminalomsorgen skal føre regelmessig tilsyn med at personer innsatt i kriminalomsorgens institusjoner behandles i samsvar med gjeldende rett, og med at deres velferd ivaretas. Tilsynsrådet skal føre tilsyn med at domfelte som gjennomfører straff utenfor institusjon, behandles i samsvar med gjeldende rett.
+>
+> Tilsynsrådet skal være uavhengig i sitt arbeid og kan ikke instrueres om lovtolkning eller skjønnsutøvelse.
+>
+> § 9 a.Gjennomføring av tilsynsarbeidet
+>
+> Tilsynsrådet planlegger og gjennomfører selv sin virksomhet. Tilsynsrådet kan ta opp saker av eget tiltak eller etter henvendelse fra innsatte og domfelte, pårørende eller ansatte. Tilsynsrådet avgjør selv hvilke saker det vil behandle nærmere. Sakene søkes løst lokalt eller gjennom overordnet myndighet.
+>
+> Tilsyn kan varsles på forhånd eller skje uanmeldt. Tilsynsrådet kan kreve de opplysningene og adgang til de stedene som er nødvendige for gjennomføring av tilsynet. Kriminalomsorgen, eller de som utfører arbeid eller tjenester for kriminalomsorgen, skal bistå slik at tilsynsrådet kan utføre tilsynsoppgavene. Domfelte og innsatte skal kunne kommunisere fortrolig med tilsynsrådet.
+>
+> Ved besøk i institusjoner skal minst to medlemmer av tilsynsrådet delta, så langt mulig slik at leder eller medlemmer oppnevnt etter § 9 b første ledd første punktum, og medlemmer oppnevnt etter § 9 b første ledd annet punktum, er representert. Personer som gjør tjeneste som forsvarer, eller på annen måte har en særskilt tilknytning til innsatte, domfelte eller ansatte i kriminalomsorgen, skal ikke ta del i tilsynet.
+>
+> Tilsynsrådet skal årlig rapportere til departementet og Kriminalomsorgsdirektoratet om tilsynsarbeidet og kan også ta opp særskilte tema i egne meldinger til disse. Årsrapporter og særskilte meldinger fra tilsynsrådet skal offentliggjøres.
+>
+> § 9 b.Oppnevning av medlemmer til tilsynsrådet
+>
+> Tilsynsrådets leder, nestleder og ytterligere ett medlem oppnevnes av Kongen i statsråd. Departementet oppnevner lokale medlemmer, minst ett medlem fra hvert fylke. Leder oppnevnes for en periode på seks år med adgang for gjenoppnevning for én periode. Nestleder og de øvrige medlemmene oppnevnes for en periode på to eller fire år med adgang for gjenoppnevning for inntil fire år.
+>
+> Tilsynsrådets leder må fylle kravene til dommere. Leder og medlemmer oppnevnt etter første punktum bør til sammen ha helsefaglig og barnefaglig kompetanse. Samtlige medlemmer må fylle kravene til meddommere i domstolloven § 70 annet ledd nr. 1 til 3 og 5.
+>
+> Et medlem som ikke har overholdt sin taushetsplikt, eller som ikke oppfyller kravene etter første og annet ledd eller som selv ber om det, kan løses fra vervet.
+>
+> Dersom et medlem fratrer sitt verv, oppnevnes et nytt medlem etter reglene i første og annet ledd.
+>
+> § 9 c.Taushetsplikt
+>
+> Enhver som har verv eller gjør tjeneste for tilsynsrådet har taushetsplikt etter forvaltningsloven, og om det som vedkommende i vervet eller tjenesten får vite om forhold av betydning for sikkerheten i kriminalomsorgens institusjoner eller for gjennomføringen av straff utenfor fengsel.
+>
+> Taushetsplikt etter forvaltningsloven er ikke til hinder for at opplysninger om personlige forhold deles med tilsynsrådet dersom det er nødvendig og ikke vil utgjøre et uforholdsmessig inngrep overfor den opplysningene gjelder.
+>
+> § 9 d.Forskrifter
+>
+> Departementet kan gi nærmere bestemmelser om tilsynsrådets rapportering, tilsynsrådets sekretariat, arkiv, behandling av personopplysninger, godtgjøring til medlemmene av tilsynsrådet og andre administrative forhold vedrørende tilsynsrådet, og om kriminalomsorgens oppgaver ved tilsyn.
+>
+
+### 2023-06-20 — lov/2023-06-20-78
+
+*Nytt kapittel 3 A skal lyde:*
+
+### 2023-12-20 — lov/2023-12-20-111
+
+*Kapittel 3 overskriften skal lyde:*
+
+> Kapittel 3. Fengselsstraff og forvaring
+>
+
+## § 1
+
+### 2016-12-16 — lov/2016-12-16-98
+
+*§ 1 nytt annet ledd skal lyde:*
+
+> Kongen kan gi nærmere regler om kriminalomsorgens virksomhet, organisering og gjennomføringen av fengselsstraff, forvaring, strafferettslige særreaksjoner, varetekt, samfunnsstraff og andre reaksjoner når det er særskilt bestemt i lov.
+>
+
+### 2023-12-20 — lov/2023-12-20-111
+
+*§ 1 skal lyde:*
+
+> § 1.AnvendelsesområdeDenne loven gjelder for gjennomføring av fengselsstraff, forvaring, samfunnsstraff og varetektsfengsling og for gjennomføring av andre reaksjoner når det er særskilt bestemt i lov.Kongen kan i forskrift gi nærmere regler om kriminalomsorgens virksomhet, organisering og gjennomføringen av fengselsstraff, forvaring, varetekt, samfunnsstraff og andre reaksjoner når det er særskilt bestemt i lov.
+>
+> § 1.Anvendelsesområde
+>
+
+## § 1 a
+
+### 2015-06-19 — lov/2015-06-19-66
+
+*Ny § 1 a skal lyde:*
+
+> § 1 a.Straffegjennomføring i annen stat
+>
+> Etter beslutning av kriminalomsorgen kan domfelte som er dømt til ubetinget fengselsstraff, gjennomføre straffen i en annen stat som Norge har inngått avtale med.
+>
+> Domfelte som gjennomfører straff i en annen stat etter første ledd, er å anse som innsatt i fengsel i Norge og skal, med de presiseringer som følger av tredje ledd, ha de rettigheter og plikter som følger av dette.
+>
+> Kriminalomsorgen skal sørge for at domfelte som gjennomfører straff i en annen stat etter første ledd, får tilbud om helsehjelp som er likeverdig med det tilbudet domfelte ville hatt krav på ved straffegjennomføring i Norge. Statens helsetilsyn fører tilsyn med kriminalomsorgens forpliktelser etter bestemmelsen her. Helsetilsynsloven gjelder tilsvarende. Pasient- og brukerrettighetsloven kapittel 7 om klage gjelder for kriminalomsorgens forpliktelser etter bestemmelsen her. Kriminalomsorgen skal på anmodning gi Statens helsetilsyn og Fylkesmannen opplysninger som disse finner nødvendige for å kunne utføre sine oppgaver etter bestemmelsen her. Opplysningene kan gis uten hinder av taushetsplikt.
+>
+> Kongen kan gi utfyllende forskrift og fastsette de unntak fra §§ 4, 7, 8 første ledd og 27 som er nødvendige for at straff skal kunne gjennomføres i en annen stat etter første ledd.
+>
+
+## § 10
+
+### 2011-06-24 — lov/2011-06-24-35
+
+*§ 10 nytt fjerde ledd skal lyde:*
+
+> Subsidiær fengselsstraff fastsatt etter straffeloven § 28, kan gjennomføres som bøtetjeneste etter § 16 a.
+>
+
+### 2012-01-20 — lov/2012-01-20-6
+
+*§ 10 nytt fjerde ledd skal lyde:*
+
+> For domfelte under 18 år skal personundersøkelse som er foretatt etter straffeprosessloven § 161 a, danne grunnlag for valg av gjennomføringsform og andre avgjørelser om straffegjennomføringen. Det skal foretas en ny personundersøkelse dersom det har gått mer enn ett år fra personundersøkelsen ble foretatt til straffegjennomføring iverksettes, eller dersom barnets personlighet, livsforhold eller fremtidsmuligheter vesentlig er endret.
+>
+
+### 2019-06-21 — lov/2019-06-21-48
+
+*§ 10 første og annet ledd skal lyde:*
+
+> Fengselsstraff og forvaring kan gjennomføresi fengsel med høyt sikkerhetsnivå (lukket fengsel),i fengsel med lavere sikkerhetsnivå (åpent fengsel),i overgangsbolig,utenfor fengsel med særlige vilkår etter § 16, ellersom prøveløslatt med vilkår etter § 43 annet ledd.
+>
+> Avdeling i fengsel med høyt sikkerhetsnivå kan tilrettelegges for innsatte med særlige behov, herunder personer som er idømt forvaring, eller innrettes med særlig høyt sikkerhetsnivå.
+>
+
+### 2019-12-20 — lov/2019-12-20-105
+
+*§ 10 første ledd bokstav d og e skal lyde:*
+
+> utenfor fengsel med særlige vilkår etter § 16,utenfor fengsel med elektronisk kontroll etter § 16 a, eller
+>
+
+### 2019-12-20 — lov/2019-12-20-105
+
+*§ 10 første ledd nåværende bokstav e blir ny bokstav f.*
+
+### 2019-12-20 — lov/2019-12-20-105
+
+*§ 10 fjerde ledd skal lyde:*
+
+> Subsidiær fengselsstraff fastsatt etter straffeloven § 55, kan gjennomføres som bøtetjeneste etter § 16 b.
+>
+
+## § 10 a
+
+### 2012-01-20 — lov/2012-01-20-6
+
+*Ny § 10 a skal lyde:*
+
+> § 10 a.Særregler for unge innsatte
+>
+> Når noen under 18 år innsettes i fengsel, skal oppholdet tilrettelegges etter deres behov. Enheter som opprettes spesielt for innsatte under 18 år skal ha et tverretatlig team som skal ivareta de unges behov under straffegjennomføringen og forberede tiden etter løslatelse.
+>
+> Kriminalomsorgen gir utfyllende bestemmelser om krav til fengsel som benyttes til innsatte under 18 år, krav til ansattes utdanning, samt til det tverretatlige teamets sammensetning, funksjon og arbeidsoppgaver.
+>
+
+## § 11
+
+### 2012-01-20 — lov/2012-01-20-6
+
+*§ 11 nytt femte ledd skal lyde:*
+
+> Kriminalomsorgen skal alltid vurdere å innsette domfelte under 18 år i fengsel med lavere sikkerhetsnivå eller i overgangsbolig.
+>
+
+### 2013-06-14 — lov/2013-06-14-44
+
+*§ 11 overskriften skal lyde:*
+
+> § 11.Innsettelse i fengsel og overgangsbolig
+>
+
+### 2013-06-14 — lov/2013-06-14-44
+
+*§ 11 nytt femte ledd skal lyde:*
+
+> Kriminalomsorgen skal vurdere om domfelte kan settes direkte inn i overgangsbolig dersom det er idømt fengselsstraff på inntil 1 år. Fjerde ledd annet punktum gjelder tilsvarende.
+>
+> § 11 gjeldande femte ledd vert nytt sjette ledd.
+>
+
+### 2019-06-21 — lov/2019-06-21-48
+
+*§ 11 tredje ledd skal lyde:*
+
+> Domfelte med særlige behov, herunder personer som er idømt forvaring, bør settes inn i avdeling tilrettelagt for dette etter § 10 annet ledd.
+>
+
+## § 14
+
+### 2013-06-14 — lov/2013-06-14-44
+
+*§ 14 fyrste og andre ledd skal lyde:*
+
+> Kriminalomsorgen kan overføre innsatte til et annet fengsel dersomdet er sannsynlig at innsatte har begått eller vil begå en straffbar handling,det er grunn til å anta at innsatte vil unndra seg gjennomføringen,dette er nødvendig for å hindre at innsatte, til tross for at adferdssamtale er gjennomført, fortsetter å påvirke miljøet i fengslet på en særlig negativ måte,overføring er nødvendig for å opprettholde ro, orden og sikkerhet i fengslet,bygningsmessige eller bemanningsmessige forhold eller plassmangel gjør det nødvendig,når særlige forhold foreligger som gjør overføring nødvendig av hensyn til en tilsatt eller vedkommendes tjenesteutøvelse eller omstendighetene for øvrig gjør det påkrevet, ellerdet er nødvendig for å unngå en uheldig sammensetning av innsatte.
+>
+> Kriminalomsorgen kan også overføre innsatte til annet fengsel dersom overføringen ivaretar innsattes behov på en hensiktsmessig måte.
+>
+> § 14 gjeldande andre til sjuande ledd vert nye tredje til åttande ledd.
+>
+
+### 2013-06-14 — lov/2013-06-14-44
+
+*§ 14 femte ledd skal lyde:*
+
+> Domfelte som gjennomfører forvaring eller strafferettslig særreaksjon i fengsel, kan overføres til avdeling tilrettelagt for innsatte med særlige behov, jf. § 10 annet ledd, selv om vilkårene i første ledd bokstavene a til g eller annet ledd ikke er oppfylt. Overføringen må være nødvendig for å forebygge brudd på ro, orden og sikkerhet eller for å ivareta domfeltes særlige behov.
+>
+
+### 2019-12-20 — lov/2019-12-20-105
+
+*§ 14 syvende ledd skal lyde:*
+
+> Domfelte som gjennomfører straff utenfor fengsel etter §§ 16 eller 16 a, kan tilbakeføres til fengsel dersom det er sannsynlig at domfelte har begått eller vil begå en straffbar handling, unndra seg gjennomføringen eller bryte forutsetninger og vilkår for gjennomføring av straff utenfor fengsel.
+>
+
+### 2021-03-26 — lov/2021-03-26-15
+
+*§ 14 sjette ledd skal lyde:*
+
+> Domfelte kan midlertidig overføres til annet fengsel i forbindelse med rettsmøte. Kortvarig overføring kan også skje i påvente av transport ut av landet. Overføring kan i begge tilfeller skje til fengsel med høyere sikkerhetsnivå. I særlige unntakstilfeller kan overføring i forbindelse med rettsmøte også skje fra fengsel til politiarrest. Oppholdet i politiarrest eller i fengsel nær utreisested, skal være så kort som mulig.
+>
+
+### 2023-12-20 — lov/2023-12-20-111
+
+*§ 14 femte ledd første punktum skal lyde:*
+
+> Domfelte som gjennomfører forvaring i fengsel, kan overføres til avdeling tilrettelagt for innsatte med særlige behov, jf. § 10 annet ledd, selv om vilkårene i første ledd bokstavene a til g eller annet ledd ikke er oppfylt.
+>
+
+## § 16
+
+### 2012-01-20 — lov/2012-01-20-6
+
+*§ 16 første ledd nytt annet punktum skal lyde:*
+
+> Kriminalomsorgen skal alltid vurdere om vilkårene for å overføre domfelte under 18 år til gjennomføring av straffen utenfor fengsel er oppfylt når halvdelen av straffetiden er gjennomført.
+>
+
+### 2012-01-20 — lov/2012-01-20-6
+
+*§ 16 annet ledd nytt annet, tredje og fjerde punktum skal lyde:*
+
+> Kriminalomsorgen skal alltid vurdere om domfelte under 18 år oppfyller vilkårene for å gjennomføre straffen utenfor fengsel med elektronisk kontroll. For domfelte under 18 år gjelder ikke vilkåret om at den idømte fengselsstraff eller resterende tid frem til forventet prøveløslatelse er inntil 4 måneder. Kriminalomsorgen kan gi forskrift med utfyllende bestemmelser om bruk av elektronisk kontroll.
+>
+
+### 2014-02-28 — lov/2014-02-28-3
+
+*§ 16 annet ledd tredje punktum skal lyde:*
+
+> For domfelte under 18 år gjelder ikke vilkåret om at den idømte fengselsstraff eller resterende tid frem til forventet løslatelse er inntil 4 måneder.
+>
+
+### 2014-02-28 — lov/2014-02-28-3
+
+*§ 16 annet ledd femte punktum skal lyde:*
+
+> Første ledd tredje punktum gjelder tilsvarende.
+>
+
+### 2019-12-20 — lov/2019-12-20-105
+
+*§ 16 annet ledd oppheves. Nåværende tredje til åttende ledd blir annet til syvende ledd.*
+
+### 2019-12-20 — lov/2019-12-20-105
+
+*§ 16 nytt femte og nytt sjette ledd skal lyde:*
+
+> Kriminalomsorgen skal kontrollere at domfelte overholder forutsetninger og fastsatte vilkår. Som ledd i kontrollen kan tiltak etter § 56 iverksettes. Ved brudd på vilkår eller forutsetninger, eller dersom det er sannsynlig at domfelte har begått eller vil begå straffbar handling eller unndra seg gjennomføringen, gjelder bestemmelsene om tilbakeføring til fengsel i § 14 syvende og åttende ledd.
+>
+> Dersom det er av betydning for fornærmede i straffesaken eller dennes etterlatte å få kjennskap til tidspunktet for gjennomføring av straff utenfor fengsel, skal kriminalomsorgen varsle fornærmede eller etterlatte på forhånd. Varselet skal også omfatte informasjon om vilkår som er satt med hjemmel i § 16 tredje ledd bokstav d og e, hvis disse vilkårene direkte gjelder fornærmede eller dennes etterlatte.
+>
+
+## § 16 a
+
+### 2011-06-24 — lov/2011-06-24-35
+
+*Ny § 16 a skal lyde:*
+
+> § 16 a.Gjennomføring av subsidiær fengselsstraff ved bøtetjeneste
+>
+> Dersom den som skal gjennomføre subsidiær fengselsstraff fastsatt i dom, forelegg eller forenklet forelegg, samtykker til det, kan kriminalomsorgen beslutte at den subsidiære fengselsstraffen skal gjennomføres ved bøtetjeneste. Gjennomføring ved bøtetjeneste forutsetter at den botlagte har bosted og opphold i Norge i gjennomføringstiden. Kriminalomsorgen skal forespørre botlagte om samtykke ved innkalling til soning av den subsidiære fengselsstraffen.
+>
+> Dersom vilkårene for bøtetjeneste er til stede, fastsetter kriminalomsorgen et timetall for bøtetjenesten fra 2 til 180 timer og en gjennomføringstid fra 20 dager til 6 måneder. Dersom straffeloven § 63 er brukt, kan kriminalomsorgen fastsette et timetall for bøtetjenesten på inntil 270 timer og en gjennomføringstid på inntil 9 måneder.
+>
+> Kriminalomsorgen fastsetter det nærmere innholdet i bøtetjenesten innenfor de rammene som er fastsatt i dom på bot eller i forelegg. § 53 første og tredje ledd, § 54 første ledd bokstav a til c og e, annet og tredje ledd, og § 57 gjelder tilsvarende. Kriminalomsorgen skal kontrollere at botlagte overholder forutsetninger og vilkår.
+>
+> Dersom den botlagte forsettlig eller uaktsomt bryter bestemmelser gitt i eller i medhold av tredje ledd, skal kriminalomsorgen påpeke bruddet overfor botlagte, klargjøre kravene på egnet måte og gjøre botlagte kjent med følgene av gjentatte brudd.
+>
+> Ved gjentatte brudd på vilkår eller forutsetninger, eller dersom det er sannsynlig at botlagte har begått eller vil begå straffbar handling eller unndra seg gjennomføringen, gjelder bestemmelsene om tilbakeføring til fengsel i § 14 sjette og sjuende ledd. Kriminalomsorgen kan avbryte gjennomføringen.
+>
+> Departementet gir forskrift med nærmere regler om bøtetjenesten, herunder blant annet fastsetting av timetall, innhold og gjennomføring, og avbrudd.
+>
+
+### 2016-12-16 — lov/2016-12-16-98
+
+*§ 16 a tredje ledd annet punktum skal lyde:*
+
+> § 53 første og tredje ledd, § 54 første ledd bokstav a til c og e, annet og tredje ledd, § 56 annet og tredje ledd og § 57 gjelder tilsvarende.
+>
+
+### 2016-12-16 — lov/2016-12-16-98
+
+*§ 16 a femte ledd første punktum skal lyde:*
+
+> Ved gjentatte brudd på vilkår eller forutsetninger, eller dersom det er sannsynlig at botlagte har begått eller vil begå straffbar handling eller unndra seg gjennomføringen, gjelder bestemmelsene om tilbakeføring til fengsel i § 14 sjuende og åttende ledd.
+>
+
+### 2018-06-01 — lov/2018-06-01-25
+
+*§ 16 a annet ledd skal lyde:*
+
+> Dersom vilkårene for bøtetjeneste er til stede, fastsetter kriminalomsorgen et timetall for bøtetjenesten fra 2 til 240 timer, og en gjennomføringstid fra 20 dager til 8 måneder.
+>
+
+### 2019-12-20 — lov/2019-12-20-105
+
+*Ny § 16 a skal lyde:*
+
+> § 16 a.Straffegjennomføring utenfor fengsel med elektronisk kontroll
+>
+> Dersom den idømte ubetingede fengselsstraffen eller resterende tid frem til forventet løslatelse er inntil 6 måneder, og det er hensiktsmessig for å sikre en positiv utvikling og motvirke ny kriminalitet, kan straffen gjennomføres utenfor fengsel når det settes vilkår om at domfelte skal være undergitt elektronisk kontroll. Straffegjennomføring med elektronisk kontroll skal ikke besluttes dersom formålet med straffen eller hensynet til en sikkerhetsmessig forsvarlig gjennomføring taler imot det.
+>
+> Kriminalomsorgen skal i alle tilfeller vurdere om domfelte som er under 18 år eller varig soningsudyktig, oppfyller vilkårene for å gjennomføre straffen utenfor fengsel med elektronisk kontroll. For domfelte som er under 18 år eller varig soningsudyktig, gjelder ikke vilkåret etter første ledd om at den idømte fengselsstraff eller resterende tid frem til forventet løslatelse er inntil 6 måneder.
+>
+> Bestemmelsene i § 16 annet ledd til syvende ledd gjelder tilsvarende.
+>
+> Dersom det er nødvendig for en sikkerhetsmessig forsvarlig gjennomføring av straffegjennomføring med elektronisk kontroll, kan kriminalomsorgen beslutte bruk av digital teknologi for å kontrollere domfeltes identitet, geografiske posisjon, bevegelse og eventuelle rusbruk. Personopplysninger som behandles ved kontroll etter første punktum, skal slettes etter endt straffegjennomføring, med mindre de inngår i en sak om brudd på forutsetninger eller vilkår etter § 16 annet og tredje ledd.
+>
+
+## § 17
+
+### 2021-06-11 — lov/2021-06-11-71
+
+*§ 17 første ledd annet punktum skal lyde:*
+
+> Kriminalomsorgen kan beslutte hel eller delvis utelukkelse fra fellesskapet etter bestemmelsene i § 29 annet ledd og §§ 37, 38 og 39, § 40 annet ledd bokstav d og § 45 c første ledd.
+>
+
+### 2021-12-17 — lov/2021-12-17-149
+
+*§ 17 første ledd annet punktum skal lyde:*
+
+> Kriminalomsorgen kan beslutte hel eller delvis utelukkelse fra fellesskapet etter bestemmelsene i § 29 annet ledd og §§ 37, 38, 39, 40 annet ledd bokstav d og § 45 c første ledd.
+>
+
+## § 19
+
+### 2014-02-28 — lov/2014-02-28-3
+
+*§ 19 skal lyde:*
+
+> Domfelte som gjennomfører straff i fengsel, eller utenfor fengsel etter §§ 12 og 13, kan tilstås dagpenger. Satsene fastsettes av Kriminalomsorgsdirektoratet.
+>
+
+## § 20
+
+### 2016-12-16 — lov/2016-12-16-98
+
+*§ 20 nytt annet ledd skal lyde:*
+
+> Etter lovbestemte trekk kan arbeidslønnen kreves overført til kriminalomsorgen. Fengselet kan deretter trekke innsatte i arbeidslønnen for oppholdet ved frigang. Satsene fastsettes av Kriminalomsorgsdirektoratet. Dersom innsatte selv er ansvarlig for innkjøp og tilberedning av egen kost, skal det ikke trekkes for dette. Departementet kan gi forskrift om innsattes dekning av oppholdsutgifter under frigang, herunder hvilke kostnadselementer det kan trekkes for og beregningen av kostnadene. Departementet kan også gi forskrift om hvordan kriminalomsorgen og innsatte kan disponere resten av arbeidslønnen etter at oppholdsutgiftene er trukket.
+>
+
+## § 27
+
+### 2011-06-24 — lov/2011-06-24-35
+
+*§ 27 tredje ledd første punktum skal lyde:*
+
+> Undersøkelse etter første ledd ved bruk av teknisk utstyr eller hund overfor advokat og offentlig myndighetsrepresentant, herunder diplomatisk eller konsulær representant, kan bare finne sted i avdeling med særlig høyt sikkerhetsnivå.
+>
+
+### 2018-06-01 — lov/2018-06-01-25
+
+*§ 27 tredje ledd første punktum skal lyde:*
+
+> Undersøkelse etter første ledd ved bruk av teknisk utstyr eller hund overfor advokat og offentlig myndighetsrepresentant, herunder diplomatisk eller konsulær representant, kan bare finne sted i avdeling med høyt eller særlig høyt sikkerhetsnivå.
+>
+
+### 2021-03-26 — lov/2021-03-26-15
+
+*§ 27 femte ledd skal lyde:*
+
+> Før kriminalomsorgen gir tillatelse til besøk til innsatte, kan det på forhånd kreves utlevert opplysninger fra politiet om den besøkende. Slike opplysninger kan utleveres for å avverge og forebygge kriminalitet og for å ivareta sikkerheten i fengselet, jf. politiregisterloven §§ 27 og 30.
+>
+
+### 2023-12-20 — lov/2023-12-20-111
+
+*§ 27 andre ledd første punktum skal lyde:*
+
+> Dersom undersøkelsen etter første ledd gir positivt utslag, eller kriminalomsorgen ellers beslutter det, kan en person visiteres dersom vedkommende samtykker.
+>
+
+## § 29
+
+### 2019-12-20 — lov/2019-12-20-105
+
+*§ 29 første ledd første punktum skal lyde:*
+
+> Kriminalomsorgen kan pålegge domfelte som gjennomfører straff etter § 10 første ledd bokstav a til e å avgi urinprøve, utåndingsprøve eller blodprøve eller å medvirke til andre undersøkelser som kan skje uten fare eller særlig ubehag, for å avdekke bruk av rusmidler, bedøvelsesmidler, hormonpreparater eller andre kjemiske stoffer som ikke er lovlig foreskrevet.
+>
+
+## § 29 a
+
+### 2021-03-26 — lov/2021-03-26-15
+
+*Ny § 29 a skal lyde:*
+
+> § 29 a.Varsling om fare for liv og helse
+>
+> Kriminalomsorgen kan installere teknisk utstyr på innsattes rom som varsler dersom pust og bevegelse avviker fra det normale, for å avverge fare for liv og helse.
+>
+
+## § 3
+
+### 2023-12-20 — lov/2023-12-20-111
+
+*§ 3 tredje ledd første punktum skal lyde:*
+
+> Domfelte har aktivitetsplikt under gjennomføringen av straff.
+>
+
+### 2023-12-20 — lov/2023-12-20-111
+
+*§ 3 fjerde ledd skal lyde:*
+
+> Ved gjennomføringen av fengselsstraff og forvaring skal det så vidt mulig skje en gradvis overgang fra fengsel til full frihet og gis tilbud om deltagelse i fritidsaktiviteter.
+>
+
+## § 30
+
+### 2016-12-16 — lov/2016-12-16-98
+
+*§ 30 tredje ledd nytt tredje punktum skal lyde:*
+
+> I avdeling med høyt sikkerhetsnivå kan innsatte unntaksvis og etter en individuell vurdering pålegges å føre korrespondanse på et språk de tilsatte behersker.
+>
+
+## § 31
+
+### 2012-01-20 — lov/2012-01-20-6
+
+*§ 31 nytt åttende ledd skal lyde:*
+
+> Innsatte under 18 år kan motta besøk av nær familie som tar opphold i nær tilknytning til fengslet for inntil tre dager av gangen dersom det er sikkerhetsmessig forsvarlig. Kriminalomsorgen gir forskrift om gjennomføring av, og økonomiske bidrag til, besøk fra innsattes nære familie.
+>
+
+### 2021-06-11 — lov/2021-06-11-71
+
+*§ 31 første ledd skal lyde:*
+
+> Innsatte skal kunne motta besøk hvis ikke annet følger av denne bestemmelsen eller av § 45 b.
+>
+
+### 2021-12-17 — lov/2021-12-17-149
+
+*§ 31 første ledd skal lyde:*
+
+> Innsatte skal kunne motta besøk hvis ikke annet følger av denne bestemmelsen eller § 45 b.
+>
+
+## § 36
+
+### 2013-06-14 — lov/2013-06-14-44
+
+*§ 36 andre ledd andre punktum innledningen skal lyde:*
+
+> Det kan blant annet bestemmes at innsatte skal
+>
+
+## § 37
+
+### 2012-01-20 — lov/2012-01-20-6
+
+*§ 37 skal lyde:*
+
+> § 37.Utelukkelse fra fellesskapet som forebyggende tiltak
+>
+> Kriminalomsorgen kan beslutte at en innsatt helt eller delvis skal utelukkes fra fellesskapet med andre innsatte dersom det er nødvendig for åhindre at innsatte til tross for skriftlig advarsel fortsetter å påvirke miljøet i fengslet på en særlig negativ måte,hindre innsatte i å skade seg selv eller øve vold eller fremsette trusler mot andre,hindre betydelig materiell skade,hindre straffbare handlinger, elleropprettholde ro, orden og sikkerhet.
+>
+> For innsatte under 18 år gjelder bestemmelsene i første ledd bokstav b til e tilsvarende, likevel slik at utelukkelse bare kan besluttes dersom det er strengt nødvendig og mindre inngripende tiltak forgjeves har vært forsøkt eller åpenbart vil være utilstrekkelige.
+>
+> Kriminalomsorgen skal beslutte delvis utelukkelse dersom dette er tilstrekkelig for å forebygge handlinger etter første ledd bokstavene a til e og annet ledd.
+>
+> Hel eller delvis utelukkelse etter første, andre eller tredje ledd skal ikke opprettholdes lenger enn nødvendig, og kriminalomsorgen skal fortløpende vurdere om det fortsatt er grunnlag for utelukkelsen.
+>
+> Dersom hel utelukkelse fra fellesskapet overstiger 14 dager, skal regionalt nivå ta stilling til om den innsatte fortsatt skal utelukkes. Dersom utelukkelsen samlet overstiger 42 dager, skal tiltaket meldes til Kriminalomsorgens sentrale forvaltning. Melding skal deretter gis til Kriminalomsorgens sentrale forvaltning med 14 dagers mellomrom. Utelukkelse etter første ledd bokstavene a til e kan bare strekke seg utover ett år dersom innsatte selv ønsker det. Beslutning om utelukkelse av person under 18 år skal omgående meldes til regionalt nivå. Kriminalomsorgen skal fortløpende vurdere om det er grunnlag for å opprettholde tiltaket. Dersom utelukkelsen overstiger 3 dager, skal saken oversendes regionalt nivå til ny vurdering. Dersom utelukkelsen overstiger 5 dager, skal det sendes melding til Kriminalomsorgens sentrale forvaltning. Hel utelukkelse av innsatte under 18 år kan under enhver omstendighet ikke overstige 7 dager.
+>
+> Dersom delvis utelukkelse fra fellesskapet overstiger 30 dager, skal tiltaket meldes til regionalt nivå. Dersom delvis utelukkelse fra fellesskapet av en innsatt under 18 år overstiger 7 dager, skal Kriminalomsorgens sentrale forvaltning ta stilling til om den innsatte fortsatt skal utelukkes. Melding skal deretter gis til Kriminalomsorgens sentrale forvaltning med 7 dagers mellomrom.
+>
+> Utelukkelse skal brukes med varsomhet slik at ingen blir påført unødig skade eller lidelse. Innsatte som er helt utelukket fra fellesskapet, skal flere ganger daglig tilses av tilsatte. Lege skal varsles om utelukkelsen uten ugrunnet opphold. Innsatte under 18 år skal ha kontinuerlig tilsyn.
+>
+> Kriminalomsorgen kan beslutte at alle eller enkelte innsatte helt eller delvis skal utelukkes fra fellesskapet dersom det er sannsynlig at et ubestemt antall innsatte har begått eller er i ferd med å begå handlinger som nevnt i første ledd, eller dersom akutte bygningsmessige eller bemanningsmessige forhold gjør det nødvendig. Slik utelukkelse kan opprettholdes i inntil 3 døgn. Regionalt nivå kan forlenge utelukkelsen med inntil 3 døgn dersom særlige grunner gjør det påkrevet. For innsatte under 18 år gjelder tiende ledd.
+>
+> Kriminalomsorgen kan beslutte at en innsatt skal utelukkes helt eller delvis fra fellesskapet dersom bygningsmessige eller bemanningsmessige forhold gjør det påkrevet, eller dersom den innsatte selv ønsker det. For innsatte under 18 år gjelder tiende ledd.
+>
+> Kriminalomsorgen kan beslutte at innsatte under 18 år skal utelukkes helt eller delvis dersom akutte bygningsmessige eller bemanningsmessige forhold gjør det strengt nødvendig, eller dersom innsatte selv ønsker det og det anses strengt nødvendig. Mindre inngripende tiltak må forgjeves ha vært forsøkt eller være åpenbart utilstrekkelige. Beslutning om utelukkelse av person under 18 år skal omgående meldes til regionalt nivå. Slik utelukkelse kan opprettholdes i inntil 2 døgn. Regionalt nivå kan forlenge utelukkelsen med inntil 2 døgn dersom særlige grunner gjør det påkrevet. I så fall skal det samtidig sendes melding til Kriminalomsorgens sentrale forvaltning. Utelukkelse skal brukes med varsomhet slik at ingen blir påført unødig skade eller lidelse. Innsatte under 18 år skal ha kontinuerlig tilsyn. Kriminalomsorgen kan gi nærmere regler om utelukkelse av innsatte under 18 år, samt om tiltak for å avhjelpe mulige negative skadevirkninger av slik.
+>
+> § 17 annet ledd skal anvendes ved utelukkelse fra fellesskapet i avdelinger som nevnt i § 10 annet ledd.
+>
+
+### 2013-06-14 — lov/2013-06-14-44
+
+*§ 37 fyrste ledd bokstav a skal lyde:*
+
+> hindre at innsatte fortsetter å påvirke miljøet i fengslet på en særlig negativ måte,
+>
+
+### 2014-02-28 — lov/2014-02-28-3
+
+*§ 37 fjerde ledd skal lyde:*
+
+> Dersom hel utelukkelse fra fellesskapet overstiger 14 dager, skal regionalt nivå ta stilling til om den innsatte fortsatt skal utelukkes. Dersom utelukkelsen samlet overstiger 42 dager, skal tiltaket meldes til Kriminalomsorgsdirektoratet. Melding skal deretter gis til direktoratet med 14 dagers mellomrom. Utelukkelse etter første ledd bokstavene a til e kan bare strekke seg utover ett år dersom innsatte selv ønsker det.
+>
+
+## § 38
+
+### 2012-01-20 — lov/2012-01-20-6
+
+*§ 38 tredje, fjerde og nytt femte ledd skal lyde:*
+
+> For innsatte under 18 år kan tvangsmidler bare benyttes dersom det er tvingende nødvendig, og mindre inngripende tiltak forgjeves har vært forsøkt eller åpenbart vil være utilstrekkelige. Tvangsmidler skal brukes med varsomhet slik at ingen blir påført unødig skade eller lidelse. Uttalelse fra lege skal så vidt mulig innhentes og tas i betraktning ved vurderingen av om det skal besluttes bruk av sikkerhetscelle eller sikkerhetsseng. Innsatte under 18 år skal ha kontinuerlig tilsyn. Kriminalomsorgen skal fortløpende vurdere om det er grunnlag for å opprettholde tiltaket.
+>
+> Bruk av sikkerhetsseng som overstiger 24 timer, skal meldes til regionalt nivå som tar stilling til om tiltaket skal opprettholdes. Spørsmålet skal vurderes på nytt etter 24 timer. Tiltaket skal meldes til Kriminalomsorgens sentrale forvaltning når bruk av sikkerhetsseng overstiger 3 døgn. For innsatte under 18 år skal bruk av sikkerhetsseng omgående meldes til regionalt nivå, som tar stilling til om tiltaket skal opprettholdes. Tiltaket skal meldes til Kriminalomsorgens sentrale forvaltning når bruk av sikkerhetsseng overstiger 24 timer.
+>
+> Bruk av sikkerhetscelle som overstiger 3 døgn, skal meldes til regionalt nivå som tar stilling til om tiltaket skal opprettholdes. Tiltaket skal meldes til Kriminalomsorgens sentrale forvaltning når bruk av sikkerhetscelle overstiger 6 døgn. For innsatte under 18 år skal bruk av sikkerhetscelle som overstiger 24 timer, meldes til regionalt nivå, som tar stilling til om tiltaket skal opprettholdes. Tiltaket skal meldes til Kriminalomsorgens sentrale forvaltning når bruk av sikkerhetscelle overstiger 3 døgn.
+>
+
+### 2014-02-28 — lov/2014-02-28-3
+
+*§ 38 tredje og fjerde ledd skal lyde:*
+
+> Bruk av sikkerhetsseng som overstiger 24 timer, skal meldes til regionalt nivå som tar stilling til om tiltaket skal opprettholdes. Spørsmålet skal vurderes på nytt etter 24 timer. Tiltaket skal meldes til Kriminalomsorgsdirektoratet når bruk av sikkerhetsseng overstiger 3 døgn.
+>
+> Bruk av sikkerhetscelle som overstiger 3 døgn, skal meldes til regionalt nivå som tar stilling til om tiltaket skal opprettholdes. Tiltaket skal meldes til Kriminalomsorgsdirektoratet når bruk av sikkerhetscelle overstiger 6 døgn.
+>
+
+### 2021-03-26 — lov/2021-03-26-15
+
+*§ 38 nytt annet ledd skal lyde:*
+
+> Håndjern, transportjern, bodycuff, spyttbeskytter og tilsvarende tvangsmidler som er godkjent av Kriminalomsorgsdirektoratet, kan benyttes for å avverge andre fysiske angrep på person, når angrepet vil være egnet til å skape frykt, smerte eller annet betydelig ubehag. Spyttbeskytter kan bare benyttes under tilsyn.
+>
+
+### 2021-03-26 — lov/2021-03-26-15
+
+*§ 38 nåværende annet til femte ledd blir nytt tredje til sjette ledd.*
+
+## § 39
+
+### 2012-01-20 — lov/2012-01-20-6
+
+*§ 39 nytt annet punktum skal lyde:*
+
+> Umiddelbar utelukkelse fra fellesskapet kan ikke benyttes på innsatte under 18 år.
+>
+
+### 2023-12-20 — lov/2023-12-20-111
+
+*§ 39 overskriften skal lyde:*
+
+> § 39.Umiddelbar utelukkelse som følge av brudd ved gjennomføring av fengselsstraff og forvaring
+>
+> § 39.Umiddelbar utelukkelse som følge av brudd ved gjennomføring av fengselsstraff og forvaring
+>
+
+## § 40
+
+### 2012-01-20 — lov/2012-01-20-6
+
+*§ 40 nytt tiende ledd skal lyde:*
+
+> Reaksjonene i annet ledd og fjerde ledd annet og tredje punktum kan ikke brukes overfor innsatte under 18 år. Departementet kan gi forskrift med utfyllende bestemmelser om mindre inngripende reaksjoner ved brudd på straffegjennomføringen for denne gruppen innsatte.
+>
+
+### 2013-06-14 — lov/2013-06-14-44
+
+*§ 40 sjuande ledd tredje punktum skal lyde:*
+
+> Første punktum gjelder ikke unnlatt oppmøte til samfunnsstraff som behandles etter bestemmelsene om brudd, jf. § 58.
+>
+> § 42 sjette ledd vert oppheva.
+>
+> Gjeldande sjuande til niande ledd vert nye sjette til åttande ledd.
+>
+
+### 2019-12-20 — lov/2019-12-20-105
+
+*§ 40 tredje ledd første punktum skal lyde:*
+
+> Domfelte som gjennomfører straff utenfor fengsel etter §§ 16 og 16 a kan, hvis ikke tilbakeføring til fengsel besluttes etter § 14 syvende ledd, gis skriftlig irettesettelse.
+>
+
+### 2023-12-20 — lov/2023-12-20-111
+
+*§ 40 overskriften skal lyde:*
+
+> § 40.Reaksjon på brudd ved gjennomføring av fengselsstraff og forvaring
+>
+> § 40.Reaksjon på brudd ved gjennomføring av fengselsstraff og forvaring
+>
+
+### 2023-12-20 — lov/2023-12-20-111
+
+*§ 40 åttende ledd skal lyde:*
+
+> Dersom det er av betydning for fornærmede i straffesaken eller dennes etterlatte å få kjennskap til at domfelte unndrar seg gjennomføringen av fengselsstraff eller forvaring, skal kriminalomsorgen så snart som mulig varsle fornærmede eller dennes etterlatte om unndragelsen.
+>
+
+## § 41
+
+### 2024-11-29 — lov/2024-11-29-73
+
+*§ 41 nytt fjerde punktum skal lyde:*
+
+> Dersom innsatte er under 25 år og samtykker til det, skal kriminalomsorgen alltid etablere slik kontakt, og i tillegg koordinere planlegging og tilrettelegging av tiltak ved løslatelse.
+>
+
+## § 42
+
+### 2016-12-16 — lov/2016-12-16-98
+
+*§ 42 første ledd tredje punktum skal lyde:*
+
+> Domfelte som er dømt i utlandet til fengsel i mer enn 30 år, og som er overført til gjennomføring av straffen i Norge, kan løslates på prøve etter å ha vært fengslet i minst 20 år.
+>
+
+### 2024-11-29 — lov/2024-11-29-73
+
+*§ 42 femte ledd nytt tredje punktum skal lyde:*
+
+> Dersom domfelte er under 25 år, skal kriminalomsorgen også særlig legge vekt på domfeltes alder sammenholdt med hensynet til progresjon og behovet for oppfølging.
+>
+
+## § 44
+
+### 2010-12-17 — lov/2010-12-17-85
+
+*§ 44 fjerde ledd skal lyde:*
+
+> Hvis retten ved dom beslutter at den prøveløslatte skal gjeninnsettes for hel fullbyrding av reststraffen, kan kriminalomsorgen beslutte ny løslatelse på prøve selv om minstetidene i § 42 første ledd ikke er oppfylt for reststraffens del.
+>
+
+### 2013-06-14 — lov/2013-06-14-44
+
+*§ 44 andre ledd nytt tredje punktum skal lyde:*
+
+> § 58 annet ledd annet punktum gjelder tilsvarende.
+>
+
+### 2013-06-14 — lov/2013-06-14-44
+
+*§ 44 femte ledd skal lyde:*
+
+> Kriminalomsorgen kan anmode politiet om å avhente prøveløslatte etter straffeprosessloven § 461 annet ledd hvis det er nødvendig for å iverksette reaksjon etter første ledd.
+>
+
+## § 45
+
+### 2024-11-29 — lov/2024-11-29-73
+
+*§ 45 nytt tredje ledd skal lyde:*
+
+> Dersom den prøveløslatte har påbegynt gjennomføring av ungdomsstraff, skal spørsmålet om omgjøring avgjøres etter konfliktrådsloven § 32.
+>
+
+## § 45 a
+
+### 2023-06-20 — lov/2023-06-20-78
+
+*§ 45 a skal lyde:*
+
+> § 45 a.Forskrift om nødvendige tiltak ved utbrudd av en allmennfarlig smittsom sykdom
+>
+> Når det er nødvendig for å forebygge smittespredning eller andre negative konsekvenser ved utbrudd av en allmennfarlig smittsom sykdom som smitter ved indirekte kontakt, dråpesmitte eller luftbåren smitte, kan Kongen i forskrift utfylle, supplere eller fravike denne loven ved å gi kriminalomsorgen adgang til å beslutteat besøk i fengsel skal gjennomføres i samsvar med smittevernfaglige råd, og at kriminalomsorgen kan avbryte besøket dersom pålegg om dette ikke overholdesat en innsatt skal nektes besøk i fengsel dersom besøket etter en konkret vurdering vil innebære en særskilt fare for overføring av smitte, eller at det for en nærmere avgrenset periode som hovedregel ikke skal gjennomføres besøk i fengselet eller en nærmere angitt del av fengselet. Forskrifter etter denne bestemmelsen skal inneholde en nærmere regulering av innsattes rett til besøk fra advokat og offentlig myndighetsrepresentant, og krav om at kriminalomsorgen skal legge til rette for at innsatte som nektes besøk kan ha kontakt med personer utenfor fengsel ved bruk av fjernkommunikasjon. Forskrifter etter denne bestemmelsen kan ikke begrense innsattes tilgang til helsetjenesterat en innsatt helt eller delvis skal utelukkes fra fellesskap med andre innsatte for å forebygge smittespredning i fengselet dersom det følger av lov eller forskrift, eller av beslutning i medhold av smittevernloven, at en person som er innsatt i fengselet skal være i isolasjon eller karantene, eller personen har symptomer som er forenlig med en allmennfarlig smittsom sykdom som skal medføre isolasjon eller karantene. Forskrifter etter denne bestemmelsen skal inneholde krav om at kriminalomsorgen så vidt mulig skal rådføre seg med helsepersonell før det vedtas utelukkelse på grunn av symptomer. Forskrifter etter denne bestemmelsen skal også inneholde en nærmere regulering av den innsattes rett på meningsfylt menneskelig kontakt, og som minimum kreve at den innsatte skal ha tilbud om meningsfylt menneskelig kontakt eller tiltak som kompenserer for fravær av meningsfylt kontakt i til sammen minst to timer hver dag, samt at innsatte som har tilbud om mindre enn to timer meningsfylt menneskelig kontakt hver dag, hver dag skal ha mulighet for kontakt med familie eller andre ved bruk av fjernkommunikasjonat en innsatt skal nektes permisjon eller frigang fra fengsel, og omgjøre vedtak om dette, dersom permisjonen eller frigangen etter en konkret vurdering antas å ville innebære en særskilt fare for overføring av smitte. Forskrifter etter denne bestemmelsen skal inneholde krav om at kriminalomsorgen så vidt mulig skal rådføre seg med helsepersonell før det besluttes nektelse eller omgjøringat gjennomføring av straff i samfunnet midlertidig skal avbrytes dersom gjennomføringen på grunn av pålegg eller anbefaling fra statlige eller kommunale myndigheter eller endringer hos kriminalomsorgens oppdragsgivere ikke lar seg gjennomføre. Forskrifter etter denne bestemmelsen skal inneholde krav om at straffavbrudd så vidt mulig skal unngås dersom den som gjennomfører samfunnsstraff er under 18 årat en domfelt som har gjennomført en tredel av den ubetingede fengselsstraffen midlertidig skal overføres til straffegjennomføring med elektronisk kontroll utenfor fengsel, herunder en kortvarig overføring uten elektronisk kontroll inntil den elektroniske kontrollen er etablert, dersom kapasiteten i kriminalomsorgen krever det, sikkerhetsmessige forhold ikke taler imot, og domfelte ikke gjennomfører straff for overtredelse av straffeloven kapittel 18 eller 26 eller §§ 275, 282 eller 283.
+>
+> Det kan bare besluttes tiltak på grunnlag av forskrifter etter første ledd når det er nødvendig for å forebygge smittespredning eller andre negative konsekvenser ved utbrudd av en allmennfarlig smittsom sykdom som nevnt i første ledd, og det ikke vil være uforholdsmessig overfor den innsatte eller domfelte som beslutningen retter seg mot.
+>
+
+## § 45 f
+
+### 2021-06-04 — lov/2021-06-04-54
+
+*§ 45 f første ledd skal lyde:*
+
+> Kapittel 3 A oppheves 1. juli 2021.
+>
+
+## § 5
+
+### 2014-02-28 — lov/2014-02-28-3
+
+*§ 5 første og annet ledd skal lyde:*
+
+> Kriminalomsorgen er inndelt i Kriminalomsorgsdirektoratet, regionalt nivå og lokalt nivå.
+>
+> Kriminalomsorgsdirektoratet har ansvaret for den faglige og administrative ledelsen av kriminalomsorgen. Lederen utnevnes av Kongen.
+>
+
+### 2018-06-01 — lov/2018-06-01-25
+
+*§ 5 fjerde ledd oppheves.*
+
+## § 52
+
+### 2013-06-14 — lov/2013-06-14-44
+
+*§ 52 andre punktum skal lyde:*
+
+> §§ 12, 15, 16, 20, 33, 35, 36, 40 åttende ledd og 41 til 45 i loven her gjelder ikke.
+>
+
+## § 58
+
+### 2013-06-14 — lov/2013-06-14-44
+
+*§ 58 andre ledd andre punktum skal lyde:*
+
+> Samme myndighet treffer i slike tilfeller også avgjørelse om anke til lagmannsrett, fullbyrding etter straffeprosessloven § 455 og utsettelse av fullbyrdingen utover seks måneder etter straffeprosessloven § 459.
+>
+
+### 2013-06-14 — lov/2013-06-14-44
+
+*§ 58 fjerde ledd skal lyde:*
+
+> Kriminalomsorgen kan anmode politiet om å avhente den domfelte etter straffeprosessloven § 461 annet ledd hvis det er nødvendig for å få iverksatt en reaksjon etter første ledd.
+>
+
+## § 6
+
+### 2011-06-24 — lov/2011-06-24-34
+
+*§ 6 annet ledd første punktum skal lyde:*
+
+> Regionalt nivå treffer avgjørelse i alle saker etter § 11, § 37 fjerde ledd og syvende ledd tredje punktum, § 38 tredje og fjerde ledd, § 44 annet ledd og § 58 annet ledd.
+>
+
+### 2012-01-20 — lov/2012-01-20-6
+
+*§ 6 nytt tredje ledd skal lyde:*
+
+> I saker der domfelte er under 18 år, skal det sendes kopi av alle avgjørelser truffet av lokalt nivå til regionalt nivå.
+>
+
+### 2019-12-20 — lov/2019-12-20-105
+
+*§ 6 annet ledd annet punktum skal lyde:*
+
+> Når den domfelte er idømt fengselsstraff på mer enn ti år, idømt en strafferettslig særreaksjon eller forvaring eller innsatt i avdeling med særlig høyt sikkerhetsnivå etter § 10 annet ledd, treffer regionalt nivå også avgjørelse etter §§ 12 til 16 a, 20, 33, 35, 36 og 42 til 44.
+>
+
+### 2023-12-20 — lov/2023-12-20-111
+
+*§ 6 andre ledd andre punktum skal lyde:*
+
+> Når den domfelte er idømt fengselsstraff på mer enn ti år, idømt forvaring eller innsatt i avdeling med særlig høyt sikkerhetsnivå etter § 10 annet ledd, treffer regionalt nivå også avgjørelse etter §§ 12 til 16 a, 20, 33, 35, 36 og 42 til 44.
+>
+
+## § 7
+
+### 2010-12-17 — lov/2010-12-17-85
+
+*§ 7 bokstav f første punktum skal lyde:*
+
+> Beslutning om å fremme sak for retten etter § 44 annet ledd, § 58 annet ledd eller straffeloven § 54 nr. 1 og 2 kan ikke påklages.
+>
+
+### 2010-12-17 — lov/2010-12-17-85
+
+*§ 7 bokstav h skal lyde:*
+
+> Enhver som er tilsatt i eller utfører tjeneste eller arbeid for kriminalomsorgen, har taushetsplikt om det vedkommende i forbindelse med tjenesten får vite om forhold av betydning for sikkerheten i fengslene og i forbindelse med gjennomføringen av straff utenfor fengslene.
+>
+
+### 2013-06-14 — lov/2013-06-14-44
+
+*§ 7 bokstav i skal lyde:*
+
+> Taushetsplikt er ikke til hinder for at kriminalomsorgen gir opplysninger som nevnt i § 26 sjette ledd, § 20 annet ledd, § 36 tredje ledd, § 40 siste ledd, § 42 sjette og syvende ledd og straffeloven § 39 g femte ledd, til den fornærmede i straffesaken eller dennes etterlatte.
+>
+
+### 2014-02-28 — lov/2014-02-28-3
+
+*§ 7 bokstav g skal lyde:*
+
+> Kriminalomsorgsdirektoratet og regionalt nivå kan, selv om fristene i forvaltningsloven § 35 tredje ledd er overskredet, av eget tiltak omgjøre et vedtak som er fattet av underordnet instans til skade for domfelte eller innsatte hvis særlige grunner tilsier det.
+>
+
+### 2019-12-20 — lov/2019-12-20-105
+
+*§ 7 bokstav i skal lyde:*
+
+> Taushetsplikt er ikke til hinder for at kriminalomsorgen gir opplysninger som nevnt i § 16 sjette ledd, § 16 a tredje ledd jf. § 16 sjette ledd, § 20 annet ledd, § 36 tredje ledd, § 40 siste ledd, § 42 sjette og syvende ledd og straffeloven § 45 sjette ledd, til den fornærmede i straffesaken eller dennes etterlatte.
+>
+
+## § 7 a
+
+### 2013-06-14 — lov/2013-06-14-44
+
+*§ 7 a overskriften skal lyde:*
+
+> Opplysningsplikt overfor kriminalomsorgen
+>
+
+### 2013-06-14 — lov/2013-06-14-44
+
+*§ 7 a andre ledd ny bokstav d skal lyde:*
+
+> Tilbyder av tilgang til elektronisk kommunikasjonsnett eller kommunikasjonstjeneste; opplysninger om avtalebasert hemmelig telefonnummer og andre abonnementsopplysninger.
+>
+
+### 2025-06-10 — lov/2025-06-10-32
+
+*§ 7 a annet ledd bokstav a skal lyde:*
+
+> Folkeregistermyndigheten; opplysninger som er nødvendige for utførelsen av kriminalomsorgens oppgaver fastsatt i eller i medhold av denne loven eller andre oppgaver fastsatt i eller i medhold av lov, også opplysninger til bruk for utredning, forskning og produksjon av statistikk.
+>
+
+## § 7 b
+
+### 2008-03-07 — lov/2008-03-07-5
+
+*Ny § 7 b skal lyde:*
+
+> § 7 b.Varsel til fornærmede eller dennes etterlatte
+>
+> For regler om varsling til fornærmede eller dennes etterlatte om kriminalomsorgens avgjørelser, se § 16 sjette ledd, § 20 annet ledd, § 36 tredje ledd, § 40 siste ledd, § 42 syvende og åttende ledd og straffeloven § 39 g femte ledd.
+>
+
+### 2013-06-14 — lov/2013-06-14-44
+
+*§ 7 b fyrste ledd skal lyde:*
+
+> For regler om varsling til fornærmede eller dennes etterlatte om kriminalomsorgens avgjørelser, se § 16 sjette ledd, § 20 annet ledd, § 36 tredje ledd, § 40 siste ledd, § 42 sjette og syvende ledd og straffeloven § 39 g femte ledd.
+>
+
+### 2019-12-20 — lov/2019-12-20-105
+
+*§ 7 b første ledd skal lyde:*
+
+> For regler om varsling til fornærmede eller dennes etterlatte om kriminalomsorgens avgjørelser, se § 16 sjette ledd, § 16 a tredje ledd jf. § 16 sjette ledd, § 20 annet ledd, § 36 tredje ledd, § 40 siste ledd, § 42 sjette og syvende ledd og straffeloven § 45 sjette ledd.
+>
+
+## § 7a
+
+### 2010-12-17 — lov/2010-12-17-85
+
+*§ 7a ny overskrift skal lyde:*
+
+> Offentlige etaters opplysningsplikt overfor kriminalomsorgen
+>
+
+## § 8 a
+
+### 2024-06-21 — lov/2024-06-21-45
+
+*Ny § 8 a skal lyde:*
+
+> § 8 a.Erstatning for skader ved trening og øvelse i fysisk maktanvendelse og håndtering av kritiske situasjoner i kriminalomsorgenAnsatte i kriminalomsorgen har krav på erstatning av staten for skader som skyldes pålagt organisert trening og øvelse i fysisk maktanvendelse og håndtering av kritiske situasjoner i kriminalomsorgen, og som ikke dekkes etter yrkesskadeforsikringsloven § 11. Lidelser som nevnt i folketrygdloven § 13-3 tredje ledd dekkes ikke.Erstatningen skal utmåles som om skaden var en yrkesskade etter yrkesskadeforsikringsloven. Yrkesskadeforsikringsloven §§ 14 og 15 gjelder tilsvarende.Reglene om enkeltvedtak i forvaltningsloven kapittel IV, V og VI gjelder ikke for krav som behandles etter denne bestemmelsen.Som ansatt i kriminalomsorgen etter første ledd regnes enhver som gjør arbeid eller utfører verv i kriminalomsorgens tjeneste. Dette omfatter også ansatte og aspiranter ved Kriminalomsorgens høgskole og utdanningssenter KRUS.Departementet kan i forskrift gi nærmere regler om retten til erstatning, herunder vilkårene for erstatning og saksbehandlingsregler.
+>
+> § 8 a.Erstatning for skader ved trening og øvelse i fysisk maktanvendelse og håndtering av kritiske situasjoner i kriminalomsorgen
+>
+
+## § 9
+
+### 2016-12-16 — lov/2016-12-16-98
+
+*§ 9 skal lyde:*
+
+> § 9.Tilsynsråd
+>
+> Tilsynsrådene skal føre tilsyn med fengsler og friomsorgskontor og med behandlingen av de domfelte og innsatte. Kriminalomsorgsdirektoratet beslutter den geografiske inndelingen av ansvarsområder for tilsynsrådene. Kongen gir i forskrift nærmere regler om tilsyn med fengsler og friomsorgskontor og med behandlingen av de domfelte og innsatte.
+>
+
+## § 9 b
+
+### 2025-06-10 — lov/2025-06-10-32
+
+*§ 9 b andre ledd nytt fjerde til sjette punktum skal lyde:*
+
+> Før oppnevningen skal den foreslåtte lederen og foreslåtte medlemmer legge frem politiattest som nevnt i politiregisterloven § 39 første ledd. Personer som er dømt eller har vedtatt forelegg for overtredelse av straffeloven 1902 §§ 192 til 197, § 199, § 200 andre ledd, § 201 første ledd bokstav c, §§ 201 a, 203, 204 a, 219, 224, § 229 annet og tredje straffealternativ, §§ 231, 233 eller 268 jf. 267 eller straffeloven 2005 §§ 257, 258, 274, 275, 282, 283, 291, 293 til 296, 299, 301 til 306, 309 til 312, 314, 327 eller 328, kan ikke oppnevnes. Konsekvenser ved andre anmerkninger skal vurderes konkret.
+>

@@ -1,0 +1,15 @@
+---
+tittel: "Rekonstruksjonsloven"
+refid: "lov/2020-05-07-38"
+---
+
+# Endringshistorikk: Rekonstruksjonsloven
+
+## (annet)
+
+### 2025-06-20 — lov/2025-06-20-79
+
+*I midlertidig lov 7. mai 2020 nr. 38 om rekonstruksjon for å avhjelpe økonomiske problemer som følge av utbrudd av covid-19 skal § 64 andre ledd første punktum lyde:*
+
+> Loven oppheves 1. juli 2026.
+>

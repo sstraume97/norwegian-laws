@@ -1,0 +1,22 @@
+---
+tittel: "Sjekkloven – sjl"
+refid: "lov/1932-05-27-3"
+---
+
+# Endringshistorikk: Sjekkloven – sjl
+
+## § 53
+
+### 2008-06-20 — lov/2008-06-20-46
+
+*§ 53 første ledd skal lyde:*
+
+> Sjekkforeldelse avbrytesved at stevning er sendt til retten eller i tilfelle klage til forliksrådet, eller ved at sjekkravet under rettssak gjøres gjeldende til motregning, eller for øvrig inndras i saken (jf. tvisteloven § 15-1) ellerved at chekkfordringen anmeldes i skyldnerens bo dersom dette behandles av offentlige myndigheter ellerved at den mot hvem søksmål (motregningskrav) som foran omtalt er reist, gir en forgjenger varsel om søksmålet (tvisteloven § 15-9). Den som har mottatt sådan innvarsling, kan avbryte foreldelsen ved likeledes å gi sin forgjenger prosessvarsel.
+>
+
+### 2008-06-20 — lov/2008-06-20-46
+
+*§ 53 fjerde ledd skal lyde:*
+
+> Foreldelsen avbrytes ikke i forhold til andre chekkskyldnere enn den mot hvem nogen av de ovennevnte handlinger foretas; men avbrytelsen virker til fordel for alle dens forgjengere, som har foretatt avbrytelsen.
+>

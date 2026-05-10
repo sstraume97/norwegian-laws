@@ -1,0 +1,324 @@
+---
+tittel: "Sosialtjenesteloven – sotjl"
+refid: "lov/2009-12-18-131"
+---
+
+# Endringshistorikk: Sosialtjenesteloven – sotjl
+
+## (annet)
+
+### 2020-04-15 — lov/2020-04-15-19
+
+*Nåværende andre ledd blir nytt fjerde ledd.*
+
+### 2023-12-20 — lov/2023-12-20-95
+
+*I lov 18. desember 2009 nr. 131 om sosiale tjenester i arbeids- og velferdsforvaltningen skal § 35 andre ledd lyde:*
+
+> Kvalifiseringsstønaden skal på årsbasis være lik 2,041 ganger folketrygdens grunnbeløp. Deltaker under 25 år mottar 2/3 stønad.
+>
+
+## § 13
+
+### 2021-06-11 — lov/2021-06-11-78
+
+*§ 13 skal lyde:*
+
+> § 13.Samarbeid med andre offentlige organer og tjenesteytere og samordning
+>
+> Kommunen i arbeids- og velferdsforvaltningen skal medvirke til at sosiale hensyn blir ivaretatt av andre offentlige organer som har betydning for at formålet med loven blir oppnådd.
+>
+> Kommunen i arbeids- og velferdsforvaltningen skal samarbeide med andre sektorer, forvaltningsnivåer og tjenesteytere dersom samarbeid er nødvendig for å gi en person oppfølging og et helhetlig og samordnet tjenestetilbud, og når dette kan bidra til å løse oppgavene som kommunen i arbeids- og velferdsforvaltningener pålagt etter denne loven. Blir det påvist mangler ved de tjenester som andre deler av forvaltningen skal yte til personer med et særlig hjelpebehov, skal kommunen i arbeids- og velferdsforvaltningen om nødvendig ta opp saken med rette vedkommende. Er det uklarhet eller uenighet om hvor ansvaret ligger, skal kommunen i arbeids- og velferdsforvaltningen søke å klargjøre forholdet.
+>
+> Kommunen skal samordne tjenestetilbudet etter andre ledd. Ved behov skal kommunen bestemme hvilken kommunal tjenesteyter som skal ivareta samordningen. Dersom det er oppnevnt barnekoordinator etter helse- og omsorgstjenesteloven § 7-2 a, skal koordinatoren sørge for samordning av tjenestetilbudet.
+>
+> Kommunen i arbeids- og velferdsforvaltningen skal, i tillegg til å følge opp enkelte personer, samarbeide med andre sektorer, forvaltningsnivåer og tjenesteytere, slik at kommunen i arbeids- og velferdsforvaltningen og de andre tjenesteyterne kan ivareta sine oppgaver etter lov og forskrift. Som ledd i disse oppgavene skal kommunen i arbeids- og velferdsforvaltningen gi uttalelser og råd og delta i den kommunale og fylkeskommunale planleggingsvirksomheten og i de samarbeidsorganene som blir opprettet.
+>
+> Med tjenesteytere menes kommunale, fylkeskommunale og statlige tjenesteytere, private tjenesteytere som utfører oppgaver på vegne av slike tjenesteytere, barnehager som får tilskudd etter barnehageloven § 19 og skoler som får statstilskudd etter friskolelova § 6-1.
+>
+
+## § 18
+
+### 2015-12-18 — lov/2015-12-18-106
+
+*§ 18 nytt tredje ledd skal lyde:*
+
+> Ved vurdering av søknad om stønad til familier skal det ikke tas hensyn til barns inntekt av arbeid i fritid og skoleferier.
+>
+
+### 2015-12-18 — lov/2015-12-18-106
+
+*§ 18 nåværende tredje ledd blir nytt fjerde ledd.*
+
+### 2022-06-17 — lov/2022-06-17-42
+
+*§ 18 tredje ledd skal lyde:*
+
+> Ved vurdering av søknad om stønad til familier skal det ikke tas hensyn til barnetrygd og barns inntekt av arbeid i fritid og skoleferier.
+>
+
+## § 2
+
+### 2010-12-17 — lov/2010-12-17-80
+
+*§ 2 første ledd skal lyde:*
+
+> Lovens bestemmelser om tjenester gjelder for alle som oppholder seg i riket. Kongen kan gi forskrifter som begrenser anvendelsen av loven på personer som ikke er norske statsborgere, eller som ikke har bopel i riket. Kongen kan også gi forskrifter om anvendelse av loven på personer som oppholder seg i utlandet, men som har tilknytning til riket.
+>
+
+## § 20
+
+### 2015-04-24 — lov/2015-04-24-20
+
+*§ 20 skal lyde:*
+
+> § 20.Bruk av vilkår
+>
+> Det skal stilles vilkår om aktivitet for tildeling av økonomisk stønad med mindre tungtveiende grunner taler mot det. Det kan også stilles andre vilkår for tildeling av økonomisk stønad, inkludert vilkår etter § 25.
+>
+> Vilkårene må ha nær sammenheng med vedtaket. De må ikke være uforholdsmessig byrdefulle for stønadsmottakeren eller begrense hans eller hennes handle- og valgfrihet på en urimelig måte. Vilkårene må heller ikke være i strid med andre bestemmelser i loven her eller i andre lover.
+>
+> Ved brudd på vilkår kan det fattes vedtak om at stønaden reduseres, forutsatt at det i vedtaket om stønad er informert om muligheten for slik reduksjon. Departementet kan i forskrift gi nærmere regler om reduksjon av stønaden.
+>
+
+### 2016-12-20 — lov/2016-12-20-105
+
+*§ 20 nytt tredje ledd skal lyde:*
+
+> Ved brudd på vilkår kan det fattes vedtak om at stønaden reduseres, forutsatt at det i vedtaket om stønad er informert om muligheten for slik reduksjon. Departementet kan i forskrift gi nærmere regler om reduksjon av stønaden.
+>
+
+## § 20 a
+
+### 2016-12-20 — lov/2016-12-20-105
+
+*Ny § 20 a skal lyde:*
+
+> § 20 a.Bruk av vilkår for personer under 30 år
+>
+> Det skal stilles vilkår om aktivitet for tildeling av økonomisk stønad til personer under 30 år, med mindre tungtveiende grunner taler mot det. Det kan også stilles andre vilkår for tildeling av økonomisk stønad, inkludert vilkår etter § 25.
+>
+> Vilkårene må ha nær sammenheng med vedtaket. De må ikke være uforholdsmessig byrdefulle for stønadsmottakeren eller begrense hans eller hennes handle- og valgfrihet på en urimelig måte. Vilkårene må heller ikke være i strid med andre bestemmelser i loven her eller i andre lover.
+>
+> Ved brudd på vilkår kan det fattes vedtak om at stønaden reduseres, forutsatt at det i vedtaket om stønad er informert om muligheten for slik reduksjon. Departementet kan i forskrift gi nærmere regler om reduksjon av stønaden.
+>
+
+## § 25
+
+### 2019-01-01 — lov/2018-12-20-98
+
+*§ 25 andre ledd skal lyde:*
+
+> Folketrygdens refusjonsrett etter forskotteringsloven § 10 har fortrinnsrett overfor kommunens refusjonsrett etter første ledd.
+>
+
+## § 28
+
+### 2021-06-11 — lov/2021-06-11-78
+
+*§ 28 tredje ledd skal lyde:*
+
+> Kongen i statsråd kan i forskrift gi nærmere bestemmelser om hvem rettigheten gjelder for etter første ledd og § 33 første punktum, og om innholdet i individuelle planer.
+>
+
+## § 29
+
+### 2010-12-17 — lov/2010-12-17-80
+
+*§ 29 første ledd skal lyde:*
+
+> Kvalifiseringsprogram gjelder for personer i yrkesaktiv alder med vesentlig nedsatt arbeids- og inntektsevne og ingen eller svært begrensede ytelser til livsopphold etter folketrygdloven eller arbeidsmarkedsloven.
+>
+
+### 2019-01-01 — lov/2018-12-20-98
+
+*§ 29 skal lyde:*
+
+> § 29.Kvalifiseringsprogram
+>
+> Kvalifiseringsprogram gjelder for personer mellom 18 og 67 år med vesentlig nedsatt arbeids- og inntektsevne og ingen eller svært begrensede ytelser til livsopphold etter folketrygdloven eller arbeidsmarkedsloven.
+>
+> Rett til kvalifiseringsprogram forutsetter at søkeren har gjennomgått en arbeidsevnevurdering og at tett og koordinert bistand gjennom deltakelse i programmet vurderes som hensiktsmessig og nødvendig for å styrke vedkommendes mulighet for deltakelse i arbeidslivet.
+>
+> Kommunen er ikke forpliktet til å innvilge program dersom det på grunn av forhold ved søkeren vil være uforholdsmessig byrdefullt å tilby et program.
+>
+> Departementet kan i forskrift gi nærmere regler om retten til kvalifiseringsprogram og om bruken av arbeidsevnevurderinger.
+>
+
+## § 30
+
+### 2019-01-01 — lov/2018-12-20-98
+
+*§ 30 skal lyde:*
+
+> § 30.Kvalifiseringsprogrammets innhold
+>
+> Innholdet i kvalifiseringsprogrammet skal tilpasses den enkeltes behov og forutsetninger. Den vesentlige delen av programmet skal bestå av tiltak som direkte forventes å styrke deltakers muligheter for overgang til arbeid etter endt program. Programmet kan også inneholde tiltak som kan være med på å støtte opp under og forberede overgang til arbeid. Det kan settes av tid til aktiviteter som bedrer deltakers helse.
+>
+> Programmet skal være helårig og på full tid. Inntil 50 prosent stilling eller gjennomføring av læretid kan kombineres med fortsatt deltakelse i kvalifiseringsprogrammet. Summen av inntektsgivende arbeid og andre aktiviteter innenfor programmet skal minst utgjøre full tid.
+>
+> Departementet kan i forskrift gi nærmere regler om programmets innhold.
+>
+
+## § 32
+
+### 2019-01-01 — lov/2018-12-20-98
+
+*§ 32 skal lyde:*
+
+> § 32.Programmets varighet
+>
+> Kvalifiseringsprogrammet gis så lenge deltakeren oppfyller vilkårene i § 29, men ikke lenger enn to år. Når særlige grunner tilsier det, kan programmet forlenges med inntil ett år. Godkjent permisjon og opphold etter vedtak om avbrudd, jf. § 34 første ledd, regnes ikke med i programmets varighet.
+>
+> Departementet kan i forskrift fastsette nærmere regler om varigheten av kvalifiseringsprogrammet.
+>
+
+## § 34
+
+### 2019-01-01 — lov/2018-12-20-98
+
+*§ 34 skal lyde:*
+
+> § 34.Avbrudd i og avslutning av program
+>
+> Kommunen kan avbryte programmet for en periode eller avslutte programmet dersom det er saklig begrunnet i forhold ved deltakeren. Programmet skal avsluttes når det er sannsynlig at deltakeren ikke vil gjenoppta deltakelsen i programmet. Kommunen skal også avslutte programmet dersom det har vært avbrutt i ett år.
+>
+> Programmet kan ikke avsluttes på grunn av fravær knyttet til ordinært arbeid, fødsel eller adopsjon det første året etter fraværets start.
+>
+
+## § 35
+
+### 2019-01-01 — lov/2018-12-20-98
+
+*§ 35 første ledd skal lyde:*
+
+> For den tiden en person deltar i kvalifiseringsprogram, har vedkommende rett til kvalifiseringsstønad. En person har ikke rett til kvalifiseringsstønad i perioden programmet er avbrutt etter § 34 første ledd.
+>
+
+## § 36
+
+### 2019-01-01 — lov/2018-12-20-98
+
+*§ 36 skal lyde:*
+
+> § 36.Reduksjon i kvalifiseringsstønad ved fravær
+>
+> Ved fravær reduseres kvalifiseringsstønaden tilsvarende. Det gjelder ikke ved fravær som skyldes sykdom eller andre tvingende velferdsgrunner, og som det er gitt tillatelse til.
+>
+> Departementet kan i forskrift fastsette nærmere regler om når det kan gis tillatelse til fravær med stønad etter første ledd annet punktum.
+>
+
+## § 37
+
+### 2019-01-01 — lov/2018-12-20-98
+
+*§ 37 skal lyde:*
+
+> § 37.Samordning mellom kvalifiseringsstønad og arbeidsinntekt mv.
+>
+> I den utstrekning en deltaker i kvalifiseringsprogram har inntektsgivende arbeid eller lærlingelønn, reduseres stønaden inkludert barnetillegg tilsvarende, beregnet i forhold til antall timer med inntektsgivende arbeid eller gjennomføring av læretid. Stønaden reduseres ikke på grunn av mottatte barnebidrag.
+>
+
+## § 38
+
+### 2019-01-01 — lov/2018-12-20-98
+
+*§ 38 andre ledd oppheves. Nåværende tredje ledd blir andre ledd.*
+
+## § 43
+
+### 2018-10-01 — lov/2018-06-22-68
+
+*§ 43 nytt tredje ledd skal lyde:*
+
+> I saker som gjelder tjenester etter denne loven, skal kommunen, uten hinder av taushetsplikt, ha tilgang til nødvendige opplysninger i Folkeregisteret. Kommunen skal også ha tilgang til opplysningene i registeret i forbindelse med utredning og produksjon av statistikk.
+>
+
+## § 43 a
+
+### 2020-12-04 — lov/2020-12-04-132
+
+*Ny § 43 a skal lyde:*
+
+> § 43 a.Behandling av personopplysninger
+>
+> Kommunen, Fylkesmannen, Statens helsetilsyn og Arbeids- og velferdsdirektoratet kan behandle personopplysninger, herunder personopplysninger som nevnt i personvernforordningen artikkel 9 og 10, når dette er nødvendig for å behandle saker som gjelder tjenester etter loven her.
+>
+> Departementet kan gi forskrift om behandlingen, blant annet om formålet med behandlingen, behandlingsansvar, hvilke typer personopplysninger som kan behandles, hvem det kan behandles personopplysninger om, registerføring og tilgang til registre.
+>
+
+## § 44
+
+### 2017-06-16 — lov/2017-06-16-45
+
+*§ 44 fjerde ledd skal lyde:*
+
+> Uten hinder av taushetsplikten kan kommunen etter forespørsel utlevere tjenestemottakerens kontaktopplysninger og opplysninger om mulig oppholdssted til politiet og kriminalomsorgen til bruk i deres tjeneste.
+>
+
+### 2017-06-16 — lov/2017-06-16-45
+
+*§ 44 nåværende fjerde ledd blir nytt femte ledd.*
+
+### 2021-06-18 — lov/2021-06-18-127
+
+*§ 44 første ledd første punktum skal lyde:*
+
+> Enhver som utfører tjeneste eller arbeid for kommunen etter denne loven, har taushetsplikt etter forvaltningsloven §§ 13 til 13 e og 13 g.
+>
+
+### 2021-06-18 — lov/2021-06-18-127
+
+*§ 44 tredje ledd skal lyde:*
+
+> Det kan bare gis opplysninger til andre forvaltningsorganer etter forvaltningsloven § 13 b nr. 6 når dette er nødvendig for å fremme kommunen i arbeids- og velferdsforvaltningens oppgaver.
+>
+
+## § 51 a
+
+### 2020-03-27 — lov/2020-03-27-10
+
+*Ny § 51 a skal lyde:*
+
+> § 51 a.Forskrifter om unntak ved allmennfarlig smittsom sykdom mv.
+>
+> Bestemmelsen i denne paragrafen gjelder ved utbrudd eller fare for utbrudd av allmennfarlig sykdom.
+>
+> Departementet kan gi forskrift om midlertidige bestemmelser om økonomisk stønad til selvstendig næringsdrivende og frilansere som mister inntekt fordi kontrakter og oppdrag ikke kan gjennomføres som følge av situasjoner som nevnt i første ledd. Stønad skal i slike tilfeller kunne gis uten hensyn til økonomisk behovsprøving etter bestemmelsen i § 18.
+>
+
+### 2020-04-15 — lov/2020-04-15-19
+
+*§ 51 a andre og nytt tredje ledd skal lyde:*
+
+> Departementet kan gi forskrift om midlertidige unntak fra bestemmelsene i § 20, § 20 a og §§ 29 til 40.
+>
+> Departementet kan gi forskrift om midlertidige unntak fra bestemmelsen i § 26 om refusjon i ytelser fra folketrygden m.m.
+>
+
+### 2022-06-17 — lov/2022-06-17-42
+
+*§ 51 a første ledd skal lyde:*
+
+> Bestemmelsen i denne paragrafen gjelder ved utbrudd eller fare for utbrudd av allmennfarlig smittsom sykdom.
+>
+
+### 2022-06-17 — lov/2022-06-17-42
+
+*§ 51 a fjerde ledd oppheves.*
+
+## § 9
+
+### 2021-06-11 — lov/2021-06-11-78
+
+*§ 9 første ledd skal lyde:*
+
+> Statsforvalteren skal føre tilsyn med at kommunen oppfyller sine plikter etter kapittel 4, § 13 andre ledd første punktum, tredje ledd, fjerde ledd første punktum og § 16 første ledd.
+>
+
+### 2022-06-17 — lov/2022-06-17-42
+
+*§ 9 første ledd nytt andre punktum skal lyde:*
+
+> Statsforvalteren skal også føre tilsyn med kommunens internkontroll med pliktene etter kapittel 4, jf. kommuneloven § 25-1.
+>

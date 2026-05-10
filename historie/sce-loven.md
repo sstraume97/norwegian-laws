@@ -1,0 +1,26 @@
+---
+tittel: "SCE-loven"
+refid: "lov/2006-06-30-50"
+---
+
+# Endringshistorikk: SCE-loven
+
+## § 11a
+
+### 2022-12-20 — lov/2022-12-20-122
+
+*Ny § 11a skal lyde:*
+
+> § 11a.Forskrift om gjennomføring av EØS-forpliktelser om saksbehandling
+>
+> Departementet kan gi forskrift for å gjennomføre forpliktelser som følger av EØS-avtalen om saksbehandling i foretaksorganer i europeiske samvirkeforetak. Forskriftene kan gjøre unntak fra SCE-forordningen.
+>
+
+## § 2
+
+### 2022-12-20 — lov/2022-12-20-122
+
+*§ 2 andre ledd nytt andre punktum skal lyde:*
+
+> Kongen kan i tillegg gi forskrift om nødvendige tilpasninger for europeiske samvirkeforetak til regler som nevnt i første ledd første punktum.
+>

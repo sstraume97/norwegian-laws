@@ -1,0 +1,50 @@
+---
+tittel: "Kystvaktloven – kystvl"
+refid: "lov/1997-06-13-42"
+---
+
+# Endringshistorikk: Kystvaktloven – kystvl
+
+## (annet)
+
+### 2003-05-23 — lov/2003-05-23-33
+
+*Nåværende bokstav b til e blir bokstav c til f.*
+
+### 2025-06-10 — lov/2025-06-10-33
+
+*2.I lov 13. juni 1997 nr. 42 om Kystvakten skal § 11 første ledd bokstav g og ny bokstav h lyde:*
+
+> lov av 15. mai 1992 nr. 47 om laksefisk og innlandsfisk mv.,
+>
+> lov 10. juni 2025 nr. 33 om vern av marin natur utenfor territorialfarvannet.
+>
+
+### 2025-06-20 — lov/2025-06-20-102
+
+*5.I lov 13. juni 1997 nr. 42 om Kystvakten skal § 11 første ledd bokstav f lyde:*
+
+> lov 20. juni 2025 nr. 102 om jakt, fangst og felling av vilt mv.,
+>
+
+## § 35
+
+### 2023-11-24 — lov/2023-11-24-84
+
+*§ 35 femte ledd skal lyde:*
+
+> For øvrig gjelder bestemmelsene om arrest i tvisteloven kapittel 32 og 33 tilsvarende for hefte etter denne paragraf så langt de passer.
+>
+
+## § 9
+
+### 2003-05-23 — lov/2003-05-23-33
+
+*§ 9 første ledd ny bokstav b skal lyde:*
+
+> lov 28. mai 1959 nr. 12 om kvalitetskontroll med fisk og fiskevarer o.a.
+>
+
+### 2023-11-24 — lov/2023-11-24-84
+
+*§ 9 første ledd bokstav c oppheves.*

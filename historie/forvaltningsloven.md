@@ -1,0 +1,28 @@
+---
+tittel: "Forvaltningsloven – fvl"
+refid: "lov/1967-02-10"
+---
+
+# Endringshistorikk: Forvaltningsloven – fvl
+
+## (annet)
+
+### 2024-06-21 — lov/2024-06-21-46
+
+*12.I lov 10. februar 1967 om behandlingsmåten i forvaltningssaker skal § 12 andre ledd lyde:*
+
+> Som fullmektig kan brukes enhver myndig person eller en organisasjon som vedkommende er medlem av. Tjenestemann tilsatt ved forvaltningsorgan innenfor det forvaltningsområde som saken hører under, kan ikke opptre som fullmektig.
+>
+
+### 2025-06-20 — lov/2025-06-20-81
+
+**
+
+## § 51
+
+### 2025-04-25 — lov/2025-04-25-12
+
+*§ 51 tredje ledd skal lyde:*
+
+> Forvaltningsorganet kan i særlige tilfeller redusere eller frafalle påløpt mulkt. For krav som kreves inn av Innkrevingsmyndigheten, kan forvaltningsorganet bare redusere eller frafalle påløpt mulkt dersom særlige grunner knyttet til ileggelsen tilsier det.
+>

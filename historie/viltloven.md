@@ -1,0 +1,53 @@
+---
+tittel: "Viltloven – viltl"
+refid: "lov/1981-05-29-38"
+---
+
+# Endringshistorikk: Viltloven – viltl
+
+## (annet)
+
+### 2024-06-14 — lov/2024-06-14-37
+
+*I lov 29. mai 1981 nr. 38 om jakt og fangst av vilt skal § 4 første ledd nr. 2 lyde:*
+
+> direktoratet
+>
+
+### 2025-06-20 — lov/2025-06-20-102
+
+**
+
+> Fra samme tid oppheves lov 29. mai 1981 nr. 38 om jakt og fangst av vilt. Kongen kan oppheve de enkelte bestemmelsene til forskjellig tid.
+>
+
+## § 20
+
+### 2014-03-28 — lov/2014-03-28-9
+
+*§ 20 tredje, fjerde og nytt femte ledd skal lyde:*
+
+> Bruk av selvskudd til felling av vilt er forbudt. Det samme gjelder bruk av kunstig lys i jaktøyemed, med følgende unntak:åtejakt på rødrev, når lyskilden er fast montertettersøk av påskutt hjorteviltavliving av vilt som er fanget levende i felle
+>
+> Ved ettersøk som nevnt i tredje ledd bokstav b, har jegeren bevisbyrden for at påskytingen er lovlig. Jegeren skal varsle politi, jaktrettshaver og kommunen om bruken av kunstig lys før ettersøket tar til. Dersom varsling i vesentlig grad vil forsinke ettersøket, kan begrunnet melding om slik bruk av kunstig lys sendes samme instanser umiddelbart etter avsluttet søk.
+>
+> Departementet gir nærmere forskrifter om de skytevåpen og den ammunisjon som det skal være tillatt å bruke under jakt, og om hvordan våpen og ammunisjon skal oppbevares og medbringes under jakt. Videre kan departementet ved forskrift gi nærmere bestemmelser om bruk av kunstig lys i tilfeller som nevnt i tredje ledd. Departementet kan også ved forskrift tillate at kunstig lys benyttes ved åtejakt på andre arter enn rødrev, ved ettersøk av andre arter enn hjortevilt og ved avliving av vilt i andre tilfeller enn nevnt i tredje ledd.
+>
+
+## § 21
+
+### 2014-03-28 — lov/2014-03-28-9
+
+*§ 21 annet ledd skal lyde:*
+
+> Innen en avstand av 2 kilometer fra land, herunder holmer og skjær, er det forbudt å drive jakt fra motorbåt eller annet flytende eller svevende fartøy drevet med motor. Dette gjelder likevel ikke ved ettersøk av påskutt sjøfugl i sjø når fartøyets hastighet ikke overstiger 5 knop. Jegeren har bevisbyrden for lovlig påskyting og skal snarest varsle politi og kommunen om bruk av motor under ettersøket. Fylkeskommunen kan for bestemte områder og tidsrom øke eller minske avstanden.
+>
+
+## § 48
+
+### 2016-11-18 — lov/2016-11-18-83
+
+*§ 48 første ledd annet punktum skal lyde:*
+
+> Det samme gjelder forlatte egg, egg som oppbevares ulovlig, fallvilt og vilt som er avlivet i medhold av naturmangfoldloven §§ 17, 17 a og 18.
+>

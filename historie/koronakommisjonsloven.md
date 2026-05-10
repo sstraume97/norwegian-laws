@@ -1,0 +1,24 @@
+---
+tittel: "Koronakommisjonsloven"
+refid: "lov/2020-12-04-136"
+---
+
+# Endringshistorikk: Koronakommisjonsloven
+
+## § 3
+
+### 2025-06-20 — lov/2025-06-20-96
+
+*§ 3 andre ledd andre punktum skal lyde:*
+
+> Det samme gjelder etter at materialet har blitt avlevert til en bevaringsinstitusjon.
+>
+
+## § 6
+
+### 2025-06-20 — lov/2025-06-20-96
+
+*§ 6 første ledd andre punktum skal lyde:*
+
+> Materiale som omfattes av arkivplikten, skal avleveres til en bevaringsinstitusjon.
+>

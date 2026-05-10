@@ -1,0 +1,12 @@
+---
+tittel: "Endringslov til finansforetaksloven mv."
+refid: "lov/2021-04-23-22"
+---
+
+# Endringshistorikk: Endringslov til finansforetaksloven mv.
+
+## (annet)
+
+### 2025-04-10 — lov/2025-04-10-11
+
+*Lovens del II oppheves. Del III blir del II. Del IV blir del III.*
