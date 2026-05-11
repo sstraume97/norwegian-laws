@@ -47,7 +47,9 @@ jobs:
         run: |
           git config user.name "Lovtidend"
           git config user.email "lovtidend@lovdata.no"
-          git add lover/ historie/ book/ _quarto.yml index.qmd laws.json
+          git add lover/ book/ _quarto.yml index.qmd laws.json
+          git rm -r --cached historie/ 2>/dev/null || true
+          git add historie/
           if git diff --staged --quiet; then
             echo "No changes to laws"
             echo "changed=false" >> $GITHUB_OUTPUT

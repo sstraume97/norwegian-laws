@@ -13,10 +13,15 @@ def _normalize_paragraph(instruction: str) -> str:
 
 def _law_filename(refid: str, short_title: str, used_names: dict) -> str:
     if short_title:
-        name = re.sub(r"\s*–\s*.*$", "", short_title).strip().lower()
+        name = re.sub(r"\s*–\s*.*$", "", short_title).strip()
+        name = re.sub(r"^Lov om\s+", "", name, flags=re.I)
+        name = re.sub(r"^Lov\s+", "", name, flags=re.I)
+        name = name.lower()
     else:
         name = refid
     name = re.sub(r"[^a-zæøå0-9]+", "-", name).strip("-")
+    if not name or len(name) < 3:
+        name = refid.replace("/", "-")
     if name in used_names and used_names[name] != refid:
         m = re.search(r"(\d{4})", refid)
         year = m.group(1) if m else ""
