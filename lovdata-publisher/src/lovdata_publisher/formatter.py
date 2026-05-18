@@ -99,6 +99,8 @@ def format_law_markdown(law: dict) -> str:
         lines.append(f"korttittel: \"{law['short_title']}\"")
     lines.append(f"refid: \"{law['refid']}\"")
     lines.append(f"departement: \"{law.get('ministry', '')}\"")
+    if law.get("legal_area"):
+        lines.append(f"rettsomrade: \"{law['legal_area']}\"")
     lines.append(f"ikrafttredelse: \"{law.get('date_in_force', '')}\"")
     if law.get("last_amended"):
         lines.append(f"sist-endret: \"{law['last_amended']}\"")

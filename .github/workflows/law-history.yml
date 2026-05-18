@@ -29,11 +29,20 @@ jobs:
       - name: Install pipeline
         run: pip install -e lovdata-loader/ -e lovdata-publisher/
 
-      - name: Cache historical Lovtidend archive
+      - name: Compute week key for cache
+        id: weekkey
+        run: echo "key=$(date -u +%Y-W%U)" >> $GITHUB_OUTPUT
+
+      - name: Cache Lovdata archives (weekly)
         uses: actions/cache@v4
         with:
-          path: snapshot/lovtidend-avd1-2001-2025.tar.bz2
-          key: lovtidend-historical-2001-2025
+          path: |
+            snapshot/gjeldende-lover.tar.bz2
+            snapshot/gjeldende-sentrale-forskrifter.tar.bz2
+            snapshot/lovtidend-avd1-2001-2025.tar.bz2
+          key: lovdata-archives-${{ steps.weekkey.outputs.key }}
+          restore-keys: |
+            lovdata-archives-
 
       - name: Download and parse laws
         run: lovdata-load --download --output snapshot

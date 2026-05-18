@@ -75,9 +75,55 @@ def group_laws_by_area(lover_dir: str) -> dict[str, list[dict]]:
             "ikrafttredelse": meta.get("ikrafttredelse", ""),
             "sist-endret": meta.get("sist-endret", ""),
             "sist-endret-ikrafttredelse": meta.get("sist-endret-ikrafttredelse", ""),
+            "rettsomrade": meta.get("rettsomrade", ""),
         }
         for dept in depts:
             groups[dept].append(entry)
+    return dict(sorted(groups.items()))
+
+
+def _split_topics(rettsomrade: str) -> list[str]:
+    """Parse the rettsomrade frontmatter value into top-level topics.
+
+    rettsomrade can be a single string like 'Bank, finans og regnskapsrett>Regnskap'
+    or multi-line concatenated like 'Topic A>Sub1Topic B>Sub2'. We pull the
+    top-level topic only (split on '>') and dedup."""
+    if not rettsomrade:
+        return []
+    topics = set()
+    # Split on linebreak first, then on '>'
+    for chunk in rettsomrade.replace("\\n", "\n").split("\n"):
+        chunk = chunk.strip()
+        if not chunk:
+            continue
+        top = chunk.split(">")[0].strip()
+        if top:
+            topics.add(top)
+    return sorted(topics)
+
+
+def group_laws_by_topic(lover_dir: str) -> dict[str, list[dict]]:
+    groups = defaultdict(list)
+    for f in sorted(Path(lover_dir).glob("*.md")):
+        if f.name == "README.md":
+            continue
+        meta = parse_frontmatter(str(f))
+        if not meta.get("tittel"):
+            continue
+        topics = _split_topics(meta.get("rettsomrade", ""))
+        if not topics:
+            continue
+        entry = {
+            "file": f.name,
+            "path": str(f),
+            "tittel": meta.get("tittel", f.stem),
+            "korttittel": meta.get("korttittel", ""),
+            "refid": meta.get("refid", ""),
+            "ikrafttredelse": meta.get("ikrafttredelse", ""),
+            "departement": meta.get("departement", ""),
+        }
+        for topic in topics:
+            groups[topic].append(entry)
     return dict(sorted(groups.items()))
 
 
@@ -389,6 +435,7 @@ def generate_quarto_config(repo_root: str, lover_dir: str = "lover", forskrifter
 
     groups = group_laws_by_area(full_lover)
     forskrift_groups = group_laws_by_area(full_forskrifter) if os.path.isdir(full_forskrifter) else {}
+    topic_groups = group_laws_by_topic(full_lover)
 
     if version_tags is None:
         version_tags = [f"v{y}" for y in range(2001, 2027)]
@@ -466,6 +513,32 @@ def generate_quarto_config(repo_root: str, lover_dir: str = "lover", forskrifter
 
         forskrift_chapters.append(f"book/{dept_file}")
 
+    # Topic chapters — group laws by rettsomrade (second navigation axis)
+    topic_chapters = []
+    for topic, topic_laws in topic_groups.items():
+        safe_topic = re.sub(r"[^\w\s-]", "", topic).strip().replace(" ", "-").lower()
+        topic_file = f"topic-{safe_topic}.qmd"
+        topic_path = os.path.join(book_dir, topic_file)
+
+        lines = [f"# {topic}\n"]
+        lines.append(f"*{len(topic_laws)} lover*\n")
+        lines.append("| Lov | Korttittel | Departement |")
+        lines.append("|-----|-----------|-------------|")
+        for law in sorted(topic_laws, key=lambda x: x["tittel"]):
+            stem = law["file"].rsplit(".", 1)[0]
+            page = f"/norwegian-laws/lover/{stem}.html"
+            title = law["tittel"][:80]
+            link = f"[{title}]({page})"
+            kort = law["korttittel"] or ""
+            dept = law["departement"] or ""
+            lines.append(f"| {link} | {kort} | {dept} |")
+        lines.append("")
+
+        with open(topic_path, "w", encoding="utf-8") as f:
+            f.write("\n".join(lines))
+
+        topic_chapters.append(f"book/{topic_file}")
+
     # Versions page
     ver_lines = [
         "# Stabile versjoner {.unnumbered}\n",
@@ -532,6 +605,9 @@ def generate_quarto_config(repo_root: str, lover_dir: str = "lover", forskrifter
                 "index.qmd",
                 {"part": "Lover etter departement", "chapters": chapters},
             ] + (
+                [{"part": "Lover etter rettsområde", "chapters": topic_chapters}]
+                if topic_chapters else []
+            ) + (
                 [{"part": "Sentrale forskrifter etter departement", "chapters": forskrift_chapters}]
                 if forskrift_chapters else []
             ) + [
@@ -552,6 +628,11 @@ def generate_quarto_config(repo_root: str, lover_dir: str = "lover", forskrifter
                 "number-sections": False,
                 "code-fold": True,
                 "lang": "nb",
+                "include-in-header": {
+                    "text": '<link rel="alternate" type="application/atom+xml" '
+                            'title="Norges Lover og Forskrifter — endringer" '
+                            'href="/norwegian-laws/feed.xml"/>'
+                },
             }
         },
     }

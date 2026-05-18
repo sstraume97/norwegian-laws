@@ -3,6 +3,37 @@
 ## Datakilde
 
 Lovtekstene er hentet fra [Lovdata API](https://api.lovdata.no/) sine åpne data.
+Tre arkiver lastes ned ukentlig:
+
+| Arkiv | Innhold |
+|-------|---------|
+| `gjeldende-lover.tar.bz2` | Konsoliderte tekster av alle gjeldende formelle lover (~735 dokumenter) |
+| `gjeldende-sentrale-forskrifter.tar.bz2` | Konsoliderte tekster av alle sentrale forskrifter (~3 400 dokumenter) |
+| `lovtidend-avd1-2001-2025.tar.bz2` | Alle endringslover og endringsforskrifter publisert i Norsk Lovtidend avd. I siden 2001 (~25 000 lov + ~14 000 forskrift) |
+
+## Omfang og begrensninger
+
+**Tidsrom for endringshistorikk:** Lovtidend-arkivet starter i 2001. For lover
+og forskrifter som er vedtatt før 2001 inneholder denne samlingen kun endringer
+fra 2001 og fremover. Den fullstendige historiske teksten før 2001 finnes hos
+[Lovdata Pro](https://lovdata.no/pro).
+
+**Manglende ikrafttredelsesdato (28 dokumenter):** Enkelte historiske lover
+fra tiden før 1820 — for eksempel Kong Christian Den Femtis Norske Lov (1687)
+og Grunnloven (1814) — har ingen ikrafttredelsesdato i kildedataene fra
+Lovdata. Dette er en egenskap ved det historiske datagrunnlaget, ikke en feil
+i samlingen.
+
+**Sentrale forskrifter, ikke lokale forskrifter:** Samlingen inneholder kun
+sentrale forskrifter, gitt av departement eller direktorat. Lokale forskrifter
+(kommunale og fylkeskommunale) inngår ikke.
+
+**Endringer som ikke er reflektert i lovteksten:** Endringsinstruksjoner som
+er gitt i Lovtidend men ikke er reflektert i den konsoliderte teksten — for
+eksempel paragraflinjer som er flyttet eller renummerert uten at instruksen
+spesifiserer ny tekst — kan mangle i `git diff` mellom årlige versjoner.
+Reconstruction-modulen forsøker å fange opp `skal lyde` og `oppheves` i
+konsolidert form, men ikke alle endringstyper.
 
 ## Lisens
 
@@ -13,6 +44,12 @@ Innholdet er tilgjengelig under
 > tilgjengeliggjort av Lovdata.
 
 Kildekoden for dette prosjektet er lisensiert under MIT.
+
+## Ansvarsfraskrivelse
+
+Denne samlingen er **uoffisiell** og oppdateres automatisk fra Lovdatas åpne
+API. For autoritativ lovtekst, se [lovdata.no](https://lovdata.no).
+Innholdet presenteres «som det er» uten garanti for korrekthet eller aktualitet.
 
 ## Kontakt
 

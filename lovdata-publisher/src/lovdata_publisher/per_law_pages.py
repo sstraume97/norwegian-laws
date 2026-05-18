@@ -41,6 +41,8 @@ nav.breadcrumb a:hover {{ text-decoration: underline; }}
 .metadata dd {{ margin-left: 0; }}
 .history-links {{ margin: 1rem 0; padding: 0.75rem; background: #fff3cd; border-radius: 4px; }}
 .history-links a {{ margin-right: 0.5rem; }}
+.version-banner {{ margin: 1rem 0; padding: 0.5rem 0.75rem; background: #e7f5ff; border-left: 3px solid #2780e3; border-radius: 4px; font-size: 0.9rem; }}
+.version-banner a {{ color: #1864ab; }}
 h1, h2, h3, h4, h5, h6 {{ margin-top: 1.25em; margin-bottom: 0.5em; }}
 h1 {{ font-size: 1.75rem; border-bottom: 2px solid #dee2e6; padding-bottom: 0.3rem; }}
 h2 {{ font-size: 1.5rem; color: #495057; }}
@@ -64,10 +66,17 @@ footer {{ margin-top: 3rem; padding-top: 1rem; border-top: 1px solid #dee2e6; co
 <dl>
 <dt>Refid</dt><dd><code>{refid}</code></dd>
 <dt>Departement</dt><dd>{dept}</dd>
+<dt>Rettsområde</dt><dd>{rettsomrade}</dd>
 <dt>Ikrafttredelse</dt><dd>{ikrafttredelse}</dd>
 <dt>Sist endret</dt><dd>{sist_endret}</dd>
 <dt>Kilde</dt><dd><a href="{lovdata_url}" target="_blank" rel="noopener">lovdata.no</a></dd>
 </dl>
+</div>
+
+<div class="version-banner">
+Du leser den <strong>gjeldende konsoliderte teksten</strong>. Sist endret: {sist_endret}.
+Tidligere versjoner finnes på <a href="../book/versjoner.html">versjonsoversikten</a>
+eller direkte i <a href="{github_log}">git log</a>.
 </div>
 
 <div class="history-links">
@@ -190,7 +199,7 @@ def render_markdown_body(body: str) -> str:
         body_html = re.sub(r"^# (.+)$", r"<h1>\1</h1>", body_html, flags=re.MULTILINE)
         body_html = re.sub(r"\*([^*]+)\*", r"<em>\1</em>", body_html)
         return body_html
-    return md.markdown(body, extensions=["extra"])
+    return md.markdown(body, extensions=["extra", "toc"])
 
 
 def strip_markdown_for_search(body: str, max_chars: int = 8000) -> str:
@@ -235,6 +244,7 @@ def generate_per_law_pages(
             dept = meta.get("departement", "").split(",")[0].strip()
             ikrafttredelse = meta.get("ikrafttredelse", "")
             sist_endret = meta.get("sist-endret", "")
+            rettsomrade = meta.get("rettsomrade", "").replace(">", " &raquo; ").replace("\n", " · ")
 
             if not dept:
                 dept = "Ukjent"
@@ -258,6 +268,7 @@ def generate_per_law_pages(
                 refid=refid,
                 dept=dept,
                 dept_slug=dept_slug(dept),
+                rettsomrade=rettsomrade or "—",
                 ikrafttredelse=ikrafttredelse or "—",
                 sist_endret=sist_endret or "—",
                 github_blob=github_blob,
