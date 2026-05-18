@@ -57,12 +57,15 @@ jobs:
       - name: Format laws and generate Quarto chapters
         run: lovdata-publish --snapshot snapshot --output . --quarto
 
+      - name: Generate Atom feed
+        run: python -m lovdata_publisher.feed snapshot feed.xml
+
       - name: Commit law updates
         id: commit
         run: |
           git config user.name "Lovtidend"
           git config user.email "lovtidend@lovdata.no"
-          git add lover/ forskrifter/ book/ _quarto.yml index.qmd laws.json
+          git add lover/ forskrifter/ book/ _quarto.yml index.qmd laws.json feed.xml
           git rm -r --cached historie/ 2>/dev/null || true
           git add historie/
           if git diff --staged --quiet; then
@@ -97,6 +100,9 @@ jobs:
 
       - name: Copy laws.json to site
         run: cp laws.json _site/laws.json
+
+      - name: Copy feed.xml to site
+        run: cp feed.xml _site/feed.xml || true
 
       - name: Merge law metadata into search index
         run: python -m lovdata_publisher.search_index _site laws.json

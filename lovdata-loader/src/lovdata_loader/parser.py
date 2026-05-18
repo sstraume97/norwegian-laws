@@ -132,7 +132,7 @@ def _parse_law_metadata(soup: BeautifulSoup) -> dict:
         "date_in_force": extract_header_field(header, "dateInForce"),
         "last_amended": last_amended,
         "last_amended_in_force": last_amended_in_force,
-        "legal_area": extract_header_field(header, "legalArea"),
+        "legal_area": "\n".join(extract_header_list(header, "legalArea")),
     }
 
 

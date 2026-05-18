@@ -28,3 +28,9 @@ def test_split_topics_no_subtopic():
 def test_split_topics_dedup():
     text = "Helse- og omsorgsrett>Helsepersonell\nHelse- og omsorgsrett>Pasientrettigheter"
     assert _split_topics(text) == ["Helse- og omsorgsrett"]
+
+
+def test_split_topics_yaml_escaped_newline():
+    """Frontmatter parser returns embedded \\n as literal two-char escape; verify split."""
+    text = "Arbeidsrett>Arbeidsforhold\\nHelse- og omsorgsrett>Helsepersonell"
+    assert _split_topics(text) == ["Arbeidsrett", "Helse- og omsorgsrett"]

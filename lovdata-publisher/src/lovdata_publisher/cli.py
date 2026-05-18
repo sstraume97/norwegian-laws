@@ -100,16 +100,12 @@ def main():
 
     if args.post_render:
         from .per_law_pages import generate_per_law_pages, merge_full_text_into_search
-        from .feed import generate_atom_feed
-        import os
         print()
         print("=" * 60)
         print("Generating per-law HTML pages and full-text search index")
         print("=" * 60)
         generate_per_law_pages(repo_root=args.output, site_dir=args.site_dir)
         merge_full_text_into_search(repo_root=args.output, site_dir=args.site_dir)
-        feed_path = os.path.join(args.output, args.site_dir, "feed.xml")
-        generate_atom_feed(snapshot_dir=args.snapshot, output_path=feed_path)
 
     if args.build_history:
         repo_path = args.repo_path
