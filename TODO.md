@@ -6,9 +6,9 @@
 - Repo: github.com/sondreskarsten/norwegian-laws (public, MIT + NLOD 2.0)
 - 783 laws + 3,421 central forskrifter, weekly refresh from Lovdata API
 - `law-history` branch: 16K+ per-act commits, LFS-backed, v2000..v2027 yearly tags
-- Live site: 4,277 HTML pages on gh-pages — per-law/per-forskrift pages,
+- Live site: 4,200+ HTML pages on gh-pages — per-law/per-forskrift pages,
   dept chapters (17 lover + 16 forskrifter), topic chapters (35), Atom feed
-- 44 passing tests
+- 47 passing tests
 - 4 GitHub Actions workflows (deploy weekly + on push; law-history weekly;
   release on tag; tests on push). Lovdata archives cached weekly via
   `actions/cache@v4` with YYYY-WW keys.
@@ -24,32 +24,28 @@
 **Atom feed:** Top 100 most-recent amendments, autodiscovered via
 `<link rel="alternate" type="application/atom+xml">` in every book page head.
 
+**Diff page (book/diff.qmd):** Pick any law or forskrift, pick two yearly
+tag versions, click "Sammenlign tekst" to render a side-by-side diff
+inline. Uses diff2html-ui + jsdiff loaded from jsdelivr; fetches raw text
+from `raw.githubusercontent.com` (LFS resolved server-side, CORS *).
+Falls back to GitHub compare and endringslogg buttons.
+
+`laws.json` (used by the diff page and dept search index) now contains
+both lover and forskrifter entries with `kind`, `path`, and `tags` fields.
+
 ---
 
 ## Remaining items
 
-### P4 (low priority, not blocking)
+### Deferred (not worth doing)
 
-#### Diff visualization in book/diff.qmd
-Currently links to GitHub's compare view. A client-side diff (e.g. diff2html
-loading two yearly tag versions of a file) would render the diff inline.
-Requires fetching raw file blobs from GitHub Pages of the law-history
-branch, which is LFS-pointer text — needs LFS resolution from gh-pages
-side, which is non-trivial.
-
-#### PDF export
-Quarto can produce PDF if TinyTeX is installed. Adds ~2 min to CI for
-limited utility.
-
-#### Workflow dedup
-deploy.yml and law-history.yml both run `lovdata-load`. Could be
-deduplicated but saves only ~2 min on Mondays.
-
-#### PAT rotation
-The GitHub PAT is in project context. Deferred per project policy.
-
-#### Per-version pages
-Lovdata shows "Du leser versjon X gjeldende fra YYYY-MM-DD til YYYY-MM-DD"
-on each version of a law. To do this here we'd need to render each law at
-each yearly tag (~783 laws × 26 tags = 20K extra pages). Not worth the build
-time. Current version banner already points users at versjoner.html and git log.
+- **PDF export.** A single PDF of all laws+forskrifter is unusable. Per-law
+  PDFs are duplicative of the per-law HTML pages.
+- **Workflow dedup.** deploy.yml and law-history.yml both run `lovdata-load`.
+  Saves ~2 min on Mondays, adds coordination complexity.
+- **PAT rotation.** The GitHub PAT is in project context. Deferred per
+  project policy.
+- **Per-version pages.** Lovdata renders each historical version as its own
+  page. Doing it here would require rendering each law at each yearly
+  tag (~20K extra pages × LFS smudge cost). The diff page covers the
+  "what changed between version X and Y" workflow without this expense.
