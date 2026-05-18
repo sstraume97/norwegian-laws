@@ -66,7 +66,7 @@ footer {{ margin-top: 3rem; padding-top: 1rem; border-top: 1px solid #dee2e6; co
 <dt>Departement</dt><dd>{dept}</dd>
 <dt>Ikrafttredelse</dt><dd>{ikrafttredelse}</dd>
 <dt>Sist endret</dt><dd>{sist_endret}</dd>
-<dt>Kilde</dt><dd><a href="https://lovdata.no/dokument/NL/{refid}" target="_blank" rel="noopener">lovdata.no</a></dd>
+<dt>Kilde</dt><dd><a href="{lovdata_url}" target="_blank" rel="noopener">lovdata.no</a></dd>
 </dl>
 </div>
 
@@ -206,119 +206,154 @@ def strip_markdown_for_search(body: str, max_chars: int = 8000) -> str:
 def generate_per_law_pages(
     repo_root: str = ".",
     lover_dir: str = "lover",
+    forskrifter_dir: str = "forskrifter",
     site_dir: str = "_site",
     version_tags: list[str] | None = None,
 ) -> int:
     if version_tags is None:
         version_tags = [f"v{y}" for y in range(2001, 2027)]
 
-    lover_path = Path(repo_root) / lover_dir
-    out_dir = Path(repo_root) / site_dir / "lover"
-    out_dir.mkdir(parents=True, exist_ok=True)
-
-    korttittel_index = build_korttittel_index(lover_path)
-    xref_pattern = build_cross_reference_pattern(korttittel_index)
-
     count = 0
-    for md_file in sorted(lover_path.glob("*.md")):
-        meta, body = parse_frontmatter_and_body(md_file)
-        if not meta:
+    for source_subdir, output_subdir in [(lover_dir, "lover"), (forskrifter_dir, "forskrifter")]:
+        src_path = Path(repo_root) / source_subdir
+        if not src_path.exists():
             continue
+        out_dir = Path(repo_root) / site_dir / output_subdir
+        out_dir.mkdir(parents=True, exist_ok=True)
 
-        tittel = meta.get("tittel", md_file.stem)
-        korttittel = meta.get("korttittel", "")
-        refid = meta.get("refid", "")
-        dept = meta.get("departement", "").split(",")[0].strip()
-        ikrafttredelse = meta.get("ikrafttredelse", "")
-        sist_endret = meta.get("sist-endret", "")
+        korttittel_index = build_korttittel_index(src_path)
+        xref_pattern = build_cross_reference_pattern(korttittel_index)
 
-        if not dept:
-            dept = "Ukjent"
+        for md_file in sorted(src_path.glob("*.md")):
+            meta, body = parse_frontmatter_and_body(md_file)
+            if not meta:
+                continue
 
-        body_html = render_markdown_body(body)
-        body_html = insert_cross_reference_links(body_html, korttittel_index, xref_pattern, md_file.stem)
-        filename = md_file.name
-        github_blob = f"{GITHUB_BASE}/blob/main/lover/{filename}"
-        github_log = f"{GITHUB_BASE}/commits/{HISTORY_BRANCH}/lover/{filename}"
-        version_links = compute_version_links_html(refid, version_tags, filename)
+            tittel = meta.get("tittel", md_file.stem)
+            korttittel = meta.get("korttittel", "")
+            refid = meta.get("refid", "")
+            dept = meta.get("departement", "").split(",")[0].strip()
+            ikrafttredelse = meta.get("ikrafttredelse", "")
+            sist_endret = meta.get("sist-endret", "")
 
-        html = PAGE_TEMPLATE.format(
-            title=tittel,
-            korttittel_short=korttittel or tittel[:50],
-            refid=refid,
-            dept=dept,
-            dept_slug=dept_slug(dept),
-            ikrafttredelse=ikrafttredelse or "—",
-            sist_endret=sist_endret or "—",
-            github_blob=github_blob,
-            github_log=github_log,
-            version_links=version_links,
-            body=body_html,
-            filename=filename,
-        )
+            if not dept:
+                dept = "Ukjent"
 
-        out_file = out_dir / f"{md_file.stem}.html"
-        out_file.write_text(html, encoding="utf-8")
-        count += 1
+            body_html = render_markdown_body(body)
+            body_html = insert_cross_reference_links(body_html, korttittel_index, xref_pattern, md_file.stem)
+            filename = md_file.name
+            if refid.startswith("forskrift/"):
+                github_blob = f"{GITHUB_BASE}/blob/main/forskrifter/{filename}"
+                github_log = f"{GITHUB_BASE}/commits/{HISTORY_BRANCH}/forskrifter/{filename}"
+                lovdata_doc_url = f"https://lovdata.no/dokument/SF/{refid}"
+            else:
+                github_blob = f"{GITHUB_BASE}/blob/main/lover/{filename}"
+                github_log = f"{GITHUB_BASE}/commits/{HISTORY_BRANCH}/lover/{filename}"
+                lovdata_doc_url = f"https://lovdata.no/dokument/NL/{refid}"
+            version_links = compute_version_links_html(refid, version_tags, filename)
 
-    print(f"  Generated {count} per-law HTML pages in {out_dir}")
+            html = PAGE_TEMPLATE.format(
+                title=tittel,
+                korttittel_short=korttittel or tittel[:50],
+                refid=refid,
+                dept=dept,
+                dept_slug=dept_slug(dept),
+                ikrafttredelse=ikrafttredelse or "—",
+                sist_endret=sist_endret or "—",
+                github_blob=github_blob,
+                github_log=github_log,
+                lovdata_url=lovdata_doc_url,
+                version_links=version_links,
+                body=body_html,
+                filename=filename,
+            )
+
+            out_file = out_dir / f"{md_file.stem}.html"
+            out_file.write_text(html, encoding="utf-8")
+            count += 1
+
+    print(f"  Generated {count} per-law/forskrift HTML pages")
     return count
 
 
 def merge_full_text_into_search(
     repo_root: str = ".",
     lover_dir: str = "lover",
+    forskrifter_dir: str = "forskrifter",
     site_dir: str = "_site",
     laws_json: str = "laws.json",
 ) -> None:
     search_path = Path(repo_root) / site_dir / "search.json"
     laws_path = Path(repo_root) / laws_json
-    lover_path = Path(repo_root) / lover_dir
 
     if not search_path.exists():
         print(f"  {search_path} not found, skipping search index merge")
         return
-    if not laws_path.exists():
-        print(f"  {laws_path} not found, skipping search index merge")
-        return
 
     with open(search_path, encoding="utf-8") as f:
         search_entries = json.load(f)
-    with open(laws_path, encoding="utf-8") as f:
-        laws = json.load(f)
 
-    laws_by_file = {law["file"]: law for law in laws}
     existing_count = len(search_entries)
+    added_lover = 0
+    added_forskrift = 0
 
-    added = 0
-    for md_file in sorted(lover_path.glob("*.md")):
-        law = laws_by_file.get(md_file.name)
-        if not law:
-            continue
-        meta, body = parse_frontmatter_and_body(md_file)
-        if not meta:
-            continue
-        body_text = strip_markdown_for_search(body)
-        depts = law.get("departement", [])
-        dept_str = ", ".join(depts) if isinstance(depts, list) else str(depts)
-        href = f"lover/{md_file.stem}.html"
-        title = law.get("tittel", meta.get("tittel", ""))
-        korttittel = law.get("korttittel", meta.get("korttittel", ""))
-        text_parts = [korttittel, dept_str, law.get("refid", ""), law.get("ikrafttredelse", ""), body_text]
-        text = " ".join(p for p in text_parts if p)
-        search_entries.append({
-            "objectID": f"law:{md_file.name}",
-            "href": href,
-            "title": title,
-            "section": dept_str,
-            "text": text,
-        })
-        added += 1
+    # Index lover/*.md by refid via laws.json (existing logic)
+    if laws_path.exists():
+        with open(laws_path, encoding="utf-8") as f:
+            laws = json.load(f)
+        laws_by_file = {law["file"]: law for law in laws}
+        lover_path = Path(repo_root) / lover_dir
+        for md_file in sorted(lover_path.glob("*.md")):
+            law = laws_by_file.get(md_file.name)
+            if not law:
+                continue
+            meta, body = parse_frontmatter_and_body(md_file)
+            if not meta:
+                continue
+            body_text = strip_markdown_for_search(body)
+            depts = law.get("departement", [])
+            dept_str = ", ".join(depts) if isinstance(depts, list) else str(depts)
+            href = f"lover/{md_file.stem}.html"
+            title = law.get("tittel", meta.get("tittel", ""))
+            korttittel = law.get("korttittel", meta.get("korttittel", ""))
+            text_parts = [korttittel, dept_str, law.get("refid", ""), law.get("ikrafttredelse", ""), body_text]
+            text = " ".join(p for p in text_parts if p)
+            search_entries.append({
+                "objectID": f"law:{md_file.name}",
+                "href": href,
+                "title": title,
+                "section": dept_str,
+                "text": text,
+            })
+            added_lover += 1
+
+    # Index forskrifter/*.md directly from frontmatter (no laws.json equivalent yet)
+    forskrifter_path = Path(repo_root) / forskrifter_dir
+    if forskrifter_path.exists():
+        for md_file in sorted(forskrifter_path.glob("*.md")):
+            meta, body = parse_frontmatter_and_body(md_file)
+            if not meta:
+                continue
+            body_text = strip_markdown_for_search(body)
+            dept_str = meta.get("departement", "")
+            href = f"forskrifter/{md_file.stem}.html"
+            title = meta.get("tittel", md_file.stem)
+            korttittel = meta.get("korttittel", "")
+            text_parts = [korttittel, dept_str, meta.get("refid", ""), meta.get("ikrafttredelse", ""), body_text]
+            text = " ".join(p for p in text_parts if p)
+            search_entries.append({
+                "objectID": f"forskrift:{md_file.name}",
+                "href": href,
+                "title": title,
+                "section": dept_str,
+                "text": text,
+            })
+            added_forskrift += 1
 
     with open(search_path, "w", encoding="utf-8") as f:
         json.dump(search_entries, f, ensure_ascii=False)
 
-    print(f"  Search index: {existing_count} → {len(search_entries)} entries (+{added} per-law full-text)")
+    print(f"  Search index: {existing_count} → {len(search_entries)} entries (+{added_lover} lover, +{added_forskrift} forskrifter)")
 
 
 if __name__ == "__main__":

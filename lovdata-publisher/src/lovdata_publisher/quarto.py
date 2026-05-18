@@ -450,11 +450,12 @@ def generate_quarto_config(repo_root: str, lover_dir: str = "lover", forskrifter
         lines.append("| Forskrift | Lovdata | Historikk |")
         lines.append("|-----------|---------|-----------|")
         for forskrift in sorted(forskrifter, key=lambda x: x["tittel"]):
-            blob = f"{GITHUB_BASE}/blob/main/forskrifter/{forskrift['file']}"
+            stem = forskrift["file"].rsplit(".", 1)[0]
+            page = f"/norwegian-laws/forskrifter/{stem}.html"
             history = f"{GITHUB_BASE}/commits/{HISTORY_BRANCH}/forskrifter/{forskrift['file']}"
             lovdata_url = f"https://lovdata.no/dokument/SF/{forskrift['refid']}"
             title = forskrift["tittel"][:80]
-            link = f"[{title}]({blob})"
+            link = f"[{title}]({page})"
             lovdata_link = f"[lovdata.no]({lovdata_url})"
             hist_cell = f"[log]({history})"
             lines.append(f"| {link} | {lovdata_link} | {hist_cell} |")
