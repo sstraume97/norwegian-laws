@@ -1,0 +1,18 @@
+# Anskaffelser, avtaler, bygg og entrepriser
+
+*12 lover*
+
+| Lov | Korttittel | Departement |
+|-----|-----------|-------------|
+| [Kong Christian Den Femtis Norske Lov](/norwegian-laws/lover/lov-1687-04-15.html) | Norske Lov – NL | Justis- og beredskapsdepartementet |
+| [Lov om avslutning av avtaler, om fuldmagt og om ugyldige viljeserklæringer [avta](/norwegian-laws/lover/lov-1918-05-31-4.html) | Avtaleloven – avtl | Justis- og beredskapsdepartementet |
+| [Lov om avtalar med forbrukar om oppføring av ny bustad m.m. (bustadoppføringslov](/norwegian-laws/lover/lov-1997-06-13-43.html) | Bustadoppføringslova – buofl | Justis- og beredskapsdepartementet |
+| [Lov om avtaler om deltidsbruksrett og langtidsferieprodukter mv. (tidspartloven)](/norwegian-laws/lover/lov-2012-05-25-27.html) | Tidspartloven | Barne- og familiedepartementet |
+| [Lov om bustadbyggjelag (bustadbyggjelagslova)](/norwegian-laws/lover/lov-2003-06-06-38.html) | Bustadbyggjelagslova – bbl | Kommunal- og distriktsdepartementet |
+| [Lov om eierseksjoner (eierseksjonsloven)](/norwegian-laws/lover/lov-2017-06-16-65.html) | Eierseksjonsloven – eiersl | Kommunal- og distriktsdepartementet |
+| [Lov om endringer i anskaffelsesloven (samfunnshensyn mv.)](/norwegian-laws/lover/lov-2026-03-06-8.html) | Endringslov til anskaffelsesloven | Nærings- og fiskeridepartementet |
+| [Lov om god handelsskikk i dagligvarekjeden](/norwegian-laws/lover/lov-2020-04-17-29.html) | Lov om god handelsskikk i dagligvarekjeden | Nærings- og fiskeridepartementet |
+| [Lov om håndverkertjenester m.m for forbrukere [håndverkertjenesteloven]](/norwegian-laws/lover/lov-1989-06-16-63.html) | Håndverkertjenesteloven – hvtjl | Justis- og beredskapsdepartementet |
+| [Lov om offentlige anskaffelser (anskaffelsesloven)](/norwegian-laws/lover/lov-2016-06-17-73.html) | Anskaffelsesloven | Nærings- og fiskeridepartementet |
+| [Lov om prokura [prokuraloven]](/norwegian-laws/lover/lov-1985-06-21-80.html) | Prokuraloven – prokl | Nærings- og fiskeridepartementet |
+| [Lov om regulering av byggje- og anleggsverksemd](/norwegian-laws/lover/lov-1996-03-22-16.html) | Lov om regulering av byggje- og anleggsverksemd | Kommunal- og distriktsdepartementet |

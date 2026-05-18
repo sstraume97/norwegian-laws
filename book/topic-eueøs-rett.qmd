@@ -1,0 +1,51 @@
+# EU/EØS-rett
+
+*45 lover*
+
+| Lov | Korttittel | Departement |
+|-----|-----------|-------------|
+| [Lov om EØS-finanstilsyn](/norwegian-laws/lover/lov-2016-06-17-30.html) | Lov om EØS-finanstilsyn | Finansdepartementet |
+| [Lov om Overenskomst om internasjonal jernbanetrafikk (COTIF-loven)](/norwegian-laws/lover/lov-2004-12-10-82.html) | COTIF-loven | Samferdselsdepartementet |
+| [Lov om Schengen informasjonssystem (SIS) [SIS-loven]](/norwegian-laws/lover/lov-1999-07-16-66.html) | SIS-loven – SISl | Justis- og beredskapsdepartementet |
+| [Lov om anlegg og drift av jernbane, herunder sporvei, tunnelbane og forstadsbane](/norwegian-laws/lover/lov-1993-06-11-100.html) | Jernbaneloven – jbl | Samferdselsdepartementet |
+| [Lov om beskyttelse av design (designloven)](/norwegian-laws/lover/lov-2003-03-14-15.html) | Designloven – dsl | Justis- og beredskapsdepartementet |
+| [Lov om beskyttelse av supplerende pensjonsrettigheter for arbeidstakere og selvs](/norwegian-laws/lover/lov-2001-12-14-95.html) | Lov om pensjonsrettigheter innen EØS | Finansdepartementet |
+| [Lov om det frie varebytte i EØS (EØS-vareloven)](/norwegian-laws/lover/lov-2013-04-12-13.html) | EØS-vareloven | Nærings- og fiskeridepartementet |
+| [Lov om digital sikkerhet (digitalsikkerhetsloven)](/norwegian-laws/lover/lov-2023-12-20-108.html) | Digitalsikkerhetsloven | Justis- og beredskapsdepartementet |
+| [Lov om elektronisk kommunikasjon (ekomloven)](/norwegian-laws/lover/lov-2024-12-13-76.html) | Ekomloven | Digitaliserings- og forvaltningsdepartementet |
+| [Lov om endringer i tobakksskadeloven (gjennomføring av direktiv 2014/40/EU og st](/norwegian-laws/lover/lov-2017-02-10-5.html) | Endringslov til tobakksskadeloven | Helse- og omsorgsdepartementet |
+| [Lov om endringer i yrkestransportloven mv. (drosjetilbud, internkontroll, kontro](/norwegian-laws/lover/lov-2025-06-20-111.html) | Endringslov til yrkestransportloven mv. | Samferdselsdepartementet |
+| [Lov om europeisk meldeplikt for tekniske regler m.m. (EØS-høringsloven)](/norwegian-laws/lover/lov-2004-12-17-101.html) | EØS-høringsloven | Nærings- og fiskeridepartementet |
+| [Lov om europeiske samvirkeforetak (SCE-loven)](/norwegian-laws/lover/lov-2006-06-30-50.html) | SCE-loven | Nærings- og fiskeridepartementet |
+| [Lov om europeiske selskaper (SE-loven)](/norwegian-laws/lover/lov-2005-04-01-14.html) | SE-loven | Nærings- og fiskeridepartementet |
+| [Lov om europeiske økonomiske foretaksgrupper ved gjennomføring av EØS-avtalens v](/norwegian-laws/lover/lov-1995-12-22-85.html) | EØFG-loven | Nærings- og fiskeridepartementet |
+| [Lov om framstilling og bruk av genmodifiserte organismer m.m. (genteknologiloven](/norwegian-laws/lover/lov-1993-04-02-38.html) | Genteknologiloven – gentl | Klima- og miljødepartementet |
+| [Lov om fri utveksling av tjenesteytelser innen sjøtransport](/norwegian-laws/lover/lov-1992-12-04-121.html) | Lov om sjøtransporttjenester | Nærings- og fiskeridepartementet |
+| [Lov om gjennomføring av fellesregler om innenlands transport i EØS-avtalen](/norwegian-laws/lover/lov-1995-05-26-25.html) | Lov om innenlands transport i EØS-avtalen | Samferdselsdepartementet |
+| [Lov om gjennomføring i norsk rett av hoveddelen i avtale om Det europeiske økono](/norwegian-laws/lover/lov-1992-11-27-109.html) | EØS-loven – EØSL | Utenriksdepartementet |
+| [Lov om gjennomføring og kontroll av EØS-avtalens konkurranseregler mv. (EØS-konk](/norwegian-laws/lover/lov-2004-03-05-11.html) | EØS-konkurranseloven | Nærings- og fiskeridepartementet |
+| [Lov om godkjenning av klageorganer for forbrukersaker (godkjenningsloven)](/norwegian-laws/lover/lov-2016-06-17-29.html) | Godkjenningsloven | Barne- og familiedepartementet |
+| [Lov om handelsagenter og handelsreisende (agenturloven)](/norwegian-laws/lover/lov-1992-06-19-56.html) | Agenturloven – agl | Justis- og beredskapsdepartementet |
+| [Lov om handheving av det frie varebyttet innan EØS](/norwegian-laws/lover/lov-2005-03-04-12.html) | Lov om det frie varebyttet innan EØS | Justis- og beredskapsdepartementet |
+| [Lov om infrastruktur for alternativt drivstoff](/norwegian-laws/lover/lov-2020-06-19-95.html) | Lov om infrastruktur for alternativt drivstoff | Samferdselsdepartementet |
+| [Lov om infrastruktur for geografisk informasjon (geodataloven)](/norwegian-laws/lover/lov-2010-09-03-56.html) | Geodataloven | Kommunal- og distriktsdepartementet |
+| [Lov om kontroll med markedsføring og avtalevilkår mv. (markedsføringsloven)](/norwegian-laws/lover/lov-2009-01-09-2.html) | Markedsføringsloven – mfl | Barne- og familiedepartementet |
+| [Lov om kosmetikk og kroppspleieprodukt m.m. (kosmetikklova)](/norwegian-laws/lover/lov-2005-12-21-126.html) | Kosmetikklova | Helse- og omsorgsdepartementet |
+| [Lov om kryptoeiendeler (kryptoeiendelsloven)](/norwegian-laws/lover/lov-2025-05-27-20.html) | Kryptoeiendelsloven | Finansdepartementet |
+| [Lov om kvoteplikt og handel med kvoter for utslipp av klimagasser (klimakvotelov](/norwegian-laws/lover/lov-2004-12-17-99.html) | Klimakvoteloven | Klima- og miljødepartementet |
+| [Lov om linjekonferanser m.v. [linjekonferanseloven]](/norwegian-laws/lover/lov-1984-06-08-55.html) | Linjekonferanseloven | Nærings- og fiskeridepartementet |
+| [Lov om luftfart (luftfartsloven)](/norwegian-laws/lover/lov-1993-06-11-101.html) | Luftfartsloven – luftl | Samferdselsdepartementet |
+| [Lov om medisinsk utstyr](/norwegian-laws/lover/lov-2020-05-07-37.html) | Lov om medisinsk utstyr | Helse- og omsorgsdepartementet |
+| [Lov om merking av forbruksvarer mv. (forbrukermerkeloven)](/norwegian-laws/lover/lov-1981-12-18-90.html) | Forbrukermerkeloven | Barne- og familiedepartementet |
+| [Lov om nasjonale saksbehandlingsregler i saker om offentlig støtte (støtteproses](/norwegian-laws/lover/lov-2022-03-04-7.html) | Støtteprosessloven | Nærings- og fiskeridepartementet |
+| [Lov om nasjonalt identitetskort (ID-kortloven)](/norwegian-laws/lover/lov-2015-06-05-39.html) | ID-kortloven | Justis- og beredskapsdepartementet |
+| [Lov om opplysningsplikt og angrerett ved fjernsalg og salg utenom faste forretni](/norwegian-laws/lover/lov-2014-06-20-27.html) | Angrerettloven – angrl | Barne- og familiedepartementet |
+| [Lov om patenter (patentloven)](/norwegian-laws/lover/lov-1967-12-15-9.html) | Patentloven – patl | Justis- og beredskapsdepartementet |
+| [Lov om reservasjonssystemer for flyreiser mv.](/norwegian-laws/lover/lov-2016-09-09-80.html) | Lov om reservasjonssystemer for flyreiser mv. | Samferdselsdepartementet |
+| [Lov om tekniske kontrollorgan som har til oppgåve å gjennomføre samsvarsvurderin](/norwegian-laws/lover/lov-1994-06-16-20.html) | Lov om tekniske kontrollorgan | Nærings- og fiskeridepartementet |
+| [Lov om tjenestevirksomhet (tjenesteloven)](/norwegian-laws/lover/lov-2009-06-19-103.html) | Tjenesteloven | Nærings- og fiskeridepartementet |
+| [Lov om varsling, rapportering og undersøkelse av jernbaneulykker og jernbanehend](/norwegian-laws/lover/lov-2005-06-03-34.html) | Jernbaneundersøkelsesloven | Samferdselsdepartementet |
+| [Lov om vern av forretningshemmeligheter (forretningshemmelighetsloven)](/norwegian-laws/lover/lov-2020-03-27-15.html) | Forretningshemmelighetsloven | Justis- og beredskapsdepartementet |
+| [Lov om vern av kretsmønstre for integrerte kretser [kretsmønsterloven]](/norwegian-laws/lover/lov-1990-06-15-27.html) | Kretsmønsterloven – kretsml | Justis- og beredskapsdepartementet |
+| [Lov om visse sider av elektronisk handel og andre informasjonssamfunnstjenester ](/norwegian-laws/lover/lov-2003-05-23-35.html) | Ehandelsloven – e-hl | Digitaliserings- og forvaltningsdepartementet |
+| [Lov om yrkestransport med motorvogn og fartøy (yrkestransportlova)](/norwegian-laws/lover/lov-2002-06-21-45.html) | Yrkestransportlova | Samferdselsdepartementet |

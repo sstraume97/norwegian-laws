@@ -1,0 +1,24 @@
+# Kultur, idrett og underholdning
+
+*18 lover*
+
+| Lov | Korttittel | Departement |
+|-----|-----------|-------------|
+| [Lov om Kulturrådet (kulturrådsloven)](/norwegian-laws/lover/lov-2013-06-07-31.html) | Kulturrådsloven | Kultur- og likestillingsdepartementet |
+| [Lov om Riksteatret [riksteaterlova]](/norwegian-laws/lover/lov-1948-12-13-5.html) | Riksteaterlova | Kultur- og likestillingsdepartementet |
+| [Lov om avgift på offentlig framføring av utøvende kunstneres prestasjoner m.v.](/norwegian-laws/lover/lov-1956-12-14-4.html) | Lov om avgift til fond for utøvende kunstnere | Kultur- og likestillingsdepartementet |
+| [Lov om avgift på omsetning av billedkunst m.m. (kunstavgiftsloven)](/norwegian-laws/lover/lov-1948-11-04-1.html) | Kunstavgiftsloven | Kultur- og likestillingsdepartementet |
+| [Lov om avgift til statskassen på inngangspenger til forestillinger og framvisnin](/norwegian-laws/lover/lov-1966-06-10-3.html) | Lov om avgift på forestillinger m.v. | Finansdepartementet |
+| [Lov om dokumentasjon og arkiv (arkivlova)](/norwegian-laws/lover/lov-2025-06-20-96.html) | Arkivlova | Kultur- og likestillingsdepartementet |
+| [Lov om film og videogram](/norwegian-laws/lover/lov-1987-05-15-21.html) | Film- og videogramlova – filml | Kultur- og likestillingsdepartementet |
+| [Lov om folkebibliotek (folkebibliotekloven)](/norwegian-laws/lover/lov-1985-12-20-108.html) | Folkebibliotekloven | Kultur- og likestillingsdepartementet |
+| [Lov om forbud mot fallskjermhopping m.v. innenfor visse fjellområder](/norwegian-laws/lover/lov-1987-06-12-57.html) | Lov om forbud mot fallskjermhopping | Justis- og beredskapsdepartementet |
+| [Lov om forbud mot prispåslag ved videresalg av billetter til kultur- og idrettsa](/norwegian-laws/lover/lov-2007-06-29-86.html) | Svartebørsloven | Kultur- og likestillingsdepartementet |
+| [Lov om kulturminner [kulturminneloven]](/norwegian-laws/lover/lov-1978-06-09-50.html) | Kulturminneloven – kulml | Klima- og miljødepartementet |
+| [Lov om naturområder i Oslo og nærliggende kommuner (markaloven)](/norwegian-laws/lover/lov-2009-06-05-35.html) | Markaloven | Klima- og miljødepartementet |
+| [Lov om organisert kampaktivitet som tillater knockout [knockoutloven]](/norwegian-laws/lover/lov-2001-06-15-73.html) | Knockoutloven | Kultur- og likestillingsdepartementet |
+| [Lov om pengespill (pengespilloven)](/norwegian-laws/lover/lov-2022-03-18-12.html) | Pengespilloven | Kultur- og likestillingsdepartementet |
+| [Lov om pensjonsordning for ballettdansere, sangsolister og korsangere ved Den No](/norwegian-laws/lover/lov-1998-08-21-65.html) | Operapensjonsloven | Arbeids- og inkluderingsdepartementet |
+| [Lov om skatt på honorar til utenlandske artister mv (artistskatteloven)](/norwegian-laws/lover/lov-1996-12-13-87.html) | Artistskatteloven | Finansdepartementet |
+| [Lov om stadnamn (stadnamnlova)](/norwegian-laws/lover/lov-1990-05-18-11.html) | Stadnamnlova – stadnl | Kultur- og likestillingsdepartementet |
+| [Lov om vederlag for visning av billedkunst og kunsthåndverk m.v.](/norwegian-laws/lover/lov-1993-05-28-52.html) | Lov om vederlag for kunstvisning | Kultur- og likestillingsdepartementet |

@@ -1,0 +1,28 @@
+# Skatte- og avgiftsrett
+
+*22 lover*
+
+| Lov | Korttittel | Departement |
+|-----|-----------|-------------|
+| [Lov om adgang for Kongen til å inngå overenskomster med fremmede stater til fore](/norwegian-laws/lover/lov-1949-07-28-15.html) | Dobbeltbeskatningsavtaleloven | Finansdepartementet |
+| [Lov om avgifter vedrørende motorkjøretøyer og båter (motorkjøretøy- og båtavgift](/norwegian-laws/lover/lov-1959-06-19-2.html) | Motorkjøretøy- og båtavgiftsloven | Finansdepartementet |
+| [Lov om betaling og innkreving av skatte- og avgiftskrav (skattebetalingsloven)](/norwegian-laws/lover/lov-2005-06-17-67.html) | Skattebetalingsloven – sktbl | Finansdepartementet |
+| [Lov om eigedomsskatt til kommunane (eigedomsskattelova)](/norwegian-laws/lover/lov-1975-06-06-29.html) | Eigedomsskattelova | Finansdepartementet |
+| [Lov om endringer i lov 26. mars 1999 nr. 14 om skatt av formue og inntekt](/norwegian-laws/lover/lov-2006-12-15-81.html) | Endringslov til skatteloven | Finansdepartementet |
+| [Lov om endringer i lov 26. mars 1999 nr. 14 om skatt av formue og inntekt (skatt](/norwegian-laws/lover/lov-2008-12-12-99.html) | Endringslov til skatteloven | Finansdepartementet |
+| [Lov om endringer i lov 6. juni 1975 nr. 29 om eigedomsskatt til kommunane (eiged](/norwegian-laws/lover/lov-2017-12-19-118.html) | Endringslov til eigedomsskattelova | Finansdepartementet |
+| [Lov om endringer i merverdiavgiftsloven](/norwegian-laws/lover/lov-2025-12-22-121.html) | Endringslov til merverdiavgiftsloven | Finansdepartementet |
+| [Lov om endringer i skatte- og avgiftslovgivningen mv.](/norwegian-laws/lover/lov-2004-12-10-77.html) | Endringslov til skatte- og avgiftslovgivningen mv. | Finansdepartementet |
+| [Lov om endringer i skatteloven](/norwegian-laws/lover/lov-2011-12-09-52.html) | Endringslov til skatteloven | Finansdepartementet |
+| [Lov om endringer i skatteloven](/norwegian-laws/lover/lov-2024-01-12-2.html) | Endringslov til skatteloven | Finansdepartementet |
+| [Lov om inn- og utførsel av varer (vareførselsloven)](/norwegian-laws/lover/lov-2022-03-11-9.html) | Vareførselsloven – vfl. | Finansdepartementet |
+| [Lov om merverdiavgift (merverdiavgiftsloven)](/norwegian-laws/lover/lov-2009-06-19-58.html) | Merverdiavgiftsloven – mval | Finansdepartementet |
+| [Lov om midlertidig kompensasjonsordning for arbeidsgivere med nullsats for bereg](/norwegian-laws/lover/lov-2020-06-23-110.html) | Lov om midl. kompensasjon ved nullsats for arbeidsgiveravgift | Finansdepartementet |
+| [Lov om skatt av formue og inntekt (skatteloven)](/norwegian-laws/lover/lov-1999-03-26-14.html) | Skatteloven – sktl | Finansdepartementet |
+| [Lov om skatt til Svalbard (Svalbardskatteloven)](/norwegian-laws/lover/lov-1996-11-29-68.html) | Svalbardskatteloven – svalbsktl | Finansdepartementet |
+| [Lov om skatteforvaltning (skatteforvaltningsloven)](/norwegian-laws/lover/lov-2016-05-27-14.html) | Skatteforvaltningsloven – sktfvl | Finansdepartementet |
+| [Lov om skattlegging av personer på Jan Mayen og i Antarktis (Jan Mayen-skattelov](/norwegian-laws/lover/lov-1996-11-29-69.html) | Jan Mayen-skatteloven | Finansdepartementet |
+| [Lov om suppleringsskatt på underbeskattet inntekt i konsern (suppleringsskattelo](/norwegian-laws/lover/lov-2024-01-12-1.html) | Suppleringsskatteloven | Finansdepartementet |
+| [Lov om særavgifter (særavgiftsloven)](/norwegian-laws/lover/lov-1933-05-19-11.html) | Særavgiftsloven | Finansdepartementet |
+| [Lov om tollavgift (tollavgiftsloven)](/norwegian-laws/lover/lov-2022-03-11-8.html) | Tollavgiftsloven – tavl | Finansdepartementet |
+| [Midlertidig lov om tillegg til merverdiavgiftsloven](/norwegian-laws/lover/lov-2017-12-19-126.html) | Midlertidig lov om tillegg til merverdiavgiftsloven | Finansdepartementet |

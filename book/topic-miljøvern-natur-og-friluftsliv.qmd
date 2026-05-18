@@ -1,0 +1,10 @@
+# Miljøvern, natur og friluftsliv
+
+*4 lover*
+
+| Lov | Korttittel | Departement |
+|-----|-----------|-------------|
+| [Lov om forvaltning av naturens mangfold (naturmangfoldloven)](/norwegian-laws/lover/lov-2009-06-19-100.html) | Naturmangfoldloven – nml | Klima- og miljødepartementet |
+| [Lov om friluftslivet (friluftsloven)](/norwegian-laws/lover/lov-1957-06-28-16.html) | Friluftsloven – fril | Klima- og miljødepartementet |
+| [Lov om motorferdsel i utmark og vassdrag (motorferdselloven)](/norwegian-laws/lover/lov-1977-06-10-82.html) | Motorferdselloven | Klima- og miljødepartementet |
+| [Lov om statlig naturoppsyn (naturoppsynsloven)](/norwegian-laws/lover/lov-1996-06-21-38.html) | Naturoppsynsloven | Klima- og miljødepartementet |

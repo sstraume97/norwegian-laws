@@ -1,0 +1,23 @@
+# IKT- og medierett
+
+*17 lover*
+
+| Lov | Korttittel | Departement |
+|-----|-----------|-------------|
+| [Lov om Etterretningstjenesten (etterretningstjenesteloven)](/norwegian-laws/lover/lov-2020-06-19-77.html) | Etterretningstjenesteloven | Forsvarsdepartementet |
+| [Lov om beskyttelse av mindreårige mot skadelige bildeprogram mv.](/norwegian-laws/lover/lov-2015-02-06-7.html) | Bildeprogramloven | Kultur- og likestillingsdepartementet |
+| [Lov om beskyttelse av undersjøiske kabler og rørledninger utenfor sjøterritoriet](/norwegian-laws/lover/lov-1884-06-14-3.html) | Lov om undersjøiske kabler | Digitaliserings- og forvaltningsdepartementet |
+| [Lov om endringar i lov 4. desember 1992 nr. 127 om kringkasting](/norwegian-laws/lover/lov-2005-06-17-98.html) | Endringslov til kringkastingsloven | Kultur- og likestillingsdepartementet |
+| [Lov om endringer i ekomloven og straffeprosessloven mv. (gjennomføring av EUs da](/norwegian-laws/lover/lov-2011-04-15-11.html) | Endringslov om datalagringsdirektivet | Justis- og beredskapsdepartementet |
+| [Lov om endringer i lov 4. juli 2003 nr. 83 om elektronisk kommunikasjon (ekomlov](/norwegian-laws/lover/lov-2008-01-11-2.html) | Endringslov til ekomloven | Samferdselsdepartementet |
+| [Lov om gjennomføring av EUs forordning om elektronisk identifikasjon og tillitst](/norwegian-laws/lover/lov-2018-06-15-44.html) | Lov om elektroniske tillitstjenester | Digitaliserings- og forvaltningsdepartementet |
+| [Lov om informasjonstilgang m.m. for Utvalget for evaluering av etterretningstjen](/norwegian-laws/lover/lov-2025-06-20-66.html) | Lov om informasjonstilgang, evaluering av etterretningstjenesteloven | Forsvarsdepartementet |
+| [Lov om informasjonstilgang m.m. for den uavhengige kommisjonen som skal gjennomg](/norwegian-laws/lover/lov-2020-12-04-136.html) | Koronakommisjonsloven | Justis- og beredskapsdepartementet |
+| [Lov om informasjonstilgang m.m. for det uavhengige utvalget som skal granske str](/norwegian-laws/lover/lov-2023-06-09-26.html) | Lov om informasjonstilgang m.m. for Baneheia-utvalget | Justis- og beredskapsdepartementet |
+| [Lov om informasjonstilgang m.m. for utvalg som skal undersøke saker om overgrep ](/norwegian-laws/lover/lov-2021-06-18-119.html) | Lov om informasjonstilgang (overgrep begått av helsepersonell) | Helse- og omsorgsdepartementet |
+| [Lov om informasjonstilgang mv. for Kommisjonen for å granske fornorskingspolitik](/norwegian-laws/lover/lov-2020-05-12-41.html) | Lov om informasjonstilgang (fornorskingspolitikk) | Kommunal- og distriktsdepartementet |
+| [Lov om kringkasting og audiovisuelle bestillingstjenester mv. (kringkastingslove](/norwegian-laws/lover/lov-1992-12-04-127.html) | Kringkastingsloven – kringkl | Kultur- og likestillingsdepartementet |
+| [Lov om omdanning av Jernbaneverkets kommersielle televirksomhet til aksjeselskap](/norwegian-laws/lover/lov-2001-06-15-87.html) | Lov om BaneTele AS | Samferdselsdepartementet |
+| [Lov om tilrettelegging for utbygging av høyhastighetsnett for elektronisk kommun](/norwegian-laws/lover/lov-2020-05-07-40.html) | Bredbåndsutbyggingsloven | Digitaliserings- og forvaltningsdepartementet |
+| [Lov om åpenhet om eierskap i medier](/norwegian-laws/lover/lov-2016-06-17-64.html) | Lov om åpenhet om eierskap i medier | Kultur- og likestillingsdepartementet |
+| [Lov om økonomisk støtte til mediene (mediestøtteloven)](/norwegian-laws/lover/lov-2020-12-18-153.html) | Mediestøtteloven | Kultur- og likestillingsdepartementet |

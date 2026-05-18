@@ -1,0 +1,14 @@
+# Forbruker-, kjøps- og konkurranserett
+
+*8 lover*
+
+| Lov | Korttittel | Departement |
+|-----|-----------|-------------|
+| [Lov om behandling av forbrukerklager i Forbrukertilsynet og Forbrukerklageutvalg](/norwegian-laws/lover/lov-2020-06-23-98.html) | Forbrukerklageloven | Barne- og familiedepartementet |
+| [Lov om forbrukerkjøp (forbrukerkjøpsloven)](/norwegian-laws/lover/lov-2002-06-21-34.html) | Forbrukerkjøpsloven – fkjl | Justis- og beredskapsdepartementet |
+| [Lov om kjøp [kjøpsloven]](/norwegian-laws/lover/lov-1988-05-13-27.html) | Kjøpsloven – kjl | Justis- og beredskapsdepartementet |
+| [Lov om konkurranse mellom foretak og kontroll med foretakssammenslutninger (konk](/norwegian-laws/lover/lov-2004-03-05-12.html) | Konkurranseloven – krrl | Nærings- og fiskeridepartementet |
+| [Lov om mellomfolkeleg-privatrettslege reglar for lausøyrekjøp [kjøpslovvalgslove](/norwegian-laws/lover/lov-1964-04-03-1.html) | Kjøpslovvalgsloven – intprkjl | Justis- og beredskapsdepartementet |
+| [Lov om omsetning av bøker (bokloven)](/norwegian-laws/lover/lov-2023-06-16-64.html) | Bokloven | Kultur- og likestillingsdepartementet |
+| [Lov om pakkereiser og reisegaranti mv. (pakkereiseloven)](/norwegian-laws/lover/lov-2018-06-15-32.html) | Pakkereiseloven | Barne- og familiedepartementet |
+| [Lov om pristiltak](/norwegian-laws/lover/lov-1993-06-11-66.html) | Pristiltaksloven – pristl | Nærings- og fiskeridepartementet |

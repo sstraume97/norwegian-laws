@@ -1,0 +1,27 @@
+# Sivil- og straffeprosess
+
+*21 lover*
+
+| Lov | Korttittel | Departement |
+|-----|-----------|-------------|
+| [Lov om advokater og andre som yter rettslig bistand (advokatloven)](/norwegian-laws/lover/lov-2022-05-12-28.html) | Advokatloven | Justis- og beredskapsdepartementet |
+| [Lov om domstolene (domstolloven)](/norwegian-laws/lover/lov-1915-08-13-5.html) | Domstolloven – dl | Justis- og beredskapsdepartementet |
+| [Lov om endringar i straffegjennomføringsloven mv.](/norwegian-laws/lover/lov-2013-06-14-44.html) | Endringslov til straffegjennomføringsloven mv. | Justis- og beredskapsdepartementet |
+| [Lov om endringer i domstolloven mv. (saksfordeling m.m.)](/norwegian-laws/lover/lov-2026-05-07-17.html) | Endringslov til domstolloven mv. | Justis- og beredskapsdepartementet |
+| [Lov om endringer i konfliktrådsloven og straffeloven mv. (strafferettslige reaks](/norwegian-laws/lover/lov-2024-11-29-73.html) | Endringslov til konfliktrådsloven og straffeloven mv. | Justis- og beredskapsdepartementet |
+| [Lov om endringer i rettshjelpsloven mv. (prioriterte sakstyper for rettshjelp mv](/norwegian-laws/lover/lov-2025-06-20-82.html) | Endringslov til rettshjelpsloven mv. | Justis- og beredskapsdepartementet |
+| [Lov om endringer i utleveringsloven m.m](/norwegian-laws/lover/lov-2012-06-22-52.html) | Endringslov til utleveringsloven m.m | Justis- og beredskapsdepartementet |
+| [Lov om foreldelse av fordringer (foreldelsesloven)](/norwegian-laws/lover/lov-1979-05-18-18.html) | Foreldelsesloven – fl | Justis- og beredskapsdepartementet |
+| [Lov om fri rettshjelp [rettshjelploven]](/norwegian-laws/lover/lov-1980-06-13-35.html) | Rettshjelploven – rhjl | Justis- og beredskapsdepartementet |
+| [Lov om gjennomføring av straff mv. (straffegjennomføringsloven)](/norwegian-laws/lover/lov-2001-05-18-21.html) | Straffegjennomføringsloven – strgjfl | Justis- og beredskapsdepartementet |
+| [Lov om mekling og rettergang i sivile tvister (tvisteloven)](/norwegian-laws/lover/lov-2005-06-17-90.html) | Tvisteloven – tvl | Justis- og beredskapsdepartementet |
+| [Lov om nordisk vitneplikt](/norwegian-laws/lover/lov-1975-03-21-9.html) | Lov om nordisk vitneplikt | Justis- og beredskapsdepartementet |
+| [Lov om notarius publicus](/norwegian-laws/lover/lov-2002-04-26-12.html) | Lov om notarius publicus | Justis- og beredskapsdepartementet |
+| [Lov om overføring av straffeforfølging fra eller til annet europeisk land](/norwegian-laws/lover/lov-1977-03-25-22.html) | Lov om overføring av straffeforfølging | Justis- og beredskapsdepartementet |
+| [Lov om rettergangsmåten i straffesaker (Straffeprosessloven)](/norwegian-laws/lover/lov-1981-05-22-25.html) | Straffeprosessloven – strpl | Justis- og beredskapsdepartementet |
+| [Lov om rettergangsordningens ikrafttræden](/norwegian-laws/lover/lov-1918-08-14-4.html) | Rettergangsordningens ikrafttrædelseslov | Justis- og beredskapsdepartementet |
+| [Lov om rettsgebyr (rettsgebyrloven)](/norwegian-laws/lover/lov-1982-12-17-86.html) | Rettsgebyrloven | Justis- og beredskapsdepartementet |
+| [Lov om utdrag i sivile saker og straffesaker [rettsutdragsloven]](/norwegian-laws/lover/lov-1918-08-14-2.html) | Rettsutdragsloven | Justis- og beredskapsdepartementet |
+| [Lov om utlevering av lovbrytere m.v. [utleveringsloven]](/norwegian-laws/lover/lov-1975-06-13-39.html) | Utleveringsloven – utlevl | Justis- og beredskapsdepartementet |
+| [Lov om vidners og sakkyndiges godtgjørelse m.v.](/norwegian-laws/lover/lov-1916-07-21-2.html) | Lov om vidners og sakkyndiges godtgjørelse | Justis- og beredskapsdepartementet |
+| [Lov om voldgift](/norwegian-laws/lover/lov-2004-05-14-25.html) | Voldgiftsloven – vogl | Justis- og beredskapsdepartementet |

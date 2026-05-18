@@ -1,0 +1,34 @@
+# Stats-, statsforfatnings- og statsborgerrett
+
+*28 lover*
+
+| Lov | Korttittel | Departement |
+|-----|-----------|-------------|
+| [Cancelli-Promemoria](/norwegian-laws/lover/lov-1812-02-25.html) | Prom. ang. Territorial Grænse | Utenriksdepartementet |
+| [Forbud paa Vimpel-Føring](/norwegian-laws/lover/lov-1741-02-17.html) | Forbud paa Vimpel-føring | Utenriksdepartementet |
+| [Instruks for Regjeringen](/norwegian-laws/lover/lov-1909-03-23.html) | Regjeringsinstruksen | Statsministerens kontor |
+| [Kongeriket Norges Grunnlov](/norwegian-laws/lover/lov-1814-05-17.html) | Grunnloven (bokmål) – Grl. | Justis- og beredskapsdepartementet |
+| [Lov om Kongens myndighetsalder](/norwegian-laws/lover/lov-1921-05-13-2.html) | Lov om Kongens myndighetsalder | Justis- og beredskapsdepartementet |
+| [Lov om Norges Flag [flaggloven]](/norwegian-laws/lover/lov-1898-12-10-1.html) | Flaggloven | Utenriksdepartementet |
+| [Lov om Stortingets ombudsnemnd for Forsvaret (forsvarsombudsloven)](/norwegian-laws/lover/lov-2021-06-18-115.html) | Forsvarsombudsloven | Forsvarsdepartementet |
+| [Lov om adgang til rekvisisjon av skip m.v. under krig eller kriseforhold](/norwegian-laws/lover/lov-1952-12-19-2.html) | Lov om adgang til rekvisisjon av skip | Nærings- og fiskeridepartementet |
+| [Lov om adgangen til visse områder](/norwegian-laws/lover/lov-1940-03-07-1.html) | Lov om adgangen til visse områder | Justis- og beredskapsdepartementet |
+| [Lov om ansvar for handlinger som påtales ved Riksrett [ansvarlighetsloven]](/norwegian-laws/lover/lov-1932-02-05-1.html) | Ansvarlighetsloven – riksrl | Justis- og beredskapsdepartementet |
+| [Lov om endringer i forsvarsloven mv. (militær disiplinærmyndighet)](/norwegian-laws/lover/lov-2023-11-24-84.html) | Endringslov til forsvarsloven mv. (militær disiplinærmyndighet) | Forsvarsdepartementet |
+| [Lov om endringer i grenseloven og utlendingsloven mv. (interoperabilitet og visu](/norwegian-laws/lover/lov-2024-06-21-47.html) | Endringslov til grenseloven og utlendingsloven mv. | Justis- og beredskapsdepartementet |
+| [Lov om endringer i konfliktrådsloven, straffeloven og straffeprosessloven mv. (s](/norwegian-laws/lover/lov-2023-12-20-110.html) | Endringslov til konfliktrådsloven, straffeloven mv | Justis- og beredskapsdepartementet |
+| [Lov om forbod mot samkvem med personar som har tilhald på fiendeområde o.a](/norwegian-laws/lover/lov-1950-12-15-3.html) | Lov om forbod mot samkvem med fienden | Justis- og beredskapsdepartementet |
+| [Lov om gjennomføring av tilleggsavtale mellom Norge og USA om forsvarssamarbeid ](/norwegian-laws/lover/lov-2022-06-10-36.html) | Forsvarssamarbeidsloven | Forsvarsdepartementet |
+| [Lov om godtgjøring og andre ytelser til stortingsrepresentanter (representantyte](/norwegian-laws/lover/lov-2025-06-20-57.html) | Representantytelsesloven | Finansdepartementet |
+| [Lov om kontroll med etterretnings-, overvåkings- og sikkerhetstjeneste (EOS-kont](/norwegian-laws/lover/lov-1995-02-03-7.html) | EOS-kontrolloven | Justis- og beredskapsdepartementet |
+| [Lov om militær politimyndighet (militærpolitiloven)](/norwegian-laws/lover/lov-2023-11-24-85.html) | Militærpolitiloven | Forsvarsdepartementet |
+| [Lov om militære rekvisisjoner [rekvisisjonsloven]](/norwegian-laws/lover/lov-1951-06-29-19.html) | Rekvisisjonsloven | Forsvarsdepartementet |
+| [Lov om norsk statsborgerskap (statsborgerloven)](/norwegian-laws/lover/lov-2005-06-10-51.html) | Statsborgerloven | Arbeids- og inkluderingsdepartementet |
+| [Lov om rettergangsmåten i riksrettssaker [riksrettsrettergangsloven]](/norwegian-laws/lover/lov-1932-02-05-2.html) | Riksrettsrettergangsloven – riksrgl | Justis- og beredskapsdepartementet |
+| [Lov om særlige Straffebestemmelser m.v. for Personer, som i Henhold til Grundlov](/norwegian-laws/lover/lov-1897-08-03-2.html) | Lov om møteplikt til Stortinget | Justis- og beredskapsdepartementet |
+| [Lov om undersøkelser av ulykker og hendelser i Forsvaret (forsvarsundersøkelsesl](/norwegian-laws/lover/lov-2016-12-16-92.html) | Forsvarsundersøkelsesloven | Forsvarsdepartementet |
+| [Lov om utvalget for evaluering av EOS-utvalget](/norwegian-laws/lover/lov-2015-02-13-10.html) | Lov om utvalget for evaluering av EOS-utvalget | Justis- og beredskapsdepartementet |
+| [Lov om verneplikt og tjeneste i Forsvaret m.m. (forsvarsloven)](/norwegian-laws/lover/lov-2016-08-12-77.html) | Forsvarsloven | Forsvarsdepartementet |
+| [Lov om visse forhold vedrørende de politiske partiene (partiloven)](/norwegian-laws/lover/lov-2005-06-17-102.html) | Partiloven | Kommunal- og distriktsdepartementet |
+| [Lov um prisereglar og prisedomstolar](/norwegian-laws/lover/lov-1947-05-02-1.html) | Lov um prisereglar og prisedomstolar | Justis- og beredskapsdepartementet |
+| [Militær Straffelov](/norwegian-laws/lover/lov-1902-05-22-13.html) | Militær Straffelov – milstrl | Justis- og beredskapsdepartementet |

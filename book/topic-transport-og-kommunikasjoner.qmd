@@ -1,0 +1,20 @@
+# Transport og kommunikasjoner
+
+*14 lover*
+
+| Lov | Korttittel | Departement |
+|-----|-----------|-------------|
+| [Lov om Stranding og Vrag [vrakloven]](/norwegian-laws/lover/lov-1893-07-20-2.html) | Vrakloven | Justis- og beredskapsdepartementet |
+| [Lov om endringer i sjøloven (erstatningsansvar ved transport av farlig gods m.m.](/norwegian-laws/lover/lov-2015-05-12-30.html) | Endringslov til sjøloven | Justis- og beredskapsdepartementet |
+| [Lov om endringer i vegtrafikkloven (opplæring)](/norwegian-laws/lover/lov-2020-04-03-18.html) | Endringslov til vegtrafikkloven (opplæring) | Samferdselsdepartementet |
+| [Lov om fritids- og småbåter (småbåtloven)](/norwegian-laws/lover/lov-1998-06-26-47.html) | Småbåtloven – småbåtl | Nærings- og fiskeridepartementet |
+| [Lov om fullmakt for Kongen til å forby redere å gi opplysninger m.m. til utenlan](/norwegian-laws/lover/lov-1967-06-16-3.html) | Lov om forbud mot at redere gir opplysninger | Nærings- og fiskeridepartementet |
+| [Lov om intelligente transportsystemer innenfor vegtransport m.m. (ITS-loven)](/norwegian-laws/lover/lov-2015-12-11-101.html) | ITS-loven | Samferdselsdepartementet |
+| [Lov om overføring av ansvar for kollektivtransport](/norwegian-laws/lover/lov-2017-06-16-64.html) | Lov om overføring av ansvar for kollektivtransport | Samferdselsdepartementet |
+| [Lov om posttjenester (postloven)](/norwegian-laws/lover/lov-2015-09-04-91.html) | Postloven | Samferdselsdepartementet |
+| [Lov om sjøfarten (sjøloven)](/norwegian-laws/lover/lov-1994-06-24-39.html) | Sjøloven – sjøl | Justis- og beredskapsdepartementet |
+| [Lov om taubaner (taubaneloven)](/norwegian-laws/lover/lov-2017-05-22-29.html) | Taubaneloven | Samferdselsdepartementet |
+| [Lov om utleie av små elektriske kjøretøy på offentlig grunn](/norwegian-laws/lover/lov-2021-06-18-139.html) | Lov om utleie av små elektriske kjøretøy på offentlig grunn | Samferdselsdepartementet |
+| [Lov om utprøving av selvkjørende kjøretøy](/norwegian-laws/lover/lov-2017-12-15-112.html) | Lov om utprøving av selvkjørende kjøretøy | Samferdselsdepartementet |
+| [Lov om vegar (veglova)](/norwegian-laws/lover/lov-1963-06-21-23.html) | Veglova – vegl | Samferdselsdepartementet |
+| [Lov om vegtrafikk (vegtrafikkloven)](/norwegian-laws/lover/lov-1965-06-18-4.html) | Vegtrafikkloven – vtrl | Samferdselsdepartementet |

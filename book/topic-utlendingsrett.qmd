@@ -1,0 +1,11 @@
+# Utlendingsrett
+
+*5 lover*
+
+| Lov | Korttittel | Departement |
+|-----|-----------|-------------|
+| [Lov om endringer i utlendingsloven (partsbegrepet mv. i utlendingssaker)](/norwegian-laws/lover/lov-2022-03-25-15.html) | Endringslov til utlendingsloven | Justis- og beredskapsdepartementet |
+| [Lov om endringer i utlendingsloven (visitasjon og undersøkelse i forbindelse med](/norwegian-laws/lover/lov-2022-12-20-120.html) | Endringslov til utlendingsloven | Justis- og beredskapsdepartementet |
+| [Lov om midlertidige endringer i utlendingsloven (beredskapshjemmel for innkvarte](/norwegian-laws/lover/lov-2024-06-21-50.html) | Midlertidig endringslov til utlendingsloven | Justis- og beredskapsdepartementet |
+| [Lov om offentlige organers ansvar for bruk av tolk mv. (tolkeloven)](/norwegian-laws/lover/lov-2021-06-11-79.html) | Tolkeloven | Arbeids- og inkluderingsdepartementet |
+| [Lov om utlendingers adgang til riket og deres opphold her (utlendingsloven)](/norwegian-laws/lover/lov-2008-05-15-35.html) | Utlendingsloven – utlendl | Justis- og beredskapsdepartementet |

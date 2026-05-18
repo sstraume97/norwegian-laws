@@ -1,0 +1,14 @@
+# Immaterialrett
+
+*8 lover*
+
+| Lov | Korttittel | Departement |
+|-----|-----------|-------------|
+| [Lov om Patentstyret og Klagenemnda for industrielle rettar (patentstyrelova)](/norwegian-laws/lover/lov-2012-06-22-58.html) | Patentstyrelova | Nærings- og fiskeridepartementet |
+| [Lov om avgift til Det norske komponistfond](/norwegian-laws/lover/lov-1965-04-09-1.html) | Lov om avgift til Det norske komponistfond | Kultur- og likestillingsdepartementet |
+| [Lov om beskyttelse av varemerker (varemerkeloven)](/norwegian-laws/lover/lov-2010-03-26-8.html) | Varemerkeloven – vml | Justis- og beredskapsdepartementet |
+| [Lov om bibliotekvederlag](/norwegian-laws/lover/lov-1987-05-29-23.html) | Bibliotekvederlagsloven | Kultur- og likestillingsdepartementet |
+| [Lov om kollektiv forvaltning av opphavsrett mv.](/norwegian-laws/lover/lov-2021-05-28-49.html) | Lov om kollektiv forvaltning av opphavsrett mv. | Kultur- og likestillingsdepartementet |
+| [Lov om oppfinnelser av betydning for rikets forsvar](/norwegian-laws/lover/lov-1953-06-26-8.html) | Lov om forsvarsviktige oppfinnelser | Forsvarsdepartementet |
+| [Lov om opphavsrett til åndsverk mv. (åndsverkloven)](/norwegian-laws/lover/lov-2018-06-15-40.html) | Åndsverkloven | Kultur- og likestillingsdepartementet |
+| [Lov om planteforedlerrett (planteforedlerloven)](/norwegian-laws/lover/lov-1993-03-12-32.html) | Planteforedlerloven – plfl | Landbruks- og matdepartementet |

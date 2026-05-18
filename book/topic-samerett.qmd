@@ -1,0 +1,8 @@
+# Samerett
+
+*2 lover*
+
+| Lov | Korttittel | Departement |
+|-----|-----------|-------------|
+| [Lov om Sametinget og andre samiske rettsforhold (sameloven)](/norwegian-laws/lover/lov-1987-06-12-56.html) | Sameloven – samel | Kommunal- og distriktsdepartementet |
+| [Lov om endringer i reindriftsloven (tilgjengeliggjøring av reintall og obligator](/norwegian-laws/lover/lov-2019-06-21-62.html) | Endringslov til reindriftsloven | Landbruks- og matdepartementet |

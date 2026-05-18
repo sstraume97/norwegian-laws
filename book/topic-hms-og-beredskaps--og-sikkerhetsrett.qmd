@@ -1,0 +1,20 @@
+# HMS og beredskaps- og sikkerhetsrett
+
+*14 lover*
+
+| Lov | Korttittel | Departement |
+|-----|-----------|-------------|
+| [Lov om Kystvakten (kystvaktloven)](/norwegian-laws/lover/lov-1997-06-13-42.html) | Kystvaktloven – kystvl | Forsvarsdepartementet |
+| [Lov om Norges Krigsskaderåd](/norwegian-laws/lover/lov-1951-07-06-4.html) | Lov om Norges Krigsskaderåd | Arbeids- og inkluderingsdepartementet |
+| [Lov om endringer i sikkerhetsloven (eierskapskontroll og lovens virkeområde)](/norwegian-laws/lover/lov-2023-06-20-77.html) | Endringslov til sikkerhetsloven | Justis- og beredskapsdepartementet |
+| [Lov om endringer i sikkerhetsloven (opplysningsplikt ved autorisasjon)](/norwegian-laws/lover/lov-2026-04-10-12.html) | Endringslov til sikkerhetsloven | Justis- og beredskapsdepartementet |
+| [Lov om fornøyelsesinnretninger (tivoliloven)](/norwegian-laws/lover/lov-2017-05-22-30.html) | Tivoliloven | Samferdselsdepartementet |
+| [Lov om granskingskommisjonen for brannen på Scandinavian Star](/norwegian-laws/lover/lov-2016-04-29-6.html) | Lov om granskingskommisjonen for Scandinavian Star | Justis- og beredskapsdepartementet |
+| [Lov om helsemessig og sosial beredskap (helseberedskapsloven)](/norwegian-laws/lover/lov-2000-06-23-56.html) | Helseberedskapsloven – hlsberedskl | Helse- og omsorgsdepartementet |
+| [Lov om informasjon om bestemt angitte områder, skjermingsverdige objekter og bun](/norwegian-laws/lover/lov-2017-06-21-88.html) | Lov om informasjon (skjermingsverdige objekter og bunnforhold mv) | Forsvarsdepartementet |
+| [Lov om midlertidig tilskuddsordning for foretak med stort omsetningsfall](/norwegian-laws/lover/lov-2020-04-17-23.html) | Lov om midl. tilskuddsordning ved omsetningsfall | Finansdepartementet |
+| [Lov om nasjonal sikkerhet (sikkerhetsloven)](/norwegian-laws/lover/lov-2018-06-01-24.html) | Sikkerhetsloven – sikkl | Justis- og beredskapsdepartementet |
+| [Lov om næringsberedskap (næringsberedskapsloven)](/norwegian-laws/lover/lov-2011-12-16-65.html) | Næringsberedskapsloven | Nærings- og fiskeridepartementet |
+| [Lov om særlige rådgjerder under krig, krigsfare og liknende forhold [beredskapsl](/norwegian-laws/lover/lov-1950-12-15-7.html) | Beredskapsloven – beredskl | Justis- og beredskapsdepartementet |
+| [Lov om vaktvirksomhet (vaktvirksomhetsloven)](/norwegian-laws/lover/lov-2001-01-05-1.html) | Vaktvirksomhetsloven – vaktl | Justis- og beredskapsdepartementet |
+| [Lov om vern mot brann, eksplosjon og ulykker med farlig stoff og om brannvesenet](/norwegian-laws/lover/lov-2002-06-14-20.html) | Brann- og eksplosjonsvernloven | Justis- og beredskapsdepartementet |

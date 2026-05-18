@@ -1,0 +1,9 @@
+# Forurensninger, klima og utslipp
+
+*3 lover*
+
+| Lov | Korttittel | Departement |
+|-----|-----------|-------------|
+| [Lov om endringer i klimakvoteloven](/norwegian-laws/lover/lov-2011-04-15-12.html) | Endringslov til klimakvoteloven | Klima- og miljødepartementet |
+| [Lov om klimamål (klimaloven)](/norwegian-laws/lover/lov-2017-06-16-60.html) | Klimaloven | Klima- og miljødepartementet |
+| [Lov om vern mot forurensninger og om avfall (forurensningsloven)](/norwegian-laws/lover/lov-1981-03-13-6.html) | Forurensningsloven – forurl | Klima- og miljødepartementet |

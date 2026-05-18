@@ -1,0 +1,17 @@
+# Skoler, universiteter og forskning
+
+*11 lover*
+
+| Lov | Korttittel | Departement |
+|-----|-----------|-------------|
+| [Lov om endringer i integreringsloven mv. (økt arbeidsretting og formell opplærin](/norwegian-laws/lover/lov-2025-06-20-35.html) | Endringslov til integreringsloven mv. | Arbeids- og inkluderingsdepartementet |
+| [Lov om endringer i opplæringslova (rett til 12 timer gratis skolefritidsordning ](/norwegian-laws/lover/lov-2026-02-13-6.html) | Endringslov til opplæringslova | Kunnskapsdepartementet |
+| [Lov om folkehøgskoler (folkehøgskoleloven)](/norwegian-laws/lover/lov-2025-06-20-99.html) | Folkehøgskoleloven | Kunnskapsdepartementet |
+| [Lov om grunnskoleopplæringa og den vidaregåande opplæringa (opplæringslova)](/norwegian-laws/lover/lov-2023-06-09-30.html) | Opplæringslova | Kunnskapsdepartementet |
+| [Lov om høyere yrkesfaglig utdanning (fagskoleloven)](/norwegian-laws/lover/lov-2018-06-08-28.html) | Fagskoleloven | Kunnskapsdepartementet |
+| [Lov om konsortium for europeisk forskingsinfrastruktur (ERIC-lova)](/norwegian-laws/lover/lov-2015-12-11-99.html) | ERIC-lova | Kunnskapsdepartementet |
+| [Lov om kristendomsundervisning ved vidaregåande skole, høgskole og universitet](/norwegian-laws/lover/lov-1971-12-17-106.html) | Kristendomslærelov for vidaregåande skoler m.v. | Kunnskapsdepartementet |
+| [Lov om organisering av forskningsetisk arbeid (forskningsetikkloven)](/norwegian-laws/lover/lov-2017-04-28-23.html) | Forskningsetikkloven | Kunnskapsdepartementet |
+| [Lov om private skolar med rett til statstilskot (privatskolelova)](/norwegian-laws/lover/lov-2003-07-04-84.html) | Privatskolelova – prskol | Kunnskapsdepartementet |
+| [Lov om universiteter og høyskoler (universitets- og høyskoleloven)](/norwegian-laws/lover/lov-2024-03-08-9.html) | Universitets- og høyskoleloven | Kunnskapsdepartementet |
+| [Lov om voksenopplæring (voksenopplæringsloven)](/norwegian-laws/lover/lov-2009-06-19-95.html) | Voksenopplæringsloven | Kunnskapsdepartementet |
