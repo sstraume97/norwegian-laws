@@ -12,7 +12,13 @@ from pathlib import Path
 
 
 def refid_to_filepath(refid: str) -> str:
-    """Convert a law refid to a Markdown file path."""
+    """Convert a refid to a Markdown file path.
+
+    - lov/* → lover/lov-*.md
+    - forskrift/* → forskrifter/forskrift-*.md
+    """
+    if refid.startswith("forskrift/"):
+        return f"forskrifter/{refid.replace('/', '-')}.md"
     return f"lover/{refid.replace('/', '-')}.md"
 
 
@@ -113,36 +119,41 @@ def format_law_markdown(law: dict) -> str:
 
 
 def format_all_laws(snapshot_dir: str, output_dir: str) -> dict[str, str]:
-    """Read all law JSONs from a snapshot and write Markdown files.
+    """Read all law and forskrift JSONs from a snapshot and write Markdown files.
 
     Args:
         snapshot_dir: Path to the snapshot directory.
-        output_dir: Path to write lover/*.md files.
+        output_dir: Path to write lover/*.md and forskrifter/*.md files.
 
     Returns:
         Dict mapping refid → relative filepath of the written Markdown file.
     """
-    laws_dir = Path(snapshot_dir) / "laws"
+    snapshot = Path(snapshot_dir)
     output = Path(output_dir)
     (output / "lover").mkdir(parents=True, exist_ok=True)
+    (output / "forskrifter").mkdir(parents=True, exist_ok=True)
 
     results = {}
-    json_files = sorted(laws_dir.glob("*.json"))
 
-    for i, path in enumerate(json_files):
-        data = json.loads(path.read_text(encoding="utf-8"))
-        refid = data.get("refid", "")
-        if not refid:
+    for subdir in ["laws", "forskrifter"]:
+        src = snapshot / subdir
+        if not src.exists():
             continue
+        json_files = sorted(src.glob("*.json"))
+        for i, path in enumerate(json_files):
+            data = json.loads(path.read_text(encoding="utf-8"))
+            refid = data.get("refid", "")
+            if not refid:
+                continue
 
-        md = format_law_markdown(data)
-        filepath = refid_to_filepath(refid)
-        full_path = output / filepath
-        full_path.parent.mkdir(parents=True, exist_ok=True)
-        full_path.write_text(md, encoding="utf-8")
-        results[refid] = filepath
+            md = format_law_markdown(data)
+            filepath = refid_to_filepath(refid)
+            full_path = output / filepath
+            full_path.parent.mkdir(parents=True, exist_ok=True)
+            full_path.write_text(md, encoding="utf-8")
+            results[refid] = filepath
 
-        if (i + 1) % 100 == 0:
-            print(f"  Formatted {i + 1}/{len(json_files)} laws...")
+            if (i + 1) % 200 == 0:
+                print(f"  Formatted {i + 1}/{len(json_files)} {subdir}...")
 
     return results

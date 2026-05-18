@@ -316,6 +316,7 @@ def build_history(
 
     snapshot = Path(snapshot_dir)
     laws_dir = snapshot / "laws"
+    forskrifter_dir = snapshot / "forskrifter"
     db_path = str(snapshot / "amendments.db")
 
     # Initialize git repo
@@ -333,9 +334,9 @@ def build_history(
         capture_output=True,
     )
 
-    # Load and format all laws. Initial commit gets full text — amendments
-    # modify from there. Trailing text stripped (anachronistic).
-    print("  Reading laws from snapshot...")
+    # Load and format all laws and forskrifter. Initial commit gets full
+    # text — amendments modify from there.
+    print("  Reading laws and forskrifter from snapshot...")
     law_refids = {}
     law_dicts = {}
     all_files = {}
@@ -344,7 +345,11 @@ def build_history(
         strip_trailing_text, apply_amendment, parse_instruction,
     )
 
-    for path in sorted(laws_dir.glob("*.json")):
+    json_paths = sorted(laws_dir.glob("*.json"))
+    if forskrifter_dir.exists():
+        json_paths += sorted(forskrifter_dir.glob("*.json"))
+
+    for path in json_paths:
         data = json.loads(path.read_text(encoding="utf-8"))
         refid = data.get("refid", "")
         if not refid:
@@ -462,10 +467,13 @@ def build_history(
         }
         stream.add_amendment_commit(act_data, files)
 
-    # Single reset commit: snap all body-modified laws back to current text.
+    # Single reset commit: snap all body-modified laws and forskrifter back to current text.
     reset_files = {}
     latest_date = "2001-01-01"
-    for path in sorted(laws_dir.glob("*.json")):
+    reset_paths = sorted(laws_dir.glob("*.json"))
+    if forskrifter_dir.exists():
+        reset_paths += sorted(forskrifter_dir.glob("*.json"))
+    for path in reset_paths:
         data = json.loads(path.read_text(encoding="utf-8"))
         refid = data.get("refid", "")
         if not refid or refid not in body_modified:

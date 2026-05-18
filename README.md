@@ -1,12 +1,12 @@
 # Norges Lover (norwegian-laws)
 
-Norwegian law texts as git history, with a [Quarto book](https://sondreskarsten.github.io/norwegian-laws/) for browsing.
+Norwegian law texts and central regulations as git history, with a [Quarto book](https://sondreskarsten.github.io/norwegian-laws/) for browsing.
 
 ## What this is
 
-Every current Norwegian formal law (`gjeldende formelle lover`) parsed from [Lovdata's public API](https://api.lovdata.no/) into Markdown files, committed to git with amendment history. Each amendment act from [Norsk Lovtidend](https://lovdata.no/register/lovtidend) becomes a backdated git commit, so `git log -- lover/lov-1998-07-17-56.md` shows the legislative history of regnskapsloven.
+Every current Norwegian formal law (`gjeldende formelle lover`, ~735 documents) and every central regulation (`gjeldende sentrale forskrifter`, ~3,400 documents) parsed from [Lovdata's public API](https://api.lovdata.no/) into Markdown files, committed to git with amendment history. Each amendment act from [Norsk Lovtidend](https://lovdata.no/register/lovtidend) becomes a backdated git commit, so `git log -- lover/lov-1998-07-17-56.md` shows the legislative history of regnskapsloven. Forskrift amendments are tracked the same way: `git log -- forskrifter/forskrift-2024-06-21-1166.md`.
 
-The [Quarto book](https://sondreskarsten.github.io/norwegian-laws/) organizes all 735 laws by responsible ministry and is rebuilt weekly via GitHub Actions.
+The [Quarto book](https://sondreskarsten.github.io/norwegian-laws/) organizes laws and forskrifter by responsible ministry and is rebuilt weekly via GitHub Actions.
 
 ## Branches
 
