@@ -1,0 +1,326 @@
+"""Generate standalone per-law HTML pages and a full-text search index.
+
+Reads `lover/*.md`, renders each to a standalone HTML page styled to match
+the Quarto book (cosmo theme), and writes them to `_site/lover/*.html`.
+Also extends `_site/search.json` with full-text entries pointing at the
+per-law pages.
+
+Run after `quarto render` and before deploying to gh-pages.
+"""
+from __future__ import annotations
+
+import json
+import os
+import re
+from pathlib import Path
+
+try:
+    import markdown as md
+except ImportError:
+    md = None
+
+GITHUB_BASE = "https://github.com/sondreskarsten/norwegian-laws"
+HISTORY_BRANCH = "law-history"
+SITE_BASE = "https://sondreskarsten.github.io/norwegian-laws"
+
+PAGE_TEMPLATE = """<!DOCTYPE html>
+<html lang="nb">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>{title} — Norges Lover</title>
+<link rel="stylesheet" href="../site_libs/bootstrap/bootstrap.min.css">
+<link rel="stylesheet" href="../book/styles.css">
+<style>
+body {{ max-width: 960px; margin: 0 auto; padding: 1.5rem; font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif; line-height: 1.6; color: #212529; }}
+nav.breadcrumb {{ background: #f8f9fa; padding: 0.5rem 1rem; border-radius: 4px; margin-bottom: 1rem; font-size: 0.9rem; }}
+nav.breadcrumb a {{ color: #2780e3; text-decoration: none; }}
+nav.breadcrumb a:hover {{ text-decoration: underline; }}
+.metadata {{ background: #f8f9fa; border-left: 3px solid #2780e3; padding: 0.75rem 1rem; margin: 1rem 0; font-size: 0.9rem; }}
+.metadata dt {{ font-weight: 600; margin-top: 0.25rem; }}
+.metadata dd {{ margin-left: 0; }}
+.history-links {{ margin: 1rem 0; padding: 0.75rem; background: #fff3cd; border-radius: 4px; }}
+.history-links a {{ margin-right: 0.5rem; }}
+h1, h2, h3, h4, h5, h6 {{ margin-top: 1.25em; margin-bottom: 0.5em; }}
+h1 {{ font-size: 1.75rem; border-bottom: 2px solid #dee2e6; padding-bottom: 0.3rem; }}
+h2 {{ font-size: 1.5rem; color: #495057; }}
+h3 {{ font-size: 1.25rem; }}
+h4 {{ font-size: 1.1rem; color: #495057; }}
+em {{ color: #6c757d; font-size: 0.95em; }}
+ul li {{ margin-bottom: 0.25rem; }}
+footer {{ margin-top: 3rem; padding-top: 1rem; border-top: 1px solid #dee2e6; color: #6c757d; font-size: 0.85rem; }}
+.search-link {{ float: right; }}
+</style>
+</head>
+<body>
+<nav class="breadcrumb">
+<a href="../index.html">Norges Lover</a> &raquo;
+<a href="../book/dept-{dept_slug}.html">{dept}</a> &raquo;
+<span>{korttittel_short}</span>
+<span class="search-link"><a href="../book/sok.html">Søk</a></span>
+</nav>
+
+<div class="metadata">
+<dl>
+<dt>Refid</dt><dd><code>{refid}</code></dd>
+<dt>Departement</dt><dd>{dept}</dd>
+<dt>Ikrafttredelse</dt><dd>{ikrafttredelse}</dd>
+<dt>Sist endret</dt><dd>{sist_endret}</dd>
+<dt>Kilde</dt><dd><a href="https://lovdata.no/dokument/NL/{refid}" target="_blank" rel="noopener">lovdata.no</a></dd>
+</dl>
+</div>
+
+<div class="history-links">
+<strong>Historikk:</strong>
+<a href="{github_blob}">Kildefil</a> ·
+<a href="{github_log}">git log</a> ·
+{version_links}
+</div>
+
+{body}
+
+<footer>
+Datakilde: <a href="https://lovdata.no/" target="_blank" rel="noopener">Lovdata</a>
+under <a href="https://data.norge.no/nlod/no/2.0" target="_blank" rel="noopener">NLOD 2.0</a>.
+Generert fra <a href="{github_blob}">{filename}</a>.
+Ikke autoritativ — se Lovdata for gjeldende tekst.
+</footer>
+
+</body>
+</html>
+"""
+
+
+def parse_frontmatter_and_body(filepath: Path) -> tuple[dict, str]:
+    text = filepath.read_text(encoding="utf-8")
+    if not text.startswith("---"):
+        return {}, text
+    end = text.find("\n---\n", 4)
+    if end < 0:
+        return {}, text
+    fm_text = text[4:end]
+    body = text[end + 5:]
+    meta = {}
+    for line in fm_text.splitlines():
+        m = re.match(r'^([^:]+):\s*"?(.*?)"?\s*$', line)
+        if m:
+            meta[m.group(1).strip()] = m.group(2).strip()
+    return meta, body
+
+
+def dept_slug(dept: str) -> str:
+    safe = re.sub(r"[^\w\s-]", "", dept).strip().replace(" ", "-").lower()
+    return safe
+
+
+def compute_version_links_html(refid: str, version_tags: list[str], filename: str) -> str:
+    if not refid.startswith("lov/"):
+        return ""
+    refid_year = int(refid.split("/")[1][:4])
+    relevant_tags = []
+    for tag in version_tags:
+        tag_year = int(tag[1:])
+        if tag_year >= refid_year:
+            relevant_tags.append(tag)
+    if len(relevant_tags) > 6:
+        step = len(relevant_tags) // 6
+        relevant_tags = relevant_tags[::step][:6] + [relevant_tags[-1]]
+        relevant_tags = list(dict.fromkeys(relevant_tags))
+    return " ".join(
+        f'<a href="{GITHUB_BASE}/blob/{t}/lover/{filename}">{t}</a>'
+        for t in relevant_tags
+    )
+
+
+def build_korttittel_index(lover_path: Path) -> dict[str, str]:
+    """Map lowercase korttittel → relative href to per-law page."""
+    index = {}
+    for md_file in sorted(lover_path.glob("*.md")):
+        meta, _ = parse_frontmatter_and_body(md_file)
+        if not meta:
+            continue
+        korttittel = meta.get("korttittel", "")
+        if not korttittel:
+            continue
+        parts = re.split(r"\s+[–-]\s+", korttittel)
+        href = f"{md_file.stem}.html"
+        for part in parts:
+            key = part.strip().lower()
+            if len(key) > 4 and key.endswith(("loven", "lova")):
+                index[key] = href
+    return index
+
+
+def build_cross_reference_pattern(korttittel_index: dict[str, str]):
+    if not korttittel_index:
+        return None
+    keys = sorted(korttittel_index.keys(), key=len, reverse=True)
+    alternation = "|".join(re.escape(k) for k in keys)
+    pattern = re.compile(rf"\b({alternation})\b", re.IGNORECASE)
+    return pattern
+
+
+def insert_cross_reference_links(html_body: str, korttittel_index: dict[str, str], pattern, current_stem: str) -> str:
+    """Inject hyperlinks where law short titles appear in body text."""
+    if pattern is None:
+        return html_body
+    seen = set()
+
+    def replace(match):
+        key = match.group(1).lower()
+        href = korttittel_index.get(key)
+        if not href or href == f"{current_stem}.html":
+            return match.group(0)
+        if key in seen:
+            return match.group(0)
+        seen.add(key)
+        return f'<a href="{href}">{match.group(1)}</a>'
+
+    return pattern.sub(replace, html_body)
+
+
+def render_markdown_body(body: str) -> str:
+    if md is None:
+        body_html = body
+        body_html = re.sub(r"^###### (.+)$", r"<h6>\1</h6>", body_html, flags=re.MULTILINE)
+        body_html = re.sub(r"^##### (.+)$", r"<h5>\1</h5>", body_html, flags=re.MULTILINE)
+        body_html = re.sub(r"^#### (.+)$", r"<h4>\1</h4>", body_html, flags=re.MULTILINE)
+        body_html = re.sub(r"^### (.+)$", r"<h3>\1</h3>", body_html, flags=re.MULTILINE)
+        body_html = re.sub(r"^## (.+)$", r"<h2>\1</h2>", body_html, flags=re.MULTILINE)
+        body_html = re.sub(r"^# (.+)$", r"<h1>\1</h1>", body_html, flags=re.MULTILINE)
+        body_html = re.sub(r"\*([^*]+)\*", r"<em>\1</em>", body_html)
+        return body_html
+    return md.markdown(body, extensions=["extra"])
+
+
+def strip_markdown_for_search(body: str, max_chars: int = 8000) -> str:
+    text = re.sub(r"^#+ ", "", body, flags=re.MULTILINE)
+    text = re.sub(r"\*([^*]+)\*", r"\1", text)
+    text = re.sub(r"\[([^\]]+)\]\([^)]+\)", r"\1", text)
+    text = re.sub(r"\s+", " ", text).strip()
+    if len(text) > max_chars:
+        text = text[:max_chars]
+    return text
+
+
+def generate_per_law_pages(
+    repo_root: str = ".",
+    lover_dir: str = "lover",
+    site_dir: str = "_site",
+    version_tags: list[str] | None = None,
+) -> int:
+    if version_tags is None:
+        version_tags = [f"v{y}" for y in range(2001, 2027)]
+
+    lover_path = Path(repo_root) / lover_dir
+    out_dir = Path(repo_root) / site_dir / "lover"
+    out_dir.mkdir(parents=True, exist_ok=True)
+
+    korttittel_index = build_korttittel_index(lover_path)
+    xref_pattern = build_cross_reference_pattern(korttittel_index)
+
+    count = 0
+    for md_file in sorted(lover_path.glob("*.md")):
+        meta, body = parse_frontmatter_and_body(md_file)
+        if not meta:
+            continue
+
+        tittel = meta.get("tittel", md_file.stem)
+        korttittel = meta.get("korttittel", "")
+        refid = meta.get("refid", "")
+        dept = meta.get("departement", "").split(",")[0].strip()
+        ikrafttredelse = meta.get("ikrafttredelse", "")
+        sist_endret = meta.get("sist-endret", "")
+
+        if not dept:
+            dept = "Ukjent"
+
+        body_html = render_markdown_body(body)
+        body_html = insert_cross_reference_links(body_html, korttittel_index, xref_pattern, md_file.stem)
+        filename = md_file.name
+        github_blob = f"{GITHUB_BASE}/blob/main/lover/{filename}"
+        github_log = f"{GITHUB_BASE}/commits/{HISTORY_BRANCH}/lover/{filename}"
+        version_links = compute_version_links_html(refid, version_tags, filename)
+
+        html = PAGE_TEMPLATE.format(
+            title=tittel,
+            korttittel_short=korttittel or tittel[:50],
+            refid=refid,
+            dept=dept,
+            dept_slug=dept_slug(dept),
+            ikrafttredelse=ikrafttredelse or "—",
+            sist_endret=sist_endret or "—",
+            github_blob=github_blob,
+            github_log=github_log,
+            version_links=version_links,
+            body=body_html,
+            filename=filename,
+        )
+
+        out_file = out_dir / f"{md_file.stem}.html"
+        out_file.write_text(html, encoding="utf-8")
+        count += 1
+
+    print(f"  Generated {count} per-law HTML pages in {out_dir}")
+    return count
+
+
+def merge_full_text_into_search(
+    repo_root: str = ".",
+    lover_dir: str = "lover",
+    site_dir: str = "_site",
+    laws_json: str = "laws.json",
+) -> None:
+    search_path = Path(repo_root) / site_dir / "search.json"
+    laws_path = Path(repo_root) / laws_json
+    lover_path = Path(repo_root) / lover_dir
+
+    if not search_path.exists():
+        print(f"  {search_path} not found, skipping search index merge")
+        return
+    if not laws_path.exists():
+        print(f"  {laws_path} not found, skipping search index merge")
+        return
+
+    with open(search_path, encoding="utf-8") as f:
+        search_entries = json.load(f)
+    with open(laws_path, encoding="utf-8") as f:
+        laws = json.load(f)
+
+    laws_by_file = {law["file"]: law for law in laws}
+    existing_count = len(search_entries)
+
+    added = 0
+    for md_file in sorted(lover_path.glob("*.md")):
+        law = laws_by_file.get(md_file.name)
+        if not law:
+            continue
+        meta, body = parse_frontmatter_and_body(md_file)
+        if not meta:
+            continue
+        body_text = strip_markdown_for_search(body)
+        depts = law.get("departement", [])
+        dept_str = ", ".join(depts) if isinstance(depts, list) else str(depts)
+        href = f"lover/{md_file.stem}.html"
+        title = law.get("tittel", meta.get("tittel", ""))
+        korttittel = law.get("korttittel", meta.get("korttittel", ""))
+        text_parts = [korttittel, dept_str, law.get("refid", ""), law.get("ikrafttredelse", ""), body_text]
+        text = " ".join(p for p in text_parts if p)
+        search_entries.append({
+            "objectID": f"law:{md_file.name}",
+            "href": href,
+            "title": title,
+            "section": dept_str,
+            "text": text,
+        })
+        added += 1
+
+    with open(search_path, "w", encoding="utf-8") as f:
+        json.dump(search_entries, f, ensure_ascii=False)
+
+    print(f"  Search index: {existing_count} → {len(search_entries)} entries (+{added} per-law full-text)")
+
+
+if __name__ == "__main__":
+    generate_per_law_pages()
+    merge_full_text_into_search()

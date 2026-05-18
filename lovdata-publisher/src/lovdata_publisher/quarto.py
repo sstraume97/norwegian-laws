@@ -414,11 +414,12 @@ def generate_quarto_config(repo_root: str, lover_dir: str = "lover", version_tag
         lines.append("| Lov | Korttittel | Lovdata | Historikk |")
         lines.append("|-----|-----------|---------|-----------|")
         for law in sorted(laws, key=lambda x: x["tittel"]):
-            blob = f"{GITHUB_BASE}/blob/main/lover/{law['file']}"
+            stem = law["file"].rsplit(".", 1)[0]
+            page = f"/norwegian-laws/lover/{stem}.html"
             history = f"{GITHUB_BASE}/commits/{HISTORY_BRANCH}/lover/{law['file']}"
             lovdata_url = f"https://lovdata.no/dokument/NL/{law['refid']}"
             title = law["tittel"][:80]
-            link = f"[{title}]({blob})"
+            link = f"[{title}]({page})"
             kort = law["korttittel"] or ""
             lovdata_link = f"[lovdata.no]({lovdata_url})"
             vtags = compute_version_links(law["refid"], version_tags)
@@ -491,6 +492,7 @@ def generate_quarto_config(repo_root: str, lover_dir: str = "lover", version_tag
     # Quarto config
     config = {
         "project": {"type": "book", "output-dir": "_site"},
+        "lang": "nb",
         "book": {
             "title": "Norges Lover",
             "subtitle": "Gjeldende formelle lover",

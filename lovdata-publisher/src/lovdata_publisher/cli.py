@@ -36,6 +36,16 @@ def main():
         help="Generate Quarto book chapters and config",
     )
     parser.add_argument(
+        "--post-render",
+        action="store_true",
+        help="After `quarto render`, generate per-law HTML pages and merge full-text search index",
+    )
+    parser.add_argument(
+        "--site-dir",
+        default="_site",
+        help="Quarto output directory (default: _site)",
+    )
+    parser.add_argument(
         "--repo-path",
         default=None,
         help="Git repo path for history operations (default: temp dir)",
@@ -76,6 +86,15 @@ def main():
         print("Generating Quarto book chapters")
         print("=" * 60)
         generate_quarto_config(args.output, db_path=db_path)
+
+    if args.post_render:
+        from .per_law_pages import generate_per_law_pages, merge_full_text_into_search
+        print()
+        print("=" * 60)
+        print("Generating per-law HTML pages and full-text search index")
+        print("=" * 60)
+        generate_per_law_pages(repo_root=args.output, site_dir=args.site_dir)
+        merge_full_text_into_search(repo_root=args.output, site_dir=args.site_dir)
 
     if args.build_history:
         repo_path = args.repo_path
