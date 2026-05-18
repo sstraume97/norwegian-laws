@@ -31,12 +31,19 @@ pip install -e lovdata-loader/ -e lovdata-publisher/
 # Download archives, parse to snapshot
 lovdata-load --download --output snapshot
 
-# Format to Markdown + generate Quarto book
+# Format to Markdown + generate Quarto book chapters
 lovdata-publish --snapshot snapshot --output . --quarto
 
-# Or build the full backdated git history
-lovdata-publish --snapshot snapshot --build-history --repo-path /tmp/law-repo
+# After `quarto render`, generate per-law HTML pages and full-text search index
+lovdata-publish --post-render --output . --site-dir _site
+
+# Build the full backdated git history (per-act commits, LFS-backed)
+sudo apt-get install -y git-lfs
+lovdata-publish --snapshot snapshot --build-history \
+    --history-mode act --use-lfs --repo-path /tmp/law-repo
 ```
+
+The `law-history` branch lives in git-LFS — install `git-lfs` before cloning.
 
 ## Architecture
 
