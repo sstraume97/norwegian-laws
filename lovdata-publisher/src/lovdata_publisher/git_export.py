@@ -291,14 +291,15 @@ def create_yearly_tags(repo_path: str) -> dict[str, str]:
 # ─── Build History Pipeline ──────────────────────────────────────────────────
 
 
-def setup_lfs(repo_path: str, lfs_pattern: str = "lover/*.md") -> None:
-    """Initialize git-lfs and track law markdown files."""
+def setup_lfs(repo_path: str) -> None:
+    """Initialize git-lfs and track law/forskrift markdown files."""
     subprocess.run(["git", "lfs", "install", "--local"], cwd=repo_path, capture_output=True)
-    subprocess.run(
-        ["git", "lfs", "track", lfs_pattern],
-        cwd=repo_path,
-        capture_output=True,
-    )
+    for pattern in ["lover/*.md", "forskrifter/*.md"]:
+        subprocess.run(
+            ["git", "lfs", "track", pattern],
+            cwd=repo_path,
+            capture_output=True,
+        )
 
 
 def build_history(
@@ -377,7 +378,10 @@ def build_history(
     all_files["lover/README.md"] = readme_md
 
     if use_lfs:
-        all_files[".gitattributes"] = "lover/*.md filter=lfs diff=lfs merge=lfs -text\n"
+        all_files[".gitattributes"] = (
+            "lover/*.md filter=lfs diff=lfs merge=lfs -text\n"
+            "forskrifter/*.md filter=lfs diff=lfs merge=lfs -text\n"
+        )
         setup_lfs(repo_path)
 
     print(f"  {len(law_refids)} laws formatted")
