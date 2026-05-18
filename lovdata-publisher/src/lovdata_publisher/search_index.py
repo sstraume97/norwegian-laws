@@ -11,9 +11,10 @@ from pathlib import Path
 GITHUB_BASE = "https://github.com/sondreskarsten/norwegian-laws"
 
 
-def dept_to_page(dept: str) -> str:
+def dept_to_page(dept: str, kind: str = "lov") -> str:
     safe = re.sub(r"[^\w\s-]", "", dept).strip().replace(" ", "-").lower()
-    return f"book/dept-{safe}.html"
+    prefix = "forskrift-dept" if kind == "forskrift" else "dept"
+    return f"book/{prefix}-{safe}.html"
 
 
 def merge_laws_into_search(site_dir: str = "_site", laws_json: str = "laws.json"):
@@ -37,7 +38,8 @@ def merge_laws_into_search(site_dir: str = "_site", laws_json: str = "laws.json"
     for law in laws:
         depts = law.get("departement", [])
         dept_str = ", ".join(depts)
-        href = dept_to_page(depts[0]) if depts else "book/sok.html"
+        kind = law.get("kind", "lov")
+        href = dept_to_page(depts[0], kind) if depts else "book/sok.html"
         text_parts = [
             law.get("korttittel", ""),
             dept_str,
@@ -46,7 +48,7 @@ def merge_laws_into_search(site_dir: str = "_site", laws_json: str = "laws.json"
         ]
         text = " ".join(p for p in text_parts if p)
         search_entries.append({
-            "objectID": f"law:{law['file']}",
+            "objectID": f"{kind}:{law['file']}",
             "href": href,
             "title": law.get("tittel", ""),
             "section": dept_str,

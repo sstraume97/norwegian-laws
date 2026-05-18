@@ -174,33 +174,51 @@ def get_amendment_stats_by_year(db_path: str) -> dict[str, dict]:
     return stats
 
 
-def generate_laws_json(lover_dir: str, output_path: str, version_tags: list[str] = None) -> list[dict]:
+def generate_laws_json(lover_dir: str, output_path: str, version_tags: list[str] = None,
+                       forskrifter_dir: str | None = None) -> list[dict]:
     if version_tags is None:
         version_tags = [f"v{y}" for y in range(2001, 2027)]
     laws = []
-    for f in sorted(Path(lover_dir).glob("*.md")):
-        if f.name == "README.md":
-            continue
-        meta = parse_frontmatter(str(f))
-        if not meta.get("tittel"):
-            continue
-        refid = meta.get("refid", "")
-        raw_dept = meta.get("departement", "Annet") or "Annet"
-        depts = split_departments(raw_dept)
-        tags = compute_version_links(refid, version_tags)
-        laws.append({
-            "file": f.name,
-            "refid": refid,
-            "tittel": meta.get("tittel", ""),
-            "korttittel": meta.get("korttittel", ""),
-            "departement": depts,
-            "ikrafttredelse": meta.get("ikrafttredelse", ""),
-            "sist_endret": meta.get("sist-endret", ""),
-            "github": f"{GITHUB_BASE}/blob/main/lover/{f.name}",
-            "lovdata": f"https://lovdata.no/dokument/NL/{refid}",
-            "log": f"{GITHUB_BASE}/commits/{HISTORY_BRANCH}/lover/{f.name}",
-            "tags": tags,
-        })
+
+    def _add_entries(src_dir: str, kind: str):
+        if not os.path.isdir(src_dir):
+            return
+        for f in sorted(Path(src_dir).glob("*.md")):
+            if f.name == "README.md":
+                continue
+            meta = parse_frontmatter(str(f))
+            if not meta.get("tittel"):
+                continue
+            refid = meta.get("refid", "")
+            raw_dept = meta.get("departement", "Annet") or "Annet"
+            depts = split_departments(raw_dept)
+            tags = compute_version_links(refid, version_tags)
+            if kind == "forskrift":
+                gh_dir = "forskrifter"
+                lovdata_kind = "SF"
+            else:
+                gh_dir = "lover"
+                lovdata_kind = "NL"
+            laws.append({
+                "file": f.name,
+                "refid": refid,
+                "tittel": meta.get("tittel", ""),
+                "korttittel": meta.get("korttittel", ""),
+                "departement": depts,
+                "kind": kind,
+                "path": f"{gh_dir}/{f.name}",
+                "ikrafttredelse": meta.get("ikrafttredelse", ""),
+                "sist_endret": meta.get("sist-endret", ""),
+                "github": f"{GITHUB_BASE}/blob/main/{gh_dir}/{f.name}",
+                "lovdata": f"https://lovdata.no/dokument/{lovdata_kind}/{refid}",
+                "log": f"{GITHUB_BASE}/commits/{HISTORY_BRANCH}/{gh_dir}/{f.name}",
+                "tags": tags,
+            })
+
+    _add_entries(lover_dir, "lov")
+    if forskrifter_dir:
+        _add_entries(forskrifter_dir, "forskrift")
+
     with open(output_path, "w", encoding="utf-8") as fh:
         json.dump(laws, fh, ensure_ascii=False, indent=1)
     return laws
@@ -306,11 +324,12 @@ def generate_diff_page(book_dir: str, version_tags: list[str]):
         'search: false',
         '---',
         '',
-        'Velg en lov og to årsversjoner for å se endringer på GitHub.',
+        'Velg en lov og to årsversjoner for å se endringer mellom dem. Diff hentes fra',
+        f'[`{HISTORY_BRANCH}`-grenen]({GITHUB_BASE}/tree/{HISTORY_BRANCH}) og rendres direkte i nettleseren.',
         '',
         '<div style="display:flex;flex-direction:column;gap:12px;max-width:600px;margin:16px 0;">',
         '<label for="diff-law" style="font-weight:600;">Velg lov:</label>',
-        '<input type="text" id="diff-law-search" placeholder="Søk etter lov..."',
+        '<input type="text" id="diff-law-search" placeholder="Søk etter lov eller forskrift..."',
         '  style="padding:8px;border:1px solid #ccc;border-radius:4px;">',
         '<select id="diff-law" size="6" style="padding:4px;border:1px solid #ccc;border-radius:4px;"></select>',
         '',
@@ -325,25 +344,34 @@ def generate_diff_page(book_dir: str, version_tags: list[str]):
         '</div>',
         '</div>',
         '',
-        '<div style="display:flex;gap:12px;">',
-        '<button id="diff-compare" style="padding:8px 20px;background:#0969da;color:#fff;border:none;border-radius:4px;cursor:pointer;">Sammenlign (full diff)</button>',
-        '<button id="diff-log" style="padding:8px 20px;background:#24292f;color:#fff;border:none;border-radius:4px;cursor:pointer;">Se endringslogg</button>',
+        '<div style="display:flex;gap:12px;flex-wrap:wrap;">',
+        '<button id="diff-render" style="padding:8px 20px;background:#0969da;color:#fff;border:none;border-radius:4px;cursor:pointer;">Sammenlign tekst</button>',
+        '<button id="diff-compare" style="padding:8px 20px;background:#fff;color:#0969da;border:1px solid #0969da;border-radius:4px;cursor:pointer;">Åpne på GitHub</button>',
+        '<button id="diff-log" style="padding:8px 20px;background:#fff;color:#24292f;border:1px solid #d0d7de;border-radius:4px;cursor:pointer;">Se endringslogg</button>',
         '</div>',
         '<div id="diff-info" style="color:#666;font-size:0.9em;"></div>',
         '</div>',
         '',
+        '<div id="diff-output" style="margin-top:20px;"></div>',
+        '',
         '```{=html}',
+        '<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/diff2html@3.4.48/bundles/css/diff2html.min.css">',
         '<script src="https://cdn.jsdelivr.net/npm/fuse.js@7.0.0/dist/fuse.min.js"></script>',
+        '<script src="https://cdn.jsdelivr.net/npm/diff@5.2.0/dist/diff.min.js"></script>',
+        '<script src="https://cdn.jsdelivr.net/npm/diff2html@3.4.48/bundles/js/diff2html-ui.min.js"></script>',
         '<script>',
         'document.addEventListener("DOMContentLoaded", function() {',
         '  var lawSearch = document.getElementById("diff-law-search");',
         '  var lawSelect = document.getElementById("diff-law");',
         '  var fromSelect = document.getElementById("diff-from");',
         '  var toSelect = document.getElementById("diff-to");',
+        '  var renderBtn = document.getElementById("diff-render");',
         '  var compareBtn = document.getElementById("diff-compare");',
         '  var logBtn = document.getElementById("diff-log");',
         '  var infoDiv = document.getElementById("diff-info");',
+        '  var outDiv = document.getElementById("diff-output");',
         f'  var base = "{GITHUB_BASE}";',
+        '  var raw = "https://raw.githubusercontent.com/sondreskarsten/norwegian-laws";',
         '  var laws = [];',
         '  var fuse = null;',
         '',
@@ -360,9 +388,10 @@ def generate_diff_page(book_dir: str, version_tags: list[str]):
         '    lawSelect.innerHTML = "";',
         '    list.forEach(function(law) {',
         '      var o = document.createElement("option");',
-        '      o.value = law.file;',
+        '      o.value = law.path || ("lover/" + law.file);',
         '      o.textContent = (law.korttittel || law.tittel).substring(0,80);',
         '      o.dataset.tags = JSON.stringify(law.tags);',
+        '      o.dataset.file = law.file;',
         '      lawSelect.appendChild(o);',
         '    });',
         '    if (list.length > 0) {',
@@ -381,6 +410,8 @@ def generate_diff_page(book_dir: str, version_tags: list[str]):
         '      fromSelect.selectedIndex = Math.max(0, tags.length - 2);',
         '      toSelect.selectedIndex = tags.length - 1;',
         '    }',
+        '    outDiv.innerHTML = "";',
+        '    infoDiv.textContent = "";',
         '  }',
         '',
         '  fetch("../laws.json").then(function(r){return r.json()}).then(function(data) {',
@@ -401,21 +432,62 @@ def generate_diff_page(book_dir: str, version_tags: list[str]):
         '    populateLaws(hits);',
         '  });',
         '',
-        '  compareBtn.addEventListener("click", function() {',
-        '    var file = lawSelect.value;',
+        '  renderBtn.addEventListener("click", function() {',
+        '    var path = lawSelect.value;',
         '    var from = fromSelect.value;',
         '    var to = toSelect.value;',
-        '    if (!file || !from || !to) { infoDiv.textContent = "Velg lov og versjoner."; return; }',
-        '    if (from >= to) { infoDiv.textContent = "Fra-versjon må være eldre enn til-versjon."; return; }',
+        '    if (!path || !from || !to) { infoDiv.textContent = "Velg lov og versjoner."; return; }',
+        '    if (from === to) { infoDiv.textContent = "Velg to ulike versjoner."; return; }',
+        '    if (from > to) { var tmp = from; from = to; to = tmp; }',
+        '    infoDiv.textContent = "Henter " + from + " og " + to + "...";',
+        '    outDiv.innerHTML = "";',
+        '    Promise.all([',
+        '      fetch(raw + "/" + from + "/" + path).then(function(r){',
+        '        if (!r.ok) throw new Error(from + ": HTTP " + r.status);',
+        '        return r.text();',
+        '      }),',
+        '      fetch(raw + "/" + to + "/" + path).then(function(r){',
+        '        if (!r.ok) throw new Error(to + ": HTTP " + r.status);',
+        '        return r.text();',
+        '      })',
+        '    ]).then(function(parts) {',
+        '      var oldText = parts[0];',
+        '      var newText = parts[1];',
+        '      if (oldText === newText) {',
+        '        outDiv.innerHTML = "<p style=\\"padding:1rem;background:#e6ffec;border-left:3px solid #1a7f37;\\">Ingen tekstforskjell mellom " + from + " og " + to + ".</p>";',
+        '        infoDiv.textContent = "";',
+        '        return;',
+        '      }',
+        '      var oldHeader = path + " @ " + from;',
+        '      var newHeader = path + " @ " + to;',
+        '      var patch = Diff.createPatch(path, oldText, newText, oldHeader, newHeader, {context:3});',
+        '      var ui = new Diff2HtmlUI(outDiv, patch, {',
+        '        drawFileList: false,',
+        '        matching: "lines",',
+        '        outputFormat: "side-by-side",',
+        '        renderNothingWhenEmpty: false,',
+        '        synchronisedScroll: true,',
+        '      });',
+        '      ui.draw();',
+        '      infoDiv.textContent = "Diff " + from + " → " + to;',
+        '    }).catch(function(err) {',
+        '      infoDiv.textContent = "Kunne ikke hente: " + err.message;',
+        '    });',
+        '  });',
+        '',
+        '  compareBtn.addEventListener("click", function() {',
+        '    var from = fromSelect.value;',
+        '    var to = toSelect.value;',
+        '    if (!from || !to) { infoDiv.textContent = "Velg versjoner."; return; }',
+        '    if (from === to) { infoDiv.textContent = "Velg to ulike versjoner."; return; }',
+        '    if (from > to) { var tmp = from; from = to; to = tmp; }',
         '    window.open(base + "/compare/" + from + "..." + to, "_blank");',
-        '    infoDiv.textContent = "Åpner diff for " + from + "…" + to + ". Finn " + file + " i fillisten.";',
         '  });',
         '',
         '  logBtn.addEventListener("click", function() {',
-        '    var file = lawSelect.value;',
-        '    if (!file) { infoDiv.textContent = "Velg en lov."; return; }',
-        '    window.open(base + "/commits/law-history/lover/" + file, "_blank");',
-        '    infoDiv.textContent = "";',
+        '    var path = lawSelect.value;',
+        '    if (!path) { infoDiv.textContent = "Velg en lov."; return; }',
+        '    window.open(base + "/commits/law-history/" + path, "_blank");',
         '  });',
         '});',
         '</script>',
@@ -440,9 +512,10 @@ def generate_quarto_config(repo_root: str, lover_dir: str = "lover", forskrifter
     if version_tags is None:
         version_tags = [f"v{y}" for y in range(2001, 2027)]
 
-    # Generate laws.json
+    # Generate laws.json (lover + forskrifter)
     laws_json_path = os.path.join(repo_root, "laws.json")
-    generate_laws_json(full_lover, laws_json_path, version_tags)
+    generate_laws_json(full_lover, laws_json_path, version_tags,
+                       forskrifter_dir=full_forskrifter if os.path.isdir(full_forskrifter) else None)
 
     # Generate search + diff pages
     generate_search_page(book_dir)
