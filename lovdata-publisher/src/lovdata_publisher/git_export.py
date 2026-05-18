@@ -291,20 +291,32 @@ def create_yearly_tags(repo_path: str) -> dict[str, str]:
 # ─── Build History Pipeline ──────────────────────────────────────────────────
 
 
+def setup_lfs(repo_path: str, lfs_pattern: str = "lover/*.md") -> None:
+    """Initialize git-lfs and track law markdown files."""
+    subprocess.run(["git", "lfs", "install", "--local"], cwd=repo_path, capture_output=True)
+    subprocess.run(
+        ["git", "lfs", "track", lfs_pattern],
+        cwd=repo_path,
+        capture_output=True,
+    )
+
+
 def build_history(
     snapshot_dir: str,
     repo_path: str,
+    mode: str = "year",
+    use_lfs: bool = False,
 ) -> str:
     """Build a git repository with backdated commits from a snapshot.
-
-    Each law's current text is committed at its sist-endret date (or
-    enactment date if never amended). Lovtidend amendment acts provide
-    earlier observations. No bulk "today" commit — laws appear in the
-    timeline when they were enacted or last amended.
 
     Args:
         snapshot_dir: Path to the snapshot directory.
         repo_path: Path to the git repository to build.
+        mode: 'year' (default, one commit per year batch) or 'act'
+            (one commit per amendment act, ~2400 commits).
+        use_lfs: If True, configure git-lfs to track lover/*.md before
+            committing. Required when mode='act' to dodge GitHub's
+            HTTP 500 on dense object graphs.
 
     Returns:
         The repo path.
@@ -364,6 +376,10 @@ def build_history(
     readme_md = generate_tag_readme(law_refids, all_files)
     all_files["lover/README.md"] = readme_md
 
+    if use_lfs:
+        all_files[".gitattributes"] = "lover/*.md filter=lfs diff=lfs merge=lfs -text\n"
+        setup_lfs(repo_path)
+
     print(f"  {len(law_refids)} laws formatted")
 
     stream = FastImportStream(repo_path)
@@ -412,6 +428,7 @@ def build_history(
             (act["refid"],),
         ).fetchall()
 
+        affected_for_act = {}
         for law_refid in changes_to:
             filepath = law_refids.get(law_refid)
             if not filepath or filepath not in all_files:
@@ -448,24 +465,29 @@ def build_history(
                 )
             year_files[year][filepath] = content
             all_files[filepath] = content
+            affected_for_act[filepath] = content
 
         year_acts[year].append(act["refid"])
 
+        if mode == "act" and affected_for_act:
+            stream.add_amendment_commit(act, affected_for_act)
+
     conn.close()
 
-    # Emit one commit per year
-    for year in sorted(year_files.keys()):
-        files = year_files[year]
-        act_count = len(year_acts[year])
-        act_data = {
-            "refid": f"lovtidend/{year}",
-            "title": f"Endringslov {year} ({act_count} lover)",
-            "short_title": "",
-            "date_in_force": year_last_date.get(year, f"{year}-12-31"),
-            "date_in_force_resolved": year_last_date.get(year, f"{year}-12-31"),
-            "date_published": year_last_date.get(year, f"{year}-12-31"),
-        }
-        stream.add_amendment_commit(act_data, files)
+    if mode == "year":
+        # Emit one commit per year
+        for year in sorted(year_files.keys()):
+            files = year_files[year]
+            act_count = len(year_acts[year])
+            act_data = {
+                "refid": f"lovtidend/{year}",
+                "title": f"Endringslov {year} ({act_count} lover)",
+                "short_title": "",
+                "date_in_force": year_last_date.get(year, f"{year}-12-31"),
+                "date_in_force_resolved": year_last_date.get(year, f"{year}-12-31"),
+                "date_published": year_last_date.get(year, f"{year}-12-31"),
+            }
+            stream.add_amendment_commit(act_data, files)
 
     # Single reset commit: snap all body-modified laws and forskrifter back to current text.
     reset_files = {}
@@ -498,9 +520,13 @@ def build_history(
         }
         stream.add_amendment_commit(act_data, reset_files)
 
+    if mode == "act":
+        commit_count_label = f"~{sum(len(v) for v in year_acts.values())} per-act"
+    else:
+        commit_count_label = f"{len(year_files)} year batches"
     print(
         f"  Generated {stream.mark_counter} commits "
-        f"(1 initial + {len(year_files)} year batches + {'1 reset' if reset_files else '0 resets'})"
+        f"(1 initial + {commit_count_label} + {'1 reset' if reset_files else '0 resets'})"
     )
 
     # Execute

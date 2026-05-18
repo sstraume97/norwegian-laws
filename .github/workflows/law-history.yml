@@ -20,6 +20,12 @@ jobs:
         with:
           python-version: '3.12'
 
+      - name: Install git-lfs
+        run: |
+          sudo apt-get update
+          sudo apt-get install -y git-lfs
+          git lfs version
+
       - name: Install pipeline
         run: pip install -e lovdata-loader/ -e lovdata-publisher/
 
@@ -36,8 +42,10 @@ jobs:
         run: |
           set -e
 
-          # Build in separate repo
-          lovdata-publish --snapshot snapshot --build-history --repo-path /tmp/law-repo
+          # Build in separate repo: per-act commits + LFS
+          lovdata-publish --snapshot snapshot --build-history \
+              --history-mode act --use-lfs \
+              --repo-path /tmp/law-repo
 
           # Tag
           cd /tmp/law-repo
@@ -49,12 +57,15 @@ jobs:
           print(f'Created {len(tags)} yearly tags: {min(tags)}..{max(tags)}')
           "
 
-          # Push directly from /tmp/law-repo (no fetch into workspace — avoids tag clobber)
+          # Push directly from /tmp/law-repo
           cd /tmp/law-repo
           git remote add origin https://x-access-token:${{ secrets.GITHUB_TOKEN }}@github.com/${{ github.repository }}.git
+
+          # LFS objects push first
+          git lfs push --all origin || true
 
           # Branch: force-push main -> law-history
           git push --force origin main:refs/heads/law-history
 
-          # Tags: force-push all yearly tags (+ refspec forces remote update)
+          # Tags: force-push all yearly tags
           git push --force origin "+refs/tags/v*:refs/tags/v*"
