@@ -415,6 +415,10 @@ refid: "lov/1996-11-29-72"
 
 *Nåværende andre og tredje ledd blir hhv. nytt fjerde og femte ledd.*
 
+### 2024-01-01 — forskrift/2023-12-18-2278
+
+*I følgende forskrifter endres «Oljedirektoratet» til «Sokkeldirektoratet» gjennomgående eller i angitt paragraf:Forskrift 19. juni 2009 nr. 700 om kompensasjon til fiskere for tapt fangsttid ved lokalisering, opptak og ilandbringelse av skrap som ikke stammer fra petroleumsvirksomhet § 4.Forskrift 12. desember 2008 nr. 1357 til lov 29. november 1996 nr. 72 om petroleumsvirksomhet kapittel 8 om erstatning til fiskere § 2, § 3, § 5.Forskrift 20. desember 2005 nr. 1625 om andres bruk av innretninger § 10 og § 14.Forskrift 19. juni 1997 nr. 618 om Petroleumsregisteret § 1-2, § 1-4 og § 4-3.*
+
 ### 2025-07-01 — lov/2025-06-20-109
 
 *I lov 29. november 1996 nr. 72 om petroleumsvirksomhet skal § 10-18 tredje ledd lyde:*

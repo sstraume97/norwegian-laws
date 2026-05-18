@@ -1,9 +1,10 @@
 project:
   type: book
   output-dir: _site
+lang: nb
 book:
-  title: Norges Lover
-  subtitle: Gjeldende formelle lover
+  title: Norges Lover og Forskrifter
+  subtitle: Gjeldende formelle lover og sentrale forskrifter
   author: 'Kilde: Lovdata API (NLOD 2.0)'
   date: today
   chapters:
@@ -27,6 +28,24 @@ book:
     - book/dept-samferdselsdepartementet.qmd
     - book/dept-statsministerens-kontor.qmd
     - book/dept-utenriksdepartementet.qmd
+  - part: Sentrale forskrifter etter departement
+    chapters:
+    - book/forskrift-dept-arbeids--og-inkluderingsdepartementet.qmd
+    - book/forskrift-dept-barne--og-familiedepartementet.qmd
+    - book/forskrift-dept-digitaliserings--og-forvaltningsdepartementet.qmd
+    - book/forskrift-dept-energidepartementet.qmd
+    - book/forskrift-dept-finansdepartementet.qmd
+    - book/forskrift-dept-forsvarsdepartementet.qmd
+    - book/forskrift-dept-helse--og-omsorgsdepartementet.qmd
+    - book/forskrift-dept-justis--og-beredskapsdepartementet.qmd
+    - book/forskrift-dept-klima--og-miljødepartementet.qmd
+    - book/forskrift-dept-kommunal--og-distriktsdepartementet.qmd
+    - book/forskrift-dept-kultur--og-likestillingsdepartementet.qmd
+    - book/forskrift-dept-kunnskapsdepartementet.qmd
+    - book/forskrift-dept-landbruks--og-matdepartementet.qmd
+    - book/forskrift-dept-nærings--og-fiskeridepartementet.qmd
+    - book/forskrift-dept-samferdselsdepartementet.qmd
+    - book/forskrift-dept-utenriksdepartementet.qmd
   - book/versjoner.qmd
   - book/sok.qmd
   - book/diff.qmd

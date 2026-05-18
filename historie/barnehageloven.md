@@ -858,6 +858,13 @@ refid: "lov/2005-06-17-64"
 > Barnehagen må ha tillatelse fra barnets foreldre for å utlevere personopplysninger om barnet til skolen.
 >
 
+### 2021-06-25 — forskrift/2021-06-25-2136
+
+*§ 2 a første ledd nytt tredje punktum skal lyde:*
+
+> Barnehagen må ha tillatelse fra barnets foreldre for å utlevere personopplysninger om barnet til skolen.
+>
+
 ## § 2 b
 
 ### 2021-06-11 — lov/2021-06-11-78
@@ -1214,9 +1221,31 @@ refid: "lov/2005-06-17-64"
 > Departementet kan gi forskrift om behandling av personopplysninger etter første og andre ledd, blant annet om formålet med behandlingen, behandlingsansvar, hvilke personopplysninger som kan behandles, hvem det kan behandles personopplysninger om, bruk av automatiserte avgjørelser, adgang til viderebehandling, utlevering og tilgang til personopplysninger.
 >
 
+### 2021-06-25 — forskrift/2021-06-25-2136
+
+*Ny § 47 a skal lyde:*
+
+> § 47 a.Kommuner, fylkeskommuner og private barnehagers behandling av personopplysninger
+>
+> Kommuner, fylkeskommuner og private barnehager kan behandle personopplysninger, herunder personopplysninger som nevnt i personvernforordningen artikkel 9 og 10, når det er nødvendig for å utføre oppgaver etter loven.
+>
+> Ved bytte av barnehage kan barnehagen levere ut personopplysninger, inkludert personopplysninger som nevnt i personvernforordningen artikkel 9 og 10, som er nødvendige for at den nye barnehagen kan gi barnet et tilbud i samsvar med loven, men bare så langt foreldrene har gitt tillatelse.
+>
+> Departementet kan gi forskrift om behandling av personopplysninger etter første og andre ledd, blant annet om formålet med behandlingen, behandlingsansvar, hvilke personopplysninger som kan behandles, hvem det kan behandles personopplysninger om, bruk av automatiserte avgjørelser, adgang til viderebehandling, utlevering og tilgang til personopplysninger.
+>
+
 ## § 48
 
 ### 2021-06-11 — lov/2021-06-11-80
+
+*§ 48 skal lyde:*
+
+> § 48.Plikt til å gi opplysninger om tjenestedata og regnskapsdata
+>
+> Kommunale barnehager skal rapportere til Utdanningsdirektoratet tjenestedata som er nødvendige for å vurdere tilstanden og utviklingen innenfor barnehagesektoren. Eier av private barnehager skal rapportere slike tjenestedata og regnskapsdata til kommunen og til Utdanningsdirektoratet. Tjenestedataene skal ikke inneholde direkte identifiserbare personopplysninger. Departementet kan gi forskrift om rapportering av tjenestedata og regnskapsdata, og om Utdanningsdirektoratets behandling av disse.
+>
+
+### 2021-06-25 — forskrift/2021-06-25-2136
 
 *§ 48 skal lyde:*
 
@@ -1266,6 +1295,13 @@ refid: "lov/2005-06-17-64"
 ## § 50
 
 ### 2021-06-11 — lov/2021-06-11-80
+
+*§ 50 første ledd skal lyde:*
+
+> Før et barn begynner i barnehage, skal det legges frem en erklæring om barnets helse til barnehagen slik at barnehagen kan legge forholdene til rette for barnet. Dersom barnet har møtt til ordinære undersøkelser på helsestasjon, kan slik erklæring gis av barnets foreldre.
+>
+
+### 2021-06-25 — forskrift/2021-06-25-2136
 
 *§ 50 første ledd skal lyde:*
 

@@ -5,7 +5,24 @@ refid: "lov/1982-12-17-86"
 
 # Endringshistorikk: Rettsgebyrloven
 
+## § 1-1
+
+### 2003-01-01 — forskrift/2002-10-11-1094
+
+*§ 1-1 første ledd skal lyde:*
+
+> Godtgjørelsen settes til kr 250 for hver dag eller del av dag som går med til møte på rettsstedet i saken for:Lagrettemedlem,Meddommer som tas av det alminnelige utvalg,Forliksrådsmedlem som gjør tjeneste i tingretten i sak som behandles etter lov av 28. november 1898 om Umyndiggjørelse.
+>
+
 ## (annet)
+
+### 2003-01-01 — forskrift/2002-10-11-1094
+
+*Overskriften til kapittel 1 skal lyde:*
+
+### 2003-01-01 — forskrift/2002-10-11-1094
+
+*Kapittel 1. Godtgjørelse til lagrettemedlemmer, meddommere, jordskiftemeddommere, skjønnsmenn, forliksrådsmedlemmer som gjør tjeneste i tingretten i saker som behandles etter lov av 28. november 1898 om Umyndiggjørelse, sakkyndige vitner ved sjøforklaring og rettsvitner.*
 
 ### 2004-12-10 — lov/2004-12-10-77
 

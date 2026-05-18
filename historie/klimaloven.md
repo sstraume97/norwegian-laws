@@ -31,9 +31,25 @@ refid: "lov/2017-06-16-60"
 > Målet skal være at klimagassutslippene i 2030 reduseres med minst 50 og opp mot 55 prosent fra utslippsnivået i referanseåret 1990.
 >
 
+### 2021-06-25 — forskrift/2021-06-25-2137
+
+*§ 3 skal lyde:*
+
+> § 3.Klimamål for 2030
+>
+> Målet skal være at klimagassutslippene i 2030 reduseres med minst 50 og opp mot 55 prosent fra utslippsnivået i referanseåret 1990.
+>
+
 ## § 4
 
 ### 2021-06-18 — lov/2021-06-18-129
+
+*§ 4 annet ledd første punktum skal lyde:*
+
+> Målet skal være at klimagassutslippene i 2050 reduseres i størrelsesorden 90 til 95 prosent fra utslippsnivået i referanseåret 1990.
+>
+
+### 2021-06-25 — forskrift/2021-06-25-2137
 
 *§ 4 annet ledd første punktum skal lyde:*
 

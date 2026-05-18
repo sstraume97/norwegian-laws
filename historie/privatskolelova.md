@@ -57,6 +57,13 @@ refid: "lov/2003-07-04-84"
 > Lova gjeld godkjenning med rett til statstilskot for frittståande grunnskolar og frittståande vidaregåande skolar, og vilkår for å få slikt tilskot.
 >
 
+### 2021-06-25 — forskrift/2021-06-25-2136
+
+*§ 1-2 tredje ledd skal lyde:*
+
+> Lova gjeld ikkje fjernundervisning og kjøp av opplæringstenester utanom fjernundervisning som det er tillate å gi i offentlege skolar. Departementet kan gi forskrift om rapportering og dokumentasjon ved bruk av fjernundervisning.
+>
+
 ### 2022-06-10 — lov/2022-06-10-39
 
 *§ 1-2 første ledd skal lyde:*
@@ -1444,6 +1451,17 @@ refid: "lov/2003-07-04-84"
 > Utdanningsdirektoratet kan behandle personopplysningar, inkludert personopplysningar som nemnde i personvernforordninga artikkel 9 og 10, så langt dette er nødvendig for å evaluere opplæringsverksemda som er omfatta av denne lova. Opplysningane kan også brukast som grunnlag for forsking, analyse og statistikk. Departementet kan gi forskrift om kva opplysningar Utdanningsdirektoratet kan behandle, og om behandlinga.
 >
 
+### 2021-06-25 — forskrift/2021-06-25-2136
+
+*Ny § 7-2c skal lyde:*
+
+> § 7-2c.Informasjonsinnhenting og evaluering
+>
+> Departementet kan gi forskrift som pålegg dei ansvarlege for opplæringsverksemda og dei som mottek opplæring, å gi opplysningar og delta i evalueringar og rapportere om forhold som er av betydning for evaluering av opplæringsverksemda.
+>
+> Utdanningsdirektoratet kan behandle personopplysningar, inkludert personopplysningar som nemnde i personvernforordninga artikkel 9 og 10, så langt dette er nødvendig for å evaluere opplæringsverksemda som er omfatta av denne lova. Opplysningane kan også brukast som grunnlag for forsking, analyse og statistikk. Departementet kan gi forskrift om kva opplysningar Utdanningsdirektoratet kan behandle, og om behandlinga.
+>
+
 ## § 7-2 c
 
 ### 2025-06-20 — lov/2025-06-20-98
@@ -1545,9 +1563,37 @@ refid: "lov/2003-07-04-84"
 > Departementet kan gi forskrift om behandlinga, mellom anna om formålet med behandlinga, behandlingsansvar, kva opplysningar som kan behandlast, kven det kan behandlast personopplysningar om, bruk av automatiserte avgjerder, vidarebehandling, utlevering og tilgang til personopplysningar.
 >
 
+### 2021-06-25 — forskrift/2021-06-25-2136
+
+*Ny § 7-9 skal lyde:*
+
+> § 7-9.Behandling av personopplysningar
+>
+> Skolar kan behandle personopplysningar, inkludert personopplysningar som nemnde i personvernforordninga artikkel 9 og 10, når det er nødvendig for å utføre oppgåver etter lova. Kommunar og fylkeskommunar kan behandle personopplysningar, inkludert personopplysningar som nemnde i personvernforordninga artikkel 9 og 10, når det er nødvendig for å utføre oppgåver etter lova.
+>
+> Ved skolebyte kan skolar hente inn personopplysningar frå andre skolar, inkludert personopplysningar som nemnde i personvernforordninga artikkel 9 og 10, som er nødvendige for å oppfylle retten til grunnopplæring og retten til dokumentasjon på opplæringa.
+>
+> Vidaregåande skolar kan hente inn personopplysningar frå grunnskolar, inkludert personopplysningar som nemnde i personvernforordninga artikkel 9 og 10, som er nødvendige for å oppfylle retten til vidaregåande opplæring, gjennomføre inntak til vidaregåande opplæring og førebygge fråvær i opplæringa.
+>
+> Ved skolebyte etter andre ledd og ved overgang til vidaregåande opplæring etter tredje ledd kan skolane også dele personopplysningar, inkludert personopplysningar som er nemnde i personvernforordninga artikkel 9 og 10, for å leggje til rette opplæringa til ein elev dersom eleven eller foreldra tillèt det.
+>
+> Utlevering av personopplysningar etter andre, tredje og fjerde ledd kan gjerast utan hinder av teieplikt.
+>
+> Departementet kan gi forskrift om behandlinga, mellom anna om formålet med behandlinga, behandlingsansvar, kva opplysningar som kan behandlast, kven det kan behandlast personopplysningar om, bruk av automatiserte avgjerder, vidarebehandling, utlevering og tilgang til personopplysningar.
+>
+
 ## § 7-10
 
 ### 2021-06-11 — lov/2021-06-11-80
+
+*Ny § 7-10 skal lyde:*
+
+> § 7-10.Plikt til å levere vitnemål frå vidaregåande opplæring til nasjonal database for vitnemål og dokumentasjon av kompetanse
+>
+> Skolar som tilbyr vidaregåande opplæring skal utan hinder av teieplikt levere resultat frå alle vitnemål og kompetansebevis frå vidaregåande opplæring til nasjonal database for vitnemål og dokumentasjon av kompetanse, jf. opplæringslova § 3-14. Departementet kan i forskrift fastsetje unntak frå denne plikta.
+>
+
+### 2021-06-25 — forskrift/2021-06-25-2136
 
 *Ny § 7-10 skal lyde:*
 
@@ -1824,6 +1870,10 @@ refid: "lov/2003-07-04-84"
 
 *I § 7-2 blir tredje ledd sletta. Noverande fjerde og femte ledd blir nye tredje og fjerde ledd.*
 
+### 2021-06-25 — forskrift/2021-06-25-2136
+
+*I § 7-2 blir tredje ledd sletta. Noverande fjerde og femte ledd blir nye tredje og fjerde ledd.*
+
 ### 2024-06-14 — lov/2024-06-14-34
 
 *Nåværende tredje og fjerde ledd blir fjerde og nytt femte ledd.*
@@ -1917,6 +1967,15 @@ refid: "lov/2003-07-04-84"
 > § 6A-7.Andre føresegner
 >
 > For skolar som er godkjende etter § 6A-1 gjeld§ 1-1 om formålet med lova§ 1-2 om verkeområdet§ 2-2 om krav til verksemda til skolen§ 2-4 om krav til skoleanlegg og skolemiljø§ 3-3 tredje ledd om skolegangen, jf. § 6A-6§ 3-4 om tilpassa opplæring og organisering av elevane i grupper, med unntak av tredje ledd§ 3-8 om helsetilsyn§ 3-9 om ordensreglement og liknande§ 3-11 om rådgiving§ 4-1 om leiing§ 5-1 om styret, med unntak av bokstavane a og c§ 5-2 om styret sine oppgåver, med unntak av bokstavane a og e§ 5-3 om elevråd, med unntak av første ledd første og andre punktum§ 7-1 om budsjett, rekneskap og rapportering§ 7-2 om tilsyn m.m.§ 7-2a om moglege reaksjonsformer§ 7-3 om teieplikt§ 7-4 om opplysningsplikt til barneverntenesta§ 7-5 om opplysningsplikt til sosialtenesta.
+>
+
+### 2021-06-25 — forskrift/2021-06-25-2136
+
+*§ 6A-7 skal lyde:*
+
+> § 6A-7.Andre føresegner
+>
+> Følgjande føresegner i denne lova gjeld så langt dei passar for skolar etter dette kapittelet:§ 1-2 om verkeområdet§ 2-2 om krav til verksemda til skolen, med unntak av tredje ledd. Dersom ein skole etter dette kapittelet har færre enn 10 elevar tre skoleår i samanheng, fell godkjenninga bort§ 2-4 om krav til skoleanlegg og skolemiljø§ 3-3 tredje ledd om skolegangen§ 3-4 om organisering av elevane i klassar eller basisgrupper§ 3-4a om tilpassa opplæring§ 3-9 om ordensreglement§ 3-15 om forbod mot bruk av klesplagg som heilt eller delvis dekkjer ansiktet§ 4-1 om leiing§ 5-1 om styret, med unntak av bokstavane a og c§ 5-2 om styret sine oppgåver, med unntak av bokstavane a og e§ 5-3 om elevråd, med unntak av første ledd første og andre punktum§ 7-1 om budsjett, rekneskap og rapportering§ 7-2 om tilsyn m.m.§ 7-2a om moglege reaksjonsformer, med unntak av fjerde ledd.§ 7-2b om karantene§ 7-3 om teieplikt§ 7-9 første og femte ledd om behandling av personopplysningar.
 >
 
 ### 2025-06-20 — lov/2025-06-20-98

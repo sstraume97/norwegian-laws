@@ -267,6 +267,19 @@ refid: "lov/1996-12-20-106"
 > Ved skjønn etter §§ 5 a, 15 og 37 skal talet på skjønnsmedlemer alltid vere to, både ved skjønn og overskjønn.
 >
 
+## § 5
+
+### 2003-01-01 — forskrift/2002-10-11-1094
+
+*§ 5 skal lyde:*
+
+> I tilhøve som nemnt i tomtefestelova § 36 femte leddet kan fylkesmannen avgjere kva som skal følgje med ved innløysinga, dersom ein part ber om det. Fylkesmannen kan heilt eller delvis overlate til retten å treffe avgjerd etter første punktum. Justisdepartementet er klageinstans for avgjerd som fylkesmannen har gjort.
+>
+> Innanfor dei vilkåra som i tilfelle er fastsette for innløysing i planområde, kan fylkesmannen eller retten ta alle avgjerder som er turvande for å halde oppe:grunndisponering som er fastsett i plan for område,skyldnader som festarane har vorte pålagde eller kan påleggjast til opparbeiding eller vedlikehald av fellesanlegg eller til gjennomføring av andre felles tiltak, ogrådevaldsband over tomtearealet som følgjer av det tidlegare rettshøvet.
+>
+> For fylkesmannens sakshandsaming før han treffer avgjerd etter første leddet første punktum eller overlet saka til retten etter første leddet andre punktum, gjeld § 3 andre leddet tilsvarande. Kommunen der området ligg skal varslast til skjønn som blir halde etter første leddet andre punktum og har rett til å møte. Einkvar som har festerett til tomt i planområdet, har rett til å møte, jamvel om han ikkje har kravd eller søkt om samtykke til innløysing.
+>
+
 ## § 5 a
 
 ### 2010-09-03 — lov/2010-09-03-54

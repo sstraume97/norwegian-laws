@@ -44,6 +44,24 @@ refid: "lov/1915-08-13-5"
 > § 262 nåværende tredje ledd blir annet ledd nytt tredje punktum.
 >
 
+## § 3-11
+
+### 2003-01-01 — forskrift/2002-10-11-1094
+
+*§ 3-11 annet ledd skal lyde:*
+
+> Advokatens revisor skal undersøke om det blir foretatt egen revisjon av separate regnskaper, og om det blir rapportert ved regnskapsavleggelse eller ved annen underretning til tingrett, kreditorutvalg, arvinger eller den som har oppnevnt spesiell revisor.
+>
+
+## § 4-8
+
+### 2003-01-01 — forskrift/2002-10-11-1094
+
+*§ 4-8 tredje ledd skal lyde:*
+
+> Hvis Tilsynsrådet etter avholdt bokettersyn i en advokats virksomhet blir kjent med forhold som kan gi grunnlag for administrative eller strafferettslige tiltak mot en advokat i tilknytning til hans oppdrag som bostyrer, kan vedkommende domstol underrettes.
+>
+
 ## § 4-9
 
 ### 2021-06-18 — lov/2021-06-18-122
@@ -291,6 +309,20 @@ refid: "lov/1915-08-13-5"
 ### 2001-06-15 — lov/2001-06-15-62
 
 *Gjeldende § 236 blir ny § 242.*
+
+### 2003-01-01 — forskrift/2002-10-11-1094
+
+*Overskriften til § 3 skal lyde:*
+
+> § 3.Tingrettene
+>
+
+### 2003-01-01 — forskrift/2002-10-11-1094
+
+*Overskriften til § 4 skal lyde:*
+
+> § 4.Rettsmøter utenfor hovedforhandling i straffesaker i tingretten
+>
 
 ### 2003-04-25 — lov/2003-04-25-24
 
@@ -998,6 +1030,20 @@ refid: "lov/1915-08-13-5"
 > For de domstoler som er nevnt under nr. 1-4, gjelder denne lov om ikke annet er bestemt. For Riksretten gjelder den ikke.
 >
 
+### 2003-01-01 — forskrift/2002-10-11-1094
+
+*§ 2 første ledd skal lyde:*
+
+> Forsikringen avgis muntlig i rettsmøte til tingretten. Høyesteretts stevnevitner avgir forsikring ved Oslo tingrett.
+>
+
+### 2003-01-01 — forskrift/2002-10-11-1094
+
+*§ 2 skal lyde:*
+
+> De alminnelige domstoler, jordskifterettene, forbrukertvistutvalget, påtalemyndigheten, namsmenn, lensmenn og fylkesmenn, jf. domstolloven § 163a annet ledd, advokater som forkynner vitnestevninger, jf. § 163a fjerde ledd, og norske utenriksstasjoner, jf. § 180 tredje ledd, omfattes av ordningen.
+>
+
 ## § 20
 
 ### 2001-06-15 — lov/2001-06-15-62
@@ -1362,6 +1408,13 @@ refid: "lov/1915-08-13-5"
 
 ## § 3
 
+### 2003-01-01 — forskrift/2002-10-11-1094
+
+*§ 3 annet ledd første punktum skal lyde:*
+
+> Journalen godkjennes av tingrettens formann som også har tilsyn med at den blir ført riktig.
+>
+
 ### 2018-12-20 — lov/2018-12-20-114
 
 *§ 3 annet ledd skal lyde:*
@@ -1436,6 +1489,13 @@ refid: "lov/1915-08-13-5"
 *§ 4 første punktum skal lyde:*
 
 > Når saksmengden gjør det påkrevd, kan Høyesterett etter bestemmelse av domstoladministrasjonen deles i flere avdelinger.
+>
+
+### 2003-01-01 — forskrift/2002-10-11-1094
+
+*§ 4 annet ledd annet punktum skal lyde:*
+
+> Utenfor hovedforhandling skal siktedes navn bare oppgis i saker som behandles etter straffeprosessloven § 248 (tilståelsesdom) og straffeloven § 54.
 >
 
 ### 2026-05-07 — lov/2026-05-07-17

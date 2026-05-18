@@ -168,3 +168,9 @@ refid: "lov/2022-03-11-9"
 >
 > § 13-13.Handelstiltak i krigstid eller ved annen internasjonal krisesituasjon
 >
+
+## (annet)
+
+### 2022-10-19 — forskrift/2022-10-19-1761
+
+*Finansdepartementets myndighet etter lov 11. mars 2022 nr. 9 om lov om inn- og utførsel av varer (vareførselsloven) til å gi forskrift, delegeres til Tolletaten. Delegeringen omfatter ikke myndighet etter lovens § 1-2 sjette ledd og kapittel 13 Handelstiltak.*

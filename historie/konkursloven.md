@@ -15,6 +15,31 @@ refid: "lov/1984-06-08-58"
 
 *Nåværende §§ 161 og 162 blir §§ 176 og 177 i fjerde del.*
 
+## § 1
+
+### 2003-01-01 — forskrift/2002-10-11-1094
+
+*§ 1 skal lyde:*
+
+> Når begjæring om tinglysing av melding om konkursåpning framsettes over telefon eller på annen enkel måte, skal også rettens navn, adresse og telefonnummer oppgis.
+>
+
+### 2003-01-01 — forskrift/2002-10-11-1094
+
+*§ 1 første ledd skal lyde:*
+
+> Det føres et register over sentrale opplysninger om bo tatt under behandling av retten som konkursbo etter lov om gjeldsforhandling og konkurs av 8. juni 1984 nr. 58 og om aksjeselskaper som tvangsavvikles etter konkurslovens regler.
+>
+
+## § 10
+
+### 2003-01-01 — forskrift/2002-10-11-1094
+
+*§ 10 første ledd skal lyde:*
+
+> Enhver kan ved henvendelse til Konkursregisteret få oppgitt følgende registrerte opplysninger:personer, foretak, stiftelser og andre sammenslutninger som er gått konkurs,aksjeselskaper som tvangsavvikles etter konkurslovens regler,foretakets nåværende og eventuelle tidligere firma og adresse siste år, stilling eller bransje, grunnlag for konkursen, rettens navn, dato for konkursåpning eller kjennelse om tvangsoppløsning, saksnummer, bostyrer, borevisor, tid og sted for første skiftesamling, frist for fordringsanmeldelser og fristdagen,stiftere, eiere, daglig leder, styreleder og revisor eller regnskapsfører,om daglig leder og styrelederen har lederansvar eller styreverv i andre foretak,om ilagt konkurskarantene,dato for avsluttet bobehandling og om bobehandlingen er innstilt og med hvilken hjemmel, om det er foretatt utlodning og med hvilken dividende.
+>
+
 ## § 109
 
 ### 2006-01-27 — lov/2006-01-27-4
@@ -375,6 +400,19 @@ refid: "lov/1984-06-08-58"
 > Føreren av Konkursregisteret skal tilby abonnementsordninger for opplysninger som etter loven her skal kunngjøres i Brønnøysundregistrenes elektroniske kunngjøringspublikasjon. Kongen kan i forskrift gi nærmere regler om ordningen, herunder om hvilke typer abonnement som skal tilbys, tekniske krav for å være abonnent og om finansiering. Kongen kan i forskrift også gi regler om at fordringshavere og offentlige myndigheter skal kunne abonnere på opplysninger fra elektroniske bosider hos Brønnøysundregistrene.
 >
 
+## § 2
+
+### 2003-01-01 — forskrift/2002-10-11-1094
+
+*§ 2 skal lyde:*
+
+> Sikkerheten bør i alminnelighet ikke være lavere enn verdien av aktiva i boet.
+>
+> Dersom boet inngår avtale med fordringshavere med panterett i eiendeler som tilhører boet om at inntektene ved forvaltning og salg av disse aktiva skal utbetales direkte til panthaver, kan retten samtykke i at sikkerheten settes lavere enn fastslått i første ledd. Det samme gjelder også ellers når retten finner det ubetenkelig.
+>
+> Dersom risikoen under bobehandlingen blir vesentlig minsket som følge av foreløpig utlodding eller annen reduksjon i verdien av boets aktiva, kan retten skriftlig samtykke i at sikkerheten reduseres. Retten kan kreve at sikkerheten økes dersom verdien av boets aktiva viser seg å være vesentlig større enn det som opprinnelig er lagt til grunn, eller forholdene ellers tilsier det.Endret ved rettelse 19. desember 2002. Se Norsk Lovtidend 18/2002.
+>
+
 ## § 24
 
 ### 2006-01-27 — lov/2006-01-27-4
@@ -393,6 +431,15 @@ refid: "lov/1984-06-08-58"
 > Dersom forslaget ved utløpet av fristen etter § 24 annet ledd ikke er blitt godtatt av alle disse fordringshavere, men heller ikke er blitt forkastet av noen av dem, kan gjeldsnemnda oppfordre de fordringshavere som ikke har svart, til innen to uker å melde fra om de godtar forslaget. Oppfordringen skal sendes i rekommandert brev eller ved bruk av elektronisk kommunikasjon hvor det er benyttet en betryggende metode for å sikre at meldingen er mottatt.
 >
 > Noverande andre og tredje punktum blir nye tredje og fjerde punktum.
+>
+
+## § 3
+
+### 2003-01-01 — forskrift/2002-10-11-1094
+
+*§ 3 første ledd nr. 1 første punktum skal lyde:*
+
+> Dersom konkursdebitor er registrert i Foretaksregisteret og ikke er et enkeltpersonforetak, registreres foretakets organisasjonsnummer, foretakets nåværende og eventuelle tidligere firma og adresse siste år, bransje, saksnummer for konkursboet, rettens navn og dato for kjennelse om konkursåpning.
 >
 
 ## § 35
@@ -422,6 +469,15 @@ refid: "lov/1984-06-08-58"
 > Dersom en anmeldt fordring helt eller delvis blir bestridt, skal gjeldsnemnda uten opphold underrette fordringshaveren og samtidig gjøre vedkommende oppmerksom på reglene i § 47 annet ledd. Underretningen skal sendes med rekommandert brev eller ved bruk av elektronisk kommunikasjon hvor det er benyttet en betryggende metode for å sikre at underretningen er mottatt.
 >
 
+## § 4
+
+### 2003-01-01 — forskrift/2002-10-11-1094
+
+*§ 4 skal lyde:*
+
+> Den rett som avsier kjennelse om konkursåpning, skal straks, fortrinnsvis pr. telefaks eller som elektronisk post, sende melding til Konkursregisteret med opplysninger som nevnt i § 3 nr. 1, 2 og 8, tidsangivelse og adresse for første skiftesamling, frist for fordringsanmeldelser og fristdagen.
+>
+
 ## § 40
 
 ### 2006-01-27 — lov/2006-01-27-4
@@ -429,6 +485,23 @@ refid: "lov/1984-06-08-58"
 *§ 40 femte ledd skal lyde:*
 
 > Dersom vedtakelsen eller tilbakekallingen er skjedd ved en representant som ikke har fremlagt betryggende legitimasjon for sin myndighet til å forplikte fordringshaveren, skal vedtakelsen eller tilbakekallingen godtas såfremt betryggende legitimasjon fremlegges innen den fastsatte avstemningsfrist eller på et eventuelt avstemningsmøte.
+>
+
+## § 5
+
+### 2003-01-01 — forskrift/2002-10-11-1094
+
+*§ 5 skal lyde:*
+
+> Dersom ny bostyrer blir oppnevnt, skal dette snarest meldes til Konkursregisteret.
+>
+> Retten skal snarest etter avsluttet bobehandling sende Konkursregisteret avsluttende kjennelse eller utlodning.
+>
+> Har retten avsagt kjennelse om konkurskarantene, skal denne straks sendes Konkursregisteret. Retten skal også gi melding dersom kjennelsen om konkurskarantene blir omgjort eller virkningen faller bort etter reglene i konkurslovens § 143 fjerde eller femte ledd.
+>
+> Dersom en kjennelse om konkursåpning eller konkurskarantene blir opphevet etter kjæremål, skal retten straks gi Konkursregisteret melding om dette.
+>
+> Likeledes skal melding straks gis dersom et kjæremål over kjennelse om konkurskarantene gis oppsettende virkning etter konkurslovens § 143 tredje ledd.
 >
 
 ## § 6
@@ -445,6 +518,15 @@ refid: "lov/1984-06-08-58"
 *§ 6 første ledd første punktum skal lyde:*
 
 > Når forhandling om frivillig gjeldsordning er åpnet, skal gjeldsnemnda, hvis ikke retten beslutter å gjøre det selv, uten opphold kunngjøre åpningen i Brønnøysundregistrenes elektroniske kunngjøringspublikasjon.
+>
+
+## § 7
+
+### 2003-01-01 — forskrift/2002-10-11-1094
+
+*§ 7 fjerde ledd skal lyde:*
+
+> Under bobehandling skal bostyrer sende et eksemplar av innberetninger til retten til Konkursregisteret.
 >
 
 ## § 78
@@ -558,6 +640,17 @@ refid: "lov/1984-06-08-58"
 *§ 85 nytt fjerde ledd skal lyde:*
 
 > Dersom konkursskyldneren er advokat eller en virksomhet som driver advokatvirksomhet, og det ikke er oppnevnt forvalter, kan bostyreren uhindret av advokatens taushetsplikt foreta undersøkelser av advokatens eller virksomhetens regnskap og annet materiale så langt det er nødvendig for å ivareta oppgaven som bostyrer. Er det oppnevnt forvalter etter advokatloven § 46, skal bostyreren henvende seg til forvalteren, som skal vurdere om vilkåret for å utlevere informasjon underlagt advokatens taushetsplikt, er oppfylt. Informasjon som nevnt i tvisteloven § 22-5 første ledd og straffeprosessloven § 119 første ledd skal ikke bringes videre til andre bo-organer.
+>
+
+## § 9
+
+### 2003-01-01 — forskrift/2002-10-11-1094
+
+*§ 9 annet og tredje ledd skal lyde:*
+
+> Unntatt fra regelen i første ledd er Oslo skifterett og byskriverembete, Bergen byfogdembete, Trondheim tingrett og Stavanger byfogdembete. Disse domstolene kan selv, i samråd med registerføreren, innrykke kunngjøring som nevnt i første ledd.
+>
+> Når særlige forhold tilsier det, kan registerføreren overlate kunngjøringsoppgaven også til andre førsteinstansdomstoler enn de som er nevnt i annet ledd.
 >
 
 ## § 93

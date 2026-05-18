@@ -11,6 +11,15 @@ refid: "lov/2004-11-19-73"
 
 *Nåværende § 13 femte ledd første punktum blir nytt annet punktum.*
 
+## § 1
+
+### 2004-12-20 — forskrift/2004-12-20-1684
+
+*§ 1 nytt tredje ledd skal lyde:*
+
+> For bokføringspliktige som følger bokføringsloven med tilhørende forskrifter i 2005, gjelder likevel bokføringsloven § 18 nr. 1 fra 1. januar 2005.
+>
+
 ## § 10
 
 ### 2012-06-22 — lov/2012-06-22-35

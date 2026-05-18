@@ -5,6 +5,171 @@ refid: "lov/1981-05-22-25"
 
 # Endringshistorikk: Straffeprosessloven – strpl
 
+## § 1-3
+
+### 2003-01-01 — forskrift/2002-10-11-1094
+
+*§ 1-3 første ledd skal lyde:*
+
+> Tjenestemenn i påtalemyndigheten har bare påtalemyndighet i det distrikt hvor de gjør tjeneste. De kan likevel også utenfor sitt distrikt begjære foretatt rettergangsskritt i anledning saken. I tilfelle kan begjæringen sendes direkte til vedkommende tingrett når det finnes hensiktsmessig. Det stedlige politikammer skal orienteres dersom saken gjelder tilståelsesdom.
+>
+
+## § 7-5
+
+### 2003-01-01 — forskrift/2002-10-11-1094
+
+*§ 7-5 femte ledd første punktum skal lyde:*
+
+> Dersom en offentlig tjenestemann i tjenestens medfør erfarer at det er begått en forseelse og mistenkte straks erkjenner forholdet, kan saken av påtalemyndigheten, jf. § 21-1, oversendes tingretten med begjæring om pådømmelse i henhold til tjenestemannens skriftlige innberetning, når mistenkte samtykker i dette.
+>
+
+## § 8-2
+
+### 2003-01-01 — forskrift/2002-10-11-1094
+
+*§ 8-2 sjuende ledd skal lyde:*
+
+> Innrømmer mistenkte å ha begått en handling som avhøret gjelder, skal han spørres om han erkjenner seg skyldig til straff. Har han gitt en uforbeholden tilståelse og saken antas å kunne pådømmes etter straffeprosessloven § 248 (tilståelsesdom), skal han gjøres oppmerksom på dette og hva tilståelsesdom innebærer, samt spørres om han samtykker i slik pådømmelse. Han skal også orienteres om at samtykke innebærer at eventuelle borgerlige rettskrav vil kunne bli pådømt av retten.
+>
+
+## § 8-3
+
+### 2003-01-01 — forskrift/2002-10-11-1094
+
+*§ 8-3 tredje ledd skal lyde:*
+
+> Dersom mistenkte samtykker i pådømmelse etter straffeprosessloven § 248 (tilståelsesdom), jf. § 8-2 sjuende ledd, skal også vergene spørres om de samtykker i slik pådømmelse.
+>
+
+## § 14-4
+
+### 2003-01-01 — forskrift/2002-10-11-1094
+
+*§ 14-4 skal lyde:*
+
+> Dersom politiet i en forbrytelsessak som ikke er nevnt i § 22-2 annet ledd første punktum mener saken bør kunne avgjøres ved tilståelsesdom, skal det avvente resultatet av personundersøkelsen før saken sendes statsadvokaten med mindre sakens avgjørelse ellers ville bli forsinket i urimelig grad.
+>
+
+## § 15-1
+
+### 2003-01-01 — forskrift/2002-10-11-1094
+
+*§ 15-1 første ledd skal lyde:*
+
+> Når vilkårene antas å være til stede for tilståelsesdom, bør saken sendes tingretten med begjæring om rettslig avhør av siktede og mulig pådømmelse.
+>
+
+### 2003-01-01 — forskrift/2002-10-11-1094
+
+*§ 15-1 annet ledd tredje punktum skal lyde:*
+
+> Rettslig avhør av siktede bør normalt begjæres når det er grunn til å anta at saken kan pådømmes i tingretten etter reglene i straffeprosessloven § 6 annet ledd nr. 1.
+>
+
+## § 15-4
+
+### 2003-01-01 — forskrift/2002-10-11-1094
+
+*§ 15-4 skal lyde:*
+
+> Påtalemyndigheten skal møte ved rettsmøte til behandling av spørsmålet om fengsling, med mindre særlige forhold gjør det upåkrevd.
+>
+> Også ved andre rettsmøter i tingretten utenfor hovedforhandling bør påtalemyndigheten som regel møte. Blir rettsmøte holdt med sikte på tilståelsesdom, jf. straffeprosessloven § 248, gjelder dette likevel bare når det foreligger særlig grunn til at påtalemyndigheten bør møte.
+>
+> Vedkommende tjenestemann innen påtalemyndigheten avgjør om han selv skal møte eller om dette skal overlates en underordnet tjenestemann. I enklere saker kan det overlates til en polititjenestemann som ikke hører til påtalemyndigheten, å møte i rettsmøter i tingretten utenfor hovedforhandling på vegne av påtalemyndigheten. Dette bør dog ikke gjøres i saker hvor siktede møter med forsvarer eller hvor det kan bli spørsmål om ubetinget frihetsstraff i sak som fremmes etter straffeprosessloven § 248.
+>
+
+## § 20-8
+
+### 2003-01-01 — forskrift/2002-10-11-1094
+
+*§ 20-8 første ledd annet punktum skal lyde:*
+
+> Dersom forelegget ikke vedtas fordi siktede er uenig i botens størrelse, bør saken om mulig sendes tingretten til pådømmelse etter reglene i straffeprosessloven § 248.
+>
+
+## § 21-1
+
+### 2003-01-01 — forskrift/2002-10-11-1094
+
+*§ 21-1 skal lyde:*
+
+> § 21-1.Kompetanse til å begjære en sak pådømt etter straffeprosessloven § 248 (tilståelsesdom)
+>
+> I sak om forseelse avgjør politiet om saken skal begjæres pådømt etter straffeprosessloven § 248 (tilståelsesdom), hvis ikke tiltalespørsmålet hører under Kongen. Ved overtredelse av straffeloven § 324 til § 327 eller § 330 skal saken likevel forelegges statsadvokaten til avgjørelse etter reglene i fjerde ledd. Det samme gjelder når saken antas å ha særlig stor allmenn interesse eller når overordnet påtalemyndighet ellers har bestemt det.
+>
+> I forbrytelsessaker som nevnt i § 22-2 annet ledd første punktum avgjør politiet om saken skal begjæres pådømt etter straffeprosessloven § 248 (tilståelsesdom), hvis ikke tiltalespørsmålet hører under Kongen. Saken skal likevel forelegges statsadvokaten til avgjørelse etter fjerde ledd, når saken antas å ha særlig stor allmenn interesse eller når overordnet påtalemyndighet ellers har bestemt det.
+>
+> I forbrytelsessaker som ikke er nevnt i § 22-2 annet ledd første punktum avgjør statsadvokaten om saken skal begjæres pådømt etter straffeprosessloven § 248 (tilståelsesdom), med mindre tiltalespørsmålet hører under riksadvokaten eller Kongen. Har en sak særlig stor allmenn interesse, skal den forelegges for riksadvokaten.
+>
+> Mener politiet at en forbrytelsessak som ikke er nevnt i § 22-2 bør avgjøres ved tilståelsesdom, skal saken forelegges statsadvokaten med utferdiget siktelse. Dersom straffeloven § 54 nr. 3 eller § 64 annet ledd eller fengselsloven § 41 kommer til anvendelse, skal kopi av den tidligere dommen vedlegges. I innstillingen skal politiet gi uttalelse om forhold som nevnt i § 21-2. I saker hvor siktede er fengslet må politiet når saken sendes statsadvokaten, sørge for å ta de nødvendige kopier til bruk ved eventuell forlengelse av fengslingen.
+>
+> Bestemmelsene i fjerde ledd gjelder tilsvarende når statsadvokaten eller riksadvokaten avgir innstilling til henholdsvis riksadvokaten eller Kongen.
+>
+
+## § 21-2
+
+### 2003-01-01 — forskrift/2002-10-11-1094
+
+*§ 21-2 første ledd første punktum skal lyde:*
+
+> Den som treffer beslutning om å oversende saken til pådømmelse etter reglene i straffeprosessloven § 248 (tilståelsesdom), skal til rettledning for retten som regel uttale seg om hva han mener er passende straff for handlingen og om de vilkår som i tilfelle bør settes for betinget dom.
+>
+
+## § 23-1
+
+### 2003-01-01 — forskrift/2002-10-11-1094
+
+*§ 23-1 annet ledd skal lyde:*
+
+> En sak må ikke begjæres pådømt etter straffeprosessloven § 248 (tilståelsesdom) dersom påtalemyndigheten vil påstå sikring.
+>
+
+## § 24-1
+
+### 2003-01-01 — forskrift/2002-10-11-1094
+
+*§ 24-1 tredje ledd første punktum skal lyde:*
+
+> Saker om forseelse ved tingretten skal som regel føres av politiets tjenestemenn som hører til påtalemyndigheten.
+>
+
+## § 27-1
+
+### 2003-01-01 — forskrift/2002-10-11-1094
+
+*§ 27-1 fjerde ledd skal lyde:*
+
+> Bestemmelsene i denne paragrafen gjelder tilsvarende når saken er avgjort ved tilståelsesdom eller fremmet på grunnlag av et ikke-vedtatt forelegg.
+>
+
+## § 29-9
+
+### 2003-01-01 — forskrift/2002-10-11-1094
+
+*§ 29-9 første ledd tredje punktum skal lyde:*
+
+> Saken sendes tingretten på domfeltes oppholdssted.
+>
+
+## § 30-12
+
+### 2003-01-01 — forskrift/2002-10-11-1094
+
+*§ 30-12 tredje ledd første punktum skal lyde:*
+
+> Ved utleggstrekk kan skyldneren eller arbeidsgiveren (kassereren) klage til tingretten over pålegget i medhold av tvangsfullbyrdelsesloven § 5-16 jf. § 7-26.
+>
+
+## § 34-10
+
+### 2003-01-01 — forskrift/2002-10-11-1094
+
+*§ 34-10 skal lyde:*
+
+> I saker for tingretten avgjør statsadvokaten om aktoratet skal utføres av ham selv, en hjelpestatsadvokat, en statsadvokatfullmektig eller en advokat som er antatt til å føre slike saker. Det samme gjelder i saker som er begjært pådømt etter reglene i straffeprosessloven § 248 (tilståelsesdom) når det foreligger særlige grunn til at påtalemyndigheten bør møte.
+>
+
 ## (annet)
 
 ### 2001-06-15 — lov/2001-06-15-63
@@ -49,6 +214,14 @@ refid: "lov/1981-05-22-25"
 >
 > Om dokumentinnsyn gjelder §§ 28, 242 og 264 tilsvarende. Kommisjonen kan unnta fra innsyn dokumenter som den selv har utarbeidet for sin interne saksforberedelse.
 >
+
+### 2003-01-01 — forskrift/2002-10-11-1094
+
+*Overskriften til kapittel 21 skal lyde:*
+
+### 2003-01-01 — forskrift/2002-10-11-1094
+
+*Kap. 21. Tilståelsesdom*
 
 ### 2003-01-10 — lov/2003-01-10-3
 
@@ -422,6 +595,124 @@ refid: "lov/1981-05-22-25"
 *2.I lov 22. mai 1981 nr. 25 om rettergangsmåten i straffesaker skal § 67 andre ledd bokstav c lyde:*
 
 > overtredelse av militær straffelov § 34 annet ledd annet straffalternativ, jf. tredje ledd, vareførselsloven § 12-9, skatteforvaltningsloven §§ 14-12 og 14-13, utlendingsloven § 108 tredje ledd, jf. sjette ledd, regnskapsloven § 8-5 første ledd første og tredje punktum, jf. tredje ledd første punktum, bokføringsloven § 15 første ledd første og tredje punktum, jf. tredje ledd første punktum, alkoholloven § 10-1 annet ledd, arbeidsmiljøloven § 19-1 annet ledd, allmenngjøringsloven § 15, kystvaktloven § 36 annet ledd, viltressursloven § 60, forurensningsloven § 78 første ledd og § 79 tredje ledd, produktkontrolloven § 12 første ledd, svalbardmiljøloven § 99 første ledd første punktum og transplantasjonslova § 23a.
+>
+
+## § 1
+
+### 2003-01-01 — forskrift/2002-10-11-1094
+
+*§ 1 skal lyde:*
+
+> I krigstid behandles saker om overtredelse av militær straffelov ved følgende tingretter:
+>
+> Oslo tingrett, Eidsvoll tingrett, Sarpsborg tingrett, Sør-Østerdal tingrett, Sør-Gudbrandsdal tingrett, Kongsberg tingrett, Skien og Porsgrunn tingrett, Tønsberg tingrett, Nedenes tingrett, Kristiansand tingrett, Stavanger tingrett, Bergen tingrett, Sunnfjord tingrett, Romsdal tingrett, Trondheim tingrett, Inderøy tingrett, Alstahaug tingrett, Salten tingrett, Ofoten tingrett, Trondenes tingrett, Nord-Troms tingrett, Senja tingrett, Hammerfest tingrett og Tana og Varanger tingrett.
+>
+> Domstollederen i kollegiale domstoler kan velge ut en eller flere dommere til å behandle sakene.
+>
+> Stedlig virkekrets for tingrettene fastsettes av departementet.
+>
+
+### 2003-01-01 — forskrift/2002-10-11-1094
+
+*§ 1 skal lyde:*
+
+> Militære straffesaker behandles i krigstid ved følgende domstoler som førsteinstans, som i disse saker har stedlig virkekrets som angitt:
+>
+> Oslo tingrett
+>
+> Virkekretsen dekker Oslo kommune og kommunene Asker, Bærum, Enebakk, Oppegård, Ski, Ås, Vestby, Frogn og Nesodden i Akershus fylke.
+>
+> Eidsvoll tingrett
+>
+> Virkekretsen dekker kommunene Eidsvoll, Hurdal, Nannestad, Ullensaker, Fet, Gjerdrum, Lørenskog, Nittedal, Rælingen, Skedsmo, Aurskog-Høland, Nes og Sørum i Akershus fylke.
+>
+> Sarpsborg tingrett
+>
+> Stedlig virkekrets omfatter alle kommunene i Østfold fylke (Fredrikstad, Hvaler, Hobøl, Moss, Rygge, Råde, Våler, Sarpsborg, Skiptvedt, Rakkestad, Aremark, Halden, Askim, Eidsberg, Marker, Rømskog, Spydeberg og Trøgstad).
+>
+> Sør-Østerdal tingrett
+>
+> Stedlig virkekrets omfatter alle kommunene i Hedmark fylke (Hamar, Løten, Ringsaker, Stange, Alvdal, Engerdal, Folldal, Rendalen, Stor-Elvdal, Tolga, Os, Tynset, Grue, Våler, Åsnes, Elverum, Trysil, Åmot, Eidskog, Kongsvinger, Nord-Odal og Sør-Odal).
+>
+> Sør-Gudbrandsdal tingrett
+>
+> Stedlig virkekrets omfatter alle kommunene i Oppland fylke (Gran, Jevnaker, Lunner, Nordre Land, Søndre Land, Dovre, Lesja, Lom, Nord-Fron, Sel, Skjåk, Vågå, Gausdal, Lillehammer, Ringebu, Sør-Fron, Øyer, Gjøvik, Vestre Toten, Østre Toten, Etnedal, Nord-Aurdal, Sør-Aurdal, Vang, Vestre Slidre og Øystre Slidre).
+>
+> Kongsberg tingrett
+>
+> Stedlig virkekrets omfatter alle kommunene i Buskerud fylke (Drammen, Krødsherad, Modum, Nedre Eiker, Sigdal, Øvre Eiker, Flå, Gol, Hemsedal, Hol, Hole, Hurum, Lier, Nes, Ål, Flesberg, Kongsberg, Nore og Uvdal, Ringerike, Rollag og Røyken) samt kommunene Hjartdal, Notodden, Tinn, Bø, Nome, Sauherad og Seljord i Telemark fylke.
+>
+> Skien og Porsgrunn tingrett
+>
+> Virkekretsen omfatter kommunene Bamble, Porsgrunn, Skien, Siljan, Drangedal og Kragerø i Telemark fylke.
+>
+> Tønsberg tingrett
+>
+> Stedlig virkekrets omfatter alle kommunene i Vestfold fylke (Andebu, Nøtterøy, Stokke, Tjøme, Tønsberg, Hof, Holmestrand, Sande, Svelvik, Borre, Ramnes, Våle, Lardal, Larvik og Sandefjord).
+>
+> Nedenes tingrett
+>
+> Stedlig virkekrets omfatter kommunene Gjerstad, Risør, Tvedestrand, Vegårshei, Arendal, Froland, Åmli, Birkenes, Grimstad og Lillesand i Aust-Agder fylke samt kommunene Fyresdal, Kviteseid, Nissedal, Tokke og Vinje i Telemark fylke.
+>
+> Kristiansand tingrett
+>
+> Stedlig virkekrets omfatter alle kommunene i Vest-Agder fylke (Kristiansand, Songdalen, Søgne, Flekkefjord, Kvinesdal, Sirdal, Farsund, Hægebostad, Lyngdal, Audnedal, Lindesnes, Mandal, Marnardal, Vennesla og Åseral) samt kommunene Bygland, Bykle, Evje og Hornnes, Iveland og Valle i Aust-Agder fylke.
+>
+> Stavanger tingrett
+>
+> Stedlig virkekrets omfatter alle kommunene i Rogaland fylke (Stavanger, Bjerkreim, Eigersund, Lund, Sokndal, Haugesund, Hå, Klepp, Sola, Time, Bokn, Karmøy, Tysvær, Utsira, Vindafjord, Finnøy, Forsand, Hjelmeland, Kvitsøy, Randaberg, Rennesøy, Sauda, Strand, Suldal, Gjesdal og Sandnes).
+>
+> Bergen tingrett
+>
+> Stedlig virkekrets omfatter alle kommunene i Hordaland fylke (Bergen, Eidfjord, Jondal, Kvam, Odda, Ullensvang, Askøy, Austevoll, Fjell, Fusa, Os, Samnanger, Sund, Austrheim, Fedje, Lindås, Masfjorden, Meland, Modalen, Osterøy, Radøy, Vaksdal, Øygarden, Bømlo, Etne, Fitjar, Kvinnherad, Stord, Sveio, Tysnes, Ølen, Granvin, Ulvik og Voss).
+>
+> Sunnfjord tingrett
+>
+> Stedlig virkekrets omfatter alle kommunene i Sogn og Fjordane fylke (Aurland, Luster, Lærdal, Sogndal, Årdal, Eid, Gloppen, Hornindal, Selje, Stryn, Vågsøy, Askvoll, Bremanger, Fjaler, Flora, Førde, Gaular, Jølster, Naustdal, Balestrand, Gulen, Hyllestad, Høyanger, Leikanger, Solund og Vik).
+>
+> Romsdal tingrett
+>
+> Stedlig virkekrets omfatter alle kommunene i Møre og Romsdal fylke (Aure, Averøy, Eide, Frei, Gjemnes, Halsa, Kristiansund, Rindal, Smøla, Sunndal, Surnadal, Tingvoll, Tustna, Aukra, Fræna, Midsund, Molde, Nesset, Rauma, Sandøy, Vestnes, Giske, Haram, Hareid, Norddal, Skodje, Stordal, Stranda, Sula, Sykkylven, Ulstein, Ørskog, Ålesund, Herøy, Sande, Vanylven, Volda og Ørsta).
+>
+> Trondheim tingrett
+>
+> Stedlig virkekrets omfatter alle kommunene i Sør-Trøndelag fylke (Trondheim, Bjugn, Frøya, Hitra, Osen, Roan, Ørland, Åfjord, Holtålen, Melhus, Midtre Gauldal, Røros, Klæbu, Malvik, Rissa, Selbu, Skaun, Tydal, Agdenes, Hemne, Meldal, Oppdal, Orkdal, Rennebu og Snillfjord).
+>
+> Inderøy tingrett
+>
+> Stedlig virkekrets omfatter alle kommunene i Nord-Trøndelag fylke (Inderøy, Mosvik, Namdalseid, Snåsa, Steinkjer, Verran, Flatanger, Fosnes, Grong, Høylandet, Leka, Lierne, Namsskogan, Namsos, Nærøy, Overhalla, Røyrvik, Vikna, Frosta, Leksvik, Levanger, Meråker, Stjørdal og Verdal).
+>
+> Alstahaug tingrett
+>
+> Virkekretsen dekker kommunene Alstahaug, Dønna, Grane, Hattfjelldal, Herøy, Leirfjord, Vefsn, Bindal, Brønnøy, Sømna, Vega, Vevelstad, Hemnes, Lurøy, Nesna, Rana og Træna i Nordland fylke.
+>
+> Salten tingrett
+>
+> Virkekretsen dekker kommunene Beiarn, Bodø, Fauske, Gildeskål, Meløy, Rødøy, Saltdal, Skjerstad, Steigen og Sørfold i Nordland fylke.
+>
+> Ofoten tingrett
+>
+> Virkekretsen dekker kommunene Ballangen, Evenes, Hamarøy, Lødingen, Narvik, Tjeldsund og Tysfjord i Nordland fylke samt kommunene Gratangen, Lavangen og Salangen i Troms fylke.
+>
+> Trondenes tingrett
+>
+> Virkekretsen dekker kommunene Flakstad, Moskenes, Røst, Vestvågøy, Værøy, Vågan, Andøy, Bø, Hadsel, Sortland og Øksnes i Nordland fylke samt kommunene Bjarkøy, Harstad, Ibestad, Kvæfjord og Skånland i Troms fylke.
+>
+> Nord-Troms tingrett
+>
+> Virkekretsen dekker kommunene Balsfjord, Karlsøy, Kvænangen, Gáivuotna-Kåfjord, Lyngen, Nordreisa, Skjervøy, Storfjord og Tromsø i Troms fylke.
+>
+> Senja tingrett
+>
+> Virkekretsen dekker kommunene Bardu, Berg, Dyrøy, Lenvik, Målselv, Sørreisa, Torsken og Tranøy i Troms fylke.
+>
+> Hammerfest tingrett
+>
+> Virkekretsen dekker kommunene Hammerfest, Hasvik, Kvalsund, Måsøy, Nordkapp, Porsanger, Alta, Guovdageaidnu-Kautokeino og Loppa i Finnmark fylke.
+>
+> Tana og Varanger tingrett
+>
+> Virkekretsen dekker kommunene Karášjohka-Karasjok, Unjárga-Nesseby, Sør-Varanger, Deatnu-Tana, Vadsø, Berlevåg, Båtsfjord, Gamvik, Lebesby og Vardø i Finnmark fylke.
 >
 
 ## § 100
@@ -1282,6 +1573,13 @@ refid: "lov/1981-05-22-25"
 >
 
 ## § 2
+
+### 2003-01-01 — forskrift/2002-10-11-1094
+
+*§ 2 annet ledd skal lyde:*
+
+> Forskriften kommer også til anvendelse i straffesaker som behandles av tingretten etter reglene i straffeprosessloven kapittel 22, og i straffesaker som behandles av lagmannsretten etter reglene i straffeprosessloven kapittel 23 og kapittel 24.
+>
 
 ### 2003-07-04 — lov/2003-07-04-77
 
@@ -2187,6 +2485,13 @@ refid: "lov/1981-05-22-25"
 
 ## § 23
 
+### 2003-01-01 — forskrift/2002-10-11-1094
+
+*§ 23 tredje ledd annet punktum skal lyde:*
+
+> Hvis underretning til den mistenkte skal unnlates av grunner som er nevnt i straffeprosessloven § 216j tredje ledd, må politiet sørge for at tingrettens kjennelse forelegges kontrollutvalget innen den frist kontrollutvalget har satt.
+>
+
 ### 2018-06-22 — lov/2018-06-22-79
 
 *§ 23 skal lyde:*
@@ -2409,6 +2714,22 @@ refid: "lov/1981-05-22-25"
 > Dersom politiet tar tilrettelagte avhør i andre saker, bør avhørene tas ved barnehus. Ved vurderingen skal det legges vekt på hensynet til vitnet og sakens opplysning.
 >
 > Kongen kan gi nærmere regler om bruk av barnehus ved tilrettelagte avhør.
+>
+
+## § 24
+
+### 2003-01-01 — forskrift/2002-10-11-1094
+
+*§ 24 tredje ledd sjette punktum skal lyde:*
+
+> Tingretten kan ved kjennelse bestemme at underretning skal unnlates eller utsettes i et nærmere fastsatt tidsrom dersom det vil være til skade for etterforskningen at underretning gis, eller andre forhold taler for at underretning bør unnlates eller utsettes.
+>
+
+### 2003-01-01 — forskrift/2002-10-11-1094
+
+*§ 24 femte ledd skal lyde:*
+
+> Selv om det har vært foretatt kommunikasjonskontroll, og det er den mistenkte som begjærer underretning om dette, kan det ikke opplyses at kontroll har vært foretatt hvis:saken gjelder overtredelse av straffeloven kapittel 8 eller 9,retten finner at underretning kan være til skade for etterforskningen av saken, ellerretten finner at andre forhold taler for at underretning bør unnlates eller utsettes.
 >
 
 ## § 242
@@ -3842,6 +4163,15 @@ refid: "lov/1981-05-22-25"
 > Fem medlemmer hvorav tre med juridisk embetseksamen eller mastergrad i rettsvitenskap avgjør om begjæringen skal tas til følge.
 >
 
+## § 4
+
+### 2003-01-01 — forskrift/2002-10-11-1094
+
+*§ 4 annet ledd annet punktum skal lyde:*
+
+> Det samme gjelder når opptak av en tilståelse skal brukes som grunnlag for tilståelsesdom.
+>
+
 ## § 40
 
 ### 2010-12-10 — lov/2010-12-10-76
@@ -4478,6 +4808,13 @@ refid: "lov/1981-05-22-25"
 
 *§ 5 annet ledd oppheves.*
 
+### 2003-01-01 — forskrift/2002-10-11-1094
+
+*§ 5 første ledd skal lyde:*
+
+> Bistand i straffesak for tingrett og for lagmannsrett betales med 6 ganger den offentlige salærsats dersom hovedforhandlingen ikke overstiger 2 timer og med 8 ganger den offentlige salærsats dersom hovedforhandlingen ikke overstiger 3,5 timer. For hovedforhandling som overstiger 3,5 timer betales 2,25 ganger den offentlige salærsats for hver time som medgår under hovedforhandling for tingretten, og 2,50 ganger den offentlige salærsats for hver time som medgår under ankeforhandlingen for lagmannsretten.
+>
+
 ## § 52
 
 ### 2013-06-21 — lov/2013-06-21-86
@@ -4675,6 +5012,15 @@ refid: "lov/1981-05-22-25"
 *§ 59 a første ledd nr. 5 skal lyde:*
 
 > beslutning om overføring til konfliktrådet etter § 71 a,
+>
+
+## § 6
+
+### 2003-01-01 — forskrift/2002-10-11-1094
+
+*§ 6 første ledd skal lyde:*
+
+> Under hovedforhandling i tingrett og i lagmannsrett kan lydopptak av forhandlinger foretas når retten finner grunn til det.
 >
 
 ## § 61 c

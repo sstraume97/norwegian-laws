@@ -2091,6 +2091,10 @@ refid: "lov/2009-06-19-58"
 > Skatteloven § 13-2 får tilsvarende anvendelse for merverdiavgift.
 >
 
+### 2022-10-27 — forskrift/2022-10-27-1802
+
+*Finansdepartementets myndighet etter lov 19. juni 2009 nr. 58 om merverdiavgift (merverdiavgiftsloven) kapittel 7 Varer som det ikke skal beregnes merverdiavgift av ved innførsel, delegeres til Skattedirektoratet.*
+
 ### 2026-01-01 — lov/2025-12-22-121
 
 *Nåværende § 3-30 tredje ledd blir nytt fjerde ledd.*

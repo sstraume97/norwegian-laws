@@ -752,6 +752,13 @@ refid: "lov/1994-06-24-39"
 
 ## § 15
 
+### 2005-11-08 — forskrift/2005-11-08-1415
+
+*§ 15 sjette ledd bokstav f skal lyde:*
+
+> opplysning om skipets arbeidsspråk. Arbeidsspråket fastsettes av rederiet eller fører med mindre noe annet følger av andre bestemmelser. Hvis arbeidsspråket ikke er det språk, under hvis flagg skipet er registrert, skal alle planer og lister, som er oppslått, være oversatt til arbeidsspråket.
+>
+
 ### 2016-06-17 — lov/2016-06-17-71
 
 *§ 15 første ledd skal lyde:*
@@ -771,6 +778,13 @@ refid: "lov/1994-06-24-39"
 >
 
 ## § 16
+
+### 2003-01-01 — forskrift/2002-10-11-1094
+
+*§ 16 første ledd annet punktum skal lyde:*
+
+> Avgjørelser som nevnt i tvistemålsloven § 207 første ledd annet punktum, § 208 annet ledd og § 209 annet ledd, jf. § 209 tredje ledd tredje punktum, treffes av tingretten.
+>
 
 ### 2023-12-20 — lov/2023-12-20-115
 

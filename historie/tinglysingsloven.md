@@ -196,6 +196,13 @@ refid: "lov/1935-06-07-2"
 
 ## § 21
 
+### 2003-01-01 — forskrift/2002-10-11-1094
+
+*§ 21 annet ledd annet punktum skal lyde:*
+
+> Kopi av gjeldsordningsavtale kan kun rekvireres av namsmyndighetene, skyldner og hans ektefelle, kreditorer, andre parter og offentlig myndighet.
+>
+
 ### 2014-06-20 — lov/2014-06-20-45
 
 *§ 21 første ledd skal lyde:*

@@ -5,6 +5,15 @@ refid: "lov/1992-06-26-86"
 
 # Endringshistorikk: Tvangsfullbyrdelsesloven – tvangsloven
 
+## § 1-1
+
+### 2003-01-01 — forskrift/2002-10-11-1094
+
+*§ 1-1 annet ledd skal lyde:*
+
+> Kapittel 2 og 3 gjelder ikke for namsmann som er oppnevnt av retten som medhjelper ved tvangssalg av realregistrerte formuesgoder eller adkomstdokumenter til leierett til bolig.
+>
+
 ## § 1-2
 
 ### 2012-05-25 — lov/2012-05-25-28
@@ -130,6 +139,15 @@ refid: "lov/1992-06-26-86"
 > § 2-17.Frister
 >
 > § 2-7 gjelder tilsvarende for Statens innkrevingssentrals tvangsfullbyrdelse.
+>
+
+## § 3-3
+
+### 2003-01-01 — forskrift/2002-10-11-1094
+
+*§ 3-3 annet ledd skal lyde:*
+
+> Dersom kjøpesummen kan antas å overstige kr 3.000.000, kan første ledd fravikes ved avtale mellom retten og medhjelperen inntil utkastet til fordelingskjennelse er forelagt for rettighetshaverne.
 >
 
 ## § 3-4
@@ -1011,4 +1029,51 @@ refid: "lov/1992-06-26-86"
 > Fra den tid Kongen bestemmer, gjøres følgende endringer i lov 26. juni 1992 nr. 86 om tvangsfullbyrdelse: § 2-14 ny bokstav f skal lyde:
 >
 > besøksbidrag og tvangsmulkt etter besøksbidragsloven.
+>
+
+## § 1
+
+### 2003-01-01 — forskrift/2002-10-11-1094
+
+*§ 1 skal lyde:*
+
+> Namsmyndighetene kan overlate utførelsen av sine gjøremål etter tvangsfullbyrdelsesloven til sine funksjonærer. Som funksjonærer regnes ved lensmanns- og underfogdkontorene alle ansatte unntatt lensmannen og underfogden, og ved domstolene alle ansatte unntatt dommere og dommerfullmektiger.
+>
+
+### 2003-01-01 — forskrift/2002-10-11-1094
+
+*§ 1 første ledd skal lyde:*
+
+> For at et gjeldsbrev skal være tvangsgrunnlag etter tvangsfullbyrdelsesloven av 26. juni 1992 nr. 86 § 7-2 bokstav a, må skyldnerens underskrift være bekreftet av to myndige vitner eller av:dommer (herunder forliksrådsmedlemmer, dommerfullmektiger og jordskiftedommere),lensmann eller lensmannsbetjent,namsmann eller namsmannsfullmektig godtatt av retten,advokat eller autorisert advokatfullmektig,statsautorisert eller registrert revisor,autorisert eiendomsmekler,inkassobevillingshaver som er i tjeneste hos en inkassatornorsk eller utenlandsk notarius publicus.
+>
+
+## § 3
+
+### 2003-01-01 — forskrift/2002-10-11-1094
+
+*§ 3 skal lyde:*
+
+> § 3.Begrensninger for retten
+>
+> Foruten å avsi dommer og kjennelser og å treffe beslutning om tvangssalg etter § 11-9, jf. § 12-5, kan retten ikke overlate til funksjonærer å holde auksjon over realregistrerte formuesgoder eller adkomstdokumenter til leierett til bolig.
+>
+
+## § 4
+
+### 2003-01-01 — forskrift/2002-10-11-1094
+
+*§ 4 skal lyde:*
+
+> § 4.Tingretter med namsmannsmyndighet
+>
+> I følgende kommuner ligger namsmannsmyndigheten hos namsmannsavdelingen ved tingretten:Oslo (Oslo byfogdembete)Drammen (Drammen tingrett)Skien kommune og Porsgrunn kommune (Skien og Porsgrunn tingrett)Grimstad (Sand tingrett)Kristiansand (Kristiansand tingrett)Mandal (Mandal tingrett)Stavanger (Stavanger byfogdembete)Bergen (Bergen byfogdembete), unntatt i Fana, Laksevåg, Åsane og Arna lensmannsdistrikterTrondheim (Trondheim tingrett).
+>
+> Der namsmannsmyndigheten er lagt til namsmannsavdelingen ved tingretten, gjelder bestemmelser i eller i medhold av tvangsfullbyrdelsesloven og annen lov om namsmannens oppgaver og myndighet m.m. for namsmannsavdelingen ved tingretten. Om klage til tingretten gjelder tvangsfullbyrdelsesloven § 5-16.
+>
+
+### 2003-01-01 — forskrift/2002-10-11-1094
+
+*§ 4 første ledd skal lyde:*
+
+> Namsmyndighetene må ikke overlate myndighet til en funksjonær uten først å forvisse seg om at vedkommende funksjonær har den nødvendige kunnskap og erfaring.
 >

@@ -516,6 +516,13 @@ refid: "lov/2000-11-24-81"
 > (2) Ved opphør av medlemskap beholder medlemmet sin rett til den pensjonskapital som er opptjent ved fratredelsen.
 >
 
+### 2024-12-20 — forskrift/2024-12-20-3416
+
+*§ 6-1 syvende ledd skal lyde:*
+
+> (7) Arbeidstaker kan velge å stå utenfor innskuddspensjonsordning dersom vedkommende er medlem av en utenlandsk pensjonsordning som oppfyller vilkårene i skatteloven § 6-72, og som foretaket betaler premie eller avgift til.
+>
+
 ## § 6-2
 
 ### 2001-12-21 — lov/2001-12-21-117

@@ -7,6 +7,10 @@ refid: "lov/2005-06-03-37"
 
 ## (annet)
 
+### 2005-11-25 — forskrift/2005-11-25-1327
+
+*Nåværende tredje ledd blir nytt fjerde ledd.*
+
 ### 2021-06-11 — lov/2021-06-11-81
 
 *Nåværende kapittel V blir kapittel VI.*
