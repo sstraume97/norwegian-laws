@@ -2,87 +2,54 @@
 
 ## Current state (2026-05-18)
 
-**Working in production:**
+**Production:**
 - Repo: github.com/sondreskarsten/norwegian-laws (public, MIT + NLOD 2.0)
-- ~735 laws + ~3,400 central forskrifter parsed to Markdown in `lover/` and `forskrifter/`
-- Per-law Quarto book + per-law HTML pages live at sondreskarsten.github.io/norwegian-laws
-- `law-history` branch: 16K+ per-act commits with rich metadata, LFS-backed,
-  spanning v2000..v2027 yearly tags
-- 4 GitHub Actions workflows (deploy weekly, law-history weekly, release on tag, tests on push)
-- 33 passing tests covering parser, formatter, per-law pages, forskrift routing,
-  preamble extraction for both lov and forskrift
+- 783 laws + 3,421 central forskrifter, weekly refresh from Lovdata API
+- `law-history` branch: 16K+ per-act commits, LFS-backed, v2000..v2027 yearly tags
+- Live site: 4,277 HTML pages on gh-pages — per-law/per-forskrift pages,
+  dept chapters (17 lover + 16 forskrifter), topic chapters (35), Atom feed
+- 44 passing tests
+- 4 GitHub Actions workflows (deploy weekly + on push; law-history weekly;
+  release on tag; tests on push). Lovdata archives cached weekly via
+  `actions/cache@v4` with YYYY-WW keys.
 
-**Coverage:**
-- Parser: 99.5% article coverage, 98.9% word coverage on consolidated lover XML
-- Lovtidend: 25,948 nl- amendment acts + ~14,000 sf- amendment acts (2001-2025),
-  86.6% target_law attribution
-- Reconstruction: full replacements (~26% of amendments) produce correct historical
-  text. Partial amendments work post-baseline.
-- Per-law pages: 783 lover/*.html + 3,421 forskrifter/*.html on gh-pages, all
-  styled to match Quarto book theme, with cross-reference linking between laws.
-- Search: full body text indexed (~4,200 entries in search.json)
+**Per-law pages include:**
+- Cross-reference linking to related laws/forskrifter
+- Section-level `<h4 id="...">` anchors on every § for deep-linking
+- Version banner pointing at git history and version table
+- Rettsområde row in metadata (one-to-many via parser fix)
+- Lovdata.no source link
+- Full body text indexed in search.json
+
+**Atom feed:** Top 100 most-recent amendments, autodiscovered via
+`<link rel="alternate" type="application/atom+xml">` in every book page head.
 
 ---
 
-## Outstanding work
+## Remaining items
 
-### P2: Quality and polish
+### P4 (low priority, not blocking)
 
-#### 1. Pre-1820 laws missing ikrafttredelse (28 documents)
-Pre-1820 historic laws (`lov-1687-04-15.md`, `lov-1741-02-17.md`, etc.) have
-`ikrafttredelse: ""` because the source XML lacks a parseable date. Either
-document this as expected or substitute the `date_in_force` if available in
-another XML field. Low priority — these are statutes nobody is amending.
+#### Diff visualization in book/diff.qmd
+Currently links to GitHub's compare view. A client-side diff (e.g. diff2html
+loading two yearly tag versions of a file) would render the diff inline.
+Requires fetching raw file blobs from GitHub Pages of the law-history
+branch, which is LFS-pointer text — needs LFS resolution from gh-pages
+side, which is non-trivial.
 
-#### 2. Diff visualization in the Quarto book
-The `book/diff.qmd` page exists but currently links to GitHub's compare view.
-Render a real side-by-side or unified diff in the page itself. Requires a JS
-diff library (e.g. diff2html) loading the two yearly tag versions of a file
-client-side.
+#### PDF export
+Quarto can produce PDF if TinyTeX is installed. Adds ~2 min to CI for
+limited utility.
 
-#### 3. Topic tags / legal area classification
-The XML has `legalArea` metadata. Currently extracted but not used in Quarto.
-Could add a second grouping axis (by topic, not just department).
+#### Workflow dedup
+deploy.yml and law-history.yml both run `lovdata-load`. Could be
+deduplicated but saves only ~2 min on Mondays.
 
-#### 4. RSS/Atom feed of changes
-Generate a feed from `amendments.db` so users can subscribe to law changes.
-Straightforward from the SQLite data.
+#### PAT rotation
+The GitHub PAT is in project context. Deferred per project policy.
 
-#### 5. PDF export
-Removed due to missing TinyTeX in CI. Re-enable with:
-```yaml
-- name: Install TinyTeX
-  run: quarto install tinytex
-```
-Adds ~2 min to CI. Generates a full PDF of the law index.
-
-#### 6. Pre-2001 history coverage
-Lovdata Pro has full historical versions. The public API only has amendments
-since 2001. For laws amended before 2001, the history will be incomplete.
-Document this limitation in the about page.
-
-### P3: CI / infra
-
-#### 7. Cache the consolidated archive too
-Currently `gjeldende-lover.tar.bz2` (5MB) and `gjeldende-sentrale-forskrifter.tar.bz2`
-(20MB) are downloaded fresh on every deploy run. Add an actions/cache step with
-a short TTL (e.g. monthly) — these only change weekly at most.
-
-#### 8. Deploy and law-history workflows share the parse phase
-The law-history workflow runs the same `lovdata-load` step as the deploy
-workflow. Could be deduplicated by having law-history depend on a successful
-deploy commit and pulling the SQLite + JSON from the main branch.
-
-#### 9. Rotate the GitHub PAT
-The PAT `ghp_d7p…` has been in conversation context and project files.
-(Deferred per project policy.)
-
-### P4: Future / nice-to-have
-
-#### 10. Section-level deep linking
-Per-law pages render the full law in one HTML file. Could add anchors at each
-§ heading and surface them in the table-of-contents on the right side.
-
-#### 11. Lovdata-style version banner
-Show on each per-law page: "Du leser versjon X som var gjeldende fra YYYY-MM-DD
-til YYYY-MM-DD" with prev/next links to other versions via the yearly tags.
+#### Per-version pages
+Lovdata shows "Du leser versjon X gjeldende fra YYYY-MM-DD til YYYY-MM-DD"
+on each version of a law. To do this here we'd need to render each law at
+each yearly tag (~783 laws × 26 tags = 20K extra pages). Not worth the build
+time. Current version banner already points users at versjoner.html and git log.
