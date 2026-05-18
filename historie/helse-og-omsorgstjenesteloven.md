@@ -406,3 +406,12 @@ refid: "lov/2011-06-24-30"
 ### 2026-01-23 — lov/2026-01-23-1
 
 *I lov 24. juni 2011 nr. 30 om kommunale helse- og omsorgstjenester m.m. oppheves § 5-10.*
+
+### 2026-05-12 — lov/2026-05-12-18
+
+*I lov 24. juni 2011 nr. 30 om kommunale helse- og omsorgstjenester skal § 3-9 nytt andre og tredje ledd lyde:*
+
+> Innsatte i sikkerhetscelle skal ha tilsyn av helsepersonell minst én gang per døgn.
+>
+> Innsatte i sikkerhetsseng skal ha tilsyn av helsepersonell snarest mulig etter at tiltaket er iverksatt, og videre minst én gang per døgn.
+>

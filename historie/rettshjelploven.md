@@ -331,6 +331,15 @@ refid: "lov/1980-06-13-35"
 > for innsatte som er eller har vært plassert i sikkerhetscelle eller sikkerhetsseng etter straffegjennomføringsloven § 38, og som vurderer å klage eller som klager på vedtaket.
 >
 
+### 2026-05-12 — lov/2026-05-12-18
+
+*I lov 13. juni 1980 nr. 35 om fri rettshjelp skal § 11 første ledd nr. 9 og 10 lyde:*
+
+> for innsatte som er eller har vært utelukket fra fellesskapet etter straffegjennomføringsloven §§ 37, 37 a eller 37 b i mer enn ett sammenhengende døgn, og som vurderer å klage eller som klager på vedtaket. For innsatte under 18 år er det ikke et vilkår at utelukkelsen overskrider ett døgn.
+>
+> for innsatte som er eller har vært plassert i sikkerhetscelle eller sikkerhetsseng etter straffegjennomføringsloven § 38 c eller § 38 d, og som vurderer å klage eller som klager på vedtaket.
+>
+
 ## § 1
 
 ### 2005-04-15 — lov/2005-04-15-17

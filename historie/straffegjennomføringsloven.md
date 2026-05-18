@@ -323,6 +323,14 @@ refid: "lov/2001-05-18-21"
 > Kapittel 3. Fengselsstraff og forvaring
 >
 
+### 2026-05-12 — lov/2026-05-12-18
+
+*Nåværende andre ledd blir tredje ledd.*
+
+### 2026-05-12 — lov/2026-05-12-18
+
+*Nåværende tredje ledd oppheves.*
+
 ## § 1
 
 ### 2016-12-16 — lov/2016-12-16-98
@@ -603,6 +611,15 @@ refid: "lov/2001-05-18-21"
 > Kriminalomsorgen kan beslutte hel eller delvis utelukkelse fra fellesskapet etter bestemmelsene i § 29 annet ledd og §§ 37, 38, 39, 40 annet ledd bokstav d og § 45 c første ledd.
 >
 
+### 2026-05-12 — lov/2026-05-12-18
+
+*§ 17 skal lyde:*
+
+> § 17.Fellesskap, tid utenfor cellen og meningsfull kontakt med andre personerKriminalomsorgen skal sikre at innsatte daglig har tilgang til fellesskap under arbeid, opplæring, program eller andre tiltak og i fritiden. Tilbudt tid utenfor cellen skal normalt tilsvare åtte timer eller mer per dag og aldri mindre enn fire timer per dag. Bestemmelsene i første og annet punktum gjelder bare så langt ikke annet er bestemt i medhold av lov, eller dersom den innsatte selv velger å avstå fra fellesskap.Innsatte som ikke deltar i ordinært fellesskap etter første ledd tredje punktum, skal daglig tilbys mer enn to timer meningsfull kontakt med andre personer. Innsatte under 18 år skal til enhver tid ha tilgang til meningsfull kontakt med andre personer.Innsatte skal være i enerom om natten hvis ikke helsemessige forhold er til hinder for det eller Kriminalomsorgsdirektoratet har åpnet for at innsatte skal dele celle.
+>
+> § 17.Fellesskap, tid utenfor cellen og meningsfull kontakt med andre personer
+>
+
 ## § 19
 
 ### 2014-02-28 — lov/2014-02-28-3
@@ -612,6 +629,15 @@ refid: "lov/2001-05-18-21"
 > Domfelte som gjennomfører straff i fengsel, eller utenfor fengsel etter §§ 12 og 13, kan tilstås dagpenger. Satsene fastsettes av Kriminalomsorgsdirektoratet.
 >
 
+## § 2
+
+### 2026-05-12 — lov/2026-05-12-18
+
+*§ 2 andre ledd skal lyde:*
+
+> Kriminalomsorgen skal legge forholdene til rette for fellesskap mellom innsatte. Kriminalomsorgen skal forebygge, og avhjelpe negative virkninger av, isolasjon.
+>
+
 ## § 20
 
 ### 2016-12-16 — lov/2016-12-16-98
@@ -619,6 +645,17 @@ refid: "lov/2001-05-18-21"
 *§ 20 nytt annet ledd skal lyde:*
 
 > Etter lovbestemte trekk kan arbeidslønnen kreves overført til kriminalomsorgen. Fengselet kan deretter trekke innsatte i arbeidslønnen for oppholdet ved frigang. Satsene fastsettes av Kriminalomsorgsdirektoratet. Dersom innsatte selv er ansvarlig for innkjøp og tilberedning av egen kost, skal det ikke trekkes for dette. Departementet kan gi forskrift om innsattes dekning av oppholdsutgifter under frigang, herunder hvilke kostnadselementer det kan trekkes for og beregningen av kostnadene. Departementet kan også gi forskrift om hvordan kriminalomsorgen og innsatte kan disponere resten av arbeidslønnen etter at oppholdsutgiftene er trukket.
+>
+
+## § 22
+
+### 2026-05-12 — lov/2026-05-12-18
+
+*§ 22 skal lyde:*
+
+> § 22.Opphold i friluftInnsatte skal ha mulighet til å oppholde seg i friluft i minst én time hver dag. Innsatte under 18 år skal ha mulighet til å oppholde seg i friluft i minst to timer hver dag.Dersom særlige sikkerhetsmessige hensyn eller ekstraordinære omstendigheter er til hinder for opphold i friluft, skal den innsatte om mulig få tilbud om å utøve fysisk aktivitet utenfor cellen.
+>
+> § 22.Opphold i friluft
 >
 
 ## § 27
@@ -773,6 +810,70 @@ refid: "lov/2001-05-18-21"
 > Dersom hel utelukkelse fra fellesskapet overstiger 14 dager, skal regionalt nivå ta stilling til om den innsatte fortsatt skal utelukkes. Dersom utelukkelsen samlet overstiger 42 dager, skal tiltaket meldes til Kriminalomsorgsdirektoratet. Melding skal deretter gis til direktoratet med 14 dagers mellomrom. Utelukkelse etter første ledd bokstavene a til e kan bare strekke seg utover ett år dersom innsatte selv ønsker det.
 >
 
+### 2026-05-12 — lov/2026-05-12-18
+
+*§ 37 skal lyde:*
+
+> § 37.Generelle regler for utelukkelse fra fellesskap med andre innsatteEn innsatt kan bare utelukkes fra fellesskap med andre innsatte når dette har hjemmel i lov og mindre inngripende tiltak forgjeves har vært forsøkt eller åpenbart vil være utilstrekkelige. Behovet for utelukkelse må klart overstige de negative konsekvensene utelukkelsen kan innebære for den innsatte.Utelukkelse skal ikke være mer omfattende eller vare lenger enn det som er strengt nødvendig for å oppnå formålet. Kriminalomsorgen skal fortløpende vurdere om det fortsatt er grunnlag for utelukkelsen. Utelukkelse skal brukes med varsomhet, slik at ingen blir påført unødig skade eller lidelse. Kriminalomsorgen skal søke å avhjelpe negative virkninger av utelukkelsen.Beslutning om utelukkelse skal treffes av enhetsleder eller den som enhetsleder gir slik myndighet. Beslutning om utelukkelse skal følge reglene som gjelder for enkeltvedtak, og skal nedtegnes skriftlig og begrunnes.Innsatte som er utelukket, skal gis anledning til å kontakte advokat.Ved innsettelse i fengsel kan en innsatt utelukkes fra fellesskap med andre innsatte i inntil syv dager dersom det er nødvendig for å kartlegge den innsattes behov eller sikkerhetsmessige forhold og det ikke fremstår som et uforholdsmessig inngrep.En innsatt som gjennomfører straff i avdeling som nevnt i § 10 annet ledd, kan utelukkes fra fellesskap med andre innsatte dersom det av hensyn til sikkerhet, den innsatte selv eller andre innsatte er nødvendig og det ikke fremstår som et uforholdsmessig inngrep. For innsatt i slik avdeling som ikke har fellesskap med andre innsatte, skal kriminalomsorgen kontinuerlig vurdere om det kan legges til rette for at den innsatte kan ha kontakt med én eller flere andre innsatte. For innsatte i avdeling med særlig høyt sikkerhetsnivå skal kriminalomsorgen kontrollere kontakt etter bestemmelsen her.
+>
+> § 37.Generelle regler for utelukkelse fra fellesskap med andre innsatte
+>
+
+## § 37 a
+
+### 2026-05-12 — lov/2026-05-12-18
+
+*Ny § 37 a skal lyde:*
+
+> § 37 a.Utelukkelse på grunn av forhold ved den innsatteKriminalomsorgen kan beslutte at en innsatt skal utelukkes dersom vilkårene i § 37 er oppfylt og dette er strengt nødvendig for åhindre den innsatte i å skade seg selv,hindre den innsatte i å skade andre,hindre betydelig materiell skade ellerhindre den innsatte i å påvirke miljøet i fengselet på en særlig negativ måte.Dersom behovet for å utelukke den innsatte vedvarer, må ny beslutning treffes senest innen syv dager og videre senest ukentlig. Hvis utelukkelsen overstiger 14 dager, overtar regionalt nivå beslutningskompetansen. Kriminalomsorgsdirektoratet skal gis melding om utelukkelsen når den har vart i mer enn 30 dager, og deretter hver fjortende dag.Utelukkelse på grunn av forhold ved den innsatte kan ikke overstige seks måneder.
+>
+> § 37 a.Utelukkelse på grunn av forhold ved den innsatte
+>
+
+## § 37 b
+
+### 2026-05-12 — lov/2026-05-12-18
+
+*Ny § 37 b skal lyde:*
+
+> § 37 b.Utelukkelse på grunn av forhold ved fengseletKriminalomsorgen kan beslutte at en innsatt skal utelukkes dersom vilkårene i § 37 er oppfylt og akutte bygningsmessige, bemanningsmessige eller sikkerhetsmessige forhold gjør det strengt nødvendig.Regionalt nivå skal gis melding om utelukkelsen dersom den overstiger ett døgn.Utelukkelse på grunn av forhold ved fengselet kan ikke overstige syv dager.
+>
+> § 37 b.Utelukkelse på grunn av forhold ved fengselet
+>
+
+## § 37 c
+
+### 2026-05-12 — lov/2026-05-12-18
+
+*Ny § 37 c skal lyde:*
+
+> § 37 c.Særregler om utelukkelse av innsatte under 18 årFør beslutning om utelukkelse av en innsatt under 18 år treffes, skal kriminalomsorgen så vidt mulig innhente informasjon fra tverretatlig team og den kommunale helse- og omsorgstjenesten. Det skal fremgå av beslutningen at hensynet til barnets beste har vært et grunnleggende hensyn, og hvordan dette hensynet er avveid mot øvrige hensyn.Regionalt nivå skal umiddelbart gis melding om utelukkelsen.Utelukkelse av innsatte under 18 år kan ikke overstige syv dager.
+>
+> § 37 c.Særregler om utelukkelse av innsatte under 18 år
+>
+
+## § 37 d
+
+### 2026-05-12 — lov/2026-05-12-18
+
+*Ny § 37 d skal lyde:*
+
+> § 37 d.Innsatte som selv velger å avstå fra fellesskapetDersom en innsatt selv velger å avstå fra fellesskapet med andre innsatte, skal dette registreres.Regionalt nivå skal gis melding dersom en innsatt selv velger å avstå fra fellesskapet i mer enn 14 dager. Kriminalomsorgsdirektoratet skal gis melding dersom situasjonen vedvarer i mer enn 30 dager, og deretter hver fjortende dag.
+>
+> § 37 d.Innsatte som selv velger å avstå fra fellesskapet
+>
+
+## § 37 e
+
+### 2026-05-12 — lov/2026-05-12-18
+
+*Ny § 37 e skal lyde:*
+
+> § 37 e.Tilsyn og oppfølging fra kriminalomsorgenInnsatte som er utelukket, eller som selv velger å avstå fra fellesskapet, skal ha tilsyn fra kriminalomsorgen flere ganger per døgn. Innsatte under 18 år skal i tillegg kunne kontakte kriminalomsorgens personale til enhver tid og få umiddelbar respons.Den kommunale helse- og omsorgstjenesten skal uten ugrunnet opphold varsles om innsatte som er utelukket, eller som selv velger å avstå fra fellesskapet, og anmodes om tilsyn og oppfølging av den innsatte.For innsatte som har vært utelukket i mer enn syv dager, eller som selv velger å avstå fra fellesskapet i mer enn syv dager, skal det utarbeides en plan for tilbakeføring til fellesskapet.
+>
+> § 37 e.Tilsyn og oppfølging fra kriminalomsorgen
+>
+
 ## § 38
 
 ### 2012-01-20 — lov/2012-01-20-6
@@ -806,6 +907,70 @@ refid: "lov/2001-05-18-21"
 
 *§ 38 nåværende annet til femte ledd blir nytt tredje til sjette ledd.*
 
+### 2026-05-12 — lov/2026-05-12-18
+
+*§ 38 skal lyde:*
+
+> § 38.Generelle regler for bruk av tvangsmidlerKriminalomsorgen kan benytte tvangsmidlene nevnt i §§ 38 a til 38 d når vilkårene er oppfylt og Kriminalomsorgsdirektoratet har godkjent tvangsmiddelet til bruk i kriminalomsorgen.Et tvangsmiddel kan bare brukes når mindre inngripende tiltak forgjeves har vært forsøkt eller åpenbart vil være utilstrekkelige. Tvangsmiddelet kan bare brukes når behovet klart overstiger de negative konsekvensene som tvangsbruken kan innebære for den innsatte.Et tvangsmiddel skal ikke brukes lenger enn det som er strengt nødvendig for å oppnå formålet. Kriminalomsorgen skal fortløpende vurdere om det fortsatt er grunnlag for tvangsbruken. Tvangsmidler skal brukes med varsomhet, slik at ingen blir påført unødig skade eller lidelse. Det skal ikke brukes mer fysisk makt enn det som er strengt nødvendig for å gjennomføre tiltaket.Beslutning om bruk av tvangsmiddel skal treffes av enhetsleder eller den som enhetsleder gir slik myndighet. Beslutningen skal nedtegnes skriftlig og begrunnes.
+>
+> § 38.Generelle regler for bruk av tvangsmidler
+>
+
+## § 38 a
+
+### 2026-05-12 — lov/2026-05-12-18
+
+*Ny § 38 a skal lyde:*
+
+> § 38 a.Bruk av håndjern, transportjern, ledsagerbelte, strips eller spyttbeskytterHåndjern, transportjern, ledsagerbelte, strips eller spyttbeskytter, eller en kombinasjon av disse, kan brukes når vilkårene i § 38 er oppfylt og dette er strengt nødvendig for åhindre alvorlig angrep eller skade på person,hindre andre fysiske angrep på person når angrepet er egnet til å skape frykt, smerte eller annet betydelig ubehag,hindre iverksettelse av alvorlige trusler eller betydelig materiell skade,hindre alvorlige opptøyer eller uroligheter ellerhindre rømning fra fengsel, annet oppholdssted eller under transport.Spyttbeskytter kan likevel ikke brukes overfor innsatte under 18 år.Tvangsmidlene nevnt i første ledd kan bare brukes under tilsyn.
+>
+> § 38 a.Bruk av håndjern, transportjern, ledsagerbelte, strips eller spyttbeskytter
+>
+
+## § 38 b
+
+### 2026-05-12 — lov/2026-05-12-18
+
+*Ny § 38 b skal lyde:*
+
+> § 38 b.Bruk av skjold, kølle eller gassSkjold, kølle eller gass, eller en kombinasjon av disse, kan brukes når vilkårene i § 38 er oppfylt og dette er strengt nødvendig for åhindre alvorlig angrep eller skade på person,stanse alvorlige opptøyer eller uroligheter,hindre rømning fra fengsel, annet oppholdssted eller under transport ellersikre adgang til sperret eller forskanset rom.
+>
+> § 38 b.Bruk av skjold, kølle eller gass
+>
+
+## § 38 c
+
+### 2026-05-12 — lov/2026-05-12-18
+
+*Ny § 38 c skal lyde:*
+
+> § 38 c.Bruk av sikkerhetscelleEn innsatt kan plasseres i sikkerhetscelle når vilkårene i § 38 er oppfylt og dette er strengt nødvendig for åavverge alvorlig angrep eller skade på person,avverge at den innsatte påfører seg selv alvorlig skade, elleravverge betydelig materiell skade.Den kommunale helse- og omsorgstjenesten skal straks varsles om bruk av sikkerhetscelle og anmodes om tilsyn og oppfølging av den innsatte.Innsatte på sikkerhetscelle skal ha tilsyn fra kriminalomsorgen så ofte som forholdene tilsier, og minst én gang i timen. Negative virkninger av bruk av sikkerhetscelle skal søkes avhjulpet.Innsatte i sikkerhetscelle skal gis anledning til å kontakte advokat.Beslutning om bruk av sikkerhetscelle skal følge reglene som gjelder for enkeltvedtak. Dersom behovet for å bruke sikkerhetscelle vedvarer, må ny beslutning treffes senest innen 24 timer og videre senest hvert nye døgn. Hvis brukstiden overstiger 48 timer, overtar regionalt nivå beslutningskompetansen.Regionalt nivå skal umiddelbart gis melding om bruk av sikkerhetscelle. Kriminalomsorgsdirektoratet skal gis melding om bruk som overstiger seks døgn.
+>
+> § 38 c.Bruk av sikkerhetscelle
+>
+
+## § 38 d
+
+### 2026-05-12 — lov/2026-05-12-18
+
+*Ny § 38 d skal lyde:*
+
+> § 38 d.Bruk av sikkerhetssengEn innsatt kan plasseres i sikkerhetsseng når vilkårene i § 38 er oppfylt og dette er strengt nødvendig for å avverge en overhengende fare for at den innsatte påfører seg selv alvorlig skade. Sikkerhetsseng kan bare brukes som siste utvei og for et kortest mulig tidsrom. Sikkerhetsseng kan ikke brukes overfor innsatte under 18 år.Den kommunale helse- og omsorgstjenesten skal straks varsles om bruk av sikkerhetsseng og anmodes om tilsyn og oppfølging av den innsatte.Kriminalomsorgen skal føre kontinuerlig tilsyn med innsatte i sikkerhetsseng og sørge for at oppholdet gjennomføres på mest mulig skånsom måte. Negative virkninger skal søkes avhjulpet.Innsatte i sikkerhetsseng skal gis anledning til å kontakte advokat.Beslutning om bruk av sikkerhetsseng skal følge reglene som gjelder for enkeltvedtak. Dersom behovet for å bruke sikkerhetsseng vedvarer, må ny beslutning treffes senest innen 12 timer og videre senest hver nye tolvte time. Hvis brukstiden overstiger 12 timer, overtar regionalt nivå beslutningskompetansen.Regionalt nivå skal umiddelbart gis melding om bruk av sikkerhetsseng. Kriminalomsorgsdirektoratet skal gis melding om bruk som overstiger 72 timer.
+>
+> § 38 d.Bruk av sikkerhetsseng
+>
+
+## § 38 e
+
+### 2026-05-12 — lov/2026-05-12-18
+
+*Ny § 38 e skal lyde:*
+
+> § 38 e.Særregler for bruk av tvangsmidler overfor innsatte under 18 årTvangsmidler kan bare brukes overfor innsatte under 18 år når vilkårene i §§ 38 til 38 c er oppfylt og bruken er tvingende nødvendig for å oppnå formålet.Før beslutning om bruk av et tvangsmiddel overfor en innsatt under 18 år treffes, skal kriminalomsorgen så vidt mulig innhente informasjon fra tverretatlig team og den kommunale helse- og omsorgstjenesten. Det skal fremgå av beslutningen at hensynet til barnets beste har vært et grunnleggende hensyn, og hvordan dette hensynet er avveid mot øvrige hensyn.Innsatte under 18 år som er plassert i sikkerhetscelle, skal ha kontinuerlig tilsyn fra kriminalomsorgen. Hvis bruken av sikkerhetscelle overstiger 24 timer, overtar regionalt nivå beslutningskompetansen. Kriminalomsorgsdirektoratet skal gis melding om bruk av sikkerhetscelle som overstiger 72 timer.
+>
+> § 38 e.Særregler for bruk av tvangsmidler overfor innsatte under 18 år
+>
+
 ## § 39
 
 ### 2012-01-20 — lov/2012-01-20-6
@@ -822,6 +987,19 @@ refid: "lov/2001-05-18-21"
 > § 39.Umiddelbar utelukkelse som følge av brudd ved gjennomføring av fengselsstraff og forvaring
 >
 > § 39.Umiddelbar utelukkelse som følge av brudd ved gjennomføring av fengselsstraff og forvaring
+>
+
+### 2026-05-12 — lov/2026-05-12-18
+
+*§ 39 oppheves.*
+
+## § 4
+
+### 2026-05-12 — lov/2026-05-12-18
+
+*§ 4 nytt andre ledd skal lyde:*
+
+> Innsatte i fengsel har rett til helsehjelp fra den kommunale helse- og omsorgstjenesten og spesialisthelsetjenesten i samsvar med pasient- og brukerrettighetsloven kapittel 2.
 >
 
 ## § 40
@@ -865,6 +1043,17 @@ refid: "lov/2001-05-18-21"
 *§ 40 åttende ledd skal lyde:*
 
 > Dersom det er av betydning for fornærmede i straffesaken eller dennes etterlatte å få kjennskap til at domfelte unndrar seg gjennomføringen av fengselsstraff eller forvaring, skal kriminalomsorgen så snart som mulig varsle fornærmede eller dennes etterlatte om unndragelsen.
+>
+
+### 2026-05-12 — lov/2026-05-12-18
+
+*§ 40 andre ledd nåværende bokstav d oppheves. Nåværende bokstav e blir bokstav d.*
+
+### 2026-05-12 — lov/2026-05-12-18
+
+*§ 40 fjerde ledd andre punktum skal lyde:*
+
+> Tap av en begunstigelse kan besluttes i tillegg til en reaksjon etter annet ledd bokstavene a, b og d.
 >
 
 ## § 41
@@ -1016,6 +1205,13 @@ refid: "lov/2001-05-18-21"
 > Når den domfelte er idømt fengselsstraff på mer enn ti år, idømt forvaring eller innsatt i avdeling med særlig høyt sikkerhetsnivå etter § 10 annet ledd, treffer regionalt nivå også avgjørelse etter §§ 12 til 16 a, 20, 33, 35, 36 og 42 til 44.
 >
 
+### 2026-05-12 — lov/2026-05-12-18
+
+*§ 6 andre ledd første punktum skal lyde:*
+
+> Regionalt nivå treffer avgjørelse i alle saker etter § 11, § 37 a annet ledd annet punktum, § 38 c femte ledd tredje punktum, § 38 d femte ledd tredje punktum, § 44 annet ledd og § 58 annet ledd.
+>
+
 ## § 7
 
 ### 2010-12-17 — lov/2010-12-17-85
@@ -1051,6 +1247,13 @@ refid: "lov/2001-05-18-21"
 *§ 7 bokstav i skal lyde:*
 
 > Taushetsplikt er ikke til hinder for at kriminalomsorgen gir opplysninger som nevnt i § 16 sjette ledd, § 16 a tredje ledd jf. § 16 sjette ledd, § 20 annet ledd, § 36 tredje ledd, § 40 siste ledd, § 42 sjette og syvende ledd og straffeloven § 45 sjette ledd, til den fornærmede i straffesaken eller dennes etterlatte.
+>
+
+### 2026-05-12 — lov/2026-05-12-18
+
+*§ 7 bokstav e skal lyde:*
+
+> Ved beslutning om utelukkelse fra fellesskapet etter §§ 37, 37 a eller 37 b, og ved beslutning om sikkerhetscelle etter § 38 c eller sikkerhetsseng etter § 38 d, løper klagefristen først fra det tidspunktet utelukkelsen eller tvangsmiddelbruken opphører.
 >
 
 ## § 7 a
