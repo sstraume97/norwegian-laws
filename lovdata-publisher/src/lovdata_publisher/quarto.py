@@ -380,13 +380,15 @@ def generate_diff_page(book_dir: str, version_tags: list[str]):
         f.write("\n".join(lines))
 
 
-def generate_quarto_config(repo_root: str, lover_dir: str = "lover", version_tags: list[str] = None, db_path: str = None):
+def generate_quarto_config(repo_root: str, lover_dir: str = "lover", forskrifter_dir: str = "forskrifter", version_tags: list[str] = None, db_path: str = None):
     """Generate the full Quarto book configuration and chapter files."""
     full_lover = os.path.join(repo_root, lover_dir)
+    full_forskrifter = os.path.join(repo_root, forskrifter_dir)
     book_dir = os.path.join(repo_root, "book")
     os.makedirs(book_dir, exist_ok=True)
 
     groups = group_laws_by_area(full_lover)
+    forskrift_groups = group_laws_by_area(full_forskrifter) if os.path.isdir(full_forskrifter) else {}
 
     if version_tags is None:
         version_tags = [f"v{y}" for y in range(2001, 2027)]
@@ -402,7 +404,7 @@ def generate_quarto_config(repo_root: str, lover_dir: str = "lover", version_tag
     # Amendment stats
     year_stats = get_amendment_stats_by_year(db_path) if db_path else {}
 
-    # Department chapters
+    # Department chapters — lover
     chapters = []
     for dept, laws in groups.items():
         safe_dept = re.sub(r"[^\w\s-]", "", dept).strip().replace(" ", "-").lower()
@@ -434,6 +436,33 @@ def generate_quarto_config(repo_root: str, lover_dir: str = "lover", version_tag
             f.write("\n".join(lines))
 
         chapters.append(f"book/{dept_file}")
+
+    # Department chapters — forskrifter
+    forskrift_chapters = []
+    for dept, forskrifter in forskrift_groups.items():
+        safe_dept = re.sub(r"[^\w\s-]", "", dept).strip().replace(" ", "-").lower()
+        dept_file = f"forskrift-dept-{safe_dept}.qmd"
+        dept_path = os.path.join(book_dir, dept_file)
+
+        lines = [f"# {dept}\n"]
+        lines.append(f"*{len(forskrifter)} forskrifter*\n")
+        lines.append("| Forskrift | Lovdata | Historikk |")
+        lines.append("|-----------|---------|-----------|")
+        for forskrift in sorted(forskrifter, key=lambda x: x["tittel"]):
+            blob = f"{GITHUB_BASE}/blob/main/forskrifter/{forskrift['file']}"
+            history = f"{GITHUB_BASE}/commits/{HISTORY_BRANCH}/forskrifter/{forskrift['file']}"
+            lovdata_url = f"https://lovdata.no/dokument/SF/{forskrift['refid']}"
+            title = forskrift["tittel"][:80]
+            link = f"[{title}]({blob})"
+            lovdata_link = f"[lovdata.no]({lovdata_url})"
+            hist_cell = f"[log]({history})"
+            lines.append(f"| {link} | {lovdata_link} | {hist_cell} |")
+        lines.append("")
+
+        with open(dept_path, "w", encoding="utf-8") as f:
+            f.write("\n".join(lines))
+
+        forskrift_chapters.append(f"book/{dept_file}")
 
     # Versions page
     ver_lines = [
@@ -492,13 +521,17 @@ def generate_quarto_config(repo_root: str, lover_dir: str = "lover", version_tag
     config = {
         "project": {"type": "book", "output-dir": "_site"},
         "book": {
-            "title": "Norges Lover",
-            "subtitle": "Gjeldende formelle lover",
+            "title": "Norges Lover og Forskrifter",
+            "subtitle": "Gjeldende formelle lover og sentrale forskrifter",
             "author": "Kilde: Lovdata API (NLOD 2.0)",
             "date": "today",
             "chapters": [
                 "index.qmd",
                 {"part": "Lover etter departement", "chapters": chapters},
+            ] + (
+                [{"part": "Sentrale forskrifter etter departement", "chapters": forskrift_chapters}]
+                if forskrift_chapters else []
+            ) + [
                 "book/versjoner.qmd",
                 "book/sok.qmd",
                 "book/diff.qmd",

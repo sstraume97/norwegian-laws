@@ -104,6 +104,8 @@ def write_snapshot(
     amendment_acts: list[AmendmentActData],
     gjeldende_archive: str = "",
     lovtidend_archives: list[str] | None = None,
+    forskrifter: list[LawData] | None = None,
+    forskrifter_archive: str = "",
 ) -> str:
     """Write a snapshot directory from parsed data.
 
@@ -113,21 +115,29 @@ def write_snapshot(
       ├── laws/
       │   ├── lov-1814-05-17.json
       │   └── ...
+      ├── forskrifter/
+      │   ├── forskrift-2024-06-21-1166.json (optional)
+      │   └── ...
       └── amendments.db
 
     Returns the snapshot directory path.
     """
     if lovtidend_archives is None:
         lovtidend_archives = []
+    if forskrifter is None:
+        forskrifter = []
 
     root = Path(output_dir)
     laws_dir = root / "laws"
     laws_dir.mkdir(parents=True, exist_ok=True)
+    forskrifter_dir = root / "forskrifter"
+    forskrifter_dir.mkdir(parents=True, exist_ok=True)
 
-    # Purge stale law JSON files so the snapshot is a true point-in-time
-    # picture. Without this, laws removed from source data would linger
-    # and the publisher would still export them.
+    # Purge stale law/forskrift JSON files so the snapshot is a true
+    # point-in-time picture.
     for stale in laws_dir.glob("*.json"):
+        stale.unlink()
+    for stale in forskrifter_dir.glob("*.json"):
         stale.unlink()
 
     # Write law JSON files
@@ -135,6 +145,12 @@ def write_snapshot(
         safe_name = law.refid.replace("/", "-")
         path = laws_dir / f"{safe_name}.json"
         path.write_text(law.to_json(), encoding="utf-8")
+
+    # Write forskrift JSON files
+    for forskrift in forskrifter:
+        safe_name = forskrift.refid.replace("/", "-")
+        path = forskrifter_dir / f"{safe_name}.json"
+        path.write_text(forskrift.to_json(), encoding="utf-8")
 
     # Write amendments to SQLite
     db_path = str(root / "amendments.db")

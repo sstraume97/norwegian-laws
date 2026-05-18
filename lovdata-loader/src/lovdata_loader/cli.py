@@ -26,6 +26,11 @@ def main():
         help="Path to consolidated laws archive",
     )
     parser.add_argument(
+        "--forskrifter",
+        default="gjeldende-sentrale-forskrifter.tar.bz2",
+        help="Path to consolidated forskrifter archive",
+    )
+    parser.add_argument(
         "--lovtidend",
         nargs="*",
         default=[],
@@ -36,6 +41,11 @@ def main():
         action="store_true",
         help="Skip Lovtidend parsing (faster, laws only)",
     )
+    parser.add_argument(
+        "--skip-forskrifter",
+        action="store_true",
+        help="Skip forskrifter parsing (laws only)",
+    )
     args = parser.parse_args()
 
     if args.download:
@@ -44,6 +54,7 @@ def main():
         print("=" * 60)
         archives = download_archives(args.output)
         args.gjeldende = archives["gjeldende"]
+        args.forskrifter = archives.get("forskrifter", args.forskrifter)
         if not args.skip_amendments:
             args.lovtidend = archives.get("lovtidend", [])
 
@@ -54,6 +65,15 @@ def main():
     laws = parse_consolidated_archive(args.gjeldende)
     print(f"  Parsed {len(laws)} laws")
 
+    forskrifter_data = []
+    if not args.skip_forskrifter and args.forskrifter:
+        print()
+        print("=" * 60)
+        print("Parsing consolidated forskrifter")
+        print("=" * 60)
+        forskrifter_data = parse_consolidated_archive(args.forskrifter)
+        print(f"  Parsed {len(forskrifter_data)} forskrifter")
+
     amendment_acts = []
     if args.lovtidend and not args.skip_amendments:
         print()
@@ -62,9 +82,13 @@ def main():
         print("=" * 60)
         for archive in args.lovtidend:
             print(f"  Processing {archive}...")
-            acts = parse_lovtidend_archive(archive, prefix_filter="nl-")
-            print(f"    Found {len(acts)} law amendment acts")
-            amendment_acts.extend(acts)
+            nl_acts = parse_lovtidend_archive(archive, prefix_filter="nl-")
+            print(f"    Found {len(nl_acts)} law amendment acts")
+            amendment_acts.extend(nl_acts)
+            if not args.skip_forskrifter:
+                sf_acts = parse_lovtidend_archive(archive, prefix_filter="sf-")
+                print(f"    Found {len(sf_acts)} forskrift amendment acts")
+                amendment_acts.extend(sf_acts)
 
     print()
     print("=" * 60)
@@ -76,9 +100,11 @@ def main():
         amendment_acts=amendment_acts,
         gjeldende_archive=args.gjeldende,
         lovtidend_archives=args.lovtidend,
+        forskrifter=forskrifter_data,
+        forskrifter_archive=args.forskrifter,
     )
     print(f"  Snapshot written to {path}/")
-    print(f"  {len(laws)} laws, {len(amendment_acts)} amendment acts")
+    print(f"  {len(laws)} laws, {len(forskrifter_data)} forskrifter, {len(amendment_acts)} amendment acts")
 
 
 if __name__ == "__main__":

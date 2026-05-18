@@ -28,8 +28,8 @@ def download_file(url: str, dest: str) -> str:
 def download_archives(output_dir: str = ".") -> dict[str, str]:
     """Download all law archives from the Lovdata API.
 
-    Returns a dict with keys 'gjeldende' and 'lovtidend' pointing
-    to the downloaded archive paths.
+    Returns a dict with keys 'gjeldende', 'forskrifter', and 'lovtidend'
+    pointing to the downloaded archive paths.
     """
     Path(output_dir).mkdir(parents=True, exist_ok=True)
 
@@ -37,6 +37,10 @@ def download_archives(output_dir: str = ".") -> dict[str, str]:
     gjeldende_path = os.path.join(output_dir, ARCHIVES["gjeldende"])
     download_file(f"{BASE_URL}/{ARCHIVES['gjeldende']}", gjeldende_path)
     result["gjeldende"] = gjeldende_path
+
+    forskrifter_path = os.path.join(output_dir, ARCHIVES["forskrifter"])
+    download_file(f"{BASE_URL}/{ARCHIVES['forskrifter']}", forskrifter_path)
+    result["forskrifter"] = forskrifter_path
 
     lovtidend = []
     for key in ["lovtidend_historical", "lovtidend_current"]:

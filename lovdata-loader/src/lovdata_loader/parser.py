@@ -366,15 +366,15 @@ _MONTHS = {
 
 def _extract_law_refid_from_preamble(text: str) -> str:
     m = re.search(
-        r"lov\s+(?:av\s+)?(\d+)\.\s*(\w+)\s+(\d{4})\s+nr\.\s*(\d+)", text
+        r"(lov|forskrift)\s+(?:av\s+)?(\d+)\.\s*(\w+)\s+(\d{4})\s+nr\.\s*(\d+)", text
     )
     if not m:
         return ""
-    day, month_name, year, nr = m.groups()
+    kind, day, month_name, year, nr = m.groups()
     month = _MONTHS.get(month_name.lower(), "")
     if not month:
         return ""
-    return f"lov/{year}-{month}-{day.zfill(2)}-{nr}"
+    return f"{kind}/{year}-{month}-{day.zfill(2)}-{nr}"
 
 
 def _parse_old_format_section(section: Tag, target_law: str = "") -> list[Amendment]:
