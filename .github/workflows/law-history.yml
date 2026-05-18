@@ -34,6 +34,8 @@ jobs:
 
       - name: Build and push law history
         run: |
+          set -e
+
           # Build in separate repo
           lovdata-publish --snapshot snapshot --build-history --repo-path /tmp/law-repo
 
@@ -47,13 +49,12 @@ jobs:
           print(f'Created {len(tags)} yearly tags: {min(tags)}..{max(tags)}')
           "
 
-          # Import into checkout repo and push from there
-          cd ${{ github.workspace }}
-          git fetch /tmp/law-repo main:law-history --tags 2>&1
-          git repack -a -d -f 2>&1
-          echo "Pack size: $(du -sh .git/objects/pack/)"
-          git push -f origin law-history 2>&1
-          # Push tags (force-update existing)
-          for tag in $(git tag -l 'v*'); do
-            git push origin "refs/tags/$tag" --force 2>&1 || true
-          done
+          # Push directly from /tmp/law-repo (no fetch into workspace — avoids tag clobber)
+          cd /tmp/law-repo
+          git remote add origin https://x-access-token:${{ secrets.GITHUB_TOKEN }}@github.com/${{ github.repository }}.git
+
+          # Branch: force-push main -> law-history
+          git push --force origin main:refs/heads/law-history
+
+          # Tags: force-push all yearly tags (+ refspec forces remote update)
+          git push --force origin "+refs/tags/v*:refs/tags/v*"
