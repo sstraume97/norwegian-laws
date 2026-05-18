@@ -31,6 +31,17 @@ def main():
         help="Build the law-history branch with backdated commits",
     )
     parser.add_argument(
+        "--history-mode",
+        choices=["year", "act"],
+        default="year",
+        help="Commit granularity for law-history: 'year' (~28 commits) or 'act' (~2400 commits, requires LFS)",
+    )
+    parser.add_argument(
+        "--use-lfs",
+        action="store_true",
+        help="Configure git-lfs for lover/*.md (recommended for --history-mode=act)",
+    )
+    parser.add_argument(
         "--quarto",
         action="store_true",
         help="Generate Quarto book chapters and config",
@@ -84,9 +95,9 @@ def main():
             repo_path = tempfile.mkdtemp(prefix="law-repo-")
         print()
         print("=" * 60)
-        print("Building git history")
+        print(f"Building git history (mode={args.history_mode}, lfs={args.use_lfs})")
         print("=" * 60)
-        build_history(args.snapshot, repo_path)
+        build_history(args.snapshot, repo_path, mode=args.history_mode, use_lfs=args.use_lfs)
         print(f"  Repository at: {repo_path}")
 
 
