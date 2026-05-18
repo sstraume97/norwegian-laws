@@ -1,20 +1,68 @@
 # Transport og kommunikasjoner
 
-*14 lover*
+*62 lover*
 
 | Lov | Korttittel | Departement |
 |-----|-----------|-------------|
+| [Forbud paa Vimpel-Føring](/norwegian-laws/lover/lov-1741-02-17.html) | Forbud paa Vimpel-føring | Utenriksdepartementet |
+| [Lov om Kystvakten (kystvaktloven)](/norwegian-laws/lover/lov-1997-06-13-42.html) | Kystvaktloven – kystvl | Forsvarsdepartementet |
+| [Lov om Norges territorialfarvann og tilstøtende sone [territorialfarvannsloven]](/norwegian-laws/lover/lov-2003-06-27-57.html) | Territorialfarvannsloven – terfl | Utenriksdepartementet |
+| [Lov om Overenskomst om internasjonal jernbanetrafikk (COTIF-loven)](/norwegian-laws/lover/lov-2004-12-10-82.html) | COTIF-loven | Samferdselsdepartementet |
 | [Lov om Stranding og Vrag [vrakloven]](/norwegian-laws/lover/lov-1893-07-20-2.html) | Vrakloven | Justis- og beredskapsdepartementet |
+| [Lov om adgang til rekvisisjon av skip m.v. under krig eller kriseforhold](/norwegian-laws/lover/lov-1952-12-19-2.html) | Lov om adgang til rekvisisjon av skip | Nærings- og fiskeridepartementet |
+| [Lov om anlegg og drift av jernbane, herunder sporvei, tunnelbane og forstadsbane](/norwegian-laws/lover/lov-1993-06-11-100.html) | Jernbaneloven – jbl | Samferdselsdepartementet |
+| [Lov om ansvar for skade som motorvogner gjer (bilansvarslova)](/norwegian-laws/lover/lov-1961-02-03.html) | Bilansvarslova – bal | Justis- og beredskapsdepartementet |
+| [Lov om avgifter vedrørende motorkjøretøyer og båter (motorkjøretøy- og båtavgift](/norwegian-laws/lover/lov-1959-06-19-2.html) | Motorkjøretøy- og båtavgiftsloven | Finansdepartementet |
+| [Lov om endringar i lov om Overenskomst om internasjonal jernbanetrafikk (COTIF-l](/norwegian-laws/lover/lov-2023-06-20-81.html) | Endringslov til COTIF-lova | Samferdselsdepartementet |
+| [Lov om endringer i barnetrygdloven og midlertidige endringer i lovverket som føl](/norwegian-laws/lover/lov-2024-06-25-53.html) | Endringslov til barnetrygdloven mv. (Ukraina) | Arbeids- og inkluderingsdepartementet |
+| [Lov om endringer i grenseloven og utlendingsloven mv. (interoperabilitet og visu](/norwegian-laws/lover/lov-2024-06-21-47.html) | Endringslov til grenseloven og utlendingsloven mv. | Justis- og beredskapsdepartementet |
+| [Lov om endringer i konfliktrådsloven, straffeloven og straffeprosessloven mv. (s](/norwegian-laws/lover/lov-2023-12-20-110.html) | Endringslov til konfliktrådsloven, straffeloven mv | Justis- og beredskapsdepartementet |
 | [Lov om endringer i sjøloven (erstatningsansvar ved transport av farlig gods m.m.](/norwegian-laws/lover/lov-2015-05-12-30.html) | Endringslov til sjøloven | Justis- og beredskapsdepartementet |
+| [Lov om endringer i skipsarbeidsloven og NIS-loven (tydelige og mer forutsigbare ](/norwegian-laws/lover/lov-2026-04-10-14.html) | Endringslov til skipsarbeidsloven og NIS-loven | Nærings- og fiskeridepartementet |
+| [Lov om endringer i veglova mv. (overføring av fylkesveiadministrasjon)](/norwegian-laws/lover/lov-2019-06-21-68.html) | Endringslov til veglova mv. (overføring av fylkesveiadministrasjon) | Samferdselsdepartementet |
 | [Lov om endringer i vegtrafikkloven (opplæring)](/norwegian-laws/lover/lov-2020-04-03-18.html) | Endringslov til vegtrafikkloven (opplæring) | Samferdselsdepartementet |
+| [Lov om endringer i yrkestransportloven mv. (drosjetilbud, internkontroll, kontro](/norwegian-laws/lover/lov-2025-06-20-111.html) | Endringslov til yrkestransportloven mv. | Samferdselsdepartementet |
+| [Lov om fri utveksling av tjenesteytelser innen sjøtransport](/norwegian-laws/lover/lov-1992-12-04-121.html) | Lov om sjøtransporttjenester | Nærings- og fiskeridepartementet |
 | [Lov om fritids- og småbåter (småbåtloven)](/norwegian-laws/lover/lov-1998-06-26-47.html) | Småbåtloven – småbåtl | Nærings- og fiskeridepartementet |
 | [Lov om fullmakt for Kongen til å forby redere å gi opplysninger m.m. til utenlan](/norwegian-laws/lover/lov-1967-06-16-3.html) | Lov om forbud mot at redere gir opplysninger | Nærings- og fiskeridepartementet |
+| [Lov om gjennomføring av europarådsavtale 31. januar 1995 om ulovlig håndtering a](/norwegian-laws/lover/lov-1997-06-13-47.html) | Lov om europarådsavtale om handel med narkotika | Justis- og beredskapsdepartementet |
+| [Lov om gjennomføring av fellesregler om innenlands transport i EØS-avtalen](/norwegian-laws/lover/lov-1995-05-26-25.html) | Lov om innenlands transport i EØS-avtalen | Samferdselsdepartementet |
+| [Lov om granskingskommisjonen for brannen på Scandinavian Star](/norwegian-laws/lover/lov-2016-04-29-6.html) | Lov om granskingskommisjonen for Scandinavian Star | Justis- og beredskapsdepartementet |
+| [Lov om grensetilsyn og grensekontroll av personer (grenseloven)](/norwegian-laws/lover/lov-2018-04-20-8.html) | Grenseloven | Justis- og beredskapsdepartementet |
+| [Lov om havner og farvann (havne- og farvannsloven)](/norwegian-laws/lover/lov-2019-06-21-70.html) | Havne- og farvannsloven | Nærings- og fiskeridepartementet |
+| [Lov om infrastruktur for alternativt drivstoff](/norwegian-laws/lover/lov-2020-06-19-95.html) | Lov om infrastruktur for alternativt drivstoff | Samferdselsdepartementet |
 | [Lov om intelligente transportsystemer innenfor vegtransport m.m. (ITS-loven)](/norwegian-laws/lover/lov-2015-12-11-101.html) | ITS-loven | Samferdselsdepartementet |
+| [Lov om jernbaneansvar (jernbaneansvarsloven)](/norwegian-laws/lover/lov-1977-06-10-73.html) | Jernbaneansvarsloven – jbansvl | Justis- og beredskapsdepartementet |
+| [Lov om linjekonferanser m.v. [linjekonferanseloven]](/norwegian-laws/lover/lov-1984-06-08-55.html) | Linjekonferanseloven | Nærings- og fiskeridepartementet |
+| [Lov om luftfart (luftfartsloven)](/norwegian-laws/lover/lov-1993-06-11-101.html) | Luftfartsloven – luftl | Samferdselsdepartementet |
+| [Lov om merkning av vekten på tunge kolli som fraktes med fartøi](/norwegian-laws/lover/lov-1932-04-22-1.html) | Lov om merkning på tunge kolli | Arbeids- og inkluderingsdepartementet |
+| [Lov om motorferdsel i utmark og vassdrag (motorferdselloven)](/norwegian-laws/lover/lov-1977-06-10-82.html) | Motorferdselloven | Klima- og miljødepartementet |
+| [Lov om norsk internasjonalt skipsregister [NIS-loven]](/norwegian-laws/lover/lov-1987-06-12-48.html) | NIS-loven – NISl | Nærings- og fiskeridepartementet |
+| [Lov om omdanning av Jernbaneverkets forretningsenhet BaneService til aksjeselska](/norwegian-laws/lover/lov-2005-01-07-5.html) | Lov om BaneService som AS | Samferdselsdepartementet |
+| [Lov om omdanning av Jernbaneverkets kommersielle televirksomhet til aksjeselskap](/norwegian-laws/lover/lov-2001-06-15-87.html) | Lov om BaneTele AS | Samferdselsdepartementet |
+| [Lov om omdanning av Kystverkets produksjonsvirksomhet til statsaksjeselskap](/norwegian-laws/lover/lov-2004-12-17-90.html) | Lov om Kystverkets produksjonsvirksomhet | Samferdselsdepartementet |
+| [Lov om omdanning av Luftfartsverket til aksjeselskap](/norwegian-laws/lover/lov-2002-12-13-85.html) | Lov om Statens lufthavnselskap | Samferdselsdepartementet |
+| [Lov om omdanning av Postbanken BA til aksjeselskap](/norwegian-laws/lover/lov-1999-06-18-42.html) | Lov om omdanning til Postbanken AS – Postbl | Samferdselsdepartementet |
+| [Lov om omdanning av Statens vegvesens produksjonsvirksomhet til statlig aksjesel](/norwegian-laws/lover/lov-2002-12-13-84.html) | Lov om statlig aksjeselskap for vegproduksjon | Samferdselsdepartementet |
+| [Lov om omdanning av statens jernbanetrafikkselskap (NSB BA) og statens postselsk](/norwegian-laws/lover/lov-2002-06-21-43.html) | Lov om NSB AS og Posten Norge AS | Samferdselsdepartementet |
+| [Lov om oppskyting av gjenstander fra norsk territorium m.m. ut i verdensrommet](/norwegian-laws/lover/lov-1969-06-13-38.html) | Lov om oppskyting i verdensrommet | Nærings- og fiskeridepartementet |
 | [Lov om overføring av ansvar for kollektivtransport](/norwegian-laws/lover/lov-2017-06-16-64.html) | Lov om overføring av ansvar for kollektivtransport | Samferdselsdepartementet |
+| [Lov om overføring av offentlige og private rettsforhold fra Statens vegvesen til](/norwegian-laws/lover/lov-2015-12-18-133.html) | Lov om Nye Veier AS | Samferdselsdepartementet |
+| [Lov om overføring av rettigheter og forpliktelser ved omklassifisering av veg et](/norwegian-laws/lover/lov-2009-06-19-109.html) | Lov om omklassifisering av veg | Samferdselsdepartementet |
 | [Lov om posttjenester (postloven)](/norwegian-laws/lover/lov-2015-09-04-91.html) | Postloven | Samferdselsdepartementet |
+| [Lov om reservasjonssystemer for flyreiser mv.](/norwegian-laws/lover/lov-2016-09-09-80.html) | Lov om reservasjonssystemer for flyreiser mv. | Samferdselsdepartementet |
+| [Lov om sikre containere [containerloven]](/norwegian-laws/lover/lov-1982-12-17-84.html) | Containerloven | Nærings- og fiskeridepartementet |
 | [Lov om sjøfarten (sjøloven)](/norwegian-laws/lover/lov-1994-06-24-39.html) | Sjøloven – sjøl | Justis- og beredskapsdepartementet |
+| [Lov om skipssikkerhet (skipssikkerhetsloven)](/norwegian-laws/lover/lov-2007-02-16-9.html) | Skipssikkerhetsloven | Nærings- og fiskeridepartementet |
+| [Lov om stillingsvern mv. for arbeidstakere på skip (skipsarbeidsloven)](/norwegian-laws/lover/lov-2013-06-21-102.html) | Skipsarbeidsloven | Nærings- og fiskeridepartementet |
 | [Lov om taubaner (taubaneloven)](/norwegian-laws/lover/lov-2017-05-22-29.html) | Taubaneloven | Samferdselsdepartementet |
+| [Lov om tilrettelegging for utbygging av høyhastighetsnett for elektronisk kommun](/norwegian-laws/lover/lov-2020-05-07-40.html) | Bredbåndsutbyggingsloven | Digitaliserings- og forvaltningsdepartementet |
+| [Lov om tilskudd til sysselsetting av arbeidstakere til sjøs](/norwegian-laws/lover/lov-2017-05-22-28.html) | Lov om tilskudd til sysselsetting av arbeidstakere til sjøs | Nærings- og fiskeridepartementet |
+| [Lov om tiltak mot diskriminering i internasjonal skipsfart](/norwegian-laws/lover/lov-1967-07-07-1.html) | Lov om diskriminering i internasj. skipsfart | Nærings- og fiskeridepartementet |
 | [Lov om utleie av små elektriske kjøretøy på offentlig grunn](/norwegian-laws/lover/lov-2021-06-18-139.html) | Lov om utleie av små elektriske kjøretøy på offentlig grunn | Samferdselsdepartementet |
 | [Lov om utprøving av selvkjørende kjøretøy](/norwegian-laws/lover/lov-2017-12-15-112.html) | Lov om utprøving av selvkjørende kjøretøy | Samferdselsdepartementet |
+| [Lov om varsling, rapportering og undersøkelse av jernbaneulykker og jernbanehend](/norwegian-laws/lover/lov-2005-06-03-34.html) | Jernbaneundersøkelsesloven | Samferdselsdepartementet |
 | [Lov om vegar (veglova)](/norwegian-laws/lover/lov-1963-06-21-23.html) | Veglova – vegl | Samferdselsdepartementet |
+| [Lov om vegfraktavtaler [vegfraktloven]](/norwegian-laws/lover/lov-1974-12-20-68.html) | Vegfraktloven – vegfrl | Justis- og beredskapsdepartementet |
 | [Lov om vegtrafikk (vegtrafikkloven)](/norwegian-laws/lover/lov-1965-06-18-4.html) | Vegtrafikkloven – vtrl | Samferdselsdepartementet |
+| [Lov om yrkestransport med motorvogn og fartøy (yrkestransportlova)](/norwegian-laws/lover/lov-2002-06-21-45.html) | Yrkestransportlova | Samferdselsdepartementet |

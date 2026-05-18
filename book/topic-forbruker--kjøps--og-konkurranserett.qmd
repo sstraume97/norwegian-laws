@@ -1,14 +1,30 @@
 # Forbruker-, kjøps- og konkurranserett
 
-*8 lover*
+*24 lover*
 
 | Lov | Korttittel | Departement |
 |-----|-----------|-------------|
+| [Lov om avtalar med forbrukar om oppføring av ny bustad m.m. (bustadoppføringslov](/norwegian-laws/lover/lov-1997-06-13-43.html) | Bustadoppføringslova – buofl | Justis- og beredskapsdepartementet |
+| [Lov om avtaler om deltidsbruksrett og langtidsferieprodukter mv. (tidspartloven)](/norwegian-laws/lover/lov-2012-05-25-27.html) | Tidspartloven | Barne- og familiedepartementet |
 | [Lov om behandling av forbrukerklager i Forbrukertilsynet og Forbrukerklageutvalg](/norwegian-laws/lover/lov-2020-06-23-98.html) | Forbrukerklageloven | Barne- og familiedepartementet |
+| [Lov om det frie varebytte i EØS (EØS-vareloven)](/norwegian-laws/lover/lov-2013-04-12-13.html) | EØS-vareloven | Nærings- og fiskeridepartementet |
+| [Lov om endringer i gjeldsordningsloven mv. (effektivisering og forenkling av gje](/norwegian-laws/lover/lov-2024-06-25-56.html) | Endringslov til gjeldsordningsloven mv. | Barne- og familiedepartementet |
+| [Lov om endringer i yrkestransportloven mv. (drosjetilbud, internkontroll, kontro](/norwegian-laws/lover/lov-2025-06-20-111.html) | Endringslov til yrkestransportloven mv. | Samferdselsdepartementet |
 | [Lov om forbrukerkjøp (forbrukerkjøpsloven)](/norwegian-laws/lover/lov-2002-06-21-34.html) | Forbrukerkjøpsloven – fkjl | Justis- og beredskapsdepartementet |
+| [Lov om gjennomføring av fellesregler om innenlands transport i EØS-avtalen](/norwegian-laws/lover/lov-1995-05-26-25.html) | Lov om innenlands transport i EØS-avtalen | Samferdselsdepartementet |
+| [Lov om gjennomføring og kontroll av EØS-avtalens konkurranseregler mv. (EØS-konk](/norwegian-laws/lover/lov-2004-03-05-11.html) | EØS-konkurranseloven | Nærings- og fiskeridepartementet |
+| [Lov om godkjenning av klageorganer for forbrukersaker (godkjenningsloven)](/norwegian-laws/lover/lov-2016-06-17-29.html) | Godkjenningsloven | Barne- og familiedepartementet |
+| [Lov om handheving av det frie varebyttet innan EØS](/norwegian-laws/lover/lov-2005-03-04-12.html) | Lov om det frie varebyttet innan EØS | Justis- og beredskapsdepartementet |
+| [Lov om håndverkertjenester m.m for forbrukere [håndverkertjenesteloven]](/norwegian-laws/lover/lov-1989-06-16-63.html) | Håndverkertjenesteloven – hvtjl | Justis- og beredskapsdepartementet |
 | [Lov om kjøp [kjøpsloven]](/norwegian-laws/lover/lov-1988-05-13-27.html) | Kjøpsloven – kjl | Justis- og beredskapsdepartementet |
 | [Lov om konkurranse mellom foretak og kontroll med foretakssammenslutninger (konk](/norwegian-laws/lover/lov-2004-03-05-12.html) | Konkurranseloven – krrl | Nærings- og fiskeridepartementet |
+| [Lov om kontroll med markedsføring og avtalevilkår mv. (markedsføringsloven)](/norwegian-laws/lover/lov-2009-01-09-2.html) | Markedsføringsloven – mfl | Barne- og familiedepartementet |
 | [Lov om mellomfolkeleg-privatrettslege reglar for lausøyrekjøp [kjøpslovvalgslove](/norwegian-laws/lover/lov-1964-04-03-1.html) | Kjøpslovvalgsloven – intprkjl | Justis- og beredskapsdepartementet |
+| [Lov om merking av forbruksvarer mv. (forbrukermerkeloven)](/norwegian-laws/lover/lov-1981-12-18-90.html) | Forbrukermerkeloven | Barne- og familiedepartementet |
 | [Lov om omsetning av bøker (bokloven)](/norwegian-laws/lover/lov-2023-06-16-64.html) | Bokloven | Kultur- og likestillingsdepartementet |
+| [Lov om opplysningsplikt og angrerett ved fjernsalg og salg utenom faste forretni](/norwegian-laws/lover/lov-2014-06-20-27.html) | Angrerettloven – angrl | Barne- og familiedepartementet |
 | [Lov om pakkereiser og reisegaranti mv. (pakkereiseloven)](/norwegian-laws/lover/lov-2018-06-15-32.html) | Pakkereiseloven | Barne- og familiedepartementet |
 | [Lov om pristiltak](/norwegian-laws/lover/lov-1993-06-11-66.html) | Pristiltaksloven – pristl | Nærings- og fiskeridepartementet |
+| [Lov om produktansvar [produktansvarsloven]](/norwegian-laws/lover/lov-1988-12-23-104.html) | Produktansvarsloven – prodansvl | Justis- og beredskapsdepartementet |
+| [Lov om reservasjonssystemer for flyreiser mv.](/norwegian-laws/lover/lov-2016-09-09-80.html) | Lov om reservasjonssystemer for flyreiser mv. | Samferdselsdepartementet |
+| [Lov om tekniske kontrollorgan som har til oppgåve å gjennomføre samsvarsvurderin](/norwegian-laws/lover/lov-1994-06-16-20.html) | Lov om tekniske kontrollorgan | Nærings- og fiskeridepartementet |

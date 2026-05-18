@@ -1,8 +1,15 @@
 # Samerett
 
-*2 lover*
+*9 lover*
 
 | Lov | Korttittel | Departement |
 |-----|-----------|-------------|
+| [Første Codicill og Tillæg til Grendse-Tractaten imellem Kongerigerne Norge og Sv](/norwegian-laws/lover/lov-1751-10-02.html) | Lappekodisillen | Landbruks- og matdepartementet |
 | [Lov om Sametinget og andre samiske rettsforhold (sameloven)](/norwegian-laws/lover/lov-1987-06-12-56.html) | Sameloven – samel | Kommunal- og distriktsdepartementet |
 | [Lov om endringer i reindriftsloven (tilgjengeliggjøring av reintall og obligator](/norwegian-laws/lover/lov-2019-06-21-62.html) | Endringslov til reindriftsloven | Landbruks- og matdepartementet |
+| [Lov om fiskeretten i Tanavassdraget (Tanaloven)](/norwegian-laws/lover/lov-2014-06-20-51.html) | Tanaloven | Klima- og miljødepartementet |
+| [Lov om informasjonstilgang mv. for Kommisjonen for å granske fornorskingspolitik](/norwegian-laws/lover/lov-2020-05-12-41.html) | Lov om informasjonstilgang (fornorskingspolitikk) | Kommunal- og distriktsdepartementet |
+| [Lov om likestilling og forbud mot diskriminering (likestillings- og diskrimineri](/norwegian-laws/lover/lov-2017-06-16-51.html) | Likestillings- og diskrimineringsloven – ldl | Kultur- og likestillingsdepartementet |
+| [Lov om reindrift (reindriftsloven)](/norwegian-laws/lover/lov-2007-06-15-40.html) | Reindriftsloven | Landbruks- og matdepartementet |
+| [Lov om rettsforhold og forvaltning av grunn og naturressurser i Finnmark (Finnma](/norwegian-laws/lover/lov-2005-06-17-85.html) | Finnmarksloven | Justis- og beredskapsdepartementet |
+| [Lov om svensk reinbeiting i Norge og norsk reinbeiting i Sverige (grensereinbeit](/norwegian-laws/lover/lov-1972-06-09-31.html) | Grensereinbeiteloven | Landbruks- og matdepartementet |

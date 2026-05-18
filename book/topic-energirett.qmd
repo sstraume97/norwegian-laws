@@ -1,6 +1,6 @@
 # Energirett
 
-*26 lover*
+*27 lover*
 
 | Lov | Korttittel | Departement |
 |-----|-----------|-------------|
@@ -11,6 +11,7 @@
 | [Lov om avgift på utslipp av CO2i petroleumsvirksomhet på kontinentalsokkelen](/norwegian-laws/lover/lov-1990-12-21-72.html) | Lov om avgift på utslipp av CO2 | Finansdepartementet |
 | [Lov om beredskapslagring av petroleumsprodukt](/norwegian-laws/lover/lov-2006-08-18-61.html) | Lov om beredskapslagring av petroleumsprodukt | Nærings- og fiskeridepartementet |
 | [Lov om elsertifikater](/norwegian-laws/lover/lov-2011-06-24-39.html) | Elsertifikatloven | Energidepartementet |
+| [Lov om endringer i lov om Statens pensjonsfond](/norwegian-laws/lover/lov-2023-12-20-104.html) | Endringslov til lov om Statens pensjonsfond | Finansdepartementet |
 | [Lov om felles regler for det indre marked for naturgass (naturgassloven)](/norwegian-laws/lover/lov-2002-06-28-61.html) | Naturgassloven | Energidepartementet |
 | [Lov om fornybar energiproduksjon til havs (havenergilova)](/norwegian-laws/lover/lov-2010-06-04-21.html) | Havenergilova – havenl | Energidepartementet |
 | [Lov om garantistillelse fra Statoil ASA ved emisjon og salg av statens aksjer](/norwegian-laws/lover/lov-2001-05-18-22.html) | Lov om garanti fra Statoil ASA ved aksjesalg | Energidepartementet |

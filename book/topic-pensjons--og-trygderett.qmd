@@ -1,34 +1,78 @@
 # Pensjons- og trygderett
 
-*28 lover*
+*72 lover*
 
 | Lov | Korttittel | Departement |
 |-----|-----------|-------------|
+| [Lov om Finanstilsynet (finanstilsynsloven)](/norwegian-laws/lover/lov-2024-06-21-41.html) | Finanstilsynsloven | Finansdepartementet |
+| [Lov om Husbanken](/norwegian-laws/lover/lov-2009-05-29-30.html) | Husbankloven | Kommunal- og distriktsdepartementet |
+| [Lov om Norgespris og strømstønad til husholdninger](/norwegian-laws/lover/lov-2025-06-20-44.html) | Lov om Norgespris og strømstønad til husholdninger | Energidepartementet |
+| [Lov om Statens pensjonskasse](/norwegian-laws/lover/lov-1949-07-28-26.html) | Statens pensjonskasseloven – stpkl | Arbeids- og inkluderingsdepartementet |
+| [Lov om anke til Trygderetten (trygderettsloven)](/norwegian-laws/lover/lov-1966-12-16-9.html) | Trygderettsloven – trrl | Arbeids- og inkluderingsdepartementet |
+| [Lov om arbeids- og velferdsforvaltningen (arbeids- og velferdsforvaltningsloven)](/norwegian-laws/lover/lov-2006-06-16-20.html) | Nav-loven | Arbeids- og inkluderingsdepartementet |
+| [Lov om arbeidsgivers innrapportering av ansettelses- og inntektsforhold m.m. (a-](/norwegian-laws/lover/lov-2012-06-22-43.html) | A-opplysningsloven | Finansdepartementet |
 | [Lov om avtalefestet pensjon for arbeidstakere med rett til medlemskap i Pensjons](/norwegian-laws/lover/lov-1994-07-01-49.html) | Lov om AFP for apotekvirksomhet | Arbeids- og inkluderingsdepartementet |
 | [Lov om avtalefestet pensjon for medlemmer av Statens pensjonskasse](/norwegian-laws/lover/lov-2010-06-25-28.html) | Lov om AFP for medlemmer av Statens pensjonskasse | Arbeids- og inkluderingsdepartementet |
+| [Lov om barnetrygd (barnetrygdloven)](/norwegian-laws/lover/lov-2002-03-08-4.html) | Barnetrygdloven – btrl | Barne- og familiedepartementet |
+| [Lov om beskyttelse av supplerende pensjonsrettigheter for arbeidstakere og selvs](/norwegian-laws/lover/lov-2001-12-14-95.html) | Lov om pensjonsrettigheter innen EØS | Finansdepartementet |
+| [Lov om bidragsforskott (forskotteringsloven)](/norwegian-laws/lover/lov-1989-02-17-2.html) | Forskotteringsloven – forskl | Barne- og familiedepartementet |
 | [Lov om bustøtte og kommunale bustadtilskot (bustøttelova)](/norwegian-laws/lover/lov-2012-08-24-64.html) | Bustøttelova | Kommunal- og distriktsdepartementet |
+| [Lov om den europeiske arbeidsmarknadsstyresmakta (ELA-lova)](/norwegian-laws/lover/lov-2025-04-10-8.html) | ELA-lova | Arbeids- og inkluderingsdepartementet |
+| [Lov om digital operasjonell motstandsdyktighet i finanssektoren (DORA-loven)](/norwegian-laws/lover/lov-2025-05-27-18.html) | DORA-loven | Finansdepartementet |
+| [Lov om endringar i folketrygdlova og enkelte andre lover (oppfølging av tiltak i](/norwegian-laws/lover/lov-2025-12-22-117.html) | Endringslov til folketrygdlova og enkelte andre lover | Arbeids- og inkluderingsdepartementet |
+| [Lov om endringer i arbeidsmiljøloven og sosialtjenesteloven (adgang til midlerti](/norwegian-laws/lover/lov-2015-04-24-20.html) | Endringslov til arbeidsmiljøloven og sosialtjenesteloven | Arbeids- og inkluderingsdepartementet |
+| [Lov om endringer i barnetrygdloven og midlertidige endringer i lovverket som føl](/norwegian-laws/lover/lov-2024-06-25-53.html) | Endringslov til barnetrygdloven mv. (Ukraina) | Arbeids- og inkluderingsdepartementet |
+| [Lov om endringer i barnevernsloven mv. (kvalitetsløftet i barnevernet)](/norwegian-laws/lover/lov-2025-06-20-39.html) | Endringslov til barnevernsloven mv. | Barne- og familiedepartementet |
 | [Lov om endringer i folketrygdloven (ny alderspensjon)](/norwegian-laws/lover/lov-2009-06-05-32.html) | Endringslov til folketrygdloven (ny alderspensjon) | Arbeids- og inkluderingsdepartementet |
 | [Lov om endringer i folketrygdloven (ny uføretrygd og alderspensjon til uføre)](/norwegian-laws/lover/lov-2011-12-16-59.html) | Endringslov til folketrygdloven (ny uføretrygd) | Arbeids- og inkluderingsdepartementet |
 | [Lov om endringer i folketrygdloven (nye etterlatteytelser)](/norwegian-laws/lover/lov-2020-12-18-139.html) | Endringslov til folketrygdloven (nye etterlatteytelser) | Arbeids- og inkluderingsdepartementet |
+| [Lov om endringer i folketrygdloven (yrkessykdommer og elektronisk melding av yrk](/norwegian-laws/lover/lov-2025-06-10-30.html) | Endringslov til folketrygdloven | Arbeids- og inkluderingsdepartementet |
 | [Lov om endringer i folketrygdloven mv. (arbeidsavklaringspenger og tilleggsstøna](/norwegian-laws/lover/lov-2017-06-16-43.html) | Endringslov til folketrygdloven mv. | Arbeids- og inkluderingsdepartementet |
+| [Lov om endringer i folketrygdloven og enkelte andre lover](/norwegian-laws/lover/lov-2019-12-20-84.html) | Endringslov til folketrygdloven og enkelte andre lover | Arbeids- og inkluderingsdepartementet |
+| [Lov om endringer i foretakspensjonsloven og forsikringsvirksomhetsloven (forvalt](/norwegian-laws/lover/lov-2026-05-07-16.html) | Endringslov til foretakspensjonsloven og forsikringsvirksomhetsloven | Finansdepartementet |
+| [Lov om endringer i helsepersonelloven og pasientjournalloven mv. (taushetsplikt ](/norwegian-laws/lover/lov-2026-01-23-1.html) | Endringslov til helsepersonelloven og pasientjournalloven mv. | Helse- og omsorgsdepartementet |
+| [Lov om endringer i konfliktrådsloven, straffeloven og straffeprosessloven mv. (s](/norwegian-laws/lover/lov-2023-12-20-110.html) | Endringslov til konfliktrådsloven, straffeloven mv | Justis- og beredskapsdepartementet |
+| [Lov om endringer i lov om Statens pensjonskasse og enkelte andre lover (ny uføre](/norwegian-laws/lover/lov-2014-03-07-5.html) | Endringslov til lov om Statens pensjonskasse mfl. | Arbeids- og inkluderingsdepartementet |
+| [Lov om endringer i lov om Statens pensjonskasse, folketrygdloven og i enkelte an](/norwegian-laws/lover/lov-2014-12-19-73.html) | Endringslov til ftrl. og div. pensjonslover | Arbeids- og inkluderingsdepartementet |
+| [Lov om endringer i trygderettsloven mv. (ankeerklæring til Trygderetten, avgjøre](/norwegian-laws/lover/lov-2025-06-20-38.html) | Endringslov til trygderettsloven mv. | Arbeids- og inkluderingsdepartementet |
+| [Lov om endringer i utlendingsloven mv. (familieinnvandring m.m.)](/norwegian-laws/lover/lov-2025-06-20-84.html) | Endringslov til utlendingsloven mv. | Justis- og beredskapsdepartementet |
 | [Lov om folketrygd (folketrygdloven)](/norwegian-laws/lover/lov-1997-02-28-19.html) | Folketrygdloven – ftrl | Arbeids- og inkluderingsdepartementet |
+| [Lov om foretakspensjon (foretakspensjonsloven)](/norwegian-laws/lover/lov-2000-03-24-16.html) | Foretakspensjonsloven – ftpensjl | Finansdepartementet |
 | [Lov om individuell pensjonsordning](/norwegian-laws/lover/lov-2008-06-27-62.html) | Lov om individuell pensjonsordning | Finansdepartementet |
+| [Lov om informasjonstilgang mv. for utvalget for ekstern gransking av saken knytt](/norwegian-laws/lover/lov-2019-12-20-85.html) | Lov om informasjonstilgang mv. for NAV-granskingsutvalget | Arbeids- og inkluderingsdepartementet |
+| [Lov om innkreving av underholdsbidrag mv. (bidragsinnkrevingsloven)](/norwegian-laws/lover/lov-2005-04-29-20.html) | Bidragsinnkrevingsloven | Barne- og familiedepartementet |
+| [Lov om innskuddspensjon i arbeidsforhold (innskuddspensjonsloven)](/norwegian-laws/lover/lov-2000-11-24-81.html) | Innskuddspensjonsloven – innskpensjl | Finansdepartementet |
+| [Lov om integrering gjennom opplæring, utdanning og arbeid (integreringsloven)](/norwegian-laws/lover/lov-2020-11-06-127.html) | Integreringsloven | Arbeids- og inkluderingsdepartementet |
 | [Lov om kommunenes ansvar på det boligsosiale feltet [boligsosialloven]](/norwegian-laws/lover/lov-2022-12-20-121.html) | Boligsosialloven | Kommunal- og distriktsdepartementet |
+| [Lov om kontantstøtte til småbarnsforeldre (kontantstøtteloven)](/norwegian-laws/lover/lov-1998-06-26-41.html) | Kontantstøtteloven | Barne- og familiedepartementet |
 | [Lov om krigspensjonering for hjemmestyrkepersonell og sivilpersoner](/norwegian-laws/lover/lov-1946-12-13-22.html) | Lov om krigspensjonering for sivile m.v. | Arbeids- og inkluderingsdepartementet |
 | [Lov om krigspensjonering for militærpersoner](/norwegian-laws/lover/lov-1946-12-13-21.html) | Lov om krigspensjon for militærpersoner | Arbeids- og inkluderingsdepartementet |
+| [Lov om lønnsstøtte (økonomiske tiltak i møte med pandemien)](/norwegian-laws/lover/lov-2022-01-28-2.html) | Lov om lønnsstøtte (økonomiske tiltak i møte med pandemien) | Finansdepartementet |
 | [Lov om midlertidig tilskuddsordning for foretak med stort omsetningsfall etter a](/norwegian-laws/lover/lov-2020-12-18-156.html) | Lov om midl. tilskudd ved omsetningsfall etter august 2020 | Nærings- og fiskeridepartementet |
 | [Lov om obligatorisk tjenestepensjon [OTP-loven]](/norwegian-laws/lover/lov-2005-12-21-124.html) | OTP-loven | Finansdepartementet |
 | [Lov om opphevelse av lov 9. november 1956 om pensjonsordning for åremålstilsatte](/norwegian-laws/lover/lov-1982-05-21-29.html) | Lov om opph. av pensjonsordn. for åremålstilsatte | Arbeids- og inkluderingsdepartementet |
+| [Lov om pensjonering av militært tilsatte som etter søknad er gitt avskjed med re](/norwegian-laws/lover/lov-1957-05-03.html) | Lov om pensjonering av militært tilsatte | Arbeids- og inkluderingsdepartementet |
+| [Lov om pensjonsordning for Stortingets ombudsmann for forvaltningen](/norwegian-laws/lover/lov-1966-05-06.html) | Lov om pensjonsordning for sivilombudsmannen | Arbeids- og inkluderingsdepartementet |
 | [Lov om pensjonsordning for apotekvirksomhet mv. [apotekpensjonsloven]](/norwegian-laws/lover/lov-1953-06-26-11.html) | Apotekpensjonsloven | Arbeids- og inkluderingsdepartementet |
 | [Lov om pensjonsordning for arbeidstakere til sjøs](/norwegian-laws/lover/lov-1948-12-03-7.html) | Pensjonsordning for arbeidstakere til sjøs – sjømptrl | Arbeids- og inkluderingsdepartementet |
+| [Lov om pensjonsordning for ballettdansere, sangsolister og korsangere ved Den No](/norwegian-laws/lover/lov-1998-08-21-65.html) | Operapensjonsloven | Arbeids- og inkluderingsdepartementet |
+| [Lov om pensjonsordning for ledsagere i utenrikstjenesten](/norwegian-laws/lover/lov-1999-01-15-1.html) | Lov om ledsagerpensjon i utenrikstjenesten | Arbeids- og inkluderingsdepartementet |
 | [Lov om pensjonsordning for oppdragstaker i beredskapshjem eller spesialisert fos](/norwegian-laws/lover/lov-2010-02-12-4.html) | Lov om pensjon for oppdragstaker i barnevernet | Arbeids- og inkluderingsdepartementet |
+| [Lov om pensjonsordning for stortingsrepresentanter og regjeringsmedlemmer (stort](/norwegian-laws/lover/lov-2011-12-16-60.html) | Stortings- og regjeringspensjonsloven | Arbeids- og inkluderingsdepartementet |
 | [Lov om pensjonsordning for sykepleiere [sykepleierpensjonsloven]](/norwegian-laws/lover/lov-1962-06-22-12.html) | Sykepleierpensjonsloven | Arbeids- og inkluderingsdepartementet |
 | [Lov om pensjonstrygd for fiskere [fiskerpensjonsloven]](/norwegian-laws/lover/lov-1957-06-28-12.html) | Fiskerpensjonsloven | Arbeids- og inkluderingsdepartementet |
 | [Lov om samordning av pensjons- og trygdeytelser (samordningsloven)](/norwegian-laws/lover/lov-1957-07-06-26.html) | Samordningsloven – samordl | Arbeids- og inkluderingsdepartementet |
+| [Lov om sosiale tjenester i arbeids- og velferdsforvaltningen (sosialtjenestelove](/norwegian-laws/lover/lov-2009-12-18-131.html) | Sosialtjenesteloven – sotjl | Arbeids- og inkluderingsdepartementet |
+| [Lov om stans i utbetalinga av offentlege ytingar og barnebidrag når ein av forel](/norwegian-laws/lover/lov-2014-06-06-19.html) | Lov om stans i utbetalinger etter barnebortføring | Barne- og familiedepartementet |
 | [Lov om statstilskott til arbeidstakere som tar ut avtalefestet pensjon i privat ](/norwegian-laws/lover/lov-2010-02-19-5.html) | AFP-tilskottsloven | Arbeids- og inkluderingsdepartementet |
 | [Lov om stønad ved krigsskade på person [krigsskadestønadsloven]](/norwegian-laws/lover/lov-1954-11-26-3.html) | Krigsskadestønadsloven | Arbeids- og inkluderingsdepartementet |
 | [Lov om supplerande stønad til personar med kort butid i Noreg](/norwegian-laws/lover/lov-2005-04-29-21.html) | Lov om supplerande stønad ved kort butid | Arbeids- og inkluderingsdepartementet |
 | [Lov om tillegg til 1) lov om krigspensjonering for militærpersoner av 13. desemb](/norwegian-laws/lover/lov-1968-03-22-2.html) | Tilleggslov om krigspensjonering | Arbeids- og inkluderingsdepartementet |
+| [Lov om tillegg til lov 28. juli 1949 om Statens pensjonskasse [høyesterettspensj](/norwegian-laws/lover/lov-1982-05-21-25.html) | Høyesterettspensjonsloven | Arbeids- og inkluderingsdepartementet |
+| [Lov om tillegg til lov om Statens pensjonskasse av 28. juli 1949](/norwegian-laws/lover/lov-1956-11-09-1.html) | Tilleggslov om Statens pensjonskasse | Arbeids- og inkluderingsdepartementet |
+| [Lov om tilskudd til visse private virksomheter med offentlig tjenestepensjonsord](/norwegian-laws/lover/lov-2019-03-01-3.html) | Lov om tilskudd til virksomheter med offentlig tjenestepensjonsordning | Helse- og omsorgsdepartementet |
+| [Lov om tjenestepensjon (tjenestepensjonsloven)](/norwegian-laws/lover/lov-2013-12-13-106.html) | Tjenestepensjonsloven | Finansdepartementet |
 | [Lov om utdanningsstøtte (utdanningsstøtteloven)](/norwegian-laws/lover/lov-2005-06-03-37.html) | Utdanningsstøtteloven | Kunnskapsdepartementet |
+| [Lov om utvalget for gjennomgang av stortingspensjoner](/norwegian-laws/lover/lov-2008-10-17-79.html) | Stortingspensjonsutvalgsloven | Justis- og beredskapsdepartementet |
 | [Lov om yrkesskadetrygd [yrkesskadetrygdloven]](/norwegian-laws/lover/lov-1958-12-12-10.html) | Yrkesskadetrygdloven | Arbeids- og inkluderingsdepartementet |
 | [Midlertidig lov om tillegg til lover av 13. desember 1946 om 1) Krigspensjonerin](/norwegian-laws/lover/lov-1951-06-29-34.html) | Tilleggslov om krigspensjonering | Arbeids- og inkluderingsdepartementet |

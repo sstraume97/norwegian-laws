@@ -1,24 +1,44 @@
 # Kultur, idrett og underholdning
 
-*18 lover*
+*38 lover*
 
 | Lov | Korttittel | Departement |
 |-----|-----------|-------------|
+| [Lov om Etterretningstjenesten (etterretningstjenesteloven)](/norwegian-laws/lover/lov-2020-06-19-77.html) | Etterretningstjenesteloven | Forsvarsdepartementet |
 | [Lov om Kulturrådet (kulturrådsloven)](/norwegian-laws/lover/lov-2013-06-07-31.html) | Kulturrådsloven | Kultur- og likestillingsdepartementet |
 | [Lov om Riksteatret [riksteaterlova]](/norwegian-laws/lover/lov-1948-12-13-5.html) | Riksteaterlova | Kultur- og likestillingsdepartementet |
+| [Lov om Statens kommisjon for partnerdrap](/norwegian-laws/lover/lov-2025-03-28-5.html) | Lov om Statens kommisjon for partnerdrap | Justis- og beredskapsdepartementet |
+| [Lov om Stortingets ombud for kontroll med forvaltningen (sivilombudsloven)](/norwegian-laws/lover/lov-2021-06-18-121.html) | Sivilombudsloven | Justis- og beredskapsdepartementet |
+| [Lov om adgang for staten til utferdigelse av premieobligasjonslån](/norwegian-laws/lover/lov-1924-06-13-4.html) | Lov om statens premieobligasjonslån | Finansdepartementet |
 | [Lov om avgift på offentlig framføring av utøvende kunstneres prestasjoner m.v.](/norwegian-laws/lover/lov-1956-12-14-4.html) | Lov om avgift til fond for utøvende kunstnere | Kultur- og likestillingsdepartementet |
 | [Lov om avgift på omsetning av billedkunst m.m. (kunstavgiftsloven)](/norwegian-laws/lover/lov-1948-11-04-1.html) | Kunstavgiftsloven | Kultur- og likestillingsdepartementet |
+| [Lov om avgift til Det norske komponistfond](/norwegian-laws/lover/lov-1965-04-09-1.html) | Lov om avgift til Det norske komponistfond | Kultur- og likestillingsdepartementet |
 | [Lov om avgift til statskassen på inngangspenger til forestillinger og framvisnin](/norwegian-laws/lover/lov-1966-06-10-3.html) | Lov om avgift på forestillinger m.v. | Finansdepartementet |
+| [Lov om avleveringsplikt for allment tilgjengelege dokument (pliktavleveringslova](/norwegian-laws/lover/lov-1989-06-09-32.html) | Pliktavleveringslova – avlvl | Kultur- og likestillingsdepartementet |
+| [Lov om behandling av personopplysninger i Norges idrettsforbund og olympiske og ](/norwegian-laws/lover/lov-2025-06-20-95.html) | Lov om behandling av personopplysninger i Norges idrettsforbund mv | Kultur- og likestillingsdepartementet |
+| [Lov om beskyttelse av mindreårige mot skadelige bildeprogram mv.](/norwegian-laws/lover/lov-2015-02-06-7.html) | Bildeprogramloven | Kultur- og likestillingsdepartementet |
+| [Lov om bibliotekvederlag](/norwegian-laws/lover/lov-1987-05-29-23.html) | Bibliotekvederlagsloven | Kultur- og likestillingsdepartementet |
 | [Lov om dokumentasjon og arkiv (arkivlova)](/norwegian-laws/lover/lov-2025-06-20-96.html) | Arkivlova | Kultur- og likestillingsdepartementet |
+| [Lov om endringer i ekomloven og straffeprosessloven mv. (gjennomføring av EUs da](/norwegian-laws/lover/lov-2011-04-15-11.html) | Endringslov om datalagringsdirektivet | Justis- og beredskapsdepartementet |
+| [Lov om endringer i kringkastingsloven mv. (gjennomføring av endringsdirektiv til](/norwegian-laws/lover/lov-2025-02-28-2.html) | Endringslov til kringkastingsloven mv. | Kultur- og likestillingsdepartementet |
+| [Lov om endringer i pengespill- og lotterilovgivningen](/norwegian-laws/lover/lov-2003-08-29-90.html) | Endringslov til pengespill- og lotterilover | Kultur- og likestillingsdepartementet |
 | [Lov om film og videogram](/norwegian-laws/lover/lov-1987-05-15-21.html) | Film- og videogramlova – filml | Kultur- og likestillingsdepartementet |
 | [Lov om folkebibliotek (folkebibliotekloven)](/norwegian-laws/lover/lov-1985-12-20-108.html) | Folkebibliotekloven | Kultur- og likestillingsdepartementet |
 | [Lov om forbud mot fallskjermhopping m.v. innenfor visse fjellområder](/norwegian-laws/lover/lov-1987-06-12-57.html) | Lov om forbud mot fallskjermhopping | Justis- og beredskapsdepartementet |
 | [Lov om forbud mot prispåslag ved videresalg av billetter til kultur- og idrettsa](/norwegian-laws/lover/lov-2007-06-29-86.html) | Svartebørsloven | Kultur- og likestillingsdepartementet |
+| [Lov om fornøyelsesinnretninger (tivoliloven)](/norwegian-laws/lover/lov-2017-05-22-30.html) | Tivoliloven | Samferdselsdepartementet |
+| [Lov om informasjonstilgang m.m. for Ekstremismekommisjonen](/norwegian-laws/lover/lov-2022-12-20-97.html) | Lov om informasjonstilgang m.m. for Ekstremismekommisjonen | Arbeids- og inkluderingsdepartementet |
+| [Lov om informasjonstilgang m.m. for Koronautvalget, og endringer i voldserstatni](/norwegian-laws/lover/lov-2022-12-20-118.html) | Lov om informasjonstilgang m.m. for Koronautvalget mv. | Justis- og beredskapsdepartementet |
+| [Lov om informasjonstilgang m.m. for Utvalget for evaluering av etterretningstjen](/norwegian-laws/lover/lov-2025-06-20-66.html) | Lov om informasjonstilgang, evaluering av etterretningstjenesteloven | Forsvarsdepartementet |
 | [Lov om kulturminner [kulturminneloven]](/norwegian-laws/lover/lov-1978-06-09-50.html) | Kulturminneloven – kulml | Klima- og miljødepartementet |
 | [Lov om naturområder i Oslo og nærliggende kommuner (markaloven)](/norwegian-laws/lover/lov-2009-06-05-35.html) | Markaloven | Klima- og miljødepartementet |
+| [Lov om offentlege styresmakters ansvar for kulturverksemd (kulturlova)](/norwegian-laws/lover/lov-2007-06-29-89.html) | Kulturlova | Kultur- og likestillingsdepartementet |
 | [Lov om organisert kampaktivitet som tillater knockout [knockoutloven]](/norwegian-laws/lover/lov-2001-06-15-73.html) | Knockoutloven | Kultur- og likestillingsdepartementet |
 | [Lov om pengespill (pengespilloven)](/norwegian-laws/lover/lov-2022-03-18-12.html) | Pengespilloven | Kultur- og likestillingsdepartementet |
 | [Lov om pensjonsordning for ballettdansere, sangsolister og korsangere ved Den No](/norwegian-laws/lover/lov-1998-08-21-65.html) | Operapensjonsloven | Arbeids- og inkluderingsdepartementet |
+| [Lov om rett til innsyn i dokument i offentleg verksemd (offentleglova)](/norwegian-laws/lover/lov-2006-05-19-16.html) | Offentleglova – offl | Justis- og beredskapsdepartementet |
 | [Lov om skatt på honorar til utenlandske artister mv (artistskatteloven)](/norwegian-laws/lover/lov-1996-12-13-87.html) | Artistskatteloven | Finansdepartementet |
 | [Lov om stadnamn (stadnamnlova)](/norwegian-laws/lover/lov-1990-05-18-11.html) | Stadnamnlova – stadnl | Kultur- og likestillingsdepartementet |
+| [Lov om statsbidrag til anlegg m.v. av skytebaner](/norwegian-laws/lover/lov-1974-04-05-14.html) | Lov om statsbidrag til skytebaner | Forsvarsdepartementet |
+| [Lov om tros- og livssynssamfunn (trossamfunnsloven)](/norwegian-laws/lover/lov-2020-04-24-31.html) | Trossamfunnsloven | Barne- og familiedepartementet |
 | [Lov om vederlag for visning av billedkunst og kunsthåndverk m.v.](/norwegian-laws/lover/lov-1993-05-28-52.html) | Lov om vederlag for kunstvisning | Kultur- og likestillingsdepartementet |

@@ -1,6 +1,6 @@
 # Helse- og omsorgsrett
 
-*25 lover*
+*54 lover*
 
 | Lov | Korttittel | Departement |
 |-----|-----------|-------------|
@@ -8,24 +8,53 @@
 | [Lov om abort (abortloven)](/norwegian-laws/lover/lov-2024-12-20-96.html) | Abortloven | Helse- og omsorgsdepartementet |
 | [Lov om alternativ behandling av sykdom mv.](/norwegian-laws/lover/lov-2003-06-27-64.html) | Alternativ behandlingsloven – albhl | Helse- og omsorgsdepartementet |
 | [Lov om apotek (apotekloven)](/norwegian-laws/lover/lov-2000-06-02-39.html) | Apotekloven – apotl | Helse- og omsorgsdepartementet |
+| [Lov om behandling av helseopplysninger ved ytelse av helsehjelp (pasientjournall](/norwegian-laws/lover/lov-2014-06-20-42.html) | Pasientjournalloven | Helse- og omsorgsdepartementet |
+| [Lov om behandlingsbiobanker (behandlingsbiobankloven)](/norwegian-laws/lover/lov-2003-02-21-12.html) | Behandlingsbiobankloven – biobl | Helse- og omsorgsdepartementet |
 | [Lov om donasjon og transplantasjon av organ, celler og vev (transplantasjonslova](/norwegian-laws/lover/lov-2015-05-07-25.html) | Transplantasjonslova | Helse- og omsorgsdepartementet |
+| [Lov om endringar i pasient- og brukarrettslova, helsepersonellova m.m. (styrking](/norwegian-laws/lover/lov-2017-06-16-53.html) | Endringslov til pasient- og brukarrettslova, helsepersonellova m.m. | Helse- og omsorgsdepartementet |
+| [Lov om endringer i barnetrygdloven og midlertidige endringer i lovverket som føl](/norwegian-laws/lover/lov-2024-06-25-53.html) | Endringslov til barnetrygdloven mv. (Ukraina) | Arbeids- og inkluderingsdepartementet |
+| [Lov om endringer i barnevernsloven mv. (kvalitetsløftet i barnevernet)](/norwegian-laws/lover/lov-2025-06-20-39.html) | Endringslov til barnevernsloven mv. | Barne- og familiedepartementet |
+| [Lov om endringer i helseforskningsloven mv. (vilkår for medisinsk og helsefaglig](/norwegian-laws/lover/lov-2025-06-20-71.html) | Endringslov til helseforskningsloven mv. | Helse- og omsorgsdepartementet |
+| [Lov om endringer i helsepersonelloven og pasientjournalloven mv. (taushetsplikt ](/norwegian-laws/lover/lov-2026-01-23-1.html) | Endringslov til helsepersonelloven og pasientjournalloven mv. | Helse- og omsorgsdepartementet |
+| [Lov om endringer i helsetilsynsloven mv. (ny meldeordning for alvorlige hendelse](/norwegian-laws/lover/lov-2025-06-20-74.html) | Endringslov til helsetilsynsloven mv. | Helse- og omsorgsdepartementet |
+| [Lov om endringer i konfliktrådsloven, straffeloven og straffeprosessloven mv. (s](/norwegian-laws/lover/lov-2023-12-20-110.html) | Endringslov til konfliktrådsloven, straffeloven mv | Justis- og beredskapsdepartementet |
+| [Lov om endringer i kringkastingsloven mv. (gjennomføring av endringsdirektiv til](/norwegian-laws/lover/lov-2025-02-28-2.html) | Endringslov til kringkastingsloven mv. | Kultur- og likestillingsdepartementet |
 | [Lov om endringer i pasient- og brukerrettighetsloven og helse- og omsorgstjenest](/norwegian-laws/lover/lov-2016-06-17-45.html) | Endringslov til pasient- og brukerrettighetsloven mv | Helse- og omsorgsdepartementet |
+| [Lov om endringer i psykisk helsevernloven og pasient- og brukerrettighetsloven m](/norwegian-laws/lover/lov-2025-06-20-67.html) | Endringslov til psykisk helsevernloven mv | Helse- og omsorgsdepartementet |
 | [Lov om endringer i spesialisthelsetjenesteloven og pasient- og brukerrettighetsl](/norwegian-laws/lover/lov-2019-12-20-103.html) | Endringslov til spesialisthelsetjenesteloven og pasient- og brukerrettighetsloven | Helse- og omsorgsdepartementet |
 | [Lov om endringer i straffegjennomføringsloven mv. (isolasjon i fengsel)](/norwegian-laws/lover/lov-2026-05-12-18.html) | Endringslov til straffegjennomføringsloven mv. | Justis- og beredskapsdepartementet |
+| [Lov om endringer i straffeloven og legemiddelloven mv. (befatning med mindre men](/norwegian-laws/lover/lov-2025-06-20-83.html) | Endringslov til straffeloven og legemiddelloven mv. | Justis- og beredskapsdepartementet |
+| [Lov om endringer i tobakksskadeloven (gjennomføring av direktiv 2014/40/EU og st](/norwegian-laws/lover/lov-2017-02-10-5.html) | Endringslov til tobakksskadeloven | Helse- og omsorgsdepartementet |
+| [Lov om endringer i tobakksskadeloven (strengere regulering av e-sigaretter)](/norwegian-laws/lover/lov-2023-12-20-107.html) | Endringslov til tobakksskadeloven | Helse- og omsorgsdepartementet |
+| [Lov om endringer i tobakksskadeloven (ulovlig handel med tobakksvarer mv.)](/norwegian-laws/lover/lov-2018-06-22-77.html) | Endringslov til tobakkskadeloven | Helse- og omsorgsdepartementet |
+| [Lov om erstatning ved pasientskader mv. (pasientskadeloven)](/norwegian-laws/lover/lov-2001-06-15-53.html) | Pasientskadeloven – passkl | Helse- og omsorgsdepartementet |
 | [Lov om etablering og gjennomføring av psykisk helsevern (psykisk helsevernloven)](/norwegian-laws/lover/lov-1999-07-02-62.html) | Psykisk helsevernloven – phvl | Helse- og omsorgsdepartementet |
 | [Lov om folkehelsearbeid (folkehelseloven)](/norwegian-laws/lover/lov-2011-06-24-29.html) | Folkehelseloven – fhl | Helse- og omsorgsdepartementet |
+| [Lov om framstilling og bruk av genmodifiserte organismer m.m. (genteknologiloven](/norwegian-laws/lover/lov-1993-04-02-38.html) | Genteknologiloven – gentl | Klima- og miljødepartementet |
 | [Lov om gjennomføring av europarådsavtale 31. januar 1995 om ulovlig håndtering a](/norwegian-laws/lover/lov-1997-06-13-47.html) | Lov om europarådsavtale om handel med narkotika | Justis- og beredskapsdepartementet |
 | [Lov om helseforetak m.m. (helseforetaksloven)](/norwegian-laws/lover/lov-2001-06-15-93.html) | Helseforetaksloven – hfl | Helse- og omsorgsdepartementet |
+| [Lov om helsemessig og sosial beredskap (helseberedskapsloven)](/norwegian-laws/lover/lov-2000-06-23-56.html) | Helseberedskapsloven – hlsberedskl | Helse- og omsorgsdepartementet |
+| [Lov om helsepersonell m.v. (helsepersonelloven)](/norwegian-laws/lover/lov-1999-07-02-64.html) | Helsepersonelloven – hpl | Helse- og omsorgsdepartementet |
+| [Lov om helseregistre og behandling av helseopplysninger (helseregisterloven)](/norwegian-laws/lover/lov-2014-06-20-43.html) | Helseregisterloven – hregl | Helse- og omsorgsdepartementet |
+| [Lov om humanmedisinsk bruk av bioteknologi m.m. (bioteknologiloven)](/norwegian-laws/lover/lov-2003-12-05-100.html) | Bioteknologiloven – biotl | Helse- og omsorgsdepartementet |
+| [Lov om informasjonstilgang m.m. for utvalg som skal undersøke saker om overgrep ](/norwegian-laws/lover/lov-2021-06-18-119.html) | Lov om informasjonstilgang (overgrep begått av helsepersonell) | Helse- og omsorgsdepartementet |
 | [Lov om kommunale helse- og omsorgstjenester m.m. (helse- og omsorgstjenesteloven](/norwegian-laws/lover/lov-2011-06-24-30.html) | Helse- og omsorgstjenesteloven – hol | Helse- og omsorgsdepartementet |
+| [Lov om kommunale krisesentertilbod (krisesenterlova)](/norwegian-laws/lover/lov-2009-06-19-44.html) | Krisesenterlova | Barne- og familiedepartementet |
+| [Lov om kosmetikk og kroppspleieprodukt m.m. (kosmetikklova)](/norwegian-laws/lover/lov-2005-12-21-126.html) | Kosmetikklova | Helse- og omsorgsdepartementet |
 | [Lov om legemidler m.v. (legemiddelloven)](/norwegian-laws/lover/lov-1992-12-04-132.html) | Legemiddelloven | Helse- og omsorgsdepartementet |
+| [Lov om medisinsk og helsefaglig forskning (helseforskningsloven)](/norwegian-laws/lover/lov-2008-06-20-44.html) | Helseforskningsloven – hforsknl | Helse- og omsorgsdepartementet |
 | [Lov om medisinsk utstyr](/norwegian-laws/lover/lov-1995-01-12-6.html) | Lov om medisinsk utstyr – medutstl | Helse- og omsorgsdepartementet |
+| [Lov om medisinsk utstyr](/norwegian-laws/lover/lov-2020-05-07-37.html) | Lov om medisinsk utstyr | Helse- og omsorgsdepartementet |
 | [Lov om obduksjon og avgjeving av lik til undervisning og forsking (obduksjonslov](/norwegian-laws/lover/lov-2015-05-07-26.html) | Obduksjonslova | Helse- og omsorgsdepartementet |
 | [Lov om ordning med brukerrom for inntak av narkotika (brukerromsloven)](/norwegian-laws/lover/lov-2004-07-02-64.html) | Brukerromsloven | Helse- og omsorgsdepartementet |
 | [Lov om pasient- og brukerrettigheter (pasient- og brukerrettighetsloven)](/norwegian-laws/lover/lov-1999-07-02-63.html) | Pasient- og brukerrettighetsloven – pbrl | Helse- og omsorgsdepartementet |
 | [Lov om rituell omskjæring av gutter](/norwegian-laws/lover/lov-2014-06-20-40.html) | Lov om rituell omskjæring av gutter | Helse- og omsorgsdepartementet |
 | [Lov om spesialisthelsetjenesten m.m. (spesialisthelsetjenesteloven)](/norwegian-laws/lover/lov-1999-07-02-61.html) | Spesialisthelsetjenesteloven – sphl | Helse- og omsorgsdepartementet |
+| [Lov om statlig tilsyn med helse- og omsorgstjenesten mv. (helsetilsynsloven)](/norwegian-laws/lover/lov-2017-12-15-107.html) | Helsetilsynsloven | Helse- og omsorgsdepartementet |
 | [Lov om sterilisering [steriliseringsloven]](/norwegian-laws/lover/lov-1977-06-03-57.html) | Steriliseringsloven – sterill | Helse- og omsorgsdepartementet |
+| [Lov om strålevern og bruk av stråling [strålevernloven]](/norwegian-laws/lover/lov-2000-05-12-36.html) | Strålevernloven – stvl | Helse- og omsorgsdepartementet |
 | [Lov om tannhelsetjenesten (tannhelsetjenesteloven)](/norwegian-laws/lover/lov-1983-06-03-54.html) | Tannhelsetjenesteloven – tannhl | Helse- og omsorgsdepartementet |
 | [Lov om utvalg som skal undersøke forhold knyttet til at personer med kjent psyki](/norwegian-laws/lover/lov-2009-06-19-73.html) | Lov om undersøkelsesutvalg, psykiske lidelser | Helse- og omsorgsdepartementet |
 | [Lov om vern mot smittsomme sykdommer [smittevernloven]](/norwegian-laws/lover/lov-1994-08-05-55.html) | Smittevernloven – smvl | Helse- og omsorgsdepartementet |
+| [Lov om vern mot tobakksskader (tobakksskadeloven)](/norwegian-laws/lover/lov-1973-03-09-14.html) | Tobakksskadeloven – tobskl | Helse- og omsorgsdepartementet |
 | [Lov om veterinærer og annet dyrehelsepersonell [dyrehelsepersonelloven]](/norwegian-laws/lover/lov-2001-06-15-75.html) | Dyrehelsepersonelloven | Landbruks- og matdepartementet |

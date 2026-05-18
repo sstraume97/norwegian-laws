@@ -1,10 +1,12 @@
 # Bank, finans og regnskapsrett
 
-*58 lover*
+*66 lover*
 
 | Lov | Korttittel | Departement |
 |-----|-----------|-------------|
 | [Lov om Bankenes sikringsfond](/norwegian-laws/lover/lov-2018-03-23-3.html) | Lov om Bankenes sikringsfond | Finansdepartementet |
+| [Lov om EØS-finanstilsyn](/norwegian-laws/lover/lov-2016-06-17-30.html) | Lov om EØS-finanstilsyn | Finansdepartementet |
+| [Lov om Finanstilsynet (finanstilsynsloven)](/norwegian-laws/lover/lov-2024-06-21-41.html) | Finanstilsynsloven | Finansdepartementet |
 | [Lov om Husbanken](/norwegian-laws/lover/lov-2009-05-29-30.html) | Husbankloven | Kommunal- og distriktsdepartementet |
 | [Lov om Norges Bank og pengevesenet mv. (sentralbankloven)](/norwegian-laws/lover/lov-2019-06-21-31.html) | Sentralbankloven | Finansdepartementet |
 | [Lov om Riksrevisjonen (riksrevisjonsloven)](/norwegian-laws/lover/lov-2024-12-13-77.html) | Riksrevisjonsloven | Finansdepartementet |
@@ -24,12 +26,15 @@
 | [Lov om endringer i finansmarkedslovgivningen (samleproposisjon)](/norwegian-laws/lover/lov-2024-06-25-60.html) | Endringslov til finansmarkedslovgivningen | Finansdepartementet |
 | [Lov om endringer i foretakspensjonsloven og forsikringsvirksomhetsloven (forvalt](/norwegian-laws/lover/lov-2026-05-07-16.html) | Endringslov til foretakspensjonsloven og forsikringsvirksomhetsloven | Finansdepartementet |
 | [Lov om endringer i forsikringsvirksomhetsloven (skadeforsikring)](/norwegian-laws/lover/lov-2010-12-17-84.html) | Endringslov til forsikringsvirksomhetsloven | Finansdepartementet |
+| [Lov om endringer i konfliktrådsloven, straffeloven og straffeprosessloven mv. (s](/norwegian-laws/lover/lov-2023-12-20-110.html) | Endringslov til konfliktrådsloven, straffeloven mv | Justis- og beredskapsdepartementet |
+| [Lov om endringer i regnskapsloven mv. (bærekraftsrapportering)](/norwegian-laws/lover/lov-2024-06-21-42.html) | Endringslov til regnskapsloven mv. | Finansdepartementet |
 | [Lov om endringer i sentralbankloven og finansieringsvirksomhetsloven og om opphe](/norwegian-laws/lover/lov-2003-06-20-44.html) | Endringslov til sentralbankloven m.fl | Finansdepartementet |
 | [Lov om endringer i verdipapirhandelloven mv. (kapitalkrav for verdipapirforetak)](/norwegian-laws/lover/lov-2026-02-06-3.html) | Endringslov til verdipapirhandelloven mv. | Finansdepartementet |
 | [Lov om fastsettelse av finansielle referanseverdier (referanseverdiloven)](/norwegian-laws/lover/lov-2015-12-04-95.html) | Referanseverdiloven | Finansdepartementet |
 | [Lov om finansavtaler (finansavtaleloven)](/norwegian-laws/lover/lov-2020-12-18-146.html) | Finansavtaleloven | Justis- og beredskapsdepartementet |
 | [Lov om finansforetak og finanskonsern (finansforetaksloven)](/norwegian-laws/lover/lov-2015-04-10-17.html) | Finansforetaksloven | Finansdepartementet |
 | [Lov om finansiell sikkerhetsstillelse](/norwegian-laws/lover/lov-2004-03-26-17.html) | Lov om finansiell sikkerhetsstillelse | Finansdepartementet |
+| [Lov om folkefinansiering av næringsvirksomhet (folkefinansieringsloven)](/norwegian-laws/lover/lov-2026-02-06-2.html) | Folkefinansieringsloven | Finansdepartementet |
 | [Lov om forsikringsavtaler (forsikringsavtaleloven)](/norwegian-laws/lover/lov-1989-06-16-69.html) | Forsikringsavtaleloven – fal | Justis- og beredskapsdepartementet |
 | [Lov om forsikringsformidling (forsikringsformidlingsloven)](/norwegian-laws/lover/lov-2021-12-22-163.html) | Forsikringsformidlingsloven | Finansdepartementet |
 | [Lov om forsikringsvirksomhet (forsikringsvirksomhetsloven)](/norwegian-laws/lover/lov-2005-06-10-44.html) | Forsikringsvirksomhetsloven – forsvl | Finansdepartementet |
@@ -43,11 +48,13 @@
 | [Lov om innskuddspensjon i arbeidsforhold (innskuddspensjonsloven)](/norwegian-laws/lover/lov-2000-11-24-81.html) | Innskuddspensjonsloven – innskpensjl | Finansdepartementet |
 | [Lov om krav til kassasystem (kassasystemlova)](/norwegian-laws/lover/lov-2015-06-19-58.html) | Kassasystemlova | Finansdepartementet |
 | [Lov om kredittvurderingsbyråer](/norwegian-laws/lover/lov-2014-06-20-30.html) | Lov om kredittvurderingsbyråer | Finansdepartementet |
+| [Lov om kryptoeiendeler (kryptoeiendelsloven)](/norwegian-laws/lover/lov-2025-05-27-20.html) | Kryptoeiendelsloven | Finansdepartementet |
 | [Lov om lovvalg i forsikring [forsikringslovvalgsloven]](/norwegian-laws/lover/lov-1992-11-27-111.html) | Forsikringslovvalgsloven – intprfal | Justis- og beredskapsdepartementet |
 | [Lov om låneformidling (låneformidlingsloven)](/norwegian-laws/lover/lov-2022-12-16-91.html) | Låneformidlingsloven | Finansdepartementet |
 | [Lov om mortifikasjon av skuldbrev m.v. [mortifikasjonslova]](/norwegian-laws/lover/lov-1959-12-18-1.html) | Mortifikasjonslova | Justis- og beredskapsdepartementet |
 | [Lov om naturskadeforsikring](/norwegian-laws/lover/lov-1989-06-16-70.html) | Naturskadeforsikringsloven – natskforsl | Justis- og beredskapsdepartementet |
 | [Lov om nøkkelinformasjon om sammensatte og forsikringsbaserte investeringsproduk](/norwegian-laws/lover/lov-2024-06-21-40.html) | PRIIPs-loven | Finansdepartementet |
+| [Lov om offentliggjøring av bærekraftsinformasjon i finanssektoren og et rammever](/norwegian-laws/lover/lov-2021-12-22-161.html) | Lov om offentliggjøring av bærekraftsinformasjon i finanssektoren mv. | Finansdepartementet |
 | [Lov om omdanning av Noregs Kommunalbank til aksjeselskap](/norwegian-laws/lover/lov-1999-07-16-68.html) | Lov om Kommunalbanken AS – Kombl | Kommunal- og distriktsdepartementet |
 | [Lov om register over opplysninger om valutaveksling og overføring av betalingsmi](/norwegian-laws/lover/lov-2004-05-28-29.html) | Valutaregisterloven – valregl | Finansdepartementet |
 | [Lov om regnskapsførere (regnskapsførerloven)](/norwegian-laws/lover/lov-2022-12-16-90.html) | Regnskapsførerloven | Finansdepartementet |
@@ -61,4 +68,5 @@
 | [Lov om verdipapirfond (verdipapirfondloven)](/norwegian-laws/lover/lov-2011-11-25-44.html) | Verdipapirfondloven | Finansdepartementet |
 | [Lov om verdipapirhandel (verdipapirhandelloven)](/norwegian-laws/lover/lov-2007-06-29-75.html) | Verdipapirhandelloven – vphl | Finansdepartementet |
 | [Lov om verdipapirsentraler og verdipapiroppgjør mv. (verdipapirsentralloven)](/norwegian-laws/lover/lov-2019-03-15-6.html) | Verdipapirsentralloven | Finansdepartementet |
+| [Lov om virksomheters åpenhet og arbeid med grunnleggende menneskerettigheter og ](/norwegian-laws/lover/lov-2021-06-18-99.html) | Åpenhetsloven | Barne- og familiedepartementet |
 | [Lov om årsregnskap m.v. (regnskapsloven)](/norwegian-laws/lover/lov-1998-07-17-56.html) | Regnskapsloven – rskl | Finansdepartementet |

@@ -1,9 +1,15 @@
 # Forurensninger, klima og utslipp
 
-*3 lover*
+*9 lover*
 
 | Lov | Korttittel | Departement |
 |-----|-----------|-------------|
+| [Lov om avgift på utslipp av CO2i petroleumsvirksomhet på kontinentalsokkelen](/norwegian-laws/lover/lov-1990-12-21-72.html) | Lov om avgift på utslipp av CO2 | Finansdepartementet |
 | [Lov om endringer i klimakvoteloven](/norwegian-laws/lover/lov-2011-04-15-12.html) | Endringslov til klimakvoteloven | Klima- og miljødepartementet |
+| [Lov om endringer i lov om Statens pensjonsfond](/norwegian-laws/lover/lov-2023-12-20-104.html) | Endringslov til lov om Statens pensjonsfond | Finansdepartementet |
 | [Lov om klimamål (klimaloven)](/norwegian-laws/lover/lov-2017-06-16-60.html) | Klimaloven | Klima- og miljødepartementet |
+| [Lov om kontroll med produkter og forbrukertjenester (produktkontrolloven)](/norwegian-laws/lover/lov-1976-06-11-79.html) | Produktkontrolloven – prodktrl | Justis- og beredskapsdepartementet |
+| [Lov om kvoteplikt og handel med kvoter for utslipp av klimagasser (klimakvotelov](/norwegian-laws/lover/lov-2004-12-17-99.html) | Klimakvoteloven | Klima- og miljødepartementet |
+| [Lov om oppheving av lov om avgift på utslipp av CO2i petroleumsvirksomhet på kon](/norwegian-laws/lover/lov-2023-12-20-96.html) | Endringslov til lov om avgift på utslipp av CO2 | Finansdepartementet |
+| [Lov om rett til miljøinformasjon og deltakelse i offentlige beslutningsprosesser](/norwegian-laws/lover/lov-2003-05-09-31.html) | Miljøinformasjonsloven – mlinfl | Klima- og miljødepartementet |
 | [Lov om vern mot forurensninger og om avfall (forurensningsloven)](/norwegian-laws/lover/lov-1981-03-13-6.html) | Forurensningsloven – forurl | Klima- og miljødepartementet |

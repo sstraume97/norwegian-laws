@@ -1,6 +1,6 @@
 # Anskaffelser, avtaler, bygg og entrepriser
 
-*12 lover*
+*13 lover*
 
 | Lov | Korttittel | Departement |
 |-----|-----------|-------------|
@@ -11,6 +11,7 @@
 | [Lov om bustadbyggjelag (bustadbyggjelagslova)](/norwegian-laws/lover/lov-2003-06-06-38.html) | Bustadbyggjelagslova – bbl | Kommunal- og distriktsdepartementet |
 | [Lov om eierseksjoner (eierseksjonsloven)](/norwegian-laws/lover/lov-2017-06-16-65.html) | Eierseksjonsloven – eiersl | Kommunal- og distriktsdepartementet |
 | [Lov om endringer i anskaffelsesloven (samfunnshensyn mv.)](/norwegian-laws/lover/lov-2026-03-06-8.html) | Endringslov til anskaffelsesloven | Nærings- og fiskeridepartementet |
+| [Lov om endringer i regnskapsloven mv. (bærekraftsrapportering)](/norwegian-laws/lover/lov-2024-06-21-42.html) | Endringslov til regnskapsloven mv. | Finansdepartementet |
 | [Lov om god handelsskikk i dagligvarekjeden](/norwegian-laws/lover/lov-2020-04-17-29.html) | Lov om god handelsskikk i dagligvarekjeden | Nærings- og fiskeridepartementet |
 | [Lov om håndverkertjenester m.m for forbrukere [håndverkertjenesteloven]](/norwegian-laws/lover/lov-1989-06-16-63.html) | Håndverkertjenesteloven – hvtjl | Justis- og beredskapsdepartementet |
 | [Lov om offentlige anskaffelser (anskaffelsesloven)](/norwegian-laws/lover/lov-2016-06-17-73.html) | Anskaffelsesloven | Nærings- og fiskeridepartementet |

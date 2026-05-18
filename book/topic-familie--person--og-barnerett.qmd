@@ -1,6 +1,6 @@
 # Familie-, person- og barnerett
 
-*51 lover*
+*60 lover*
 
 | Lov | Korttittel | Departement |
 |-----|-----------|-------------|
@@ -8,6 +8,7 @@
 | [Konvensjon mellem Norge, Danmark, Finnland, Island og Sverige om arv og dødsbosk](/norwegian-laws/lover/lov-1934-11-19.html) | Nordisk konvensjon om arv og dødsboskifte | Justis- og beredskapsdepartementet |
 | [Konvensjon mellom Norge, Danmark, Finnland, Island og Sverige om inndriving av u](/norwegian-laws/lover/lov-1962-03-23.html) | Nordisk konvensjon om underholdsbidrag | Utenriksdepartementet |
 | [Lov om Digitaliseringsdirektoratets tilgang til taushetsbelagte opplysninger i F](/norwegian-laws/lover/lov-2023-06-09-29.html) | Lov om Digdirs tilgang til opplysninger i Folkeregisteret | Digitaliserings- og forvaltningsdepartementet |
+| [Lov om Likestillings- og diskrimineringsombudet og Diskrimineringsnemnda (diskri](/norwegian-laws/lover/lov-2017-06-16-50.html) | Diskrimineringsombudsloven – diskrol | Kultur- og likestillingsdepartementet |
 | [Lov om adopsjon (adopsjonsloven)](/norwegian-laws/lover/lov-2017-06-16-48.html) | Adopsjonsloven | Barne- og familiedepartementet |
 | [Lov om anerkjennelse av utenlandske skilsmisser og separasjoner](/norwegian-laws/lover/lov-1978-06-02-38.html) | Lov om utenlandske skilsmisser | Barne- og familiedepartementet |
 | [Lov om anerkjennelse og fullbyrding av utenlandske avgjørelser om foreldreansvar](/norwegian-laws/lover/lov-1988-07-08-72.html) | Barnebortføringsloven | Barne- og familiedepartementet |
@@ -26,13 +27,19 @@
 | [Lov om ekteskap (ekteskapsloven)](/norwegian-laws/lover/lov-1991-07-04-47.html) | Ekteskapsloven – el | Barne- og familiedepartementetJustis- og beredskapsdepartementet |
 | [Lov om endring av juridisk kjønn](/norwegian-laws/lover/lov-2016-06-17-46.html) | Lov om endring av juridisk kjønn | Helse- og omsorgsdepartementet |
 | [Lov om endringer i barnehageloven (styring og finansiering av barnehagesektoren)](/norwegian-laws/lover/lov-2025-06-20-100.html) | Endringslov til barnehageloven | Kunnskapsdepartementet |
+| [Lov om endringer i barnetrygdloven og midlertidige endringer i lovverket som føl](/norwegian-laws/lover/lov-2024-06-25-53.html) | Endringslov til barnetrygdloven mv. (Ukraina) | Arbeids- og inkluderingsdepartementet |
 | [Lov om endringer i barnevernloven](/norwegian-laws/lover/lov-2013-06-21-63.html) | Endringslov til barnevernloven | Barne- og familiedepartementet |
 | [Lov om endringer i barnevernloven mv. (tverrfaglig helsekartlegging)](/norwegian-laws/lover/lov-2022-03-25-13.html) | Endringslov til barnevernloven mv. | Barne- og familiedepartementet |
 | [Lov om endringer i barnevernloven og sosialtjenesteloven mv. (saksbehandlingsreg](/norwegian-laws/lover/lov-2006-12-01-65.html) | Endringslov til barnevernl. og sosialtjenestel. | Barne- og familiedepartementet |
+| [Lov om endringer i barnevernsloven mv. (kvalitetsløftet i barnevernet)](/norwegian-laws/lover/lov-2025-06-20-39.html) | Endringslov til barnevernsloven mv. | Barne- og familiedepartementet |
+| [Lov om endringer i grenseloven og utlendingsloven mv. (interoperabilitet og visu](/norwegian-laws/lover/lov-2024-06-21-47.html) | Endringslov til grenseloven og utlendingsloven mv. | Justis- og beredskapsdepartementet |
+| [Lov om endringer i konfliktrådsloven, straffeloven og straffeprosessloven mv. (s](/norwegian-laws/lover/lov-2023-12-20-110.html) | Endringslov til konfliktrådsloven, straffeloven mv | Justis- og beredskapsdepartementet |
+| [Lov om endringer i rettshjelpsloven mv. (prioriterte sakstyper for rettshjelp mv](/norwegian-laws/lover/lov-2025-06-20-82.html) | Endringslov til rettshjelpsloven mv. | Justis- og beredskapsdepartementet |
 | [Lov om familievernkontorer](/norwegian-laws/lover/lov-1997-06-19-62.html) | Familievernkontorloven | Barne- og familiedepartementet |
 | [Lov om folkeregistrering (folkeregisterloven)](/norwegian-laws/lover/lov-2016-12-09-88.html) | Folkeregisterloven | Finansdepartementet |
 | [Lov om forskriftshjemmel for behandling av personopplysninger for frivillige til](/norwegian-laws/lover/lov-2022-06-17-44.html) | Lov om forskriftshjemmel, personopplysninger | Barne- og familiedepartementet |
 | [Lov om forsvunne personar](/norwegian-laws/lover/lov-2015-05-12-27.html) | Lov om forsvunne personar – fsvl | Justis- og beredskapsdepartementet |
+| [Lov om gjeldsinformasjon ved kredittvurdering av privatpersoner (gjeldsinformasj](/norwegian-laws/lover/lov-2017-06-16-47.html) | Gjeldsinformasjonsloven | Barne- og familiedepartementet |
 | [Lov om gjennomføring av konvensjon 19. oktober 1996 om jurisdiksjon, lovvalg, an](/norwegian-laws/lover/lov-2015-09-04-85.html) | Lov om Haagkonvensjonen 1996 | Barne- og familiedepartementet |
 | [Lov om gjennomføring av nordiske konvensjoner om visse internasjonal-privatretts](/norwegian-laws/lover/lov-1969-12-19-75.html) | Lov om gjennomføring av nordiske konvensjoner | Justis- og beredskapsdepartementet |
 | [Lov om gravplasser, kremasjon og gravferd (gravplassloven)](/norwegian-laws/lover/lov-1996-06-07-32.html) | Gravplassloven | Barne- og familiedepartementet |
@@ -45,8 +52,10 @@
 | [Lov om innkreving av underholdsbidrag mv. (bidragsinnkrevingsloven)](/norwegian-laws/lover/lov-2005-04-29-20.html) | Bidragsinnkrevingsloven | Barne- og familiedepartementet |
 | [Lov om kommunale krisesentertilbod (krisesenterlova)](/norwegian-laws/lover/lov-2009-06-19-44.html) | Krisesenterlova | Barne- og familiedepartementet |
 | [Lov om kontantstøtte til småbarnsforeldre (kontantstøtteloven)](/norwegian-laws/lover/lov-1998-06-26-41.html) | Kontantstøtteloven | Barne- og familiedepartementet |
+| [Lov om likestilling og forbud mot diskriminering (likestillings- og diskrimineri](/norwegian-laws/lover/lov-2017-06-16-51.html) | Likestillings- og diskrimineringsloven – ldl | Kultur- og likestillingsdepartementet |
 | [Lov om når norsk tenestemakt kan halda brudvigjing i utlandet og utenlandsk tene](/norwegian-laws/lover/lov-1955-06-30-20.html) | Lov om brudvigjing i utlandet | Barne- og familiedepartementet |
 | [Lov om offisiell statistikk og Statistisk sentralbyrå (statistikkloven)](/norwegian-laws/lover/lov-2019-06-21-32.html) | Statistikkloven | Finansdepartementet |
+| [Lov om omdanning av Opplysningsvesenets fond til aksjeselskap](/norwegian-laws/lover/lov-2024-06-25-58.html) | Lov om omdanning av Opplysningsvesenets fond til aksjeselskap | Nærings- og fiskeridepartementet |
 | [Lov om oppheving av lov 19. juni 1964 nr. 14 om avgift på arv og visse gaver (ar](/norwegian-laws/lover/lov-2013-12-13-110.html) | Oppheving av arveavgiftsloven | Finansdepartementet |
 | [Lov om oppløsning av stamhuset Ekeberg](/norwegian-laws/lover/lov-2005-12-21-129.html) | Lov om oppløsning av stamhuset Ekeberg | Nærings- og fiskeridepartementet |
 | [Lov om personnavn (navneloven)](/norwegian-laws/lover/lov-2002-06-07-19.html) | Navneloven | Justis- og beredskapsdepartementet |

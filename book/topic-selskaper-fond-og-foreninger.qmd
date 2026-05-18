@@ -1,33 +1,80 @@
 # Selskaper, fond og foreninger
 
-*27 lover*
+*74 lover*
 
 | Lov | Korttittel | Departement |
 |-----|-----------|-------------|
 | [Lov indeholdende særlige Bestemmelser angaaende Leilændingsgods tilhørende Stamh](/norwegian-laws/lover/lov-1888-06-23-3.html) | Lov om Leilendingsgods tilhørende Stamhus | Nærings- og fiskeridepartementet |
+| [Lov om Aktieselskapet Vinmonopolet [vinmonopolloven]](/norwegian-laws/lover/lov-1931-06-19-18.html) | Vinmonopolloven | Helse- og omsorgsdepartementet |
+| [Lov om Finanstilsynet (finanstilsynsloven)](/norwegian-laws/lover/lov-2024-06-21-41.html) | Finanstilsynsloven | Finansdepartementet |
 | [Lov om Folketrygdfondet](/norwegian-laws/lover/lov-2007-06-29-44.html) | Folketrygdfondloven | Finansdepartementet |
+| [Lov om Foretaksregisteret (foretaksregisterloven)](/norwegian-laws/lover/lov-2025-06-20-106.html) | Foretaksregisterloven | Nærings- og fiskeridepartementet |
+| [Lov om Husbanken](/norwegian-laws/lover/lov-2009-05-29-30.html) | Husbankloven | Kommunal- og distriktsdepartementet |
+| [Lov om Innovasjon Norge](/norwegian-laws/lover/lov-2003-12-19-130.html) | Lov om Innovasjon Norge | Nærings- og fiskeridepartementet |
+| [Lov om Norges Bank og pengevesenet mv. (sentralbankloven)](/norwegian-laws/lover/lov-2019-06-21-31.html) | Sentralbankloven | Finansdepartementet |
 | [Lov om Statens finansfond](/norwegian-laws/lover/lov-2009-03-06-12.html) | Statens finansfond-loven | Finansdepartementet |
 | [Lov om Statens fond i Tromsø](/norwegian-laws/lover/lov-2024-06-25-67.html) | Lov om Statens fond i Tromsø | Finansdepartementet |
 | [Lov om Statens investeringsfond for næringsvirksomhet i utviklingsland (Norfundl](/norwegian-laws/lover/lov-1997-05-09-26.html) | Norfundloven | Utenriksdepartementet |
 | [Lov om Statens obligasjonsfond](/norwegian-laws/lover/lov-2020-03-27-12.html) | Lov om Statens obligasjonsfond | Finansdepartementet |
 | [Lov om Statens pensjonsfond](/norwegian-laws/lover/lov-2005-12-21-123.html) | Statens pensjonsfond-loven | Finansdepartementet |
+| [Lov om Statens pensjonskasse](/norwegian-laws/lover/lov-1949-07-28-26.html) | Statens pensjonskasseloven – stpkl | Arbeids- og inkluderingsdepartementet |
 | [Lov om aksjeselskaper (aksjeloven)](/norwegian-laws/lover/lov-1997-06-13-44.html) | Aksjeloven – asl | Nærings- og fiskeridepartementet |
 | [Lov om allmennaksjeselskaper (allmennaksjeloven)](/norwegian-laws/lover/lov-1997-06-13-45.html) | Allmennaksjeloven – asal | Nærings- og fiskeridepartementet |
 | [Lov om ansvarlige selskaper og kommandittselskaper (Selskapsloven)](/norwegian-laws/lover/lov-1985-06-21-83.html) | Selskapsloven – sel | Nærings- og fiskeridepartementet |
+| [Lov om burettslag (burettslagslova)](/norwegian-laws/lover/lov-2003-06-06-39.html) | Burettslagslova – brl | Kommunal- og distriktsdepartementet |
+| [Lov om bustadbyggjelag (bustadbyggjelagslova)](/norwegian-laws/lover/lov-2003-06-06-38.html) | Bustadbyggjelagslova – bbl | Kommunal- og distriktsdepartementet |
+| [Lov om digital operasjonell motstandsdyktighet i finanssektoren (DORA-loven)](/norwegian-laws/lover/lov-2025-05-27-18.html) | DORA-loven | Finansdepartementet |
+| [Lov om endringar i folketrygdlova og enkelte andre lover (oppfølging av tiltak i](/norwegian-laws/lover/lov-2025-12-22-117.html) | Endringslov til folketrygdlova og enkelte andre lover | Arbeids- og inkluderingsdepartementet |
+| [Lov om endringar i lov om interkommunale selskaper (møteoffentlegheit, økonomifo](/norwegian-laws/lover/lov-2023-06-02-22.html) | Endringslov til lov om interkommunale selskaper | Kommunal- og distriktsdepartementet |
+| [Lov om endringer i aksjelovgivningen mv. (åpenhet om eierskap og deltakelse på g](/norwegian-laws/lover/lov-2021-06-11-84.html) | Endringslov til aksjelovgivningen mv. | Nærings- og fiskeridepartementet |
+| [Lov om endringer i finansforetaksloven mv. (verdipapirisering og kreditorhierark](/norwegian-laws/lover/lov-2021-04-23-22.html) | Endringslov til finansforetaksloven mv. | Finansdepartementet |
+| [Lov om endringer i finansmarkedslovgivningen (samleproposisjon)](/norwegian-laws/lover/lov-2024-06-25-60.html) | Endringslov til finansmarkedslovgivningen | Finansdepartementet |
+| [Lov om endringer i folketrygdloven mv. (arbeidsavklaringspenger og tilleggsstøna](/norwegian-laws/lover/lov-2017-06-16-43.html) | Endringslov til folketrygdloven mv. | Arbeids- og inkluderingsdepartementet |
+| [Lov om endringer i konfliktrådsloven, straffeloven og straffeprosessloven mv. (s](/norwegian-laws/lover/lov-2023-12-20-110.html) | Endringslov til konfliktrådsloven, straffeloven mv | Justis- og beredskapsdepartementet |
 | [Lov om endringer i lov om Statens pensjonsfond](/norwegian-laws/lover/lov-2023-12-20-104.html) | Endringslov til lov om Statens pensjonsfond | Finansdepartementet |
+| [Lov om endringer i lov om Statens pensjonskasse og enkelte andre lover (ny uføre](/norwegian-laws/lover/lov-2014-03-07-5.html) | Endringslov til lov om Statens pensjonskasse mfl. | Arbeids- og inkluderingsdepartementet |
+| [Lov om endringer i lov om Statens pensjonskasse, folketrygdloven og i enkelte an](/norwegian-laws/lover/lov-2014-12-19-73.html) | Endringslov til ftrl. og div. pensjonslover | Arbeids- og inkluderingsdepartementet |
+| [Lov om endringer i regnskapsloven mv. (bærekraftsrapportering)](/norwegian-laws/lover/lov-2024-06-21-42.html) | Endringslov til regnskapsloven mv. | Finansdepartementet |
+| [Lov om endringer i verdipapirhandelloven (forskriftshjemmel om tilbudsprisen ved](/norwegian-laws/lover/lov-2020-04-24-32.html) | Endringslov til verdipapirhandelloven og pakkereiseloven | Finansdepartementet |
+| [Lov om endringer i verdipapirhandelloven mv. (kapitalkrav for verdipapirforetak)](/norwegian-laws/lover/lov-2026-02-06-3.html) | Endringslov til verdipapirhandelloven mv. | Finansdepartementet |
+| [Lov om enerett til foretaksnavn og andre forretningskjennetegn mv. (foretaksnavn](/norwegian-laws/lover/lov-1985-06-21-79.html) | Foretaksnavneloven – ftnavnl | Nærings- og fiskeridepartementet |
+| [Lov om europeiske samvirkeforetak (SCE-loven)](/norwegian-laws/lover/lov-2006-06-30-50.html) | SCE-loven | Nærings- og fiskeridepartementet |
+| [Lov om europeiske selskaper (SE-loven)](/norwegian-laws/lover/lov-2005-04-01-14.html) | SE-loven | Nærings- og fiskeridepartementet |
+| [Lov om europeiske økonomiske foretaksgrupper ved gjennomføring av EØS-avtalens v](/norwegian-laws/lover/lov-1995-12-22-85.html) | EØFG-loven | Nærings- og fiskeridepartementet |
+| [Lov om forvaltning av alternative investeringsfond](/norwegian-laws/lover/lov-2014-06-20-28.html) | AIF-loven | Finansdepartementet |
+| [Lov om garantistillelse fra Statoil ASA ved emisjon og salg av statens aksjer](/norwegian-laws/lover/lov-2001-05-18-22.html) | Lov om garanti fra Statoil ASA ved aksjesalg | Energidepartementet |
 | [Lov om heleide dattersamvirkeforetak](/norwegian-laws/lover/lov-2003-12-12-109.html) | Dattersamvirkeforetaksloven | Nærings- og fiskeridepartementet |
+| [Lov om helseforetak m.m. (helseforetaksloven)](/norwegian-laws/lover/lov-2001-06-15-93.html) | Helseforetaksloven – hfl | Helse- og omsorgsdepartementet |
+| [Lov om interkommunale selskaper (IKS-loven)](/norwegian-laws/lover/lov-1999-01-29-6.html) | IKS-loven | Kommunal- og distriktsdepartementet |
+| [Lov om konsesjon for rettigheter til vannfall mv. (vannfallrettighetsloven)](/norwegian-laws/lover/lov-1917-12-14-16.html) | Vannfallrettighetsloven | Energidepartementet |
+| [Lov om midlertidig tilskuddsordning for foretak med stort omsetningsfall](/norwegian-laws/lover/lov-2020-04-17-23.html) | Lov om midl. tilskuddsordning ved omsetningsfall | Finansdepartementet |
+| [Lov om midlertidig tilskuddsordning for foretak med stort omsetningsfall etter a](/norwegian-laws/lover/lov-2020-12-18-156.html) | Lov om midl. tilskudd ved omsetningsfall etter august 2020 | Nærings- og fiskeridepartementet |
+| [Lov om mineralvirksomhet på kontinentalsokkelen (havbunnsmineralloven)](/norwegian-laws/lover/lov-2019-03-22-7.html) | Havbunnsmineralloven | Energidepartementet |
+| [Lov om nøkkelinformasjon om sammensatte og forsikringsbaserte investeringsproduk](/norwegian-laws/lover/lov-2024-06-21-40.html) | PRIIPs-loven | Finansdepartementet |
 | [Lov om omdanning av Aerospace Industrial Maintenance Norway SF til aksjeselskap](/norwegian-laws/lover/lov-2016-06-17-44.html) | Lov om omdanning av AIM Norway SF til aksjeselskap | Forsvarsdepartementet |
 | [Lov om omdanning av Jernbaneverkets forretningsenhet BaneService til aksjeselska](/norwegian-laws/lover/lov-2005-01-07-5.html) | Lov om BaneService som AS | Samferdselsdepartementet |
+| [Lov om omdanning av Jernbaneverkets kommersielle televirksomhet til aksjeselskap](/norwegian-laws/lover/lov-2001-06-15-87.html) | Lov om BaneTele AS | Samferdselsdepartementet |
 | [Lov om omdanning av Kystverkets produksjonsvirksomhet til statsaksjeselskap](/norwegian-laws/lover/lov-2004-12-17-90.html) | Lov om Kystverkets produksjonsvirksomhet | Samferdselsdepartementet |
 | [Lov om omdanning av Luftfartsverket til aksjeselskap](/norwegian-laws/lover/lov-2002-12-13-85.html) | Lov om Statens lufthavnselskap | Samferdselsdepartementet |
+| [Lov om omdanning av Noregs Kommunalbank til aksjeselskap](/norwegian-laws/lover/lov-1999-07-16-68.html) | Lov om Kommunalbanken AS – Kombl | Kommunal- og distriktsdepartementet |
 | [Lov om omdanning av Opplysningsvesenets fond til aksjeselskap](/norwegian-laws/lover/lov-2024-06-25-58.html) | Lov om omdanning av Opplysningsvesenets fond til aksjeselskap | Nærings- og fiskeridepartementet |
 | [Lov om omdanning av Postbanken BA til aksjeselskap](/norwegian-laws/lover/lov-1999-06-18-42.html) | Lov om omdanning til Postbanken AS – Postbl | Samferdselsdepartementet |
 | [Lov om omdanning av Statens vegvesens produksjonsvirksomhet til statlig aksjesel](/norwegian-laws/lover/lov-2002-12-13-84.html) | Lov om statlig aksjeselskap for vegproduksjon | Samferdselsdepartementet |
 | [Lov om omdanning av statens jernbanetrafikkselskap (NSB BA) og statens postselsk](/norwegian-laws/lover/lov-2002-06-21-43.html) | Lov om NSB AS og Posten Norge AS | Samferdselsdepartementet |
+| [Lov om omorganisering av Statkraft SF](/norwegian-laws/lover/lov-2004-08-27-70.html) | Lov om omorganisering av Statkraft SF | Nærings- og fiskeridepartementet |
 | [Lov om overføring av offentlige og private rettsforhold fra Statens vegvesen til](/norwegian-laws/lover/lov-2015-12-18-133.html) | Lov om Nye Veier AS | Samferdselsdepartementet |
+| [Lov om prokura [prokuraloven]](/norwegian-laws/lover/lov-1985-06-21-80.html) | Prokuraloven – prokl | Nærings- og fiskeridepartementet |
+| [Lov om register for frivillig virksomhet](/norwegian-laws/lover/lov-2007-06-29-88.html) | Frivillighetsregisterloven | Kultur- og likestillingsdepartementet |
 | [Lov om register over reelle rettighetshavere](/norwegian-laws/lover/lov-2019-03-01-2.html) | Lov om register over reelle rettighetshavere | Finansdepartementet |
+| [Lov om sameige [sameigelova]](/norwegian-laws/lover/lov-1965-06-18-6.html) | Sameigelova – saml | Justis- og beredskapsdepartementet |
 | [Lov om samvirkeforetak (samvirkelova)](/norwegian-laws/lover/lov-2007-06-29-81.html) | Samvirkelova | Nærings- og fiskeridepartementet |
+| [Lov om stamhuset Rosendal og om forandring i arverettsreglene for stamhuset Jarl](/norwegian-laws/lover/lov-1927-07-04-11.html) | Stamhusloven | Nærings- og fiskeridepartementet |
 | [Lov om statlig garantiordning for lån til små og mellomstore bedrifter](/norwegian-laws/lover/lov-2020-03-27-14.html) | Lov om statlig garantiordning for lån til små og mellomstore bedrifter | Nærings- og fiskeridepartementet |
 | [Lov om statsføretak (statsføretakslova)](/norwegian-laws/lover/lov-2025-04-10-9.html) | Statsføretakslova | Digitaliserings- og forvaltningsdepartementet |
 | [Lov om stiftelser (stiftelsesloven)](/norwegian-laws/lover/lov-2001-06-15-59.html) | Stiftelsesloven – stiftl | Nærings- og fiskeridepartementet |
 | [Lov om studentsamskipnader (studentsamskipnadsloven)](/norwegian-laws/lover/lov-2007-12-14-116.html) | Studentsamskipnadsloven | Kunnskapsdepartementet |
+| [Lov om tillegg til lov 28. juli 1949 om Statens pensjonskasse [høyesterettspensj](/norwegian-laws/lover/lov-1982-05-21-25.html) | Høyesterettspensjonsloven | Arbeids- og inkluderingsdepartementet |
+| [Lov om tillegg til lov om Statens pensjonskasse av 28. juli 1949](/norwegian-laws/lover/lov-1956-11-09-1.html) | Tilleggslov om Statens pensjonskasse | Arbeids- og inkluderingsdepartementet |
+| [Lov om verdipapirfond (verdipapirfondloven)](/norwegian-laws/lover/lov-2011-11-25-44.html) | Verdipapirfondloven | Finansdepartementet |
+| [Lov om verdipapirhandel (verdipapirhandelloven)](/norwegian-laws/lover/lov-2007-06-29-75.html) | Verdipapirhandelloven – vphl | Finansdepartementet |
+| [Lov om åpenhet om eierskap i medier](/norwegian-laws/lover/lov-2016-06-17-64.html) | Lov om åpenhet om eierskap i medier | Kultur- og likestillingsdepartementet |

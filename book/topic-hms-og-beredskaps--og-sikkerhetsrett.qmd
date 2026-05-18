@@ -1,20 +1,39 @@
 # HMS og beredskaps- og sikkerhetsrett
 
-*14 lover*
+*33 lover*
 
 | Lov | Korttittel | Departement |
 |-----|-----------|-------------|
 | [Lov om Kystvakten (kystvaktloven)](/norwegian-laws/lover/lov-1997-06-13-42.html) | Kystvaktloven – kystvl | Forsvarsdepartementet |
 | [Lov om Norges Krigsskaderåd](/norwegian-laws/lover/lov-1951-07-06-4.html) | Lov om Norges Krigsskaderåd | Arbeids- og inkluderingsdepartementet |
+| [Lov om arbeidsmiljø, arbeidstid og stillingsvern mv. (arbeidsmiljøloven)](/norwegian-laws/lover/lov-2005-06-17-62.html) | Arbeidsmiljøloven – aml | Arbeids- og inkluderingsdepartementet |
+| [Lov om beredskapslagring av petroleumsprodukt](/norwegian-laws/lover/lov-2006-08-18-61.html) | Lov om beredskapslagring av petroleumsprodukt | Nærings- og fiskeridepartementet |
+| [Lov om digital sikkerhet (digitalsikkerhetsloven)](/norwegian-laws/lover/lov-2023-12-20-108.html) | Digitalsikkerhetsloven | Justis- og beredskapsdepartementet |
+| [Lov om endringer i arbeidsmiljøloven og sosialtjenesteloven (adgang til midlerti](/norwegian-laws/lover/lov-2015-04-24-20.html) | Endringslov til arbeidsmiljøloven og sosialtjenesteloven | Arbeids- og inkluderingsdepartementet |
+| [Lov om endringer i konfliktrådsloven, straffeloven og straffeprosessloven mv. (s](/norwegian-laws/lover/lov-2023-12-20-110.html) | Endringslov til konfliktrådsloven, straffeloven mv | Justis- og beredskapsdepartementet |
 | [Lov om endringer i sikkerhetsloven (eierskapskontroll og lovens virkeområde)](/norwegian-laws/lover/lov-2023-06-20-77.html) | Endringslov til sikkerhetsloven | Justis- og beredskapsdepartementet |
 | [Lov om endringer i sikkerhetsloven (opplysningsplikt ved autorisasjon)](/norwegian-laws/lover/lov-2026-04-10-12.html) | Endringslov til sikkerhetsloven | Justis- og beredskapsdepartementet |
+| [Lov om endringer i straffeloven og legemiddelloven mv. (befatning med mindre men](/norwegian-laws/lover/lov-2025-06-20-83.html) | Endringslov til straffeloven og legemiddelloven mv. | Justis- og beredskapsdepartementet |
+| [Lov om fiendegods [fiendegodsloven]](/norwegian-laws/lover/lov-1950-12-15-4.html) | Fiendegodsloven | Justis- og beredskapsdepartementet |
 | [Lov om fornøyelsesinnretninger (tivoliloven)](/norwegian-laws/lover/lov-2017-05-22-30.html) | Tivoliloven | Samferdselsdepartementet |
+| [Lov om framstilling og bruk av genmodifiserte organismer m.m. (genteknologiloven](/norwegian-laws/lover/lov-1993-04-02-38.html) | Genteknologiloven – gentl | Klima- og miljødepartementet |
 | [Lov om granskingskommisjonen for brannen på Scandinavian Star](/norwegian-laws/lover/lov-2016-04-29-6.html) | Lov om granskingskommisjonen for Scandinavian Star | Justis- og beredskapsdepartementet |
 | [Lov om helsemessig og sosial beredskap (helseberedskapsloven)](/norwegian-laws/lover/lov-2000-06-23-56.html) | Helseberedskapsloven – hlsberedskl | Helse- og omsorgsdepartementet |
 | [Lov om informasjon om bestemt angitte områder, skjermingsverdige objekter og bun](/norwegian-laws/lover/lov-2017-06-21-88.html) | Lov om informasjon (skjermingsverdige objekter og bunnforhold mv) | Forsvarsdepartementet |
+| [Lov om informasjonstilgang m.m. for Ekstremismekommisjonen](/norwegian-laws/lover/lov-2022-12-20-97.html) | Lov om informasjonstilgang m.m. for Ekstremismekommisjonen | Arbeids- og inkluderingsdepartementet |
+| [Lov om informasjonstilgang m.m. for Koronautvalget, og endringer i voldserstatni](/norwegian-laws/lover/lov-2022-12-20-118.html) | Lov om informasjonstilgang m.m. for Koronautvalget mv. | Justis- og beredskapsdepartementet |
+| [Lov om informasjonstilgang m.m. for den uavhengige kommisjonen som skal gjennomg](/norwegian-laws/lover/lov-2020-12-04-136.html) | Koronakommisjonsloven | Justis- og beredskapsdepartementet |
+| [Lov om kontroll med produkter og forbrukertjenester (produktkontrolloven)](/norwegian-laws/lover/lov-1976-06-11-79.html) | Produktkontrolloven – prodktrl | Justis- og beredskapsdepartementet |
 | [Lov om midlertidig tilskuddsordning for foretak med stort omsetningsfall](/norwegian-laws/lover/lov-2020-04-17-23.html) | Lov om midl. tilskuddsordning ved omsetningsfall | Finansdepartementet |
 | [Lov om nasjonal sikkerhet (sikkerhetsloven)](/norwegian-laws/lover/lov-2018-06-01-24.html) | Sikkerhetsloven – sikkl | Justis- og beredskapsdepartementet |
 | [Lov om næringsberedskap (næringsberedskapsloven)](/norwegian-laws/lover/lov-2011-12-16-65.html) | Næringsberedskapsloven | Nærings- og fiskeridepartementet |
+| [Lov om produksjon, omforming, overføring, omsetning, fordeling og bruk av energi](/norwegian-laws/lover/lov-1990-06-29-50.html) | Energiloven – enl | Energidepartementet |
+| [Lov om produktansvar [produktansvarsloven]](/norwegian-laws/lover/lov-1988-12-23-104.html) | Produktansvarsloven – prodansvl | Justis- og beredskapsdepartementet |
+| [Lov om sivil beskyttelse og beredskap (sivilbeskyttelsesloven)](/norwegian-laws/lover/lov-2010-06-25-45.html) | Sivilbeskyttelsesloven | Justis- og beredskapsdepartementet |
+| [Lov om strålevern og bruk av stråling [strålevernloven]](/norwegian-laws/lover/lov-2000-05-12-36.html) | Strålevernloven – stvl | Helse- og omsorgsdepartementet |
 | [Lov om særlige rådgjerder under krig, krigsfare og liknende forhold [beredskapsl](/norwegian-laws/lover/lov-1950-12-15-7.html) | Beredskapsloven – beredskl | Justis- og beredskapsdepartementet |
+| [Lov om tilskudd ved avbrutt permittering (økonomiske tiltak i møte med virusutbr](/norwegian-laws/lover/lov-2020-06-23-99.html) | Lov om tilskudd ved avbrutt permittering | Finansdepartementet |
+| [Lov om tilsyn med elektriske anlegg og elektrisk utstyr (el-tilsynsloven)](/norwegian-laws/lover/lov-1929-05-24-4.html) | El-tilsynsloven | Justis- og beredskapsdepartementet |
 | [Lov om vaktvirksomhet (vaktvirksomhetsloven)](/norwegian-laws/lover/lov-2001-01-05-1.html) | Vaktvirksomhetsloven – vaktl | Justis- og beredskapsdepartementet |
 | [Lov om vern mot brann, eksplosjon og ulykker med farlig stoff og om brannvesenet](/norwegian-laws/lover/lov-2002-06-14-20.html) | Brann- og eksplosjonsvernloven | Justis- og beredskapsdepartementet |
+| [Lov om vern mot forurensninger og om avfall (forurensningsloven)](/norwegian-laws/lover/lov-1981-03-13-6.html) | Forurensningsloven – forurl | Klima- og miljødepartementet |

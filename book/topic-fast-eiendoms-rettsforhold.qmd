@@ -1,16 +1,21 @@
 # Fast eiendoms rettsforhold
 
-*30 lover*
+*38 lover*
 
 | Lov | Korttittel | Departement |
 |-----|-----------|-------------|
 | [Lov om avhending av fast eigedom (avhendingslova)](/norwegian-laws/lover/lov-1992-07-03-93.html) | Avhendingslova – avhl | Justis- og beredskapsdepartementet |
+| [Lov om behandling av opplysninger i kredittopplysningsvirksomhet (kredittopplysn](/norwegian-laws/lover/lov-2019-12-20-109.html) | Kredittopplysningsloven | Barne- og familiedepartementet |
 | [Lov om burettslag (burettslagslova)](/norwegian-laws/lover/lov-2003-06-06-39.html) | Burettslagslova – brl | Kommunal- og distriktsdepartementet |
+| [Lov om bustadbyggjelag (bustadbyggjelagslova)](/norwegian-laws/lover/lov-2003-06-06-38.html) | Bustadbyggjelagslova – bbl | Kommunal- og distriktsdepartementet |
 | [Lov om dokumentavgift (dokumentavgiftsloven)](/norwegian-laws/lover/lov-1975-12-12-59.html) | Dokumentavgiftsloven – dal | Finansdepartementet |
 | [Lov om eiendomsmegling (eiendomsmeglingsloven)](/norwegian-laws/lover/lov-2007-06-29-73.html) | Eiendomsmeglingsloven – emgll | Finansdepartementet |
+| [Lov om eierseksjoner (eierseksjonsloven)](/norwegian-laws/lover/lov-2017-06-16-65.html) | Eierseksjonsloven – eiersl | Kommunal- og distriktsdepartementet |
 | [Lov om eigedomsregistrering (matrikkellova)](/norwegian-laws/lover/lov-2005-06-17-101.html) | Matrikkellova | Kommunal- og distriktsdepartementet |
 | [Lov om endringer i barnetrygdloven og midlertidige endringer i lovverket som føl](/norwegian-laws/lover/lov-2024-06-25-53.html) | Endringslov til barnetrygdloven mv. (Ukraina) | Arbeids- og inkluderingsdepartementet |
+| [Lov om endringer i konfliktrådsloven, straffeloven og straffeprosessloven mv. (s](/norwegian-laws/lover/lov-2023-12-20-110.html) | Endringslov til konfliktrådsloven, straffeloven mv | Justis- og beredskapsdepartementet |
 | [Lov om endringer i plan- og bygningsloven og matrikkellova (nye virkemidler ved ](/norwegian-laws/lover/lov-2025-06-20-93.html) | Endringslov til plan- og bygningsloven og matrikkellova | Kommunal- og distriktsdepartementet |
+| [Lov om endringer i regnskapsloven mv. (bærekraftsrapportering)](/norwegian-laws/lover/lov-2024-06-21-42.html) | Endringslov til regnskapsloven mv. | Finansdepartementet |
 | [Lov om endringer i skipsarbeidsloven og NIS-loven (tydelige og mer forutsigbare ](/norwegian-laws/lover/lov-2026-04-10-14.html) | Endringslov til skipsarbeidsloven og NIS-loven | Nærings- og fiskeridepartementet |
 | [Lov om endringer i tomtefesteloven (festeavgift ved forlengelse m.m.)](/norwegian-laws/lover/lov-2015-06-19-63.html) | Endringslov til tomtefesteloven | Justis- og beredskapsdepartementet |
 | [Lov om endringer i veglova mv. (overføring av fylkesveiadministrasjon)](/norwegian-laws/lover/lov-2019-06-21-68.html) | Endringslov til veglova mv. (overføring av fylkesveiadministrasjon) | Samferdselsdepartementet |
@@ -22,10 +27,13 @@
 | [Lov om hevd [hevdslova]](/norwegian-laws/lover/lov-1966-12-09-1.html) | Hevdslova – hevdsl | Justis- og beredskapsdepartementet |
 | [Lov om hittegods [hittegodslova]](/norwegian-laws/lover/lov-1953-05-29-3.html) | Hittegodslova – hgl | Justis- og beredskapsdepartementet |
 | [Lov om husleieavtaler (husleieloven)](/norwegian-laws/lover/lov-1999-03-26-17.html) | Husleieloven – husll | Kommunal- og distriktsdepartementet |
+| [Lov om infrastruktur for geografisk informasjon (geodataloven)](/norwegian-laws/lover/lov-2010-09-03-56.html) | Geodataloven | Kommunal- og distriktsdepartementet |
 | [Lov om kommunal forkjøpsrett til leiegårder](/norwegian-laws/lover/lov-1977-04-29-34.html) | Lov om kommunal forkjøpsrett til leiegårder | Kommunal- og distriktsdepartementet |
 | [Lov om løysingsrettar](/norwegian-laws/lover/lov-1994-12-09-64.html) | Lov om løysingsrettar – løysl | Justis- og beredskapsdepartementet |
+| [Lov om mortifikasjon av skuldbrev m.v. [mortifikasjonslova]](/norwegian-laws/lover/lov-1959-12-18-1.html) | Mortifikasjonslova | Justis- og beredskapsdepartementet |
 | [Lov om norsk internasjonalt skipsregister [NIS-loven]](/norwegian-laws/lover/lov-1987-06-12-48.html) | NIS-loven – NISl | Nærings- og fiskeridepartementet |
 | [Lov om oreigning av fast eigedom (oreigningslova)](/norwegian-laws/lover/lov-1959-10-23-3.html) | Oreigningslova – orl | Justis- og beredskapsdepartementet |
+| [Lov om registrering av elektriske kraftledninger [kraftledningsregisterloven]](/norwegian-laws/lover/lov-1927-07-01-1.html) | Kraftledningsregisterloven – kregl | Justis- og beredskapsdepartementet |
 | [Lov om rett for handverkarar o.a. til å selja ting som ikkje vert henta](/norwegian-laws/lover/lov-1953-05-29-1.html) | Lov om rett til å selja uhenta ting | Justis- og beredskapsdepartementet |
 | [Lov om rettshøve mellom grannar (grannelova)](/norwegian-laws/lover/lov-1961-06-16-15.html) | Grannelova – gl | Justis- og beredskapsdepartementet |
 | [Lov om sameige [sameigelova]](/norwegian-laws/lover/lov-1965-06-18-6.html) | Sameigelova – saml | Justis- og beredskapsdepartementet |

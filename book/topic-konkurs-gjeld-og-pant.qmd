@@ -1,14 +1,23 @@
 # Konkurs, gjeld og pant
 
-*8 lover*
+*17 lover*
 
 | Lov | Korttittel | Departement |
 |-----|-----------|-------------|
+| [Konvensjon mellem Norge, Danmark, Finnland, Island og Sverige om konkurs](/norwegian-laws/lover/lov-1933-11-07.html) | Nordisk konkurskonvensjon | Justis- og beredskapsdepartementet |
+| [Lov om behandling av opplysninger i kredittopplysningsvirksomhet (kredittopplysn](/norwegian-laws/lover/lov-2019-12-20-109.html) | Kredittopplysningsloven | Barne- og familiedepartementet |
+| [Lov om eierseksjoner (eierseksjonsloven)](/norwegian-laws/lover/lov-2017-06-16-65.html) | Eierseksjonsloven – eiersl | Kommunal- og distriktsdepartementet |
 | [Lov om endringer i gjeldsordningsloven mv. (effektivisering og forenkling av gje](/norwegian-laws/lover/lov-2024-06-25-56.html) | Endringslov til gjeldsordningsloven mv. | Barne- og familiedepartementet |
+| [Lov om endringer i konfliktrådsloven, straffeloven og straffeprosessloven mv. (s](/norwegian-laws/lover/lov-2023-12-20-110.html) | Endringslov til konfliktrådsloven, straffeloven mv | Justis- og beredskapsdepartementet |
+| [Lov om finansiell sikkerhetsstillelse](/norwegian-laws/lover/lov-2004-03-26-17.html) | Lov om finansiell sikkerhetsstillelse | Finansdepartementet |
 | [Lov om fordringshavernes dekningsrett (dekningsloven)](/norwegian-laws/lover/lov-1984-06-08-59.html) | Dekningsloven – deknl | Justis- og beredskapsdepartementet |
 | [Lov om frivillig og tvungen gjeldsordning for privatpersoner (gjeldsordningslove](/norwegian-laws/lover/lov-1992-07-17-99.html) | Gjeldsordningsloven – gol | Barne- og familiedepartementet |
 | [Lov om gjeldsforhandling og konkurs (konkursloven)](/norwegian-laws/lover/lov-1984-06-08-58.html) | Konkursloven – kkl | Justis- og beredskapsdepartementet |
+| [Lov om gjeldsinformasjon ved kredittvurdering av privatpersoner (gjeldsinformasj](/norwegian-laws/lover/lov-2017-06-16-47.html) | Gjeldsinformasjonsloven | Barne- og familiedepartementet |
 | [Lov om ikrafttredelse av ny gjeldsforhandlings- og konkurslovgivning m m](/norwegian-laws/lover/lov-1984-06-08-60.html) | Konkurslovgivningens ikrafttredelseslov | Justis- og beredskapsdepartementet |
+| [Lov om inkassovirksomhet og annen inndriving av forfalte pengekrav (inkassoloven](/norwegian-laws/lover/lov-1988-05-13-26.html) | Inkassoloven – inkl | Justis- og beredskapsdepartementet |
 | [Lov om innkreving av statlige krav mv. (innkrevingsloven)](/norwegian-laws/lover/lov-2025-04-25-12.html) | Innkrevingsloven | Finansdepartementet |
 | [Lov om pant (panteloven)](/norwegian-laws/lover/lov-1980-02-08-2.html) | Panteloven – pantel | Justis- og beredskapsdepartementet |
+| [Lov om statsgaranti for lønnskrav ved konkurs m.v. [lønnsgarantiloven]](/norwegian-laws/lover/lov-1973-12-14-61.html) | Lønnsgarantiloven | Arbeids- og inkluderingsdepartementet |
+| [Lov om å setja i verk avtala 18 mars 1965 om løysing av tvistar mellom ein stat ](/norwegian-laws/lover/lov-1967-06-08-3.html) | Lov om internasjonale investeringstvistar | Justis- og beredskapsdepartementet |
 | [Midlertidig lov om rekonstruksjon for å avhjelpe økonomiske problemer som følge ](/norwegian-laws/lover/lov-2020-05-07-38.html) | Rekonstruksjonsloven | Justis- og beredskapsdepartementet |

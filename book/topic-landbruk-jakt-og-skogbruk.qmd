@@ -1,19 +1,24 @@
 # Landbruk, jakt og skogbruk
 
-*30 lover*
+*40 lover*
 
 | Lov | Korttittel | Departement |
 |-----|-----------|-------------|
 | [Første Codicill og Tillæg til Grendse-Tractaten imellem Kongerigerne Norge og Sv](/norwegian-laws/lover/lov-1751-10-02.html) | Lappekodisillen | Landbruks- og matdepartementet |
+| [Kongelig Resolution ang. Jorddelingen i Finmarken samt Bopladses Udvisning og Sk](/norwegian-laws/lover/lov-1775-06-08.html) | Res. anggående jorddelingen i Finmark m.v. | Nærings- og fiskeridepartementet |
 | [Lov om avgrensing i retten til å sleppa hingstar, oksar, verar og geitebukkar på](/norwegian-laws/lover/lov-1970-03-06-5.html) | Hanndyrloven | Landbruks- og matdepartementet |
 | [Lov om bygdeallmenninger](/norwegian-laws/lover/lov-1992-06-19-59.html) | Bygdeallmenningsloven – bgdalml | Landbruks- og matdepartementet |
 | [Lov om dyrevelferd](/norwegian-laws/lover/lov-2009-06-19-97.html) | Dyrevelferdsloven | Landbruks- og matdepartementet |
+| [Lov om endringar i deltakerloven og havressurslova (endringar i kvotesystemet)](/norwegian-laws/lover/lov-2021-03-05-7.html) | Endringslov til deltakerloven og havressurslova | Nærings- og fiskeridepartementet |
+| [Lov om endringer i matloven (hjemmel for overtredelsesgebyr ved brudd på forskri](/norwegian-laws/lover/lov-2025-06-20-75.html) | Endringslov til matloven | Helse- og omsorgsdepartementet |
 | [Lov om fastsetjing og endring av eigedoms- og rettshøve på fast eigedom m.m. (jo](/norwegian-laws/lover/lov-2013-06-21-100.html) | Jordskiftelova – jskl | Landbruks- og matdepartementet |
+| [Lov om fiskeretten i Tanavassdraget (Tanaloven)](/norwegian-laws/lover/lov-2014-06-20-51.html) | Tanaloven | Klima- og miljødepartementet |
 | [Lov om forbud mot hold av pelsdyr](/norwegian-laws/lover/lov-2019-06-21-63.html) | Lov om forbud mot hold av pelsdyr | Landbruks- og matdepartementet |
 | [Lov om forpakting [forpaktingslova]](/norwegian-laws/lover/lov-1965-06-25-1.html) | Forpaktingslova – fpl | Landbruks- og matdepartementet |
 | [Lov om forskjellige forhold vedkommende Røros Kobberverks Skogvæsen](/norwegian-laws/lover/lov-1901-05-29-6.html) | Lov om Røros Kobberverks Skogvæsen | Klima- og miljødepartementet |
 | [Lov om forskningsavgift på landbruksprodukter](/norwegian-laws/lover/lov-1970-06-26-74.html) | Lov om forskningsavgift i landbruket | Landbruks- og matdepartementet |
 | [Lov om forsvarlig hundehold (hundeloven)](/norwegian-laws/lover/lov-2003-07-04-74.html) | Hundeloven – hul | Landbruks- og matdepartementet |
+| [Lov om fredning og fangst av isbjørn [isbjørnloven]](/norwegian-laws/lover/lov-1957-03-22-4.html) | Isbjørnloven | Klima- og miljødepartementet |
 | [Lov om husdyravl](/norwegian-laws/lover/lov-1992-12-04-130.html) | Husdyravlsloven – avlsl | Landbruks- og matdepartementet |
 | [Lov om jakt og fangst av vilt (viltloven)](/norwegian-laws/lover/lov-1981-05-29-38.html) | Viltloven – viltl | Klima- og miljødepartementetLandbruks- og matdepartementet |
 | [Lov om jakt, fangst og felling av vilt mv. (viltressursloven)](/norwegian-laws/lover/lov-2025-06-20-102.html) | Viltressursloven | Landbruks- og matdepartementet |
@@ -22,15 +27,20 @@
 | [Lov om kornforvaltning m.v.](/norwegian-laws/lover/lov-2000-01-21-7.html) | Kornforvaltningsloven | Landbruks- og matdepartementet |
 | [Lov om kvalitetskontroll med landbruksvarer m.v.](/norwegian-laws/lover/lov-1932-06-17-6.html) | Lov om kvalitetskontroll med landbruksvarer | Landbruks- og matdepartementet |
 | [Lov om laksefisk og innlandsfisk mv. (lakse- og innlandsfiskloven)](/norwegian-laws/lover/lov-1992-05-15-47.html) | Lakse- og innlandsfiskloven – laksfl | Klima- og miljødepartementet |
+| [Lov om matproduksjon og mattrygghet mv. (matloven)](/norwegian-laws/lover/lov-2003-12-19-124.html) | Matloven – matl | Helse- og omsorgsdepartementet |
 | [Lov om odelsretten og åsetesretten (odelslova)](/norwegian-laws/lover/lov-1974-06-28-58.html) | Odelslova – odl | Landbruks- og matdepartementet |
 | [Lov om opphevelse av og endringer i gjeldende lovgivning om allmenninger m.v.](/norwegian-laws/lover/lov-1992-06-19-61.html) | Endringslov angående allmenninger m.v. | Landbruks- og matdepartementet |
+| [Lov om planteforedlerrett (planteforedlerloven)](/norwegian-laws/lover/lov-1993-03-12-32.html) | Planteforedlerloven – plfl | Landbruks- og matdepartementet |
 | [Lov om regulering av svine- og fjørfeproduksjonen](/norwegian-laws/lover/lov-2004-01-16-5.html) | Svine- og fjørfeproduksjonsloven | Landbruks- og matdepartementet |
 | [Lov om reindrift (reindriftsloven)](/norwegian-laws/lover/lov-2007-06-15-40.html) | Reindriftsloven | Landbruks- og matdepartementet |
 | [Lov om reindrift i kommunene Meldal, Midtre Gauldal, Oppdal, Rennebu, Rindal, Su](/norwegian-laws/lover/lov-1984-12-21-101.html) | Trollheimenloven | Landbruks- og matdepartementet |
+| [Lov om retten til å delta i fiske og fangst (deltakerloven)](/norwegian-laws/lover/lov-1999-03-26-15.html) | Deltakerloven – deltl | Nærings- og fiskeridepartementet |
 | [Lov om rettsforhold og forvaltning av grunn og naturressurser i Finnmark (Finnma](/norwegian-laws/lover/lov-2005-06-17-85.html) | Finnmarksloven | Justis- og beredskapsdepartementet |
 | [Lov om skogbruk (skogbrukslova)](/norwegian-laws/lover/lov-2005-05-27-31.html) | Skogbrukslova | Landbruks- og matdepartementet |
 | [Lov om skogsdrift m.v. i statsallmenningene](/norwegian-laws/lover/lov-1992-06-19-60.html) | Statsallmenningsloven – statsalml | Landbruks- og matdepartementet |
+| [Lov om svensk reinbeiting i Norge og norsk reinbeiting i Sverige (grensereinbeit](/norwegian-laws/lover/lov-1972-06-09-31.html) | Grensereinbeiteloven | Landbruks- og matdepartementet |
 | [Lov om utnytting av rettar og lunnende m.m. i statsallmenningane (fjellova)](/norwegian-laws/lover/lov-1975-06-06-31.html) | Fjellova – fjell | Landbruks- og matdepartementet |
+| [Lov om veterinærer og annet dyrehelsepersonell [dyrehelsepersonelloven]](/norwegian-laws/lover/lov-2001-06-15-75.html) | Dyrehelsepersonelloven | Landbruks- og matdepartementet |
 | [Lov om våpen, skytevåpen, våpendelar og ammunisjon (våpenlova)](/norwegian-laws/lover/lov-2018-04-20-7.html) | Våpenlova | Justis- og beredskapsdepartementet |
 | [Lov om ymse beitespørsmål [beitelova]](/norwegian-laws/lover/lov-1961-06-16-12.html) | Beitelova | Landbruks- og matdepartementet |
 | [Lov til å fremja umsetnaden av jordbruksvaror](/norwegian-laws/lover/lov-1936-07-10-6.html) | Lov til å fremja umsetnaden av jordbruksvaror | Landbruks- og matdepartementet |

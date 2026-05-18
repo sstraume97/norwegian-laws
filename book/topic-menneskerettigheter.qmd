@@ -1,7 +1,9 @@
 # Menneskerettigheter
 
-*1 lover*
+*3 lover*
 
 | Lov | Korttittel | Departement |
 |-----|-----------|-------------|
+| [Lov om Likestillings- og diskrimineringsombudet og Diskrimineringsnemnda (diskri](/norwegian-laws/lover/lov-2017-06-16-50.html) | Diskrimineringsombudsloven – diskrol | Kultur- og likestillingsdepartementet |
+| [Lov om styrking av menneskerettighetenes stilling i norsk rett (menneskerettslov](/norwegian-laws/lover/lov-1999-05-21-30.html) | Menneskerettsloven – mrl | Justis- og beredskapsdepartementet |
 | [Lov om virksomheters åpenhet og arbeid med grunnleggende menneskerettigheter og ](/norwegian-laws/lover/lov-2021-06-18-99.html) | Åpenhetsloven | Barne- og familiedepartementet |
