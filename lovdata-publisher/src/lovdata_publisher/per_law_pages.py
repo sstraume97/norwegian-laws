@@ -30,11 +30,18 @@ PAGE_TEMPLATE = """<!DOCTYPE html>
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <title>{title} — Norges Lover</title>
 <meta name="description" content="Gjeldende konsolidert tekst av {title}. Sist endret: {sist_endret}. Med endringshistorikk og Atom-feed for oppdateringer.">
+<meta property="og:site_name" content="Norges Lover"/>
 <meta property="og:type" content="article"/>
 <meta property="og:title" content="{title}"/>
 <meta property="og:description" content="Gjeldende konsolidert tekst med endringshistorikk siden 2001."/>
+<meta property="og:url" content="https://sondreskarsten.github.io/norwegian-laws/{output_subdir}/{filename_html}"/>
 <meta property="og:image" content="https://sondreskarsten.github.io/norwegian-laws/assets/banner.svg"/>
 <meta name="twitter:card" content="summary"/>
+<meta name="twitter:title" content="{title}"/>
+<meta name="twitter:description" content="Norsk lov, oppdatert konsolidert tekst. Sist endret {sist_endret}."/>
+<meta name="twitter:image" content="https://sondreskarsten.github.io/norwegian-laws/assets/banner.svg"/>
+<link rel="icon" type="image/svg+xml" href="/norwegian-laws/assets/favicon.svg"/>
+<link rel="canonical" href="https://sondreskarsten.github.io/norwegian-laws/{output_subdir}/{filename_html}"/>
 <link rel="stylesheet" href="../site_libs/bootstrap/bootstrap.min.css">
 <link rel="stylesheet" href="../book/styles.css">
 <link rel="alternate" type="application/atom+xml" title="Endringer i {korttittel_short}" href="../feeds/{feed_stem}.xml">
@@ -294,6 +301,8 @@ def generate_per_law_pages(
                 version_links=version_links,
                 body=body_html,
                 filename=filename,
+                filename_html=f"{md_file.stem}.html",
+                output_subdir=output_subdir,
                 feed_stem=feed_stem,
                 historie_link=historie_link,
             )
