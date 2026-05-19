@@ -85,7 +85,7 @@ eller direkte i <a href="{github_log}">git log</a>.
 <a href="{github_blob}">Kildefil</a> ·
 <a href="{github_log}">git log</a> ·
 <a href="../feeds/{feed_stem}.xml" title="Abonner på endringer i denne loven via Atom">📡 Atom-feed</a> ·
-{version_links}
+{historie_link}{version_links}
 </div>
 
 {body}
@@ -220,9 +220,12 @@ def generate_per_law_pages(
     forskrifter_dir: str = "forskrifter",
     site_dir: str = "_site",
     version_tags: list[str] | None = None,
+    historie_map: dict[str, str] | None = None,
 ) -> int:
     if version_tags is None:
         version_tags = [f"v{y}" for y in range(2001, 2027)]
+    if historie_map is None:
+        historie_map = {}
 
     count = 0
     for source_subdir, output_subdir in [(lover_dir, "lover"), (forskrifter_dir, "forskrifter")]:
@@ -264,6 +267,11 @@ def generate_per_law_pages(
                 lovdata_doc_url = f"https://lovdata.no/dokument/NL/{refid}"
             version_links = compute_version_links_html(refid, version_tags, filename)
             feed_stem = md_file.stem  # matches feeds/{stem}.xml convention
+            historie_url = historie_map.get(refid, "")
+            historie_link = (
+                f'<a href="../{historie_url}" title="Endringshistorikk per paragraf siden 2001">📜 Endringshistorikk</a> · '
+                if historie_url else ""
+            )
 
             html = PAGE_TEMPLATE.format(
                 title=tittel,
@@ -281,6 +289,7 @@ def generate_per_law_pages(
                 body=body_html,
                 filename=filename,
                 feed_stem=feed_stem,
+                historie_link=historie_link,
             )
 
             out_file = out_dir / f"{md_file.stem}.html"

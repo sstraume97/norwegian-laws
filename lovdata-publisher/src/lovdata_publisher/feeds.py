@@ -247,13 +247,21 @@ def generate_per_law_feeds(
     print(f"  Wrote {len(manifest['topics'])} per-topic feeds")
 
     # === Per-ministry feeds ===
+    # Some laws have concatenated departments like "Klima- og miljødepartementetLandbruks- og matdepartementet"
+    # Use the same KNOWN_DEPARTMENTS split logic as quarto.py.
+    from .quarto import split_departments as _split_dept
+
     ministries: dict[str, list[tuple[str, sqlite3.Row]]] = defaultdict(list)
     for refid, meta in laws.items():
-        dept = meta.get("departement", "")
-        if not dept:
+        dept_raw = meta.get("departement", "")
+        if not dept_raw:
             continue
-        for row in by_target.get(refid, []):
-            ministries[dept].append((refid, row))
+        for dept in _split_dept(dept_raw):
+            dept = dept.strip()
+            if not dept:
+                continue
+            for row in by_target.get(refid, []):
+                ministries[dept].append((refid, row))
 
     for dept, items in ministries.items():
         seen = set()

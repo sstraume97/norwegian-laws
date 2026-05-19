@@ -1,0 +1,89 @@
+"""Tests for historie_pages.py."""
+from pathlib import Path
+
+import pytest
+
+from lovdata_publisher.historie_pages import (
+    _parse_frontmatter,
+    _feed_stem_for,
+    _law_url_for,
+    _law_path_for,
+    generate_historie_pages,
+)
+
+
+def test_feed_stem_for_lov():
+    assert _feed_stem_for("lov/1998-07-17-56") == "lov-1998-07-17-56"
+
+
+def test_feed_stem_for_forskrift():
+    assert _feed_stem_for("forskrift/2024-06-21-1166") == "forskrift-2024-06-21-1166"
+
+
+def test_law_url_for_lov():
+    assert _law_url_for("lov/1998-07-17-56") == "../lover/lov-1998-07-17-56.html"
+
+
+def test_law_path_for_forskrift():
+    assert _law_path_for("forskrift/2024-06-21-1166") == "forskrifter/forskrift-2024-06-21-1166.md"
+
+
+def test_parse_frontmatter_extracts_meta(tmp_path):
+    md = tmp_path / "test.md"
+    md.write_text(
+        '---\n'
+        'tittel: "Regnskapsloven – rskl"\n'
+        'refid: "lov/1998-07-17-56"\n'
+        '---\n\n# Body content\n',
+        encoding="utf-8",
+    )
+    meta, body = _parse_frontmatter(md)
+    assert meta["refid"] == "lov/1998-07-17-56"
+    assert meta["tittel"] == "Regnskapsloven – rskl"
+    assert body.strip() == "# Body content"
+
+
+def test_generate_historie_pages_writes_html(tmp_path):
+    historie = tmp_path / "historie"
+    historie.mkdir()
+    (historie / "regnskapsloven.md").write_text(
+        '---\n'
+        'tittel: "Regnskapsloven – rskl"\n'
+        'refid: "lov/1998-07-17-56"\n'
+        '---\n\n'
+        '# Endringshistorikk\n\n'
+        '## § 1-1\n\n'
+        '### 2024-11-01 — lov/2024-06-21-42\n\n'
+        '*§ 1-1 skal lyde:*\n\n'
+        '> Loven gjelder regnskapspliktige som...\n',
+        encoding="utf-8",
+    )
+
+    site = tmp_path / "_site"
+    manifest = generate_historie_pages(str(historie), str(site))
+
+    assert "lov/1998-07-17-56" in manifest
+    out_file = site / "historie" / "regnskapsloven.html"
+    assert out_file.exists()
+    html = out_file.read_text(encoding="utf-8")
+    assert "<title>Endringshistorikk: Regnskapsloven" in html
+    assert 'href="../feeds/lov-1998-07-17-56.xml"' in html
+    assert 'href="../lover/lov-1998-07-17-56.html"' in html
+
+
+def test_generate_handles_missing_dir(tmp_path):
+    site = tmp_path / "_site"
+    manifest = generate_historie_pages(str(tmp_path / "missing"), str(site))
+    assert manifest == {}
+
+
+def test_generate_skips_files_without_refid(tmp_path):
+    historie = tmp_path / "historie"
+    historie.mkdir()
+    (historie / "no-refid.md").write_text(
+        '---\ntittel: "Test"\n---\n\nBody\n',
+        encoding="utf-8",
+    )
+    site = tmp_path / "_site"
+    manifest = generate_historie_pages(str(historie), str(site))
+    assert manifest == {}

@@ -50,8 +50,9 @@ https://sondreskarsten.github.io/norwegian-laws/feeds/lov-1984-06-08-58.xml   # 
 Or subscribe to entire regulatory areas:
 
 ```
-https://sondreskarsten.github.io/norwegian-laws/feeds/topic-skatterett.xml
+https://sondreskarsten.github.io/norwegian-laws/feeds/topic-skatte--og-avgiftsrett.xml
 https://sondreskarsten.github.io/norwegian-laws/feeds/topic-bank-finans-og-regnskapsrett.xml
+https://sondreskarsten.github.io/norwegian-laws/feeds/topic-arbeidsrett.xml
 https://sondreskarsten.github.io/norwegian-laws/feeds/dept-finansdepartementet.xml
 ```
 
@@ -110,9 +111,10 @@ Pick a law, pick two versions, see exactly what changed. Word-level diff in the 
 | | |
 |---|---|
 | 📜 **Complete coverage** | All 783 formal laws + 3,421 central regulations |
-| 🔔 **Per-law Atom feeds** | One subscribable feed per law/forskrift/topic/ministry |
-| 🕰️ **Backdated git history** | 16,000+ commits, one per amendment act, with commit date = ikrafttredelse |
-| 🔍 **Full-text search** | Searches title, body, refid, and common abbreviations |
+| 🔔 **Per-law Atom feeds** | 2,627 subscribable feeds — one per law/forskrift with amendments, plus 35 rettsområde and 16 ministry feeds |
+| 🕰️ **Backdated git history** | 31,459 amendment acts as backdated commits, with commit date = ikrafttredelse |
+| 📑 **Endringshistorikk per paragraf** | Per-law amendment timeline showing what changed in each § and when ([example](https://sondreskarsten.github.io/norwegian-laws/historie/regnskapsloven.html)) |
+| 🔍 **Full-text search** | Searches title, body, refid, and common abbreviations (`aml`, `pbl`, `rskl`) |
 | 📊 **Cross-version diff** | Browser-based diff between any two yearly snapshots (`v2001`–`v2027`) |
 | 🤝 **Machine-readable** | Markdown + YAML frontmatter, plus [`laws.json`](https://sondreskarsten.github.io/norwegian-laws/laws.json) for programmatic access |
 | 🆓 **Open data + open code** | NLOD 2.0 (Lovdata data) · MIT (code) |

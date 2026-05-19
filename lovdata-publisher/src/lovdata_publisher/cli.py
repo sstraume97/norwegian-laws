@@ -121,12 +121,21 @@ def main():
     if args.post_render:
         from .per_law_pages import generate_per_law_pages, merge_full_text_into_search
         from .feeds import generate_per_law_feeds
+        from .historie_pages import generate_historie_pages
         import os
         print()
         print("=" * 60)
         print("Generating per-law HTML pages and full-text search index")
         print("=" * 60)
-        generate_per_law_pages(repo_root=args.output, site_dir=args.site_dir)
+        historie_map = generate_historie_pages(
+            historie_dir=os.path.join(args.output, "historie"),
+            site_dir=args.site_dir,
+        )
+        generate_per_law_pages(
+            repo_root=args.output,
+            site_dir=args.site_dir,
+            historie_map=historie_map,
+        )
         merge_full_text_into_search(repo_root=args.output, site_dir=args.site_dir)
 
         print()
