@@ -6,7 +6,7 @@ Drop the [workflow file](.github/workflows/watch-norwegian-laws.yml) into your r
 
 1. Copy `.github/workflows/watch-norwegian-laws.yml` into your repo
 2. Edit the `feeds:` matrix — paste any Atom feed URL from the [feed catalog](https://sondreskarsten.github.io/norwegian-laws/feeds/) or use the [interactive subscribe page](https://sondreskarsten.github.io/norwegian-laws/book/abonner.html) to find URLs by law name
-3. Commit and push. The workflow runs every weekday at 09:00 UTC by default
+3. Commit and push. The workflow runs every weekday at 09:00 UTC by default. **First run is silent** — it registers existing amendments as already-seen so you do not get a flood of historical issues; you start receiving notifications from the next amendment forward
 4. Trigger it once with **Actions → Watch Norwegian law changes → Run workflow** to initialize state
 
 ## What you get

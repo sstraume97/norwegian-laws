@@ -63,9 +63,26 @@ jobs:
           if feed.bozo:
               print(f"::error::Failed to parse feed: {feed.bozo_exception}")
               sys.exit(1)
-          state_file = pathlib.Path(f".watcher-state/{hashlib.sha1(url.encode()).hexdigest()}.json")
-          state_file.parent.mkdir(exist_ok=True)
-          seen = set(json.loads(state_file.read_text()) if state_file.exists() else [])
+
+          state_dir = pathlib.Path(".watcher-state")
+          state_dir.mkdir(exist_ok=True)
+          state_file = state_dir / f"{hashlib.sha1(url.encode()).hexdigest()}.json"
+
+          first_run = not state_file.exists()
+          seen = set() if first_run else set(json.loads(state_file.read_text()))
+
+          # On first run, mark everything as already-seen WITHOUT firing an
+          # issue. Users want notifications about NEW amendments from this
+          # point forward, not a flood of historical ones.
+          if first_run:
+              all_ids = sorted({e.id for e in feed.entries})
+              state_file.write_text(json.dumps(all_ids))
+              print(f"::notice::{name}: first run, registered {len(all_ids)} existing entries, no issue created")
+              with open(os.environ['GITHUB_OUTPUT'], 'a') as f:
+                  f.write("has_changes=false\n")
+                  f.write("first_run=true\n")
+              sys.exit(0)
+
           new_entries = [e for e in feed.entries if e.id not in seen]
           if new_entries:
               print(f"::notice::{name}: {len(new_entries)} new amendment(s)")
@@ -98,6 +115,13 @@ jobs:
                   f.write("has_changes=false\n")
           PY
 
+      - name: Ensure 'law-change' label exists
+        if: steps.diff.outputs.has_changes == 'true'
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          gh label create law-change --color "0e8a16" --description "Norwegian law amendment detected" 2>/dev/null || true
+
       - name: Open issue if amendments found
         if: steps.diff.outputs.has_changes == 'true'
         env:
@@ -109,10 +133,10 @@ jobs:
             --label "law-change"
 
       - name: Persist watcher state
-        if: steps.diff.outputs.has_changes == 'true'
+        if: steps.diff.outputs.has_changes == 'true' || steps.diff.outputs.first_run == 'true'
         run: |
           git config user.name "law-watcher-bot"
           git config user.email "noreply@github.com"
           git add .watcher-state/
-          git commit -m "Update law-watcher state for ${{ matrix.feed.name }}"
+          git diff --cached --quiet || git commit -m "Update law-watcher state for ${{ matrix.feed.name }}"
           git push
