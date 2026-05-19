@@ -204,7 +204,10 @@ Feeds are regenerated every Monday at 06:00 UTC from the latest Lovdata data. No
 ## Limits
 
 - 50 most recent entries per feed (most laws are amended <50 times; this is rarely a constraint)
-- For paragraph-level "what changed" view (the actual amendment instruction and new text), see the [endringshistorikk pages](https://sondreskarsten.github.io/norwegian-laws/historie/) — one per law, since 2001. Or filter feed entries by their `<category>` tags as shown above.
+- For paragraph-level "what changed" view (the actual amendment instruction and new text), there are two granularities:
+  - **Per-law endringshistorikk pages** — every amendment to the whole law, [example](https://sondreskarsten.github.io/norwegian-laws/historie/regnskapsloven.html)
+  - **Per-paragraph history pages** — every amendment to one specific paragraph, [example](https://sondreskarsten.github.io/norwegian-laws/historikk/lov-1998-07-17-56/para-7-25.html). Linked from each amended paragraph header on the law page itself (look for ⧉ historikk).
+  - Or filter feed entries by their `<category>` tags as shown above.
 
 ## Bulk download: JSONL manifests for programmatic consumption
 
