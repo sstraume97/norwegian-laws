@@ -58,9 +58,6 @@ jobs:
       - name: Format laws and generate Quarto chapters
         run: lovdata-publish --snapshot snapshot --output . --quarto
 
-      - name: Generate Atom feed
-        run: python -m lovdata_publisher.feed snapshot feed.xml
-
       - name: Update 'Recent amendments' section in README
         run: python -m lovdata_publisher.readme_updater README.md snapshot/amendments.db
 
@@ -69,11 +66,12 @@ jobs:
         run: |
           git config user.name "Lovtidend"
           git config user.email "lovtidend@lovdata.no"
-          # Feeds are NOT committed — they're build artifacts regenerated every run
-          # from snapshot/amendments.db. They go straight into deploy-book via the
-          # snapshot artifact + a re-run of --feeds-only in that job.
-          git add lover/ forskrifter/ book/ _quarto.yml index.qmd laws.json feed.xml README.md
+          # Feeds and feed.xml are NOT committed — they're build artifacts
+          # regenerated every run from snapshot/amendments.db. They go straight
+          # into deploy-book via the snapshot artifact.
+          git add lover/ forskrifter/ book/ _quarto.yml index.qmd laws.json README.md
           git rm -r --cached historie/ 2>/dev/null || true
+          git rm --cached feed.xml 2>/dev/null || true
           git add historie/
           if git diff --staged --quiet; then
             echo "No changes to laws"
@@ -143,8 +141,8 @@ jobs:
           mkdir -p _site/assets
           cp -r assets/. _site/assets/
 
-      - name: Copy feed.xml to site
-        run: cp feed.xml _site/feed.xml || true
+      - name: Generate Atom feed.xml directly into site
+        run: python -m lovdata_publisher.feed snapshot _site/feed.xml
 
       - name: Generate per-law feeds directly into site
         run: |

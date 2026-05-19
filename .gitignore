@@ -22,3 +22,4 @@ amendments.jsonl.gz
 
 # Atom feeds - build artifacts regenerated each deploy from snapshot/amendments.db
 feeds/
+feed.xml
