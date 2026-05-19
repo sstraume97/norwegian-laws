@@ -38,6 +38,7 @@ def generate_sitemap(
     # Core landing pages — highest priority
     add(f"{SITE_BASE}/", 1.0, "weekly")
     add(f"{SITE_BASE}/feeds/", 0.9, "weekly")
+    add(f"{SITE_BASE}/aktivitet.html", 0.9, "weekly")
     add(f"{SITE_BASE}/book/abonner.html", 0.9, "monthly")
     add(f"{SITE_BASE}/book/sok.html", 0.8, "monthly")
     add(f"{SITE_BASE}/book/diff.html", 0.8, "monthly")

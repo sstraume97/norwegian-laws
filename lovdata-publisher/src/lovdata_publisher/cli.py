@@ -180,6 +180,18 @@ def main():
         else:
             print(f"  {db_path} not found, skipping manifests")
 
+        print()
+        print("=" * 60)
+        print("Generating aktivitet leaderboard page")
+        print("=" * 60)
+        from .stats_page import generate_stats_page
+        generate_stats_page(
+            db_path=db_path,
+            output_path=os.path.join(args.site_dir, "aktivitet.html"),
+            lover_dir=os.path.join(args.output, "lover"),
+            forskrifter_dir=os.path.join(args.output, "forskrifter"),
+        )
+
         # Sitemap must run LAST since it indexes everything in _site/
         print()
         print("=" * 60)
