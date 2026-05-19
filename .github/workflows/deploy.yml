@@ -120,7 +120,15 @@ jobs:
         run: cp feed.xml _site/feed.xml || true
 
       - name: Copy per-law feeds to site
-        run: cp -r feeds _site/feeds 2>/dev/null || echo "no feeds/ directory yet"
+        run: |
+          if [ -d feeds ]; then
+            mkdir -p _site/feeds
+            # `cp -r feeds _site/feeds` nests into _site/feeds/feeds/ when the
+            # destination already exists. Copying contents avoids that.
+            cp -r feeds/. _site/feeds/
+          else
+            echo "no feeds/ directory yet"
+          fi
 
       - name: Merge law metadata into search index
         run: python -m lovdata_publisher.search_index _site laws.json
