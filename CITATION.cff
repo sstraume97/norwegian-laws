@@ -1,0 +1,34 @@
+cff-version: 1.2.0
+title: "Norges Lover — A Git-versioned changelog for Norwegian law"
+message: "If you reference this dataset or its derivative outputs, please cite this entry."
+type: dataset
+authors:
+  - family-names: Skarsten
+    given-names: Sondre
+    affiliation: "Independent"
+repository-code: "https://github.com/sondreskarsten/norwegian-laws"
+url: "https://sondreskarsten.github.io/norwegian-laws/"
+license: MIT
+license-url: "https://github.com/sondreskarsten/norwegian-laws/blob/main/LICENSE"
+keywords:
+  - Norwegian law
+  - regulatory compliance
+  - legislative history
+  - Atom feed
+  - lovdata
+  - regnskapsloven
+  - skatteloven
+abstract: >
+  A daily-updated Git-versioned mirror of Norway's formal laws and
+  central regulations, parsed from Lovdata (NLOD 2.0). Each amendment
+  is a backdated git commit; each law has its own Atom feed with
+  paragraph-level category tags. Pipeline: Lovdata XML → Markdown +
+  Quarto book + JSONL manifests + per-law Atom feeds.
+preferred-citation:
+  type: dataset
+  title: "Norges Lover — A Git-versioned changelog for Norwegian law"
+  authors:
+    - family-names: Skarsten
+      given-names: Sondre
+  year: 2026
+  url: "https://sondreskarsten.github.io/norwegian-laws/"
