@@ -1,0 +1,101 @@
+---
+title: "Abonner på endringer"
+search: false
+---
+
+<p style="font-size:1.05em">Få varsel når en konkret lov eller forskrift endres. Hver lov har sin egen <a href="https://datatracker.ietf.org/doc/html/rfc4287" target="_blank">Atom 1.0-feed</a> som kan leses i enhver feed-leser, automatiseringsverktøy eller GitHub Action.</p>
+
+<label for="abonner-search" style="font-weight:600;font-size:1.1em;">Søk etter lov eller forskrift:</label>
+<input type="text" id="abonner-search" placeholder="f.eks. regnskapsloven, aml, pbl, skatteloven..."
+  style="width:100%;padding:8px 12px;margin:8px 0 16px 0;font-size:1em;border:1px solid #ccc;border-radius:4px;">
+<div id="abonner-results" style="margin:1em 0;"></div>
+
+<div style="margin:2em 0 1em 0;padding:0.75rem 1rem;background:#f8f9fa;border-left:3px solid #2780e3;border-radius:4px;">
+  <strong>Eller abonner på bredere kategorier:</strong>
+  <ul style="margin:0.5em 0 0 0;">
+    <li><a href="../feeds/topic-skatte--og-avgiftsrett.xml">Skatte- og avgiftsrett</a></li>
+    <li><a href="../feeds/topic-bank-finans-og-regnskapsrett.xml">Bank, finans og regnskapsrett</a></li>
+    <li><a href="../feeds/topic-arbeidsrett.xml">Arbeidsrett</a></li>
+    <li><a href="../feeds/dept-finansdepartementet.xml">Finansdepartementet (alle lover)</a></li>
+    <li><a href="../feeds/dept-justis--og-beredskapsdepartementet.xml">Justis- og beredskapsdepartementet</a></li>
+    <li><a href="../feeds/index.html">Se alle feeds &raquo;</a></li>
+  </ul>
+</div>
+
+<h2>Hvordan abonnere</h2>
+<ul>
+  <li><strong>RSS-leser</strong> (Feedly, Inoreader, NetNewsWire, Thunderbird): lim inn URL-en</li>
+  <li><strong>Slack</strong>: <code>/feed subscribe &lt;URL&gt;</code> i ønsket kanal</li>
+  <li><strong>GitHub Action</strong>: bruk <code>actions/checkout</code> + <code>curl</code> + diff-sjekk &mdash; <a href="https://github.com/sondreskarsten/norwegian-laws/blob/main/SUBSCRIBE.md">eksempel</a></li>
+  <li><strong>Python</strong>: <code>feedparser.parse(URL)</code></li>
+  <li><strong>n8n / Zapier / Power Automate</strong>: bruk innebygd RSS-trigger</li>
+</ul>
+<p>Se <a href="https://github.com/sondreskarsten/norwegian-laws/blob/main/SUBSCRIBE.md">SUBSCRIBE.md</a> for fullstendig dokumentasjon med kodeeksempler.</p>
+
+```{=html}
+<script src="https://cdn.jsdelivr.net/npm/fuse.js@7.0.0/dist/fuse.min.js"></script>
+<script>
+document.addEventListener("DOMContentLoaded", function() {
+  var input = document.getElementById("abonner-search");
+  var results = document.getElementById("abonner-results");
+  var laws = [];
+  var fuse = null;
+
+  fetch("../laws.json").then(function(r){return r.json()}).then(function(data){
+    laws = data;
+    fuse = new Fuse(laws, {
+      keys: [
+        {name: "tittel", weight: 0.35},
+        {name: "korttittel", weight: 0.25},
+        {name: "aliases", weight: 0.25},
+        {name: "refid", weight: 0.1},
+        {name: "departement", weight: 0.05}
+      ],
+      threshold: 0.35,
+      distance: 200,
+      minMatchCharLength: 2
+    });
+  });
+
+  function feedUrlFor(law) {
+    var stem = law.refid.replace("/", "-");
+    return "../feeds/" + (law.kind === "forskrift" ? "forskrift-" : "lov-") + law.refid.split("/")[1] + ".xml";
+  }
+
+  function renderResults(hits) {
+    if (hits.length === 0) {
+      results.innerHTML = '<p style="color:#888;padding:1em 0;">Ingen treff.</p>';
+      return;
+    }
+    var html = "";
+    hits.slice(0, 6).forEach(function(law) {
+      var url = feedUrlFor(law);
+      var fullUrl = "https://sondreskarsten.github.io/norwegian-laws" + url.replace("..", "");
+      var lawPage = (law.kind === "forskrift" ? "../forskrifter/" : "../lover/") + law.file.replace(".md", ".html");
+      var aliases = (law.aliases || []).slice(0, 4).join(", ");
+      html += '<div style="border:1px solid #dee2e6;border-radius:6px;padding:1rem;margin:0.6rem 0;background:#fff;">';
+      html += '<div style="display:flex;justify-content:space-between;align-items:baseline;flex-wrap:wrap;gap:0.5rem;">';
+      html += '<div><strong style="font-size:1.05em;"><a href="' + lawPage + '">' + law.tittel + '</a></strong>';
+      if (law.korttittel) html += ' <span style="color:#6c757d;">(' + law.korttittel + ')</span>';
+      html += '</div></div>';
+      if (aliases) html += '<div style="font-size:0.85em;color:#6c757d;margin:0.25rem 0;">Aliaser: ' + aliases + '</div>';
+      html += '<div style="margin:0.75rem 0;display:flex;align-items:center;gap:0.5rem;flex-wrap:wrap;">';
+      html += '<input type="text" value="' + fullUrl + '" readonly';
+      html += ' style="flex:1;min-width:280px;padding:6px 10px;font-family:monospace;font-size:0.9em;border:1px solid #ced4da;border-radius:4px;background:#f8f9fa;">';
+      html += '<button onclick="navigator.clipboard.writeText(\'' + fullUrl + '\').then(function(){this.textContent=\'✓ Kopiert\'}.bind(this))" style="padding:6px 12px;background:#2780e3;color:#fff;border:none;border-radius:4px;cursor:pointer;">📋 Kopier</button>';
+      html += '<a href="' + url + '" style="padding:6px 12px;background:#f8f9fa;color:#2780e3;border:1px solid #2780e3;border-radius:4px;text-decoration:none;">📡 Åpne</a>';
+      html += '</div></div>';
+    });
+    if (hits.length > 6) html += '<p style="color:#888;font-size:0.9em;">… og ' + (hits.length - 6) + ' flere treff</p>';
+    results.innerHTML = html;
+  }
+
+  input.addEventListener("input", function() {
+    var q = this.value.trim();
+    if (q.length < 2 || !fuse) { results.innerHTML = ""; return; }
+    var hits = fuse.search(q).map(function(r){return r.item});
+    renderResults(hits);
+  });
+});
+</script>
+```

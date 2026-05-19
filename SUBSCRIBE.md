@@ -2,6 +2,10 @@
 
 This repo publishes 2,700+ Atom feeds covering every Norwegian law and central regulation. This document shows how to wire them into common tools.
 
+## Interactive: paste a law name, get the feed URL
+
+[**Try the subscribe page →**](https://sondreskarsten.github.io/norwegian-laws/book/abonner.html) — type any law name or abbreviation (regnskapsloven, aml, pbl, …) and instantly see the feed URL with a copy button.
+
 ## Finding your feed URL
 
 Every law gets a feed at a predictable URL. The pattern is:

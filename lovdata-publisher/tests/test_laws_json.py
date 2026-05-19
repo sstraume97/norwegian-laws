@@ -63,3 +63,25 @@ def test_generate_laws_json_no_forskrifter_dir_is_ok(tmp_path):
     out = tmp_path / "laws.json"
     laws = generate_laws_json(str(lover), str(out), version_tags=["v2024"], forskrifter_dir=None)
     assert all(l["kind"] == "lov" for l in laws)
+
+
+def test_generate_subscribe_page_creates_qmd(tmp_path):
+    """The subscribe page should be a valid Quarto file with search input + Fuse.js."""
+    from lovdata_publisher.quarto import generate_subscribe_page
+
+    generate_subscribe_page(str(tmp_path))
+    out = tmp_path / "abonner.qmd"
+    assert out.exists()
+    text = out.read_text(encoding="utf-8")
+    # Quarto frontmatter
+    assert text.startswith('---\ntitle: "Abonner på endringer"')
+    # Search input present
+    assert 'id="abonner-search"' in text
+    # Fuse.js for fuzzy matching against the same keys as sok.qmd
+    assert 'fuse.js' in text.lower()
+    assert '"aliases"' in text
+    # Pre-curated topic/ministry feeds linked
+    assert "topic-skatte--og-avgiftsrett.xml" in text
+    assert "dept-finansdepartementet.xml" in text
+    # External SUBSCRIBE.md reference
+    assert "SUBSCRIBE.md" in text

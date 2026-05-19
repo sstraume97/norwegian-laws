@@ -86,6 +86,7 @@ book:
   - book/versjoner.qmd
   - book/sok.qmd
   - book/diff.qmd
+  - book/abonner.qmd
   - book/about.qmd
   search: true
   repo-url: https://github.com/sondreskarsten/norwegian-laws
