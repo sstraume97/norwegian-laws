@@ -116,7 +116,8 @@ def generate_amendments_jsonl(db_path: str, output_path: str) -> int:
 
     rows = conn.execute(
         """
-        SELECT a.id, a.act_refid, a.change_type, a.target, a.target_law, a.instruction,
+        SELECT a.id, a.act_refid, a.change_type, a.target, a.target_law,
+               a.instruction, a.new_text,
                ac.title AS act_title, ac.short_title AS act_short_title,
                ac.ministry, ac.date_published, ac.date_in_force,
                ac.date_in_force_resolved, ac.journal_number
@@ -141,6 +142,10 @@ def generate_amendments_jsonl(db_path: str, output_path: str) -> int:
                 "paragraph": paragraph or None,
                 "change_type": r["change_type"] or None,
                 "instruction": (r["instruction"] or "")[:200] or None,
+                # new_text is the replacement paragraph wording. Capped at
+                # 4000 chars to keep the file reasonable but big enough for
+                # most full-paragraph replacements.
+                "new_text": (r["new_text"] or "")[:4000] or None,
                 "ministry": r["ministry"] or None,
                 "date_published": r["date_published"][:10] if r["date_published"] else None,
                 "date_in_force": r["date_in_force"] or None,

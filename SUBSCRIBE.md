@@ -214,7 +214,7 @@ Feeds are regenerated every Monday at 06:00 UTC from the latest Lovdata data. No
 For downstream automation that needs all amendments at once (data warehouses, compliance dashboards, internal CDC pipelines), download the JSON Lines manifests instead of scraping 2,627 XML feeds:
 
 - **[amendment-acts.jsonl.gz](https://sondreskarsten.github.io/norwegian-laws/amendment-acts.jsonl.gz)** — one row per amendment act (~38,000 rows, ~3 MB compressed). Matches Atom feed entries 1:1.
-- **[amendments.jsonl.gz](https://sondreskarsten.github.io/norwegian-laws/amendments.jsonl.gz)** — one row per (act, target_law, paragraph) triple (~90,000 rows, ~5 MB compressed). Finer-grained; suitable for paragraph-level queries.
+- **[amendments.jsonl.gz](https://sondreskarsten.github.io/norwegian-laws/amendments.jsonl.gz)** — one row per (act, target_law, paragraph) triple (~91,000 rows, ~15 MB compressed). Finer-grained; suitable for paragraph-level queries. Each row carries the full `new_text` (the replacement paragraph wording), capped at 4000 characters.
 
 Both are sorted newest-first, regenerated weekly, and identical in content to what you'd build by parsing every Atom feed. The `.gz` versions are 5–10× smaller; uncompressed `.jsonl` versions are also available at the same paths (drop `.gz`).
 
@@ -226,6 +226,10 @@ curl -sL https://sondreskarsten.github.io/norwegian-laws/amendments.jsonl.gz | g
 jq -c 'select(.target_law == "lov/1998-07-17-56"
             and .paragraph == "§ 7-25"
             and .date_published >= "2024-01-01")' amendments.jsonl
+
+# Same but only show the replacement paragraph wording (new_text)
+jq -r 'select(.target_law == "lov/1998-07-17-56" and .paragraph == "§ 7-25")
+       | .date_published + " — " + (.new_text // "(no text)")' amendments.jsonl
 
 # Group amendments by ministry, 2026 only
 jq -c 'select(.date_published >= "2026-01-01") | .ministry' amendments.jsonl | sort | uniq -c | sort -rn
