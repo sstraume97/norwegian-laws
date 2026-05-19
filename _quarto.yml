@@ -101,6 +101,4 @@ format:
     number-sections: false
     code-fold: true
     lang: nb
-    include-in-header:
-      text: <link rel="alternate" type="application/atom+xml" title="Norges Lover
-        og Forskrifter — endringer" href="/norwegian-laws/feed.xml"/>
+    include-in-header: assets/head-meta.html
