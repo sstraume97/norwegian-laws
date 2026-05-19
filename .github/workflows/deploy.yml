@@ -61,9 +61,6 @@ jobs:
       - name: Generate Atom feed
         run: python -m lovdata_publisher.feed snapshot feed.xml
 
-      - name: Generate per-law, per-topic, and per-ministry Atom feeds
-        run: lovdata-publish --feeds-only --snapshot snapshot --output . --site-dir .
-
       - name: Update 'Recent amendments' section in README
         run: python -m lovdata_publisher.readme_updater README.md snapshot/amendments.db
 
@@ -72,7 +69,10 @@ jobs:
         run: |
           git config user.name "Lovtidend"
           git config user.email "lovtidend@lovdata.no"
-          git add lover/ forskrifter/ book/ _quarto.yml index.qmd laws.json feed.xml feeds/ README.md
+          # Feeds are NOT committed — they're build artifacts regenerated every run
+          # from snapshot/amendments.db. They go straight into deploy-book via the
+          # snapshot artifact + a re-run of --feeds-only in that job.
+          git add lover/ forskrifter/ book/ _quarto.yml index.qmd laws.json feed.xml README.md
           git rm -r --cached historie/ 2>/dev/null || true
           git add historie/
           if git diff --staged --quiet; then
@@ -134,16 +134,12 @@ jobs:
       - name: Copy feed.xml to site
         run: cp feed.xml _site/feed.xml || true
 
-      - name: Copy per-law feeds to site
+      - name: Generate per-law feeds directly into site
         run: |
-          if [ -d feeds ]; then
-            mkdir -p _site/feeds
-            # `cp -r feeds _site/feeds` nests into _site/feeds/feeds/ when the
-            # destination already exists. Copying contents avoids that.
-            cp -r feeds/. _site/feeds/
-          else
-            echo "no feeds/ directory yet"
-          fi
+          # Feeds aren't in git anymore (they're build artifacts). Regenerate
+          # them into _site/feeds/ from the snapshot artifact we just downloaded.
+          mkdir -p _site/feeds
+          lovdata-publish --feeds-only --snapshot snapshot --output . --site-dir _site
 
       - name: Merge law metadata into search index
         run: python -m lovdata_publisher.search_index _site laws.json

@@ -19,3 +19,6 @@ amendment-acts.jsonl
 amendment-acts.jsonl.gz
 amendments.jsonl
 amendments.jsonl.gz
+
+# Atom feeds - build artifacts regenerated each deploy from snapshot/amendments.db
+feeds/
