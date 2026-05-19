@@ -127,3 +127,10 @@ def test_generate_paragraph_history_handles_missing_amendments_table(tmp_path):
         output_dir=str(tmp_path / "out"),
     )
     assert n == 0
+
+
+def test_normalize_paragraph_handles_prefixed_target():
+    """Targets sometimes carry the law refid prefix, e.g. 'lov/1915-08-13-5/§217a'.
+    The regex must still extract '§ 217a' (or the X-Y form when present)."""
+    assert _normalize_paragraph("lov/1998-07-17-56/§1-2a") == "§ 1-2a"
+    assert _normalize_paragraph("forskrift/2024-01-01-1/§2-3") == "§ 2-3"

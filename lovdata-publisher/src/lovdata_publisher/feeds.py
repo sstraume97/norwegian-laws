@@ -55,7 +55,9 @@ def _normalize_paragraph_ref(target: str, instruction: str) -> str:
         if m:
             return f"§ {re.sub(r'\\s+', '-', m.group(1).strip())}"
         return ""
-    m = para_re.match(text)
+    # Use .search() (not .match()) so prefixed targets like
+    # 'lov/1915-08-13-5/§217a' still match.
+    m = para_re.search(text)
     if m:
         return f"§ {re.sub(r'\\s+', '-', m.group(1).strip())}"
     return ""

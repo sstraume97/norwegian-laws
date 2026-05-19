@@ -30,7 +30,9 @@ def _normalize_paragraph(target: str, instruction: str = "") -> str:
         if m:
             return f"§ {re.sub(r'\\s+', '-', m.group(1).strip())}"
         return ""
-    m = _PARA_RE.match(text)
+    # Use .search() (not .match()) so prefixed targets like
+    # 'lov/1915-08-13-5/§217a' still extract '§ 2-17a' equivalents.
+    m = _PARA_RE.search(text)
     if m:
         return f"§ {re.sub(r'\\s+', '-', m.group(1).strip())}"
     return ""
