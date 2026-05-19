@@ -136,3 +136,77 @@ def test_manifests_also_write_gz(tmp_path):
     assert plain_content == gz_content
     # And gz must be smaller (compression actually working)
     assert gz_path.stat().st_size < out.stat().st_size
+
+
+def test_generate_schemas_writes_valid_json_schema(tmp_path):
+    """Both schemas should be Draft 2020-12 compliant JSON."""
+    from lovdata_publisher.manifests import generate_schemas
+    generate_schemas(str(tmp_path))
+
+    import json
+    acts = json.loads((tmp_path / "schemas" / "amendment-acts.schema.json").read_text())
+    amends = json.loads((tmp_path / "schemas" / "amendments.schema.json").read_text())
+
+    # Draft 2020-12
+    assert acts["$schema"] == "https://json-schema.org/draft/2020-12/schema"
+    assert amends["$schema"] == "https://json-schema.org/draft/2020-12/schema"
+
+    # Has $id for canonical URL referencing
+    assert "schemas/amendment-acts.schema.json" in acts["$id"]
+    assert "schemas/amendments.schema.json" in amends["$id"]
+
+    # Has required + properties
+    assert "refid" in acts["required"]
+    assert "act_refid" in amends["required"]
+    assert "target_law" in amends["required"]
+
+    # Validate against jsonschema library if available
+    try:
+        import jsonschema
+        jsonschema.Draft202012Validator.check_schema(acts)
+        jsonschema.Draft202012Validator.check_schema(amends)
+    except ImportError:
+        pass  # Skip if jsonschema not installed
+
+
+def test_generate_manifests_also_writes_schemas(tmp_path):
+    """generate_manifests() should produce both manifests AND schemas."""
+    import sqlite3
+    db = tmp_path / "amendments.db"
+    conn = sqlite3.connect(db)
+    conn.execute("""
+        CREATE TABLE amendment_acts (
+            refid TEXT, filename TEXT, title TEXT, short_title TEXT,
+            date_in_force TEXT, date_in_force_resolved TEXT,
+            date_published TEXT, ministry TEXT, changes_to TEXT,
+            journal_number TEXT, misc_info TEXT, is_deferred INTEGER,
+            amendment_count INTEGER
+        )
+    """)
+    conn.execute("""
+        CREATE TABLE amendments (
+            id INTEGER, act_refid TEXT, change_type TEXT,
+            target TEXT, target_law TEXT, instruction TEXT, new_text TEXT
+        )
+    """)
+    conn.execute(
+        "INSERT INTO amendment_acts VALUES (?,?,?,?,?,?,?,?,?,?,?,?,?)",
+        ('lov/2024-06-21-42', 'a.xml', 'X', 'X', '2024-11-01', '2024-11-01',
+         '2024-06-21', 'FIN', 'lov/1998-07-17-56', '2024-0042', '', 0, 1),
+    )
+    conn.execute(
+        "INSERT INTO amendments VALUES (?,?,?,?,?,?,?)",
+        (1, 'lov/2024-06-21-42', 'change', '§ 7-25', 'lov/1998-07-17-56', '§ 7-25', ''),
+    )
+    conn.commit()
+    conn.close()
+
+    from lovdata_publisher.manifests import generate_manifests
+    generate_manifests(db_path=str(db), output_dir=str(tmp_path))
+
+    # Manifests
+    assert (tmp_path / "amendment-acts.jsonl").exists()
+    assert (tmp_path / "amendments.jsonl").exists()
+    # Schemas
+    assert (tmp_path / "schemas" / "amendment-acts.schema.json").exists()
+    assert (tmp_path / "schemas" / "amendments.schema.json").exists()

@@ -218,6 +218,13 @@ For downstream automation that needs all amendments at once (data warehouses, co
 
 Both are sorted newest-first, regenerated weekly, and identical in content to what you'd build by parsing every Atom feed. The `.gz` versions are 5–10× smaller; uncompressed `.jsonl` versions are also available at the same paths (drop `.gz`).
 
+JSON Schema 2020-12 definitions for both manifests are published alongside the data:
+
+- **[schemas/amendment-acts.schema.json](https://sondreskarsten.github.io/norwegian-laws/schemas/amendment-acts.schema.json)**
+- **[schemas/amendments.schema.json](https://sondreskarsten.github.io/norwegian-laws/schemas/amendments.schema.json)**
+
+Each schema documents every field's type, format, and allowed values (e.g. `change_type` ∈ {`change`, `add`, `remove`, `repeal`, `renumber`, `move`, `unknown`}). Use them with `jsonschema` (Python), `ajv` (JS), or any Draft 2020-12 validator to catch schema drift in your ingestion pipeline.
+
 ```bash
 # Download both manifests
 curl -sL https://sondreskarsten.github.io/norwegian-laws/amendments.jsonl.gz | gunzip > amendments.jsonl

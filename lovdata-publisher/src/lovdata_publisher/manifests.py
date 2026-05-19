@@ -170,7 +170,156 @@ def generate_manifests(db_path: str, output_dir: str) -> tuple[int, int]:
     print(f"  Wrote amendment-acts.jsonl with {acts_n} rows")
     amendments_n = generate_amendments_jsonl(db_path, str(out / "amendments.jsonl"))
     print(f"  Wrote amendments.jsonl with {amendments_n} rows")
+    generate_schemas(str(out))
+    print(f"  Wrote schemas to {out}/schemas/")
     return acts_n, amendments_n
+
+
+# JSON Schema definitions for the manifests. Inlined rather than read from a
+# file so the schema is colocated with the producer code; if a field is added
+# above, this must be updated here as well. Schema follows draft 2020-12.
+
+_ACTS_SCHEMA = {
+    "$schema": "https://json-schema.org/draft/2020-12/schema",
+    "$id": "https://sondreskarsten.github.io/norwegian-laws/schemas/amendment-acts.schema.json",
+    "title": "Amendment act (one row per amending act)",
+    "description": (
+        "One amending act of Norwegian law or regulation. Each row matches one "
+        "entry in feed.xml. Sourced from amendment_acts in the snapshot SQLite "
+        "database, originally parsed from Lovdata XML."
+    ),
+    "type": "object",
+    "required": ["refid", "title", "date_published"],
+    "properties": {
+        "refid": {
+            "type": "string",
+            "description": "Canonical Lovdata ID, e.g. 'lov/2024-06-21-42'.",
+            "pattern": "^(lov|forskrift)/\\d{4}-\\d{2}-\\d{2}-\\d+$",
+        },
+        "title": {"type": "string", "description": "Full official title."},
+        "short_title": {"type": ["string", "null"], "description": "Shorter title for display, often Norwegian abbreviation."},
+        "ministry": {"type": ["string", "null"], "description": "Norwegian ministry that proposed the act."},
+        "date_published": {
+            "type": "string",
+            "format": "date",
+            "description": "Date the act was published in Norsk Lovtidend (YYYY-MM-DD).",
+        },
+        "date_in_force": {
+            "type": ["string", "null"],
+            "description": "Raw date_in_force field as published. May be a date or a textual description.",
+        },
+        "date_in_force_resolved": {
+            "type": ["string", "null"],
+            "format": "date",
+            "description": "Best-effort YYYY-MM-DD resolution of date_in_force.",
+        },
+        "is_deferred": {"type": "boolean", "description": "Whether the act has a deferred entry-into-force."},
+        "journal_number": {
+            "type": ["string", "null"],
+            "description": "Lovtidend journal number, e.g. '2024-0042'.",
+        },
+        "amendment_count": {
+            "type": ["integer", "null"],
+            "minimum": 0,
+            "description": (
+                "Number of paragraph-level amendments this act made. NOT the "
+                "number of laws affected; for that, len(targets)."
+            ),
+        },
+        "targets": {
+            "type": "array",
+            "items": {"type": "string"},
+            "description": "List of refids for laws/forskrifter that this act amends.",
+        },
+        "misc_info": {
+            "type": ["string", "null"],
+            "description": "Hjemmel text, truncated to 500 chars.",
+        },
+    },
+}
+
+_AMENDMENTS_SCHEMA = {
+    "$schema": "https://json-schema.org/draft/2020-12/schema",
+    "$id": "https://sondreskarsten.github.io/norwegian-laws/schemas/amendments.schema.json",
+    "title": "Paragraph-level amendment (one row per amended paragraph)",
+    "description": (
+        "One paragraph-level amendment. For acts that touch multiple paragraphs "
+        "of multiple laws, there are N rows. Sourced from joining the amendments "
+        "and amendment_acts tables in the snapshot SQLite database."
+    ),
+    "type": "object",
+    "required": ["act_refid", "target_law"],
+    "properties": {
+        "act_refid": {
+            "type": "string",
+            "description": "Amending act refid; foreign key to amendment-acts.refid.",
+            "pattern": "^(lov|forskrift)/\\d{4}-\\d{2}-\\d{2}-\\d+$",
+        },
+        "act_title": {"type": ["string", "null"], "description": "Short title of the amending act."},
+        "target_law": {
+            "type": "string",
+            "description": "Refid of the law/forskrift being amended.",
+            "pattern": "^(lov|forskrift)/\\d{4}-\\d{2}-\\d{2}-\\d+$",
+        },
+        "target": {
+            "type": ["string", "null"],
+            "description": "Raw target reference, e.g. '§ 7-25' or 'kapittel 7'.",
+        },
+        "paragraph": {
+            "type": ["string", "null"],
+            "description": (
+                "Normalized paragraph reference, e.g. '§ 7-25' or '§ 1-2a'. "
+                "Null when the amendment is at chapter level or a letter that "
+                "couldn't be canonicalized."
+            ),
+            "pattern": "^§ \\d+-\\d+[a-z]?$",
+        },
+        "change_type": {
+            "type": ["string", "null"],
+            "enum": ["change", "add", "remove", "repeal", "renumber", "move", "unknown", None],
+            "description": (
+                "Whether the amendment changed, added, removed, repealed, "
+                "renumbered, or moved the paragraph. 'unknown' when Lovdata "
+                "wording didn't fit any specific pattern."
+            ),
+        },
+        "instruction": {
+            "type": ["string", "null"],
+            "description": "Lovdata's instruction text, e.g. '§ 7-25 skal lyde:'. Truncated to 200 chars.",
+        },
+        "new_text": {
+            "type": ["string", "null"],
+            "description": (
+                "Replacement paragraph wording from Lovdata. Truncated to 4000 "
+                "chars. Only populated when change_type is 'change' or 'add'."
+            ),
+        },
+        "ministry": {"type": ["string", "null"]},
+        "date_published": {"type": ["string", "null"], "format": "date"},
+        "date_in_force": {"type": ["string", "null"]},
+        "date_in_force_resolved": {"type": ["string", "null"], "format": "date"},
+        "journal_number": {"type": ["string", "null"]},
+    },
+}
+
+
+def generate_schemas(output_dir: str) -> None:
+    """Write JSON Schema documents for both manifests.
+
+    Files are placed at {output_dir}/schemas/{amendment-acts,amendments}.schema.json.
+    The schemas are valid JSON Schema 2020-12 and can be linked to from the
+    manifests via $schema (consumers do that lookup themselves; we just publish).
+    """
+    schemas_dir = Path(output_dir) / "schemas"
+    schemas_dir.mkdir(parents=True, exist_ok=True)
+    (schemas_dir / "amendment-acts.schema.json").write_text(
+        json.dumps(_ACTS_SCHEMA, ensure_ascii=False, indent=2),
+        encoding="utf-8",
+    )
+    (schemas_dir / "amendments.schema.json").write_text(
+        json.dumps(_AMENDMENTS_SCHEMA, ensure_ascii=False, indent=2),
+        encoding="utf-8",
+    )
 
 
 if __name__ == "__main__":
