@@ -285,3 +285,62 @@ def test_feed_with_amendments_table_includes_categories(tmp_path):
     assert '<category term="§ 1-2a"' in feed_text
     assert '<category term="§ 2-3"' in feed_text
     assert "Berørte paragrafer" in feed_text
+
+
+def test_feed_link_includes_paragraph_anchor_when_single_paragraph(tmp_path):
+    """When an amendment touches exactly one paragraph, the entry link
+    should deep-link to that paragraph's anchor on the law page."""
+    import sqlite3
+    snapshot = tmp_path / "snapshot"
+    snapshot.mkdir()
+    db = sqlite3.connect(str(snapshot / "amendments.db"))
+    db.execute("""
+        CREATE TABLE amendment_acts (
+            refid TEXT, filename TEXT, title TEXT, short_title TEXT,
+            date_in_force TEXT, date_in_force_resolved TEXT,
+            date_published TEXT, ministry TEXT, changes_to TEXT,
+            journal_number TEXT, misc_info TEXT
+        )
+    """)
+    db.execute("""
+        CREATE TABLE amendments (
+            id INTEGER, act_refid TEXT, change_type TEXT,
+            target TEXT, target_law TEXT, instruction TEXT, new_text TEXT
+        )
+    """)
+    db.execute("""
+        INSERT INTO amendment_acts VALUES
+        ('lov/2024-06-21-42', 'nl.xml', 'Endringer i regnskapsloven',
+         'Bærekraftsrapportering', '2024-11-01', '2024-11-01',
+         '2024-06-21', 'FIN', 'lov/1998-07-17-56', '2024-0042', '')
+    """)
+    db.execute("""
+        INSERT INTO amendments VALUES (
+            1, 'lov/2024-06-21-42', 'change', '§ 1-2a', 'lov/1998-07-17-56',
+            '§ 1-2a skal lyde:', 'Bestemmelsene ...'
+        )
+    """)
+    db.commit()
+    db.close()
+
+    lover = tmp_path / "lover"
+    lover.mkdir()
+    (lover / "lov-1998-07-17-56.md").write_text(
+        '---\nrefid: "lov/1998-07-17-56"\ntittel: "Regnskapsloven"\n---\n\n'
+        '# Regnskapsloven\n\n'
+        '#### § 1-1. Lovens virkeområde\n\n(1) Loven gjelder ...\n\n'
+        '#### § 1-2a. Regnskapspliktige med plikt til å utarbeide bærekraftsrapportering\n\n(1) ...\n',
+        encoding="utf-8",
+    )
+
+    out = tmp_path / "feeds"
+    generate_per_law_feeds(
+        snapshot_dir=str(snapshot),
+        lover_dir=str(lover),
+        forskrifter_dir=None,
+        output_dir=str(out),
+    )
+
+    feed_text = (out / "lov-1998-07-17-56.xml").read_text(encoding="utf-8")
+    # Link should include the paragraph anchor
+    assert "lov-1998-07-17-56.html#1-2a" in feed_text

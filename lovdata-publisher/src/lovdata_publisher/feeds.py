@@ -61,6 +61,35 @@ def _normalize_paragraph_ref(target: str, instruction: str) -> str:
     return ""
 
 
+def _build_paragraph_anchor_map(md_path: Path) -> dict[str, str]:
+    """For one law/forskrift markdown file, return {paragraph: anchor}.
+
+    Example return: {'§ 1-1': '1-1-lovens-virkeomrade', '§ 1-2a': '1-2a-...'}
+
+    Anchors use python-markdown's toc.slugify (which is the same routine
+    used to generate the per-law HTML page anchors), so feed links match
+    the rendered page IDs exactly.
+    """
+    try:
+        from markdown.extensions.toc import slugify
+    except ImportError:
+        return {}
+
+    header_re = re.compile(r'^#{3,5}\s+(§\s*\d+[-–]\d+[a-z]?)\.?\s+(.+?)\s*$', re.MULTILINE)
+    text = md_path.read_text(encoding="utf-8")
+    out: dict[str, str] = {}
+    for m in header_re.finditer(text):
+        para_raw = re.sub(r"\s+", "-", m.group(1).replace("§", "§ ")).replace("--", "-")
+        para_canonical = re.sub(r"§\s*(\d+)-(\d+)([a-z]?)", r"§ \1-\2\3", m.group(1))
+        para_canonical = para_canonical.replace("  ", " ").strip()
+        # Slugify "§ 1-2a. Title" → "1-2a-title-slug"
+        slug = slugify(f"{m.group(1)}. {m.group(2)}", "-")
+        # Only keep the first occurrence (some laws revoke + reintroduce paragraphs)
+        if para_canonical not in out:
+            out[para_canonical] = slug
+    return out
+
+
 def _filepath_for(refid: str) -> str:
     if refid.startswith("forskrift/"):
         return f"/forskrifter/forskrift-{refid.split('/', 1)[1]}.html"
@@ -69,12 +98,25 @@ def _filepath_for(refid: str) -> str:
     return ""
 
 
-def _atom_entry(act: dict, anchor_refid: str) -> str:
-    """Render one Atom entry. anchor_refid is the law the feed is *about*."""
+def _atom_entry(act: dict, anchor_refid: str, paragraph_anchors: dict[str, str] | None = None) -> str:
+    """Render one Atom entry. anchor_refid is the law the feed is *about*.
+
+    paragraph_anchors: optional {paragraph: html_anchor} map. When present and
+    the act amends exactly one paragraph, the link href gets the matching
+    `#anchor` fragment so feed readers jump directly to the changed section.
+    """
     title = html.escape(act["short_title"] or act["title"] or act["refid"])
     refid = act["refid"]
     link_frag = _filepath_for(anchor_refid)
     link = f"{SITE_BASE}{link_frag}" if link_frag else f"{SITE_BASE}/"
+
+    # Deep-link to the changed paragraph when there's a single one and we have its anchor.
+    paragraphs = act.get("_paragraphs") or []
+    if paragraphs and paragraph_anchors:
+        anchor = paragraph_anchors.get(paragraphs[0])
+        if anchor:
+            link = f"{link}#{anchor}"
+
     published = act.get("date_published") or act.get("date_in_force_resolved") or ""
     ts = (published[:10] + "T00:00:00Z") if published else "2001-01-01T00:00:00Z"
     summary_lines = []
@@ -86,7 +128,6 @@ def _atom_entry(act: dict, anchor_refid: str) -> str:
         summary_lines.append(f"Endrer: {act['changes_to']}")
     if act.get("journal_number"):
         summary_lines.append(f"Lovtidend: {act['journal_number']}")
-    paragraphs = act.get("_paragraphs") or []
     if paragraphs:
         summary_lines.append(f"Berørte paragrafer: {', '.join(paragraphs)}")
     if act.get("misc_info"):
@@ -130,7 +171,7 @@ def _wrap_feed(title: str, self_url: str, subtitle: str, entries_xml: str) -> st
 
 
 def _scan_frontmatter(lover_dir: str, forskrifter_dir: str | None) -> dict:
-    """Return refid → {tittel, korttittel, rettsomrade, departement}."""
+    """Return refid → {tittel, korttittel, rettsomrade, departement, _md_path}."""
     laws = {}
     for d in [lover_dir, forskrifter_dir]:
         if not d or not Path(d).is_dir():
@@ -153,6 +194,7 @@ def _scan_frontmatter(lover_dir: str, forskrifter_dir: str | None) -> dict:
                     meta[m.group(1)] = m.group(2)
             refid = meta.get("refid")
             if refid:
+                meta["_md_path"] = path
                 laws[refid] = meta
     return laws
 
@@ -241,7 +283,13 @@ def generate_per_law_feeds(
         fname = f"{stem}.xml"
         self_url = f"{SITE_BASE}/feeds/{fname}"
         title = meta.get("korttittel") or meta.get("tittel") or refid
-        entries = "\n".join(_atom_entry(dict(r), refid) for r in rows)
+
+        # Build paragraph→anchor map from the markdown so feed entries can
+        # deep-link to the changed paragraph instead of the law's homepage.
+        md_path = meta.get("_md_path")
+        anchor_map = _build_paragraph_anchor_map(md_path) if md_path else {}
+
+        entries = "\n".join(_atom_entry(dict(r), refid, anchor_map) for r in rows)
         feed = _wrap_feed(
             title=f"{title} — endringer",
             self_url=self_url,
