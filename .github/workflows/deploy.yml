@@ -11,6 +11,7 @@ on:
       - 'lovdata-publisher/**'
       - 'book/**'
       - '_quarto.yml'
+      - '.github/workflows/deploy.yml'
 
 permissions:
   contents: write
