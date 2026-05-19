@@ -1,118 +1,86 @@
-# Norges Lover (norwegian-laws)
+# Norges Lover
 
-Norwegian law texts and central regulations as git history, with a [Quarto book](https://sondreskarsten.github.io/norwegian-laws/) for browsing.
+All Norwegian laws and central regulations as searchable, diffable Markdown — updated weekly from [Lovdata's open API](https://api.lovdata.no/).
 
-## What this is
+**[Browse the site →](https://sondreskarsten.github.io/norwegian-laws/)**
 
-Every current Norwegian formal law (`gjeldende formelle lover`, ~735 documents) and every central regulation (`gjeldende sentrale forskrifter`, ~3,400 documents) parsed from [Lovdata's public API](https://api.lovdata.no/) into Markdown files, committed to git with amendment history. Each amendment act from [Norsk Lovtidend](https://lovdata.no/register/lovtidend) becomes a backdated git commit, so `git log -- lover/lov-1998-07-17-56.md` shows the legislative history of regnskapsloven. Forskrift amendments are tracked the same way: `git log -- forskrifter/forskrift-2024-06-21-1166.md`.
+## What you can do
 
-The [Quarto book](https://sondreskarsten.github.io/norwegian-laws/) organizes laws and forskrifter by responsible ministry and is rebuilt weekly via GitHub Actions.
+**Browse** — [4,200+ laws and regulations](https://sondreskarsten.github.io/norwegian-laws/) organized by ministry and legal area, with full-text search and cross-references between laws.
 
-## Branches
+**Diff** — [Compare any law across time periods](https://sondreskarsten.github.io/norwegian-laws/book/diff.html). Select two versions and see exactly what changed, word by word.
 
-| Branch | Purpose |
-|--------|---------|
-| `main` | Pipeline code, law files, Quarto source. Updated weekly. |
-| `gh-pages` | Rendered Quarto book. Auto-deployed from `main`. |
-| `law-history` | Orphan branch with backdated git commits per amendment act. Rebuilt weekly. |
+**Search** — [Find laws by title, abbreviation, or keyword](https://sondreskarsten.github.io/norwegian-laws/book/sok.html). Supports common abbreviations like `aml` (arbeidsmiljøloven), `asl` (aksjeloven), `pbl` (plan- og bygningsloven).
 
-Browse the `law-history` branch to see `git log` with real legislative dates:
+**Git log as legislative history** — Every amendment act is a backdated commit on the [`law-history`](https://github.com/sondreskarsten/norwegian-laws/tree/law-history) branch. Run `git log` to see when and how a law changed:
 
 ```bash
 git clone -b law-history https://github.com/sondreskarsten/norwegian-laws.git
+cd norwegian-laws
+
+# Legislative history of regnskapsloven
 git log --oneline -- lover/lov-1998-07-17-56.md
+
+# What changed in Norwegian law between 2023 and 2024
+git diff v2023 v2024 --stat
+
+# State of all laws as of January 2020
+git checkout v2020
 ```
 
-## Quick start
+**Subscribe** — [Atom feed](https://sondreskarsten.github.io/norwegian-laws/feed.xml) for recent changes.
+
+## Corpus
+
+| | Count | Updated |
+|---|---|---|
+| Formal laws (gjeldende lover) | ~783 | Weekly |
+| Central regulations (sentrale forskrifter) | ~3,421 | Weekly |
+| Amendment commits on `law-history` | 16,000+ | Weekly |
+| Yearly version tags | `v2000` – `v2027` | Weekly |
+
+## File format
+
+Each law is a Markdown file with YAML frontmatter:
+
+```yaml
+---
+tittel: "Lov om årsregnskap m.v. (regnskapsloven)"
+korttittel: "Regnskapsloven – rskl"
+refid: "lov/1998-07-17-56"
+eli: "/eli/lov/1998/07/17/56"
+departement: "Finansdepartementet"
+rettsomrade: "Bank, finans og regnskapsrett>Regnskap"
+ikrafttredelse: "1999-01-01"
+sist-endret: "lov/2025-06-20-106"
+sist-endret-ikrafttredelse: "2026-01-01"
+---
+```
+
+The body preserves Lovdata's full structure: chapters, sections, paragraphs, list items, and amendment footnotes.
+
+A machine-readable [`laws.json`](https://sondreskarsten.github.io/norwegian-laws/laws.json) index covers all 4,200+ documents with metadata, common abbreviations, and links.
+
+## For developers
+
+The pipeline has two packages:
+
+- **lovdata-loader** — downloads Lovdata XML archives and parses them into structured JSON + SQLite
+- **lovdata-publisher** — formats JSON → Markdown, generates the Quarto site, and builds the backdated git history via `git fast-import`
 
 ```bash
 pip install -e lovdata-loader/ -e lovdata-publisher/
 
-# Download archives, parse to snapshot
 lovdata-load --download --output snapshot
-
-# Format to Markdown + generate Quarto book chapters
 lovdata-publish --snapshot snapshot --output . --quarto
-
-# After `quarto render`, generate per-law HTML pages and full-text search index
-lovdata-publish --post-render --output . --site-dir _site
-
-# Build the full backdated git history (per-act commits, LFS-backed)
-sudo apt-get install -y git-lfs
-lovdata-publish --snapshot snapshot --build-history \
-    --history-mode act --use-lfs --repo-path /tmp/law-repo
 ```
 
-The `law-history` branch lives in git-LFS — install `git-lfs` before cloning.
+The `law-history` branch uses git-LFS. Install `git-lfs` before cloning that branch.
 
-## Architecture
-
-The pipeline is split into two packages connected by a snapshot directory:
-
-**lovdata-loader** downloads Lovdata archives and parses XML into structured JSON + SQLite:
-
-```
-lovdata-loader/
-  src/lovdata_loader/
-    download.py        # Lovdata API downloader
-    parser.py          # XML → dataclasses (Section, Article, Paragraph)
-    models.py          # Snapshot schema (LawData, AmendmentActData)
-    store.py           # Write snapshot/ (JSON per law + amendments.db)
-    cli.py             # lovdata-load CLI
-```
-
-**lovdata-publisher** reads a snapshot and produces all outputs:
-
-```
-lovdata-publisher/
-  src/lovdata_publisher/
-    formatter.py       # JSON → Markdown with YAML frontmatter
-    git_export.py      # Backdated git fast-import from amendment timeline
-    quarto.py          # Quarto book chapters, search, diff, version pages
-    search_index.py    # Merge law metadata into Quarto search.json
-    releases.py        # Monthly release tags on law-history branch
-    cli.py             # lovdata-publish CLI
-```
-
-The snapshot is the contract between the two:
-
-```
-snapshot/
-  manifest.json                 # Metadata (version, archive names, counts)
-  laws/lov-1998-07-17-56.json   # One structured JSON per law
-  amendments.db                 # SQLite: amendment acts + individual amendments
-```
-
-## Other files
-
-```
-lover/                  # 735 Markdown law files (one per law)
-book/                   # Quarto chapter files (auto-generated per department)
-_quarto.yml             # Quarto book config
-laws.json               # Law metadata for client-side search + diff tools
-src/lovdata_pipeline/   # Deprecated monolithic pipeline (kept for reference)
-.github/workflows/
-  deploy.yml            # Weekly: update laws + deploy Quarto book
-  law-history.yml       # Weekly: rebuild backdated commit history
-  test.yml              # CI: run loader + publisher tests
-  release.yml           # On tag: create GitHub release
-  gcs-sync.yml          # Sync repo to GCS bucket
-```
-
-## How it works
-
-1. **Download** `gjeldende-lover.tar.bz2` and `lovtidend-avd1-*.tar.bz2` from Lovdata API
-2. **Parse** consolidated law XML → structured JSON snapshot (one file per law)
-3. **Parse** Lovtidend amendment XML → structured amendment records (SQLite)
-4. **Format** JSON → Markdown with YAML frontmatter, preserving all content including nested sub-chapters, amendment notes, and footnotes
-5. **Commit** each amendment act as a backdated git commit via `git fast-import`, with yearly version tags (`v2001`–`v2026`)
-6. **Generate** Quarto book chapters grouped by ministry, with full-text search and cross-version diff tools
-7. **Deploy** rendered book to GitHub Pages
+Weekly automation runs via GitHub Actions: download → parse → format → render → deploy.
 
 ## Data source and license
 
-Contains data under the [Norwegian Licence for Open Government Data (NLOD) 2.0](https://data.norge.no/nlod/no/2.0) distributed by [Lovdata](https://lovdata.no).
+Contains data under the [Norwegian Licence for Open Government Data (NLOD) 2.0](https://data.norge.no/nlod/no/2.0) from [Lovdata](https://lovdata.no). Source code is [MIT licensed](LICENSE).
 
-Source code is [MIT licensed](LICENSE).
-
-**This is an unofficial project.** For authoritative legal text, see [lovdata.no](https://lovdata.no).
+This is an unofficial project. For authoritative legal text, see [lovdata.no](https://lovdata.no).
