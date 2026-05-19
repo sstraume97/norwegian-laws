@@ -4,30 +4,30 @@
 
 | Lov | Korttittel | Departement |
 |-----|-----------|-------------|
-| [Lov i henhold til konvensjonen mellem Norge og Sverige om visse spørsmål vedrøre](/norwegian-laws/lover/lov-1931-06-12-1.html) | Vassdragslov i h.t. konvensjon Norge/Sverige | Energidepartementet |
-| [Lov om Norges kontinentalsokkel](/norwegian-laws/lover/lov-2021-06-18-89.html) | Lov om Norges kontinentalsokkel | Utenriksdepartementet |
-| [Lov om Norgespris og strømstønad til husholdninger](/norwegian-laws/lover/lov-2025-06-20-44.html) | Lov om Norgespris og strømstønad til husholdninger | Energidepartementet |
-| [Lov om atomenergivirksomhet [atomenergiloven]](/norwegian-laws/lover/lov-1972-05-12-28.html) | Atomenergiloven – atomenl | Helse- og omsorgsdepartementet |
-| [Lov om avgift på utslipp av CO2i petroleumsvirksomhet på kontinentalsokkelen](/norwegian-laws/lover/lov-1990-12-21-72.html) | Lov om avgift på utslipp av CO2 | Finansdepartementet |
-| [Lov om beredskapslagring av petroleumsprodukt](/norwegian-laws/lover/lov-2006-08-18-61.html) | Lov om beredskapslagring av petroleumsprodukt | Nærings- og fiskeridepartementet |
-| [Lov om elsertifikater](/norwegian-laws/lover/lov-2011-06-24-39.html) | Elsertifikatloven | Energidepartementet |
-| [Lov om endringer i lov om Statens pensjonsfond](/norwegian-laws/lover/lov-2023-12-20-104.html) | Endringslov til lov om Statens pensjonsfond | Finansdepartementet |
-| [Lov om felles regler for det indre marked for naturgass (naturgassloven)](/norwegian-laws/lover/lov-2002-06-28-61.html) | Naturgassloven | Energidepartementet |
-| [Lov om fornybar energiproduksjon til havs (havenergilova)](/norwegian-laws/lover/lov-2010-06-04-21.html) | Havenergilova – havenl | Energidepartementet |
-| [Lov om garantistillelse fra Statoil ASA ved emisjon og salg av statens aksjer](/norwegian-laws/lover/lov-2001-05-18-22.html) | Lov om garanti fra Statoil ASA ved aksjesalg | Energidepartementet |
-| [Lov om kompensasjonsordning for kjemikalieskadde oljepionerar](/norwegian-laws/lover/lov-2025-12-22-116.html) | Lov om kompensasjonsordning for kjemikalieskadde oljepionerar | Arbeids- og inkluderingsdepartementet |
-| [Lov om konsesjon for rettigheter til vannfall mv. (vannfallrettighetsloven)](/norwegian-laws/lover/lov-1917-12-14-16.html) | Vannfallrettighetsloven | Energidepartementet |
-| [Lov om midlertidig tillegg til lov av 13. juni 1975 nr. 35 om skattlegging av un](/norwegian-laws/lover/lov-1983-12-23-76.html) | Tilleggslov til petroleumsskatteloven | Finansdepartementet |
-| [Lov om omorganisering av Statkraft SF](/norwegian-laws/lover/lov-2004-08-27-70.html) | Lov om omorganisering av Statkraft SF | Nærings- og fiskeridepartementet |
-| [Lov om oppheving av lov om avgift på utslipp av CO2i petroleumsvirksomhet på kon](/norwegian-laws/lover/lov-2023-12-20-96.html) | Endringslov til lov om avgift på utslipp av CO2 | Finansdepartementet |
-| [Lov om petroleumsvirksomhet [petroleumsloven]](/norwegian-laws/lover/lov-1996-11-29-72.html) | Petroleumsloven – petrl | Energidepartementet |
-| [Lov om produksjon, omforming, overføring, omsetning, fordeling og bruk av energi](/norwegian-laws/lover/lov-1990-06-29-50.html) | Energiloven – enl | Energidepartementet |
-| [Lov om registrering av elektriske kraftledninger [kraftledningsregisterloven]](/norwegian-laws/lover/lov-1927-07-01-1.html) | Kraftledningsregisterloven – kregl | Justis- og beredskapsdepartementet |
-| [Lov om registrering av import og leveranser av råolje i Det europeiske økonomisk](/norwegian-laws/lover/lov-1999-06-25-54.html) | Lov om registrering av råoljehandel – råolregl | Energidepartementet |
-| [Lov om regulering og kraftutbygging i vassdrag (vassdragsreguleringsloven)](/norwegian-laws/lover/lov-1917-12-14-17.html) | Vassdragsreguleringsloven – vregl | Energidepartementet |
-| [Lov om skattlegging av undersjøiske petroleumsforekomster mv. (petroleumsskattel](/norwegian-laws/lover/lov-1975-06-13-35.html) | Petroleumsskatteloven – petrsktl | Finansdepartementet |
-| [Lov om strålevern og bruk av stråling [strålevernloven]](/norwegian-laws/lover/lov-2000-05-12-36.html) | Strålevernloven – stvl | Helse- og omsorgsdepartementet |
-| [Lov om tilsyn med elektriske anlegg og elektrisk utstyr (el-tilsynsloven)](/norwegian-laws/lover/lov-1929-05-24-4.html) | El-tilsynsloven | Justis- og beredskapsdepartementet |
-| [Lov om undersøkelser etter og utvinning av petroleum i grunnen under norsk lando](/norwegian-laws/lover/lov-1973-05-04-21.html) | Lov om utvinning av petroleum under land | Energidepartementet |
-| [Lov om vassdrag og grunnvann (vannressursloven)](/norwegian-laws/lover/lov-2000-11-24-82.html) | Vannressursloven – vrl | Energidepartementet |
-| [Lov om vassdragene [vassdragsloven]](/norwegian-laws/lover/lov-1940-03-15-3.html) | Vassdragsloven – vdrl | Energidepartementet |
+| [Lov i henhold til konvensjonen mellem Norge og Sverige om visse spørsmål vedrøre](../lover/lov-1931-06-12-1.html) | Vassdragslov i h.t. konvensjon Norge/Sverige | Energidepartementet |
+| [Lov om Norges kontinentalsokkel](../lover/lov-2021-06-18-89.html) | Lov om Norges kontinentalsokkel | Utenriksdepartementet |
+| [Lov om Norgespris og strømstønad til husholdninger](../lover/lov-2025-06-20-44.html) | Lov om Norgespris og strømstønad til husholdninger | Energidepartementet |
+| [Lov om atomenergivirksomhet [atomenergiloven]](../lover/lov-1972-05-12-28.html) | Atomenergiloven – atomenl | Helse- og omsorgsdepartementet |
+| [Lov om avgift på utslipp av CO2i petroleumsvirksomhet på kontinentalsokkelen](../lover/lov-1990-12-21-72.html) | Lov om avgift på utslipp av CO2 | Finansdepartementet |
+| [Lov om beredskapslagring av petroleumsprodukt](../lover/lov-2006-08-18-61.html) | Lov om beredskapslagring av petroleumsprodukt | Nærings- og fiskeridepartementet |
+| [Lov om elsertifikater](../lover/lov-2011-06-24-39.html) | Elsertifikatloven | Energidepartementet |
+| [Lov om endringer i lov om Statens pensjonsfond](../lover/lov-2023-12-20-104.html) | Endringslov til lov om Statens pensjonsfond | Finansdepartementet |
+| [Lov om felles regler for det indre marked for naturgass (naturgassloven)](../lover/lov-2002-06-28-61.html) | Naturgassloven | Energidepartementet |
+| [Lov om fornybar energiproduksjon til havs (havenergilova)](../lover/lov-2010-06-04-21.html) | Havenergilova – havenl | Energidepartementet |
+| [Lov om garantistillelse fra Statoil ASA ved emisjon og salg av statens aksjer](../lover/lov-2001-05-18-22.html) | Lov om garanti fra Statoil ASA ved aksjesalg | Energidepartementet |
+| [Lov om kompensasjonsordning for kjemikalieskadde oljepionerar](../lover/lov-2025-12-22-116.html) | Lov om kompensasjonsordning for kjemikalieskadde oljepionerar | Arbeids- og inkluderingsdepartementet |
+| [Lov om konsesjon for rettigheter til vannfall mv. (vannfallrettighetsloven)](../lover/lov-1917-12-14-16.html) | Vannfallrettighetsloven | Energidepartementet |
+| [Lov om midlertidig tillegg til lov av 13. juni 1975 nr. 35 om skattlegging av un](../lover/lov-1983-12-23-76.html) | Tilleggslov til petroleumsskatteloven | Finansdepartementet |
+| [Lov om omorganisering av Statkraft SF](../lover/lov-2004-08-27-70.html) | Lov om omorganisering av Statkraft SF | Nærings- og fiskeridepartementet |
+| [Lov om oppheving av lov om avgift på utslipp av CO2i petroleumsvirksomhet på kon](../lover/lov-2023-12-20-96.html) | Endringslov til lov om avgift på utslipp av CO2 | Finansdepartementet |
+| [Lov om petroleumsvirksomhet [petroleumsloven]](../lover/lov-1996-11-29-72.html) | Petroleumsloven – petrl | Energidepartementet |
+| [Lov om produksjon, omforming, overføring, omsetning, fordeling og bruk av energi](../lover/lov-1990-06-29-50.html) | Energiloven – enl | Energidepartementet |
+| [Lov om registrering av elektriske kraftledninger [kraftledningsregisterloven]](../lover/lov-1927-07-01-1.html) | Kraftledningsregisterloven – kregl | Justis- og beredskapsdepartementet |
+| [Lov om registrering av import og leveranser av råolje i Det europeiske økonomisk](../lover/lov-1999-06-25-54.html) | Lov om registrering av råoljehandel – råolregl | Energidepartementet |
+| [Lov om regulering og kraftutbygging i vassdrag (vassdragsreguleringsloven)](../lover/lov-1917-12-14-17.html) | Vassdragsreguleringsloven – vregl | Energidepartementet |
+| [Lov om skattlegging av undersjøiske petroleumsforekomster mv. (petroleumsskattel](../lover/lov-1975-06-13-35.html) | Petroleumsskatteloven – petrsktl | Finansdepartementet |
+| [Lov om strålevern og bruk av stråling [strålevernloven]](../lover/lov-2000-05-12-36.html) | Strålevernloven – stvl | Helse- og omsorgsdepartementet |
+| [Lov om tilsyn med elektriske anlegg og elektrisk utstyr (el-tilsynsloven)](../lover/lov-1929-05-24-4.html) | El-tilsynsloven | Justis- og beredskapsdepartementet |
+| [Lov om undersøkelser etter og utvinning av petroleum i grunnen under norsk lando](../lover/lov-1973-05-04-21.html) | Lov om utvinning av petroleum under land | Energidepartementet |
+| [Lov om vassdrag og grunnvann (vannressursloven)](../lover/lov-2000-11-24-82.html) | Vannressursloven – vrl | Energidepartementet |
+| [Lov om vassdragene [vassdragsloven]](../lover/lov-1940-03-15-3.html) | Vassdragsloven – vdrl | Energidepartementet |

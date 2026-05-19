@@ -4,30 +4,30 @@
 
 | Lov | Korttittel | Departement |
 |-----|-----------|-------------|
-| [Lov om Statens kommisjon for partnerdrap](/norwegian-laws/lover/lov-2025-03-28-5.html) | Lov om Statens kommisjon for partnerdrap | Justis- og beredskapsdepartementet |
-| [Lov om ansvar for handlinger som påtales ved Riksrett [ansvarlighetsloven]](/norwegian-laws/lover/lov-1932-02-05-1.html) | Ansvarlighetsloven – riksrl | Justis- og beredskapsdepartementet |
-| [Lov om endringer i finansmarkedslovgivningen (samleproposisjon)](/norwegian-laws/lover/lov-2024-06-25-60.html) | Endringslov til finansmarkedslovgivningen | Finansdepartementet |
-| [Lov om endringer i forsvarsloven mv. (militær disiplinærmyndighet)](/norwegian-laws/lover/lov-2023-11-24-84.html) | Endringslov til forsvarsloven mv. (militær disiplinærmyndighet) | Forsvarsdepartementet |
-| [Lov om endringer i konfliktrådsloven og straffeloven mv. (strafferettslige reaks](/norwegian-laws/lover/lov-2024-11-29-73.html) | Endringslov til konfliktrådsloven og straffeloven mv. | Justis- og beredskapsdepartementet |
-| [Lov om endringer i konfliktrådsloven, straffeloven og straffeprosessloven mv. (s](/norwegian-laws/lover/lov-2023-12-20-110.html) | Endringslov til konfliktrådsloven, straffeloven mv | Justis- og beredskapsdepartementet |
-| [Lov om endringer i straffeloven og legemiddelloven mv. (befatning med mindre men](/norwegian-laws/lover/lov-2025-06-20-83.html) | Endringslov til straffeloven og legemiddelloven mv. | Justis- og beredskapsdepartementet |
-| [Lov om endringer i straffeloven, straffeprosessloven, straffegjennomføringsloven](/norwegian-laws/lover/lov-2012-01-20-6.html) | Endringslov til straffeloven mv. | Justis- og beredskapsdepartementet |
-| [Lov om forbud mot fallskjermhopping m.v. innenfor visse fjellområder](/norwegian-laws/lover/lov-1987-06-12-57.html) | Lov om forbud mot fallskjermhopping | Justis- og beredskapsdepartementet |
-| [Lov om fullbyrding av nordiske dommer på straff m.v.](/norwegian-laws/lover/lov-1963-11-15.html) | Lov om fullbyrding av nordiske straffedommer | Justis- og beredskapsdepartementet |
-| [Lov om gjennomføring av europarådsavtale 31. januar 1995 om ulovlig håndtering a](/norwegian-laws/lover/lov-1997-06-13-47.html) | Lov om europarådsavtale om handel med narkotika | Justis- og beredskapsdepartementet |
-| [Lov om gjennomføring av internasjonale sanksjoner (sanksjonsloven)](/norwegian-laws/lover/lov-2021-04-16-18.html) | Sanksjonsloven | Utenriksdepartementet |
-| [Lov om gjennomføring i norsk rett av De forente nasjoners sikkerhetsråds vedtak ](/norwegian-laws/lover/lov-1994-06-24-38.html) | Lov om krigsforbryterdomstol, Jugoslavia m m | Justis- og beredskapsdepartementet |
-| [Lov om gjennomføring i norsk rett av Den internasjonale straffedomstols vedtekte](/norwegian-laws/lover/lov-2001-06-15-65.html) | Lov om gjennomføring av Roma-vedtektene | Justis- og beredskapsdepartementet |
-| [Lov om ikraftsetting av straffeloven 2005 (straffelovens ikraftsettingslov)](/norwegian-laws/lover/lov-2015-06-19-65.html) | Straffelovens ikraftsettingslov | Justis- og beredskapsdepartementet |
-| [Lov om informasjonstilgang m.m. for Partnerdrapsutvalget](/norwegian-laws/lover/lov-2019-11-29-75.html) | Lov om informasjonstilgang m.m. for Partnerdrapsutvalget | Justis- og beredskapsdepartementet |
-| [Lov om låneformidling (låneformidlingsloven)](/norwegian-laws/lover/lov-2022-12-16-91.html) | Låneformidlingsloven | Finansdepartementet |
-| [Lov om militær politimyndighet (militærpolitiloven)](/norwegian-laws/lover/lov-2023-11-24-85.html) | Militærpolitiloven | Forsvarsdepartementet |
-| [Lov om pågriping og overlevering til og frå Noreg for straffbare forhold på grun](/norwegian-laws/lover/lov-2012-01-20-4.html) | Arrestordreloven | Justis- og beredskapsdepartementet |
-| [Lov om rituell omskjæring av gutter](/norwegian-laws/lover/lov-2014-06-20-40.html) | Lov om rituell omskjæring av gutter | Helse- og omsorgsdepartementet |
-| [Lov om straff (straffeloven)](/norwegian-laws/lover/lov-2005-05-20-28.html) | Straffeloven – strl. | Justis- og beredskapsdepartementet |
-| [Lov om straffebestemmelser for utenlandske militærpersoner som er internert her ](/norwegian-laws/lover/lov-1916-03-17.html) | Lov om straff for internerte militære | Justis- og beredskapsdepartementet |
-| [Lov om tiltak mot hvitvasking og terrorfinansiering (hvitvaskingsloven)](/norwegian-laws/lover/lov-2018-06-01-23.html) | Hvitvaskingsloven – hvvl | Finansdepartementet |
-| [Lov om utlevering for å få iverksatt vedtak om frihetsinngrep truffet av myndigh](/norwegian-laws/lover/lov-1970-06-05-35.html) | Lov om utlevering mellom nordiske land | Justis- og beredskapsdepartementet |
-| [Lov om vern av forretningshemmeligheter (forretningshemmelighetsloven)](/norwegian-laws/lover/lov-2020-03-27-15.html) | Forretningshemmelighetsloven | Justis- og beredskapsdepartementet |
-| [Lov om våpen, skytevåpen, våpendelar og ammunisjon (våpenlova)](/norwegian-laws/lover/lov-2018-04-20-7.html) | Våpenlova | Justis- og beredskapsdepartementet |
-| [Militær Straffelov](/norwegian-laws/lover/lov-1902-05-22-13.html) | Militær Straffelov – milstrl | Justis- og beredskapsdepartementet |
+| [Lov om Statens kommisjon for partnerdrap](../lover/lov-2025-03-28-5.html) | Lov om Statens kommisjon for partnerdrap | Justis- og beredskapsdepartementet |
+| [Lov om ansvar for handlinger som påtales ved Riksrett [ansvarlighetsloven]](../lover/lov-1932-02-05-1.html) | Ansvarlighetsloven – riksrl | Justis- og beredskapsdepartementet |
+| [Lov om endringer i finansmarkedslovgivningen (samleproposisjon)](../lover/lov-2024-06-25-60.html) | Endringslov til finansmarkedslovgivningen | Finansdepartementet |
+| [Lov om endringer i forsvarsloven mv. (militær disiplinærmyndighet)](../lover/lov-2023-11-24-84.html) | Endringslov til forsvarsloven mv. (militær disiplinærmyndighet) | Forsvarsdepartementet |
+| [Lov om endringer i konfliktrådsloven og straffeloven mv. (strafferettslige reaks](../lover/lov-2024-11-29-73.html) | Endringslov til konfliktrådsloven og straffeloven mv. | Justis- og beredskapsdepartementet |
+| [Lov om endringer i konfliktrådsloven, straffeloven og straffeprosessloven mv. (s](../lover/lov-2023-12-20-110.html) | Endringslov til konfliktrådsloven, straffeloven mv | Justis- og beredskapsdepartementet |
+| [Lov om endringer i straffeloven og legemiddelloven mv. (befatning med mindre men](../lover/lov-2025-06-20-83.html) | Endringslov til straffeloven og legemiddelloven mv. | Justis- og beredskapsdepartementet |
+| [Lov om endringer i straffeloven, straffeprosessloven, straffegjennomføringsloven](../lover/lov-2012-01-20-6.html) | Endringslov til straffeloven mv. | Justis- og beredskapsdepartementet |
+| [Lov om forbud mot fallskjermhopping m.v. innenfor visse fjellområder](../lover/lov-1987-06-12-57.html) | Lov om forbud mot fallskjermhopping | Justis- og beredskapsdepartementet |
+| [Lov om fullbyrding av nordiske dommer på straff m.v.](../lover/lov-1963-11-15.html) | Lov om fullbyrding av nordiske straffedommer | Justis- og beredskapsdepartementet |
+| [Lov om gjennomføring av europarådsavtale 31. januar 1995 om ulovlig håndtering a](../lover/lov-1997-06-13-47.html) | Lov om europarådsavtale om handel med narkotika | Justis- og beredskapsdepartementet |
+| [Lov om gjennomføring av internasjonale sanksjoner (sanksjonsloven)](../lover/lov-2021-04-16-18.html) | Sanksjonsloven | Utenriksdepartementet |
+| [Lov om gjennomføring i norsk rett av De forente nasjoners sikkerhetsråds vedtak ](../lover/lov-1994-06-24-38.html) | Lov om krigsforbryterdomstol, Jugoslavia m m | Justis- og beredskapsdepartementet |
+| [Lov om gjennomføring i norsk rett av Den internasjonale straffedomstols vedtekte](../lover/lov-2001-06-15-65.html) | Lov om gjennomføring av Roma-vedtektene | Justis- og beredskapsdepartementet |
+| [Lov om ikraftsetting av straffeloven 2005 (straffelovens ikraftsettingslov)](../lover/lov-2015-06-19-65.html) | Straffelovens ikraftsettingslov | Justis- og beredskapsdepartementet |
+| [Lov om informasjonstilgang m.m. for Partnerdrapsutvalget](../lover/lov-2019-11-29-75.html) | Lov om informasjonstilgang m.m. for Partnerdrapsutvalget | Justis- og beredskapsdepartementet |
+| [Lov om låneformidling (låneformidlingsloven)](../lover/lov-2022-12-16-91.html) | Låneformidlingsloven | Finansdepartementet |
+| [Lov om militær politimyndighet (militærpolitiloven)](../lover/lov-2023-11-24-85.html) | Militærpolitiloven | Forsvarsdepartementet |
+| [Lov om pågriping og overlevering til og frå Noreg for straffbare forhold på grun](../lover/lov-2012-01-20-4.html) | Arrestordreloven | Justis- og beredskapsdepartementet |
+| [Lov om rituell omskjæring av gutter](../lover/lov-2014-06-20-40.html) | Lov om rituell omskjæring av gutter | Helse- og omsorgsdepartementet |
+| [Lov om straff (straffeloven)](../lover/lov-2005-05-20-28.html) | Straffeloven – strl. | Justis- og beredskapsdepartementet |
+| [Lov om straffebestemmelser for utenlandske militærpersoner som er internert her ](../lover/lov-1916-03-17.html) | Lov om straff for internerte militære | Justis- og beredskapsdepartementet |
+| [Lov om tiltak mot hvitvasking og terrorfinansiering (hvitvaskingsloven)](../lover/lov-2018-06-01-23.html) | Hvitvaskingsloven – hvvl | Finansdepartementet |
+| [Lov om utlevering for å få iverksatt vedtak om frihetsinngrep truffet av myndigh](../lover/lov-1970-06-05-35.html) | Lov om utlevering mellom nordiske land | Justis- og beredskapsdepartementet |
+| [Lov om vern av forretningshemmeligheter (forretningshemmelighetsloven)](../lover/lov-2020-03-27-15.html) | Forretningshemmelighetsloven | Justis- og beredskapsdepartementet |
+| [Lov om våpen, skytevåpen, våpendelar og ammunisjon (våpenlova)](../lover/lov-2018-04-20-7.html) | Våpenlova | Justis- og beredskapsdepartementet |
+| [Militær Straffelov](../lover/lov-1902-05-22-13.html) | Militær Straffelov – milstrl | Justis- og beredskapsdepartementet |

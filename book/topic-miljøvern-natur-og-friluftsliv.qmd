@@ -4,23 +4,23 @@
 
 | Lov | Korttittel | Departement |
 |-----|-----------|-------------|
-| [Lov om bevaring og bærekraftig bruk av marint naturmangfold i områder utenfor na](/norwegian-laws/lover/lov-2025-05-27-21.html) | Lov om bevaring og bærekraftig bruk av marint naturmangfold i områder utenfor nasjonal jurisdiksjon | Klima- og miljødepartementet |
-| [Lov om bærekraftige produkter og verdikjeder (bærekraftige produkter-loven)](/norwegian-laws/lover/lov-2024-06-25-69.html) | Bærekraftige produkter-loven | Klima- og miljødepartementet |
-| [Lov om endringer i regnskapsloven mv. (bærekraftsrapportering)](/norwegian-laws/lover/lov-2024-06-21-42.html) | Endringslov til regnskapsloven mv. | Finansdepartementet |
-| [Lov om erstatning for naturskader (naturskadeerstatningsloven)](/norwegian-laws/lover/lov-2014-08-15-59.html) | Naturskadeerstatningsloven | Landbruks- og matdepartementet |
-| [Lov om forvaltning av naturens mangfold (naturmangfoldloven)](/norwegian-laws/lover/lov-2009-06-19-100.html) | Naturmangfoldloven – nml | Klima- og miljødepartementet |
-| [Lov om friluftslivet (friluftsloven)](/norwegian-laws/lover/lov-1957-06-28-16.html) | Friluftsloven – fril | Klima- og miljødepartementet |
-| [Lov om gjennomføring i norsk rett av miljøvernkonvensjon mellom Norge, Danmark, ](/norwegian-laws/lover/lov-1976-04-09-21.html) | Lov om nordisk miljøvernkonvensjon | Klima- og miljødepartementet |
-| [Lov om konsesjon for rettigheter til vannfall mv. (vannfallrettighetsloven)](/norwegian-laws/lover/lov-1917-12-14-16.html) | Vannfallrettighetsloven | Energidepartementet |
-| [Lov om kvoteplikt og handel med kvoter for utslipp av klimagasser (klimakvotelov](/norwegian-laws/lover/lov-2004-12-17-99.html) | Klimakvoteloven | Klima- og miljødepartementet |
-| [Lov om motorferdsel i utmark og vassdrag (motorferdselloven)](/norwegian-laws/lover/lov-1977-06-10-82.html) | Motorferdselloven | Klima- og miljødepartementet |
-| [Lov om naturområder i Oslo og nærliggende kommuner (markaloven)](/norwegian-laws/lover/lov-2009-06-05-35.html) | Markaloven | Klima- og miljødepartementet |
-| [Lov om regulering og kraftutbygging i vassdrag (vassdragsreguleringsloven)](/norwegian-laws/lover/lov-1917-12-14-17.html) | Vassdragsreguleringsloven – vregl | Energidepartementet |
-| [Lov om rett til miljøinformasjon og deltakelse i offentlige beslutningsprosesser](/norwegian-laws/lover/lov-2003-05-09-31.html) | Miljøinformasjonsloven – mlinfl | Klima- og miljødepartementet |
-| [Lov om rettsforhold og forvaltning av grunn og naturressurser i Finnmark (Finnma](/norwegian-laws/lover/lov-2005-06-17-85.html) | Finnmarksloven | Justis- og beredskapsdepartementet |
-| [Lov om sikring mot naturskader](/norwegian-laws/lover/lov-1994-03-25-7.html) | Naturskadeloven | Energidepartementet |
-| [Lov om statlig naturoppsyn (naturoppsynsloven)](/norwegian-laws/lover/lov-1996-06-21-38.html) | Naturoppsynsloven | Klima- og miljødepartementet |
-| [Lov om vassdrag og grunnvann (vannressursloven)](/norwegian-laws/lover/lov-2000-11-24-82.html) | Vannressursloven – vrl | Energidepartementet |
-| [Lov om vassdragene [vassdragsloven]](/norwegian-laws/lover/lov-1940-03-15-3.html) | Vassdragsloven – vdrl | Energidepartementet |
-| [Lov om vern av marin natur utenfor territorialfarvannet (havvernloven)](/norwegian-laws/lover/lov-2025-06-10-33.html) | Havvernloven | Klima- og miljødepartementet |
-| [Lov om vern mot forurensninger og om avfall (forurensningsloven)](/norwegian-laws/lover/lov-1981-03-13-6.html) | Forurensningsloven – forurl | Klima- og miljødepartementet |
+| [Lov om bevaring og bærekraftig bruk av marint naturmangfold i områder utenfor na](../lover/lov-2025-05-27-21.html) | Lov om bevaring og bærekraftig bruk av marint naturmangfold i områder utenfor nasjonal jurisdiksjon | Klima- og miljødepartementet |
+| [Lov om bærekraftige produkter og verdikjeder (bærekraftige produkter-loven)](../lover/lov-2024-06-25-69.html) | Bærekraftige produkter-loven | Klima- og miljødepartementet |
+| [Lov om endringer i regnskapsloven mv. (bærekraftsrapportering)](../lover/lov-2024-06-21-42.html) | Endringslov til regnskapsloven mv. | Finansdepartementet |
+| [Lov om erstatning for naturskader (naturskadeerstatningsloven)](../lover/lov-2014-08-15-59.html) | Naturskadeerstatningsloven | Landbruks- og matdepartementet |
+| [Lov om forvaltning av naturens mangfold (naturmangfoldloven)](../lover/lov-2009-06-19-100.html) | Naturmangfoldloven – nml | Klima- og miljødepartementet |
+| [Lov om friluftslivet (friluftsloven)](../lover/lov-1957-06-28-16.html) | Friluftsloven – fril | Klima- og miljødepartementet |
+| [Lov om gjennomføring i norsk rett av miljøvernkonvensjon mellom Norge, Danmark, ](../lover/lov-1976-04-09-21.html) | Lov om nordisk miljøvernkonvensjon | Klima- og miljødepartementet |
+| [Lov om konsesjon for rettigheter til vannfall mv. (vannfallrettighetsloven)](../lover/lov-1917-12-14-16.html) | Vannfallrettighetsloven | Energidepartementet |
+| [Lov om kvoteplikt og handel med kvoter for utslipp av klimagasser (klimakvotelov](../lover/lov-2004-12-17-99.html) | Klimakvoteloven | Klima- og miljødepartementet |
+| [Lov om motorferdsel i utmark og vassdrag (motorferdselloven)](../lover/lov-1977-06-10-82.html) | Motorferdselloven | Klima- og miljødepartementet |
+| [Lov om naturområder i Oslo og nærliggende kommuner (markaloven)](../lover/lov-2009-06-05-35.html) | Markaloven | Klima- og miljødepartementet |
+| [Lov om regulering og kraftutbygging i vassdrag (vassdragsreguleringsloven)](../lover/lov-1917-12-14-17.html) | Vassdragsreguleringsloven – vregl | Energidepartementet |
+| [Lov om rett til miljøinformasjon og deltakelse i offentlige beslutningsprosesser](../lover/lov-2003-05-09-31.html) | Miljøinformasjonsloven – mlinfl | Klima- og miljødepartementet |
+| [Lov om rettsforhold og forvaltning av grunn og naturressurser i Finnmark (Finnma](../lover/lov-2005-06-17-85.html) | Finnmarksloven | Justis- og beredskapsdepartementet |
+| [Lov om sikring mot naturskader](../lover/lov-1994-03-25-7.html) | Naturskadeloven | Energidepartementet |
+| [Lov om statlig naturoppsyn (naturoppsynsloven)](../lover/lov-1996-06-21-38.html) | Naturoppsynsloven | Klima- og miljødepartementet |
+| [Lov om vassdrag og grunnvann (vannressursloven)](../lover/lov-2000-11-24-82.html) | Vannressursloven – vrl | Energidepartementet |
+| [Lov om vassdragene [vassdragsloven]](../lover/lov-1940-03-15-3.html) | Vassdragsloven – vdrl | Energidepartementet |
+| [Lov om vern av marin natur utenfor territorialfarvannet (havvernloven)](../lover/lov-2025-06-10-33.html) | Havvernloven | Klima- og miljødepartementet |
+| [Lov om vern mot forurensninger og om avfall (forurensningsloven)](../lover/lov-1981-03-13-6.html) | Forurensningsloven – forurl | Klima- og miljødepartementet |

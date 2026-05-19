@@ -4,30 +4,30 @@
 
 | Lov | Korttittel | Departement |
 |-----|-----------|-------------|
-| [Lov om barnehager (barnehageloven)](/norwegian-laws/lover/lov-2005-06-17-64.html) | Barnehageloven – bhl | Kunnskapsdepartementet |
-| [Lov om behandlingsbiobanker (behandlingsbiobankloven)](/norwegian-laws/lover/lov-2003-02-21-12.html) | Behandlingsbiobankloven – biobl | Helse- og omsorgsdepartementet |
-| [Lov om endringer i barnehageloven (styring og finansiering av barnehagesektoren)](/norwegian-laws/lover/lov-2025-06-20-100.html) | Endringslov til barnehageloven | Kunnskapsdepartementet |
-| [Lov om endringer i barnetrygdloven og midlertidige endringer i lovverket som føl](/norwegian-laws/lover/lov-2024-06-25-53.html) | Endringslov til barnetrygdloven mv. (Ukraina) | Arbeids- og inkluderingsdepartementet |
-| [Lov om endringer i barnevernsloven mv. (kvalitetsløftet i barnevernet)](/norwegian-laws/lover/lov-2025-06-20-39.html) | Endringslov til barnevernsloven mv. | Barne- og familiedepartementet |
-| [Lov om endringer i helseforskningsloven mv. (vilkår for medisinsk og helsefaglig](/norwegian-laws/lover/lov-2025-06-20-71.html) | Endringslov til helseforskningsloven mv. | Helse- og omsorgsdepartementet |
-| [Lov om endringer i integreringsloven mv. (økt arbeidsretting og formell opplærin](/norwegian-laws/lover/lov-2025-06-20-35.html) | Endringslov til integreringsloven mv. | Arbeids- og inkluderingsdepartementet |
-| [Lov om endringer i opplæringslova (rett til 12 timer gratis skolefritidsordning ](/norwegian-laws/lover/lov-2026-02-13-6.html) | Endringslov til opplæringslova | Kunnskapsdepartementet |
-| [Lov om endringer i psykisk helsevernloven og pasient- og brukerrettighetsloven m](/norwegian-laws/lover/lov-2025-06-20-67.html) | Endringslov til psykisk helsevernloven mv | Helse- og omsorgsdepartementet |
-| [Lov om endringer i regnskapsloven mv. (bærekraftsrapportering)](/norwegian-laws/lover/lov-2024-06-21-42.html) | Endringslov til regnskapsloven mv. | Finansdepartementet |
-| [Lov om folkehøgskoler (folkehøgskoleloven)](/norwegian-laws/lover/lov-2025-06-20-99.html) | Folkehøgskoleloven | Kunnskapsdepartementet |
-| [Lov om forskningsavgift på landbruksprodukter](/norwegian-laws/lover/lov-1970-06-26-74.html) | Lov om forskningsavgift i landbruket | Landbruks- og matdepartementet |
-| [Lov om grunnskoleopplæringa og den vidaregåande opplæringa (opplæringslova)](/norwegian-laws/lover/lov-2023-06-09-30.html) | Opplæringslova | Kunnskapsdepartementet |
-| [Lov om humanmedisinsk bruk av bioteknologi m.m. (bioteknologiloven)](/norwegian-laws/lover/lov-2003-12-05-100.html) | Bioteknologiloven – biotl | Helse- og omsorgsdepartementet |
-| [Lov om høyere yrkesfaglig utdanning (fagskoleloven)](/norwegian-laws/lover/lov-2018-06-08-28.html) | Fagskoleloven | Kunnskapsdepartementet |
-| [Lov om konsortium for europeisk forskingsinfrastruktur (ERIC-lova)](/norwegian-laws/lover/lov-2015-12-11-99.html) | ERIC-lova | Kunnskapsdepartementet |
-| [Lov om kristendomsundervisning ved vidaregåande skole, høgskole og universitet](/norwegian-laws/lover/lov-1971-12-17-106.html) | Kristendomslærelov for vidaregåande skoler m.v. | Kunnskapsdepartementet |
-| [Lov om medisinsk og helsefaglig forskning (helseforskningsloven)](/norwegian-laws/lover/lov-2008-06-20-44.html) | Helseforskningsloven – hforsknl | Helse- og omsorgsdepartementet |
-| [Lov om mesterbrev i håndverk og annen næring [mesterbrevloven]](/norwegian-laws/lover/lov-1986-06-20-35.html) | Mesterbrevloven | Nærings- og fiskeridepartementet |
-| [Lov om organisering av forskningsetisk arbeid (forskningsetikkloven)](/norwegian-laws/lover/lov-2017-04-28-23.html) | Forskningsetikkloven | Kunnskapsdepartementet |
-| [Lov om overgangsregler mv. ved Storbritannias uttreden fra Den europeiske union ](/norwegian-laws/lover/lov-2020-11-27-131.html) | Brexit-loven | Justis- og beredskapsdepartementet |
-| [Lov om private skolar med rett til statstilskot (privatskolelova)](/norwegian-laws/lover/lov-2003-07-04-84.html) | Privatskolelova – prskol | Kunnskapsdepartementet |
-| [Lov om språk (språklova)](/norwegian-laws/lover/lov-2021-05-21-42.html) | Språklova | Kultur- og likestillingsdepartementet |
-| [Lov om studentsamskipnader (studentsamskipnadsloven)](/norwegian-laws/lover/lov-2007-12-14-116.html) | Studentsamskipnadsloven | Kunnskapsdepartementet |
-| [Lov om universiteter og høyskoler (universitets- og høyskoleloven)](/norwegian-laws/lover/lov-2024-03-08-9.html) | Universitets- og høyskoleloven | Kunnskapsdepartementet |
-| [Lov om utdanningsstøtte (utdanningsstøtteloven)](/norwegian-laws/lover/lov-2005-06-03-37.html) | Utdanningsstøtteloven | Kunnskapsdepartementet |
-| [Lov om voksenopplæring (voksenopplæringsloven)](/norwegian-laws/lover/lov-2009-06-19-95.html) | Voksenopplæringsloven | Kunnskapsdepartementet |
+| [Lov om barnehager (barnehageloven)](../lover/lov-2005-06-17-64.html) | Barnehageloven – bhl | Kunnskapsdepartementet |
+| [Lov om behandlingsbiobanker (behandlingsbiobankloven)](../lover/lov-2003-02-21-12.html) | Behandlingsbiobankloven – biobl | Helse- og omsorgsdepartementet |
+| [Lov om endringer i barnehageloven (styring og finansiering av barnehagesektoren)](../lover/lov-2025-06-20-100.html) | Endringslov til barnehageloven | Kunnskapsdepartementet |
+| [Lov om endringer i barnetrygdloven og midlertidige endringer i lovverket som føl](../lover/lov-2024-06-25-53.html) | Endringslov til barnetrygdloven mv. (Ukraina) | Arbeids- og inkluderingsdepartementet |
+| [Lov om endringer i barnevernsloven mv. (kvalitetsløftet i barnevernet)](../lover/lov-2025-06-20-39.html) | Endringslov til barnevernsloven mv. | Barne- og familiedepartementet |
+| [Lov om endringer i helseforskningsloven mv. (vilkår for medisinsk og helsefaglig](../lover/lov-2025-06-20-71.html) | Endringslov til helseforskningsloven mv. | Helse- og omsorgsdepartementet |
+| [Lov om endringer i integreringsloven mv. (økt arbeidsretting og formell opplærin](../lover/lov-2025-06-20-35.html) | Endringslov til integreringsloven mv. | Arbeids- og inkluderingsdepartementet |
+| [Lov om endringer i opplæringslova (rett til 12 timer gratis skolefritidsordning ](../lover/lov-2026-02-13-6.html) | Endringslov til opplæringslova | Kunnskapsdepartementet |
+| [Lov om endringer i psykisk helsevernloven og pasient- og brukerrettighetsloven m](../lover/lov-2025-06-20-67.html) | Endringslov til psykisk helsevernloven mv | Helse- og omsorgsdepartementet |
+| [Lov om endringer i regnskapsloven mv. (bærekraftsrapportering)](../lover/lov-2024-06-21-42.html) | Endringslov til regnskapsloven mv. | Finansdepartementet |
+| [Lov om folkehøgskoler (folkehøgskoleloven)](../lover/lov-2025-06-20-99.html) | Folkehøgskoleloven | Kunnskapsdepartementet |
+| [Lov om forskningsavgift på landbruksprodukter](../lover/lov-1970-06-26-74.html) | Lov om forskningsavgift i landbruket | Landbruks- og matdepartementet |
+| [Lov om grunnskoleopplæringa og den vidaregåande opplæringa (opplæringslova)](../lover/lov-2023-06-09-30.html) | Opplæringslova | Kunnskapsdepartementet |
+| [Lov om humanmedisinsk bruk av bioteknologi m.m. (bioteknologiloven)](../lover/lov-2003-12-05-100.html) | Bioteknologiloven – biotl | Helse- og omsorgsdepartementet |
+| [Lov om høyere yrkesfaglig utdanning (fagskoleloven)](../lover/lov-2018-06-08-28.html) | Fagskoleloven | Kunnskapsdepartementet |
+| [Lov om konsortium for europeisk forskingsinfrastruktur (ERIC-lova)](../lover/lov-2015-12-11-99.html) | ERIC-lova | Kunnskapsdepartementet |
+| [Lov om kristendomsundervisning ved vidaregåande skole, høgskole og universitet](../lover/lov-1971-12-17-106.html) | Kristendomslærelov for vidaregåande skoler m.v. | Kunnskapsdepartementet |
+| [Lov om medisinsk og helsefaglig forskning (helseforskningsloven)](../lover/lov-2008-06-20-44.html) | Helseforskningsloven – hforsknl | Helse- og omsorgsdepartementet |
+| [Lov om mesterbrev i håndverk og annen næring [mesterbrevloven]](../lover/lov-1986-06-20-35.html) | Mesterbrevloven | Nærings- og fiskeridepartementet |
+| [Lov om organisering av forskningsetisk arbeid (forskningsetikkloven)](../lover/lov-2017-04-28-23.html) | Forskningsetikkloven | Kunnskapsdepartementet |
+| [Lov om overgangsregler mv. ved Storbritannias uttreden fra Den europeiske union ](../lover/lov-2020-11-27-131.html) | Brexit-loven | Justis- og beredskapsdepartementet |
+| [Lov om private skolar med rett til statstilskot (privatskolelova)](../lover/lov-2003-07-04-84.html) | Privatskolelova – prskol | Kunnskapsdepartementet |
+| [Lov om språk (språklova)](../lover/lov-2021-05-21-42.html) | Språklova | Kultur- og likestillingsdepartementet |
+| [Lov om studentsamskipnader (studentsamskipnadsloven)](../lover/lov-2007-12-14-116.html) | Studentsamskipnadsloven | Kunnskapsdepartementet |
+| [Lov om universiteter og høyskoler (universitets- og høyskoleloven)](../lover/lov-2024-03-08-9.html) | Universitets- og høyskoleloven | Kunnskapsdepartementet |
+| [Lov om utdanningsstøtte (utdanningsstøtteloven)](../lover/lov-2005-06-03-37.html) | Utdanningsstøtteloven | Kunnskapsdepartementet |
+| [Lov om voksenopplæring (voksenopplæringsloven)](../lover/lov-2009-06-19-95.html) | Voksenopplæringsloven | Kunnskapsdepartementet |

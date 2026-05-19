@@ -4,50 +4,50 @@
 
 | Lov | Korttittel | Departement |
 |-----|-----------|-------------|
-| [Lov om 1 og 17 mai som høgtidsdager](/norwegian-laws/lover/lov-1947-04-26-1.html) | Lov om 1 og 17 mai | Arbeids- og inkluderingsdepartementet |
-| [Lov om Likestillings- og diskrimineringsombudet og Diskrimineringsnemnda (diskri](/norwegian-laws/lover/lov-2017-06-16-50.html) | Diskrimineringsombudsloven – diskrol | Kultur- og likestillingsdepartementet |
-| [Lov om aldersgrenser for statsansatte m.fl.](/norwegian-laws/lover/lov-1956-12-21-1.html) | Lov om aldersgrenser for statsansatte m.fl. | Arbeids- og inkluderingsdepartementet |
-| [Lov om allmenngjøring av bestemmelser i tariffavtale om europeiske samarbeidsutv](/norwegian-laws/lover/lov-1996-08-23-63.html) | Lov om europeiske samarbeidsutvalg m.v. | Arbeids- og inkluderingsdepartementet |
-| [Lov om allmenngjøring av tariffavtaler m.v. (allmenngjøringsloven)](/norwegian-laws/lover/lov-1993-06-04-58.html) | Allmenngjøringsloven | Arbeids- og inkluderingsdepartementet |
-| [Lov om ansvar og garanti for statens oppkrevere og regnskapsførere m.v.](/norwegian-laws/lover/lov-1958-03-28-4.html) | Lov om statens oppkrevere m.v. | Finansdepartementet |
-| [Lov om arbeids- og velferdsforvaltningen (arbeids- og velferdsforvaltningsloven)](/norwegian-laws/lover/lov-2006-06-16-20.html) | Nav-loven | Arbeids- og inkluderingsdepartementet |
-| [Lov om arbeidsgivers innrapportering av ansettelses- og inntektsforhold m.m. (a-](/norwegian-laws/lover/lov-2012-06-22-43.html) | A-opplysningsloven | Finansdepartementet |
-| [Lov om arbeidsmarkedstjenester (arbeidsmarkedsloven)](/norwegian-laws/lover/lov-2004-12-10-76.html) | Arbeidsmarkedsloven | Arbeids- og inkluderingsdepartementet |
-| [Lov om arbeidsmiljø, arbeidstid og stillingsvern mv. (arbeidsmiljøloven)](/norwegian-laws/lover/lov-2005-06-17-62.html) | Arbeidsmiljøloven – aml | Arbeids- og inkluderingsdepartementet |
-| [Lov om arbeidstvister (arbeidstvistloven)](/norwegian-laws/lover/lov-2012-01-27-9.html) | Arbeidstvistloven – arbtvl | Arbeids- og inkluderingsdepartementet |
-| [Lov om boikott [boikottloven]](/norwegian-laws/lover/lov-1947-12-05-1.html) | Boikottloven – boil | Justis- og beredskapsdepartementet |
-| [Lov om delvis Omordning af det civile Embedsværk](/norwegian-laws/lover/lov-1894-07-21-5.html) | Lov om Omordning af det civile Embedsverk | Justis- og beredskapsdepartementet |
-| [Lov om den europeiske arbeidsmarknadsstyresmakta (ELA-lova)](/norwegian-laws/lover/lov-2025-04-10-8.html) | ELA-lova | Arbeids- og inkluderingsdepartementet |
-| [Lov om endringer i allmenngjøringsloven (anvendelse på Svalbard)](/norwegian-laws/lover/lov-2025-03-28-4.html) | Endringslov til allmenngjøringsloven | Arbeids- og inkluderingsdepartementet |
-| [Lov om endringer i arbeidsmiljøloven og sosialtjenesteloven (adgang til midlerti](/norwegian-laws/lover/lov-2015-04-24-20.html) | Endringslov til arbeidsmiljøloven og sosialtjenesteloven | Arbeids- og inkluderingsdepartementet |
-| [Lov om endringer i barnevernsloven mv. (kvalitetsløftet i barnevernet)](/norwegian-laws/lover/lov-2025-06-20-39.html) | Endringslov til barnevernsloven mv. | Barne- og familiedepartementet |
-| [Lov om endringer i folketrygdloven og enkelte andre lover](/norwegian-laws/lover/lov-2019-12-20-84.html) | Endringslov til folketrygdloven og enkelte andre lover | Arbeids- og inkluderingsdepartementet |
-| [Lov om endringer i helseforskningsloven mv. (vilkår for medisinsk og helsefaglig](/norwegian-laws/lover/lov-2025-06-20-71.html) | Endringslov til helseforskningsloven mv. | Helse- og omsorgsdepartementet |
-| [Lov om endringer i helsepersonelloven og pasientjournalloven mv. (taushetsplikt ](/norwegian-laws/lover/lov-2026-01-23-1.html) | Endringslov til helsepersonelloven og pasientjournalloven mv. | Helse- og omsorgsdepartementet |
-| [Lov om endringer i konfliktrådsloven, straffeloven og straffeprosessloven mv. (s](/norwegian-laws/lover/lov-2023-12-20-110.html) | Endringslov til konfliktrådsloven, straffeloven mv | Justis- og beredskapsdepartementet |
-| [Lov om endringer i psykisk helsevernloven og pasient- og brukerrettighetsloven m](/norwegian-laws/lover/lov-2025-06-20-67.html) | Endringslov til psykisk helsevernloven mv | Helse- og omsorgsdepartementet |
-| [Lov om endringer i skipsarbeidsloven og NIS-loven (tydelige og mer forutsigbare ](/norwegian-laws/lover/lov-2026-04-10-14.html) | Endringslov til skipsarbeidsloven og NIS-loven | Nærings- og fiskeridepartementet |
-| [Lov om ferie [ferieloven]](/norwegian-laws/lover/lov-1988-04-29-21.html) | Ferieloven – feriel | Arbeids- og inkluderingsdepartementet |
-| [Lov om fri rørsle av arbeidstakarar innanfor EØS mv. (EØS-arbeidstakarlova)](/norwegian-laws/lover/lov-2012-12-14-81.html) | EØS-arbeidstakarlova | Arbeids- og inkluderingsdepartementet |
-| [Lov om godkjenning av yrkeskvalifikasjoner (yrkeskvalifikasjonsloven)](/norwegian-laws/lover/lov-2017-06-16-69.html) | Yrkeskvalifikasjonsloven | Kunnskapsdepartementet |
-| [Lov om helsepersonell m.v. (helsepersonelloven)](/norwegian-laws/lover/lov-1999-07-02-64.html) | Helsepersonelloven – hpl | Helse- og omsorgsdepartementet |
-| [Lov om informasjonsplikt, karantene og saksforbud for politikere, embetsmenn og ](/norwegian-laws/lover/lov-2015-06-19-70.html) | Karanteneloven | Digitaliserings- og forvaltningsdepartementet |
-| [Lov om likestilling og forbud mot diskriminering (likestillings- og diskrimineri](/norwegian-laws/lover/lov-2017-06-16-51.html) | Likestillings- og diskrimineringsloven – ldl | Kultur- og likestillingsdepartementet |
-| [Lov om lønnsnemnd i arbeidstvister (lønnsnemndloven)](/norwegian-laws/lover/lov-2012-01-27-10.html) | Lønnsnemndloven | Arbeids- og inkluderingsdepartementet |
-| [Lov om lønnsplikt under permittering (permitteringslønnsloven)](/norwegian-laws/lover/lov-1988-05-06-22.html) | Permitteringslønnsloven | Arbeids- og inkluderingsdepartementet |
-| [Lov om lønnsstøtte (økonomiske tiltak i møte med pandemien)](/norwegian-laws/lover/lov-2022-01-28-2.html) | Lov om lønnsstøtte (økonomiske tiltak i møte med pandemien) | Finansdepartementet |
-| [Lov om merkning av vekten på tunge kolli som fraktes med fartøi](/norwegian-laws/lover/lov-1932-04-22-1.html) | Lov om merkning på tunge kolli | Arbeids- og inkluderingsdepartementet |
-| [Lov om offentlige tjenestetvister [tjenestetvistloven]](/norwegian-laws/lover/lov-1958-07-18-2.html) | Tjenestetvistloven – tjtvl | Digitaliserings- og forvaltningsdepartementet |
-| [Lov om opphevelse av omstillingslova](/norwegian-laws/lover/lov-2019-12-13-83.html) | Lov om opphevelse av omstillingslova | Nærings- og fiskeridepartementet |
-| [Lov om retten til oppfinnelser som er gjort av arbeidstakere [arbeidstakeroppfin](/norwegian-laws/lover/lov-1970-04-17-21.html) | Arbeidstakeroppfinnelsesloven | Justis- og beredskapsdepartementet |
-| [Lov om sikre containere [containerloven]](/norwegian-laws/lover/lov-1982-12-17-84.html) | Containerloven | Nærings- og fiskeridepartementet |
-| [Lov om skipssikkerhet (skipssikkerhetsloven)](/norwegian-laws/lover/lov-2007-02-16-9.html) | Skipssikkerhetsloven | Nærings- og fiskeridepartementet |
-| [Lov om sosiale tjenester i arbeids- og velferdsforvaltningen (sosialtjenestelove](/norwegian-laws/lover/lov-2009-12-18-131.html) | Sosialtjenesteloven – sotjl | Arbeids- og inkluderingsdepartementet |
-| [Lov om språk (språklova)](/norwegian-laws/lover/lov-2021-05-21-42.html) | Språklova | Kultur- og likestillingsdepartementet |
-| [Lov om statens ansatte mv. (statsansatteloven)](/norwegian-laws/lover/lov-2017-06-16-67.html) | Statsansatteloven | Digitaliserings- og forvaltningsdepartementet |
-| [Lov om statsgaranti for lønnskrav ved konkurs m.v. [lønnsgarantiloven]](/norwegian-laws/lover/lov-1973-12-14-61.html) | Lønnsgarantiloven | Arbeids- og inkluderingsdepartementet |
-| [Lov om stillingsvern mv. for arbeidstakere på skip (skipsarbeidsloven)](/norwegian-laws/lover/lov-2013-06-21-102.html) | Skipsarbeidsloven | Nærings- og fiskeridepartementet |
-| [Lov om tilskudd ved avbrutt permittering (økonomiske tiltak i møte med virusutbr](/norwegian-laws/lover/lov-2020-06-23-99.html) | Lov om tilskudd ved avbrutt permittering | Finansdepartementet |
-| [Lov om tjenesteplikt i politiet [polititjenestepliktloven]](/norwegian-laws/lover/lov-1952-11-21-3.html) | Polititjenestepliktloven | Justis- og beredskapsdepartementet |
-| [Lov om utenrikstjenesten (utenrikstjenesteloven)](/norwegian-laws/lover/lov-2015-02-13-9.html) | Utenrikstjenesteloven | Utenriksdepartementet |
-| [Lov om virksomheters åpenhet og arbeid med grunnleggende menneskerettigheter og ](/norwegian-laws/lover/lov-2021-06-18-99.html) | Åpenhetsloven | Barne- og familiedepartementet |
+| [Lov om 1 og 17 mai som høgtidsdager](../lover/lov-1947-04-26-1.html) | Lov om 1 og 17 mai | Arbeids- og inkluderingsdepartementet |
+| [Lov om Likestillings- og diskrimineringsombudet og Diskrimineringsnemnda (diskri](../lover/lov-2017-06-16-50.html) | Diskrimineringsombudsloven – diskrol | Kultur- og likestillingsdepartementet |
+| [Lov om aldersgrenser for statsansatte m.fl.](../lover/lov-1956-12-21-1.html) | Lov om aldersgrenser for statsansatte m.fl. | Arbeids- og inkluderingsdepartementet |
+| [Lov om allmenngjøring av bestemmelser i tariffavtale om europeiske samarbeidsutv](../lover/lov-1996-08-23-63.html) | Lov om europeiske samarbeidsutvalg m.v. | Arbeids- og inkluderingsdepartementet |
+| [Lov om allmenngjøring av tariffavtaler m.v. (allmenngjøringsloven)](../lover/lov-1993-06-04-58.html) | Allmenngjøringsloven | Arbeids- og inkluderingsdepartementet |
+| [Lov om ansvar og garanti for statens oppkrevere og regnskapsførere m.v.](../lover/lov-1958-03-28-4.html) | Lov om statens oppkrevere m.v. | Finansdepartementet |
+| [Lov om arbeids- og velferdsforvaltningen (arbeids- og velferdsforvaltningsloven)](../lover/lov-2006-06-16-20.html) | Nav-loven | Arbeids- og inkluderingsdepartementet |
+| [Lov om arbeidsgivers innrapportering av ansettelses- og inntektsforhold m.m. (a-](../lover/lov-2012-06-22-43.html) | A-opplysningsloven | Finansdepartementet |
+| [Lov om arbeidsmarkedstjenester (arbeidsmarkedsloven)](../lover/lov-2004-12-10-76.html) | Arbeidsmarkedsloven | Arbeids- og inkluderingsdepartementet |
+| [Lov om arbeidsmiljø, arbeidstid og stillingsvern mv. (arbeidsmiljøloven)](../lover/lov-2005-06-17-62.html) | Arbeidsmiljøloven – aml | Arbeids- og inkluderingsdepartementet |
+| [Lov om arbeidstvister (arbeidstvistloven)](../lover/lov-2012-01-27-9.html) | Arbeidstvistloven – arbtvl | Arbeids- og inkluderingsdepartementet |
+| [Lov om boikott [boikottloven]](../lover/lov-1947-12-05-1.html) | Boikottloven – boil | Justis- og beredskapsdepartementet |
+| [Lov om delvis Omordning af det civile Embedsværk](../lover/lov-1894-07-21-5.html) | Lov om Omordning af det civile Embedsverk | Justis- og beredskapsdepartementet |
+| [Lov om den europeiske arbeidsmarknadsstyresmakta (ELA-lova)](../lover/lov-2025-04-10-8.html) | ELA-lova | Arbeids- og inkluderingsdepartementet |
+| [Lov om endringer i allmenngjøringsloven (anvendelse på Svalbard)](../lover/lov-2025-03-28-4.html) | Endringslov til allmenngjøringsloven | Arbeids- og inkluderingsdepartementet |
+| [Lov om endringer i arbeidsmiljøloven og sosialtjenesteloven (adgang til midlerti](../lover/lov-2015-04-24-20.html) | Endringslov til arbeidsmiljøloven og sosialtjenesteloven | Arbeids- og inkluderingsdepartementet |
+| [Lov om endringer i barnevernsloven mv. (kvalitetsløftet i barnevernet)](../lover/lov-2025-06-20-39.html) | Endringslov til barnevernsloven mv. | Barne- og familiedepartementet |
+| [Lov om endringer i folketrygdloven og enkelte andre lover](../lover/lov-2019-12-20-84.html) | Endringslov til folketrygdloven og enkelte andre lover | Arbeids- og inkluderingsdepartementet |
+| [Lov om endringer i helseforskningsloven mv. (vilkår for medisinsk og helsefaglig](../lover/lov-2025-06-20-71.html) | Endringslov til helseforskningsloven mv. | Helse- og omsorgsdepartementet |
+| [Lov om endringer i helsepersonelloven og pasientjournalloven mv. (taushetsplikt ](../lover/lov-2026-01-23-1.html) | Endringslov til helsepersonelloven og pasientjournalloven mv. | Helse- og omsorgsdepartementet |
+| [Lov om endringer i konfliktrådsloven, straffeloven og straffeprosessloven mv. (s](../lover/lov-2023-12-20-110.html) | Endringslov til konfliktrådsloven, straffeloven mv | Justis- og beredskapsdepartementet |
+| [Lov om endringer i psykisk helsevernloven og pasient- og brukerrettighetsloven m](../lover/lov-2025-06-20-67.html) | Endringslov til psykisk helsevernloven mv | Helse- og omsorgsdepartementet |
+| [Lov om endringer i skipsarbeidsloven og NIS-loven (tydelige og mer forutsigbare ](../lover/lov-2026-04-10-14.html) | Endringslov til skipsarbeidsloven og NIS-loven | Nærings- og fiskeridepartementet |
+| [Lov om ferie [ferieloven]](../lover/lov-1988-04-29-21.html) | Ferieloven – feriel | Arbeids- og inkluderingsdepartementet |
+| [Lov om fri rørsle av arbeidstakarar innanfor EØS mv. (EØS-arbeidstakarlova)](../lover/lov-2012-12-14-81.html) | EØS-arbeidstakarlova | Arbeids- og inkluderingsdepartementet |
+| [Lov om godkjenning av yrkeskvalifikasjoner (yrkeskvalifikasjonsloven)](../lover/lov-2017-06-16-69.html) | Yrkeskvalifikasjonsloven | Kunnskapsdepartementet |
+| [Lov om helsepersonell m.v. (helsepersonelloven)](../lover/lov-1999-07-02-64.html) | Helsepersonelloven – hpl | Helse- og omsorgsdepartementet |
+| [Lov om informasjonsplikt, karantene og saksforbud for politikere, embetsmenn og ](../lover/lov-2015-06-19-70.html) | Karanteneloven | Digitaliserings- og forvaltningsdepartementet |
+| [Lov om likestilling og forbud mot diskriminering (likestillings- og diskrimineri](../lover/lov-2017-06-16-51.html) | Likestillings- og diskrimineringsloven – ldl | Kultur- og likestillingsdepartementet |
+| [Lov om lønnsnemnd i arbeidstvister (lønnsnemndloven)](../lover/lov-2012-01-27-10.html) | Lønnsnemndloven | Arbeids- og inkluderingsdepartementet |
+| [Lov om lønnsplikt under permittering (permitteringslønnsloven)](../lover/lov-1988-05-06-22.html) | Permitteringslønnsloven | Arbeids- og inkluderingsdepartementet |
+| [Lov om lønnsstøtte (økonomiske tiltak i møte med pandemien)](../lover/lov-2022-01-28-2.html) | Lov om lønnsstøtte (økonomiske tiltak i møte med pandemien) | Finansdepartementet |
+| [Lov om merkning av vekten på tunge kolli som fraktes med fartøi](../lover/lov-1932-04-22-1.html) | Lov om merkning på tunge kolli | Arbeids- og inkluderingsdepartementet |
+| [Lov om offentlige tjenestetvister [tjenestetvistloven]](../lover/lov-1958-07-18-2.html) | Tjenestetvistloven – tjtvl | Digitaliserings- og forvaltningsdepartementet |
+| [Lov om opphevelse av omstillingslova](../lover/lov-2019-12-13-83.html) | Lov om opphevelse av omstillingslova | Nærings- og fiskeridepartementet |
+| [Lov om retten til oppfinnelser som er gjort av arbeidstakere [arbeidstakeroppfin](../lover/lov-1970-04-17-21.html) | Arbeidstakeroppfinnelsesloven | Justis- og beredskapsdepartementet |
+| [Lov om sikre containere [containerloven]](../lover/lov-1982-12-17-84.html) | Containerloven | Nærings- og fiskeridepartementet |
+| [Lov om skipssikkerhet (skipssikkerhetsloven)](../lover/lov-2007-02-16-9.html) | Skipssikkerhetsloven | Nærings- og fiskeridepartementet |
+| [Lov om sosiale tjenester i arbeids- og velferdsforvaltningen (sosialtjenestelove](../lover/lov-2009-12-18-131.html) | Sosialtjenesteloven – sotjl | Arbeids- og inkluderingsdepartementet |
+| [Lov om språk (språklova)](../lover/lov-2021-05-21-42.html) | Språklova | Kultur- og likestillingsdepartementet |
+| [Lov om statens ansatte mv. (statsansatteloven)](../lover/lov-2017-06-16-67.html) | Statsansatteloven | Digitaliserings- og forvaltningsdepartementet |
+| [Lov om statsgaranti for lønnskrav ved konkurs m.v. [lønnsgarantiloven]](../lover/lov-1973-12-14-61.html) | Lønnsgarantiloven | Arbeids- og inkluderingsdepartementet |
+| [Lov om stillingsvern mv. for arbeidstakere på skip (skipsarbeidsloven)](../lover/lov-2013-06-21-102.html) | Skipsarbeidsloven | Nærings- og fiskeridepartementet |
+| [Lov om tilskudd ved avbrutt permittering (økonomiske tiltak i møte med virusutbr](../lover/lov-2020-06-23-99.html) | Lov om tilskudd ved avbrutt permittering | Finansdepartementet |
+| [Lov om tjenesteplikt i politiet [polititjenestepliktloven]](../lover/lov-1952-11-21-3.html) | Polititjenestepliktloven | Justis- og beredskapsdepartementet |
+| [Lov om utenrikstjenesten (utenrikstjenesteloven)](../lover/lov-2015-02-13-9.html) | Utenrikstjenesteloven | Utenriksdepartementet |
+| [Lov om virksomheters åpenhet og arbeid med grunnleggende menneskerettigheter og ](../lover/lov-2021-06-18-99.html) | Åpenhetsloven | Barne- og familiedepartementet |

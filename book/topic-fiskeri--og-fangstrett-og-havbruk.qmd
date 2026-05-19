@@ -4,24 +4,24 @@
 
 | Lov | Korttittel | Departement |
 |-----|-----------|-------------|
-| [Kongelig Resolution ang. Jorddelingen i Finmarken samt Bopladses Udvisning og Sk](/norwegian-laws/lover/lov-1775-06-08.html) | Res. anggående jorddelingen i Finmark m.v. | Nærings- og fiskeridepartementet |
-| [Lov om Norges økonomiske sone [økonomiske soneloven]](/norwegian-laws/lover/lov-1976-12-17-91.html) | Økonomiske soneloven – øksonl | Nærings- og fiskeridepartementet |
-| [Lov om Perlefiskeriet](/norwegian-laws/lover/lov-1845-06-07.html) | Lov om Perlefiskeriet | Klima- og miljødepartementet |
-| [Lov om akvakultur (akvakulturloven)](/norwegian-laws/lover/lov-2005-06-17-79.html) | Akvakulturloven | Nærings- og fiskeridepartementet |
-| [Lov om avgift til forskning og utvikling i fiskeri- og havbruksnæringen](/norwegian-laws/lover/lov-2000-07-07-68.html) | Lov om eksportavgift på fiskevarer – fiskekspal | Nærings- og fiskeridepartementet |
-| [Lov om bevaring og bærekraftig bruk av marint naturmangfold i områder utenfor na](/norwegian-laws/lover/lov-2025-05-27-21.html) | Lov om bevaring og bærekraftig bruk av marint naturmangfold i områder utenfor nasjonal jurisdiksjon | Klima- og miljødepartementet |
-| [Lov om dyrevelferd](/norwegian-laws/lover/lov-2009-06-19-97.html) | Dyrevelferdsloven | Landbruks- og matdepartementet |
-| [Lov om endringar i deltakerloven og havressurslova (endringar i kvotesystemet)](/norwegian-laws/lover/lov-2021-03-05-7.html) | Endringslov til deltakerloven og havressurslova | Nærings- og fiskeridepartementet |
-| [Lov om endringer i matloven (hjemmel for overtredelsesgebyr ved brudd på forskri](/norwegian-laws/lover/lov-2025-06-20-75.html) | Endringslov til matloven | Helse- og omsorgsdepartementet |
-| [Lov om fiskeretten i Tanavassdraget (Tanaloven)](/norwegian-laws/lover/lov-2014-06-20-51.html) | Tanaloven | Klima- og miljødepartementet |
-| [Lov om forvaltning av viltlevande marine ressursar (havressurslova)](/norwegian-laws/lover/lov-2008-06-06-37.html) | Havressurslova | Nærings- og fiskeridepartementet |
-| [Lov om fredning og fangst av isbjørn [isbjørnloven]](/norwegian-laws/lover/lov-1957-03-22-4.html) | Isbjørnloven | Klima- og miljødepartementet |
-| [Lov om førstehandsomsetning av viltlevande marine ressursar (fiskesalslagslova)](/norwegian-laws/lover/lov-2013-06-21-75.html) | Fiskesalslagslova | Nærings- og fiskeridepartementet |
-| [Lov om havner og farvann (havne- og farvannsloven)](/norwegian-laws/lover/lov-2019-06-21-70.html) | Havne- og farvannsloven | Nærings- og fiskeridepartementet |
-| [Lov om landslott [landslottloven]](/norwegian-laws/lover/lov-1930-03-14.html) | Landslottloven | Nærings- og fiskeridepartementet |
-| [Lov om matproduksjon og mattrygghet mv. (matloven)](/norwegian-laws/lover/lov-2003-12-19-124.html) | Matloven – matl | Helse- og omsorgsdepartementet |
-| [Lov om prisregulering ved import av fisk og fiskevarer m.v.](/norwegian-laws/lover/lov-1993-06-11-73.html) | Lov om prisregulering ved fiskeimport m.v. | Nærings- og fiskeridepartementet |
-| [Lov om produksjon, transport og omsetning av agn [agnforsyningsloven]](/norwegian-laws/lover/lov-1949-07-08-13.html) | Agnforsyningsloven | Nærings- og fiskeridepartementet |
-| [Lov om regulering av eksporten av fisk, fiskevarer og marine produkter (fiskeeks](/norwegian-laws/lover/lov-1990-04-27-9.html) | Fiskeeksportloven – fiskeekspl | Nærings- og fiskeridepartementet |
-| [Lov om retten til å delta i fiske og fangst (deltakerloven)](/norwegian-laws/lover/lov-1999-03-26-15.html) | Deltakerloven – deltl | Nærings- og fiskeridepartementet |
-| [Lov om vern av marin natur utenfor territorialfarvannet (havvernloven)](/norwegian-laws/lover/lov-2025-06-10-33.html) | Havvernloven | Klima- og miljødepartementet |
+| [Kongelig Resolution ang. Jorddelingen i Finmarken samt Bopladses Udvisning og Sk](../lover/lov-1775-06-08.html) | Res. anggående jorddelingen i Finmark m.v. | Nærings- og fiskeridepartementet |
+| [Lov om Norges økonomiske sone [økonomiske soneloven]](../lover/lov-1976-12-17-91.html) | Økonomiske soneloven – øksonl | Nærings- og fiskeridepartementet |
+| [Lov om Perlefiskeriet](../lover/lov-1845-06-07.html) | Lov om Perlefiskeriet | Klima- og miljødepartementet |
+| [Lov om akvakultur (akvakulturloven)](../lover/lov-2005-06-17-79.html) | Akvakulturloven | Nærings- og fiskeridepartementet |
+| [Lov om avgift til forskning og utvikling i fiskeri- og havbruksnæringen](../lover/lov-2000-07-07-68.html) | Lov om eksportavgift på fiskevarer – fiskekspal | Nærings- og fiskeridepartementet |
+| [Lov om bevaring og bærekraftig bruk av marint naturmangfold i områder utenfor na](../lover/lov-2025-05-27-21.html) | Lov om bevaring og bærekraftig bruk av marint naturmangfold i områder utenfor nasjonal jurisdiksjon | Klima- og miljødepartementet |
+| [Lov om dyrevelferd](../lover/lov-2009-06-19-97.html) | Dyrevelferdsloven | Landbruks- og matdepartementet |
+| [Lov om endringar i deltakerloven og havressurslova (endringar i kvotesystemet)](../lover/lov-2021-03-05-7.html) | Endringslov til deltakerloven og havressurslova | Nærings- og fiskeridepartementet |
+| [Lov om endringer i matloven (hjemmel for overtredelsesgebyr ved brudd på forskri](../lover/lov-2025-06-20-75.html) | Endringslov til matloven | Helse- og omsorgsdepartementet |
+| [Lov om fiskeretten i Tanavassdraget (Tanaloven)](../lover/lov-2014-06-20-51.html) | Tanaloven | Klima- og miljødepartementet |
+| [Lov om forvaltning av viltlevande marine ressursar (havressurslova)](../lover/lov-2008-06-06-37.html) | Havressurslova | Nærings- og fiskeridepartementet |
+| [Lov om fredning og fangst av isbjørn [isbjørnloven]](../lover/lov-1957-03-22-4.html) | Isbjørnloven | Klima- og miljødepartementet |
+| [Lov om førstehandsomsetning av viltlevande marine ressursar (fiskesalslagslova)](../lover/lov-2013-06-21-75.html) | Fiskesalslagslova | Nærings- og fiskeridepartementet |
+| [Lov om havner og farvann (havne- og farvannsloven)](../lover/lov-2019-06-21-70.html) | Havne- og farvannsloven | Nærings- og fiskeridepartementet |
+| [Lov om landslott [landslottloven]](../lover/lov-1930-03-14.html) | Landslottloven | Nærings- og fiskeridepartementet |
+| [Lov om matproduksjon og mattrygghet mv. (matloven)](../lover/lov-2003-12-19-124.html) | Matloven – matl | Helse- og omsorgsdepartementet |
+| [Lov om prisregulering ved import av fisk og fiskevarer m.v.](../lover/lov-1993-06-11-73.html) | Lov om prisregulering ved fiskeimport m.v. | Nærings- og fiskeridepartementet |
+| [Lov om produksjon, transport og omsetning av agn [agnforsyningsloven]](../lover/lov-1949-07-08-13.html) | Agnforsyningsloven | Nærings- og fiskeridepartementet |
+| [Lov om regulering av eksporten av fisk, fiskevarer og marine produkter (fiskeeks](../lover/lov-1990-04-27-9.html) | Fiskeeksportloven – fiskeekspl | Nærings- og fiskeridepartementet |
+| [Lov om retten til å delta i fiske og fangst (deltakerloven)](../lover/lov-1999-03-26-15.html) | Deltakerloven – deltl | Nærings- og fiskeridepartementet |
+| [Lov om vern av marin natur utenfor territorialfarvannet (havvernloven)](../lover/lov-2025-06-10-33.html) | Havvernloven | Klima- og miljødepartementet |

@@ -4,51 +4,51 @@
 
 | Lov | Korttittel | Departement |
 |-----|-----------|-------------|
-| [Lov om Digitaliseringsdirektoratets tilgang til taushetsbelagte opplysninger i F](/norwegian-laws/lover/lov-2023-06-09-29.html) | Lov om Digdirs tilgang til opplysninger i Folkeregisteret | Digitaliserings- og forvaltningsdepartementet |
-| [Lov om Etterretningstjenesten (etterretningstjenesteloven)](/norwegian-laws/lover/lov-2020-06-19-77.html) | Etterretningstjenesteloven | Forsvarsdepartementet |
-| [Lov om Norsk Lovtidend m.v.](/norwegian-laws/lover/lov-1969-06-19-53.html) | Lov om Norsk Lovtidend | Justis- og beredskapsdepartementet |
-| [Lov om Norsk Lysingsblad](/norwegian-laws/lover/lov-1946-10-11-1.html) | Lov om Norsk Lysingsblad | Digitaliserings- og forvaltningsdepartementet |
-| [Lov om Statens kommisjon for partnerdrap](/norwegian-laws/lover/lov-2025-03-28-5.html) | Lov om Statens kommisjon for partnerdrap | Justis- og beredskapsdepartementet |
-| [Lov om Stortingets ombud for kontroll med forvaltningen (sivilombudsloven)](/norwegian-laws/lover/lov-2021-06-18-121.html) | Sivilombudsloven | Justis- og beredskapsdepartementet |
-| [Lov om aktiviteter i verdensrommet (romloven)](/norwegian-laws/lover/lov-2025-12-22-128.html) | Romloven | Nærings- og fiskeridepartementet |
-| [Lov om behandling av helseopplysninger ved ytelse av helsehjelp (pasientjournall](/norwegian-laws/lover/lov-2014-06-20-42.html) | Pasientjournalloven | Helse- og omsorgsdepartementet |
-| [Lov om behandling av opplysninger i kredittopplysningsvirksomhet (kredittopplysn](/norwegian-laws/lover/lov-2019-12-20-109.html) | Kredittopplysningsloven | Barne- og familiedepartementet |
-| [Lov om behandling av personopplysninger (personopplysningsloven)](/norwegian-laws/lover/lov-2018-06-15-38.html) | Personopplysningsloven | Justis- og beredskapsdepartementet |
-| [Lov om behandling av personopplysninger i Norges idrettsforbund og olympiske og ](/norwegian-laws/lover/lov-2025-06-20-95.html) | Lov om behandling av personopplysninger i Norges idrettsforbund mv | Kultur- og likestillingsdepartementet |
-| [Lov om beskyttelse av mindreårige mot skadelige bildeprogram mv.](/norwegian-laws/lover/lov-2015-02-06-7.html) | Bildeprogramloven | Kultur- og likestillingsdepartementet |
-| [Lov om beskyttelse av undersjøiske kabler og rørledninger utenfor sjøterritoriet](/norwegian-laws/lover/lov-1884-06-14-3.html) | Lov om undersjøiske kabler | Digitaliserings- og forvaltningsdepartementet |
-| [Lov om digital sikkerhet (digitalsikkerhetsloven)](/norwegian-laws/lover/lov-2023-12-20-108.html) | Digitalsikkerhetsloven | Justis- og beredskapsdepartementet |
-| [Lov om elektronisk kommunikasjon (ekomloven)](/norwegian-laws/lover/lov-2024-12-13-76.html) | Ekomloven | Digitaliserings- og forvaltningsdepartementet |
-| [Lov om endringar i lov 4. desember 1992 nr. 127 om kringkasting](/norwegian-laws/lover/lov-2005-06-17-98.html) | Endringslov til kringkastingsloven | Kultur- og likestillingsdepartementet |
-| [Lov om endringar i pasient- og brukarrettslova, helsepersonellova m.m. (styrking](/norwegian-laws/lover/lov-2017-06-16-53.html) | Endringslov til pasient- og brukarrettslova, helsepersonellova m.m. | Helse- og omsorgsdepartementet |
-| [Lov om endringer i ekomloven og straffeprosessloven mv. (gjennomføring av EUs da](/norwegian-laws/lover/lov-2011-04-15-11.html) | Endringslov om datalagringsdirektivet | Justis- og beredskapsdepartementet |
-| [Lov om endringer i helseforskningsloven mv. (vilkår for medisinsk og helsefaglig](/norwegian-laws/lover/lov-2025-06-20-71.html) | Endringslov til helseforskningsloven mv. | Helse- og omsorgsdepartementet |
-| [Lov om endringer i helsepersonelloven og pasientjournalloven mv. (taushetsplikt ](/norwegian-laws/lover/lov-2026-01-23-1.html) | Endringslov til helsepersonelloven og pasientjournalloven mv. | Helse- og omsorgsdepartementet |
-| [Lov om endringer i kringkastingsloven mv. (gjennomføring av endringsdirektiv til](/norwegian-laws/lover/lov-2025-02-28-2.html) | Endringslov til kringkastingsloven mv. | Kultur- og likestillingsdepartementet |
-| [Lov om endringer i lov 4. juli 2003 nr. 83 om elektronisk kommunikasjon (ekomlov](/norwegian-laws/lover/lov-2008-01-11-2.html) | Endringslov til ekomloven | Samferdselsdepartementet |
-| [Lov om endringer i psykisk helsevernloven og pasient- og brukerrettighetsloven m](/norwegian-laws/lover/lov-2025-06-20-67.html) | Endringslov til psykisk helsevernloven mv | Helse- og omsorgsdepartementet |
-| [Lov om endringer i rettshjelpsloven mv. (prioriterte sakstyper for rettshjelp mv](/norwegian-laws/lover/lov-2025-06-20-82.html) | Endringslov til rettshjelpsloven mv. | Justis- og beredskapsdepartementet |
-| [Lov om folkeregistrering (folkeregisterloven)](/norwegian-laws/lover/lov-2016-12-09-88.html) | Folkeregisterloven | Finansdepartementet |
-| [Lov om forskriftshjemmel for behandling av personopplysninger for frivillige til](/norwegian-laws/lover/lov-2022-06-17-44.html) | Lov om forskriftshjemmel, personopplysninger | Barne- og familiedepartementet |
-| [Lov om gjennomføring av EUs forordning om elektronisk identifikasjon og tillitst](/norwegian-laws/lover/lov-2018-06-15-44.html) | Lov om elektroniske tillitstjenester | Digitaliserings- og forvaltningsdepartementet |
-| [Lov om helseregistre og behandling av helseopplysninger (helseregisterloven)](/norwegian-laws/lover/lov-2014-06-20-43.html) | Helseregisterloven – hregl | Helse- og omsorgsdepartementet |
-| [Lov om informasjonstilgang m.m. for Barnevoldsutvalget](/norwegian-laws/lover/lov-2016-05-27-13.html) | Lov om informasjonstilgang m.m. for Barnevoldsutvalget | Barne- og familiedepartementet |
-| [Lov om informasjonstilgang m.m. for Ekstremismekommisjonen](/norwegian-laws/lover/lov-2022-12-20-97.html) | Lov om informasjonstilgang m.m. for Ekstremismekommisjonen | Arbeids- og inkluderingsdepartementet |
-| [Lov om informasjonstilgang m.m. for Koronautvalget, og endringer i voldserstatni](/norwegian-laws/lover/lov-2022-12-20-118.html) | Lov om informasjonstilgang m.m. for Koronautvalget mv. | Justis- og beredskapsdepartementet |
-| [Lov om informasjonstilgang m.m. for Utvalget for evaluering av etterretningstjen](/norwegian-laws/lover/lov-2025-06-20-66.html) | Lov om informasjonstilgang, evaluering av etterretningstjenesteloven | Forsvarsdepartementet |
-| [Lov om informasjonstilgang m.m. for den uavhengige kommisjonen som skal gjennomg](/norwegian-laws/lover/lov-2020-12-04-136.html) | Koronakommisjonsloven | Justis- og beredskapsdepartementet |
-| [Lov om informasjonstilgang m.m. for det uavhengige utvalget som skal granske str](/norwegian-laws/lover/lov-2023-06-09-26.html) | Lov om informasjonstilgang m.m. for Baneheia-utvalget | Justis- og beredskapsdepartementet |
-| [Lov om informasjonstilgang m.m. for utvalg som skal undersøke saker om overgrep ](/norwegian-laws/lover/lov-2021-06-18-119.html) | Lov om informasjonstilgang (overgrep begått av helsepersonell) | Helse- og omsorgsdepartementet |
-| [Lov om informasjonstilgang m.m. for utvalget som skal granske utenlandsadopsjone](/norwegian-laws/lover/lov-2024-04-12-16.html) | Lov om informasjonstilgang, gransking av utenlandsadopsjoner | Barne- og familiedepartementet |
-| [Lov om informasjonstilgang mv. for Kommisjonen for å granske fornorskingspolitik](/norwegian-laws/lover/lov-2020-05-12-41.html) | Lov om informasjonstilgang (fornorskingspolitikk) | Kommunal- og distriktsdepartementet |
-| [Lov om informasjonstilgang mv. for utvalget for ekstern gransking av saken knytt](/norwegian-laws/lover/lov-2019-12-20-85.html) | Lov om informasjonstilgang mv. for NAV-granskingsutvalget | Arbeids- og inkluderingsdepartementet |
-| [Lov om kringkasting og audiovisuelle bestillingstjenester mv. (kringkastingslove](/norwegian-laws/lover/lov-1992-12-04-127.html) | Kringkastingsloven – kringkl | Kultur- og likestillingsdepartementet |
-| [Lov om levering av digitale ytelser til forbrukere (digitalytelsesloven)](/norwegian-laws/lover/lov-2022-06-17-56.html) | Digitalytelsesloven | Justis- og beredskapsdepartementet |
-| [Lov om offentlige organers ansvar for bruk av tolk mv. (tolkeloven)](/norwegian-laws/lover/lov-2021-06-11-79.html) | Tolkeloven | Arbeids- og inkluderingsdepartementet |
-| [Lov om omdanning av Jernbaneverkets kommersielle televirksomhet til aksjeselskap](/norwegian-laws/lover/lov-2001-06-15-87.html) | Lov om BaneTele AS | Samferdselsdepartementet |
-| [Lov om omsetning av bøker (bokloven)](/norwegian-laws/lover/lov-2023-06-16-64.html) | Bokloven | Kultur- og likestillingsdepartementet |
-| [Lov om redaksjonell uavhengighet og ansvar i redaktørstyrte journalistiske medie](/norwegian-laws/lover/lov-2020-05-29-59.html) | Medieansvarsloven | Kultur- og likestillingsdepartementet |
-| [Lov om tilrettelegging for utbygging av høyhastighetsnett for elektronisk kommun](/norwegian-laws/lover/lov-2020-05-07-40.html) | Bredbåndsutbyggingsloven | Digitaliserings- og forvaltningsdepartementet |
-| [Lov om visse sider av elektronisk handel og andre informasjonssamfunnstjenester ](/norwegian-laws/lover/lov-2003-05-23-35.html) | Ehandelsloven – e-hl | Digitaliserings- og forvaltningsdepartementet |
-| [Lov om åpenhet om eierskap i medier](/norwegian-laws/lover/lov-2016-06-17-64.html) | Lov om åpenhet om eierskap i medier | Kultur- og likestillingsdepartementet |
-| [Lov om økonomisk støtte til mediene (mediestøtteloven)](/norwegian-laws/lover/lov-2020-12-18-153.html) | Mediestøtteloven | Kultur- og likestillingsdepartementet |
+| [Lov om Digitaliseringsdirektoratets tilgang til taushetsbelagte opplysninger i F](../lover/lov-2023-06-09-29.html) | Lov om Digdirs tilgang til opplysninger i Folkeregisteret | Digitaliserings- og forvaltningsdepartementet |
+| [Lov om Etterretningstjenesten (etterretningstjenesteloven)](../lover/lov-2020-06-19-77.html) | Etterretningstjenesteloven | Forsvarsdepartementet |
+| [Lov om Norsk Lovtidend m.v.](../lover/lov-1969-06-19-53.html) | Lov om Norsk Lovtidend | Justis- og beredskapsdepartementet |
+| [Lov om Norsk Lysingsblad](../lover/lov-1946-10-11-1.html) | Lov om Norsk Lysingsblad | Digitaliserings- og forvaltningsdepartementet |
+| [Lov om Statens kommisjon for partnerdrap](../lover/lov-2025-03-28-5.html) | Lov om Statens kommisjon for partnerdrap | Justis- og beredskapsdepartementet |
+| [Lov om Stortingets ombud for kontroll med forvaltningen (sivilombudsloven)](../lover/lov-2021-06-18-121.html) | Sivilombudsloven | Justis- og beredskapsdepartementet |
+| [Lov om aktiviteter i verdensrommet (romloven)](../lover/lov-2025-12-22-128.html) | Romloven | Nærings- og fiskeridepartementet |
+| [Lov om behandling av helseopplysninger ved ytelse av helsehjelp (pasientjournall](../lover/lov-2014-06-20-42.html) | Pasientjournalloven | Helse- og omsorgsdepartementet |
+| [Lov om behandling av opplysninger i kredittopplysningsvirksomhet (kredittopplysn](../lover/lov-2019-12-20-109.html) | Kredittopplysningsloven | Barne- og familiedepartementet |
+| [Lov om behandling av personopplysninger (personopplysningsloven)](../lover/lov-2018-06-15-38.html) | Personopplysningsloven | Justis- og beredskapsdepartementet |
+| [Lov om behandling av personopplysninger i Norges idrettsforbund og olympiske og ](../lover/lov-2025-06-20-95.html) | Lov om behandling av personopplysninger i Norges idrettsforbund mv | Kultur- og likestillingsdepartementet |
+| [Lov om beskyttelse av mindreårige mot skadelige bildeprogram mv.](../lover/lov-2015-02-06-7.html) | Bildeprogramloven | Kultur- og likestillingsdepartementet |
+| [Lov om beskyttelse av undersjøiske kabler og rørledninger utenfor sjøterritoriet](../lover/lov-1884-06-14-3.html) | Lov om undersjøiske kabler | Digitaliserings- og forvaltningsdepartementet |
+| [Lov om digital sikkerhet (digitalsikkerhetsloven)](../lover/lov-2023-12-20-108.html) | Digitalsikkerhetsloven | Justis- og beredskapsdepartementet |
+| [Lov om elektronisk kommunikasjon (ekomloven)](../lover/lov-2024-12-13-76.html) | Ekomloven | Digitaliserings- og forvaltningsdepartementet |
+| [Lov om endringar i lov 4. desember 1992 nr. 127 om kringkasting](../lover/lov-2005-06-17-98.html) | Endringslov til kringkastingsloven | Kultur- og likestillingsdepartementet |
+| [Lov om endringar i pasient- og brukarrettslova, helsepersonellova m.m. (styrking](../lover/lov-2017-06-16-53.html) | Endringslov til pasient- og brukarrettslova, helsepersonellova m.m. | Helse- og omsorgsdepartementet |
+| [Lov om endringer i ekomloven og straffeprosessloven mv. (gjennomføring av EUs da](../lover/lov-2011-04-15-11.html) | Endringslov om datalagringsdirektivet | Justis- og beredskapsdepartementet |
+| [Lov om endringer i helseforskningsloven mv. (vilkår for medisinsk og helsefaglig](../lover/lov-2025-06-20-71.html) | Endringslov til helseforskningsloven mv. | Helse- og omsorgsdepartementet |
+| [Lov om endringer i helsepersonelloven og pasientjournalloven mv. (taushetsplikt ](../lover/lov-2026-01-23-1.html) | Endringslov til helsepersonelloven og pasientjournalloven mv. | Helse- og omsorgsdepartementet |
+| [Lov om endringer i kringkastingsloven mv. (gjennomføring av endringsdirektiv til](../lover/lov-2025-02-28-2.html) | Endringslov til kringkastingsloven mv. | Kultur- og likestillingsdepartementet |
+| [Lov om endringer i lov 4. juli 2003 nr. 83 om elektronisk kommunikasjon (ekomlov](../lover/lov-2008-01-11-2.html) | Endringslov til ekomloven | Samferdselsdepartementet |
+| [Lov om endringer i psykisk helsevernloven og pasient- og brukerrettighetsloven m](../lover/lov-2025-06-20-67.html) | Endringslov til psykisk helsevernloven mv | Helse- og omsorgsdepartementet |
+| [Lov om endringer i rettshjelpsloven mv. (prioriterte sakstyper for rettshjelp mv](../lover/lov-2025-06-20-82.html) | Endringslov til rettshjelpsloven mv. | Justis- og beredskapsdepartementet |
+| [Lov om folkeregistrering (folkeregisterloven)](../lover/lov-2016-12-09-88.html) | Folkeregisterloven | Finansdepartementet |
+| [Lov om forskriftshjemmel for behandling av personopplysninger for frivillige til](../lover/lov-2022-06-17-44.html) | Lov om forskriftshjemmel, personopplysninger | Barne- og familiedepartementet |
+| [Lov om gjennomføring av EUs forordning om elektronisk identifikasjon og tillitst](../lover/lov-2018-06-15-44.html) | Lov om elektroniske tillitstjenester | Digitaliserings- og forvaltningsdepartementet |
+| [Lov om helseregistre og behandling av helseopplysninger (helseregisterloven)](../lover/lov-2014-06-20-43.html) | Helseregisterloven – hregl | Helse- og omsorgsdepartementet |
+| [Lov om informasjonstilgang m.m. for Barnevoldsutvalget](../lover/lov-2016-05-27-13.html) | Lov om informasjonstilgang m.m. for Barnevoldsutvalget | Barne- og familiedepartementet |
+| [Lov om informasjonstilgang m.m. for Ekstremismekommisjonen](../lover/lov-2022-12-20-97.html) | Lov om informasjonstilgang m.m. for Ekstremismekommisjonen | Arbeids- og inkluderingsdepartementet |
+| [Lov om informasjonstilgang m.m. for Koronautvalget, og endringer i voldserstatni](../lover/lov-2022-12-20-118.html) | Lov om informasjonstilgang m.m. for Koronautvalget mv. | Justis- og beredskapsdepartementet |
+| [Lov om informasjonstilgang m.m. for Utvalget for evaluering av etterretningstjen](../lover/lov-2025-06-20-66.html) | Lov om informasjonstilgang, evaluering av etterretningstjenesteloven | Forsvarsdepartementet |
+| [Lov om informasjonstilgang m.m. for den uavhengige kommisjonen som skal gjennomg](../lover/lov-2020-12-04-136.html) | Koronakommisjonsloven | Justis- og beredskapsdepartementet |
+| [Lov om informasjonstilgang m.m. for det uavhengige utvalget som skal granske str](../lover/lov-2023-06-09-26.html) | Lov om informasjonstilgang m.m. for Baneheia-utvalget | Justis- og beredskapsdepartementet |
+| [Lov om informasjonstilgang m.m. for utvalg som skal undersøke saker om overgrep ](../lover/lov-2021-06-18-119.html) | Lov om informasjonstilgang (overgrep begått av helsepersonell) | Helse- og omsorgsdepartementet |
+| [Lov om informasjonstilgang m.m. for utvalget som skal granske utenlandsadopsjone](../lover/lov-2024-04-12-16.html) | Lov om informasjonstilgang, gransking av utenlandsadopsjoner | Barne- og familiedepartementet |
+| [Lov om informasjonstilgang mv. for Kommisjonen for å granske fornorskingspolitik](../lover/lov-2020-05-12-41.html) | Lov om informasjonstilgang (fornorskingspolitikk) | Kommunal- og distriktsdepartementet |
+| [Lov om informasjonstilgang mv. for utvalget for ekstern gransking av saken knytt](../lover/lov-2019-12-20-85.html) | Lov om informasjonstilgang mv. for NAV-granskingsutvalget | Arbeids- og inkluderingsdepartementet |
+| [Lov om kringkasting og audiovisuelle bestillingstjenester mv. (kringkastingslove](../lover/lov-1992-12-04-127.html) | Kringkastingsloven – kringkl | Kultur- og likestillingsdepartementet |
+| [Lov om levering av digitale ytelser til forbrukere (digitalytelsesloven)](../lover/lov-2022-06-17-56.html) | Digitalytelsesloven | Justis- og beredskapsdepartementet |
+| [Lov om offentlige organers ansvar for bruk av tolk mv. (tolkeloven)](../lover/lov-2021-06-11-79.html) | Tolkeloven | Arbeids- og inkluderingsdepartementet |
+| [Lov om omdanning av Jernbaneverkets kommersielle televirksomhet til aksjeselskap](../lover/lov-2001-06-15-87.html) | Lov om BaneTele AS | Samferdselsdepartementet |
+| [Lov om omsetning av bøker (bokloven)](../lover/lov-2023-06-16-64.html) | Bokloven | Kultur- og likestillingsdepartementet |
+| [Lov om redaksjonell uavhengighet og ansvar i redaktørstyrte journalistiske medie](../lover/lov-2020-05-29-59.html) | Medieansvarsloven | Kultur- og likestillingsdepartementet |
+| [Lov om tilrettelegging for utbygging av høyhastighetsnett for elektronisk kommun](../lover/lov-2020-05-07-40.html) | Bredbåndsutbyggingsloven | Digitaliserings- og forvaltningsdepartementet |
+| [Lov om visse sider av elektronisk handel og andre informasjonssamfunnstjenester ](../lover/lov-2003-05-23-35.html) | Ehandelsloven – e-hl | Digitaliserings- og forvaltningsdepartementet |
+| [Lov om åpenhet om eierskap i medier](../lover/lov-2016-06-17-64.html) | Lov om åpenhet om eierskap i medier | Kultur- og likestillingsdepartementet |
+| [Lov om økonomisk støtte til mediene (mediestøtteloven)](../lover/lov-2020-12-18-153.html) | Mediestøtteloven | Kultur- og likestillingsdepartementet |

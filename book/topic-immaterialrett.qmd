@@ -4,18 +4,18 @@
 
 | Lov | Korttittel | Departement |
 |-----|-----------|-------------|
-| [Lov om Patentstyret og Klagenemnda for industrielle rettar (patentstyrelova)](/norwegian-laws/lover/lov-2012-06-22-58.html) | Patentstyrelova | Nærings- og fiskeridepartementet |
-| [Lov om avgift til Det norske komponistfond](/norwegian-laws/lover/lov-1965-04-09-1.html) | Lov om avgift til Det norske komponistfond | Kultur- og likestillingsdepartementet |
-| [Lov om beskyttelse av design (designloven)](/norwegian-laws/lover/lov-2003-03-14-15.html) | Designloven – dsl | Justis- og beredskapsdepartementet |
-| [Lov om beskyttelse av varemerker (varemerkeloven)](/norwegian-laws/lover/lov-2010-03-26-8.html) | Varemerkeloven – vml | Justis- og beredskapsdepartementet |
-| [Lov om bibliotekvederlag](/norwegian-laws/lover/lov-1987-05-29-23.html) | Bibliotekvederlagsloven | Kultur- og likestillingsdepartementet |
-| [Lov om endringer i konfliktrådsloven, straffeloven og straffeprosessloven mv. (s](/norwegian-laws/lover/lov-2023-12-20-110.html) | Endringslov til konfliktrådsloven, straffeloven mv | Justis- og beredskapsdepartementet |
-| [Lov om enerett til foretaksnavn og andre forretningskjennetegn mv. (foretaksnavn](/norwegian-laws/lover/lov-1985-06-21-79.html) | Foretaksnavneloven – ftnavnl | Nærings- og fiskeridepartementet |
-| [Lov om kollektiv forvaltning av opphavsrett mv.](/norwegian-laws/lover/lov-2021-05-28-49.html) | Lov om kollektiv forvaltning av opphavsrett mv. | Kultur- og likestillingsdepartementet |
-| [Lov om oppfinnelser av betydning for rikets forsvar](/norwegian-laws/lover/lov-1953-06-26-8.html) | Lov om forsvarsviktige oppfinnelser | Forsvarsdepartementet |
-| [Lov om opphavsrett til åndsverk mv. (åndsverkloven)](/norwegian-laws/lover/lov-2018-06-15-40.html) | Åndsverkloven | Kultur- og likestillingsdepartementet |
-| [Lov om patenter (patentloven)](/norwegian-laws/lover/lov-1967-12-15-9.html) | Patentloven – patl | Justis- og beredskapsdepartementet |
-| [Lov om planteforedlerrett (planteforedlerloven)](/norwegian-laws/lover/lov-1993-03-12-32.html) | Planteforedlerloven – plfl | Landbruks- og matdepartementet |
-| [Lov om retten til oppfinnelser som er gjort av arbeidstakere [arbeidstakeroppfin](/norwegian-laws/lover/lov-1970-04-17-21.html) | Arbeidstakeroppfinnelsesloven | Justis- og beredskapsdepartementet |
-| [Lov om vern av forretningshemmeligheter (forretningshemmelighetsloven)](/norwegian-laws/lover/lov-2020-03-27-15.html) | Forretningshemmelighetsloven | Justis- og beredskapsdepartementet |
-| [Lov om vern av kretsmønstre for integrerte kretser [kretsmønsterloven]](/norwegian-laws/lover/lov-1990-06-15-27.html) | Kretsmønsterloven – kretsml | Justis- og beredskapsdepartementet |
+| [Lov om Patentstyret og Klagenemnda for industrielle rettar (patentstyrelova)](../lover/lov-2012-06-22-58.html) | Patentstyrelova | Nærings- og fiskeridepartementet |
+| [Lov om avgift til Det norske komponistfond](../lover/lov-1965-04-09-1.html) | Lov om avgift til Det norske komponistfond | Kultur- og likestillingsdepartementet |
+| [Lov om beskyttelse av design (designloven)](../lover/lov-2003-03-14-15.html) | Designloven – dsl | Justis- og beredskapsdepartementet |
+| [Lov om beskyttelse av varemerker (varemerkeloven)](../lover/lov-2010-03-26-8.html) | Varemerkeloven – vml | Justis- og beredskapsdepartementet |
+| [Lov om bibliotekvederlag](../lover/lov-1987-05-29-23.html) | Bibliotekvederlagsloven | Kultur- og likestillingsdepartementet |
+| [Lov om endringer i konfliktrådsloven, straffeloven og straffeprosessloven mv. (s](../lover/lov-2023-12-20-110.html) | Endringslov til konfliktrådsloven, straffeloven mv | Justis- og beredskapsdepartementet |
+| [Lov om enerett til foretaksnavn og andre forretningskjennetegn mv. (foretaksnavn](../lover/lov-1985-06-21-79.html) | Foretaksnavneloven – ftnavnl | Nærings- og fiskeridepartementet |
+| [Lov om kollektiv forvaltning av opphavsrett mv.](../lover/lov-2021-05-28-49.html) | Lov om kollektiv forvaltning av opphavsrett mv. | Kultur- og likestillingsdepartementet |
+| [Lov om oppfinnelser av betydning for rikets forsvar](../lover/lov-1953-06-26-8.html) | Lov om forsvarsviktige oppfinnelser | Forsvarsdepartementet |
+| [Lov om opphavsrett til åndsverk mv. (åndsverkloven)](../lover/lov-2018-06-15-40.html) | Åndsverkloven | Kultur- og likestillingsdepartementet |
+| [Lov om patenter (patentloven)](../lover/lov-1967-12-15-9.html) | Patentloven – patl | Justis- og beredskapsdepartementet |
+| [Lov om planteforedlerrett (planteforedlerloven)](../lover/lov-1993-03-12-32.html) | Planteforedlerloven – plfl | Landbruks- og matdepartementet |
+| [Lov om retten til oppfinnelser som er gjort av arbeidstakere [arbeidstakeroppfin](../lover/lov-1970-04-17-21.html) | Arbeidstakeroppfinnelsesloven | Justis- og beredskapsdepartementet |
+| [Lov om vern av forretningshemmeligheter (forretningshemmelighetsloven)](../lover/lov-2020-03-27-15.html) | Forretningshemmelighetsloven | Justis- og beredskapsdepartementet |
+| [Lov om vern av kretsmønstre for integrerte kretser [kretsmønsterloven]](../lover/lov-1990-06-15-27.html) | Kretsmønsterloven – kretsml | Justis- og beredskapsdepartementet |

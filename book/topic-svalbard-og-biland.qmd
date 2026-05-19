@@ -4,19 +4,19 @@
 
 | Lov | Korttittel | Departement |
 |-----|-----------|-------------|
-| [Bergverksordning for Svalbard](/norwegian-laws/lover/lov-1925-08-07.html) | Bergverksordning for Svalbard | Nærings- og fiskeridepartementet |
-| [Lov om Bouvet-øya, Peter I's øy og Dronning Maud Land m.m. (bilandsloven)](/norwegian-laws/lover/lov-1930-02-27-3.html) | Bilandsloven | Justis- og beredskapsdepartementet |
-| [Lov om Jan Mayen](/norwegian-laws/lover/lov-1930-02-27-2.html) | Lov om Jan Mayen | Justis- og beredskapsdepartementet |
-| [Lov om Norges økonomiske sone [økonomiske soneloven]](/norwegian-laws/lover/lov-1976-12-17-91.html) | Økonomiske soneloven – øksonl | Nærings- og fiskeridepartementet |
-| [Lov om Svalbard [Svalbardloven]](/norwegian-laws/lover/lov-1925-07-17-11.html) | Svalbardloven – svalbl | Justis- og beredskapsdepartementet |
-| [Lov om avgift av kull, jordoljer og andre mineraler og bergarter som utføres fra](/norwegian-laws/lover/lov-1925-07-17-2.html) | Lov om avgift av kull m.v. fra Svalbard | Justis- og beredskapsdepartementet |
-| [Lov om brannfarlige varer samt væsker og gasser under trykk [brannfarligvarelove](/norwegian-laws/lover/lov-1971-05-21-47.html) | Brannfarligvareloven (Svalbard) | Justis- og beredskapsdepartementet |
-| [Lov om eksplosive varer [gjelder bare for Svalbard]](/norwegian-laws/lover/lov-1974-06-14-39.html) | Lov om eksplosive varer (Svalbard) | Justis- og beredskapsdepartementet |
-| [Lov om endringar i deltakerloven og havressurslova (endringar i kvotesystemet)](/norwegian-laws/lover/lov-2021-03-05-7.html) | Endringslov til deltakerloven og havressurslova | Nærings- og fiskeridepartementet |
-| [Lov om forvaltning av viltlevande marine ressursar (havressurslova)](/norwegian-laws/lover/lov-2008-06-06-37.html) | Havressurslova | Nærings- og fiskeridepartementet |
-| [Lov om inspeksjoner i samsvar med Avtalen om konvensjonelle styrker i Europa (CF](/norwegian-laws/lover/lov-1992-05-29-50.html) | Lov om inspeksjoner av styrker i Europa | Utenriksdepartementet |
-| [Lov om miljøvern på Svalbard (svalbardmiljøloven)](/norwegian-laws/lover/lov-2001-06-15-79.html) | Svalbardmiljøloven | Klima- og miljødepartementet |
-| [Lov om skatt til Svalbard (Svalbardskatteloven)](/norwegian-laws/lover/lov-1996-11-29-68.html) | Svalbardskatteloven – svalbsktl | Finansdepartementet |
-| [Lov om skattlegging av personer på Jan Mayen og i Antarktis (Jan Mayen-skattelov](/norwegian-laws/lover/lov-1996-11-29-69.html) | Jan Mayen-skatteloven | Finansdepartementet |
-| [Lov om ulykkestrygd for arbeidere ved norske bedrifter på Svalbard](/norwegian-laws/lover/lov-1947-06-27-10.html) | Lov om ulykkestrygd på Svalbard | Arbeids- og inkluderingsdepartementet |
-| [Traktat mellem Norge, Amerikas Forente Stater, Danmark, Frankrike, Italia, Japan](/norwegian-laws/lover/lov-1920-02-09.html) | Svalbardtraktaten | Utenriksdepartementet |
+| [Bergverksordning for Svalbard](../lover/lov-1925-08-07.html) | Bergverksordning for Svalbard | Nærings- og fiskeridepartementet |
+| [Lov om Bouvet-øya, Peter I's øy og Dronning Maud Land m.m. (bilandsloven)](../lover/lov-1930-02-27-3.html) | Bilandsloven | Justis- og beredskapsdepartementet |
+| [Lov om Jan Mayen](../lover/lov-1930-02-27-2.html) | Lov om Jan Mayen | Justis- og beredskapsdepartementet |
+| [Lov om Norges økonomiske sone [økonomiske soneloven]](../lover/lov-1976-12-17-91.html) | Økonomiske soneloven – øksonl | Nærings- og fiskeridepartementet |
+| [Lov om Svalbard [Svalbardloven]](../lover/lov-1925-07-17-11.html) | Svalbardloven – svalbl | Justis- og beredskapsdepartementet |
+| [Lov om avgift av kull, jordoljer og andre mineraler og bergarter som utføres fra](../lover/lov-1925-07-17-2.html) | Lov om avgift av kull m.v. fra Svalbard | Justis- og beredskapsdepartementet |
+| [Lov om brannfarlige varer samt væsker og gasser under trykk [brannfarligvarelove](../lover/lov-1971-05-21-47.html) | Brannfarligvareloven (Svalbard) | Justis- og beredskapsdepartementet |
+| [Lov om eksplosive varer [gjelder bare for Svalbard]](../lover/lov-1974-06-14-39.html) | Lov om eksplosive varer (Svalbard) | Justis- og beredskapsdepartementet |
+| [Lov om endringar i deltakerloven og havressurslova (endringar i kvotesystemet)](../lover/lov-2021-03-05-7.html) | Endringslov til deltakerloven og havressurslova | Nærings- og fiskeridepartementet |
+| [Lov om forvaltning av viltlevande marine ressursar (havressurslova)](../lover/lov-2008-06-06-37.html) | Havressurslova | Nærings- og fiskeridepartementet |
+| [Lov om inspeksjoner i samsvar med Avtalen om konvensjonelle styrker i Europa (CF](../lover/lov-1992-05-29-50.html) | Lov om inspeksjoner av styrker i Europa | Utenriksdepartementet |
+| [Lov om miljøvern på Svalbard (svalbardmiljøloven)](../lover/lov-2001-06-15-79.html) | Svalbardmiljøloven | Klima- og miljødepartementet |
+| [Lov om skatt til Svalbard (Svalbardskatteloven)](../lover/lov-1996-11-29-68.html) | Svalbardskatteloven – svalbsktl | Finansdepartementet |
+| [Lov om skattlegging av personer på Jan Mayen og i Antarktis (Jan Mayen-skattelov](../lover/lov-1996-11-29-69.html) | Jan Mayen-skatteloven | Finansdepartementet |
+| [Lov om ulykkestrygd for arbeidere ved norske bedrifter på Svalbard](../lover/lov-1947-06-27-10.html) | Lov om ulykkestrygd på Svalbard | Arbeids- og inkluderingsdepartementet |
+| [Traktat mellem Norge, Amerikas Forente Stater, Danmark, Frankrike, Italia, Japan](../lover/lov-1920-02-09.html) | Svalbardtraktaten | Utenriksdepartementet |
