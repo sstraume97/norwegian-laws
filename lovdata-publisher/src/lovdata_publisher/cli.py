@@ -149,6 +149,16 @@ def main():
             output_dir=os.path.join(args.site_dir, "feeds"),
         )
 
+        print()
+        print("=" * 60)
+        print("Generating sitemap.xml + robots.txt")
+        print("=" * 60)
+        from .sitemap import generate_sitemap
+        generate_sitemap(
+            repo_root=args.output,
+            site_dir=args.site_dir,
+        )
+
     if args.build_history:
         repo_path = args.repo_path
         if repo_path is None:
