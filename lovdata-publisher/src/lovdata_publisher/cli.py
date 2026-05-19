@@ -159,6 +159,17 @@ def main():
             site_dir=args.site_dir,
         )
 
+        print()
+        print("=" * 60)
+        print("Generating JSONL manifests (amendment-acts, amendments)")
+        print("=" * 60)
+        from .manifests import generate_manifests
+        db_path = os.path.join(args.snapshot, "amendments.db")
+        if os.path.exists(db_path):
+            generate_manifests(db_path=db_path, output_dir=args.site_dir)
+        else:
+            print(f"  {db_path} not found, skipping manifests")
+
     if args.build_history:
         repo_path = args.repo_path
         if repo_path is None:

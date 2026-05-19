@@ -205,3 +205,37 @@ Feeds are regenerated every Monday at 06:00 UTC from the latest Lovdata data. No
 
 - 50 most recent entries per feed (most laws are amended <50 times; this is rarely a constraint)
 - For paragraph-level "what changed" view (the actual amendment instruction and new text), see the [endringshistorikk pages](https://sondreskarsten.github.io/norwegian-laws/historie/) — one per law, since 2001. Or filter feed entries by their `<category>` tags as shown above.
+
+## Bulk download: JSONL manifests for programmatic consumption
+
+For downstream automation that needs all amendments at once (data warehouses, compliance dashboards, internal CDC pipelines), download the JSON Lines manifests instead of scraping 2,627 XML feeds:
+
+- **[amendment-acts.jsonl.gz](https://sondreskarsten.github.io/norwegian-laws/amendment-acts.jsonl.gz)** — one row per amendment act (~38,000 rows, ~3 MB compressed). Matches Atom feed entries 1:1.
+- **[amendments.jsonl.gz](https://sondreskarsten.github.io/norwegian-laws/amendments.jsonl.gz)** — one row per (act, target_law, paragraph) triple (~90,000 rows, ~5 MB compressed). Finer-grained; suitable for paragraph-level queries.
+
+Both are sorted newest-first, regenerated weekly, and identical in content to what you'd build by parsing every Atom feed. The `.gz` versions are 5–10× smaller; uncompressed `.jsonl` versions are also available at the same paths (drop `.gz`).
+
+```bash
+# Download both manifests
+curl -sL https://sondreskarsten.github.io/norwegian-laws/amendments.jsonl.gz | gunzip > amendments.jsonl
+
+# Find every amendment to regnskapsloven § 7-25 in the last 2 years
+jq -c 'select(.target_law == "lov/1998-07-17-56"
+            and .paragraph == "§ 7-25"
+            and .date_published >= "2024-01-01")' amendments.jsonl
+
+# Group amendments by ministry, 2026 only
+jq -c 'select(.date_published >= "2026-01-01") | .ministry' amendments.jsonl | sort | uniq -c | sort -rn
+```
+
+Polars / DuckDB / pandas can read either file directly:
+
+```python
+import duckdb
+duckdb.sql("""
+    SELECT target_law, paragraph, COUNT(*) AS n
+    FROM read_json_auto('amendments.jsonl')
+    WHERE date_published >= '2024-01-01'
+    GROUP BY 1, 2 ORDER BY n DESC LIMIT 20
+""").show()
+```

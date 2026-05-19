@@ -13,3 +13,9 @@ _bookdown_files/
 .ipynb_checkpoints/
 nl/
 lti/
+
+# Generated JSONL manifests (only deployed, not committed)
+amendment-acts.jsonl
+amendment-acts.jsonl.gz
+amendments.jsonl
+amendments.jsonl.gz
