@@ -79,6 +79,11 @@ h1 {{ font-size: 1.6rem; border-bottom: 2px solid #dee2e6; padding-bottom: 0.4re
 .amendment .new-text {{ margin-top: 0.5rem; }}
 .amendment .new-text summary {{ cursor: pointer; color: #2780e3; font-size: 0.85rem; }}
 .amendment .new-text-body {{ background: #f8f9fa; border-left: 3px solid #2780e3; padding: 0.6rem 0.9rem; margin-top: 0.4rem; font-size: 0.9rem; line-height: 1.5; color: #212529; }}
+.current-text {{ background: #ffffff; border: 1px solid #dee2e6; border-radius: 4px; padding: 1rem 1.25rem; margin: 1.5rem 0; }}
+.current-text h2 {{ margin: 0 0 0.5rem 0; font-size: 1.1rem; color: #495057; }}
+.current-text h2 .para-title {{ color: #212529; font-weight: 600; }}
+.current-text-body {{ font-size: 0.95rem; line-height: 1.65; }}
+.current-text-body p {{ margin: 0.5rem 0; }}
 .amendment a {{ color: #2780e3; text-decoration: none; }}
 .amendment a:hover {{ text-decoration: underline; }}
 </style>
@@ -96,10 +101,14 @@ h1 {{ font-size: 1.6rem; border-bottom: 2px solid #dee2e6; padding-bottom: 0.4re
 <div class="intro">
   <p style="margin:0;"><strong>{law_title}</strong></p>
   <p style="margin:0.4rem 0 0;">
-    <a href="../../lover/{law_stem}.html#{para_anchor}">Les gjeldende tekst →</a> ·
+    <a href="../../lover/{law_stem}.html#{para_anchor}">Les i full lovtekst →</a> ·
     <a href="../../feeds/{law_stem}.xml">📡 Atom-feed for hele loven</a>
   </p>
 </div>
+
+{current_text_block}
+
+<h2 style="margin-top:2rem;border-bottom:2px solid #dee2e6;padding-bottom:0.4rem;font-size:1.3rem;">Endringer</h2>
 
 <p style="color:#6c757d;">{n_amendments} endring{plural} registrert siden 2001.</p>
 
@@ -213,6 +222,64 @@ def generate_paragraph_history_pages(
             )
         return anchor_cache[target_law].get(paragraph, "")
 
+    # Cache of (law_refid → parsed markdown body, paragraph_text_map)
+    # paragraph_text_map: {'§ 7-25': '<p>(1) ...</p>...'}
+    para_text_cache: dict[str, dict[str, str]] = {}
+
+    def _build_paragraph_text_map(law_refid: str) -> dict[str, str]:
+        """Extract each paragraph's body text from the law markdown.
+
+        Returns {'§ X-Y': rendered_html}. Used so a paragraph history page
+        can display the current text without forcing the reader to click
+        through to the full law page and scroll.
+        """
+        kind, _ = law_refid.split("/", 1)
+        dir_name = "lover" if kind == "lov" else "forskrifter"
+        stem = _refid_to_stem(law_refid)
+        md_path = Path(dir_name) / f"{stem}.md"
+        if not md_path.exists():
+            return {}
+        text = md_path.read_text(encoding="utf-8")
+        # Strip frontmatter
+        if text.startswith("---"):
+            try:
+                fm_end = text.index("\n---", 4)
+                text = text[fm_end + 4:]
+            except ValueError:
+                pass
+
+        result: dict[str, str] = {}
+        # Match "##### § X-Y. Title\n\nbody" up to next #### or ##### heading
+        header_re = re.compile(
+            r'^(#{3,5})\s+(§\s*\d+[-–]\d+[a-z]?)\.?\s+([^\n]+)\n+(.*?)(?=^#{3,5}\s|\Z)',
+            re.MULTILINE | re.DOTALL,
+        )
+        try:
+            import markdown as md_lib
+        except ImportError:
+            md_lib = None
+
+        for m in header_re.finditer(text):
+            para_canonical = re.sub(r"§\s*(\d+)-(\d+)([a-z]?)", r"§ \1-\2\3", m.group(2)).strip()
+            title_text = m.group(3).strip()
+            body_text = m.group(4).rstrip()
+            if para_canonical in result:
+                continue
+            # Render the body. Title is shown separately on the history page,
+            # so don't include it here. Use markdown lib for proper paragraphs +
+            # cross-refs; fall back to plain <pre> if markdown not installed.
+            if md_lib is not None:
+                rendered = md_lib.markdown(body_text, extensions=["extra"])
+            else:
+                rendered = "<pre>" + html.escape(body_text) + "</pre>"
+            result[para_canonical] = (title_text, rendered)
+        return result
+
+    def current_text_for(law_refid: str, paragraph: str):
+        if law_refid not in para_text_cache:
+            para_text_cache[law_refid] = _build_paragraph_text_map(law_refid)
+        return para_text_cache[law_refid].get(paragraph)
+
     for (law_refid, paragraph), amendments in grouped.items():
         if len(amendments) < min_amendments:
             continue
@@ -229,6 +296,18 @@ def generate_paragraph_history_pages(
         law_dir.mkdir(parents=True, exist_ok=True)
 
         canonical_url = f"{SITE_BASE}/historikk/{law_stem}/{para_slug}.html"
+
+        current = current_text_for(law_refid, paragraph)
+        if current:
+            title_text, body_html = current
+            current_text_block = (
+                f'<section class="current-text">\n'
+                f'  <h2>Gjeldende tekst — <span class="para-title">{html.escape(paragraph)}. {html.escape(title_text)}</span></h2>\n'
+                f'  <div class="current-text-body">{body_html}</div>\n'
+                f'</section>'
+            )
+        else:
+            current_text_block = ""
 
         amendments_html_parts = []
         for a in amendments:
@@ -275,6 +354,7 @@ def generate_paragraph_history_pages(
             plural="er" if len(amendments) > 1 else "",
             canonical_url=canonical_url,
             site_base=SITE_BASE,
+            current_text_block=current_text_block,
             amendments_html="\n".join(amendments_html_parts),
             generated=now,
         )

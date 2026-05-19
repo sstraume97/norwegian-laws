@@ -232,3 +232,120 @@ def test_no_new_text_block_when_missing(tmp_path, monkeypatch):
     generate_paragraph_history_pages(db_path=str(db), output_dir=str(out))
     page = (out / "lov-1998-07-17-56" / "para-7-25.html").read_text(encoding="utf-8")
     assert "<summary>Ny tekst</summary>" not in page
+
+
+def test_current_paragraph_text_renders_from_markdown(tmp_path, monkeypatch):
+    """The history page should include a 'Gjeldende tekst' section showing
+    the current paragraph text extracted from the law markdown."""
+    db = tmp_path / "amendments.db"
+    conn = sqlite3.connect(db)
+    conn.execute("""
+        CREATE TABLE amendment_acts (
+            refid TEXT, filename TEXT, title TEXT, short_title TEXT,
+            date_in_force TEXT, date_in_force_resolved TEXT,
+            date_published TEXT, ministry TEXT, changes_to TEXT,
+            journal_number TEXT, misc_info TEXT
+        )
+    """)
+    conn.execute("""
+        CREATE TABLE amendments (
+            id INTEGER, act_refid TEXT, change_type TEXT,
+            target TEXT, target_law TEXT, instruction TEXT, new_text TEXT
+        )
+    """)
+    conn.execute(
+        "INSERT INTO amendment_acts VALUES (?,?,?,?,?,?,?,?,?,?,?)",
+        ('lov/2024-06-21-42', 'a.xml', 'Endr.', 'X',
+         '2024-11-01', '2024-11-01', '2024-06-21', 'FIN', 'lov/1998-07-17-56',
+         '2024-0042', ''),
+    )
+    conn.execute(
+        "INSERT INTO amendments VALUES (?,?,?,?,?,?,?)",
+        (1, 'lov/2024-06-21-42', 'change', '§ 7-25', 'lov/1998-07-17-56',
+         '§ 7-25 skal lyde:', 'Egenkapital ...'),
+    )
+    conn.commit()
+    conn.close()
+
+    monkeypatch.chdir(tmp_path)
+    lover = Path("lover")
+    lover.mkdir()
+    (lover / "lov-1998-07-17-56.md").write_text(
+        '---\n'
+        'refid: "lov/1998-07-17-56"\n'
+        'korttittel: "Regnskapsloven"\n'
+        'tittel: "Lov om årsregnskap"\n'
+        '---\n'
+        '\n'
+        '# Regnskapsloven\n'
+        '\n'
+        '##### § 7-25. Egenkapital\n'
+        '\n'
+        '(1) Opptjent egenkapital skal spesifiseres.\n'
+        '\n'
+        '(2) Det skal opplyses om endringer.\n'
+        '\n'
+        '##### § 7-26. Neste paragraf\n'
+        '\n'
+        '(1) Skal ikke vises på § 7-25 history page.\n',
+        encoding="utf-8",
+    )
+
+    out = tmp_path / "out"
+    generate_paragraph_history_pages(db_path=str(db), output_dir=str(out))
+    page = (out / "lov-1998-07-17-56" / "para-7-25.html").read_text(encoding="utf-8")
+
+    # Current text section present
+    assert '<section class="current-text">' in page
+    assert "Gjeldende tekst" in page
+    assert "§ 7-25. Egenkapital" in page
+    assert "Opptjent egenkapital skal spesifiseres" in page
+    assert "Det skal opplyses om endringer" in page
+    # Adjacent paragraph's text must NOT leak in
+    assert "Skal ikke vises" not in page
+    assert "§ 7-26" not in page.split("<section class=\"current-text\">")[1].split("</section>")[0]
+
+
+def test_current_text_skipped_when_law_markdown_missing(tmp_path, monkeypatch):
+    """If the law markdown is unavailable, history page renders without the
+    current-text block instead of erroring."""
+    db = tmp_path / "amendments.db"
+    conn = sqlite3.connect(db)
+    conn.execute("""
+        CREATE TABLE amendment_acts (
+            refid TEXT, filename TEXT, title TEXT, short_title TEXT,
+            date_in_force TEXT, date_in_force_resolved TEXT,
+            date_published TEXT, ministry TEXT, changes_to TEXT,
+            journal_number TEXT, misc_info TEXT
+        )
+    """)
+    conn.execute("""
+        CREATE TABLE amendments (
+            id INTEGER, act_refid TEXT, change_type TEXT,
+            target TEXT, target_law TEXT, instruction TEXT, new_text TEXT
+        )
+    """)
+    conn.execute(
+        "INSERT INTO amendment_acts VALUES (?,?,?,?,?,?,?,?,?,?,?)",
+        ('lov/2024-06-21-42', 'a.xml', 'Endr.', 'X',
+         '2024-11-01', '2024-11-01', '2024-06-21', 'FIN', 'lov/9999-12-31-99',
+         '2024-0042', ''),
+    )
+    conn.execute(
+        "INSERT INTO amendments VALUES (?,?,?,?,?,?,?)",
+        (1, 'lov/2024-06-21-42', 'change', '§ 1-1', 'lov/9999-12-31-99',
+         '§ 1-1 skal lyde:', ''),
+    )
+    conn.commit()
+    conn.close()
+
+    monkeypatch.chdir(tmp_path)
+    # NO markdown file for lov/9999-12-31-99
+    out = tmp_path / "out"
+    n, _ = generate_paragraph_history_pages(db_path=str(db), output_dir=str(out))
+    assert n == 1
+    page = (out / "lov-9999-12-31-99" / "para-1-1.html").read_text(encoding="utf-8")
+    # No current-text section
+    assert '<section class="current-text">' not in page
+    # But the amendments section is still there
+    assert "Endringer" in page
