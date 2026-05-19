@@ -47,6 +47,11 @@ def main():
         help="Generate Quarto book chapters and config",
     )
     parser.add_argument(
+        "--feeds-only",
+        action="store_true",
+        help="Regenerate Atom feeds only (skip formatting, Quarto, post-render)",
+    )
+    parser.add_argument(
         "--post-render",
         action="store_true",
         help="After `quarto render`, generate per-law HTML pages and merge full-text search index",
@@ -77,7 +82,8 @@ def main():
 
     # Always format laws when producing any output that depends on lover/*.md.
     # --quarto and default (no flags) both need formatted Markdown to exist.
-    if not args.build_history or args.format_only or args.quarto:
+    # --feeds-only and --post-render skip formatting because lover/*.md already exists.
+    if not args.build_history and not args.feeds_only and not args.post_render or args.format_only or args.quarto:
         print("=" * 60)
         print("Formatting laws to Markdown")
         print("=" * 60)
@@ -97,6 +103,20 @@ def main():
         print("Generating Quarto book chapters")
         print("=" * 60)
         generate_quarto_config(args.output, db_path=db_path)
+
+    if args.feeds_only:
+        from .feeds import generate_per_law_feeds
+        import os
+        print()
+        print("=" * 60)
+        print("Generating per-law, per-topic, and per-ministry Atom feeds")
+        print("=" * 60)
+        generate_per_law_feeds(
+            snapshot_dir=args.snapshot,
+            lover_dir=os.path.join(args.output, "lover"),
+            forskrifter_dir=os.path.join(args.output, "forskrifter"),
+            output_dir=os.path.join(args.site_dir, "feeds"),
+        )
 
     if args.post_render:
         from .per_law_pages import generate_per_law_pages, merge_full_text_into_search
