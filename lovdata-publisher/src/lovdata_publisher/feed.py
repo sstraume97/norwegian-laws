@@ -3,16 +3,22 @@
 Reads `amendments.db` from a snapshot and emits a standard Atom 1.0 feed
 of the most recent N amendment acts, ordered by date_published descending.
 Each entry links to the corresponding per-law page on gh-pages.
+
+Entries carry <category> tags for affected paragraphs (so a feed reader
+can filter by '§ 7-25'), the ministry, and the kind ('lov' or 'forskrift').
 """
 from __future__ import annotations
 
 import html
+import re
 import sqlite3
 from datetime import datetime, timezone
 from pathlib import Path
 
 SITE_BASE = "https://sondreskarsten.github.io/norwegian-laws"
 FEED_URL = f"{SITE_BASE}/feed.xml"
+
+_PARA_RE = re.compile(r'§\s*(\d+\s*[-–]\s*\d+(?:[a-z](?=$|[^a-zæøåA-ZÆØÅ]))?)')
 
 
 def _filepath_for(refid: str) -> str:
@@ -26,8 +32,12 @@ def _filepath_for(refid: str) -> str:
     return ""
 
 
-def _atom_entry(act: dict) -> str:
-    """Render one Atom entry from an amendment_acts row."""
+def _atom_entry(act: dict, paragraphs: list[str] | None = None) -> str:
+    """Render one Atom entry from an amendment_acts row.
+
+    paragraphs: optional list of affected paragraphs (e.g. ['§ 7-25', '§ 1-2a']).
+    Emitted as <category> elements so feed readers can filter by paragraph.
+    """
     title = html.escape(act["short_title"] or act["title"] or act["refid"])
     refid = act["refid"]
     target_first = (act.get("changes_to") or "").split(",")[0].strip()
@@ -43,19 +53,75 @@ def _atom_entry(act: dict) -> str:
         summary_lines.append(f"Departement: {act['ministry']}")
     if act.get("changes_to"):
         summary_lines.append(f"Endrer: {act['changes_to']}")
+    if paragraphs:
+        summary_lines.append(f"Berørte paragrafer: {', '.join(paragraphs)}")
     if act.get("misc_info"):
         summary_lines.append(act["misc_info"][:300])
     summary = html.escape("\n".join(summary_lines))
+
+    # Categories: paragraphs (most useful for filtering), then ministry, then kind
+    category_parts = []
+    for p in paragraphs or []:
+        category_parts.append(
+            f'  <category term="{html.escape(p)}" label="{html.escape(p)}"/>'
+        )
+    if act.get("ministry"):
+        category_parts.append(
+            f'  <category term="ministry:{html.escape(act["ministry"])}" '
+            f'label="{html.escape(act["ministry"])}"/>'
+        )
+    kind = "forskrift" if refid.startswith("forskrift/") else "lov"
+    category_parts.append(f'  <category term="kind:{kind}" label="{kind}"/>')
+    category_xml = "\n" + "\n".join(category_parts) if category_parts else ""
 
     return (
         "<entry>\n"
         f"  <id>{html.escape(SITE_BASE)}/feed/{html.escape(refid)}</id>\n"
         f"  <title>{title}</title>\n"
         f"  <link href=\"{html.escape(link)}\"/>\n"
-        f"  <updated>{ts}</updated>\n"
+        f"  <updated>{ts}</updated>"
+        f"{category_xml}\n"
         f"  <summary>{summary}</summary>\n"
         "</entry>"
     )
+
+
+def _paragraphs_for_acts(conn, act_refids: list[str]) -> dict[str, list[str]]:
+    """Return {act_refid: [paragraph, ...]} from the amendments table.
+    Returns {} if amendments table doesn't exist (older snapshots).
+    """
+    if not conn.execute(
+        "SELECT name FROM sqlite_master WHERE type='table' AND name='amendments'"
+    ).fetchone():
+        return {}
+    if not act_refids:
+        return {}
+    placeholders = ",".join("?" for _ in act_refids)
+    rows = conn.execute(
+        f"""
+        SELECT act_refid, target, instruction
+        FROM amendments
+        WHERE act_refid IN ({placeholders})
+        """,
+        act_refids,
+    ).fetchall()
+    out: dict[str, list[str]] = {}
+    seen: dict[str, set] = {}
+    for r in rows:
+        ar, target, instruction = r["act_refid"], r["target"] or "", r["instruction"] or ""
+        text = target.strip()
+        m = None
+        if not text or text.lower().startswith("kapittel") or text.lower().startswith("del "):
+            m = _PARA_RE.search(instruction)
+        else:
+            m = _PARA_RE.search(text)
+        if m:
+            p = f"§ {re.sub(r'\\s+', '-', m.group(1).strip())}"
+            seen.setdefault(ar, set())
+            if p not in seen[ar]:
+                seen[ar].add(p)
+                out.setdefault(ar, []).append(p)
+    return out
 
 
 def generate_atom_feed(snapshot_dir: str = "snapshot", output_path: str = "_site/feed.xml", limit: int = 100) -> str:
@@ -77,10 +143,10 @@ def generate_atom_feed(snapshot_dir: str = "snapshot", output_path: str = "_site
         """,
         (limit,),
     ).fetchall()
-    conn.close()
-
     now = datetime.now(timezone.utc).strftime("%Y-%m-%dT%H:%M:%SZ")
-    entries = "\n".join(_atom_entry(dict(r)) for r in rows)
+    para_map = _paragraphs_for_acts(conn, [r["refid"] for r in rows])
+    conn.close()
+    entries = "\n".join(_atom_entry(dict(r), para_map.get(r["refid"], [])) for r in rows)
 
     feed = (
         "<?xml version=\"1.0\" encoding=\"utf-8\"?>\n"

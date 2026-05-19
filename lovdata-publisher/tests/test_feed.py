@@ -53,3 +53,82 @@ def test_generate_atom_feed_missing_db_is_noop(tmp_path, capsys):
     out = tmp_path / "feed.xml"
     generate_atom_feed(str(tmp_path / "noexist"), str(out))
     assert not out.exists()
+
+
+def test_master_feed_includes_paragraph_categories(tmp_path):
+    """When the amendments table has paragraph-level rows, the master feed's
+    entries should include <category term="§ X-Y"> elements."""
+    import sqlite3
+    snap = tmp_path / "snap"
+    snap.mkdir()
+    db = sqlite3.connect(str(snap / "amendments.db"))
+    db.execute("""
+        CREATE TABLE amendment_acts (
+            refid TEXT, filename TEXT, title TEXT, short_title TEXT,
+            date_in_force TEXT, date_in_force_resolved TEXT,
+            date_published TEXT, ministry TEXT, changes_to TEXT,
+            journal_number TEXT, misc_info TEXT
+        )
+    """)
+    db.execute("""
+        CREATE TABLE amendments (
+            id INTEGER, act_refid TEXT, change_type TEXT,
+            target TEXT, target_law TEXT, instruction TEXT, new_text TEXT
+        )
+    """)
+    db.execute(
+        "INSERT INTO amendment_acts VALUES (?,?,?,?,?,?,?,?,?,?,?)",
+        ('lov/2024-06-21-42', 'a.xml', 'Endr. regnskapsloven', 'Bærekraft',
+         '2024-11-01', '2024-11-01', '2024-06-21', 'Finansdepartementet',
+         'lov/1998-07-17-56', '2024-0042', ''),
+    )
+    db.executemany(
+        "INSERT INTO amendments VALUES (?,?,?,?,?,?,?)",
+        [
+            (1, 'lov/2024-06-21-42', 'change', '§ 1-2a', 'lov/1998-07-17-56', '§ 1-2a', ''),
+            (2, 'lov/2024-06-21-42', 'change', '§ 7-25', 'lov/1998-07-17-56', '§ 7-25', ''),
+        ],
+    )
+    db.commit()
+    db.close()
+
+    from lovdata_publisher.feed import generate_atom_feed
+    out_path = tmp_path / "feed.xml"
+    generate_atom_feed(snapshot_dir=str(snap), output_path=str(out_path))
+    feed = out_path.read_text(encoding="utf-8")
+    assert '<category term="§ 1-2a"' in feed
+    assert '<category term="§ 7-25"' in feed
+    assert '<category term="ministry:Finansdepartementet"' in feed
+    assert '<category term="kind:lov"' in feed
+
+
+def test_master_feed_works_without_amendments_table(tmp_path):
+    """Older snapshots may not have the amendments table; feed should still
+    render, just without paragraph categories."""
+    import sqlite3
+    snap = tmp_path / "snap"
+    snap.mkdir()
+    db = sqlite3.connect(str(snap / "amendments.db"))
+    db.execute("""
+        CREATE TABLE amendment_acts (
+            refid TEXT, filename TEXT, title TEXT, short_title TEXT,
+            date_in_force TEXT, date_in_force_resolved TEXT,
+            date_published TEXT, ministry TEXT, changes_to TEXT,
+            journal_number TEXT, misc_info TEXT
+        )
+    """)
+    db.execute(
+        "INSERT INTO amendment_acts VALUES (?,?,?,?,?,?,?,?,?,?,?)",
+        ('lov/2024-06-21-42', 'a.xml', 'X', 'X', '2024-11-01', '2024-11-01',
+         '2024-06-21', 'FIN', 'lov/1998-07-17-56', '2024-0042', ''),
+    )
+    db.commit()
+    db.close()
+
+    from lovdata_publisher.feed import generate_atom_feed
+    out_path = tmp_path / "feed.xml"
+    generate_atom_feed(snapshot_dir=str(snap), output_path=str(out_path))
+    feed = out_path.read_text(encoding="utf-8")
+    # No paragraph categories, but kind+ministry still appear
+    assert '<category term="kind:lov"' in feed
+    assert '<category term="ministry:FIN"' in feed
