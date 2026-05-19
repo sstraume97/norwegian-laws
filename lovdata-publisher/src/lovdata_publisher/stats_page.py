@@ -136,6 +136,15 @@ footer {{ margin-top: 3rem; padding-top: 1rem; border-top: 1px solid #dee2e6; co
   </tbody>
 </table>
 
+<h2>Siste endringer</h2>
+<p class="muted">De 20 siste endringslovene Lovdata har publisert. For komplett oversikt med 100 entries, se <a href="feed.xml">/feed.xml</a>.</p>
+<table>
+  <thead><tr><th>Publisert</th><th>Endringslov</th><th>Endrer</th><th>Departement</th></tr></thead>
+  <tbody>
+{latest_rows}
+  </tbody>
+</table>
+
 <footer>
   Generert {generated}. Kilde: Lovdata API (NLOD 2.0). Topp-listene er statisk
   gjengivelse av <a href="laws.json">laws.json</a> sortert etter
@@ -237,6 +246,17 @@ def generate_stats_page(
         """
     ).fetchall()
     ministry_data = [(r["ministry"], r["n"]) for r in ministry_rows]
+
+    # Latest 20 amendments
+    latest_rows_db = conn.execute(
+        """
+        SELECT refid, title, short_title, date_published, ministry, changes_to
+        FROM amendment_acts
+        WHERE date_published IS NOT NULL AND date_published != ''
+        ORDER BY date_published DESC, refid DESC
+        LIMIT 20
+        """
+    ).fetchall()
     conn.close()
 
     top_laws_html = "\n".join(
@@ -254,12 +274,36 @@ def generate_stats_page(
         for m, n in ministry_data
     )
 
+    # Latest amendments rows
+    def _latest_row(r):
+        title = r["short_title"] or r["title"] or r["refid"]
+        # changes_to is comma-separated refids; show first target as link
+        targets = [t.strip() for t in (r["changes_to"] or "").split(",") if t.strip()]
+        target_links = []
+        for t in targets[:3]:
+            stem = _refid_to_stem(t)
+            kind_dir = _kind_dir(t)
+            target_links.append(f'<a href="{kind_dir}/{stem}.html">{html.escape(stem)}</a>')
+        if len(targets) > 3:
+            target_links.append(f'<span class="muted">+ {len(targets) - 3} til</span>')
+        return (
+            f'<tr>'
+            f'<td>{html.escape(r["date_published"][:10] if r["date_published"] else "")}</td>'
+            f'<td>{html.escape(title[:80])}</td>'
+            f'<td>{", ".join(target_links) or "<span class=\"muted\">—</span>"}</td>'
+            f'<td class="muted">{html.escape(r["ministry"] or "—")}</td>'
+            f'</tr>'
+        )
+
+    latest_html = "\n".join(_latest_row(r) for r in latest_rows_db)
+
     page = PAGE_TEMPLATE.format(
         site_base=SITE_BASE,
         top_laws_rows=top_laws_html,
         top_forskrifter_rows=top_forskrifter_html,
         year_rows=year_html,
         ministry_rows=ministry_html,
+        latest_rows=latest_html,
         generated=datetime.now(timezone.utc).strftime("%Y-%m-%d"),
     )
 
