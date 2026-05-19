@@ -282,7 +282,7 @@ def generate_search_page(book_dir: str):
         '    results.forEach(function(law) {',
         '      var tr = document.createElement("tr");',
         '      var td1 = document.createElement("td");',
-        '      td1.innerHTML = \'<a href="\' + law.github + \'">\' + law.tittel.substring(0,70) + (law.tittel.length > 70 ? "…" : "") + "</a>";',
+        '      td1.innerHTML = \'<a href="../\' + law.path.replace(".md", ".html") + \'">\' + law.tittel.substring(0,70) + (law.tittel.length > 70 ? "…" : "") + "</a>";',
         '      var td2 = document.createElement("td");',
         '      td2.textContent = law.korttittel;',
         '      var td3 = document.createElement("td");',
@@ -537,7 +537,7 @@ def generate_quarto_config(repo_root: str, lover_dir: str = "lover", forskrifter
         lines.append("|-----|-----------|---------|-----------|")
         for law in sorted(laws, key=lambda x: x["tittel"]):
             stem = law["file"].rsplit(".", 1)[0]
-            page = f"/norwegian-laws/lover/{stem}.html"
+            page = f"../lover/{stem}.html"
             history = f"{GITHUB_BASE}/commits/{HISTORY_BRANCH}/lover/{law['file']}"
             lovdata_url = f"https://lovdata.no/dokument/NL/{law['refid']}"
             title = law["tittel"][:80]
@@ -571,7 +571,7 @@ def generate_quarto_config(repo_root: str, lover_dir: str = "lover", forskrifter
         lines.append("|-----------|---------|-----------|")
         for forskrift in sorted(forskrifter, key=lambda x: x["tittel"]):
             stem = forskrift["file"].rsplit(".", 1)[0]
-            page = f"/norwegian-laws/forskrifter/{stem}.html"
+            page = f"../forskrifter/{stem}.html"
             history = f"{GITHUB_BASE}/commits/{HISTORY_BRANCH}/forskrifter/{forskrift['file']}"
             lovdata_url = f"https://lovdata.no/dokument/SF/{forskrift['refid']}"
             title = forskrift["tittel"][:80]
@@ -599,7 +599,7 @@ def generate_quarto_config(repo_root: str, lover_dir: str = "lover", forskrifter
         lines.append("|-----|-----------|-------------|")
         for law in sorted(topic_laws, key=lambda x: x["tittel"]):
             stem = law["file"].rsplit(".", 1)[0]
-            page = f"/norwegian-laws/lover/{stem}.html"
+            page = f"../lover/{stem}.html"
             title = law["tittel"][:80]
             link = f"[{title}]({page})"
             kort = law["korttittel"] or ""
