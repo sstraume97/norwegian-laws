@@ -31,6 +31,7 @@ PAGE_TEMPLATE = """<!DOCTYPE html>
 <title>{title} — Norges Lover</title>
 <link rel="stylesheet" href="../site_libs/bootstrap/bootstrap.min.css">
 <link rel="stylesheet" href="../book/styles.css">
+<link rel="alternate" type="application/atom+xml" title="Endringer i {korttittel_short}" href="../feeds/{feed_stem}.xml">
 <style>
 body {{ max-width: 960px; margin: 0 auto; padding: 1.5rem; font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif; line-height: 1.6; color: #212529; }}
 nav.breadcrumb {{ background: #f8f9fa; padding: 0.5rem 1rem; border-radius: 4px; margin-bottom: 1rem; font-size: 0.9rem; }}
@@ -83,6 +84,7 @@ eller direkte i <a href="{github_log}">git log</a>.
 <strong>Historikk:</strong>
 <a href="{github_blob}">Kildefil</a> ·
 <a href="{github_log}">git log</a> ·
+<a href="../feeds/{feed_stem}.xml" title="Abonner på endringer i denne loven via Atom">📡 Atom-feed</a> ·
 {version_links}
 </div>
 
@@ -261,6 +263,7 @@ def generate_per_law_pages(
                 github_log = f"{GITHUB_BASE}/commits/{HISTORY_BRANCH}/lover/{filename}"
                 lovdata_doc_url = f"https://lovdata.no/dokument/NL/{refid}"
             version_links = compute_version_links_html(refid, version_tags, filename)
+            feed_stem = md_file.stem  # matches feeds/{stem}.xml convention
 
             html = PAGE_TEMPLATE.format(
                 title=tittel,
@@ -277,6 +280,7 @@ def generate_per_law_pages(
                 version_links=version_links,
                 body=body_html,
                 filename=filename,
+                feed_stem=feed_stem,
             )
 
             out_file = out_dir / f"{md_file.stem}.html"

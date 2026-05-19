@@ -1,0 +1,208 @@
+"""Tests for the per-law/topic/ministry feed generator."""
+import sqlite3
+import tempfile
+from pathlib import Path
+
+import pytest
+
+from lovdata_publisher.feeds import (
+    _slug,
+    _filepath_for,
+    _scan_frontmatter,
+    generate_per_law_feeds,
+)
+
+
+def test_slug_handles_norwegian_chars():
+    assert _slug("Skatterett") == "skatterett"
+    assert _slug("Arbeids- og inkluderingsdepartementet") == "arbeids--og-inkluderingsdepartementet"
+    assert _slug("Bank, finans og regnskapsrett") == "bank-finans-og-regnskapsrett"
+    assert _slug("Næringsliv") == "naeringsliv"
+    assert _slug("Sjøfart") == "sjofart"
+
+
+def test_filepath_for_lov():
+    assert _filepath_for("lov/1998-07-17-56") == "/lover/lov-1998-07-17-56.html"
+
+
+def test_filepath_for_forskrift():
+    assert _filepath_for("forskrift/2024-06-21-1166") == "/forskrifter/forskrift-2024-06-21-1166.html"
+
+
+def test_filepath_for_unknown_returns_empty():
+    assert _filepath_for("foobar") == ""
+
+
+def test_scan_frontmatter_reads_yaml(tmp_path):
+    lover = tmp_path / "lover"
+    lover.mkdir()
+    (lover / "lov-1998-07-17-56.md").write_text(
+        '---\n'
+        'tittel: "Lov om årsregnskap m.v. (regnskapsloven)"\n'
+        'korttittel: "Regnskapsloven – rskl"\n'
+        'refid: "lov/1998-07-17-56"\n'
+        'departement: "Finansdepartementet"\n'
+        'rettsomrade: "Bank, finans og regnskapsrett>Regnskap"\n'
+        '---\n\n# Body\n',
+        encoding="utf-8",
+    )
+    result = _scan_frontmatter(str(lover), None)
+    assert "lov/1998-07-17-56" in result
+    meta = result["lov/1998-07-17-56"]
+    assert meta["korttittel"] == "Regnskapsloven – rskl"
+    assert meta["departement"] == "Finansdepartementet"
+
+
+def test_generate_per_law_feeds_writes_xml(tmp_path):
+    snapshot = tmp_path / "snapshot"
+    snapshot.mkdir()
+    db = sqlite3.connect(str(snapshot / "amendments.db"))
+    db.execute("""
+        CREATE TABLE amendment_acts (
+            refid TEXT, filename TEXT, title TEXT, short_title TEXT,
+            date_in_force TEXT, date_in_force_resolved TEXT,
+            date_published TEXT, ministry TEXT, changes_to TEXT,
+            journal_number TEXT, misc_info TEXT
+        )
+    """)
+    db.execute("""
+        INSERT INTO amendment_acts VALUES
+        ('lov/2024-06-21-42', 'nl.xml', 'Endringer i regnskapsloven',
+         'Bærekraftsrapportering', '2024-11-01', '2024-11-01',
+         '2024-06-21', 'FIN', 'lov/1998-07-17-56', '2024-0042', '')
+    """)
+    db.commit()
+    db.close()
+
+    lover = tmp_path / "lover"
+    lover.mkdir()
+    (lover / "lov-1998-07-17-56.md").write_text(
+        '---\n'
+        'tittel: "Lov om årsregnskap m.v. (regnskapsloven)"\n'
+        'korttittel: "Regnskapsloven – rskl"\n'
+        'refid: "lov/1998-07-17-56"\n'
+        'departement: "Finansdepartementet"\n'
+        'rettsomrade: "Bank, finans og regnskapsrett>Regnskap"\n'
+        '---\n\n# Body\n',
+        encoding="utf-8",
+    )
+
+    out = tmp_path / "feeds_out"
+    manifest = generate_per_law_feeds(
+        snapshot_dir=str(snapshot),
+        lover_dir=str(lover),
+        forskrifter_dir=None,
+        output_dir=str(out),
+    )
+
+    assert "lov/1998-07-17-56" in manifest["laws"]
+    feed_path = out / "lov-1998-07-17-56.xml"
+    assert feed_path.exists()
+    feed_text = feed_path.read_text(encoding="utf-8")
+    assert "<feed" in feed_text
+    assert "<entry>" in feed_text
+    assert "lov/2024-06-21-42" in feed_text
+    assert "Bærekraftsrapportering" in feed_text
+
+    # Topic feed
+    topic_feed = out / "topic-bank-finans-og-regnskapsrett.xml"
+    assert topic_feed.exists()
+    assert "Bank, finans og regnskapsrett" in topic_feed.read_text(encoding="utf-8")
+
+    # Ministry feed
+    dept_feed = out / "dept-finansdepartementet.xml"
+    assert dept_feed.exists()
+
+
+def test_generate_handles_missing_db(tmp_path):
+    snapshot = tmp_path / "no_snapshot"
+    out = tmp_path / "feeds_out"
+    manifest = generate_per_law_feeds(
+        snapshot_dir=str(snapshot),
+        lover_dir=str(tmp_path / "lover"),
+        forskrifter_dir=None,
+        output_dir=str(out),
+    )
+    assert manifest == {}
+
+
+def test_generate_skips_laws_with_no_amendments(tmp_path):
+    snapshot = tmp_path / "snapshot"
+    snapshot.mkdir()
+    db = sqlite3.connect(str(snapshot / "amendments.db"))
+    db.execute("""
+        CREATE TABLE amendment_acts (
+            refid TEXT, filename TEXT, title TEXT, short_title TEXT,
+            date_in_force TEXT, date_in_force_resolved TEXT,
+            date_published TEXT, ministry TEXT, changes_to TEXT,
+            journal_number TEXT, misc_info TEXT
+        )
+    """)
+    db.commit()
+    db.close()
+
+    lover = tmp_path / "lover"
+    lover.mkdir()
+    (lover / "lov-1998-07-17-56.md").write_text(
+        '---\nrefid: "lov/1998-07-17-56"\ntittel: "X"\n---\n',
+        encoding="utf-8",
+    )
+
+    out = tmp_path / "feeds_out"
+    manifest = generate_per_law_feeds(
+        snapshot_dir=str(snapshot),
+        lover_dir=str(lover),
+        forskrifter_dir=None,
+        output_dir=str(out),
+    )
+    assert manifest["laws"] == {}
+    assert not (out / "lov-1998-07-17-56.xml").exists()
+
+
+def test_atom_feed_is_valid_xml(tmp_path):
+    """Generated feed must be parseable as XML."""
+    snapshot = tmp_path / "snapshot"
+    snapshot.mkdir()
+    db = sqlite3.connect(str(snapshot / "amendments.db"))
+    db.execute("""
+        CREATE TABLE amendment_acts (
+            refid TEXT, filename TEXT, title TEXT, short_title TEXT,
+            date_in_force TEXT, date_in_force_resolved TEXT,
+            date_published TEXT, ministry TEXT, changes_to TEXT,
+            journal_number TEXT, misc_info TEXT
+        )
+    """)
+    # Include special chars that need escaping
+    db.execute("""
+        INSERT INTO amendment_acts VALUES
+        ('lov/2024-06-21-42', 'nl.xml',
+         'Endringer i lov med <special> & "chars"', 'Test',
+         '2024-11-01', '2024-11-01',
+         '2024-06-21', 'FIN', 'lov/1998-07-17-56', '2024-0042', '')
+    """)
+    db.commit()
+    db.close()
+
+    lover = tmp_path / "lover"
+    lover.mkdir()
+    (lover / "lov-1998-07-17-56.md").write_text(
+        '---\nrefid: "lov/1998-07-17-56"\ntittel: "Regnskapsloven"\n---\n',
+        encoding="utf-8",
+    )
+
+    out = tmp_path / "feeds_out"
+    generate_per_law_feeds(
+        snapshot_dir=str(snapshot),
+        lover_dir=str(lover),
+        forskrifter_dir=None,
+        output_dir=str(out),
+    )
+
+    import xml.etree.ElementTree as ET
+    feed_path = out / "lov-1998-07-17-56.xml"
+    tree = ET.parse(feed_path)
+    root = tree.getroot()
+    ns = {"atom": "http://www.w3.org/2005/Atom"}
+    assert root.tag == "{http://www.w3.org/2005/Atom}feed"
+    entries = root.findall("atom:entry", ns)
+    assert len(entries) == 1
