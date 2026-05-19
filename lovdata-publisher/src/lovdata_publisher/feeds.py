@@ -38,6 +38,29 @@ def _slug(text: str) -> str:
     return s
 
 
+def _normalize_paragraph_ref(target: str, instruction: str) -> str:
+    """Extract a canonical paragraph reference (e.g. '§ 7-1') from
+    the target field or fall back to parsing the amendment instruction.
+
+    Returns empty string if no paragraph reference can be identified
+    (e.g. when the target is 'kapittel 9' or the whole law).
+    """
+    # Letter suffix must be a SINGLE letter followed by whitespace/punctuation/end,
+    # not the start of "første", "annet", etc.
+    para_re = re.compile(r'§§?\s*(\d+\s*[-–]\s*\d+(?:[a-z](?=$|[^a-zæøåA-ZÆØÅ]))?)')
+
+    text = (target or "").strip()
+    if not text or text.lower().startswith("kapittel") or text.lower().startswith("del "):
+        m = para_re.search(instruction or "")
+        if m:
+            return f"§ {re.sub(r'\\s+', '-', m.group(1).strip())}"
+        return ""
+    m = para_re.match(text)
+    if m:
+        return f"§ {re.sub(r'\\s+', '-', m.group(1).strip())}"
+    return ""
+
+
 def _filepath_for(refid: str) -> str:
     if refid.startswith("forskrift/"):
         return f"/forskrifter/forskrift-{refid.split('/', 1)[1]}.html"
@@ -63,15 +86,27 @@ def _atom_entry(act: dict, anchor_refid: str) -> str:
         summary_lines.append(f"Endrer: {act['changes_to']}")
     if act.get("journal_number"):
         summary_lines.append(f"Lovtidend: {act['journal_number']}")
+    paragraphs = act.get("_paragraphs") or []
+    if paragraphs:
+        summary_lines.append(f"Berørte paragrafer: {', '.join(paragraphs)}")
     if act.get("misc_info"):
         summary_lines.append(act["misc_info"][:300])
     summary = html.escape("\n".join(summary_lines))
+
+    # <category> elements let feed readers filter by paragraph
+    category_xml = "\n".join(
+        f'  <category term="{html.escape(p)}" label="{html.escape(p)}"/>' for p in paragraphs
+    )
+    if category_xml:
+        category_xml = "\n" + category_xml
+
     return (
         "<entry>\n"
         f"  <id>{html.escape(SITE_BASE)}/feeds/{html.escape(anchor_refid)}/{html.escape(refid)}</id>\n"
         f"  <title>{title}</title>\n"
         f"  <link href=\"{html.escape(link)}\"/>\n"
-        f"  <updated>{ts}</updated>\n"
+        f"  <updated>{ts}</updated>"
+        f"{category_xml}\n"
         f"  <summary>{summary}</summary>\n"
         "</entry>"
     )
@@ -147,8 +182,29 @@ def generate_per_law_feeds(
     conn = sqlite3.connect(str(db_path))
     conn.row_factory = sqlite3.Row
 
-    # Index amendments by target refid
-    by_target: dict[str, list[sqlite3.Row]] = defaultdict(list)
+    # Index amendments by target refid, joining to extract per-paragraph targets
+    # so each Atom entry can carry <category> elements for paragraph-level filtering.
+    by_target: dict[str, list[dict]] = defaultdict(list)
+    paragraphs_by_act: dict[tuple[str, str], set[str]] = defaultdict(set)
+
+    # Build paragraph index: (act_refid, target_law) → set of normalized paragraphs.
+    # The 'amendments' table is optional — older snapshots may not have it.
+    has_amendments_table = conn.execute(
+        "SELECT name FROM sqlite_master WHERE type='table' AND name='amendments'"
+    ).fetchone() is not None
+    if has_amendments_table:
+        para_rows = conn.execute(
+            """
+            SELECT act_refid, target_law, target, instruction
+            FROM amendments
+            WHERE target_law IS NOT NULL AND target_law != ''
+            """
+        ).fetchall()
+        for r in para_rows:
+            para = _normalize_paragraph_ref(r["target"] or "", r["instruction"] or "")
+            if para:
+                paragraphs_by_act[(r["act_refid"], r["target_law"])].add(para)
+
     all_rows = conn.execute(
         """
         SELECT refid, title, short_title, date_in_force, date_in_force_resolved,
@@ -162,8 +218,12 @@ def generate_per_law_feeds(
     for row in all_rows:
         for target in (row["changes_to"] or "").split(","):
             target = target.strip()
-            if target:
-                by_target[target].append(row)
+            if not target:
+                continue
+            paragraphs = sorted(paragraphs_by_act.get((row["refid"], target), set()))
+            entry = dict(row)
+            entry["_paragraphs"] = paragraphs
+            by_target[target].append(entry)
     conn.close()
     print(f"  {len(all_rows)} amendment acts indexed against {len(by_target)} target laws")
 

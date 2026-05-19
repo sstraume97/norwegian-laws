@@ -206,3 +206,82 @@ def test_atom_feed_is_valid_xml(tmp_path):
     assert root.tag == "{http://www.w3.org/2005/Atom}feed"
     entries = root.findall("atom:entry", ns)
     assert len(entries) == 1
+
+
+def test_normalize_paragraph_ref_extracts_from_target():
+    from lovdata_publisher.feeds import _normalize_paragraph_ref
+    assert _normalize_paragraph_ref("§ 7-1", "") == "§ 7-1"
+    assert _normalize_paragraph_ref("§ 7-25", "") == "§ 7-25"
+    assert _normalize_paragraph_ref("§ 3-3a", "") == "§ 3-3a"
+
+
+def test_normalize_paragraph_ref_falls_back_to_instruction():
+    from lovdata_publisher.feeds import _normalize_paragraph_ref
+    assert _normalize_paragraph_ref("", "§ 3-1 første ledd skal lyde:") == "§ 3-1"
+    assert _normalize_paragraph_ref("kapittel 9", "§ 9-1 skal lyde:") == "§ 9-1"
+
+
+def test_normalize_paragraph_ref_returns_empty_for_chapter():
+    from lovdata_publisher.feeds import _normalize_paragraph_ref
+    assert _normalize_paragraph_ref("kapittel 9", "Nytt kapittel skal lyde:") == ""
+    assert _normalize_paragraph_ref("", "Loven oppheves.") == ""
+
+
+def test_feed_with_amendments_table_includes_categories(tmp_path):
+    """When amendments table exists, entries should include <category> per paragraph."""
+    import sqlite3
+    snapshot = tmp_path / "snapshot"
+    snapshot.mkdir()
+    db = sqlite3.connect(str(snapshot / "amendments.db"))
+    db.execute("""
+        CREATE TABLE amendment_acts (
+            refid TEXT, filename TEXT, title TEXT, short_title TEXT,
+            date_in_force TEXT, date_in_force_resolved TEXT,
+            date_published TEXT, ministry TEXT, changes_to TEXT,
+            journal_number TEXT, misc_info TEXT
+        )
+    """)
+    db.execute("""
+        CREATE TABLE amendments (
+            id INTEGER, act_refid TEXT, change_type TEXT,
+            target TEXT, target_law TEXT, instruction TEXT, new_text TEXT
+        )
+    """)
+    db.execute("""
+        INSERT INTO amendment_acts VALUES
+        ('lov/2024-06-21-42', 'nl.xml', 'Endringer i regnskapsloven',
+         'Bærekraftsrapportering', '2024-11-01', '2024-11-01',
+         '2024-06-21', 'FIN', 'lov/1998-07-17-56', '2024-0042', '')
+    """)
+    db.executemany(
+        "INSERT INTO amendments VALUES (?,?,?,?,?,?,?)",
+        [
+            (1, 'lov/2024-06-21-42', 'change', '§ 1-2a', 'lov/1998-07-17-56',
+             '§ 1-2a skal lyde:', 'Bestemmelsene ...'),
+            (2, 'lov/2024-06-21-42', 'change', '§ 2-3', 'lov/1998-07-17-56',
+             '§ 2-3 skal lyde:', 'Store foretak ...'),
+        ],
+    )
+    db.commit()
+    db.close()
+
+    lover = tmp_path / "lover"
+    lover.mkdir()
+    (lover / "lov-1998-07-17-56.md").write_text(
+        '---\nrefid: "lov/1998-07-17-56"\ntittel: "Regnskapsloven"\n---\n',
+        encoding="utf-8",
+    )
+
+    out = tmp_path / "feeds"
+    generate_per_law_feeds(
+        snapshot_dir=str(snapshot),
+        lover_dir=str(lover),
+        forskrifter_dir=None,
+        output_dir=str(out),
+    )
+
+    feed_text = (out / "lov-1998-07-17-56.xml").read_text(encoding="utf-8")
+    # Atom <category> elements should appear for each amended paragraph
+    assert '<category term="§ 1-2a"' in feed_text
+    assert '<category term="§ 2-3"' in feed_text
+    assert "Berørte paragrafer" in feed_text
