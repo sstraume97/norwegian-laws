@@ -42,7 +42,10 @@ def format_article(article: dict, depth: int = 0) -> str:
             lines.append("")
         for item in para.get("list_items", []):
             identifier = item.get("identifier", "-")
-            lines.append(f"- {identifier} {item['text']}")
+            if identifier == "-":
+                lines.append(f"- {item['text']}")
+            else:
+                lines.append(f"- {identifier} {item['text']}")
         if para.get("list_items"):
             lines.append("")
 

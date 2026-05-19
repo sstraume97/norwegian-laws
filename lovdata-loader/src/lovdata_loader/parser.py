@@ -25,6 +25,11 @@ from .models import (
 # ─── Header Field Extraction ────────────────────────────────────────────────
 
 
+def _text(el: Tag) -> str:
+    """Extract text preserving spaces around inline elements like <a> tags."""
+    return re.sub(r'\s+', ' ', el.get_text(separator=" ")).strip()
+
+
 def extract_header_field(header: Tag, css_class: str) -> str:
     """Extract text content from a <dd> element by CSS class."""
     dd = header.find("dd", class_=css_class)
@@ -159,10 +164,10 @@ def _parse_ledd(ledd: Tag) -> Paragraph:
         if isinstance(child, Tag) and child.name in ("ul", "ol"):
             for li in child.find_all("li", recursive=False):
                 identifier = li.get("data-li-identifier", "-")
-                li_text = li.get_text(strip=True)
+                li_text = _text(li)
                 items.append(ListItem(identifier=identifier, text=li_text))
         elif isinstance(child, Tag):
-            text_parts.append(child.get_text(strip=True))
+            text_parts.append(_text(child))
         else:
             t = str(child).strip()
             if t:
@@ -197,11 +202,11 @@ def parse_article(article_tag: Tag) -> Article:
         if _is_ledd(child):
             paragraphs.append(_parse_ledd(child))
         elif child.name == "p":
-            paragraphs.append(Paragraph(text=child.get_text(strip=True)))
+            paragraphs.append(Paragraph(text=_text(child)))
         elif _is_header(child):
             pass
         else:
-            text = child.get_text(strip=True)
+            text = _text(child)
             if text:
                 trailing_parts.append(text)
 
@@ -239,11 +244,11 @@ def parse_section(section_tag: Tag) -> Section:
         elif child.name in ("h1", "h2", "h3", "h4", "h5", "h6"):
             pass
         elif child.name == "footer":
-            text = child.get_text(strip=True)
+            text = _text(child)
             if text:
                 footnotes.append(text)
         else:
-            text = child.get_text(strip=True)
+            text = _text(child)
             if text:
                 preamble.append(text)
 
