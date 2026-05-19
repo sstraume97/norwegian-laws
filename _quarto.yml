@@ -1,6 +1,8 @@
 project:
   type: book
   output-dir: _site
+  resources:
+    - assets/
 lang: nb
 book:
   title: Norges Lover og Forskrifter
