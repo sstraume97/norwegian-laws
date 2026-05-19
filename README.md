@@ -1,43 +1,146 @@
 # Norges Lover
 
-All Norwegian laws and central regulations as searchable, diffable Markdown — updated weekly from [Lovdata's open API](https://api.lovdata.no/).
+**A Git-versioned changelog for Norwegian law.** Every amendment to every law and every central regulation, parsed, diffable, and subscribable — so you can track regulatory changes the way developers track code changes.
 
-**[Browse the site →](https://sondreskarsten.github.io/norwegian-laws/)**
+**[Browse the site →](https://sondreskarsten.github.io/norwegian-laws/)** · **[Atom feeds →](https://sondreskarsten.github.io/norwegian-laws/feeds/)** · **[Law history →](https://github.com/sondreskarsten/norwegian-laws/tree/law-history)**
+
+```diff
+# Amendment to regnskapsloven from LOV-2024-06-21-42 (bærekraftsrapportering)
+# New § 1-2a added; Chapter 2 "Årsberetning" retitled to include sustainability reporting
+
+  #### § 1-2. Regnskapspliktige
++ #### § 1-2a. Regnskapspliktige med plikt til å utarbeide bærekraftsrapportering
++ 
++ (1) Bestemmelsene i §§ 2-3 til 2-8 gjelder for følgende regnskapspliktige:
++ - 1. store foretak…
++ - 2. små og mellomstore foretak som er noterte foretak…
+  
+- ## Kapittel 2 Årsberetning
++ ## Kapittel 2 Årsberetning og bærekraftsrapportering
+```
+
+That diff is real, reachable via `git log -p -- lover/lov-1998-07-17-56.md` once you've cloned the [`law-history`](https://github.com/sondreskarsten/norwegian-laws/tree/law-history) branch. Every legislative change since 2001 is a backdated git commit with the commit date matching the actual ikrafttredelse from Norsk Lovtidend.
+
+---
+
+## Who this is for
+
+- **Tax advisors and auditors** — get notified when skatteloven, regnskapsloven, or revisorloven changes, before clients ask
+- **Compliance teams** (banks, fintech, AS/ASA) — watch finansforetaksloven, aksjeloven, hvitvaskingsloven for amendments that hit your control framework
+- **Treasurers and CFOs** — track ikrafttredelser for laws affecting reporting obligations
+- **Legal departments** — `git diff` the law instead of comparing two PDFs side-by-side
+- **Fiscal journalists and researchers** — reconstruct the state of any Norwegian law at any historical date with one `git checkout`
+- **Anyone building software that depends on Norwegian regulations** — consume changes as Atom feeds or webhooks instead of polling Lovdata
+
+---
 
 ## What you can do
 
-**Browse** — [4,200+ laws and regulations](https://sondreskarsten.github.io/norwegian-laws/) organized by ministry and legal area, with full-text search and cross-references between laws.
+### 1. Subscribe to changes in any specific law
 
-**Diff** — [Compare any law across time periods](https://sondreskarsten.github.io/norwegian-laws/book/diff.html). Select two versions and see exactly what changed, word by word.
+Every law has its own Atom feed. Drop the URL into any RSS reader, Slack webhook, or GitHub Action:
 
-**Search** — [Find laws by title, abbreviation, or keyword](https://sondreskarsten.github.io/norwegian-laws/book/sok.html). Supports common abbreviations like `aml` (arbeidsmiljøloven), `asl` (aksjeloven), `pbl` (plan- og bygningsloven).
+```
+https://sondreskarsten.github.io/norwegian-laws/feeds/lov-1998-07-17-56.xml   # Regnskapsloven
+https://sondreskarsten.github.io/norwegian-laws/feeds/lov-1997-06-13-44.xml   # Aksjeloven
+https://sondreskarsten.github.io/norwegian-laws/feeds/lov-2005-06-17-62.xml   # Arbeidsmiljøloven
+https://sondreskarsten.github.io/norwegian-laws/feeds/lov-1984-06-08-58.xml   # Konkursloven
+```
 
-**Git log as legislative history** — Every amendment act is a backdated commit on the [`law-history`](https://github.com/sondreskarsten/norwegian-laws/tree/law-history) branch. Run `git log` to see when and how a law changed:
+Or subscribe to entire regulatory areas:
+
+```
+https://sondreskarsten.github.io/norwegian-laws/feeds/topic-skatterett.xml
+https://sondreskarsten.github.io/norwegian-laws/feeds/topic-bank-finans-og-regnskapsrett.xml
+https://sondreskarsten.github.io/norwegian-laws/feeds/dept-finansdepartementet.xml
+```
+
+[Browse all feeds →](https://sondreskarsten.github.io/norwegian-laws/feeds/)
+
+### 2. Trigger automation when the law changes
+
+In a GitHub Action (or any CI/CD), watch the relevant file and react:
+
+```yaml
+on:
+  push:
+    paths:
+      - 'lover/lov-1998-07-17-56.md'   # Regnskapsloven
+      - 'lover/lov-2005-06-17-62.md'   # Arbeidsmiljøloven
+
+jobs:
+  notify:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Post diff to Slack
+        run: git diff HEAD~1 HEAD -- lover/*.md | slack-cli post #compliance
+```
+
+### 3. Reconstruct the law at any point in history
 
 ```bash
 git clone -b law-history https://github.com/sondreskarsten/norwegian-laws.git
 cd norwegian-laws
 
-# Legislative history of regnskapsloven
-git log --oneline -- lover/lov-1998-07-17-56.md
-
-# What changed in Norwegian law between 2023 and 2024
-git diff v2023 v2024 --stat
-
-# State of all laws as of January 2020
+# What did regnskapsloven look like on 1 January 2020?
 git checkout v2020
+cat lover/lov-1998-07-17-56.md
+
+# What's changed since then?
+git diff v2020 main -- lover/lov-1998-07-17-56.md
 ```
 
-**Subscribe** — [Atom feed](https://sondreskarsten.github.io/norwegian-laws/feed.xml) for recent changes.
+### 4. Search 4,200+ laws and regulations
 
-## Corpus
+Full-text search with common abbreviations: type `aml` to find arbeidsmiljøloven, `rskl` for regnskapsloven, `pbl` for plan- og bygningsloven.
 
-| | Count | Updated |
-|---|---|---|
-| Formal laws (gjeldende lover) | ~783 | Weekly |
-| Central regulations (sentrale forskrifter) | ~3,421 | Weekly |
-| Amendment commits on `law-history` | 16,000+ | Weekly |
-| Yearly version tags | `v2000` – `v2027` | Weekly |
+[Search →](https://sondreskarsten.github.io/norwegian-laws/book/sok.html)
+
+### 5. Compare any two versions side-by-side
+
+Pick a law, pick two versions, see exactly what changed. Word-level diff in the browser.
+
+[Diff tool →](https://sondreskarsten.github.io/norwegian-laws/book/diff.html)
+
+---
+
+## Features
+
+| | |
+|---|---|
+| 📜 **Complete coverage** | All 783 formal laws + 3,421 central regulations |
+| 🔔 **Per-law Atom feeds** | One subscribable feed per law/forskrift/topic/ministry |
+| 🕰️ **Backdated git history** | 16,000+ commits, one per amendment act, with commit date = ikrafttredelse |
+| 🔍 **Full-text search** | Searches title, body, refid, and common abbreviations |
+| 📊 **Cross-version diff** | Browser-based diff between any two yearly snapshots (`v2001`–`v2027`) |
+| 🤝 **Machine-readable** | Markdown + YAML frontmatter, plus [`laws.json`](https://sondreskarsten.github.io/norwegian-laws/laws.json) for programmatic access |
+| 🆓 **Open data + open code** | NLOD 2.0 (Lovdata data) · MIT (code) |
+| 🔄 **Updated weekly** | Automated pull from Lovdata API every Sunday |
+
+---
+
+## How it works
+
+```mermaid
+flowchart LR
+    A[Lovdata API<br/>XML archives] --> B[lovdata-loader<br/>XML → JSON]
+    B --> C[snapshot/<br/>laws/*.json<br/>amendments.db]
+    C --> D[lovdata-publisher]
+    D --> E[lover/*.md<br/>Markdown]
+    D --> F[Quarto book<br/>HTML pages]
+    D --> G[Per-law Atom feeds<br/>topic/ministry feeds]
+    D --> H[law-history branch<br/>backdated commits]
+    E --> I[GitHub Pages]
+    F --> I
+    G --> I
+```
+
+Two Python packages connected by a snapshot directory: `lovdata-loader` downloads and parses Lovdata's XML; `lovdata-publisher` formats Markdown, generates Quarto chapters, builds Atom feeds, and writes the backdated git history via `git fast-import`.
+
+GitHub Actions runs the pipeline weekly and deploys to GitHub Pages.
+
+---
 
 ## File format
 
@@ -57,30 +160,44 @@ sist-endret-ikrafttredelse: "2026-01-01"
 ---
 ```
 
-The body preserves Lovdata's full structure: chapters, sections, paragraphs, list items, and amendment footnotes.
+The body preserves Lovdata's full structure: del, kapittel, paragraph, ledd, list items, and amendment footnotes. Cross-references between laws (`§ 1-2 første ledd`) become clickable links in the rendered HTML.
 
-A machine-readable [`laws.json`](https://sondreskarsten.github.io/norwegian-laws/laws.json) index covers all 4,200+ documents with metadata, common abbreviations, and links.
+For programmatic discovery, [`laws.json`](https://sondreskarsten.github.io/norwegian-laws/laws.json) lists all 4,204 documents with metadata, common abbreviations, ELI URIs, and feed paths.
 
-## For developers
+---
 
-The pipeline has two packages:
-
-- **lovdata-loader** — downloads Lovdata XML archives and parses them into structured JSON + SQLite
-- **lovdata-publisher** — formats JSON → Markdown, generates the Quarto site, and builds the backdated git history via `git fast-import`
+## Quick start (for developers)
 
 ```bash
 pip install -e lovdata-loader/ -e lovdata-publisher/
 
+# Download archives, parse to snapshot
 lovdata-load --download --output snapshot
+
+# Format to Markdown + generate Quarto book chapters + Atom feeds
 lovdata-publish --snapshot snapshot --output . --quarto
+lovdata-publish --post-render --output . --site-dir _site
 ```
 
-The `law-history` branch uses git-LFS. Install `git-lfs` before cloning that branch.
+The `law-history` branch uses git-LFS. Install `git-lfs` before cloning that branch:
 
-Weekly automation runs via GitHub Actions: download → parse → format → render → deploy.
+```bash
+sudo apt-get install -y git-lfs
+git lfs install
+git clone -b law-history https://github.com/sondreskarsten/norwegian-laws.git
+```
 
-## Data source and license
+---
 
-Contains data under the [Norwegian Licence for Open Government Data (NLOD) 2.0](https://data.norge.no/nlod/no/2.0) from [Lovdata](https://lovdata.no). Source code is [MIT licensed](LICENSE).
+## Disclaimer
 
-This is an unofficial project. For authoritative legal text, see [lovdata.no](https://lovdata.no).
+**This is not legal advice and not an authoritative source.** For binding legal text, always use [lovdata.no](https://lovdata.no). The pipeline parses Lovdata's open data with best-effort accuracy and a test suite covering 56 cases, but cannot guarantee zero discrepancies from the official text.
+
+This is an unofficial project, not affiliated with Lovdata or the Norwegian government.
+
+---
+
+## License
+
+- **Law data**: [Norwegian Licence for Open Government Data (NLOD) 2.0](https://data.norge.no/nlod/no/2.0) — Lovdata
+- **Source code**: [MIT](LICENSE)
