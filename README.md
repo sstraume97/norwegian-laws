@@ -204,7 +204,7 @@ sist-endret-ikrafttredelse: "2026-01-01"
 
 The body preserves Lovdata's full structure: del, kapittel, paragraph, ledd, list items, and amendment footnotes. Cross-references between laws (`§ 1-2 første ledd`) become clickable links in the rendered HTML.
 
-For programmatic discovery, [`laws.json`](https://sondreskarsten.github.io/norwegian-laws/laws.json) lists all 4,204 documents with metadata, common abbreviations, ELI URIs, and feed paths.
+For programmatic discovery, [`laws.json`](https://sondreskarsten.github.io/norwegian-laws/laws.json) lists all 4,204 documents with metadata, common abbreviations, ELI URIs, feed paths, and per-law `amendments` counts (so you can sort by how active a law is when picking what to monitor).
 
 ---
 
