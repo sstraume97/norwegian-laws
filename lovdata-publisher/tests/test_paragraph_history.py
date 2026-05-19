@@ -134,3 +134,101 @@ def test_normalize_paragraph_handles_prefixed_target():
     The regex must still extract '§ 217a' (or the X-Y form when present)."""
     assert _normalize_paragraph("lov/1998-07-17-56/§1-2a") == "§ 1-2a"
     assert _normalize_paragraph("forskrift/2024-01-01-1/§2-3") == "§ 2-3"
+
+
+def test_new_text_renders_in_collapsible_block(tmp_path, monkeypatch):
+    """When an amendment row has new_text, the rendered page should include
+    a <details>/Ny tekst block with that text."""
+    db = tmp_path / "amendments.db"
+    conn = sqlite3.connect(db)
+    conn.execute("""
+        CREATE TABLE amendment_acts (
+            refid TEXT, filename TEXT, title TEXT, short_title TEXT,
+            date_in_force TEXT, date_in_force_resolved TEXT,
+            date_published TEXT, ministry TEXT, changes_to TEXT,
+            journal_number TEXT, misc_info TEXT
+        )
+    """)
+    conn.execute("""
+        CREATE TABLE amendments (
+            id INTEGER, act_refid TEXT, change_type TEXT,
+            target TEXT, target_law TEXT, instruction TEXT, new_text TEXT
+        )
+    """)
+    conn.execute(
+        "INSERT INTO amendment_acts VALUES (?,?,?,?,?,?,?,?,?,?,?)",
+        ('lov/2024-06-21-42', 'a.xml', 'Endr. regnskapsloven', 'Bærekraft',
+         '2024-11-01', '2024-11-01', '2024-06-21', 'FIN', 'lov/1998-07-17-56',
+         '2024-0042', ''),
+    )
+    conn.execute(
+        "INSERT INTO amendments VALUES (?,?,?,?,?,?,?)",
+        (1, 'lov/2024-06-21-42', 'change', '§ 7-25', 'lov/1998-07-17-56',
+         '§ 7-25 skal lyde:',
+         'Egenkapital består av innskutt egenkapital og opptjent egenkapital.'),
+    )
+    conn.commit()
+    conn.close()
+
+    monkeypatch.chdir(tmp_path)
+    lover = Path("lover")
+    lover.mkdir()
+    (lover / "lov-1998-07-17-56.md").write_text(
+        '---\nrefid: "lov/1998-07-17-56"\nkorttittel: "Regnskapsloven"\ntittel: "Lov om årsregnskap"\n---\n',
+        encoding="utf-8",
+    )
+
+    out = tmp_path / "out"
+    n, _ = generate_paragraph_history_pages(db_path=str(db), output_dir=str(out))
+    assert n == 1
+
+    page = (out / "lov-1998-07-17-56" / "para-7-25.html").read_text(encoding="utf-8")
+    assert "<summary>Ny tekst</summary>" in page
+    assert "Egenkapital består av innskutt egenkapital" in page
+    # new_text block should not appear for amendments without new_text
+    # (sanity check the optional-block path is genuinely conditional)
+
+
+def test_no_new_text_block_when_missing(tmp_path, monkeypatch):
+    db = tmp_path / "amendments.db"
+    conn = sqlite3.connect(db)
+    conn.execute("""
+        CREATE TABLE amendment_acts (
+            refid TEXT, filename TEXT, title TEXT, short_title TEXT,
+            date_in_force TEXT, date_in_force_resolved TEXT,
+            date_published TEXT, ministry TEXT, changes_to TEXT,
+            journal_number TEXT, misc_info TEXT
+        )
+    """)
+    conn.execute("""
+        CREATE TABLE amendments (
+            id INTEGER, act_refid TEXT, change_type TEXT,
+            target TEXT, target_law TEXT, instruction TEXT, new_text TEXT
+        )
+    """)
+    conn.execute(
+        "INSERT INTO amendment_acts VALUES (?,?,?,?,?,?,?,?,?,?,?)",
+        ('lov/2024-06-21-42', 'a.xml', 'Endr.', 'X',
+         '2024-11-01', '2024-11-01', '2024-06-21', 'FIN', 'lov/1998-07-17-56',
+         '2024-0042', ''),
+    )
+    conn.execute(
+        "INSERT INTO amendments VALUES (?,?,?,?,?,?,?)",
+        (1, 'lov/2024-06-21-42', 'change', '§ 7-25', 'lov/1998-07-17-56',
+         '§ 7-25 skal oppheves.', ''),  # empty new_text
+    )
+    conn.commit()
+    conn.close()
+
+    monkeypatch.chdir(tmp_path)
+    lover = Path("lover")
+    lover.mkdir()
+    (lover / "lov-1998-07-17-56.md").write_text(
+        '---\nrefid: "lov/1998-07-17-56"\nkorttittel: "X"\ntittel: "Y"\n---\n',
+        encoding="utf-8",
+    )
+
+    out = tmp_path / "out"
+    generate_paragraph_history_pages(db_path=str(db), output_dir=str(out))
+    page = (out / "lov-1998-07-17-56" / "para-7-25.html").read_text(encoding="utf-8")
+    assert "<summary>Ny tekst</summary>" not in page

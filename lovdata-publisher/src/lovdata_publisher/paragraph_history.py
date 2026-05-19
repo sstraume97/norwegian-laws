@@ -76,6 +76,9 @@ h1 {{ font-size: 1.6rem; border-bottom: 2px solid #dee2e6; padding-bottom: 0.4re
 .amendment .meta {{ color: #6c757d; font-size: 0.85rem; margin-bottom: 0.3rem; }}
 .amendment .title {{ font-weight: 600; }}
 .amendment .instruction {{ font-style: italic; color: #495057; margin-top: 0.3rem; font-size: 0.9rem; }}
+.amendment .new-text {{ margin-top: 0.5rem; }}
+.amendment .new-text summary {{ cursor: pointer; color: #2780e3; font-size: 0.85rem; }}
+.amendment .new-text-body {{ background: #f8f9fa; border-left: 3px solid #2780e3; padding: 0.6rem 0.9rem; margin-top: 0.4rem; font-size: 0.9rem; line-height: 1.5; color: #212529; }}
 .amendment a {{ color: #2780e3; text-decoration: none; }}
 .amendment a:hover {{ text-decoration: underline; }}
 </style>
@@ -141,7 +144,7 @@ def generate_paragraph_history_pages(
 
     rows = conn.execute(
         """
-        SELECT a.target, a.target_law, a.instruction, a.change_type,
+        SELECT a.target, a.target_law, a.instruction, a.change_type, a.new_text,
                ac.refid AS act_refid, ac.title AS act_title,
                ac.short_title AS act_short_title,
                ac.date_published, ac.date_in_force, ac.date_in_force_resolved,
@@ -233,6 +236,20 @@ def generate_paragraph_history_pages(
             if a["act_refid"].startswith("forskrift/"):
                 act_url = f"{SITE_BASE}/forskrifter/{_refid_to_stem(a['act_refid'])}.html"
             instr_short = html.escape((a["instruction"] or "")[:200])
+            new_text_block = ""
+            if a["new_text"]:
+                # Preserve line breaks; cap length to keep page light
+                nt = a["new_text"]
+                if len(nt) > 2000:
+                    nt = nt[:2000].rstrip() + "…"
+                # Convert plain text linebreaks to <br> for readability
+                nt_html = html.escape(nt).replace("\n", "<br>")
+                new_text_block = (
+                    f'  <details class="new-text">\n'
+                    f'    <summary>Ny tekst</summary>\n'
+                    f'    <div class="new-text-body">{nt_html}</div>\n'
+                    f'  </details>\n'
+                )
             amendments_html_parts.append(
                 f'<div class="amendment">\n'
                 f'  <div class="meta">{html.escape(a["date_published"] or "")} · '
@@ -244,6 +261,7 @@ def generate_paragraph_history_pages(
                 f'{html.escape(a["act_short_title"] or a["act_title"] or a["act_refid"])}'
                 f'</a></div>\n'
                 f'  <div class="instruction">{instr_short}</div>\n'
+                f'{new_text_block}'
                 f'</div>'
             )
 
