@@ -853,25 +853,8 @@ def generate_quarto_config(repo_root: str, lover_dir: str = "lover", forskrifter
                 "number-sections": False,
                 "code-fold": True,
                 "lang": "nb",
-                "include-in-header": {
-                    "text": (
-                        '<link rel="alternate" type="application/atom+xml" '
-                        'title="Norges Lover og Forskrifter — endringer" '
-                        'href="/norwegian-laws/feed.xml"/>\n'
-                        '<meta property="og:site_name" content="Norges Lover"/>\n'
-                        '<meta property="og:type" content="website"/>\n'
-                        '<meta property="og:title" content="Norges Lover — Git-versioned changelog for Norwegian law"/>\n'
-                        '<meta property="og:description" content="Every amendment to every Norwegian law and central regulation, parsed and subscribable as Atom feeds. 4,200+ documents, 31,000+ dated amendments since 2001."/>\n'
-                        '<meta property="og:url" content="https://sondreskarsten.github.io/norwegian-laws/"/>\n'
-                        '<meta property="og:image" content="https://sondreskarsten.github.io/norwegian-laws/assets/banner.svg"/>\n'
-                        '<meta name="twitter:card" content="summary_large_image"/>\n'
-                        '<meta name="twitter:title" content="Norges Lover"/>\n'
-                        '<meta name="twitter:description" content="A Git-versioned changelog for Norwegian law. Track regulatory changes via Atom feeds."/>\n'
-                        '<meta name="twitter:image" content="https://sondreskarsten.github.io/norwegian-laws/assets/banner.svg"/>\n'
-                        '<meta name="description" content="A Git-versioned changelog for Norwegian law. Every amendment to every law and central regulation, parsed, diffable, and subscribable as per-law Atom feeds."/>\n'
-                        '<meta name="keywords" content="Norges lover, lovdata, lovendringer, atom feed, regnskapsloven, skatteloven, arbeidsmiljøloven, RSS, regelverk, compliance"/>\n'
-                    )
-                },
+                "include-in-header":
+                    "assets/head-meta.html",
             }
         },
     }
