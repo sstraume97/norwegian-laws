@@ -7,6 +7,23 @@ under [NLOD 2.0](https://data.norge.no/nlod/no/2.0)-lisensen.
 Samlingen inneholder **783 lover**
 fordelt på **17 departementer**.
 
+## 🔔 Spor endringer
+
+Hver lov og forskrift har sin egen Atom-feed. Velg dine egne, abonner i Feedly, Slack, Microsoft Teams, eller GitHub Actions — og få beskjed når Lovdata publiserer en endring.
+
+- [Abonner](book/abonner.qmd) — interaktiv søkbar oversikt over alle 2 627 per-lov-feeder, pluss feeder per rettsområde og departement
+- [Feed-katalog](feeds/) — bla gjennom alle Atom-feeder direkte
+- Eksempel: [Atom-feed for regnskapsloven](feeds/lov-1998-07-17-56.xml) · [endringer i § 7-25 spesifikt](historikk/lov-1998-07-17-56/para-7-25.html)
+- Hver endring er deep-linket til den endrede paragrafen, og inneholder et `<category>`-tag du kan filtrere på
+
+## 📥 Bulk-data
+
+For nedstrøms automatisering (datavarehus, compliance-dashboards, interne CDC-pipelines):
+
+- [`amendments.jsonl.gz`](amendments.jsonl.gz) — ~91 000 rader, én per (lov, paragraf, endring). Inkluderer den nye paragraftekst (`new_text`)
+- [`amendment-acts.jsonl.gz`](amendment-acts.jsonl.gz) — ~38 000 rader, én per endringslov
+- [`laws.json`](laws.json) — alle 4 205 lover/forskrifter med metadata
+
 ## Les lover
 
 - [Søk etter lov](book/sok.qmd) — finn lover etter tittel, korttittel eller lovnummer
