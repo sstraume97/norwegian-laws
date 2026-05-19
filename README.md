@@ -98,7 +98,9 @@ https://sondreskarsten.github.io/norwegian-laws/feeds/dept-finansdepartementet.x
 
 ### 2. Trigger automation when the law changes
 
-In a GitHub Action (or any CI/CD), watch the relevant file and react:
+The easiest path: copy the [reusable GitHub Action template](examples/github-action-watcher/) and edit the `feeds:` list. It polls the Atom feeds every weekday, opens a GitHub Issue when amendments are detected (with affected paragraphs broken out), and persists state so it never refires.
+
+Or watch the underlying Markdown file directly from your own repo:
 
 ```yaml
 on:

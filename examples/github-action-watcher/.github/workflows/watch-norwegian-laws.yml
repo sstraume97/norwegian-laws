@@ -1,0 +1,118 @@
+name: Watch Norwegian law changes
+
+# This workflow polls Atom feeds from sondreskarsten/norwegian-laws
+# and opens a GitHub Issue whenever a watched law is amended.
+#
+# Adapt the `feeds:` matrix below to your interests, set the workflow
+# free, and it will file issues that link directly to the amendment
+# entry and the affected paragraphs.
+
+on:
+  schedule:
+    # Run every weekday at 09:00 UTC (after Lovdata typically publishes)
+    - cron: '0 9 * * 1-5'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+  issues: write
+
+jobs:
+  watch:
+    runs-on: ubuntu-latest
+    strategy:
+      fail-fast: false
+      matrix:
+        feed:
+          # Per-law: pick whichever feeds matter for your team.
+          # Browse the catalog at
+          # https://sondreskarsten.github.io/norwegian-laws/feeds/
+          - name: "Regnskapsloven"
+            url: "https://sondreskarsten.github.io/norwegian-laws/feeds/lov-1998-07-17-56.xml"
+          - name: "Skatteloven"
+            url: "https://sondreskarsten.github.io/norwegian-laws/feeds/lov-1999-03-26-14.xml"
+          - name: "Hvitvaskingsloven"
+            url: "https://sondreskarsten.github.io/norwegian-laws/feeds/lov-2018-06-01-23.xml"
+          # Or aggregate by topic / ministry:
+          # - name: "Skatte- og avgiftsrett"
+          #   url: "https://sondreskarsten.github.io/norwegian-laws/feeds/topic-skatte--og-avgiftsrett.xml"
+          # - name: "Finansdepartementet"
+          #   url: "https://sondreskarsten.github.io/norwegian-laws/feeds/dept-finansdepartementet.xml"
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Install feedparser
+        run: pip install feedparser==6.0.11
+
+      - name: Fetch and diff feed
+        id: diff
+        env:
+          FEED_NAME: ${{ matrix.feed.name }}
+          FEED_URL: ${{ matrix.feed.url }}
+        run: |
+          python <<'PY'
+          import feedparser, os, hashlib, json, pathlib, sys
+          name = os.environ["FEED_NAME"]
+          url = os.environ["FEED_URL"]
+          feed = feedparser.parse(url)
+          if feed.bozo:
+              print(f"::error::Failed to parse feed: {feed.bozo_exception}")
+              sys.exit(1)
+          state_file = pathlib.Path(f".watcher-state/{hashlib.sha1(url.encode()).hexdigest()}.json")
+          state_file.parent.mkdir(exist_ok=True)
+          seen = set(json.loads(state_file.read_text()) if state_file.exists() else [])
+          new_entries = [e for e in feed.entries if e.id not in seen]
+          if new_entries:
+              print(f"::notice::{name}: {len(new_entries)} new amendment(s)")
+              body_lines = [f"## New amendments to {name}", ""]
+              for e in new_entries:
+                  body_lines.append(f"### {e.title}")
+                  body_lines.append("")
+                  body_lines.append(f"- **Published**: {e.updated[:10]}")
+                  body_lines.append(f"- **Link**: <{e.link}>")
+                  categories = [t.term for t in getattr(e, "tags", []) if t.term.startswith("§")]
+                  if categories:
+                      body_lines.append(f"- **Affected paragraphs**: {', '.join(categories)}")
+                  if hasattr(e, "summary"):
+                      body_lines.append("")
+                      body_lines.append("```")
+                      body_lines.append(e.summary)
+                      body_lines.append("```")
+                  body_lines.append("")
+              pathlib.Path("issue-body.md").write_text("\n".join(body_lines))
+              pathlib.Path("issue-title.txt").write_text(
+                  f"{name}: {len(new_entries)} new amendment{'s' if len(new_entries) > 1 else ''}"
+              )
+              seen.update(e.id for e in feed.entries)
+              state_file.write_text(json.dumps(sorted(seen)))
+              with open(os.environ['GITHUB_OUTPUT'], 'a') as f:
+                  f.write("has_changes=true\n")
+          else:
+              print(f"{name}: no new amendments")
+              with open(os.environ['GITHUB_OUTPUT'], 'a') as f:
+                  f.write("has_changes=false\n")
+          PY
+
+      - name: Open issue if amendments found
+        if: steps.diff.outputs.has_changes == 'true'
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          gh issue create \
+            --title "$(cat issue-title.txt)" \
+            --body-file issue-body.md \
+            --label "law-change"
+
+      - name: Persist watcher state
+        if: steps.diff.outputs.has_changes == 'true'
+        run: |
+          git config user.name "law-watcher-bot"
+          git config user.email "noreply@github.com"
+          git add .watcher-state/
+          git commit -m "Update law-watcher state for ${{ matrix.feed.name }}"
+          git push

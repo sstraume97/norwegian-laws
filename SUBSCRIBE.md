@@ -55,40 +55,40 @@ Most modern feed readers accept Atom 1.0. Paste the feed URL into:
 
 ## GitHub Actions
 
-React to a change in a specific law within your own repository:
+React to law changes from inside your own GitHub repository.
+
+**The easiest path: copy the [reusable workflow template](https://github.com/sondreskarsten/norwegian-laws/blob/main/examples/github-action-watcher/.github/workflows/watch-norwegian-laws.yml)** and edit the `feeds:` matrix. It polls Atom feeds every weekday morning, opens a GitHub Issue when amendments are found (with affected paragraphs broken out as `<category>` elements), and persists state so it never refires for the same amendment.
 
 ```yaml
-name: Notify when regnskapsloven changes
-on:
-  schedule:
-    - cron: '0 7 * * 1'  # Every Monday after the weekly update
+matrix:
+  feed:
+    - name: "Regnskapsloven"
+      url: "https://sondreskarsten.github.io/norwegian-laws/feeds/lov-1998-07-17-56.xml"
+    - name: "Skatteloven"
+      url: "https://sondreskarsten.github.io/norwegian-laws/feeds/lov-1999-03-26-14.xml"
+    # … as many as you like
+```
 
-jobs:
-  check:
-    runs-on: ubuntu-latest
-    steps:
-      - name: Fetch feed
-        id: feed
-        run: |
-          curl -s https://sondreskarsten.github.io/norwegian-laws/feeds/lov-1998-07-17-56.xml \
-            > feed.xml
-          # Get the most recent entry's updated date
-          LATEST=$(xmllint --xpath '//*[local-name()="entry"][1]/*[local-name()="updated"]/text()' feed.xml)
-          echo "latest=$LATEST" >> $GITHUB_OUTPUT
+See [examples/github-action-watcher/](https://github.com/sondreskarsten/norwegian-laws/tree/main/examples/github-action-watcher) for the full workflow file and per-feed setup guide.
 
-      - name: Compare to last known
-        run: |
-          if [ "${{ steps.feed.outputs.latest }}" != "$(cat .last-amendment 2>/dev/null)" ]; then
-            echo "${{ steps.feed.outputs.latest }}" > .last-amendment
-            echo "CHANGED=true" >> $GITHUB_ENV
-          fi
+For ad-hoc one-off checks (e.g. notify Slack instead of opening an issue), the inline approach still works:
 
-      - name: Notify Slack
-        if: env.CHANGED == 'true'
-        uses: rtCamp/action-slack-notify@v2
-        env:
-          SLACK_WEBHOOK: ${{ secrets.SLACK_WEBHOOK }}
-          SLACK_MESSAGE: "Regnskapsloven was amended. Check the feed."
+```yaml
+- name: Fetch and diff feed
+  run: |
+    curl -s https://sondreskarsten.github.io/norwegian-laws/feeds/lov-1998-07-17-56.xml > feed.xml
+    LATEST=$(xmllint --xpath '//*[local-name()="entry"][1]/*[local-name()="updated"]/text()' feed.xml)
+    if [ "$LATEST" != "$(cat .last-amendment 2>/dev/null)" ]; then
+      echo "$LATEST" > .last-amendment
+      echo "CHANGED=true" >> $GITHUB_ENV
+    fi
+
+- name: Notify Slack
+  if: env.CHANGED == 'true'
+  uses: rtCamp/action-slack-notify@v2
+  env:
+    SLACK_WEBHOOK: ${{ secrets.SLACK_WEBHOOK }}
+    SLACK_MESSAGE: "Regnskapsloven was amended. Check the feed."
 ```
 
 ## Watch a file in this repo (GitHub UI)
