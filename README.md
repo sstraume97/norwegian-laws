@@ -1,8 +1,20 @@
-# Norges Lover
+<p align="center">
+  <img src="assets/banner.svg" alt="Norges Lover — a Git-versioned changelog for Norwegian law" width="100%">
+</p>
 
 **A Git-versioned changelog for Norwegian law.** Every amendment to every law and every central regulation, parsed, diffable, and subscribable — so you can track regulatory changes the way developers track code changes.
 
 **[Browse the site →](https://sondreskarsten.github.io/norwegian-laws/)** · **[Atom feeds →](https://sondreskarsten.github.io/norwegian-laws/feeds/)** · **[Law history →](https://github.com/sondreskarsten/norwegian-laws/tree/law-history)**
+
+<p>
+  <a href="https://github.com/sondreskarsten/norwegian-laws/actions/workflows/deploy.yml"><img alt="Build" src="https://github.com/sondreskarsten/norwegian-laws/actions/workflows/deploy.yml/badge.svg"></a>
+  <a href="https://github.com/sondreskarsten/norwegian-laws/commits/main"><img alt="Last commit" src="https://img.shields.io/github/last-commit/sondreskarsten/norwegian-laws?label=updated&color=2780e3"></a>
+  <img alt="Coverage" src="https://img.shields.io/badge/coverage-4%2C204_documents-2780e3">
+  <img alt="Amendments" src="https://img.shields.io/badge/dated_amendments-31%2C459-ba0c2f">
+  <img alt="Feeds" src="https://img.shields.io/badge/atom_feeds-2%2C627-7a92b8">
+  <a href="LICENSE"><img alt="License" src="https://img.shields.io/badge/code-MIT-success"></a>
+  <img alt="Data license" src="https://img.shields.io/badge/data-NLOD_2.0-blue">
+</p>
 
 ```diff
 # Amendment to regnskapsloven from LOV-2024-06-21-42 (bærekraftsrapportering)
