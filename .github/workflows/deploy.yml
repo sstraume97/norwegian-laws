@@ -93,6 +93,14 @@ jobs:
             echo "changed=true" >> $GITHUB_OUTPUT
           fi
 
+      - name: Upload snapshot for deploy-book
+        uses: actions/upload-artifact@v4
+        with:
+          name: snapshot
+          path: snapshot/amendments.db
+          retention-days: 1
+          if-no-files-found: error
+
   deploy-book:
     needs: update-laws
     if: always()
@@ -110,6 +118,12 @@ jobs:
         run: pip install -e lovdata-publisher/
 
       - uses: quarto-dev/quarto-actions/setup@v2
+
+      - name: Download snapshot from update-laws
+        uses: actions/download-artifact@v4
+        with:
+          name: snapshot
+          path: snapshot/
 
       - name: Render book
         run: quarto render
