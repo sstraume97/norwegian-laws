@@ -94,7 +94,7 @@ https://sondreskarsten.github.io/norwegian-laws/feeds/topic-arbeidsrett.xml
 https://sondreskarsten.github.io/norwegian-laws/feeds/dept-finansdepartementet.xml
 ```
 
-[Browse all feeds →](https://sondreskarsten.github.io/norwegian-laws/feeds/) · [Interactive subscribe →](https://sondreskarsten.github.io/norwegian-laws/book/abonner.html) · [How to subscribe →](SUBSCRIBE.md) · [Bulk JSONL →](https://sondreskarsten.github.io/norwegian-laws/amendments.jsonl.gz)
+[Browse all feeds →](https://sondreskarsten.github.io/norwegian-laws/feeds/) · [Interactive subscribe →](https://sondreskarsten.github.io/norwegian-laws/book/abonner.html) · [How to subscribe →](SUBSCRIBE.md) · [Bulk JSONL →](https://sondreskarsten.github.io/norwegian-laws/amendments.jsonl.gz) · [Python example →](examples/python-consumer/)
 
 ### 2. Trigger automation when the law changes
 
