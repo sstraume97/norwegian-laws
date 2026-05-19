@@ -63,12 +63,15 @@ jobs:
       - name: Generate per-law, per-topic, and per-ministry Atom feeds
         run: lovdata-publish --feeds-only --snapshot snapshot --output . --site-dir .
 
+      - name: Update 'Recent amendments' section in README
+        run: python -m lovdata_publisher.readme_updater README.md snapshot/amendments.db
+
       - name: Commit law updates
         id: commit
         run: |
           git config user.name "Lovtidend"
           git config user.email "lovtidend@lovdata.no"
-          git add lover/ forskrifter/ book/ _quarto.yml index.qmd laws.json feed.xml feeds/
+          git add lover/ forskrifter/ book/ _quarto.yml index.qmd laws.json feed.xml feeds/ README.md
           git rm -r --cached historie/ 2>/dev/null || true
           git add historie/
           if git diff --staged --quiet; then

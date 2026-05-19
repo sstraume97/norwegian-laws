@@ -21,6 +21,23 @@
 
 That diff is real, reachable via `git log -p -- lover/lov-1998-07-17-56.md` once you've cloned the [`law-history`](https://github.com/sondreskarsten/norwegian-laws/tree/law-history) branch. Every legislative change since 2001 is a backdated git commit with the commit date matching the actual ikrafttredelse from Norsk Lovtidend.
 
+## Recent amendments
+
+The 8 most recently published amendments from Norsk Lovtidend, auto-updated weekly:
+
+<!-- RECENT_AMENDMENTS_START -->
+| Date | Amendment | Targets |
+|---|---|---|
+| 2026-05-18 | Sjøfartskortforskriften | [`forskrift/2011-12-22-1523`](https://sondreskarsten.github.io/norwegian-laws/forskrifter/forskrift-2011-12-22-1523.html) [`forskrift/1988-11-25-940`](https://sondreskarsten.github.io/norwegian-laws/forskrifter/forskrift-1988-11-25-940.html) |
+| 2026-05-18 | Endr. i utlendingsforskriften | [`forskrift/2009-10-15-1286`](https://sondreskarsten.github.io/norwegian-laws/forskrifter/forskrift-2009-10-15-1286.html) |
+| 2026-05-18 | Endr. i privatskoleforskrifta | [`forskrift/2024-06-03-901`](https://sondreskarsten.github.io/norwegian-laws/forskrifter/forskrift-2024-06-03-901.html) |
+| 2026-05-18 | Forskrift om endring i økonomiforskrift til privatskolelova | [`forskrift/2018-09-01-1295`](https://sondreskarsten.github.io/norwegian-laws/forskrifter/forskrift-2018-09-01-1295.html) |
+| 2026-05-18 | Forskrift om endring i forskrift til privatskolelova kapittel 6A | [`forskrift/2020-11-23-2476`](https://sondreskarsten.github.io/norwegian-laws/forskrifter/forskrift-2020-11-23-2476.html) |
+| 2026-05-18 | Forskrift om endring i forskrift om stenging av områder for fiske e… | [`forskrift/2026-04-09-579`](https://sondreskarsten.github.io/norwegian-laws/forskrifter/forskrift-2026-04-09-579.html) |
+| 2026-05-18 | Forskrift om endring i forskrift om regulering av fisket etter tors… | [`forskrift/2025-12-19-2826`](https://sondreskarsten.github.io/norwegian-laws/forskrifter/forskrift-2025-12-19-2826.html) |
+| 2026-05-18 | Endr. i deltakerforskriften 2026 | [`forskrift/2025-12-19-2811`](https://sondreskarsten.github.io/norwegian-laws/forskrifter/forskrift-2025-12-19-2811.html) |
+<!-- RECENT_AMENDMENTS_END -->
+
 ---
 
 ## Who this is for
