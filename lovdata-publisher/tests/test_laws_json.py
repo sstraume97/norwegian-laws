@@ -85,3 +85,59 @@ def test_generate_subscribe_page_creates_qmd(tmp_path):
     assert "dept-finansdepartementet.xml" in text
     # External SUBSCRIBE.md reference
     assert "SUBSCRIBE.md" in text
+
+
+def test_amendment_counts_propagate_to_laws_json(tmp_path):
+    """When amendment_counts dict is passed, each entry gets an 'amendments' field."""
+    from lovdata_publisher.quarto import generate_laws_json
+
+    lover = tmp_path / "lover"
+    lover.mkdir()
+    (lover / "lov-1998-07-17-56.md").write_text(
+        '---\n'
+        'refid: "lov/1998-07-17-56"\n'
+        'tittel: "Regnskapsloven"\n'
+        'korttittel: "Regnskapsloven"\n'
+        '---\n',
+        encoding="utf-8",
+    )
+    (lover / "lov-2024-01-01-1.md").write_text(
+        '---\n'
+        'refid: "lov/2024-01-01-1"\n'
+        'tittel: "Ny lov"\n'
+        '---\n',
+        encoding="utf-8",
+    )
+
+    out = tmp_path / "laws.json"
+    counts = {"lov/1998-07-17-56": 42}
+    result = generate_laws_json(
+        lover_dir=str(lover),
+        output_path=str(out),
+        amendment_counts=counts,
+    )
+    by_refid = {e["refid"]: e for e in result}
+    assert by_refid["lov/1998-07-17-56"]["amendments"] == 42
+    # Law not in counts dict → 0, not missing
+    assert by_refid["lov/2024-01-01-1"]["amendments"] == 0
+
+
+def test_amendment_counts_optional(tmp_path):
+    """When amendment_counts not provided, 'amendments' is still present (0)."""
+    from lovdata_publisher.quarto import generate_laws_json
+
+    lover = tmp_path / "lover"
+    lover.mkdir()
+    (lover / "lov-1998-07-17-56.md").write_text(
+        '---\n'
+        'refid: "lov/1998-07-17-56"\n'
+        'tittel: "Regnskapsloven"\n'
+        '---\n',
+        encoding="utf-8",
+    )
+    out = tmp_path / "laws.json"
+    result = generate_laws_json(
+        lover_dir=str(lover),
+        output_path=str(out),
+    )
+    assert result[0]["amendments"] == 0

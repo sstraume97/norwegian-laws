@@ -209,9 +209,19 @@ def get_amendment_stats_by_year(db_path: str) -> dict[str, dict]:
 
 
 def generate_laws_json(lover_dir: str, output_path: str, version_tags: list[str] = None,
-                       forskrifter_dir: str | None = None) -> list[dict]:
+                       forskrifter_dir: str | None = None,
+                       amendment_counts: dict[str, int] | None = None) -> list[dict]:
+    """Write laws.json.
+
+    amendment_counts: optional {refid: n_amendments} dict. When provided,
+    each entry gets an "amendments" field showing how many amendments
+    that law has received since 2001. Useful for downstream consumers
+    picking which laws to actively monitor.
+    """
     if version_tags is None:
         version_tags = [f"v{y}" for y in range(2001, 2027)]
+    if amendment_counts is None:
+        amendment_counts = {}
     laws = []
 
     def _add_entries(src_dir: str, kind: str):
@@ -249,6 +259,7 @@ def generate_laws_json(lover_dir: str, output_path: str, version_tags: list[str]
                 "lovdata": f"https://lovdata.no/dokument/{lovdata_kind}/{refid}",
                 "log": f"{GITHUB_BASE}/commits/{HISTORY_BRANCH}/{gh_dir}/{f.name}",
                 "tags": tags,
+                "amendments": amendment_counts.get(refid, 0),
             })
 
     _add_entries(lover_dir, "lov")
@@ -662,10 +673,30 @@ def generate_quarto_config(repo_root: str, lover_dir: str = "lover", forskrifter
     if version_tags is None:
         version_tags = [f"v{y}" for y in range(2001, 2027)]
 
+    # Amendment counts per law refid (for enriching laws.json)
+    amendment_counts = {}
+    if db_path and os.path.exists(db_path):
+        try:
+            import sqlite3
+            conn = sqlite3.connect(db_path)
+            rows = conn.execute(
+                """
+                SELECT target_law, COUNT(DISTINCT act_refid) AS n
+                FROM amendments
+                WHERE target_law IS NOT NULL AND target_law != ''
+                GROUP BY target_law
+                """
+            ).fetchall()
+            amendment_counts = {tl: n for tl, n in rows}
+            conn.close()
+        except Exception as e:
+            print(f"  could not compute amendment counts: {e}")
+
     # Generate laws.json (lover + forskrifter)
     laws_json_path = os.path.join(repo_root, "laws.json")
     generate_laws_json(full_lover, laws_json_path, version_tags,
-                       forskrifter_dir=full_forskrifter if os.path.isdir(full_forskrifter) else None)
+                       forskrifter_dir=full_forskrifter if os.path.isdir(full_forskrifter) else None,
+                       amendment_counts=amendment_counts)
 
     # Generate search + diff + abonner pages
     generate_search_page(book_dir)
