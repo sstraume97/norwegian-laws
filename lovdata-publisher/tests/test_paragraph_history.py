@@ -349,3 +349,69 @@ def test_current_text_skipped_when_law_markdown_missing(tmp_path, monkeypatch):
     assert '<section class="current-text">' not in page
     # But the amendments section is still there
     assert "Endringer" in page
+
+
+def test_neighbor_navigation_between_paragraph_pages(tmp_path, monkeypatch):
+    """Each paragraph history page should link to prev/next paragraph in canonical
+    (chapter, paragraph, letter) order."""
+    db = tmp_path / "amendments.db"
+    conn = sqlite3.connect(db)
+    conn.execute("""
+        CREATE TABLE amendment_acts (
+            refid TEXT, filename TEXT, title TEXT, short_title TEXT,
+            date_in_force TEXT, date_in_force_resolved TEXT,
+            date_published TEXT, ministry TEXT, changes_to TEXT,
+            journal_number TEXT, misc_info TEXT
+        )
+    """)
+    conn.execute("""
+        CREATE TABLE amendments (
+            id INTEGER, act_refid TEXT, change_type TEXT,
+            target TEXT, target_law TEXT, instruction TEXT, new_text TEXT
+        )
+    """)
+    conn.execute(
+        "INSERT INTO amendment_acts VALUES (?,?,?,?,?,?,?,?,?,?,?)",
+        ('lov/2024-06-21-42', 'a.xml', 'X', 'X', '2024-11-01', '2024-11-01',
+         '2024-06-21', 'FIN', 'lov/1998-07-17-56', '2024-0042', ''),
+    )
+    # Three paragraphs in non-canonical insert order to verify sorting
+    conn.executemany(
+        "INSERT INTO amendments VALUES (?,?,?,?,?,?,?)",
+        [
+            (1, 'lov/2024-06-21-42', 'change', '§ 7-25', 'lov/1998-07-17-56', '§ 7-25', ''),
+            (2, 'lov/2024-06-21-42', 'change', '§ 1-2', 'lov/1998-07-17-56', '§ 1-2', ''),
+            (3, 'lov/2024-06-21-42', 'change', '§ 1-2a', 'lov/1998-07-17-56', '§ 1-2a', ''),
+            (4, 'lov/2024-06-21-42', 'change', '§ 1-3', 'lov/1998-07-17-56', '§ 1-3', ''),
+        ],
+    )
+    conn.commit()
+    conn.close()
+
+    monkeypatch.chdir(tmp_path)
+    lover = Path("lover")
+    lover.mkdir()
+    (lover / "lov-1998-07-17-56.md").write_text(
+        '---\nrefid: "lov/1998-07-17-56"\ntittel: "X"\n---\n',
+        encoding="utf-8",
+    )
+
+    out = tmp_path / "out"
+    generate_paragraph_history_pages(db_path=str(db), output_dir=str(out))
+
+    # § 1-2a should be between § 1-2 and § 1-3 in canonical order
+    page_12a = (out / "lov-1998-07-17-56" / "para-1-2a.html").read_text(encoding="utf-8")
+    assert 'href="para-1-2.html"' in page_12a
+    assert "← § 1-2" in page_12a
+    assert 'href="para-1-3.html"' in page_12a
+    assert "§ 1-3 →" in page_12a
+
+    # § 1-2 (first) should have no prev, only next
+    page_12 = (out / "lov-1998-07-17-56" / "para-1-2.html").read_text(encoding="utf-8")
+    assert "prev-para" not in page_12  # No prev link
+    assert "§ 1-2a →" in page_12
+
+    # § 7-25 (last) should have no next
+    page_725 = (out / "lov-1998-07-17-56" / "para-7-25.html").read_text(encoding="utf-8")
+    assert "← § 1-3" in page_725
+    assert "next-para" not in page_725  # No next link

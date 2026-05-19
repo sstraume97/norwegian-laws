@@ -114,6 +114,8 @@ h1 {{ font-size: 1.6rem; border-bottom: 2px solid #dee2e6; padding-bottom: 0.4re
 
 {amendments_html}
 
+{neighbor_nav}
+
 <footer style="margin-top:3rem;padding-top:1rem;border-top:1px solid #dee2e6;color:#6c757d;font-size:0.85rem;">
   Generert {generated}. Kilde: Lovdata API (NLOD 2.0).
 </footer>
@@ -280,6 +282,57 @@ def generate_paragraph_history_pages(
             para_text_cache[law_refid] = _build_paragraph_text_map(law_refid)
         return para_text_cache[law_refid].get(paragraph)
 
+    # Precompute paragraph ordering per law so each history page can show
+    # prev/next navigation. We use the canonical (chapter, paragraph,
+    # letter-suffix) order, not the alphabetical slug order.
+    def _para_sort_key(p: str) -> tuple:
+        """'§ 7-25a' → (7, 25, 'a'). For prev/next, group by chapter, then number, then letter."""
+        m = re.match(r'§\s*(\d+)-(\d+)([a-z]?)', p)
+        if not m:
+            return (9999, 9999, '')
+        return (int(m.group(1)), int(m.group(2)), m.group(3) or '')
+
+    paragraphs_per_law: dict[str, list[str]] = defaultdict(list)
+    for (law_refid, paragraph), _ in grouped.items():
+        if len(grouped[(law_refid, paragraph)]) >= min_amendments:
+            paragraphs_per_law[law_refid].append(paragraph)
+    for lr in paragraphs_per_law:
+        paragraphs_per_law[lr].sort(key=_para_sort_key)
+
+    def neighbor_nav(law_refid: str, paragraph: str, law_stem: str) -> str:
+        plist = paragraphs_per_law.get(law_refid, [])
+        try:
+            i = plist.index(paragraph)
+        except ValueError:
+            return ""
+        prev_link = next_link = ""
+        if i > 0:
+            prev_para = plist[i - 1]
+            prev_slug = _paragraph_slug(prev_para)
+            prev_link = (
+                f'<a class="prev-para" href="{prev_slug}.html" '
+                f'style="color:#2780e3;text-decoration:none;">'
+                f'← {html.escape(prev_para)}</a>'
+            )
+        if i < len(plist) - 1:
+            nxt_para = plist[i + 1]
+            nxt_slug = _paragraph_slug(nxt_para)
+            next_link = (
+                f'<a class="next-para" href="{nxt_slug}.html" '
+                f'style="color:#2780e3;text-decoration:none;">'
+                f'{html.escape(nxt_para)} →</a>'
+            )
+        if not prev_link and not next_link:
+            return ""
+        return (
+            f'<nav class="neighbor-nav" '
+            f'style="display:flex;justify-content:space-between;margin:1.5rem 0 0;'
+            f'padding:0.6rem 1rem;background:#f8f9fa;border-radius:4px;font-size:0.95rem;">'
+            f'<span>{prev_link}</span>'
+            f'<span>{next_link}</span>'
+            f'</nav>'
+        )
+
     for (law_refid, paragraph), amendments in grouped.items():
         if len(amendments) < min_amendments:
             continue
@@ -296,6 +349,8 @@ def generate_paragraph_history_pages(
         law_dir.mkdir(parents=True, exist_ok=True)
 
         canonical_url = f"{SITE_BASE}/historikk/{law_stem}/{para_slug}.html"
+
+        neighbor_nav_html = neighbor_nav(law_refid, paragraph, law_stem)
 
         current = current_text_for(law_refid, paragraph)
         if current:
@@ -356,6 +411,7 @@ def generate_paragraph_history_pages(
             site_base=SITE_BASE,
             current_text_block=current_text_block,
             amendments_html="\n".join(amendments_html_parts),
+            neighbor_nav=neighbor_nav_html,
             generated=now,
         )
         (law_dir / f"{para_slug}.html").write_text(page, encoding="utf-8")
