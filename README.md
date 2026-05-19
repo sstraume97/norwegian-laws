@@ -35,9 +35,21 @@ That diff is real, reachable via `git log -p -- lover/lov-1998-07-17-56.md` once
 
 ## Recent amendments
 
-The 8 most recently published amendments from Norsk Lovtidend, auto-updated weekly:
+The most recently published lover and forskrifter from Norsk Lovtidend, auto-updated weekly:
 
 <!-- RECENT_AMENDMENTS_START -->
+**Lover (endringslover):**
+
+| Date | Amendment | Targets |
+|---|---|---|
+| 2026-05-12 | Endringslov til straffegjennomføringsloven mv. | [`lov/1980-06-13-35`](https://sondreskarsten.github.io/norwegian-laws/lover/lov-1980-06-13-35.html) [`lov/2001-05-18-21`](https://sondreskarsten.github.io/norwegian-laws/lover/lov-2001-05-18-21.html) [`lov/2011-06-24-30`](https://sondreskarsten.github.io/norwegian-laws/lover/lov-2011-06-24-30.html) |
+| 2026-05-07 | Endringslov til lov om supplerande stønad ved kort butid | [`lov/2005-04-29-21`](https://sondreskarsten.github.io/norwegian-laws/lover/lov-2005-04-29-21.html) |
+| 2026-05-07 | Endringslov til foretakspensjonsloven og forsikringsvirksomhetsloven | [`lov/2000-03-24-16`](https://sondreskarsten.github.io/norwegian-laws/lover/lov-2000-03-24-16.html) [`lov/2005-06-10-44`](https://sondreskarsten.github.io/norwegian-laws/lover/lov-2005-06-10-44.html) |
+| 2026-05-07 | Endringslov til domstolloven mv. | [`lov/1915-08-13-5`](https://sondreskarsten.github.io/norwegian-laws/lover/lov-1915-08-13-5.html) [`lov/1959-12-18-1`](https://sondreskarsten.github.io/norwegian-laws/lover/lov-1959-12-18-1.html) [`lov/1981-05-22-25`](https://sondreskarsten.github.io/norwegian-laws/lover/lov-1981-05-22-25.html) … |
+| 2026-04-10 | Endringslov til sikkerhetsloven | [`lov/2018-06-01-24`](https://sondreskarsten.github.io/norwegian-laws/lover/lov-2018-06-01-24.html) |
+
+**Forskrifter:**
+
 | Date | Amendment | Targets |
 |---|---|---|
 | 2026-05-18 | Sjøfartskortforskriften | [`forskrift/2011-12-22-1523`](https://sondreskarsten.github.io/norwegian-laws/forskrifter/forskrift-2011-12-22-1523.html) [`forskrift/1988-11-25-940`](https://sondreskarsten.github.io/norwegian-laws/forskrifter/forskrift-1988-11-25-940.html) |
@@ -45,9 +57,6 @@ The 8 most recently published amendments from Norsk Lovtidend, auto-updated week
 | 2026-05-18 | Endr. i privatskoleforskrifta | [`forskrift/2024-06-03-901`](https://sondreskarsten.github.io/norwegian-laws/forskrifter/forskrift-2024-06-03-901.html) |
 | 2026-05-18 | Forskrift om endring i økonomiforskrift til privatskolelova | [`forskrift/2018-09-01-1295`](https://sondreskarsten.github.io/norwegian-laws/forskrifter/forskrift-2018-09-01-1295.html) |
 | 2026-05-18 | Forskrift om endring i forskrift til privatskolelova kapittel 6A | [`forskrift/2020-11-23-2476`](https://sondreskarsten.github.io/norwegian-laws/forskrifter/forskrift-2020-11-23-2476.html) |
-| 2026-05-18 | Forskrift om endring i forskrift om stenging av områder for fiske e… | [`forskrift/2026-04-09-579`](https://sondreskarsten.github.io/norwegian-laws/forskrifter/forskrift-2026-04-09-579.html) |
-| 2026-05-18 | Forskrift om endring i forskrift om regulering av fisket etter tors… | [`forskrift/2025-12-19-2826`](https://sondreskarsten.github.io/norwegian-laws/forskrifter/forskrift-2025-12-19-2826.html) |
-| 2026-05-18 | Endr. i deltakerforskriften 2026 | [`forskrift/2025-12-19-2811`](https://sondreskarsten.github.io/norwegian-laws/forskrifter/forskrift-2025-12-19-2811.html) |
 <!-- RECENT_AMENDMENTS_END -->
 
 ---

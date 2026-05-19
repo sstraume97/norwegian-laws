@@ -44,7 +44,7 @@ def _make_db(tmp_path):
 
 def test_build_recent_block_returns_table(tmp_path):
     db = _make_db(tmp_path)
-    block = build_recent_block(str(db), limit=2)
+    block = build_recent_block(str(db), limit_lover=2, limit_forskrift=2)
     assert "| Date | Amendment | Targets |" in block
     assert "Newest" in block
     assert "Older" in block
@@ -54,11 +54,12 @@ def test_build_recent_block_returns_table(tmp_path):
 
 def test_build_recent_block_orders_newest_first(tmp_path):
     db = _make_db(tmp_path)
-    block = build_recent_block(str(db), limit=3)
-    lines = block.splitlines()
-    # First data row should be 2026-05-15 (Newest)
-    assert "2026-05-15" in lines[2]
-    assert "Newest" in lines[2]
+    block = build_recent_block(str(db), limit_lover=3, limit_forskrift=3)
+    # Newest amendment should appear before older one in the rendered block
+    newest_pos = block.find("Newest")
+    older_pos = block.find("Older")
+    assert newest_pos > 0
+    assert older_pos > newest_pos
 
 
 def test_build_recent_block_truncates_long_titles(tmp_path):

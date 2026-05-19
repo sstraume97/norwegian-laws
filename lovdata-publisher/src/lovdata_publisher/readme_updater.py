@@ -28,52 +28,73 @@ def _law_url(refid: str) -> str:
     return base
 
 
-def build_recent_block(db_path: str, limit: int = 8) -> str:
-    """Return Markdown block of the N most recent amendment acts."""
+def build_recent_block(db_path: str, limit_lover: int = 5, limit_forskrift: int = 5) -> str:
+    """Return Markdown block of recent amendment acts, split lover vs forskrifter.
+
+    Tax advisors, auditors, and compliance teams generally care more about
+    formal lover than forskrifter, so we surface the most recent lover first
+    and follow with the most recent forskrifter.
+    """
     conn = sqlite3.connect(db_path)
     conn.row_factory = sqlite3.Row
-    rows = conn.execute(
-        """
-        SELECT refid, title, short_title, date_published,
-               date_in_force, date_in_force_resolved, ministry, changes_to
-        FROM amendment_acts
-        WHERE date_published IS NOT NULL AND date_published != ''
-        ORDER BY date_published DESC, date_in_force_resolved DESC
-        LIMIT ?
-        """,
-        (limit,),
-    ).fetchall()
+
+    def fetch(kind_prefix: str, limit: int) -> list:
+        return conn.execute(
+            """
+            SELECT refid, title, short_title, date_published,
+                   date_in_force, date_in_force_resolved, ministry, changes_to
+            FROM amendment_acts
+            WHERE date_published IS NOT NULL AND date_published != ''
+                  AND refid LIKE ?
+                  AND changes_to LIKE ?
+            ORDER BY date_published DESC, date_in_force_resolved DESC
+            LIMIT ?
+            """,
+            (f"{kind_prefix}/%", f"{kind_prefix}/%", limit),
+        ).fetchall()
+
+    lover_rows = fetch("lov", limit_lover)
+    forskrift_rows = fetch("forskrift", limit_forskrift)
     conn.close()
 
-    lines = ["| Date | Amendment | Targets |", "|---|---|---|"]
-    for row in rows:
-        date = row["date_published"][:10] if row["date_published"] else "—"
-        title = row["short_title"] or row["title"] or row["refid"]
-        # Truncate long titles
-        if len(title) > 70:
-            title = title[:67] + "…"
-        title_md = title.replace("|", "\\|")
+    def render_table(rows) -> list[str]:
+        lines = ["| Date | Amendment | Targets |", "|---|---|---|"]
+        for row in rows:
+            date = row["date_published"][:10] if row["date_published"] else "—"
+            title = row["short_title"] or row["title"] or row["refid"]
+            if len(title) > 70:
+                title = title[:67] + "…"
+            title_md = title.replace("|", "\\|")
+            targets = (row["changes_to"] or "").split(",")
+            target_links = []
+            seen = set()
+            for t in targets[:3]:
+                t = t.strip()
+                if not t or t in seen:
+                    continue
+                seen.add(t)
+                target_links.append(f"[`{t}`]({_law_url(t)})")
+            if len([t for t in targets if t.strip()]) > 3:
+                target_links.append("…")
+            targets_md = " ".join(target_links) if target_links else "—"
+            lines.append(f"| {date} | {title_md} | {targets_md} |")
+        return lines
 
-        targets = (row["changes_to"] or "").split(",")
-        target_links = []
-        seen = set()
-        for t in targets[:3]:
-            t = t.strip()
-            if not t or t in seen:
-                continue
-            seen.add(t)
-            stem = t.replace("/", "-")
-            target_links.append(f"[`{t}`]({_law_url(t)})")
-        if len(targets) > 3:
-            target_links.append("…")
-        targets_md = " ".join(target_links) if target_links else "—"
+    sections = []
+    if lover_rows:
+        sections.append("**Lover (endringslover):**")
+        sections.append("")
+        sections.extend(render_table(lover_rows))
+        sections.append("")
+    if forskrift_rows:
+        sections.append("**Forskrifter:**")
+        sections.append("")
+        sections.extend(render_table(forskrift_rows))
 
-        lines.append(f"| {date} | {title_md} | {targets_md} |")
-
-    return "\n".join(lines)
+    return "\n".join(sections)
 
 
-def update_readme(readme_path: str, db_path: str, limit: int = 8) -> bool:
+def update_readme(readme_path: str, db_path: str, limit_lover: int = 5, limit_forskrift: int = 5) -> bool:
     """Replace content between markers in README.md. Returns True if changed."""
     path = Path(readme_path)
     if not path.exists():
@@ -88,7 +109,7 @@ def update_readme(readme_path: str, db_path: str, limit: int = 8) -> bool:
         print(f"  Markers not found in {path}, skipping")
         return False
 
-    block = build_recent_block(db_path, limit=limit)
+    block = build_recent_block(db_path, limit_lover=limit_lover, limit_forskrift=limit_forskrift)
     replacement = f"{START_MARKER}\n{block}\n{END_MARKER}"
     pattern = re.escape(START_MARKER) + r".*?" + re.escape(END_MARKER)
     new_text = re.sub(pattern, replacement, original, flags=re.DOTALL)
