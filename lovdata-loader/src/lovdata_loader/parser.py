@@ -124,6 +124,8 @@ def _parse_law_metadata(soup: BeautifulSoup) -> dict:
     if not header:
         return {}
     last_amended, last_amended_in_force = extract_last_changed_by(header)
+    if not last_amended_in_force:
+        last_amended_in_force = extract_header_field(header, "lastChangeInForce")
     return {
         "refid": extract_header_field(header, "refid"),
         "title": extract_header_field(header, "title"),
