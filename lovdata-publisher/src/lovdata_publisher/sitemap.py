@@ -22,6 +22,7 @@ def generate_sitemap(
     forskrifter_dir: str = "forskrifter",
     historie_dir: str = "historie",
     feeds_dir: str = "feeds",
+    historikk_dir: str = "_site/historikk",
 ) -> int:
     """Generate sitemap.xml + robots.txt. Returns number of URLs."""
     root = Path(repo_root)
@@ -62,6 +63,19 @@ def generate_sitemap(
     if f_src.is_dir():
         for xml_file in sorted(f_src.glob("*.xml")):
             add(f"{SITE_BASE}/feeds/{xml_file.name}", 0.4, "weekly")
+
+    # Per-paragraph history pages (e.g. /historikk/lov-1998-07-17-56/para-7-25.html)
+    historikk_src = Path(historikk_dir)
+    if historikk_src.is_dir():
+        for law_dir in sorted(historikk_src.iterdir()):
+            if not law_dir.is_dir():
+                continue
+            for page in sorted(law_dir.glob("*.html")):
+                add(
+                    f"{SITE_BASE}/historikk/{law_dir.name}/{page.name}",
+                    0.5,
+                    "monthly",
+                )
 
     # Write sitemap.xml
     lines = [

@@ -1,0 +1,268 @@
+"""Generate per-(law, paragraph) amendment history pages.
+
+For each (target_law, paragraph) pair that has at least one amendment,
+write a small HTML page listing every amendment with its date, instruction
+preview, and a link to the changing act. URL: /historikk/{law-stem}/{§-slug}.html
+
+Lets users link directly to "every change to § 7-25 in regnskapsloven"
+instead of scrolling the full law historie page or filtering an Atom feed.
+"""
+from __future__ import annotations
+
+import html
+import re
+import sqlite3
+from collections import defaultdict
+from datetime import datetime, timezone
+from pathlib import Path
+
+SITE_BASE = "https://sondreskarsten.github.io/norwegian-laws"
+
+
+_PARA_RE = re.compile(r'§\s*(\d+\s*[-–]\s*\d+(?:[a-z](?=$|[^a-zæøåA-ZÆØÅ]))?)')
+
+
+def _normalize_paragraph(target: str, instruction: str = "") -> str:
+    """Return canonical '§ X-Y' string, or empty if not a paragraph reference."""
+    text = (target or "").strip()
+    if not text or text.lower().startswith("kapittel") or text.lower().startswith("del "):
+        m = _PARA_RE.search(instruction or "")
+        if m:
+            return f"§ {re.sub(r'\\s+', '-', m.group(1).strip())}"
+        return ""
+    m = _PARA_RE.match(text)
+    if m:
+        return f"§ {re.sub(r'\\s+', '-', m.group(1).strip())}"
+    return ""
+
+
+def _paragraph_slug(paragraph: str) -> str:
+    """'§ 7-25' → 'para-7-25'."""
+    return "para-" + re.sub(r'[^a-z0-9-]', '', paragraph.lower().replace("§", "").strip().replace(" ", ""))
+
+
+def _refid_to_stem(refid: str) -> str:
+    """'lov/1998-07-17-56' → 'lov-1998-07-17-56'."""
+    return refid.replace("/", "-")
+
+
+PAGE_TEMPLATE = """<!DOCTYPE html>
+<html lang="nb">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>{paragraph} — {law_title} — endringshistorikk</title>
+<meta name="description" content="Alle endringer av {paragraph} i {law_title} siden 2001.">
+<meta property="og:site_name" content="Norges Lover"/>
+<meta property="og:type" content="article"/>
+<meta property="og:title" content="{paragraph} {law_title} — endringshistorikk"/>
+<meta property="og:description" content="{n_amendments} endringer registrert siden 2001."/>
+<meta property="og:url" content="{canonical_url}"/>
+<meta property="og:image" content="{site_base}/assets/banner.svg"/>
+<meta name="twitter:card" content="summary"/>
+<link rel="icon" type="image/svg+xml" href="/norwegian-laws/assets/favicon.svg"/>
+<link rel="canonical" href="{canonical_url}"/>
+<link rel="alternate" type="application/atom+xml" title="Atom-feed for hele loven" href="../../feeds/{law_stem}.xml"/>
+<style>
+body {{ max-width: 960px; margin: 0 auto; padding: 1.5rem; font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif; line-height: 1.6; color: #212529; }}
+nav.breadcrumb {{ background: #f8f9fa; padding: 0.5rem 1rem; border-radius: 4px; margin-bottom: 1rem; font-size: 0.9rem; }}
+nav.breadcrumb a {{ color: #2780e3; text-decoration: none; }}
+nav.breadcrumb a:hover {{ text-decoration: underline; }}
+h1 {{ font-size: 1.6rem; border-bottom: 2px solid #dee2e6; padding-bottom: 0.4rem; }}
+.intro {{ background: #f8f9fa; border-left: 3px solid #2780e3; padding: 0.75rem 1rem; margin: 1rem 0; }}
+.amendment {{ border: 1px solid #dee2e6; border-radius: 4px; padding: 0.75rem 1rem; margin: 0.8rem 0; }}
+.amendment .meta {{ color: #6c757d; font-size: 0.85rem; margin-bottom: 0.3rem; }}
+.amendment .title {{ font-weight: 600; }}
+.amendment .instruction {{ font-style: italic; color: #495057; margin-top: 0.3rem; font-size: 0.9rem; }}
+.amendment a {{ color: #2780e3; text-decoration: none; }}
+.amendment a:hover {{ text-decoration: underline; }}
+</style>
+</head>
+<body>
+<nav class="breadcrumb">
+  <a href="../../">Norges Lover</a> ›
+  <a href="../../lover/{law_stem}.html">{law_title}</a> ›
+  <a href="../../historie/{law_stem}.html">Endringshistorikk</a> ›
+  {paragraph}
+</nav>
+
+<h1>{paragraph} — endringshistorikk</h1>
+
+<div class="intro">
+  <p style="margin:0;"><strong>{law_title}</strong></p>
+  <p style="margin:0.4rem 0 0;">
+    <a href="../../lover/{law_stem}.html#{para_anchor}">Les gjeldende tekst →</a> ·
+    <a href="../../feeds/{law_stem}.xml">📡 Atom-feed for hele loven</a>
+  </p>
+</div>
+
+<p style="color:#6c757d;">{n_amendments} endring{plural} registrert siden 2001.</p>
+
+{amendments_html}
+
+<footer style="margin-top:3rem;padding-top:1rem;border-top:1px solid #dee2e6;color:#6c757d;font-size:0.85rem;">
+  Generert {generated}. Kilde: Lovdata API (NLOD 2.0).
+</footer>
+</body>
+</html>
+"""
+
+
+def generate_paragraph_history_pages(
+    db_path: str = "snapshot/amendments.db",
+    output_dir: str = "_site/historikk",
+    min_amendments: int = 1,
+) -> int:
+    """Build per-(law, paragraph) HTML pages.
+
+    Returns the number of pages written. min_amendments=1 emits a page for every
+    paragraph that has been amended at least once.
+    """
+    if not Path(db_path).exists():
+        print(f"  {db_path} not found, skipping paragraph history")
+        return 0
+
+    out_root = Path(output_dir)
+    out_root.mkdir(parents=True, exist_ok=True)
+
+    conn = sqlite3.connect(db_path)
+    conn.row_factory = sqlite3.Row
+
+    if not conn.execute(
+        "SELECT name FROM sqlite_master WHERE type='table' AND name='amendments'"
+    ).fetchone():
+        print("  amendments table missing, skipping paragraph history")
+        conn.close()
+        return 0
+
+    rows = conn.execute(
+        """
+        SELECT a.target, a.target_law, a.instruction, a.change_type,
+               ac.refid AS act_refid, ac.title AS act_title,
+               ac.short_title AS act_short_title,
+               ac.date_published, ac.date_in_force, ac.date_in_force_resolved,
+               ac.ministry, ac.journal_number
+        FROM amendments a
+        LEFT JOIN amendment_acts ac ON a.act_refid = ac.refid
+        WHERE a.target_law IS NOT NULL AND a.target_law != ''
+              AND ac.date_published IS NOT NULL
+        ORDER BY ac.date_published DESC, ac.refid DESC, a.id ASC
+        """
+    ).fetchall()
+
+    # Group by (target_law, normalized_paragraph)
+    grouped: dict[tuple[str, str], list[dict]] = defaultdict(list)
+    for r in rows:
+        para = _normalize_paragraph(r["target"] or "", r["instruction"] or "")
+        if not para:
+            continue
+        grouped[(r["target_law"], para)].append(dict(r))
+
+    # Also need law titles for display
+    law_titles: dict[str, str] = {}
+    title_rows = conn.execute(
+        "SELECT DISTINCT target_law FROM amendments WHERE target_law != ''"
+    ).fetchall()
+    conn.close()
+
+    # Load titles from markdown frontmatter (no separate laws table)
+    for kind, dir_name in [("lov", "lover"), ("forskrift", "forskrifter")]:
+        src = Path(dir_name)
+        if not src.is_dir():
+            continue
+        for md_file in src.glob("*.md"):
+            text = md_file.read_text(encoding="utf-8")
+            if not text.startswith("---"):
+                continue
+            try:
+                fm_end = text.index("\n---", 4)
+            except ValueError:
+                continue
+            fm = text[4:fm_end]
+            meta = {}
+            for line in fm.splitlines():
+                m = re.match(r'(\S+?):\s*"(.+?)"\s*$', line)
+                if m:
+                    meta[m.group(1)] = m.group(2)
+            refid = meta.get("refid")
+            if refid:
+                law_titles[refid] = meta.get("korttittel") or meta.get("tittel") or refid
+
+    now = datetime.now(timezone.utc).strftime("%Y-%m-%d")
+    n_written = 0
+
+    # Build paragraph anchor maps lazily, one per law
+    from .feeds import _build_paragraph_anchor_map
+    anchor_cache: dict[str, dict[str, str]] = {}
+
+    def anchor_for(target_law: str, paragraph: str) -> str:
+        if target_law not in anchor_cache:
+            kind, _ = target_law.split("/", 1)
+            dir_name = "lover" if kind == "lov" else "forskrifter"
+            stem = _refid_to_stem(target_law)
+            md_path = Path(dir_name) / f"{stem}.md"
+            anchor_cache[target_law] = (
+                _build_paragraph_anchor_map(md_path) if md_path.exists() else {}
+            )
+        return anchor_cache[target_law].get(paragraph, "")
+
+    for (law_refid, paragraph), amendments in grouped.items():
+        if len(amendments) < min_amendments:
+            continue
+
+        law_stem = _refid_to_stem(law_refid)
+        law_title = law_titles.get(law_refid, law_refid)
+        para_slug = _paragraph_slug(paragraph)
+        para_anchor = anchor_for(law_refid, paragraph)
+
+        # Subdir per law
+        law_dir = out_root / law_stem
+        law_dir.mkdir(parents=True, exist_ok=True)
+
+        canonical_url = f"{SITE_BASE}/historikk/{law_stem}/{para_slug}.html"
+
+        amendments_html_parts = []
+        for a in amendments:
+            act_url = f"{SITE_BASE}/lover/{_refid_to_stem(a['act_refid'])}.html"
+            if a["act_refid"].startswith("forskrift/"):
+                act_url = f"{SITE_BASE}/forskrifter/{_refid_to_stem(a['act_refid'])}.html"
+            instr_short = html.escape((a["instruction"] or "")[:200])
+            amendments_html_parts.append(
+                f'<div class="amendment">\n'
+                f'  <div class="meta">{html.escape(a["date_published"] or "")} · '
+                f'{html.escape(a["ministry"] or "")}'
+                f'{" · " + html.escape(a["journal_number"]) if a["journal_number"] else ""}'
+                f'{" · ikrafttredelse " + html.escape(a["date_in_force_resolved"]) if a["date_in_force_resolved"] else ""}'
+                f'</div>\n'
+                f'  <div class="title"><a href="{act_url}">'
+                f'{html.escape(a["act_short_title"] or a["act_title"] or a["act_refid"])}'
+                f'</a></div>\n'
+                f'  <div class="instruction">{instr_short}</div>\n'
+                f'</div>'
+            )
+
+        page = PAGE_TEMPLATE.format(
+            paragraph=html.escape(paragraph),
+            law_title=html.escape(law_title),
+            law_stem=law_stem,
+            para_slug=para_slug,
+            para_anchor=para_anchor or "",
+            n_amendments=len(amendments),
+            plural="er" if len(amendments) > 1 else "",
+            canonical_url=canonical_url,
+            site_base=SITE_BASE,
+            amendments_html="\n".join(amendments_html_parts),
+            generated=now,
+        )
+        (law_dir / f"{para_slug}.html").write_text(page, encoding="utf-8")
+        n_written += 1
+
+    print(f"  Wrote {n_written} paragraph-history pages to {output_dir}/")
+    return n_written
+
+
+if __name__ == "__main__":
+    import sys
+    db = sys.argv[1] if len(sys.argv) > 1 else "snapshot/amendments.db"
+    out = sys.argv[2] if len(sys.argv) > 2 else "_site/historikk"
+    generate_paragraph_history_pages(db_path=db, output_dir=out)

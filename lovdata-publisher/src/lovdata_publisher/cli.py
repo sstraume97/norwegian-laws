@@ -151,16 +151,6 @@ def main():
 
         print()
         print("=" * 60)
-        print("Generating sitemap.xml + robots.txt")
-        print("=" * 60)
-        from .sitemap import generate_sitemap
-        generate_sitemap(
-            repo_root=args.output,
-            site_dir=args.site_dir,
-        )
-
-        print()
-        print("=" * 60)
         print("Generating JSONL manifests (amendment-acts, amendments)")
         print("=" * 60)
         from .manifests import generate_manifests
@@ -169,6 +159,31 @@ def main():
             generate_manifests(db_path=db_path, output_dir=args.site_dir)
         else:
             print(f"  {db_path} not found, skipping manifests")
+
+        print()
+        print("=" * 60)
+        print("Generating per-paragraph history pages")
+        print("=" * 60)
+        from .paragraph_history import generate_paragraph_history_pages
+        if os.path.exists(db_path):
+            generate_paragraph_history_pages(
+                db_path=db_path,
+                output_dir=os.path.join(args.site_dir, "historikk"),
+            )
+        else:
+            print(f"  {db_path} not found, skipping paragraph history")
+
+        # Sitemap must run LAST since it indexes everything in _site/
+        print()
+        print("=" * 60)
+        print("Generating sitemap.xml + robots.txt")
+        print("=" * 60)
+        from .sitemap import generate_sitemap
+        generate_sitemap(
+            repo_root=args.output,
+            site_dir=args.site_dir,
+            historikk_dir=os.path.join(args.site_dir, "historikk"),
+        )
 
     if args.build_history:
         repo_path = args.repo_path
