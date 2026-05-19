@@ -56,7 +56,7 @@ https://sondreskarsten.github.io/norwegian-laws/feeds/topic-arbeidsrett.xml
 https://sondreskarsten.github.io/norwegian-laws/feeds/dept-finansdepartementet.xml
 ```
 
-[Browse all feeds →](https://sondreskarsten.github.io/norwegian-laws/feeds/)
+[Browse all feeds →](https://sondreskarsten.github.io/norwegian-laws/feeds/) · [How to subscribe →](SUBSCRIBE.md)
 
 ### 2. Trigger automation when the law changes
 
