@@ -131,6 +131,18 @@ jobs:
       - name: Copy laws.json to site
         run: cp laws.json _site/laws.json
 
+      - name: Copy assets to site
+        run: |
+          # Belt-and-suspenders: Quarto's project.resources should copy
+          # assets/, but in practice it didn't on this site (live verified:
+          # /assets/banner.svg returned 404 after the resources directive was
+          # added). Explicit cp avoids the issue. The 'cp -r src/. dst/'
+          # pattern (with trailing dot) prevents the nesting bug where
+          # 'cp -r assets _site/assets' produces _site/assets/assets/ when
+          # the destination already exists.
+          mkdir -p _site/assets
+          cp -r assets/. _site/assets/
+
       - name: Copy feed.xml to site
         run: cp feed.xml _site/feed.xml || true
 
