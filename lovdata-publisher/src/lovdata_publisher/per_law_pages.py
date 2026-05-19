@@ -217,6 +217,47 @@ def render_markdown_body(body: str) -> str:
     return md.markdown(body, extensions=["extra", "toc"])
 
 
+def inject_paragraph_history_links(body_html: str, law_stem: str, amended_paragraphs: set[str]) -> str:
+    """Append a small 'history' link to each paragraph header that has been
+    amended. Looks for <h4 id="X-Y-...">§ X-Y. Title</h4> and rewrites to
+    <h4 id="...">§ X-Y. Title <a class="para-history" href="...">history</a></h4>.
+
+    Only paragraphs in `amended_paragraphs` get a link, since we only generate
+    paragraph-history pages for amended paragraphs.
+    """
+    if not amended_paragraphs:
+        return body_html
+
+    def replacer(match):
+        tag = match.group(1)        # h4 or h5
+        anchor_id = match.group(2)   # 1-2a-regnskapspliktige-...
+        rest = match.group(3)        # § 1-2a. Regnskapspliktige...
+
+        # Extract paragraph number from the heading text
+        m = re.match(r"§\s*(\d+[-–]\d+[a-z]?)", rest)
+        if not m:
+            return match.group(0)
+        para = f"§ {m.group(1)}"
+        if para not in amended_paragraphs:
+            return match.group(0)
+
+        # Slug must match paragraph_history._paragraph_slug
+        para_slug = "para-" + re.sub(r'[^a-z0-9-]', '', para.lower().replace("§", "").strip().replace(" ", ""))
+        link = (
+            f' <a class="para-history" href="../historikk/{law_stem}/{para_slug}.html" '
+            f'title="Endringshistorikk for {para}" style="font-size:0.75em;font-weight:normal;'
+            f'color:#2780e3;text-decoration:none;padding-left:0.4em;">⧉ historikk</a>'
+        )
+        return f'<{tag} id="{anchor_id}">{rest}{link}</{tag}>'
+
+    # Match h4 or h5 with id="..." and content starting with § X-Y
+    pattern = re.compile(
+        r'<(h[45])\s+id="([^"]+)">(§\s*\d+[-–]\d+[a-z]?\..+?)</\1>',
+        re.DOTALL,
+    )
+    return pattern.sub(replacer, body_html)
+
+
 def strip_markdown_for_search(body: str, max_chars: int = 8000) -> str:
     text = re.sub(r"^#+ ", "", body, flags=re.MULTILINE)
     text = re.sub(r"\*([^*]+)\*", r"\1", text)
@@ -234,11 +275,14 @@ def generate_per_law_pages(
     site_dir: str = "_site",
     version_tags: list[str] | None = None,
     historie_map: dict[str, str] | None = None,
+    amended_paragraphs_map: dict[str, set[str]] | None = None,
 ) -> int:
     if version_tags is None:
         version_tags = [f"v{y}" for y in range(2001, 2027)]
     if historie_map is None:
         historie_map = {}
+    if amended_paragraphs_map is None:
+        amended_paragraphs_map = {}
 
     count = 0
     for source_subdir, output_subdir in [(lover_dir, "lover"), (forskrifter_dir, "forskrifter")]:
@@ -269,6 +313,10 @@ def generate_per_law_pages(
 
             body_html = render_markdown_body(body)
             body_html = insert_cross_reference_links(body_html, korttittel_index, xref_pattern, md_file.stem)
+            # Append a small "history" link next to each amended paragraph header
+            amended = amended_paragraphs_map.get(refid, set())
+            if amended:
+                body_html = inject_paragraph_history_links(body_html, md_file.stem, amended)
             filename = md_file.name
             if refid.startswith("forskrift/"):
                 github_blob = f"{GITHUB_BASE}/blob/main/forskrifter/{filename}"

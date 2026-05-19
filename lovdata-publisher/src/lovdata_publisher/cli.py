@@ -122,7 +122,27 @@ def main():
         from .per_law_pages import generate_per_law_pages, merge_full_text_into_search
         from .feeds import generate_per_law_feeds
         from .historie_pages import generate_historie_pages
+        from .paragraph_history import generate_paragraph_history_pages
         import os
+
+        db_path = os.path.join(args.snapshot, "amendments.db")
+
+        # Build paragraph-history pages first so we can link to them from
+        # the per-law pages (each amended paragraph gets a "⧉ historikk"
+        # link next to its heading).
+        print()
+        print("=" * 60)
+        print("Generating per-paragraph history pages")
+        print("=" * 60)
+        if os.path.exists(db_path):
+            _, amended_paragraphs_map = generate_paragraph_history_pages(
+                db_path=db_path,
+                output_dir=os.path.join(args.site_dir, "historikk"),
+            )
+        else:
+            print(f"  {db_path} not found, skipping paragraph history")
+            amended_paragraphs_map = {}
+
         print()
         print("=" * 60)
         print("Generating per-law HTML pages and full-text search index")
@@ -135,6 +155,7 @@ def main():
             repo_root=args.output,
             site_dir=args.site_dir,
             historie_map=historie_map,
+            amended_paragraphs_map=amended_paragraphs_map,
         )
         merge_full_text_into_search(repo_root=args.output, site_dir=args.site_dir)
 
@@ -154,24 +175,10 @@ def main():
         print("Generating JSONL manifests (amendment-acts, amendments)")
         print("=" * 60)
         from .manifests import generate_manifests
-        db_path = os.path.join(args.snapshot, "amendments.db")
         if os.path.exists(db_path):
             generate_manifests(db_path=db_path, output_dir=args.site_dir)
         else:
             print(f"  {db_path} not found, skipping manifests")
-
-        print()
-        print("=" * 60)
-        print("Generating per-paragraph history pages")
-        print("=" * 60)
-        from .paragraph_history import generate_paragraph_history_pages
-        if os.path.exists(db_path):
-            generate_paragraph_history_pages(
-                db_path=db_path,
-                output_dir=os.path.join(args.site_dir, "historikk"),
-            )
-        else:
-            print(f"  {db_path} not found, skipping paragraph history")
 
         # Sitemap must run LAST since it indexes everything in _site/
         print()

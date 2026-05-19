@@ -83,13 +83,16 @@ def test_generate_paragraph_history_writes_pages(tmp_path, monkeypatch):
     )
 
     out = tmp_path / "out"
-    n = generate_paragraph_history_pages(
+    n, amended = generate_paragraph_history_pages(
         db_path=str(db),
         output_dir=str(out),
     )
 
     # Two distinct paragraphs (§ 7-25, § 1-2a) → 2 pages
     assert n == 2
+
+    # amended map should reflect what's now available as history pages
+    assert amended == {"lov/1998-07-17-56": {"§ 7-25", "§ 1-2a"}}
 
     page_725 = out / "lov-1998-07-17-56" / "para-7-25.html"
     assert page_725.exists()
@@ -107,7 +110,7 @@ def test_generate_paragraph_history_writes_pages(tmp_path, monkeypatch):
 
 
 def test_generate_paragraph_history_handles_missing_db(tmp_path):
-    n = generate_paragraph_history_pages(
+    n, amended = generate_paragraph_history_pages(
         db_path=str(tmp_path / "nope.db"),
         output_dir=str(tmp_path / "out"),
     )
@@ -119,7 +122,7 @@ def test_generate_paragraph_history_handles_missing_amendments_table(tmp_path):
     conn = sqlite3.connect(db)
     conn.execute("CREATE TABLE amendment_acts (refid TEXT)")
     conn.close()
-    n = generate_paragraph_history_pages(
+    n, amended = generate_paragraph_history_pages(
         db_path=str(db),
         output_dir=str(tmp_path / "out"),
     )

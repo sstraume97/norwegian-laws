@@ -112,15 +112,17 @@ def generate_paragraph_history_pages(
     db_path: str = "snapshot/amendments.db",
     output_dir: str = "_site/historikk",
     min_amendments: int = 1,
-) -> int:
+) -> tuple[int, dict[str, set[str]]]:
     """Build per-(law, paragraph) HTML pages.
 
-    Returns the number of pages written. min_amendments=1 emits a page for every
-    paragraph that has been amended at least once.
+    Returns (pages_written, {law_refid: {paragraphs_with_history_page}}). The
+    second value lets the per-law page renderer add history links to amended
+    paragraphs without duplicating the SQL.
     """
+    amended: dict[str, set[str]] = {}
     if not Path(db_path).exists():
         print(f"  {db_path} not found, skipping paragraph history")
-        return 0
+        return 0, amended
 
     out_root = Path(output_dir)
     out_root.mkdir(parents=True, exist_ok=True)
@@ -133,7 +135,7 @@ def generate_paragraph_history_pages(
     ).fetchone():
         print("  amendments table missing, skipping paragraph history")
         conn.close()
-        return 0
+        return 0, amended
 
     rows = conn.execute(
         """
@@ -210,6 +212,8 @@ def generate_paragraph_history_pages(
         if len(amendments) < min_amendments:
             continue
 
+        amended.setdefault(law_refid, set()).add(paragraph)
+
         law_stem = _refid_to_stem(law_refid)
         law_title = law_titles.get(law_refid, law_refid)
         para_slug = _paragraph_slug(paragraph)
@@ -258,7 +262,7 @@ def generate_paragraph_history_pages(
         n_written += 1
 
     print(f"  Wrote {n_written} paragraph-history pages to {output_dir}/")
-    return n_written
+    return n_written, amended
 
 
 if __name__ == "__main__":
