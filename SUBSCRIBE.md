@@ -178,14 +178,24 @@ Each feed is Atom 1.0. Each `<entry>` represents one amendment act:
   <title>Endringer i regnskapsloven (bærekraftsrapportering)</title>
   <link href="https://sondreskarsten.github.io/norwegian-laws/lover/lov-1998-07-17-56.html"/>
   <updated>2024-06-21T00:00:00Z</updated>
+  <category term="§ 1-2a" label="§ 1-2a"/>
+  <category term="§ 2-3" label="§ 2-3"/>
   <summary>Ikrafttredelse: 2024-11-01
 Departement: Finansdepartementet
 Endrer: lov/1998-07-17-56
-Lovtidend: 2024-0042</summary>
+Lovtidend: 2024-0042
+Berørte paragrafer: § 1-2a, § 2-3</summary>
 </entry>
 ```
 
 The `<id>` includes both the *target* law refid and the *amendment act* refid, so consumers can deduplicate cleanly across multiple feeds.
+
+The `<category>` elements list the specific paragraphs the amendment modifies. Feed readers and automation tools can filter on these — so a tax-advisor subscribed to regnskapsloven who only cares about § 7-25 (egenkapital) can ignore amendments that don't touch it. Filtering syntax depends on the reader:
+
+- **Feedly**: rule-based filters on `category`
+- **Inoreader**: built-in tag/category filters
+- **Python feedparser**: `entry.tags[i].term`
+- **xmllint**: `xpath '//atom:entry[atom:category/@term="§ 7-25"]'`
 
 ## Update cadence
 
@@ -194,4 +204,4 @@ Feeds are regenerated every Monday at 06:00 UTC from the latest Lovdata data. No
 ## Limits
 
 - 50 most recent entries per feed (most laws are amended <50 times; this is rarely a constraint)
-- Feeds list amendment *acts* (endringslover), not the resulting consolidated text changes. For paragraph-level "what changed" view, see the [endringshistorikk pages](https://sondreskarsten.github.io/norwegian-laws/historie/) (one per law, since 2001).
+- For paragraph-level "what changed" view (the actual amendment instruction and new text), see the [endringshistorikk pages](https://sondreskarsten.github.io/norwegian-laws/historie/) — one per law, since 2001. Or filter feed entries by their `<category>` tags as shown above.
