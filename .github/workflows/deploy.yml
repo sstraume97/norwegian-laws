@@ -79,7 +79,16 @@ jobs:
             echo "changed=false" >> $GITHUB_OUTPUT
           else
             git commit -m "Oppdater lover og forskrifter fra Lovdata API $(date +%Y-%m-%d) [skip ci]"
-            git push
+            # Race with concurrent developer pushes is possible during a 10-minute run.
+            # Rebase onto whatever landed on main while we were running, then push.
+            for attempt in 1 2 3; do
+              if git push; then
+                break
+              fi
+              echo "Push attempt $attempt failed, rebasing and retrying..."
+              git pull --rebase origin main || { echo "Rebase failed, aborting"; exit 1; }
+              sleep 2
+            done
             echo "changed=true" >> $GITHUB_OUTPUT
           fi
 
