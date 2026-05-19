@@ -60,12 +60,15 @@ jobs:
       - name: Generate Atom feed
         run: python -m lovdata_publisher.feed snapshot feed.xml
 
+      - name: Generate per-law, per-topic, and per-ministry Atom feeds
+        run: lovdata-publish --feeds-only --snapshot snapshot --output . --site-dir .
+
       - name: Commit law updates
         id: commit
         run: |
           git config user.name "Lovtidend"
           git config user.email "lovtidend@lovdata.no"
-          git add lover/ forskrifter/ book/ _quarto.yml index.qmd laws.json feed.xml
+          git add lover/ forskrifter/ book/ _quarto.yml index.qmd laws.json feed.xml feeds/
           git rm -r --cached historie/ 2>/dev/null || true
           git add historie/
           if git diff --staged --quiet; then
@@ -103,6 +106,9 @@ jobs:
 
       - name: Copy feed.xml to site
         run: cp feed.xml _site/feed.xml || true
+
+      - name: Copy per-law feeds to site
+        run: cp -r feeds _site/feeds 2>/dev/null || echo "no feeds/ directory yet"
 
       - name: Merge law metadata into search index
         run: python -m lovdata_publisher.search_index _site laws.json
