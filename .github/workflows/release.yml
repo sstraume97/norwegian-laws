@@ -22,8 +22,18 @@ jobs:
           pip install build
           python -m build
 
-      - name: Create GitHub Release
+      - name: Create or update GitHub Release
         uses: softprops/action-gh-release@v2
         with:
-          generate_release_notes: true
+          # Don't generate notes if a release already exists at this tag —
+          # preserve the manually-authored ones. Without this, the action's
+          # 'finalize' step would error 'already_exists' on the tag_name
+          # (observed on v0.3.0 push 2026-05-20T00:22Z; release was created
+          # manually via API a few minutes before the tag push, so the
+          # workflow's auto-create-and-finalize flow collided with the
+          # existing release).
+          generate_release_notes: false
           files: dist/*
+          # Upload assets to whatever release already exists at the tag
+          # rather than failing if the release was pre-created.
+          fail_on_unmatched_files: false
