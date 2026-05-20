@@ -80,6 +80,10 @@ h1 {{ font-size: 1.6rem; border-bottom: 2px solid #dee2e6; padding-bottom: 0.4re
 .amendment .new-text summary {{ cursor: pointer; color: #2780e3; font-size: 0.85rem; }}
 .amendment .new-text-body {{ background: #f8f9fa; border-left: 3px solid #2780e3; padding: 0.6rem 0.9rem; margin-top: 0.4rem; font-size: 0.9rem; line-height: 1.5; color: #212529; }}
 .current-text {{ background: #ffffff; border: 1px solid #dee2e6; border-radius: 4px; padding: 1rem 1.25rem; margin: 1.5rem 0; }}
+.current-text.repealed {{ background: #fff3cd; border-color: #ffeeba; }}
+.current-text.repealed h2 {{ color: #856404; }}
+.current-text.removed {{ background: #f8f9fa; border-color: #dee2e6; }}
+.current-text.removed h2 {{ color: #6c757d; font-size: 1rem; }}
 .current-text h2 {{ margin: 0 0 0.5rem 0; font-size: 1.1rem; color: #495057; }}
 .current-text h2 .para-title {{ color: #212529; font-weight: 600; }}
 .current-text-body {{ font-size: 0.95rem; line-height: 1.65; }}
@@ -367,7 +371,35 @@ def generate_paragraph_history_pages(
                 f'</section>'
             )
         else:
-            current_text_block = ""
+            # Distinguish "law markdown doesn't exist" (repealed) from "law
+            # exists but this specific paragraph isn't in it" (renumbered or
+            # removed). Both deserve a status notice rather than silent
+            # omission, so the reader knows why there's no current text.
+            kind_dir = "lover" if law_refid.startswith("lov/") else "forskrifter"
+            md_path = Path(kind_dir) / f"{law_stem}.md"
+            if not md_path.exists():
+                current_text_block = (
+                    f'<section class="current-text repealed">\n'
+                    f'  <h2>Loven/forskriften er ikke lenger i kraft</h2>\n'
+                    f'  <p style="margin:0;color:#6c757d;">'
+                    f'{html.escape(law_title)} finnes ikke som gjeldende lov/forskrift '
+                    f'i Lovdata. Endringene under er historiske endringer som ble '
+                    f'gjort før loven ble opphevet eller erstattet.</p>\n'
+                    f'</section>'
+                )
+            else:
+                # Markdown exists but paragraph not extractable — probably
+                # renumbered/removed by a later amendment, or has an unusual
+                # heading structure not matched by the regex.
+                current_text_block = (
+                    f'<section class="current-text removed">\n'
+                    f'  <h2>{html.escape(paragraph)} finnes ikke i gjeldende tekst</h2>\n'
+                    f'  <p style="margin:0;color:#6c757d;">'
+                    f'Paragrafen er enten opphevet, omnummerert, eller flyttet '
+                    f'siden den siste endringen under. '
+                    f'<a href="../../lover/{law_stem}.html">Se gjeldende lovtekst →</a></p>\n'
+                    f'</section>'
+                )
 
         amendments_html_parts = []
         for a in amendments:

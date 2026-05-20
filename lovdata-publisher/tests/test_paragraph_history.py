@@ -306,9 +306,10 @@ def test_current_paragraph_text_renders_from_markdown(tmp_path, monkeypatch):
     assert "§ 7-26" not in page.split("<section class=\"current-text\">")[1].split("</section>")[0]
 
 
-def test_current_text_skipped_when_law_markdown_missing(tmp_path, monkeypatch):
-    """If the law markdown is unavailable, history page renders without the
-    current-text block instead of erroring."""
+def test_current_text_shows_repealed_notice_when_markdown_missing(tmp_path, monkeypatch):
+    """If the law markdown is unavailable (law has been repealed/replaced),
+    the history page shows a 'Lov/forskrift ikke lenger i kraft' notice
+    instead of silently omitting the Gjeldende tekst section."""
     db = tmp_path / "amendments.db"
     conn = sqlite3.connect(db)
     conn.execute("""
@@ -340,15 +341,70 @@ def test_current_text_skipped_when_law_markdown_missing(tmp_path, monkeypatch):
     conn.close()
 
     monkeypatch.chdir(tmp_path)
-    # NO markdown file for lov/9999-12-31-99
+    # NO markdown file for lov/9999-12-31-99 (simulating a repealed law)
     out = tmp_path / "out"
     n, _ = generate_paragraph_history_pages(db_path=str(db), output_dir=str(out))
     assert n == 1
     page = (out / "lov-9999-12-31-99" / "para-1-1.html").read_text(encoding="utf-8")
-    # No current-text section
-    assert '<section class="current-text">' not in page
+    # Repealed notice present, not silent omission
+    assert '<section class="current-text repealed">' in page
+    assert "ikke lenger i kraft" in page
     # But the amendments section is still there
     assert "Endringer" in page
+
+
+def test_current_text_shows_removed_notice_when_paragraph_not_in_law(tmp_path, monkeypatch):
+    """If the law markdown exists but the specific paragraph isn't found
+    (renumbered or removed by a later amendment), the history page shows
+    a 'paragraph finnes ikke i gjeldende tekst' notice."""
+    db = tmp_path / "amendments.db"
+    conn = sqlite3.connect(db)
+    conn.execute("""
+        CREATE TABLE amendment_acts (
+            refid TEXT, filename TEXT, title TEXT, short_title TEXT,
+            date_in_force TEXT, date_in_force_resolved TEXT,
+            date_published TEXT, ministry TEXT, changes_to TEXT,
+            journal_number TEXT, misc_info TEXT
+        )
+    """)
+    conn.execute("""
+        CREATE TABLE amendments (
+            id INTEGER, act_refid TEXT, change_type TEXT,
+            target TEXT, target_law TEXT, instruction TEXT, new_text TEXT
+        )
+    """)
+    conn.execute(
+        "INSERT INTO amendment_acts VALUES (?,?,?,?,?,?,?,?,?,?,?)",
+        ('lov/2024-06-21-42', 'a.xml', 'X', 'X',
+         '2024-11-01', '2024-11-01', '2024-06-21', 'FIN', 'lov/1998-07-17-56',
+         '2024-0042', ''),
+    )
+    conn.execute(
+        "INSERT INTO amendments VALUES (?,?,?,?,?,?,?)",
+        (1, 'lov/2024-06-21-42', 'remove', '§ 99-99', 'lov/1998-07-17-56',
+         '§ 99-99 oppheves', ''),
+    )
+    conn.commit()
+    conn.close()
+
+    monkeypatch.chdir(tmp_path)
+    lover = Path("lover")
+    lover.mkdir()
+    # Markdown exists but does NOT contain § 99-99
+    (lover / "lov-1998-07-17-56.md").write_text(
+        '---\nrefid: "lov/1998-07-17-56"\ntittel: "Regnskapsloven"\n---\n'
+        '\n##### § 1-1. Bare denne paragrafen\n\nNoe tekst.\n',
+        encoding="utf-8",
+    )
+
+    out = tmp_path / "out"
+    generate_paragraph_history_pages(db_path=str(db), output_dir=str(out))
+    page = (out / "lov-1998-07-17-56" / "para-99-99.html").read_text(encoding="utf-8")
+    # Removed notice present
+    assert '<section class="current-text removed">' in page
+    assert "finnes ikke i gjeldende tekst" in page
+    # Links to current law text
+    assert "../../lover/lov-1998-07-17-56.html" in page
 
 
 def test_neighbor_navigation_between_paragraph_pages(tmp_path, monkeypatch):
