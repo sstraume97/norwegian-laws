@@ -25,6 +25,7 @@ For nedstrøms automatisering (datavarehus, compliance-dashboards, interne CDC-p
 - [`amendments.jsonl.gz`](amendments.jsonl.gz) — ~91 000 rader, én per (lov, paragraf, endring). Inkluderer `new_text`
 - [`amendment-acts.jsonl.gz`](amendment-acts.jsonl.gz) — ~38 000 rader, én per endringslov
 - [`laws.json`](laws.json) — alle 783 lover/forskrifter med metadata og endringstellere
+- [`schemas/`](schemas/amendment-acts.schema.json) — JSON Schema 2020-12 for begge JSONL-strømmene
 
 ## Les lover
 
