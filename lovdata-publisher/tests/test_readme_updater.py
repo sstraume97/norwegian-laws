@@ -140,3 +140,52 @@ def test_update_readme_handles_missing_db(tmp_path):
 def test_update_readme_handles_missing_readme(tmp_path):
     db = _make_db(tmp_path)
     assert not update_readme(str(tmp_path / "no-readme.md"), str(db))
+
+
+def test_update_readme_refreshes_dated_amendments_count(tmp_path):
+    """README's dated_amendments badge and feature-table row should both
+    refresh from the current amendment_acts count."""
+    import sqlite3
+
+    db = tmp_path / "amendments.db"
+    conn = sqlite3.connect(db)
+    conn.execute("""
+        CREATE TABLE amendment_acts (
+            refid TEXT, filename TEXT, title TEXT, short_title TEXT,
+            date_in_force TEXT, date_in_force_resolved TEXT,
+            date_published TEXT, ministry TEXT, changes_to TEXT,
+            journal_number TEXT, misc_info TEXT
+        )
+    """)
+    # Insert 100 acts so the count is unambiguous
+    for i in range(100):
+        conn.execute(
+            "INSERT INTO amendment_acts VALUES (?,?,?,?,?,?,?,?,?,?,?)",
+            (f'lov/2024-01-01-{i}', 'a.xml', 'X', 'X', '2024-01-01', '2024-01-01',
+             '2024-01-01', 'FIN', 'lov/1998-07-17-56', '2024-0042', ''),
+        )
+    conn.commit()
+    conn.close()
+
+    readme = tmp_path / "README.md"
+    readme.write_text(
+        '<img alt="Amendments" src="https://img.shields.io/badge/dated_amendments-31%2C459-ba0c2f">\n'
+        '\n'
+        '| 🕰️ **Backdated git history** | 31,459 amendment acts as backdated commits |\n'
+        '\n'
+        '<!-- RECENT_AMENDMENTS_START -->\n'
+        'placeholder\n'
+        '<!-- RECENT_AMENDMENTS_END -->\n',
+        encoding="utf-8",
+    )
+
+    from lovdata_publisher.readme_updater import update_readme
+    changed = update_readme(str(readme), str(db))
+    assert changed is True
+    text = readme.read_text(encoding="utf-8")
+    # Badge updated
+    assert "dated_amendments-100-ba0c2f" in text
+    assert "31%2C459" not in text
+    # Feature-table row updated
+    assert "100 amendment acts as backdated commits" in text
+    assert "31,459 amendment acts as backdated commits" not in text

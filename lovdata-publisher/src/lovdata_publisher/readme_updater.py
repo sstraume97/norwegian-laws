@@ -95,7 +95,12 @@ def build_recent_block(db_path: str, limit_lover: int = 5, limit_forskrift: int 
 
 
 def update_readme(readme_path: str, db_path: str, limit_lover: int = 5, limit_forskrift: int = 5) -> bool:
-    """Replace content between markers in README.md. Returns True if changed."""
+    """Replace content between markers in README.md. Returns True if changed.
+
+    Also refreshes the dated_amendments shield badge URL and the
+    'Backdated git history' row in the feature table, both of which carry a
+    hardcoded amendment count that grows over time.
+    """
     path = Path(readme_path)
     if not path.exists():
         print(f"  {path} not found")
@@ -113,6 +118,27 @@ def update_readme(readme_path: str, db_path: str, limit_lover: int = 5, limit_fo
     replacement = f"{START_MARKER}\n{block}\n{END_MARKER}"
     pattern = re.escape(START_MARKER) + r".*?" + re.escape(END_MARKER)
     new_text = re.sub(pattern, replacement, original, flags=re.DOTALL)
+
+    # Refresh the dated_amendments badge + feature-table row. The badge URL
+    # uses URL-encoded comma '%2C'; the table row uses a plain comma. Both
+    # carry the same number which is the count of amendment acts in the DB.
+    conn = sqlite3.connect(db_path)
+    try:
+        n_acts = conn.execute("SELECT COUNT(*) FROM amendment_acts").fetchone()[0]
+    finally:
+        conn.close()
+    badge_pattern = r'dated_amendments-[\d%C]+-ba0c2f'
+    new_text = re.sub(
+        badge_pattern,
+        f"dated_amendments-{n_acts:,}".replace(",", "%2C") + "-ba0c2f",
+        new_text,
+    )
+    # Feature-table row: "31,459 amendment acts as backdated commits"
+    new_text = re.sub(
+        r"\d{1,3}(?:,\d{3})* amendment acts as backdated commits",
+        f"{n_acts:,} amendment acts as backdated commits",
+        new_text,
+    )
 
     if new_text == original:
         return False
