@@ -252,8 +252,13 @@ def generate_paragraph_history_pages(
 
         result: dict[str, str] = {}
         # Match "##### § X-Y. Title\n\nbody" up to next #### or ##### heading
+        # Match "## § X-Y. Title\n\nbody" through to next H2-H6 paragraph header.
+        # Norwegian laws use any of H2-H6 for paragraph headers depending on the
+        # chapter/section structure (1,394 paragraphs are at H6, 6,486 at H5,
+        # 15,197 at H4, 2,885 at H3). The previous {3,5} bound missed 1,394
+        # H6-level paragraphs — caught by stress test 2026-05-20.
         header_re = re.compile(
-            r'^(#{3,5})\s+(§\s*\d+[-–]\d+[a-z]?)\.?\s+([^\n]+)\n+(.*?)(?=^#{3,5}\s|\Z)',
+            r'^(#{2,6})\s+(§\s*\d+[-–]\d+[a-z]?)\.?\s+([^\n]+)\n+(.*?)(?=^#{2,6}\s|\Z)',
             re.MULTILINE | re.DOTALL,
         )
         try:

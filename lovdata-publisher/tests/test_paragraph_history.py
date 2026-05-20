@@ -415,3 +415,68 @@ def test_neighbor_navigation_between_paragraph_pages(tmp_path, monkeypatch):
     page_725 = (out / "lov-1998-07-17-56" / "para-7-25.html").read_text(encoding="utf-8")
     assert "← § 1-3" in page_725
     assert "next-para" not in page_725  # No next link
+
+
+def test_current_text_extracts_h6_paragraph_headers(tmp_path, monkeypatch):
+    """Paragraph headers can be at H2-H6 depending on the law's structure.
+    Caught by Playwright stress test 2026-05-20: folketrygdloven uses H6 for
+    paragraphs under H4 sections, and the regex only allowed H3-H5."""
+    db = tmp_path / "amendments.db"
+    conn = sqlite3.connect(db)
+    conn.execute("""
+        CREATE TABLE amendment_acts (
+            refid TEXT, filename TEXT, title TEXT, short_title TEXT,
+            date_in_force TEXT, date_in_force_resolved TEXT,
+            date_published TEXT, ministry TEXT, changes_to TEXT,
+            journal_number TEXT, misc_info TEXT
+        )
+    """)
+    conn.execute("""
+        CREATE TABLE amendments (
+            id INTEGER, act_refid TEXT, change_type TEXT,
+            target TEXT, target_law TEXT, instruction TEXT, new_text TEXT
+        )
+    """)
+    conn.execute(
+        "INSERT INTO amendment_acts VALUES (?,?,?,?,?,?,?,?,?,?,?)",
+        ('lov/2024-06-21-42', 'a.xml', 'X', 'X', '2024-01-01', '2024-01-01',
+         '2024-01-01', 'FIN', 'lov/1997-02-28-19', '2024-0042', ''),
+    )
+    conn.execute(
+        "INSERT INTO amendments VALUES (?,?,?,?,?,?,?)",
+        (1, 'lov/2024-06-21-42', 'change', '§ 3-18', 'lov/1997-02-28-19',
+         '§ 3-18', ''),
+    )
+    conn.commit()
+    conn.close()
+
+    monkeypatch.chdir(tmp_path)
+    lover = Path("lover")
+    lover.mkdir()
+    # Folketrygdloven-style structure: H4 section, H6 paragraphs
+    (lover / "lov-1997-02-28-19.md").write_text(
+        '---\nrefid: "lov/1997-02-28-19"\ntittel: "Folketrygdloven"\n---\n'
+        '\n'
+        '# Folketrygdloven\n'
+        '\n'
+        '#### Kap. 3 Beregningsregler\n'
+        '\n'
+        '###### § 3-18. Beregning av alderspensjon ved yrkesskade\n'
+        '\n'
+        '(1) Bestemmelsene gjelder uavhengig av...\n'
+        '\n'
+        '###### § 3-19. Neste paragraf\n'
+        '\n'
+        '(1) Skal ikke vises på § 3-18 page.\n',
+        encoding="utf-8",
+    )
+
+    out = tmp_path / "out"
+    generate_paragraph_history_pages(db_path=str(db), output_dir=str(out))
+    page = (out / "lov-1997-02-28-19" / "para-3-18.html").read_text(encoding="utf-8")
+
+    assert '<section class="current-text">' in page
+    assert "§ 3-18. Beregning av alderspensjon ved yrkesskade" in page
+    assert "Bestemmelsene gjelder uavhengig av" in page
+    # Adjacent paragraph's text must NOT leak in
+    assert "Skal ikke vises" not in page
