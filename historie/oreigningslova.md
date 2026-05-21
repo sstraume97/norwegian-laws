@@ -7,6 +7,66 @@ refid: "lov/1959-10-23-3"
 
 ## (annet)
 
+### 2005-06-17 — lov/2005-06-17-84
+
+*Endringen av § 16 første ledd skal lyde:*
+
+> Skjøn etter lova her (gjerdeskjøn) vert styrt av lensmannen, namsfuten eller politistasjonssjef med sivile rettspleieoppgåver.
+>
+
+### 2005-06-17 — lov/2005-06-17-84
+
+*Endringen av § 17 første ledd annet punktum skal lyde:*
+
+> Klagen har ikkje utsetjande verknad om ikkje lensmannen, namsfuten eller politistasjonssjefen eller tingretten vedtek noko anna.I nr. 23 skal endringen i lov 16. juni 1961 nr. 12 om ymse beitespørsmål § 11 første ledd lyde:
+>
+> Vert det tvist om krav etter § 7 eller § 9, kan kvar av partane krevja at spørsmålet vert avgjort ved skjøn. Skjøn etter lova her vert styrt av lensmannen, namsfuten eller politistasjonssjef med sivile rettspleieoppgåver. Skjønsstyraren skal gje partane varsel om skjønet med ein frist på minst 5 dagar.I nr. 24 skal endringen i veglov 21. juni 1963 nr. 23 § 60 første ledd annet punktum lyde:
+>
+> Skjønnet kan styrast av lensmannen, namsfuten eller politistasjonssjef med sivile rettspleieoppgåver dersom partane er samde om det.I nr. 26 skal endringen i lov 29. november 1968 um særlege råderettar over framand eigedom § 19 første ledd lyde:
+>
+> Skjøn etter lova her vert styrt av lensmannen, namsfuten eller politistasjonssjef med sivile rettspleieoppgåver.I nr. 27 skal endringen i lov 30. juni 1972 nr. 70 om bergverk § 55 første ledd lyde:
+>
+> Skjønn etter § 5 annet ledd og § 6 annet ledd styres av lensmannen, namsfogden eller politistasjonssjef med sivile rettspleieoppgaver.I nr. 28 skal endringen i lov 9. juni 1978 nr. 50 om kulturminner § 11 annet ledd annet punktum lyde:
+>
+> Skjønnet styres av lensmannen, namsfogden eller politistasjonssjef med sivile rettspleieoppgaver.I nr. 29 skal endringen i lov 13. juni 1980 nr. 35 om fri rettshjelp § 12 annet punktum lyde:
+>
+> Som saker utenfor rettergang anses i denne forbindelse også behandling for forliksrådet, offentlig skiftebehandling med unntak av skiftetvist i søksmåls former, skjønn som styres av en lensmann, namsfogd eller politistasjonssjef og voldgiftsaker som ikke går inn under § 16.Nr. 30 om endringer i lov 8. april 1981 nr. 7 om barn og foreldre skal lyde:
+>
+> I lov 8. april 1981 nr. 7 om foreldre og barn skal § 38 tredje ledd første punktum lyde:
+>
+> Fører dødsfall til at ingen lenger har foreldreansvaret for eit barn, skal lensmannen, namsfuten eller politistasjon med sivile rettspleieoppgåver eller tingretten få opplysning om det i dødsfallsmeldinga.I nr. 31 gjøres det følgende endringer i endringene i lov 17. desember 1982 nr. 86 om rettsgebyr:
+>
+
+### 2005-06-17 — lov/2005-06-17-84
+
+*Endringen av § 5 a nr. 2 skal lyde:*
+
+> Avgjørelser som gjelder forretninger som nevnt i kapittel 3 hos en lensmann, namsfogd eller politistasjon kan påklages til tingretten etter reglene i skjønnsloven § 31.
+>
+
+### 2005-06-17 — lov/2005-06-17-84
+
+*Endringen av § 5 a nr. 3 første punktum skal lyde:*
+
+> Avgjørelser som gjelder forretninger som nevnt i kapittel 4 og § 25 hos en lensmann, namsfogd eller politistasjon eller hos en særskilt namsmann kan påklages til tingretten etter reglene i tvangsfullbyrdelsesloven § 5-16.
+>
+
+### 2005-06-17 — lov/2005-06-17-84
+
+*Endringen av § 11 første ledd første punktum skal lyde:*
+
+> For behandling av skjønn og takster som styres av en dommer ved de alminnelige domstoler eller av en lensmann, namsfogd eller politistasjonssjef, betales 5 ganger rettsgebyret for hver dag eller del av dag som skjønnet varer.
+>
+
+### 2005-06-17 — lov/2005-06-17-84
+
+*Endringen av § 11 tredje ledd skal lyde:*
+
+> For klage over avgjørelser under skjønn som styres av en lensmann, namsfogd eller politistasjonssjef, jf. skjønnsloven § 31, betales rettsgebyret.I nr. 32 skal endringen i lov 8. juni 1984 nr. 58 om gjeldsforhandling og konkurs § 80 fjerde ledd lyde:
+>
+> Registrerings- og forseglingsforretningene kan overlates til lensmannen, namsfogden eller politistasjon med sivile rettspleieoppgaver eller en annen skikket person oppnevnt av retten.I nr. 33 skal endringen i plan- og bygningslov 14. juni 1985 nr. 77 § 59 annet ledd lyde:
+>
+
 ### 2024-11-29 — lov/2024-11-29-73
 
 *I lov 20. desember 2023 nr. 110 om endringer i konfliktrådsloven, straffeloven og straffeprosessloven mv. skal oreigningslova § 30 nr. 20 til 28 under del XI nr. 3 lyde:*
@@ -50,7 +110,57 @@ refid: "lov/1959-10-23-3"
 > Vedkjem saka ting som høyrer under fylkesmannen, helse- og sosialstyret, samferdslenemnda eller andre sakkunnige organ, skal dei til vanleg få høve til å seia si meining.
 >
 
+## § 16
+
+### 2004-06-25 — lov/2004-06-25-53
+
+*§ 16 første ledd skal lyde:*
+
+> Skjøn etter lova her (gjerdeskjøn) vert styrt av lensmannen eller namsfuten.
+>
+
+## § 17
+
+### 2004-06-25 — lov/2004-06-25-53
+
+*§ 17 første ledd annet punktum skal lyde:*
+
+> Skjøn som skal fastsetja vederlag for inngrep etter § 2 nr. 1, 3, 9, 10, 11, 12, 29, 30, 34, 35, 36, 37, 38, 39, 40, 42, 43, 50 og 53 er det lensmannen eller namsfuten som styrer.
+>
+
+### 2004-06-25 — lov/2004-06-25-53
+
+*§ 17 første ledd annet punktum skal lyde:*
+
+### 2005-06-17 — lov/2005-06-17-84
+
+*§ 17 første ledd annet punktum skal lyde:*
+
+> Skjøn som skal fastsetja vederlag for inngrep etter § 2 nr. 1, 3, 9, 10, 11, 12, 29, 30, 34, 35, 36, 37, 38, 39, 40, 42, 43, 50 og 53 er det lensmannen, namsfuten eller politistasjonssjef med sivile rettspleieoppgåver som styrer.
+>
+
+### 2017-05-11 — lov/2017-05-11-26
+
+*§ 17 første ledd skal lyde:*
+
+> Skjøn som skal fastsetja vederlag for oreigningsinngrep etter § 2, skal haldast av tingretten etter skjønslova om ikkje anna er sagt nedanfor. Skjøn som skal fastsetja vederlag for inngrep etter § 2 nr. 1, 3, 9, 10, 11, 12, 29, 30, 34, 35, 36, 37, 38, 39, 40, 42, 43, 50 og 53 er det jordskifteretten som styrer. Det same gjeld inngrep etter § 2 nr. 19 for lågspana kraftline og nr. 47 til bate for høgst fem brukseiningar. Kongen eller styringsorgan med fullmakt etter § 5 kan likevel gjera vedtak for den einskilde saka om at skjønet skal styrast av tingretten.
+>
+
 ## § 19
+
+### 2004-06-25 — lov/2004-06-25-53
+
+*§ 19 første ledd annet punktum skal lyde:*
+
+> I andre høve vert skadebota fastsett i skjøn som vert styrt av lensmannen eller namsfuten.
+>
+
+### 2005-06-17 — lov/2005-06-17-84
+
+*§ 19 første ledd annet punktum skal lyde:*
+
+> I andre høve vert skadebota fastsett i skjøn som vert styrt av lensmannen, namsfuten eller politistasjonssjef med sivile rettspleieoppgåver.
+>
 
 ### 2015-06-05 — lov/2015-06-05-38
 
@@ -64,6 +174,67 @@ refid: "lov/1959-10-23-3"
 *§ 19 andre ledd fyrste punktum skal lyde:*
 
 > Vert ikkje inngrepet sett i verk, kan skjønet, så framt eigar eller rettshavar krev det, fastsetja at den ansvarlege for gjennomføringa av førehandsundersøkingane skal vøla skaden i staden for å svara skadebot.
+>
+
+### 2017-05-11 — lov/2017-05-11-26
+
+*§ 19 første ledd annet punktum skal lyde:*
+
+> I andre høve vert skadebota fastsett i skjøn som vert styrt av jordskifteretten.
+>
+
+## § 26
+
+### 2004-06-25 — lov/2004-06-25-53
+
+*§ 26 annet ledd skal lyde:*
+
+> Tvist om omfanget av rydjingsskyldnaden, om alt rydjingsarbeidet er gjort, eller om kva krav grunneigaren har når han lyt gjera arbeidet sjølv, vert avgjort med skjøn som vert styrt av lensmannen eller namsfuten.
+>
+
+### 2005-06-17 — lov/2005-06-17-84
+
+*§ 26 annet ledd skal lyde:*
+
+> Tvist om omfanget av rydjingsskyldnaden, om alt rydjingsarbeidet er gjort, eller om kva krav grunneigaren har når han lyt gjera arbeidet sjølv, vert avgjort med skjøn som vert styrt av lensmannen, namsfuten eller politistasjonssjef med sivile rettspleieoppgåver.
+>
+
+### 2017-05-11 — lov/2017-05-11-26
+
+*§ 26 annet ledd skal lyde:*
+
+> Tvist om omfanget av rydjingsskyldnaden, om alt rydjingsarbeidet er gjort, eller om kva krav grunneigaren har når han lyt gjera arbeidet sjølv, vert avgjort med skjøn som vert styrt av jordskifteretten.
+>
+
+## § 27
+
+### 2004-06-25 — lov/2004-06-25-53
+
+*§ 27 annet ledd skal lyde:*
+
+> Skjøn etter fyrste leden vert styrt av lensmannen eller namsfuten.I lov 5. mai 1961 om grannegjerde gjøres følgende endringer:
+>
+
+### 2005-06-17 — lov/2005-06-17-84
+
+*§ 27 annet ledd skal lyde:*
+
+> Skjøn etter fyrste leden vert styrt av lensmannen, namsfuten eller politistasjonssjef med sivile rettspleieoppgåver.I nr. 21 gjøres det følgende endringer i endringene i lov 5. mai 1961 om grannegjerde:
+>
+
+### 2017-05-11 — lov/2017-05-11-26
+
+*§ 27 annet ledd skal lyde:*
+
+> Skjøn etter fyrste leden vert styrt av jordskifteretten.
+>
+> 8.I lov 21. juni 1963 nr. 23 om vegar skal § 60 første ledd lyde:
+>
+> Med unntak av skjønn som nemnt i andre ledd, skal skjønn etter denne lova haldast som skjønn styrt av tingretten etter skjønnslova.
+>
+> 9.I lov 15. desember 1967 nr. 9 om patenter skal § 70 første ledd annet punktum lyde:
+>
+> For den rett som således overtas, skal betales erstatning, som fastsettes ved skjønn styrt av tingretten dersom minnelig overenskomst ikke oppnås.
 >
 
 ## § 30

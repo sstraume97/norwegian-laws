@@ -666,6 +666,15 @@ refid: "lov/1999-07-02-62"
 > Ved dom på overføring til tvungent psykisk helsevern etter straffeloven § 39 gjelder bestemmelsene i loven her så langt de passer, med unntak av §§ 3-1 til 3-4 og §§ 3-7 til 3-9.
 >
 
+### 2009-06-19 — lov/2009-06-19-74
+
+*§ 5-1 skal lyde:*
+
+> Ved dom på overføring til tvungent psykisk helsevern etter straffeloven § 62 gjelder bestemmelsene i loven her så langt de passer, med unntak av §§ 3-1 til 3-4 og §§ 3-7 til 3-9.
+>
+> Straffeloven § 65 gir regler om opphør av reaksjonen.
+>
+
 ## § 5-2a
 
 ### 2012-06-22 — lov/2012-06-22-48
@@ -729,6 +738,36 @@ refid: "lov/1999-07-02-62"
 *§ 5-4 første ledd annet punktum skal lyde:*
 
 > Kontrollkommisjonen prøver om vedtaket fremstår som urimelig ut fra hensynet til den domfelte, andres liv, helse og frihet, plasseringsalternativene og forholdene ellers.
+>
+
+## § 5-6
+
+### 2001-06-15 — lov/2001-06-15-64
+
+*§ 5-6 overskrift skal lyde:*
+
+> Overføring til anstalt under kriminalomsorgen
+>
+
+### 2001-06-15 — lov/2001-06-15-64
+
+*§ 5-6 første ledd første punktum skal lyde:*
+
+> Etter begjæring fra den faglig ansvarlige, jf. § 5-3, kan retten bestemme at den domfelte skal overføres fra tvungent psykisk helsevern til anstalt under kriminalomsorgen, når særlige grunner taler for det.
+>
+
+### 2009-06-19 — lov/2009-06-19-74
+
+*§ 5-6 første ledd annet og tredje punktum skal lyde:*
+
+> Overføring kan bare skje når den domfeltes sinnstilstand ikke lenger er som beskrevet i straffeloven § 20 første ledd bokstav b og d. Vilkåret om gjentakelsesfare i straffeloven § 62 annet og tredje ledd må fortsatt være oppfylt.
+>
+
+### 2009-06-19 — lov/2009-06-19-74
+
+*§ 5-6 tredje ledd skal lyde:*
+
+> Finner retten at vilkåret om gjentakelsesfare i straffeloven § 62 annet og tredje ledd ikke er oppfylt, skal reaksjonen opphøre, jf. straffeloven § 65.
 >
 
 ## § 5-6a
@@ -796,6 +835,15 @@ refid: "lov/1999-07-02-62"
 > Departementet kan gi nærmere forskrifter om varslingsplikten etter første til fjerde ledd.
 >
 
+## § 5-7
+
+### 2009-06-19 — lov/2009-06-19-74
+
+*§ 5-7 skal lyde:*
+
+> Er den domfelte overført til anstalt under kriminalomsorgen i medhold av § 5-6, gjelder reglene i straffeloven § 65 om opphør av reaksjonen så langt de passer. I stedet for opphør kan retten i slike tilfeller beslutte prøveløslatelse etter reglene i straffeloven §§ 44 og 45.
+>
+
 ## § 5-8
 
 ### 2001-12-21 — lov/2001-12-21-119
@@ -803,6 +851,13 @@ refid: "lov/1999-07-02-62"
 *§ 5-8 annet ledd skal lyde:*
 
 > Ved uenighet om vilkåret for tilbakeføring er oppfylt, bringes saken inn for Sosial- og helsedirektoratet for avgjørelse.
+>
+
+### 2009-06-19 — lov/2009-06-19-74
+
+*§ 5-8 første ledd skal lyde:*
+
+> Dersom den domfeltes sinnstilstand etter overføring til kriminalomsorgen igjen blir som beskrevet i straffeloven § 20 første ledd bokstav b og d, skal den domfelte tilbakeføres til tvungent psykisk helsevern.
 >
 
 ### 2018-06-22 — lov/2018-06-22-76
@@ -830,6 +885,20 @@ refid: "lov/1999-07-02-62"
 > Før kontrollkommisjonen avgjør sak om tvungen observasjon, etablering, opprettholdelse eller opphør av tvungent psykisk helsevern, samt sak om overføring, skal pasienten eller den som handler på hans eller hennes vegne, gis adgang til å uttale seg.
 >
 
+### 2007-02-27 — lov/2007-01-26-3
+
+*§ 6-4 annet ledd annet punktum skal lyde:*
+
+> Enhver har plikt til å møte for kommisjonen som vitne eller sakkyndige etter reglene i tvisteloven kapittel 24 og 25.
+>
+
+### 2007-02-27 — lov/2007-01-26-3
+
+*§ 6-4 åttende ledd nytt annet punktum skal lyde:*
+
+> Har saken vært prøvd for retten etter reglene i tvisteloven kapittel 36, kan det ikke framsettes slik klage for kontrollkommisjonen før det er gått minst seks måneder etter at dommen ble rettskraftig.
+>
+
 ### 2025-04-25 — lov/2025-04-25-13
 
 *§ 6-4 femte ledd skal lyde:*
@@ -855,6 +924,49 @@ refid: "lov/1999-07-02-62"
 > I følgende bestemmelser skal uttrykket «nærmeste» endres til «nærmeste pårørende»:
 >
 > § 1-8, § 4-3 nytt tredje ledd, § 4-4 syvende ledd, § 4-5 femte ledd, § 4-6 første og tredje ledd, § 4-7 annet ledd og § 6-1 annet ledd.
+>
+
+### 2007-02-27 — lov/2007-01-26-3
+
+*§ 7-1 første punktum skal lyde:*
+
+> Kontrollkommisjonens vedtak i sak om videre undersøkelse, etablering eller opprettholdelse av tvungent psykisk helsevern etter §§ 3-8 og 3-9, kan av pasienten eller vedkommendes nærmeste bringes inn for tingretten etter reglene i tvisteloven kapittel 36.
+>
+> 122. I lov 2. juli 1999 nr. 63 om pasientrettigheter (pasientrettighetsloven) skal § 8-5 annet punktum lyde:
+>
+> Reglene i tvisteloven kapittel 22 får tilsvarende anvendelse for ombudets rett til å kreve opplysninger.
+>
+> 123. I lov 2. juli 1999 nr. 64 om helsepersonell (helsepersonelloven) oppheves § 71 annet ledd første punktum. Nåværende annet punktum blir annet ledd.
+>
+> 124. I lov 16. juli 1999 nr. 69 om offentlige anskaffelser skal § 8 annet ledd første punktum lyde:
+>
+> Ved begjæring om midlertidig forføyning mot overtredelser under anskaffelsesprosedyrer innenfor sektorene vannforsyning, energi, transport og telekommunikasjon kan det heller ikke før kontrakt er inngått, besluttes midlertidige forføyninger som nevnt i tvisteloven § 34-3 første ledd.
+>
+> 125. I lov 21. desember 2000 nr. 105 om opplysningsplikt og angrerett m.v. ved fjernsalg og salg utenfor fast utsalgssted (angrerettloven) skal § 4 annet ledd lyde:
+>
+> Dersom ikke annet følger av lov, kan forbrukeren ikke vedta annet verneting enn de lovbestemte, med unntak av sitt alminnelige verneting.
+>
+> 126. I lov 26. april 2002 nr. 12 om notarius publicus skal § 5 overskriften og første til femte ledd lyde:
+>
+> Anke
+>
+> Dersom ikkje anna er fastsett i eller i medhald av lov, kan avgjerd under notarialforretningar ankast til lagmannsretten. For anke gjeld reglane i tvisteloven og domstollova dersom ikkje anna følgjer av andre til sjette leddet.
+>
+> Anken høyrer under lagmannsretten i lagdømet der notarius publicus har sete. For avgjerd teken av norsk notarius publicus i utlandet er Borgarting lagmannsrett ankeinstans. For avgjerd teken av Sysselmannen på Svalbard som notarius publicus, er Hålogaland lagmannsrett ankeinstans.
+>
+> For den som har fått underretning om avgjerda, er fristen for å anke avgjerda ein månad frå den dag vedkomande mottok meldinga. For andre er fristen ein månad frå den dag då vedkomande har fått eller burde ha skaffa seg kjennskap til avgjerda, likevel ikkje ut over tre månader frå tidspunktet avgjerda blei teken.
+>
+> Er fristen for anke gått ut, gjeld forvaltningslova § 31 tilsvarande.
+>
+> Notarius publicus skal leggje saka til rette for ankeinstansen og gjere greie for saka på forsvarleg måte.
+>
+> 127. I lov 3. mai 2002 nr. 13 om utenrikstjenesten skal § 20 annet ledd første punktum lyde:
+>
+> Utsendt utenrikstjenestemann, andre utsendinger og utsendt administrativt personell, som oppholder seg utenlands i norsk statstjeneste har alminnelig verneting i Oslo hvis vedkommende ikke har bopel annet sted i riket.
+>
+> 128. I lov 21. juni 2002 nr. 45 om yrkestransport med motorvogn og fartøy (yrkestransportlova) skal § 34 lyde:
+>
+> Styringsorgan som har gjort vedtak etter denne lova, kan fastsetje at fristen for å reise søksmål skal vere to månader frå det kom fram melding om vedtaket til vedkommande part.
 >
 
 ## (annet)

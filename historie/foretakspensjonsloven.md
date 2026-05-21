@@ -23,6 +23,13 @@ refid: "lov/2000-03-24-16"
 
 ## § 1-2
 
+### 2006-06-16 — lov/2006-06-16-30
+
+*§ 1-2 første ledd bokstav h skal lyde:*
+
+> Lønn: Skattepliktig lønnsinntekt, beregnet personinntekt og godtgjørelse til deltaker for arbeidsinnsats i deltakerlignet selskap.
+>
+
 ### 2011-01-01 — lov/2010-12-17-83
 
 *§ 1-2 første ledd bokstav b skal lyde:*

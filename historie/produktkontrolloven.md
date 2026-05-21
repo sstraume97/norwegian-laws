@@ -84,6 +84,17 @@ refid: "lov/1976-06-11-79"
 
 ## § 12
 
+### 2009-06-19 — lov/2009-06-19-74
+
+*§ 12 første ledd siste punktum oppheves.*
+
+### 2009-06-19 — lov/2009-06-19-74
+
+*§ 12 annet ledd nytt tredje og fjerde punktum skal lyde:*
+
+> Forsøk straffes på samme måte. Medvirkning straffes ikke.
+>
+
 ### 2019-06-21 — lov/2019-06-21-54
 
 *§ 12 skal lyde:*

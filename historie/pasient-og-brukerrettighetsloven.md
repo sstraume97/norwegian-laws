@@ -5,15 +5,6 @@ refid: "lov/1999-07-02-63"
 
 # Endringshistorikk: Pasient- og brukerrettighetsloven – pbrl
 
-## § 1-2
-
-### 2017-06-16 — lov/2017-06-16-55
-
-*§ 1-2 første ledd skal lyde:*
-
-> Loven gjelder for helse- og omsorgstjenester, herunder tannhelsetjenester, som tilbys eller ytes i riket av kommunen eller private som har avtale med kommunen, når ikke annet følger av loven her.
->
-
 ## § 1-3
 
 ### 2006-06-30 — lov/2006-06-30-45
@@ -21,6 +12,13 @@ refid: "lov/1999-07-02-63"
 *§ 1-3 første ledd bokstav b skal lyde:*
 
 > pasientens pårørende: den pasienten oppgir som pårørende og nærmeste pårørende. Dersom pasienten er ute av stand til å oppgi pårørende, skal nærmeste pårørende være den som i størst utstrekning har varig og løpende kontakt med pasienten, likevel slik at det tas utgangspunkt i følgende rekkefølge: ektefelle, registrert partner, personer som lever i ekteskapslignende eller partnerskapslignende samboerskap med pasienten, myndige barn, foreldre eller andre med foreldreansvaret, myndige søsken, besteforeldre, andre familiemedlemmer som står pasienten nær, verge eller hjelpeverge. Ved tvungen observasjon eller tvungent psykisk helsevern har den som i størst utstrekning har hatt varig og løpende kontakt med pasienten tilsvarende rettigheter som den nærmeste pårørende etter psykisk helsevernloven og loven her, dersom ikke særlige grunner taler mot dette.
+>
+
+### 2013-04-05 — lov/2013-04-05-12
+
+*§ 1-3 bokstav b annet punktum skal lyde:*
+
+> Dersom pasienten er ute av stand til å oppgi pårørende, skal nærmeste pårørende være den som i størst utstrekning har varig og løpende kontakt med pasienten, likevel slik at det tas utgangspunkt i følgende rekkefølge: ektefelle, registrert partner, personer som lever i ekteskapslignende eller partnerskapslignende samboerskap med pasienten, barn over 18 år, foreldre eller andre med foreldreansvaret, søsken over 18 år, besteforeldre, andre familiemedlemmer som står pasienten nær, verge eller fremtidsfullmektig med kompetanse på det personlige området.
 >
 
 ### 2017-06-16 — lov/2017-06-16-53
@@ -621,13 +619,6 @@ refid: "lov/1999-07-02-63"
 > Tjenestetilbudet skal så langt som mulig utformes i samarbeid med pasient eller bruker. Det skal legges stor vekt på hva pasienten eller brukeren mener ved utforming av tjenestetilbud etter helse- og omsorgstjenesteloven §§ 3-2 første ledd nr. 6, 3-6 og 3-8.
 >
 
-### 2017-06-16 — lov/2017-06-16-55
-
-*§ 3-1 første ledd nytt andre punktum skal lyde:*
-
-> Kommunen skal sørge for at tannhelsetjenester, herunder spesialisttannhelsetjenester, er tilgjengelige for personer som oppholder seg i kommunen.
->
-
 ### 2025-04-25 — lov/2025-04-25-13
 
 *§ 3-1 tredje ledd skal lyde:*
@@ -675,51 +666,11 @@ refid: "lov/1999-07-02-63"
 > Dersom pasienten eller brukeren blir påført skade eller alvorlige komplikasjoner, og utfallet er uventet i forhold til påregnelig risiko, skal pasienten eller brukeren også informeres om hvilke tiltak helse- og omsorgstjenesten vil iverksette for at lignende hendelse ikke skal skje igjen.
 >
 
-### 2017-06-16 — lov/2017-06-16-55
-
-*§ 3-2 første ledd bokstav a skal lyde:*
-
-> omfattes av helse- og omsorgstjenesteloven og spesialisthelsetjenesteloven, samt tanntekniske tjenester.
->
-
-### 2017-06-16 — lov/2017-06-16-55
-
-*§ 3-2 første ledd bokstav b oppheves.*
-
-### 2017-06-16 — lov/2017-06-16-55
-
-*§ 3-2 første ledd nytt nr. 7 skal lyde:*
-
-> Tannhelsetjenester, herunder til pasient- og brukergrupper som nevnt i § 3-2 b.
->
-
-### 2017-06-16 — lov/2017-06-16-55
-
-*§ 3-2 andre ledd første punktum skal lyde:*
-
-> For å oppfylle ansvaret etter § 3-1 skal kommunen ha knyttet til seg lege, sykepleier, fysioterapeut, jordmor, helsesøster, ergoterapeut, psykolog, tannpleier og tannlege.
->
-
 ### 2025-06-20 — lov/2025-06-20-74
 
 *§ 3-2 sjette ledd skal lyde:*
 
 > Dersom skade eller komplikasjon som nevnt i femte ledd er svært alvorlig, skal pasienten eller brukeren gis tilbud om møte med helse- og omsorgstjenesten så snart som mulig etter hendelsen, og senest ti dager etter hendelsen. Slike møter skal ha til formål å gi pasienten eller brukeren informasjon etter fjerde og femte ledd, utveksle informasjon knyttet til hendelsen og avklare hvilket behov pasienten eller brukeren har for videre oppfølging. Ved dødsfall som følge av alvorlig hendelse, skal nærmeste pårørende tilbys tilsvarende møte.
->
-
-## § 3-2 b
-
-### 2017-06-16 — lov/2017-06-16-55
-
-*Ny § 3-2 b skal lyde:*
-
-> § 3-2 b.Kommunens ansvar for tannhelsetjenester til bestemte pasient- og brukergrupper
->
-> For å oppfylle ansvaret etter § 3-1 skal kommunen gi et regelmessig og oppsøkende tannhelsetilbud til:Barn og ungdom til og med det året de fyller 20 årPersoner med psykisk utviklingshemmingPersoner som oppholder seg i helseinstitusjon, herunder institusjon i spesialisthelsetjenestenPersoner som mottar helsetjenester i hjemmet i form av sykepleiePersoner som på grunn av rusavhengighet mottar ett av følgende tilbud:tjenester som nevnt i § 3-2 første ledd nr. 6 bokstav b til clegemiddelassistert rehabiliteringannen tverrfaglig spesialisert behandling for rusavhengighetInnsatte i fengsler i kriminalomsorgen, jf. § 3-9.
->
-> Kommunen kan i tillegg gi et regelmessig og oppsøkende tannhelsetilbud til andre pasient- og brukergrupper enn dem som fremgår av første ledd.
->
-> Kommunen kan yte tannhelsetjenester til voksne mot betaling etter nærmere bestemmelser fastsatt av kommunen. Departementet kan gi forskrift om at kommunen skal sørge for å tilby slike tjenester i områder av kommunen der det ikke foreligger annet tilstrekkelig tilbud, og om pliktens varighet og geografiske omfang.
 >
 
 ## § 3-3
@@ -794,13 +745,6 @@ refid: "lov/1999-07-02-63"
 > Har barneverntjenesten overtatt omsorgen for en pasient eller bruker under 18 år etter barnevernloven § 4-6 andre ledd, § 4-8 eller § 4-12, gjelder første til femte ledd tilsvarende for barneverntjenesten.
 >
 
-### 2017-06-16 — lov/2017-06-16-55
-
-*§ 3-4 nytt andre ledd skal lyde:*
-
-> Kommunen har ansvar for å samordne kommunal og privat tannhelsevirksomhet.
->
-
 ### 2025-06-20 — lov/2025-06-20-39
 
 *§ 3-4 sjette ledd skal lyde:*
@@ -842,6 +786,13 @@ refid: "lov/1999-07-02-63"
 *§ 4-3 fjerde ledd annet punktum skal lyde:*
 
 > Mangler pasienten nærmeste pårørende, skal avgjørelsen legges frem for annet kvalifisert helsepersonell.
+>
+
+### 2013-04-05 — lov/2013-04-05-12
+
+*§ 4-3 første ledd skal lyde:*
+
+> Rett til å samtykke til helsehjelp har:personer over 18 år, med mindre annet følger av § 4-7 eller annen særlig lovbestemmelse, ogpersoner mellom 16 og 18 år, med mindre annet følger av særlig lovbestemmelse eller av tiltakets art.
 >
 
 ### 2017-06-16 — lov/2017-06-16-53
@@ -1001,6 +952,20 @@ refid: "lov/1999-07-02-63"
 > Helsehjelp som innebærer et alvorlig inngrep for pasienten, kan gis dersom det anses å være i pasientens interesse, og det er sannsynlig at pasienten ville ha gitt tillatelse til slik hjelp. Der det er mulig skal det innhentes informasjon fra pasientens nærmeste pårørende om hva pasienten ville ha ønsket. Slik helsehjelp kan besluttes av den som er ansvarlig for helsehjelpen, etter samråd med annet kvalifisert helsepersonell. Det skal fremgå av journalen hva pasientens nærmeste pårørende har opplyst, og hva annet kvalifisert helsepersonell har hatt av oppfatninger.
 >
 
+### 2013-04-05 — lov/2013-04-05-12
+
+*§ 4-6 overskriften skal lyde:*
+
+> § 4-6.Om pasienter over 18 år som ikke har samtykkekompetanse
+>
+
+### 2013-04-05 — lov/2013-04-05-12
+
+*§ 4-6 første ledd skal lyde:*
+
+> Dersom en pasient over 18 år ikke har samtykkekompetanse etter § 4-3 annet ledd, kan den som yter helsehjelp, ta avgjørelse om helsehjelp som er av lite inngripende karakter med hensyn til omfang og varighet.
+>
+
 ### 2025-04-25 — lov/2025-04-25-13
 
 *§ 4-6 overskriften skal lyde:*
@@ -1088,11 +1053,35 @@ refid: "lov/1999-07-02-63"
 > Helse- og omsorgstjenesten kan treffe vedtak om bruk av tekniske innretninger for varsling og lokalisering som ledd i helse- og omsorgstjenester til en pasient eller bruker over 18 år som ikke har beslutningskompetanse etter § 4-3 annet ledd. Bruk av medisinsk teknisk utstyr for varsling reguleres av § 4-6 første til tredje ledd. Reglene i § 4-1 til § 4-3 gjelder tilsvarende for vurdering av brukerens beslutningskompetanse.
 >
 
+## § 4-7
+
+### 2013-04-05 — lov/2013-04-05-12
+
+*§ 4-7 skal lyde:*
+
+> § 4-7.Om pasienter som er fratatt rettslig handleevne på det personlige området
+>
+> Pasient som er fratatt rettslig handleevne på det personlige området etter vergemålsloven § 22 tredje ledd, skal i så stor utstrekning som mulig selv samtykke til helsehjelp. Dersom dette ikke er mulig, kan vergen samtykke på vegne av pasienten.
+>
+
 ## § 4-8
 
 ### 2008-12-19 — lov/2008-12-19-109
 
 *§ 4-8 oppheves.*
+
+## § 4-9
+
+### 2013-04-05 — lov/2013-04-05-12
+
+*§ 4-9 tredje ledd skal lyde:*
+
+> Helsepersonell må forsikre seg om at pasient som nevnt i første og annet ledd er over 18 år og ikke er fratatt rettslig handleevne på det personlige området, og at vedkommende er gitt tilfredsstillende informasjon og har forstått konsekvensene for egen helse ved behandlingsnektelsen.
+>
+> 44. I lov 21. desember 2000 nr. 105 om opplysningsplikt og angrerett mv. ved fjernsalg og salg utenfor fast utsalgssted skal § 7 a tredje ledd annet punktum lyde:
+>
+> Det skal tas særskilt hensyn til behovet for beskyttelse av personer uten rettslig handleevne, som for eksempel mindreårige.
+>
 
 ## § 5-3
 
@@ -1235,8 +1224,6 @@ refid: "lov/1999-07-02-63"
 *§ 7-4 første ledd første punktum skal lyde:*
 
 > Pasienten, brukeren, eller andre som har rett til det, kan be tilsynsmyndigheten om en vurdering dersom vedkommende mener bestemmelser om plikter fastsatt i eller i medhold av helsepersonelloven, spesialisthelsetjenesteloven og helse- og omsorgstjenesteloven er brutt til ulempe for seg eller den hun eller han opptrer på vegne av.
->
-> 2.I lov 19. juni 2009 nr. 58 om merverdiavgift gjøres følgende endringer:
 >
 
 ### 2022-05-20 — lov/2022-05-20-29
@@ -1508,39 +1495,6 @@ refid: "lov/1999-07-02-63"
 > Departementet kan gi forskrifter til gjennomføring og utfylling av bestemmelsene om pasient- og brukerombud.
 >
 
-## § 11-1
-
-### 2017-06-16 — lov/2017-06-16-55
-
-*§ 11-1 tredje ledd nytt andre punktum skal lyde:*
-
-> Dersom pasientens utgifter til tannhelsetjenester helt eller delvis skal dekkes av kommunen, må den privatpraktiserende ha avtale med kommunen.
->
-
-### 2017-06-16 — lov/2017-06-16-55
-
-*§ 11-1 nytt fjerde ledd skal lyde:*
-
-> Kommunen skal dekke utgifter til reise for pasienter som får tilbud om tannhelsetjenester etter § 3-2 b. Kommunen skal gi forskrift med nærmere bestemmelser om utgiftsdekningen.
->
-
-## § 11-6
-
-### 2017-06-16 — lov/2017-06-16-55
-
-*Ny § 11-6 skal lyde:*
-
-> § 11-6.Plikt til å utarbeide atskilte regnskaper mv. for tannhelsetjenester
->
-> Departementet kan gi forskrift om krav til føring av atskilte regnskaper, krav til fordeling av inntekter og utgifter, regulering av overskudd, kontrollsystemer, informasjon og andre krav som er nødvendige for å unngå kryssubsidiering mellom tannhelsetjenester som kommunen tilbyr i områder av kommunen der det ikke foreligger annet tilstrekkelig tilbud, og tjenester som tilbys i konkurranse med private tjenesteytere.
->
-> 5.I lov 20. juni 2014 nr. 42 om behandling av helseopplysninger ved ytelse av helsehjelp skal § 14 første ledd lyde:
->
-> Virksomheter og helsepersonell som tilbyr eller yter tjenester som omfattes av apotekloven, folkehelseloven, helse- og omsorgstjenesteloven, legemiddelloven, smittevernloven og spesialisthelsetjenesteloven, plikter uten hinder av taushetsplikt å registrere eller melde opplysninger som bestemt i forskrifter etter §§ 11 til 13.
->
-> 6.I lov 20. juni 2014 nr. 43 om helseregistre og behandling av helseopplysninger gjøres følgende endringer:
->
-
 ## (annet)
 
 ### 2003-12-12 — lov/2003-12-12-110
@@ -1657,23 +1611,6 @@ refid: "lov/1999-07-02-63"
 
 *Nåværende tredje til femte ledd blir fjerde til sjette ledd.*
 
-### 2017-06-16 — lov/2017-06-16-55
-
-*Nåværende bokstav c, d og e blir bokstav b, c og d.*
-
-> 3.I lov 24. juni 2011 nr. 29 om folkehelsearbeid skal § 21 første ledd bokstav b lyde:relevant kunnskap fra kommunene og fra fylkeskommunens virksomhet med betydning for folkehelsen.
->
-> 4.I lov 24. juni 2011 nr. 30 om kommunale helse- og omsorgstjenester m.m. gjøres følgende endringer:
->
-
-### 2017-06-16 — lov/2017-06-16-55
-
-*Nåværende andre ledd blir nytt tredje ledd.*
-
-### 2017-06-16 — lov/2017-06-16-55
-
-*Nåværende fjerde til sjette ledd blir femte til syvende ledd.*
-
 ### 2022-04-01 — lov/2022-04-01-18
 
 *I lov 2. juli 1999 nr. 63 om pasient- og brukerrettigheter skal ny § 4-5 a lyde:*
@@ -1739,15 +1676,6 @@ refid: "lov/1999-07-02-63"
 
 *Nåværende tredje ledd blir nytt fjerde ledd.*
 
-## § 13
-
-### 2017-06-16 — lov/2017-06-16-55
-
-*§ 13 første ledd skal lyde:*
-
-> Virksomheter og helsepersonell som tilbyr eller yter tjenester som omfattes av apotekloven, folkehelseloven, helse- og omsorgstjenesteloven, legemiddelloven, smittevernloven og spesialisthelsetjenesteloven plikter å melde opplysninger som bestemt i forskrifter etter §§ 8 til 12. Innmelding til registre etter §§ 9 bokstav b, 10, 11 og 12 kan skje uten hinder av taushetsplikt.
->
-
 ## § 4A-2
 
 ### 2025-04-25 — lov/2025-04-25-13
@@ -1800,13 +1728,4 @@ refid: "lov/1999-07-02-63"
 *§ 4A-7 tredje ledd skal lyde:*
 
 > Fristen for å klage til fylkesmannen er tre uker fra vedkommende fikk eller burde ha fått kjennskap til vedtaket.
->
-
-## § 8
-
-### 2017-06-16 — lov/2017-06-16-55
-
-*§ 8 tredje ledd skal lyde:*
-
-> Registrene skal ivareta oppgaver etter apotekloven, folkehelseloven, helse- og omsorgstjenesteloven, legemiddelloven, smittevernloven og spesialisthelsetjenesteloven.
 >

@@ -40,6 +40,12 @@ refid: "lov/2015-05-07-25"
 > Formålet med lova er også å førebygge og kjempe mot handel med menneskeorgan.
 >
 
+## § 16 a
+
+### 2021-06-18 — lov/2021-06-18-122
+
+*§ 16 a annet ledd oppheves.*
+
 ## § 2
 
 ### 2017-06-16 — lov/2017-06-16-54
@@ -78,6 +84,21 @@ refid: "lov/2015-05-07-25"
 > § 23.Pålegg og administrative sanksjonar
 >
 > Spesialisthelsetjenesteloven §§ 7-1 og 7-2 gjeld tilsvarande ved brot på transplantasjonslova eller forskrifter som er gjevne med heimel i lova.
+>
+
+## § 23 a
+
+### 2021-06-18 — lov/2021-06-18-122
+
+*§ 23 a annet ledd oppheves.*
+
+## § 23 b
+
+### 2021-06-18 — lov/2021-06-18-122
+
+*§ 23 b tredje ledd oppheves.*
+
+> 36.I lov 7. mai 2015 nr. 26 om obduksjon og avgjeving av lik til undervisning og forsking gjøres følgende endring:
 >
 
 ## § 5

@@ -43,7 +43,22 @@ refid: "lov/1975-06-06-29"
 > For bustader og fritidsbustader kan eigedomsskatten likevel ikkje vera meir enn kr 4 for kvar kr 1 000 av takstverdet.
 >
 
+## § 12
+
+### 2017-12-19 — lov/2017-12-19-118
+
+*§ 12 bokstav e oppheves.*
+
 ## § 13
+
+### 2006-06-16 — lov/2006-06-16-25
+
+*§ 13 første ledd første punktum skal lyde:*
+
+> Første året det vert utskrive eigedomsskatt i ein kommune, må skatten ikkje vera større enn kr 2 av kvart kr 1.000 av takstverdet.
+>
+> § 13 første ledd femte punktum vert oppheva.
+>
 
 ### 2016-06-17 — lov/2016-06-17-35
 
@@ -52,6 +67,19 @@ refid: "lov/1975-06-06-29"
 > Ved første gongs utskriving på bustader og fritidsbustader som følgje av overgang til nytt utskrivingsalternativ skal skatten for slik eigedom vere kr 2 for kvart kr 1000 av takstverdet. Reglane i første leden andre punktum flg. gjeld tilsvarande.
 >
 > Noverande andre ledd blir nytt tredje ledd.
+>
+
+### 2017-12-19 — lov/2017-12-19-118
+
+*§ 13 første og annet ledd skal lyde:*
+
+> Første året det vert utskrive eigedomsskatt i ein kommune, må skatten ikkje vera større enn kr 1 av kvart kr 1 000 av takstverdet. Seinare kan skatten ikkje i noko år aukast med meir enn kr 1 for kvart kr 1 000. Skatten kan likevel aukast med kr 3 for kvart kr 1 000 for huslause grunneigedomar. Skatten kan aukast med kr 2 for kvart kr 1 000 for eigedomar som nemnde i § 12 bokstav a same år som kommunen innfører botnfrådrag i eigedomsskatten. Skattøyret kan ikkje aukast same år som botnfrådrag fell bort. Derimot kan eigedomsskatten setjast ned til dei nemnde minstegrensene frå eit år til det neste utan omsyn til kor høg skattesatsen er frå før.
+>
+> Ved første gongs utskriving på bustader og fritidsbustader som følgje av overgang til nytt utskrivingsalternativ skal skatten for slik eigedom vere kr 1 for kvart kr 1 000 av takstverdet. Reglane i første leden andre punktum flg. gjeld tilsvarande.
+>
+> Overgangsregel til eigedomsskattelova §§ 3 og 4:
+>
+> Kommunar som i skatteåret 2018 skreiv ut eigedomsskatt på verk og bruk som frametter vert rekna som næringseigedom kan frå og med skatteåret 2019 til og med skatteåret 2024 skrive ut eigedomsskatt på eit særskilt fastsett grunnlag. Det særskilte grunnlaget skal baserast på differansen mellom eigedomsskattegrunnlaget i 2018 og 2019 som er forårsaka av at produksjonsutstyr og -installasjonar ikkje skal reknast med i grunnlaget. Dette særskilte grunnlaget skal i 2019 vere lik seks sjudelar av differansen, og reduserast med ein sjudel kvart påfølgjande år. Skattesatsen ved slik avtrappa utskriving kan ikkje vere høgare enn den som blei nytta for dei same eigedomane for skatteåret 2018.
 >
 
 ### 2019-12-20 — lov/2019-12-20-88
@@ -109,7 +137,23 @@ refid: "lov/1975-06-06-29"
 > Når taksten byggjer på likningsverdet, skal utskrivinga rettast berre så langt likninga vert brigda etter kapittel 9 i likningslova. Fristane for retting etter likningslova § 9-6 gjeld då tilsvarande for eigedomsskatten.
 >
 
+## § 18
+
+### 2007-06-29 — lov/2007-06-29-50
+
+*§ 18 skal lyde:*
+
+> Skattekontoret skal gjeva eigedomsskattekontoret alle opplysningar det ligg inne med og som trengst til utskriving av eigedomsskatten.
+>
+
 ## § 19
+
+### 2007-06-29 — lov/2007-06-29-50
+
+*§ 19 tredje ledd andre punktum skal lyde:*
+
+> Klaga må vera sett fram for skattekontoret, innan fristen som er nemnd i første leden.
+>
 
 ### 2012-12-07 — lov/2012-12-07-73
 
@@ -209,6 +253,15 @@ refid: "lov/1975-06-06-29"
 
 *§ 27 tredje punktum oppheves.*
 
+## § 28
+
+### 2009-06-19 — lov/2009-06-19-51
+
+*§ 28 skal lyde:*
+
+> Gjer særlege grunnar at det kom til å verta særs urimeleg om heile eigedomsskatten vart innkravd, kan skatten setjast ned eller ettergjevast av formannskapet.
+>
+
 ## § 29
 
 ### 2013-01-01 — lov/2012-06-22-44
@@ -232,6 +285,13 @@ refid: "lov/1975-06-06-29"
 
 ## § 3
 
+### 2006-06-16 — lov/2006-06-16-25
+
+*§ 3 skal lyde:*
+
+> Kommunestyret kan skrive ut eigedomsskatt på faste eigedomar i heile kommunen, eller i klårt avgrensa område som heilt eller delvis er utbygde på byvis eller der slik utbygging er i gang. Kommunestyret kan velja å skrive ut eigedomsskatt berre på verk og bruk som nemnde i § 4 andre leden andre og tredje punktum. Utskriving av eigedomsskatt på verk og bruk kan òg skje i tillegg til utskriving av eigedomsskatt i klårt avgrensa område som heilt eller delvis er utbygde på byvis eller der slik utbygging er i gang.
+>
+
 ### 2009-12-11 — lov/2009-12-11-117
 
 *§ 3 nytt annet ledd skal lyde:*
@@ -251,6 +311,27 @@ refid: "lov/1975-06-06-29"
 *§ 3 første ledd skal lyde:*
 
 > Kommunestyret kan skrive ut eigedomsskatt på antenfaste eigedomar i heile kommunen, ellerfaste eigedomar i klårt avgrensa område som heilt eller delvis er utbygde på byvis eller der slik utbygging er i gang, ellerberre på verk og bruk i heile kommunen, ellerberre på verk og bruk og annan næringseigedom i heile kommunen, ellereigedom både under bokstav b og c, ellereigedom både under bokstav b og d, ellerfaste eigedomar i heile kommunen, unnateke verk og bruk og annan næringseigedom.
+>
+
+### 2017-12-19 — lov/2017-12-19-118
+
+*§ 3 første ledd bokstav c skal lyde:*
+
+> berre på kraftverk, vindkraftverk, kraftnettet og anlegg omfatta av særskattereglane for petroleum, eller
+>
+
+### 2017-12-19 — lov/2017-12-19-118
+
+*§ 3 første ledd bokstav d skal lyde:*
+
+> berre på næringseigedom, kraftverk, vindkraftverk, kraftnettet og anlegg omfatta av særskattereglane for petroleum, eller
+>
+
+### 2017-12-19 — lov/2017-12-19-118
+
+*§ 3 første ledd bokstav g skal lyde:*
+
+> faste eigedomar i heile kommunen, unnateke næringseigedom, kraftverk, vindkraftverk, kraftnettet og anlegg omfatta av særskattereglane for petroleum.
 >
 
 ### 2019-12-20 — lov/2019-12-20-88
@@ -285,7 +366,30 @@ refid: "lov/1975-06-06-29"
 > § 33 andre ledd andre til fjerde punktum og tredje ledd vert oppheva.
 >
 
+## § 33
+
+### 2007-12-14 — lov/2007-12-14-101
+
+*§ 33 annet ledd nytt siste punktum skal lyde:*
+
+> Kravet i skattelov for byane § 4 andre leden om at departementet må samtykke til oppnemning av sakkunnig nemnd, og høve til tidlegare taksering enn kvart tiande år etter siste punktum, skal ikkje gjelda.
+>
+
 ## § 4
+
+### 2006-06-16 — lov/2006-06-16-25
+
+*§ 4 første punktum skal lyde:*
+
+> Eigedomsskatt vert skriven ut på dei faste eigedomane ut frå tilhøva den 1. januar i skatteåret.
+>
+
+### 2008-12-12 — lov/2008-12-12-90
+
+*§ 4 nytt tredje ledd skal lyde:*
+
+> Flytande anlegg i sjø for oppdrett av fisk, skjell, skalldyr og andre marine artar vert jamnstelt med verk og bruk i andre leden, når anlegget har vore stasjonert i kommunen i over 6 månader i året før skatteåret. Eigedomsskatt vert då skriven ut sjølv om anlegget ikkje var stasjonert i kommunen 1. januar i skatteåret. Verdsetjinga av anlegget skjer jamvel etter tilhøva denne datoen. Til slikt anlegg vert rekna dei fysiske installasjonane som merder, flytemodul, fôringsmaskin, fôringslager, opphaldsrom og sanitæranlegg og liknande, samt anker, lodd og liknande til forankring.
+>
 
 ### 2010-12-10 — lov/2010-12-10-61
 
@@ -299,6 +403,20 @@ refid: "lov/1975-06-06-29"
 *§ 4 annet ledd nytt femte punktum skal lyde:*
 
 > Til annan næringseigedom vert rekna til dømes kontorlokale, parkeringshus, butikk, varelager, hotell, serveringsstad med vidare.
+>
+
+### 2017-12-19 — lov/2017-12-19-118
+
+*§ 4 annet ledd skal lyde:*
+
+> Til faste eigedomar vert rekna bygningar og tomt som høyrer til, huslause grunnstykke som hagar, lykkjer, vassfall, laste-, opplags- eller arbeidstomter, bryggjer og liknande og likeeins næringseigedom. Til næringseigedom vert m.a. rekna fabrikkar, sagbruk, industrielle verk, steinbrot, losse- og lasteplassar og liknande arbeids- og driftsstader samt kontorlokale, butikk, hotell og serveringsstad mv. Produksjonsutstyr og -installasjonar skal ikkje reknast med i eigedomsskattegrunnlaget for næringseigedom. Til næringseigedom vert ikkje rekna kraftverk, vindkraftverk, kraftnettet og anlegg omfatta av særskattereglane for petroleum. For vindkraftverk, kraftnettet og anlegg omfatta av særskattereglane for petroleum skal arbeidsmaskinar og tilhøyrsle og ting som kan setjast i klasse med slikt ikkje reknast med utan tingen er ein part av sjølve føretaket.
+>
+
+### 2017-12-19 — lov/2017-12-19-118
+
+*§ 4 tredje ledd første punktum skal lyde:*
+
+> Flytande anlegg i sjø for oppdrett av fisk, skjell, skalldyr og andre marine artar vert jamnstelt med næringseigedom og anlegg nemnde i andre leden fjerde punktum, når anlegget har vore stasjonert i kommunen i over 6 månader i året før skatteåret.
 >
 
 ### 2019-12-20 — lov/2019-12-20-88
@@ -316,6 +434,38 @@ refid: "lov/1975-06-06-29"
 >
 
 ## § 5
+
+### 2003-12-12 — lov/2003-12-12-103
+
+*§ 5 første ledd ny bokstav g) skal lyde:*
+
+> Eigedom som helseforetak eig, i same omfang som fritaket for statens eigedom etter bokstav a sjette strekpunkt.
+>
+
+### 2006-06-16 — lov/2006-06-16-25
+
+*§ 5 ny bokstav h skal lyde:*
+
+> Eigedom som vert driven som gardsbruk eller skogbruk.
+>
+> § 7 bokstav e vert oppheva.
+>
+> § 11 første ledd andre punktum vert oppheva.
+>
+
+### 2008-05-09 — lov/2008-05-09-20
+
+*§ 5 ny bokstav i skal lyde:*
+
+> Ikkje utbygde delar av Finnmarkseiendommen sin grunn i Finnmark fylke. Dette fritaket gjeld likevel ikkje tomteareal, jamvel om arealet ikkje er utbygd enno.
+>
+
+### 2008-12-12 — lov/2008-12-12-90
+
+*§ 5 bokstav h skal lyde:*
+
+> Eigedom som vert driven som gardsbruk eller skogbruk, herunder gartneri og planteskule tilknytta slik drift.
+>
 
 ### 2012-12-07 — lov/2012-12-07-73
 
@@ -370,11 +520,67 @@ refid: "lov/1975-06-06-29"
 > Ved kommunefordeling av eigedomsskattegrunnlaget for kraftanlegg med kraftstasjonar med installert effekt på eller over 1.000 kW sett i drift etter 1. januar 1997, med tilhøyrande særskilte driftsmiddel som ikkje vart omfatta av GAV fastsett pr. 1. januar 1997, vert gjenanskaffingsverdet for slike driftsmiddel pr. 1. januar 2000 fastsett av Norges vassdrags- og energidirektorat.
 >
 
+### 2001-12-21 — lov/2001-12-21-104
+
+*§ 8 A-1 første ledd første punktum skal lyde:*
+
+> Kommunefordeling av grunnlaget for eigedomsskatt for kraftanlegg med kraftstasjon med installert effekt på eller over 1.000 kW sett i drift pr. 1. januar 1997, skal byggje på plasseringa pr. 1. januar 2000 av slike særskilte driftsmiddel i kraftanlegget som nemnt i § 1-1 andre leden i forskrift av 20. januar 1997 nr. 79 om fastsettelse av skattemessige inngangsverdier pr. 1. januar 1997 for særskilte driftsmidler i kraftforetak og det fastsette gjenanskaffingsverdet (GAV) for slike driftsmiddel etter reglane i kapittel 2 i same forskrift.
+>
+
+### 2001-12-21 — lov/2001-12-21-104
+
+*§ 8 A-1 første ledd siste punktum skal lyde:*
+
+> GAV for reguleringsanlegg med tilhøyrande driftsmiddel skal fordelast mellom alle kraftanlegg som har kraftstasjonar med installert effekt på eller over 1.000 kW som ligg nedanfor reguleringsanlegget, i høve til registrerte energiekvivalenter registrert hos Norges vassdrags- og energidirektorat for desse kraftstasjonane pr. 1. januar 2000.
+>
+
+### 2001-12-21 — lov/2001-12-21-104
+
+*§ 8 A-1 annet ledd siste punktum skal lyde:*
+
+> Slik korrigering vert første gong gjennomført med verknad for eigedomsskatteåret 2003.
+>
+
+### 2001-12-21 — lov/2001-12-21-104
+
+*§ 8 A-1 nytt sjette ledd skal lyde:*
+
+> (6) Som GAV etter denne paragraf skal reknast dei verdiar som vart fastsett av NVE og rapportert i 1997 og i 2001 etter § 2-3 i forskrift av 20. januar 1997 nr. 79 om fastsettelse av skattemessige inngangsverdier pr. 1. januar 1997 for særskilte driftsmidler i kraftforetak, jf. § 2 nr. 2 i forskrift av 20. desember 2000 nr. 1343 om kommunefordeling av grunnlaget for eigedomsskatt for kraftanlegg.
+>
+
 ### 2002-12-20 — lov/2002-12-20-95
 
 *§ 8 A-1 annet ledd siste punktum skal lyde:*
 
 > Slik korrigering vert første gong gjennomført med verknad for eigedomsskatteåret 2004.
+>
+
+### 2003-12-12 — lov/2003-12-12-103
+
+*§ 8 A-1 annet ledd siste punktum skal lyde:*
+
+> Slik korrigering vert første gong gjennomført med verknad for eigedomsskatteåret 2005.
+>
+
+### 2003-12-12 — lov/2003-12-12-103
+
+*§ 8 fjerde ledd skal lyde:*
+
+> Verdet (taksten) av anlegg som nemnt i skatteloven § 18-5 første leden skal ikkje settast lågare enn kr 0,95/kWh eller høgare enn kr 2,35/kWh av grunnlaget for naturressursskatten for anlegget sett ved likninga året før skatteåret.
+>
+
+### 2007-06-29 — lov/2007-06-29-50
+
+*§ 8 tredje ledd første punktum skal lyde:*
+
+> Er det klaga på verdsetjinga, eller er verdsetjinga under prøving for domstolane, skal eigedomsskatten likevel reknast ut etter det verdet som vart sett ved likninga.
+>
+
+### 2007-12-14 — lov/2007-12-14-101
+
+*§ 8 fjerde ledd skal lyde:*
+
+> Verdet (taksten) av anlegg som nemnt i skatteloven § 18-5 første leden skal ikkje settast lågare enn kr 0,95/kWh eller høgare enn kr 2,35/kWh av 1/7 av grunnlaget for anlegget si samla produksjon av elektrisk kraft for inntektsåret og dei seks foregåande åra. Har kraftanlegget vært i drift i færre enn sju år, legges gjennomsnittet for desse åra til grunn for utrekninga.
 >
 
 ### 2011-12-09 — lov/2011-12-09-47
@@ -524,6 +730,27 @@ refid: "lov/1975-06-06-29"
 *§ 8 C-1 tredje ledd skal lyde:*
 
 > (3) Er verdet (taksten) for bustader sett ned ved fastsetjinga etter skatteloven § 4-10 første ledd andre eller tredje punktum, utgjer skattegrunnlaget det justerte verdet multiplisert med 2,67 for primærbustad og 0,8 for sekundærbustad.
+>
+
+### 2017-12-19 — lov/2017-12-19-118
+
+*§ 8 A-2 første ledd nytt annet punktum skal lyde:*
+
+> Verdet av næringseigedom skal setjast til teknisk verde når det ikkje er mogleg å fastsetje verdet etter regelen i første punktum.
+>
+
+### 2017-12-19 — lov/2017-12-19-118
+
+*§ 8 A-2 annet ledd skal lyde:*
+
+> Verdet av vindkraftverk, kraftnettet og anlegg omfatta av særskattereglane for petroleum skal setjast til teknisk verde, eller avkastningsverde når det gir best uttrykk for verdet.
+>
+
+### 2017-12-19 — lov/2017-12-19-118
+
+*§ 8 B-1 første ledd nytt annet og tredje punktum skal lyde:*
+
+> Driftsmiddel som er knytta til kraftproduksjonen og heilt eller delvis inngår i verdet etter første punktum, og uavhengig av om det er ein del av kraftanlegget etter skatteloven § 18-1, kan berre verdsetjast særskilt med den andel av driftsmiddelet som ikkje er knytt til kraftproduksjonen etter skatteloven § 18-5 fjerde leden. Dette gjeld likevel ikkje for driftsmiddel som ligg i ein annan kommune enn kraftanlegget.
 >
 
 ### 2018-12-20 — lov/2018-12-20-99

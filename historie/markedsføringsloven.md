@@ -517,6 +517,12 @@ refid: "lov/2009-01-09-2"
 
 *§ 41 femte ledd oppheves. § 41 nåværende sjette ledd blir femte ledd.*
 
+## § 412
+
+### 2013-05-31 — lov/2013-05-31-25
+
+*§ 412 ny nr. 270 skal lyde:*
+
 ## § 42
 
 ### 2017-06-16 — lov/2017-06-16-49
@@ -684,6 +690,25 @@ refid: "lov/2009-01-09-2"
 
 ### 2013-05-31 — lov/2013-05-31-25
 
+*§ 48 skal lyde:*
+
+> § 48.Straff
+>
+> Den som vesentlig overtrer § 6 fjerde ledd jf. første ledd, forskrift gitt i medhold av § 6 femte ledd, § 11, § 13, § 15, § 20 annet ledd, § 26, § 27, § 28, § 29 eller § 30, straffes med bøter, fengsel inntil 6 måneder eller begge deler dersom ikke strengere straffebestemmelse kommer til anvendelse.
+>
+> Uaktsom vesentlig overtredelse av § 7 eller § 8 jf. § 6 fjerde ledd jf. første ledd, § 11 første ledd, § 26 eller § 27 straffes med bøter, fengsel inntil 6 måneder eller begge deler dersom ikke strengere straffebestemmelse kommer til anvendelse.
+>
+> Ved vurderingen av om en overtredelse er vesentlig skal det særlig legges vekt på overtredelsens omfang, virkninger og graden av skyld. Dersom personen eller foretaket tidligere er ilagt straff eller overtredelsesgebyr for overtredelse av denne lov eller forskrift i medhold av loven, kan straff etter første og annet ledd anvendes selv om overtredelsen ikke er vesentlig.
+>
+> Den som forsettlig eller uaktsomt overtrer vedtak som er gjort i medhold av denne lov, straffes med bøter, fengsel inntil 6 måneder eller begge deler dersom ikke strengere straffebestemmelse kommer til anvendelse.
+>
+> Straff kommer ikke til anvendelse for overtredelse foretatt av en ekspeditør, betjent eller annen liknende underordnet når overtredelsen vesentlig har vært foranlediget av vedkommendes avhengige stilling til den næringsdrivende.
+>
+> Straff kommer ikke til anvendelse ved overtredelse av § 28 når kunnskap om eller rådighet over bedriftshemmeligheten er oppnådd i et tjeneste- eller tillitsvervsforhold eller gjennom pliktstridig handling i et slikt forhold og mer enn 2 år er gått siden forholdet opphørte.
+>
+
+### 2013-05-31 — lov/2013-05-31-25
+
 *§ 48 første ledd første punktum skal lyde:*
 
 > Den som forsettlig og vesentlig overtrer § 6 fjerde ledd jf. første ledd, forskrift gitt i medhold av § 6 femte ledd, § 11, § 13, § 15, § 20 annet ledd, § 26, § 27, § 28, § 29 eller § 30, straffes med bøter, fengsel inntil 6 måneder eller begge deler, dersom ikke strengere straffebestemmelse kommer til anvendelse.
@@ -700,6 +725,21 @@ refid: "lov/2009-01-09-2"
 
 ### 2013-05-31 — lov/2013-05-31-25
 
+*§ 48 a skal lyde:*
+
+> § 48 a.Straff og sivilrettslige sanksjoner ved ulovlig bruk av geografiske betegnelser
+>
+> Den som bruker en geografisk betegnelse i strid med §§ 25, 26 eller 31, straffes med bøter eller fengsel inntil ett år.
+>
+> Dersom det foreligger særlig skjerpende omstendigheter, er straffen bøter eller fengsel inntil tre år. Ved vurderingen av om særlig skjerpende omstendigheter foreligger, skal det særlig legges vekt på den skade som er påført den forurettede, herunder skade på dennes kommersielle omdømme, den vinning som krenkeren har oppnådd, og omfanget av krenkelsen for øvrig.
+>
+> For overtredelse av første og annet ledd kan påtale unnlates hvis ikke allmenne hensyn tilsier påtale, jf. straffeprosessloven § 62 a.
+>
+> Bestemmelsene om sanksjoner mot varemerkeinngrep i varemerkeloven kapittel 8, bortsett fra §§ 60, 61 og 61 a, gjelder tilsvarende ved bruk av geografiske betegnelser i strid med §§ 25, 26 eller 31.
+>
+
+### 2013-05-31 — lov/2013-05-31-25
+
 *Ny § 48 a skal lyde:*
 
 > § 48 a.Straff og sivilrettslige sanksjoner ved ulovlig bruk av geografiske betegnelser
@@ -712,6 +752,10 @@ refid: "lov/2009-01-09-2"
 >
 > Bestemmelsene om sanksjoner mot varemerkeinngrep i varemerkeloven kapittel 8, bortsett fra §§ 60, 61 og 61 a, gjelder tilsvarende ved bruk av geografiske betegnelser i strid med §§ 25, 26 eller 31.
 >
+
+### 2021-06-18 — lov/2021-06-18-122
+
+*§ 48 a tredje ledd oppheves. Nåværende fjerde ledd blir nytt tredje ledd.*
 
 ## § 48 b
 

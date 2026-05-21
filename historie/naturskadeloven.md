@@ -5,6 +5,28 @@ refid: "lov/1994-03-25-7"
 
 # Endringshistorikk: Naturskadeloven
 
+## (annet)
+
+### 2005-06-17 — lov/2005-06-17-84
+
+*Endringen av § 7 første punktum skal lyde:*
+
+> Det er et vilkår for å få erstatning at skaden er meldt til lensmannen, namsfogden eller politistasjon med sivile rettspleieoppgaver senest tre måneder etter at den er inntrådt.
+>
+
+### 2005-06-17 — lov/2005-06-17-84
+
+*Endringen av § 8 første ledd skal lyde:*
+
+> Taksten fastsettes ved skjønn som styres av lensmannen, namsfogden eller politistasjonssjef med sivile rettspleieoppgaver. Skaden skal takseres så snart som mulig.Nr. 36 om endringer i lov 9. desember 1994 nr. 64 om løysingsrettar skal lyde:
+>
+> I lov 9. desember 1994 nr. 64 om løysingsrettar skal § 22 lyde:
+>
+> Skjønn
+>
+> Avgjerd i samsvar med §§ 19 til 21 høyrer under skjønn.
+>
+
 ## § 10
 
 ### 2004-12-17 — lov/2004-12-17-98
@@ -36,6 +58,13 @@ refid: "lov/1994-03-25-7"
 
 ## § 7
 
+### 2004-06-25 — lov/2004-06-25-53
+
+*§ 7 første punktum skal lyde:*
+
+> Det er et vilkår for å få erstatning at skaden er meldt til lensmannen eller namsfogden senest fire uker etter at den er inntrådt.
+>
+
 ### 2004-12-17 — lov/2004-12-17-98
 
 *§ 7 skal lyde:*
@@ -44,6 +73,13 @@ refid: "lov/1994-03-25-7"
 >
 
 ## § 8
+
+### 2004-06-25 — lov/2004-06-25-53
+
+*§ 8 første ledd skal lyde:*
+
+> Skaden skal takseres så snart som mulig. Lensmannen eller namsfogden er takststyrer.
+>
 
 ### 2004-12-17 — lov/2004-12-17-98
 
@@ -57,3 +93,9 @@ refid: "lov/1994-03-25-7"
 >
 > Skadelidte kan kreve takst på egen bekostning dersom fondsstyret vedtar at takst ikke skal holdes. Fristen for å kreve takst er to uker etter at han fikk melding om vedtaket. Ender saken med at han får erstatning, har han krav på dekning av omkostningene overensstemmende med reglene i § 9 fjerde ledd.
 >
+
+## § 9
+
+### 2004-06-25 — lov/2004-06-25-53
+
+*§ 9 første ledd annet punktum oppheves.I lov 9. desember 1994 nr. 64 om løysingsrettar skal § 22 første ledd lyde:*

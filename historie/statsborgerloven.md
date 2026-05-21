@@ -146,7 +146,23 @@ refid: "lov/2005-06-10-51"
 > Kongen kan gi forskrift med nærmere bestemmelser om hva som oppfyller kravet om tilstrekkelig inntekt etter denne bestemmelsen.
 >
 
+## § 11
+
+### 2009-06-19 — lov/2009-06-19-41
+
+*§ 11 annet punktum skal lyde:*
+
+> Søkeren må likevel til sammen ha fem års opphold i riket i løpet av de siste syv årene, med oppholdstillatelser av minst ett års varighet.
+>
+
 ## § 12
+
+### 2009-06-19 — lov/2009-06-19-41
+
+*§ 12 første ledd annet punktum skal lyde:*
+
+> Søkeren må likevel til sammen ha minst tre års opphold i riket i løpet av de siste ti årene med oppholdstillatelser av minst ett års varighet.
+>
 
 ### 2020-12-18 — lov/2020-12-18-150
 
@@ -157,6 +173,13 @@ refid: "lov/2005-06-10-51"
 
 ## § 14
 
+### 2009-06-19 — lov/2009-06-19-41
+
+*§ 14 første ledd skal lyde:*
+
+> For søker som har tillatelse etter utlendingsloven kapittel 13 om særlige regler for utlendinger som omfattes av Avtale om Det europeiske økonomiske samarbeidsområde (EØS) og Konvensjon om opprettelse av Det europeiske Frihandelsforbund (EFTA-konvensjonen), gjelder ikke vilkåret i § 7 første ledd bokstav d. Søkeren må likevel ha oppholdt seg i riket de siste tre årene med oppholdsrett i medhold av utlendingsloven §§ 112 til 116.
+>
+
 ### 2012-04-27 — lov/2012-04-27-22
 
 *§ 14 første ledd første punktum skal lyde:*
@@ -165,6 +188,13 @@ refid: "lov/2005-06-10-51"
 >
 
 ## § 15
+
+### 2009-06-19 — lov/2009-06-19-41
+
+*§ 15 annet punktum skal lyde:*
+
+> Søkeren må likevel ha oppholdt seg i riket med oppholdstillatelser av minst ett års varighet de siste to årene.
+>
 
 ### 2012-04-27 — lov/2012-04-27-22
 
@@ -178,6 +208,13 @@ refid: "lov/2005-06-10-51"
 >
 
 ## § 16
+
+### 2009-06-19 — lov/2009-06-19-41
+
+*§ 16 tredje punktum skal lyde:*
+
+> Statsløs søker som har fylt 18 år, må likevel ha oppholdt seg i riket med oppholdstillatelser av minst ett års varighet de siste tre årene.
+>
 
 ### 2012-04-27 — lov/2012-04-27-22
 
@@ -214,6 +251,13 @@ refid: "lov/2005-06-10-51"
 >
 
 ## § 17
+
+### 2009-06-19 — lov/2009-06-19-41
+
+*§ 17 annet ledd skal lyde:*
+
+> Barnet må likevel ha oppholdt seg i riket de siste to årene med oppholdstillatelser av minst ett års varighet. Opphold i en eller flere søknadsperioder medregnes i toårsperioden. Kravet om oppholdstillatelse gjelder likevel ikke barn som er statsborger av et annet nordisk land.
+>
 
 ### 2012-04-27 — lov/2012-04-27-22
 
@@ -328,6 +372,17 @@ refid: "lov/2005-06-10-51"
 > I sak som nevnt i fjerde ledd har den saken gjelder rett til fritt rettsråd uten behovsprøving. I sak som nevnt i sjette ledd har vedkommende rett til fri saksførsel uten behovsprøving.
 >
 > Kongen kan gi regler om hvilke saker som skal behandles i stornemnd, og om myndighet til å avgjøre hvorvidt en sak som er brakt inn for behandling i stornemnda, skal antas til behandling. Kongen kan i forskrift gi nærmere regler om saksforberedelse og om Utlendingsnemndas kompetanse i saker etter fjerde ledd. Kongen kan også gi regler om nemndas nærmere behandling av saker etter loven her.
+>
+
+### 2009-06-19 — lov/2009-06-19-41
+
+*§ 27 tredje ledd tredje punktum skal lyde:*
+
+> Utlendingsloven §§ 77 og 78 gjelder tilsvarende ved behandling av saker etter loven her.
+>
+> 13. I lov 17. juni 2005 nr. 67 om betaling og innkreving av skatte- og avgiftskrav skal § 4-1 annet ledd annet punktum lyde:
+>
+> Pliktene og ansvaret påhviler også den som oppgir å være arbeidsgiver i saker etter utlendingsloven §§ 23 tredje ledd og 24 annet ledd.
 >
 
 ### 2012-04-27 — lov/2012-04-27-22
@@ -560,6 +615,13 @@ refid: "lov/2005-06-10-51"
 > Kongen kan i forskrift gi utfyllende bestemmelser om kravet til identifikasjon og om politiattest.
 >
 > Kongen kan i forskrift gi bestemmelser om beregning av oppholdstid etter reglene i dette kapitlet.
+>
+
+### 2009-06-19 — lov/2009-06-19-41
+
+*§ 7 første ledd bokstavene d og e skal lyde:*
+
+> fyller vilkårene for permanent oppholdstillatelse i utlendingsloven § 62,har til sammen syv års opphold i riket i løpet av de siste ti årene, med oppholdstillatelser av minst ett års varighet, opphold i en eller flere søknadsperioder medregnet i syvårsperioden, jf. femte ledd,
 >
 
 ### 2012-04-27 — lov/2012-04-27-22

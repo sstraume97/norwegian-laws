@@ -87,3 +87,66 @@ refid: "lov/2005-06-17-85"
 
 > Kommisjonen skal også utrede krav om kollektive eller individuelle rettigheter til fiskeplasser i sjø- og fjordområder i Finnmark dersom noen med rettslig interesse i en avklaring krever det.
 >
+
+## § 38
+
+### 2007-02-27 — lov/2007-01-26-3
+
+*§ 38 annet ledd annet punktum skal lyde:*
+
+> Avgjørelser etter leddet her kan ikke angripes.
+>
+
+## § 39
+
+### 2007-02-27 — lov/2007-01-26-3
+
+*§ 39 annet ledd tredje punktum skal lyde:*
+
+> Avvisning etter paragrafen her kan ikke angripes.
+>
+
+## § 40
+
+### 2007-02-27 — lov/2007-01-26-3
+
+*§ 40 fjerde ledd skal lyde:*
+
+> Beslutninger etter paragrafen her kan ikke angripes.
+>
+
+## § 42
+
+### 2007-02-27 — lov/2007-01-26-3
+
+*§ 42 skal lyde:*
+
+> § 42.Anke
+>
+> Utmarksdomstolens avgjørelser kan påankes til Høyesterett når anke ikke er avskåret etter loven her.
+>
+
+## § 43
+
+### 2007-02-27 — lov/2007-01-26-3
+
+*§ 43 tredje ledd annet og nytt tredje punktum skal lyde:*
+
+> En part kan også bli pålagt å erstatte motpartens sakskostnader så langt disse er pådradd ved partens forsømmelser eller rettsstridig atferd. Tilsvarende gjelder når en part har trukket saken i langdrag eller gjort den utilbørlig vidløftig.
+>
+
+### 2007-02-27 — lov/2007-01-26-3
+
+*§ 43 fjerde ledd annet punktum skal lyde:*
+
+> For anke over utmarksdomstolens avgjørelser gjelder lov 17. desember 1982 nr. 86 om rettsgebyr § 8.
+>
+
+## § 46
+
+### 2007-02-27 — lov/2007-01-26-3
+
+*§ 46 annet ledd skal lyde:*
+
+> Domstolloven og tvisteloven gjelder så langt de passer for utmarksdomstolens virksomhet, dersom ikke annet er bestemt i loven her.
+>

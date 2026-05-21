@@ -98,7 +98,33 @@ refid: "lov/2001-06-15-59"
 
 *§ 21 nåværende tredje ledd blir nytt annet ledd annet punktum.*
 
+### 2013-04-05 — lov/2013-04-05-12
+
+*§ 21 annet ledd bokstav a skal lyde:*
+
+> eiendeler som etter vedtektene eller styrets beslutning forvaltes av fylkesmannen etter vergemålsloven § 97, og
+>
+
 ## § 27
+
+### 2013-04-05 — lov/2013-04-05-12
+
+*§ 27 første ledd annet punktum skal lyde:*
+
+> Det samme gjelder mindreårige, personer som er fratatt rettslig handleevne, og personer det har inntrådt slik hindring for som nevnt i konkursloven § 142.
+>
+> 46. I lov 5. juli 2002 nr. 64 om registrering av finansielle instrumenter skal § 8-2 nr. 3 første punktum lyde:
+>
+> Tingretten og namsmannen har rett til å få opplyst hvilke registrerte finansielle instrumenter som tilhører en saksøkt, en skyldner eller en person som er fratatt rettslig handleevne, og om det er øvrige begrensede rettigheter i disse.
+>
+> 47. I lov 6. juni 2003 nr. 38 om bustadbyggjelag skal § 6-7 første ledd annet punktum lyde:
+>
+> Det same gjeld dersom ein styremedlem blir fråteken rettsleg handleevne eller blir sett i konkurskarantene etter konkursloven §§ 142 og 143.
+>
+> 48. I lov 27. juni 2003 nr. 64 om alternativ behandling av sykdom mv. skal § 7 tredje ledd første punktum lyde:
+>
+> Bestemmelsen i første ledd gjelder ikke dersom behandlingen skjer i samarbeid eller samforståelse med pasientens lege, og pasienten har samtykkekompetanse etter pasient- og brukerrettighetsloven § 4-3 første og andre ledd.
+>
 
 ### 2021-05-28 — lov/2021-05-28-51
 
@@ -229,6 +255,12 @@ refid: "lov/2001-06-15-59"
 
 > Når sammenslåingen er vedtatt, og vedtaket i tilfelle er godkjent av Stiftelsestilsynet, skal Stiftelsestilsynet kunngjøre vedtaket i Brønnøysundregistrenes elektroniske kunngjøringspublikasjon og varsle stiftelsenes kreditorer om at de må melde fra til stiftelsen innen seks uker fra kunngjøringen, dersom de vil gjøre innsigelse mot sammenslåingen.
 >
+
+## § 58
+
+### 2009-06-19 — lov/2009-06-19-74
+
+*§ 58 første ledd annet punktum og tredje ledd første punktum oppheves.*
 
 ## § 61
 

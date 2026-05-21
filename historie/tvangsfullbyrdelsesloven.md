@@ -5,16 +5,20 @@ refid: "lov/1992-06-26-86"
 
 # Endringshistorikk: Tvangsfullbyrdelsesloven – tvangsloven
 
-## § 1-1
-
-### 2003-01-01 — forskrift/2002-10-11-1094
-
-*§ 1-1 annet ledd skal lyde:*
-
-> Kapittel 2 og 3 gjelder ikke for namsmann som er oppnevnt av retten som medhjelper ved tvangssalg av realregistrerte formuesgoder eller adkomstdokumenter til leierett til bolig.
->
-
 ## § 1-2
+
+### 2007-02-27 — lov/2007-01-26-3
+
+*§ 1-2 første ledd annet punktum oppheves. I annet ledd fjernes ordene «eller sikres etter kapittel 14».*
+
+> I følgende bestemmelser fjernes uttrykket «eller midlertidig sikring»:
+>
+> §§ 1-3 første ledd, 1-6 tredje ledd, 2-1 annet ledd, 2-2 tredje ledd og 3-7 i nåværende tredje ledd.
+>
+> I følgende bestemmelser fjernes uttrykket «og midlertidig sikring»:
+>
+> §§ 1-5 første til tredje ledd, 1-6 første ledd første og annet punktum, 1-7 første og annet punktum, 2-8 første ledd og 3-6 første ledd.
+>
 
 ### 2012-05-25 — lov/2012-05-25-28
 
@@ -71,6 +75,22 @@ refid: "lov/1992-06-26-86"
 > Med adkomstdokument til leierett eller borett til husrom menes dokument som representerer en leierett eller borett til husrom knyttet til en overførbar fordring på utleieren eller en andelsrett i et selskap, unntatt borettslagsandel som er registrert i grunnboken.
 >
 
+### 2007-02-27 — lov/2007-01-26-3
+
+*§ 1-8 femte ledd skal lyde:*
+
+> Med en persons alminnelige verneting menes i denne loven den rettskrets eller det namsmannsdistrikt hvor vedkommende har bopel eller slik tilknytning som nevnt i tvisteloven § 4-4 tredje til femte ledd. Den som har bopel i flere rettskretser eller namsmannsdistrikter, har alminnelig verneting i alle disse.
+>
+
+## § 1-9
+
+### 2007-02-27 — lov/2007-01-26-3
+
+*§ 1-9 bokstav b til d skal lyde:*
+
+> Et krav som gjelder bruksrett eller servitutt over løsøre, anses for å være både der løsøregjenstanden er og der rettighetshaveren har alminnelig verneting. Dersom rettighetshaveren ikke har alminnelig verneting i riket, anses kravet dessuten for å være der eieren av løsøret har alminnelig verneting.Et krav som er knyttet til verdipapir, anses for å være der verdipapiret er.Et krav av annen art anses for å være der kravshaveren har alminnelig verneting. Dersom kravshaveren ikke har alminnelig verneting i riket, anses et krav som en bestemt person er forpliktet til å oppfylle, for å være der den forpliktede har alminnelig verneting. Dersom rettighetshaveren ikke har alminnelig verneting i riket, anses en immaterialrettighet som er registrert i et særskilt register, for å være der den registrerte fullmektig har alminnelig verneting. Finnes ingen registrert fullmektig med alminnelig verneting i riket, anses immaterialrettigheten for å være der registeret føres.
+>
+
 ## § 1-10
 
 ### 2017-03-31 — lov/2017-03-31-14
@@ -86,6 +106,40 @@ refid: "lov/1992-06-26-86"
 > Annet ledd gjelder tilsvarende for varsel etter § 1-3 tredje ledd første punktum og melding etter § 11-58 første ledd annet punktum.
 >
 
+## § 2-2
+
+### 2004-06-25 — lov/2004-06-25-53
+
+*§ 2-2 første ledd skal lyde:*
+
+> I lensmannsdistrikter er lensmannen namsmann. I namsfogddistrikter er namsfogden namsmann. Namsmann for Svalbard er sysselmannen. Kongen fastsetter hvilke namsmannsdistrikter norsk kontinentalsokkel og norsk økonomisk sone hører til.
+>
+
+### 2017-05-11 — lov/2017-05-11-26
+
+*§ 2-2 første ledd skal lyde:*
+
+> Namsmannen er den som er utpekt som namsmann etter politiloven § 17.
+>
+
+## § 2-4
+
+### 2007-06-15 — lov/2007-06-15-38
+
+*§ 2-4 skal lyde:*
+
+> Til namsmannens forretninger og møter kan namsmannen tilkalle et rettsvitne dersom det av særlige grunner finnes ønskelig. Domstolloven § 90 første ledd første punktum og annet ledd og §§ 101-105 a gjelder tilsvarende.
+>
+
+## § 2-7
+
+### 2007-02-27 — lov/2007-01-26-3
+
+*§ 2-7 annet punktum skal lyde:*
+
+> Om oppfriskning for oversittelse av frist for å klage til tingretten etter § 5-16 gjelder tvisteloven §§ 16-12 til 16-14 tilsvarende.
+>
+
 ## § 2-8
 
 ### 2002-08-30 — lov/2002-08-30-67
@@ -97,6 +151,17 @@ refid: "lov/1992-06-26-86"
 > Tingretten behandler saker om tvangsfullbyrdelse og midlertidig sikring i sin rettskrets.
 >
 > Under retten hører de saker som loven legger til retten, klager over namsmannens avgjørelser og handlemåte etter § 5-16, og dessuten saker som retten av særlige grunner beslutter å overta fra namsmannen.
+>
+
+## § 2-9
+
+### 2005-06-17 — lov/2005-06-17-84
+
+*§ 2-9 skal lyde:*
+
+> Bemyndigelse av funksjonærer
+>
+> Tingrettene kan overlate utførelsen av sine gjøremål etter denne lov til sine funksjonærer. Tingretten kan likevel ikke overlate til funksjonærer å avsi dommer og kjennelser eller å treffe beslutning om tvangssalg etter § 11-9. Kongen gir nærmere regler om bemyndigelse av funksjonærer.
 >
 
 ## § 2-10
@@ -113,6 +178,15 @@ refid: "lov/1992-06-26-86"
 *§ 2-10 tredje ledd første og annet punktum skal lyde:*
 
 > Ved tvangssalg av fast eiendom og adkomstdokumenter til leierett eller borett til husrom i lensmannsdistrikt kan namsmannen oppnevnes som medhjelper. Ved tvangssalg av realregistrerte formuesgoder og adkomstdokumenter til leierett eller borett til husrom i andre tilfeller kan namsmannen oppnevnes som medhjelper i samsvar med bestemmelser gitt av Kongen.
+>
+
+## § 2-12
+
+### 2007-02-27 — lov/2007-01-26-3
+
+*§ 2-12 skal lyde:*
+
+> Om rettsmidler mot rettens avgjørelser gjelder tvisteloven sjette del og kapittel 17. Gjenåpning kan bare begjæres når avgjørelsen rettskraftig avgjør et krav, eller hever eller avviser en sak, eller når det ellers er bestemt i denne lov.
 >
 
 ## § 2-13
@@ -141,13 +215,22 @@ refid: "lov/1992-06-26-86"
 > § 2-7 gjelder tilsvarende for Statens innkrevingssentrals tvangsfullbyrdelse.
 >
 
+## § 3-2
+
+### 2007-02-27 — lov/2007-01-26-3
+
+*§ 3-2 tredje ledd tredje punktum skal lyde:*
+
+> Tvisteloven §§ 16-12 til 16-14 gjelder tilsvarende.
+>
+
 ## § 3-3
 
-### 2003-01-01 — forskrift/2002-10-11-1094
+### 2007-02-27 — lov/2007-01-26-3
 
-*§ 3-3 annet ledd skal lyde:*
+*§ 3-3 første punktum skal lyde:*
 
-> Dersom kjøpesummen kan antas å overstige kr 3.000.000, kan første ledd fravikes ved avtale mellom retten og medhjelperen inntil utkastet til fordelingskjennelse er forelagt for rettighetshaverne.
+> Tvisteloven kapittel 20 gjelder for partenes ansvar for sakskostnader ved rettens behandling av tvister og klage etter § 5-16 og ved rettsmidler mot rettens avgjørelser.
 >
 
 ## § 3-4
@@ -168,6 +251,44 @@ refid: "lov/1992-06-26-86"
 > Krav om erstatning etter denne paragrafen kan gjøres gjeldende for tingretten i en sak om opphevelse av sikringen, eller ved ordinært søksmål etter tvistemålslovens regler.
 >
 
+## § 4-1
+
+### 2007-02-27 — lov/2007-01-26-3
+
+*§ 4-1 annet ledd bokstav a skal lyde:*
+
+> dom eller kjennelse av en norsk domstol, og andre avgjørelser av en norsk domstol som har virkning som dom eller kjennelse eller som avgjør krav om erstatning for sakskostnader.
+>
+
+### 2007-02-27 — lov/2007-01-26-3
+
+*§ 4-1 annet ledd bokstav g skal lyde:*
+
+> avgjørelse av utenlandsk domstol som vil være bindende her i riket etter tvisteloven § 19-16 annet og tredje ledd.
+>
+
+### 2007-02-27 — lov/2007-01-26-3
+
+*§ 4-1 nytt tredje og fjerde ledd skal lyde:*
+
+> (3) Når krav på erstatning for sakskostnader i rettergang er fastsatt i et alminnelig tvangsgrunnlag etter annet ledd bokstav a, b, d og e, omfatter grunnlaget også forsinkelsesrente av kravet etter forsinkelsesrenteloven.
+>
+> (4) Et alminnelig eller særlig tvangsgrunnlag for krav på forsinkelsesrente etter forsinkelsesrenteloven gir for den del av kravet som har oppstått etter grunnlaget, fordringshaveren rett til dekning etter den rentesats som gjelder etter §§ 3 og 4 i loven. Er det ikke sannsynliggjort om grunnlaget gir rett til alminnelig forsinkelsesrente eller forsinkelsesrente i forbrukerforhold, beregnes kravet etter laveste sats.
+>
+
+## § 4-6
+
+### 2007-02-27 — lov/2007-01-26-3
+
+*§ 4-6 skal lyde:*
+
+> § 4-6.Hvem som kan begjære tvangsfullbyrdelse
+>
+> Tvangsfullbyrdelse kan bare begjæres av den som i tvangsgrunnlaget er nevnt som berettiget, herunder gruppemedlem som er omfattet av avgjørelse i gruppesøksmål, eller som lovlig har ervervet kravet.
+>
+> Når tvangsgrunnlaget er avgjørelse i gruppesøksmål etter tvisteloven § 35-7, og slutningen angir framgangsmåten for direkte oppfyllelse overfor gruppemedlemmene, kan tvangsfullbyrdelse også begjæres av den som var grupperepresentant i saken.
+>
+
 ## § 4-18
 
 ### 2016-05-27 — lov/2016-05-27-15
@@ -185,6 +306,29 @@ refid: "lov/1992-06-26-86"
 >
 
 ## § 5-1
+
+### 2004-06-25 — lov/2004-06-25-53
+
+*§ 5-1 annet ledd fjerde punktum skal lyde:*
+
+> Videre kan den som har rett til å drive rettshjelpsvirksomhet etter domstolloven § 218 annet ledd nr. 1 til 3, være prosessfullmektig under tvangsfullbyrdelse i rettshjelpsoppdrag som vedkommende har for parten.
+>
+
+### 2007-02-27 — lov/2007-01-26-3
+
+*§ 5-1 første ledd og annet ledd første punktum skal lyde:*
+
+> Om partsevne, prosessdyktighet og stedfortredere gjelder tvisteloven kapittel 2 tilsvarende.
+>
+> Om prosessfullmektig gjelder tvisteloven kapittel 3 tilsvarende.
+>
+
+### 2007-02-27 — lov/2007-01-26-3
+
+*§ 5-1 annet ledd annet punktum oppheves. Nåværende tredje til femte punktum blir annet til fjerde punktum. Fjerde punktum skal lyde:*
+
+> For prosessfullmektig etter tredje punktum gjelder tvisteloven § 12-1 på tilsvarende måte som for advokater.
+>
 
 ### 2025-06-20 — lov/2025-06-20-78
 
@@ -235,6 +379,15 @@ refid: "lov/1992-06-26-86"
 > § 5-7.Namsmannens adgang til å pålegge partene og andre opplysningsplikt
 >
 
+## § 5-8
+
+### 2007-02-27 — lov/2007-01-26-3
+
+*§ 5-8 første ledd tredje punktum skal lyde:*
+
+> Dersom saksøkeren uteblir uten at det er opplyst eller sannsynlig at vedkommende har gyldig fravær, kan saken heves.
+>
+
 ## § 5-9
 
 ### 2025-04-25 — lov/2025-04-25-12
@@ -255,7 +408,23 @@ refid: "lov/1992-06-26-86"
 > Selv om namsmannen etter loven er pålagt å gi noen en meddelelse, kan tvangsfullbyrdelsen likevel gjennomføres uten meddelelse dersom vedkommende ikke har kjent adresse eller kjent fullmektig med kjent adresse.
 >
 
+## § 5-15
+
+### 2007-02-27 — lov/2007-01-26-3
+
+*§ 5-15 annet punktum skal lyde:*
+
+> Om retting av namsmannens avgjørelser gjelder tvisteloven § 19-8 første ledd tilsvarende.
+>
+
 ## § 5-16
+
+### 2017-05-11 — lov/2017-05-11-26
+
+*§ 5-16 annet ledd annet punktum og nytt tredje punktum skal lyde:*
+
+> Ellers forelegges klagen sammen med de tilhørende dokumenter og opplysninger uten opphold for tingretten i rettskretsen der saksøkte bor. Hvis namsmannens stedlige kompetanse bygger på annet grunnlag enn saksøktes bosted, forelegges klagen for tingretten i rettskretsen som saken har slik tilknytning til.
+>
 
 ### 2025-04-25 — lov/2025-04-25-12
 
@@ -317,6 +486,20 @@ refid: "lov/1992-06-26-86"
 > I saker om tvangsdekning i fast eiendom, borettslagsandel eller adkomstdokument til leierett eller borett til bolig, kan retten i særlige tilfeller beslutte utsettelse etter § 5-12 selv om saksøkte ikke betaler en femtedel av saksøkerens samlede krav dersom tvangsdekningen vil medføre at saksøkte taper retten til nødvendig bolig for seg og sin familie.
 >
 
+### 2007-02-27 — lov/2007-01-26-3
+
+*§ 6-1 første ledd skal lyde:*
+
+> Tvisteloven første, fjerde og femte del, med unntak for kapittel 4, 16 III og IV og 20, samt kapittel 8 gjelder for tingretten.
+>
+
+### 2007-02-27 — lov/2007-01-26-3
+
+*§ 6-1 tredje ledd skal lyde:*
+
+> Om rettsbøker for tingrettens rettsmøter gjelder tvisteloven kapittel 13 II og 14. Om innføring i rettsbok og opptak av forklaringer gjelder samme regler som under hovedforhandling.
+>
+
 ### 2025-04-25 — lov/2025-04-25-12
 
 *§ 6-1 andre ledd andre punktum skal lyde:*
@@ -326,6 +509,20 @@ refid: "lov/1992-06-26-86"
 
 ## § 6-2
 
+### 2004-06-25 — lov/2004-06-25-53
+
+*§ 6-2 tredje punktum skal lyde:*
+
+> Videre kan den som har rett til å drive rettshjelpsvirksomhet etter domstolloven § 218 annet ledd nr. 1 til 3, være prosessfullmektig under tvangsfullbyrdelse i rettshjelpsoppdrag som vedkommende har for parten.
+>
+
+### 2007-02-27 — lov/2007-01-26-3
+
+*§ 6-2 skal lyde:*
+
+> Inkassobevillingshaver hos en inkassator som driver inkassovirksomhet i medhold av inkassobevilling etter inkassoloven, kan være prosessfullmektig etter samme regler som advokater under tvangsfullbyrdelse i inkassooppdrag som inkassatoren har for parten. Videre kan den som har rett til å drive rettshjelpsvirksomhet etter domstolloven § 218 annet ledd nr. 1 til 3, være prosessfullmektig under tvangsfullbyrdelse i rettshjelpsoppdrag som vedkommende har for parten. For prosessfullmektig etter annet punktum gjelder tvisteloven § 12-1 på tilsvarende måte som for advokater. Reglene i første til tredje punktum gjelder ikke ved behandling av tvister ved allmennprosess.
+>
+
 ### 2025-06-20 — lov/2025-06-20-78
 
 *§ 6-2 andre punktum skal lyde:*
@@ -333,7 +530,52 @@ refid: "lov/1992-06-26-86"
 > Videre kan en jurist være prosessfullmektig under tvangsfullbyrdelse.
 >
 
+## § 6-3
+
+### 2007-02-27 — lov/2007-01-26-3
+
+*§ 6-3 første ledd første punktum skal lyde:*
+
+> Tingrettens avgjørelser treffes ved kjennelse når fullbyrdelsen nektes fremmet, heves eller utsettes, ved avgjørelse av tvist eller når det ellers er bestemt i tvisteloven eller loven her.
+>
+
+## § 6-5
+
+### 2007-02-27 — lov/2007-01-26-3
+
+*§ 6-5 første ledd tredje punktum skal lyde:*
+
+> Rettens avgjørelser etter denne paragrafen kan ikke angripes.
+>
+
+## § 6-6
+
+### 2007-02-27 — lov/2007-01-26-3
+
+*§ 6-6 overskriften og første ledd første punktum skal lyde:*
+
+> Behandling av tvister ved allmennprosess.
+>
+> Reiser saksøkte innvending mot at tvangsfullbyrdelsen gjennomføres, kan retten beslutte at tvisten skal behandles ved allmennprosess dersom det er hensiktsmessig på grunn av de faktiske og rettslige spørsmål som tvisten reiser.
+>
+
+### 2007-02-27 — lov/2007-01-26-3
+
+*§ 6-6 annet og tredje ledd skal lyde:*
+
+> Partene i tvisten skal gis adgang til å uttale seg før retten beslutter at en tvist skal behandles ved allmennprosess. I beslutningen skal retten fastsette innen hvilken frist søksmålet må reises. Beslutningen kan ikke angripes.
+>
+> Ved behandling ved allmennprosess kan det krav innvendingen bygger på, bringes inn til avgjørelse dersom kravet kan bringes inn for norsk domstol. Megling i forliksrådet foretas ikke.
+>
+
 ## § 7-2
+
+### 2004-06-25 — lov/2004-06-25-53
+
+*§ 7-2 ny bokstav f skal lyde:*
+
+> Skriftstykke som fordringshaveren selv har sendt skyldneren og som viser kravets grunnlag og omfang. Skriftstykket er også tvangsgrunnlag for renter og utenrettslige inndrivingskostnader.
+>
 
 ### 2016-05-27 — lov/2016-05-27-15
 
@@ -351,6 +593,119 @@ refid: "lov/1992-06-26-86"
 > Tvangsgrunnlag for utlegg er foruten de alminnelige tvangsgrunnlagene:Gjeldsbrev som lyder på en bestemt pengesum og som inneholder vedtakelse av at gjelden kan inndrives uten søksmål. Gjeldsbrevet er tvangsgrunnlag overfor utstederen når vedkommendes underskrift er bekreftet av to myndige vitner eller i samsvar med forskrift gitt av Kongen. Gjeldsbrevet er også tvangsgrunnlag overfor enhver som ved påskrift på gjeldsbrevet har påtatt seg selvskyldneransvar ved en overdragelse eller stilt seg som selvskyldnerkausjonist eller som kausjonist på forfallsvilkår som nevnt i finansavtaleloven § 71, forutsatt at påskriften inneholder vedtakelse av inndriving uten søksmål, og at vedkommendes underskrift er bekreftet som nevnt ovenfor.Veksler for krav som nevnt i vekselloven §§ 47 til 49 jf § 77.Sjekker for krav som nevnt i sjekkloven §§ 44 til 46.Beslutning om tvangsmulkt eller disiplinærstraff truffet av offentlig myndighet med hjemmel i lov.Krav som etter særlig lovbestemmelse er tvangsgrunnlag for utlegg.Skriftlig meddelelse som fordringshaveren selv har sendt skyldneren og som viser kravets grunnlag og omfang.Elektronisk gjeldserklæring som lyder på en bestemt pengesum, når erklæringen er avgitt til foretak med rett til å drive finansieringsvirksomhet etter finansforetaksloven § 2-1 eller til institusjon som nevnt i finansforetaksloven § 1-6 første ledd, og erklæringen inneholder vedtakelse av at gjelden kan inndrives uten søksmål, samt elektronisk erklæring om kausjonsansvar som selvskyldner eller på forfallsvilkår som nevnt i finansavtaleloven § 71 for en slik forpliktelse når kausjonserklæringen er avgitt til foretak eller institusjon som nevnt og inneholder vedtakelse av inndrivelse uten søksmål.
 >
 > Tvangsgrunnlag som nevnt i første ledd er også tvangsgrunnlag for utenrettslige inndrivingskostnader og renter med mindre annet følger av lov eller tvangsgrunnlaget.
+>
+
+## § 7-3
+
+### 2004-06-25 — lov/2004-06-25-53
+
+*§ 7-3 annet ledd innledningen skal lyde:*
+
+> Med unntak for begjæring om utlegg etter § 7-2 bokstav f kan en begjæring om utlegg også settes frem for namsmannen i et annet distrikt hvor saksøkte har formuesgoder når:
+>
+
+### 2005-06-17 — lov/2005-06-17-89
+
+*§ 7-3 annet ledd annet punktum skal lyde:*
+
+> For saksøkte som har kjent hjemting i riket, kan utleggstrekk bare besluttes av namsmannen i det distrikt der saksøkte har hjemting.
+>
+
+### 2007-02-27 — lov/2007-01-26-3
+
+*§ 7-3 første ledd skal lyde:*
+
+> Begjæring om utlegg skal settes fram for namsmannen i det distriktet der saksøkte har alminnelig verneting.
+>
+
+### 2007-02-27 — lov/2007-01-26-3
+
+*§ 7-3 annet ledd første punktum bokstav a og d og annet punktum skal lyde:*
+
+> det er sannsynlig at det ikke vil være tilstrekkelige eller hensiktsmessige formuesgoder å ta utlegg i i det distrikt der saksøkte har alminnelig verneting,saksøkte ikke har kjent alminnelig verneting i riket,For saksøkte som har kjent alminnelig verneting i riket, kan utleggstrekk bare besluttes av namsmannen i det distrikt der saksøkte har alminnelig verneting.
+>
+
+## § 7-4
+
+### 2004-06-25 — lov/2004-06-25-53
+
+*§ 7-4 nytt annet ledd skal lyde:*
+
+> I samme begjæring kan det ikke kreves utlegg etter tvangsgrunnlag som nevnt i § 7-2 bokstav f og etter et alminnelig tvangsgrunnlag.
+>
+
+## § 7-5
+
+### 2004-06-25 — lov/2004-06-25-53
+
+*§ 7-5 nytt annet ledd skal lyde:*
+
+> En begjæring om utlegg etter § 7-2 bokstav f skal i tillegg oppfylle kravene til forliksklager i tvistemålsloven § 277 første ledd. Begjæringen skal opplyse om saksøker ønsker behandling i forliksrådet dersom saksøkte reiser innvendinger mot kravet.
+>
+
+### 2007-02-27 — lov/2007-01-26-3
+
+*§ 7-5 annet ledd første punktum skal lyde:*
+
+> En begjæring om utlegg etter § 7-2 bokstav f skal i tillegg oppfylle kravene til forliksklager i tvisteloven § 6-3.
+>
+
+## § 7-6
+
+### 2004-06-25 — lov/2004-06-25-53
+
+*§ 7-6 annet og nytt tredje ledd skal lyde:*
+
+> Ved begjæring om utlegg etter § 7-2 bokstav f skal saksøkte dessuten oppfordres til å opplyse om sitt standpunkt til saksøkerens krav. Saksøkte skal også oppfordres til å opplyse om vedkommende ønsker at namsmannen anmoder saksøkeren om å sette seg i forbindelse med saksøkte med sikte på å finne frem til en nedbetalingsordning eller en annen minnelig løsning. Saksøkte skal opplyses om at saken vil bli behandlet i forliksrådet eller hevet dersom det reises innvendinger mot kravet og saksøkte ikke har bedt namsmannen anmode saksøkeren om å sette seg i forbindelse med saksøkte. Dersom saksøkte samtidig varsles om tid og sted for avholdelse av utleggsforretning, skal det opplyses at berammelsen faller bort dersom saksøkte reiser innvendinger mot kravet eller ber namsmannen anmode saksøkeren om å sette seg i forbindelse med saksøkte.
+>
+> Vil tvangsfullbyrdelsen ellers bli vesentlig vanskeliggjort, kan meddelelse til saksøkte unnlates. Dette gjelder likevel ikke ved begjæring om utlegg etter § 7-2 bokstav f.
+>
+
+## § 7-7
+
+### 2004-06-25 — lov/2004-06-25-53
+
+*§ 7-7 overskriften skal lyde:*
+
+> Beslutning om å holde utleggsforretning. Behandling i forliksrådet m.m.
+>
+
+### 2004-06-25 — lov/2004-06-25-53
+
+*§ 7-7 nytt annet ledd skal lyde:*
+
+> Ved begjæring om utlegg etter § 7-2 bokstav f skal namsmannen anmode saksøkeren om å sette seg i forbindelse med saksøkte dersom saksøkte har bedt om det innen fristen etter § 7-6. Samtidig skal saksøkeren gis de opplysninger namsmannen finner å kunne gi. Har saksøkte ikke bedt namsmannen om det, skal saken behandles i forliksrådet dersom saksøkte har reist innvendinger mot saksøkerens krav og saksøkeren i begjæringen har opplyst at behandling i forliksrådet i så fall ønskes. Dersom saksøkte har reist innvendinger mot kravet, og saksøkeren ikke har ønsket behandling i forliksrådet, skal namsmannen heve saken. Saksøktes innvendinger legges ved underretningen til saksøkeren. Saksøkeren kan ombestemme seg med hensyn til behandling i forliksrådet dersom melding om det kommer fram til namsmannen før innkalling til forliksrådet eller meddelelse om heving er sendt. Dersom saksøkeren ikke har bedt om annet innen en måned etter at namsmannen anmodet saksøkeren om å sette seg i forbindelse med saksøkte, skal namsmannen behandle saken etter tredje og fjerde punktum i leddet her.
+>
+
+### 2007-02-27 — lov/2007-01-26-3
+
+*§ 7-7 nytt tredje ledd skal lyde:*
+
+> Avsluttes en sak som er behandlet i forliksrådet etter annet ledd, med en kjennelse eller dom i forliksrådet som pålegger innklagede en betalingsplikt overfor klageren, kan klageren innen en måned etter utløpet av dennes frist for å overprøve avgjørelsen uten oppfriskning ved begjæring til namsmannen kreve at utleggssaken skal fortsette. Avsluttes saken med rettsforlik i forliksrådet, kan slikt krav fremmes innen en måned etter at forliket er inngått.
+>
+
+## § 7-10
+
+### 2004-06-25 — lov/2004-06-25-53
+
+*§ 7-10 nytt tredje ledd skal lyde:*
+
+> Ved begjæring om utlegg etter § 7-2 bokstav f kan varsel til saksøkte om forretningen bare unnlates dersom namsmannen finner saksøkte på stedet.
+>
+
+## § 7-11
+
+### 2004-06-25 — lov/2004-06-25-53
+
+*§ 7-11 nytt fjerde ledd skal lyde:*
+
+## § 7-12
+
+### 2007-02-27 — lov/2007-01-26-3
+
+*§ 7-12 første ledd femte punktum skal lyde:*
+
+> Tvisteloven kapittel 22 gjelder tilsvarende.
 >
 
 ## § 7-13
@@ -385,6 +740,19 @@ refid: "lov/1992-06-26-86"
 > Det samme gjelder realregistrerte formuesgoder, finansielle instrumenter registrert i et verdipapirregister, aksjer og adkomstdokumenter til leierett eller borett til husrom som en tredjeperson er registrert eller meldt som eier av.
 >
 
+## § 7-19
+
+### 2005-06-17 — lov/2005-06-17-89
+
+*§ 7-19 skal lyde:*
+
+> § 7-19.Underretning om utleggspant
+>
+> Når det er tatt utleggspant, skal namsmannen gjøre saksøkte kjent med utlegget og med at det er forbudt å forføye over det utlagte formuesgodet i strid med saksøkerens panterett, og med at saksøkeren har rett til å begjære tvangsdekning to uker etter at utleggsforretningen er holdt. Dersom utlegget skal registreres i Løsøreregisteret, skal det opplyses om det i namsboken. Saksøkte skal gis utskrift av namsboken. I tilfeller som nevnt i § 7-14, skal namsmannen også gi slik underretning og utskrift av namsboken til vedkommende tredjeperson.
+>
+> Namsmannen skal gi saksøkeren utskrift av namsboken. Dersom namsmannen etter § 7-20 skal sørge for at utlegget blir registrert i et annet register enn Løsøreregisteret, gis saksøkeren i stedet underretning om utlegget ved at registeret sender utskriften av namsboken med påtegning om registreringen til saksøkeren.
+>
+
 ## § 7-20
 
 ### 2001-06-01 — lov/2001-06-01-28
@@ -401,11 +769,77 @@ refid: "lov/1992-06-26-86"
 > Ved utlegg i adkomstdokumenter til leierett til husrom underretter namsmannen vedkommende utleier eller selskap, jf. panteloven § 5-8.
 >
 
+### 2005-06-17 — lov/2005-06-17-89
+
+*§ 7-20 skal lyde:*
+
+> § 7-20.Avslutning av forretning for utleggspant
+>
+> Ved utlegg i et formuesgode som er registrert i et realregister, i en registrert særlig rett i et slikt formuesgode eller i en ideell andel i et slikt formuesgode eller en slik rett, sender namsmannen omgående utskrift av namsboken til registrering i realregisteret. Tilsvarende gjelder ved utlegg i utinglyst rettighet i fast eiendom. For tilbehør til fast eiendom, gjelder annet ledd tilsvarende.
+>
+> Ved utlegg i løsøre som ikke er realregistrert, kan namsmannen ta løsøret i forvaring eller på annen måte frata saksøkte rådigheten over det som angitt i panteloven § 3-2 annet og tredje ledd, dersom det er grunn til å frykte at saksøkte vil forføye over det i strid med saksøkerens panterett. Tiltak etter første punktum skal føres inn i namsboken. Dersom saksøkeren ikke har begjært tvangsdekning innen en måned etter å ha fått underretning om utlegget, kan namsmannen av eget tiltak oppheve tiltak etter første punktum. Dersom saksøkeren ikke har begjært tvangsdekning innen fristen etter tredje punktum, skal tiltaket oppheves dersom saksøkte begjærer det og det ikke lenger er grunn til å tro at saksøkte vil forføye over løsøret i strid med saksøkerens panterett.
+>
+> Ved utlegg i verdipapirer tar namsmannen papirene i forvaring eller fratar på annen måte saksøkte rådigheten over dem som angitt i panteloven § 3-2 annet og tredje ledd dersom det lar seg gjøre. Ved utlegg i penger tar namsmannen pengene i forvaring. Norske penger som er tatt i forvaring, plasseres til best mulig rente i norsk bank. Utenlandske penger veksles bare om til norske penger dersom saksøkte samtykker.
+>
+> Ved utlegg i finansielle instrumenter som er registrert i et verdipapirregister, registrerer namsmannen omgående at bare namsmannen kan disponere kontoen.
+>
+> Ved utlegg i aksjer som ikke er registrert i et verdipapirregister, underretter namsmannen, dersom det lar seg gjøre, snarest selskapet og forbyr selskapet å betale eller yte til saksøkte.
+>
+> Ved utlegg i et innløsningspapir som ikke er verdipapir, underretter namsmannen snarest den forpliktede og forbyr denne å betale eller yte til saksøkte. Namsmannen tar dessuten innløsningspapiret i forvaring eller fratar på annen måte saksøkte rådigheten over papiret som angitt i panteloven § 3-2 annet og tredje ledd dersom det lar seg gjøre.
+>
+> Ved utlegg i adkomstdokumenter til leierett til husrom underretter namsmannen vedkommende utleier eller selskap, jf. panteloven § 5-8. Namsmannen tar dessuten dokumentet i forvaring eller fratar på annen måte saksøkte rådigheten som angitt i panteloven § 3-2 annet og tredje ledd dersom det lar seg gjøre.
+>
+> Ved utlegg i enkle krav underretter namsmannen dersom det lar seg gjøre snarest den forpliktede og forbyr denne å betale eller yte til saksøkte.
+>
+> Ved utlegg i immaterialrettigheter som det finnes særskilt register for, sender namsmannen omgående utskrift av namsboken til registrering i registeret.
+>
+> Ved utlegg i andre formuesgoder enn nevnt i første ledd, sørger namsmannen omgående for at utlegget blir registrert i Løsøreregisteret.
+>
+> Dersom et formuesgode befinner seg hos en tredjeperson, kan namsmannen pålegge vedkommende å utlevere formuesgodet dersom ikke tredjepersonen har en rett til å sitte med formuesgodet som har bedre prioritet enn saksøkerens panterett.
+>
+
 ### 2005-12-21 — lov/2005-12-21-130
 
 *§ 7-20 sjuende ledd første punktum skal lyde:*
 
 > Ved utlegg i adkomstdokumenter til leierett eller borett til husrom underretter namsmannen vedkommende utleier eller selskap, jf. panteloven § 5-8.
+>
+
+## § 7-21
+
+### 2005-06-17 — lov/2005-06-17-89
+
+*§ 7-21 skal lyde:*
+
+> § 7-21.Beslutning og underretning om utleggstrekk
+>
+> Når det tas utleggstrekk, skal namsmannen fastsette trekkets størrelse og i hvilken periode trekk skal gjennomføres. Trekkperioden kan ikke overstige to år regnet fra dagen for beslutningen om utleggstrekk dersom ikke annet følger av dekningsloven § 2-7 tredje ledd. Beslutningen føres inn i namsboken sammen med en nøyaktig beregning av saksøkerens krav med sakskostnader og renter fram til utleggsdagen og nøyaktige opplysninger om beregningen av renter fra utleggsdagen.
+>
+> Namsmannen underretter den trekkpliktige om plikten til å foreta trekk. I namsboken skal det opplyses at utleggstrekket vil bli registrert i Løsøreregisteret. Partene og den trekkpliktige gis utskrift av namsboken. Namsmannen sørger omgående for at utleggstrekket blir registrert i Løsøreregisteret. Får trekket bedre prioritet enn et trekk som allerede løper og som er besluttet av en annen namsmyndighet, skal denne namsmyndigheten underrettes.
+>
+> Før utleggstrekk nedlegges, skal namsmannen undersøke om det allerede løper trekk mot skyldneren. Utleggstrekk kan ikke besluttes etter et alminnelig tvangsgrunnlag før grunnlaget er rettskraftig.
+>
+
+## § 7-25
+
+### 2005-06-17 — lov/2005-06-17-89
+
+*§ 7-25 skal lyde:*
+
+> § 7-25.Avslutning av en sak der det ikke blir tatt utlegg
+>
+> Når det ikke blir tatt utlegg fordi saksøkte ikke har formuesgoder eller lønn eller andre pengekrav som nevnt i dekningsloven § 2-7 som det kan tas utlegg i, avsluttes saken ved at namsmannen gir begge parter utskrift av namsboken som viser utfallet og hva som er foretatt. I namsboken skal det opplyses at utleggsforretningen vil bli registrert i Løsøreregisteret. Namsmannen sørger omgående for at utleggsforretningen blir registrert i Løsøreregisteret. Tredje punktum gjelder ikke for særnamsmyndigheter som ikke har kompetanse til å gjennomføre forretning for utleggspant i enhver type formuesgode.
+>
+
+## § 7-29
+
+### 2005-06-17 — lov/2005-06-17-89
+
+*Ny § 7-29 skal lyde:*
+
+> § 7-29.Beslutning om opphør av registreringer av «intet til utlegg»
+>
+> Er det krav som ble søkt inndrevet i en sak som ble avsluttet ved intet til utlegg, dekket eller bortfalt på annen måte, eller er tvangsgrunnlaget opphevet, falt bort eller kjent ugyldig, skal namsmannen på begjæring treffe beslutning om at registreringen i Løsøreregisteret av beslutningen om intet til utlegg skal slettes. § 7-28 annet ledd gjelder tilsvarende.
 >
 
 ## § 8-1
@@ -453,6 +887,13 @@ refid: "lov/1992-06-26-86"
 > Søksmålet reises for tingretten for den rettskrets der namsmannen har sitt kontor, eller for den domstol som saken hører under etter tvistemålsloven.
 >
 
+### 2007-02-27 — lov/2007-01-26-3
+
+*§ 8-20 annet ledd femte punktum skal lyde:*
+
+> Søksmålet reises for tingretten for den rettskrets der namsmannen har sitt kontor, eller for den domstol som saken hører under etter tvisteloven.
+>
+
 ## § 8-21
 
 ### 2002-08-30 — lov/2002-08-30-67
@@ -467,6 +908,20 @@ refid: "lov/1992-06-26-86"
 *§ 8-21 annet ledd femte punktum skal lyde:*
 
 > Søksmålet reises for tingretten for den rettskrets der namsmannen har sitt kontor, eller for den domstol som saken hører under etter tvistemålsloven.
+>
+
+### 2007-02-27 — lov/2007-01-26-3
+
+*§ 8-21 første ledd tredje punktum skal lyde:*
+
+> Søksmålet reises for tingretten for den rettskrets der namsmannen har sitt kontor, eller for den domstol som saken hører under etter tvisteloven.
+>
+
+### 2007-02-27 — lov/2007-01-26-3
+
+*§ 8-21 annet ledd femte punktum skal lyde:*
+
+> Søksmålet reises for tingretten for den rettskrets der namsmannen har sitt kontor, eller for den domstol som saken hører under etter tvisteloven.
 >
 
 ## § 9-1
@@ -553,6 +1008,22 @@ refid: "lov/1992-06-26-86"
 > Dersom det er rettighetshavere i løsøret som har bedre prioritet enn saksøkeren, kan løsøret heller ikke utleveres til saksøkeren uten at denne innbetaler til namsmannen dennes tilgodehavende eller stiller sikkerhet for deres krav.
 >
 
+## § 9-12
+
+### 2007-02-27 — lov/2007-01-26-3
+
+*§ 9-12 annet ledd annet punktum skal lyde:*
+
+> Tvisteloven kapittel 17 og § 29-13 første ledd annet punktum gjelder tilsvarende.
+>
+
+### 2007-02-27 — lov/2007-01-26-3
+
+*§ 9-12 fjerde ledd skal lyde:*
+
+> Foretar retten ny verdsetting, skal to skjønnsmedlemmer ta del i verdsettingen. Når en part krever det og retten anser det påkrevd, skal fire skjønnsmedlemmer delta.
+>
+
 ## § 10-1
 
 ### 2001-06-01 — lov/2001-06-01-28
@@ -584,6 +1055,13 @@ refid: "lov/1992-06-26-86"
 
 ## § 10-6
 
+### 2016-04-22 — lov/2016-04-22-3
+
+*§ 10-6 annet ledd første punktum skal lyde:*
+
+> Når verdipapirforetaket får ansvar overfor kjøperen etter verdipapirhandelloven § 12-1, kan foretaket søke regress hos dem som har fått utbetalt noe av kjøpesummen såfremt ansvaret ikke skyldes forhold på foretakets side.
+>
+
 ### 2021-04-30 — lov/2021-04-30-26
 
 *§ 10-6 annet ledd første punktum skal lyde:*
@@ -604,6 +1082,15 @@ refid: "lov/1992-06-26-86"
 
 *§ 10-7 nåværende fjerde punktum blir nytt femte punktum.*
 
+## § 10-9
+
+### 2007-02-27 — lov/2007-01-26-3
+
+*§ 10-9 fjerde ledd første punktum skal lyde:*
+
+> Reiser saksøkeren søksmål til innkreving, skal saksøkeren underrette saksøkte om søksmålet med oppfordring om å tre inn i saken som partshjelper.
+>
+
 ## § 10-12
 
 ### 2025-04-25 — lov/2025-04-25-12
@@ -613,7 +1100,39 @@ refid: "lov/1992-06-26-86"
 > Norske gangbare penger som forvares av namsmannen, eller som er plassert etter § 7-19 tredje ledd, sørger namsmannen for å utbetale til saksøkeren.
 >
 
+## § 11-1
+
+### 2016-04-22 — lov/2016-04-22-3
+
+*§ 11-1 femte ledd skal lyde:*
+
+> Tvangsbruk kan ikke gjennomføres for andel i borettslag og for akvakulturtillatelser.
+>
+> Fjerde ledd vedtatt ved lov 6. juni 2003 nr. 39 og fjerde ledd vedtatt ved lov 17. juni 2005 nr. 79 oppheves.
+>
+> 18. I lov 24. juni 1994 nr. 38 om gjennomføring i norsk rett av De forente nasjoners sikkerhetsråds vedtak om å opprette internasjonale domstoler for forbrytelser i det tidligere Jugoslavia og Rwanda skal § 7 lyde:
+>
+> § 7.Straff for uriktig forklaring
+>
+> Om straffansvar for uriktig forklaring for Domstolen gjelder straffeloven § 221 tilsvarende.
+>
+> 19. I lov 4. august 1995 nr. 53 om politiet skal § 24 c fjerde og femte ledd lyde:
+>
+> Studentene plikter å avlegge dopingprøve etter nærmere regler gitt av departementet. Bruk av ulovlige dopingmidler eller nektelse av å medvirke til dopingkontroll kan føre til utvisning eller utestengning for inntil tre år.
+>
+> Vedtak om utvisning, bortvisning eller utestengning kan påklages til departementet etter reglene i forvaltningsloven. Studenten har rett til å la seg bistå av advokat eller annen medhjelper fra skikkethetssak eller sak om bortvisning eller utestengning er reist, eventuelt etter at advarsel etter annet ledd er gitt.
+>
+
 ## § 11-3
+
+### 2007-02-27 — lov/2007-01-26-3
+
+*§ 11-3 annet og tredje ledd skal lyde:*
+
+> Begjæring om tvangsdekning i skip og luftfartøy skal settes fram for tingretten i den krets der skipet eller luftfartøyet er eller ventes å komme i nær fremtid. Dersom begjæringen gjelder tvangsbruk av norsk skip eller luftfartøy, skal begjæringen isteden settes fram for tingretten ved alminnelig verneting til den som er registrert som eier, eller til en representant som kan motta søksmål på vedkommendes vegne.
+>
+> Begjæring om tvangsdekning i akvakulturtillatelsen skal settes fram for tingretten ved det alminnelige vernetinget til den som er registrert som innehaver, eller ved den rettskrets hvor akvakulturtillatelsen er registrert dersom innehaver av tillatelsen ikke har alminnelig verneting i Norge.
+>
 
 ### 2017-03-31 — lov/2017-03-31-14
 
@@ -650,6 +1169,24 @@ refid: "lov/1992-06-26-86"
 > Kjøpsinteresserte skal gis adgang til å besiktige formuesgodet i samsvar med vanlig praksis ved frivillig omsetning, jf. § 5-9.
 >
 
+## § 11-33
+
+### 2007-02-27 — lov/2007-01-26-3
+
+*§ 11-33 første ledd fjerde punktum skal lyde:*
+
+> Er det begjært oppfriskning mot oversittelse av fristen for å påanke stadfestelseskjennelsen før skjøte er utstedt, skal utstedelsen utstå til angrepet er rettskraftig avgjort.
+>
+
+## § 11-34
+
+### 2007-02-27 — lov/2007-01-26-3
+
+*§ 11-34 annet ledd skal lyde:*
+
+> Ankefristen er en måned regnet fra avsigelsen. Det kan ikke begjæres oppfriskning for oversittelse av ankefristen etter at skjøte er registrert eller kjøpesummen er utbetalt. Begjæres det oppfriskning etter at skjøte er utstedt, skal retten straks sørge for at det anmerkes i realregisteret at stadfestelsen er angrepet.
+>
+
 ## § 11-35
 
 ### 2002-08-30 — lov/2002-08-30-67
@@ -659,6 +1196,31 @@ refid: "lov/1992-06-26-86"
 > Krav etter fjerde og femte ledd avgjøres av tingretten ved kjennelse dersom kravene kan avregnes i kjøperens krav på tilbakebetaling av kjøpesummen eller i krav som avregnes i tilbakebetalingskravet. For øvrig gjøres krav etter fjerde og femte ledd gjeldende ved ordinært søksmål etter tvistemålslovens regler. Søksmålet kan reises i den rettskrets der tvangssalget er gjennomført.
 >
 
+### 2007-02-27 — lov/2007-01-26-3
+
+*§ 11-35 sjette ledd annet punktum skal lyde:*
+
+> For øvrig gjøres krav etter fjerde og femte ledd gjeldende ved ordinært søksmål etter tvistelovens regler.
+>
+
+## § 11-37
+
+### 2007-02-27 — lov/2007-01-26-3
+
+*§ 11-37 første punktum skal lyde:*
+
+> Fordelingskjennelsen kan angripes ved anke og gjenåpning.
+>
+
+## § 11-38
+
+### 2007-02-27 — lov/2007-01-26-3
+
+*§ 11-38 første ledd femte punktum skal lyde:*
+
+> Er det begjært oppfriskning mot oversittelse av fristen for å anke stadfestelseskjennelsen før kjøpesummen er utbetalt, skal utbetalingen utstå til angrepet er rettskraftig avgjort.
+>
+
 ## § 11-39
 
 ### 2002-08-30 — lov/2002-08-30-67
@@ -666,6 +1228,13 @@ refid: "lov/1992-06-26-86"
 *§ 11-39 annet ledd femte punktum skal lyde:*
 
 > Søksmålet reises for den tingrett som har behandlet tvangssalget eller for den domstol som saken hører under etter tvistemålsloven.
+>
+
+### 2007-02-27 — lov/2007-01-26-3
+
+*§ 11-39 annet ledd femte punktum skal lyde:*
+
+> Søksmålet reises for den tingrett som har behandlet tvangssalget eller for den domstol som saken hører under etter tvisteloven.
 >
 
 ## § 11-40
@@ -682,6 +1251,20 @@ refid: "lov/1992-06-26-86"
 *§ 11-40 annet ledd femte punktum skal lyde:*
 
 > Søksmålet reises for den tingrett som behandlet tvangssalget eller for den domstol som saken hører under etter tvistemålsloven.
+>
+
+### 2007-02-27 — lov/2007-01-26-3
+
+*§ 11-40 første ledd tredje punktum skal lyde:*
+
+> Søksmålet reises for den tingrett som behandlet tvangssalget eller for den domstol som saken hører under etter tvisteloven.
+>
+
+### 2007-02-27 — lov/2007-01-26-3
+
+*§ 11-40 annet ledd femte punktum skal lyde:*
+
+> Søksmålet reises for den tingrett som behandlet tvangssalget eller for den domstol som saken hører under etter tvisteloven.
 >
 
 ## § 11-55
@@ -782,6 +1365,13 @@ refid: "lov/1992-06-26-86"
 
 ## § 13-3
 
+### 2007-02-27 — lov/2007-01-26-3
+
+*§ 13-3 tredje ledd første punktum skal lyde:*
+
+> Begjæring om tvangsfullbyrdelse av andre krav settes fram for tingretten i det distrikt hvor saksøkte har alminnelig verneting.
+>
+
 ### 2025-04-25 — lov/2025-04-25-12
 
 *§ 13-3 første ledd andre punktum skal lyde:*
@@ -831,9 +1421,53 @@ refid: "lov/1992-06-26-86"
 
 *Nåværende tredje ledd blir nytt fjerde ledd.*
 
+### 2005-06-17 — lov/2005-06-17-84
+
+*Endringen av § 2-2 første ledd skal lyde:*
+
+> I lensmannsdistrikter er lensmannen namsmann. I namsfogddistrikter er namsfogden namsmann. I politistasjonsdistrikter med sivile rettspleieoppgaver er politistasjonssjefen namsmann. Namsmann for Svalbard er sysselmannen. Kongen fastsetter hvilke namsmannsdistrikter norsk kontinentalsokkel og norsk økonomisk sone hører til.
+>
+
+### 2005-06-17 — lov/2005-06-17-84
+
+*Ny endring mellom endringen i § 2-2 og endringen i § 5-1 skal lyde:*
+
+### 2005-06-17 — lov/2005-06-17-89
+
+*Kapittel 7 avsnitt III overskrifta skal lyde:*
+
+> Klage, bortfall og opphevelse av utlegg mv.
+>
+
 ### 2005-12-21 — lov/2005-12-21-130
 
 *Overskriften til kapittel 12 skal lyde:*
+
+### 2007-02-27 — lov/2007-01-26-3
+
+*§§ 3-4, 3-5 og 3-7 annet ledd oppheves. Nåværende §§ 3-6 og 3-7 blir §§ 3-4 og 3-5. Nåværende § 3-7 tredje ledd blir § 3-5 annet ledd.*
+
+### 2007-02-27 — lov/2007-01-26-3
+
+*Nåværende tredje ledd blir femte ledd.*
+
+### 2007-02-27 — lov/2007-01-26-3
+
+*Overskriften til § 7-23 skal lyde:*
+
+> Endring av utleggstrekk og skifte av arbeidsgiver eller alminnelig verneting.
+>
+
+### 2007-02-27 — lov/2007-01-26-3
+
+*Overskriften til § 9-13 skal lyde:*
+
+> Begrensning i ankeadgangen.
+>
+
+### 2007-02-27 — lov/2007-01-26-3
+
+*Tredje del, kapittel 14 og 15 oppheves. Nåværende fjerde del blir tredje del. Nåværende kapittel 16 blir kapittel 14. §§ 16-1 til 16-3 blir §§ 14-1 til 14-3.*
 
 ### 2010-05-07 — lov/2010-05-07-15
 
@@ -866,6 +1500,10 @@ refid: "lov/1992-06-26-86"
 ### 2015-01-23 — lov/2015-01-23-4
 
 *Nåværende § 10-13 blir § 10-14.*
+
+### 2017-05-11 — lov/2017-05-11-26
+
+*Nåværende tredje punktum blir fjerde punktum.*
 
 ### 2023-12-20 — lov/2023-12-20-110
 
@@ -1035,27 +1673,9 @@ refid: "lov/1992-06-26-86"
 
 ### 2003-01-01 — forskrift/2002-10-11-1094
 
-*§ 1 skal lyde:*
-
-> Namsmyndighetene kan overlate utførelsen av sine gjøremål etter tvangsfullbyrdelsesloven til sine funksjonærer. Som funksjonærer regnes ved lensmanns- og underfogdkontorene alle ansatte unntatt lensmannen og underfogden, og ved domstolene alle ansatte unntatt dommere og dommerfullmektiger.
->
-
-### 2003-01-01 — forskrift/2002-10-11-1094
-
 *§ 1 første ledd skal lyde:*
 
 > For at et gjeldsbrev skal være tvangsgrunnlag etter tvangsfullbyrdelsesloven av 26. juni 1992 nr. 86 § 7-2 bokstav a, må skyldnerens underskrift være bekreftet av to myndige vitner eller av:dommer (herunder forliksrådsmedlemmer, dommerfullmektiger og jordskiftedommere),lensmann eller lensmannsbetjent,namsmann eller namsmannsfullmektig godtatt av retten,advokat eller autorisert advokatfullmektig,statsautorisert eller registrert revisor,autorisert eiendomsmekler,inkassobevillingshaver som er i tjeneste hos en inkassatornorsk eller utenlandsk notarius publicus.
->
-
-## § 3
-
-### 2003-01-01 — forskrift/2002-10-11-1094
-
-*§ 3 skal lyde:*
-
-> § 3.Begrensninger for retten
->
-> Foruten å avsi dommer og kjennelser og å treffe beslutning om tvangssalg etter § 11-9, jf. § 12-5, kan retten ikke overlate til funksjonærer å holde auksjon over realregistrerte formuesgoder eller adkomstdokumenter til leierett til bolig.
 >
 
 ## § 4
@@ -1069,11 +1689,4 @@ refid: "lov/1992-06-26-86"
 > I følgende kommuner ligger namsmannsmyndigheten hos namsmannsavdelingen ved tingretten:Oslo (Oslo byfogdembete)Drammen (Drammen tingrett)Skien kommune og Porsgrunn kommune (Skien og Porsgrunn tingrett)Grimstad (Sand tingrett)Kristiansand (Kristiansand tingrett)Mandal (Mandal tingrett)Stavanger (Stavanger byfogdembete)Bergen (Bergen byfogdembete), unntatt i Fana, Laksevåg, Åsane og Arna lensmannsdistrikterTrondheim (Trondheim tingrett).
 >
 > Der namsmannsmyndigheten er lagt til namsmannsavdelingen ved tingretten, gjelder bestemmelser i eller i medhold av tvangsfullbyrdelsesloven og annen lov om namsmannens oppgaver og myndighet m.m. for namsmannsavdelingen ved tingretten. Om klage til tingretten gjelder tvangsfullbyrdelsesloven § 5-16.
->
-
-### 2003-01-01 — forskrift/2002-10-11-1094
-
-*§ 4 første ledd skal lyde:*
-
-> Namsmyndighetene må ikke overlate myndighet til en funksjonær uten først å forvisse seg om at vedkommende funksjonær har den nødvendige kunnskap og erfaring.
 >

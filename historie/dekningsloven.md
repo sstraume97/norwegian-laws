@@ -5,6 +5,15 @@ refid: "lov/1984-06-08-59"
 
 # Endringshistorikk: Dekningsloven – deknl
 
+## § 1-3
+
+### 2016-04-22 — lov/2016-04-22-3
+
+*§ 1-3 annet ledd annet punktum skal lyde:*
+
+> Det samme gjelder ved tvangsoppløsning av samvirkeforetak i medhold av samvirkeloven § 141, jf § 144.
+>
+
 ## § 2-7
 
 ### 2023-12-20 — lov/2023-12-20-111
@@ -72,6 +81,20 @@ refid: "lov/1984-06-08-59"
 > Når en overdrager tar forbehold som nevnt i § 3-1 eller § 3-2, skal han oppnevne en bank, en advokat eller etter nærmere regler et overformynderi som tillitsmann. Har overdrageren ikke oppnevnt noen tillitsmann, skal Stiftelsestilsynet foreta oppnevnelsen etter anmodning av erververen. Det samme gjelder hvor den oppnevnte tillitsmann er blitt hindret i å utføre vervet eller ønsker seg fritatt fra det, eller ikke utfører det på forsvarlig måte; i så fall kan også tillitsmannen be Stiftelsestilsynet om å foreta oppnevning av ny tillitsmann, hvis ikke overdrageren bestemmer annet.
 >
 
+### 2013-04-05 — lov/2013-04-05-12
+
+*§ 3-4 første ledd første punktum skal lyde:*
+
+> Når en overdrager tar forbehold som nevnt i § 3-1 eller § 3-2, skal han oppnevne en bank, en advokat eller etter nærmere regler fylkesmannen som tillitsmann.
+>
+
+### 2013-04-05 — lov/2013-04-05-12
+
+*§ 3-4 tredje ledd skal lyde:*
+
+> Kongen kan gi nærmere regler om fylkesmannens adgang og plikt til å være tillitsmann og om tillitsmannens forvaltning av beslagsfrie midler, derunder om den godtgjøring som tillitsmannen har krav på.
+>
+
 ## § 3-7
 
 ### 2004-04-23 — lov/2004-04-23-18
@@ -88,6 +111,13 @@ refid: "lov/1984-06-08-59"
 > Slikt samtykke gis av overformynderiet dersom det er tillitsmann, og ellers av Stiftelsestilsynet.
 >
 
+### 2013-04-05 — lov/2013-04-05-12
+
+*§ 3-7 annet ledd annet punktum skal lyde:*
+
+> Slikt samtykke gis av fylkesmannen dersom fylkesmannen er tillitsmann, og ellers av Stiftelsestilsynet.
+>
+
 ## § 3-8
 
 ### 2005-12-21 — lov/2005-12-21-130
@@ -99,6 +129,13 @@ refid: "lov/1984-06-08-59"
 > Forvaltningsloven får ikke anvendelse på tillitsmannen. Tillitsmannens avgjørelser kan omgjøres av Stiftelsestilsynet når særlige grunner taler for det. En avgjørelse kan ikke omgjøres for så vidt den har etablert en rett for tredjeperson. Stiftelsestilsynets avgjørelser kan ikke påklages.
 >
 > Forvaltningsloven gjelder likevel for overformynderiet som tillitsmann. For vedtak truffet av overformynderiet er Stiftelsestilsynet klageinstans.
+>
+
+### 2013-04-05 — lov/2013-04-05-12
+
+*§ 3-8 annet ledd skal lyde:*
+
+> Forvaltningsloven gjelder likevel for fylkesmannen som tillitsmann. For vedtak truffet av fylkesmannen er Stiftelsestilsynet klageinstans.
 >
 
 ## § 3-9
@@ -116,6 +153,15 @@ refid: "lov/1984-06-08-59"
 > Dersom det blir gjort vedtak om beslagsfrihet, kan Stiftelsestilsynet treffe nærmere bestemmelse om forvaltningen av midlene. Reglene i dette kapittel får tilsvarende anvendelse.
 >
 > Vedtak om beslagsfrihet og bestemmelser om forvaltningen kan senere endres etter anmodning fra skyldneren eller etter Stiftelsestilsynets eget tiltak. Oppheves beslagsfriheten, kan frigivelse av pengene til skyldneren først skje en måned etter at underretning om opphevelse er gitt til de av skyldnerens fordringshavere som har meldt sine krav til Stiftelsestilsynet.
+>
+
+## § 5-15
+
+### 2016-04-22 — lov/2016-04-22-3
+
+*§ 5-15 første ledd annet punktum skal lyde:*
+
+> Fristen beregnes fra åpningen av forhandling om tvangsakkord også hvor forhandlingen er gått over til konkurs i samsvar med konkursloven § 57.
 >
 
 ## § 7-10
@@ -143,6 +189,17 @@ refid: "lov/1984-06-08-59"
 *§ 8-15 annet ledd nytt annet punktum skal lyde:*
 
 > Første punktum gjelder ikke dersom boet krever tvangssalg for å inndrive lovbestemt pant etter panteloven § 6-4.
+>
+
+## § 9-2
+
+### 2020-12-18 — lov/2020-12-18-149
+
+*§ 9-2 første og annet ledd skal lyde:*
+
+> Foran all annen gjeld skal dekkes rimelige omkostninger ved skyldnerens begravelse. Ved konkurs gjelder dette når dødsfallet har funnet sted før konkursåpningen.
+>
+> Etter fordringer som nevnt i første ledd skal følgende fordringer dekkes foran annen gjeld:omkostningene ved bobehandlingen, derunder rimelige omkostninger påført en rekvirent i forbindelse med begjæring om rådighetsforbud før konkurs dersom begjæringen er tatt til følge, og rimelige omkostninger i forbindelse med begjæring om åpning av konkurs, når ikke begjæringen er avgjort eller tilbakekalt før konkursåpningen,andre forpliktelser påført skyldnerens bo under bobehandlingen.
 >
 
 ## § 9-3
@@ -193,3 +250,14 @@ refid: "lov/1984-06-08-59"
 ### 2021-04-30 — lov/2021-04-30-28
 
 *§ 9-4 annet ledd annet punktum oppheves. Nåværende tredje til femte punktum blir annet til fjerde punktum.*
+
+## (annet)
+
+### 2020-12-18 — lov/2020-12-18-149
+
+*Nåværende annet ledd blir nytt tredje ledd.*
+
+> 14.I lov 23. desember 1988 nr. 104 om produktansvar skal § 3-7 første ledd tredje punktum lyde:
+>
+> Bestemmelsene i lov 14. juni 2019 nr. 21 om arv og dødsboskifte kapittel 17 avsnitt V gjelder tilsvarende så lenge de passer for rettens avgjørelse, om ikke annet blir fastsatt i forskrift av Kongen.
+>

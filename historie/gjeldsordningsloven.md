@@ -204,6 +204,13 @@ refid: "lov/1992-07-17-99"
 > Namsmannens avgjørelse om å åpne gjeldsforhandlinger kan påklages av fordringshaverne innen en uke etter at namsmannen har sendt varsel om åpning av gjeldsforhandling, jf. § 3-2 annet ledd. Namsmyndighetens avgjørelse om å åpne gjeldsforhandling på vilkår kan også påklages eller påkjæres av skyldneren. Tingrettens avgjørelse om å åpne gjeldsforhandling uten vilkår er endelig.
 >
 
+### 2007-02-27 — lov/2007-01-26-3
+
+*§ 3-1 fjerde ledd annet punktum skal lyde:*
+
+> Namsmyndighetens avgjørelse om å åpne gjeldsforhandling på vilkår kan også påklages eller ankes av skyldneren.
+>
+
 ## § 3-2
 
 ### 2003-01-10 — lov/2003-01-10-1
@@ -335,6 +342,13 @@ refid: "lov/1992-07-17-99"
 > Dersom retten har åpnet gjeldsforhandlingen, sender namsmannen saken over til retten for avgjørelse om heving. Det skal opplyses hvilke forhold som ligger til grunn for hevingssaken. Rettens avgjørelse treffes ved kjennelse.
 >
 > Skyldneren skal gis anledning til å uttale seg før det treffes avgjørelse om heving. Klage og kjæremål etter denne paragraf har oppsettende virkning. Dersom en beslutning om å heve saken blir omgjort, kan gjeldsforhandlingsperioden om nødvendig forlenges med den tid saken er blitt forsinket på grunn av hevingssaken.
+>
+
+### 2007-02-27 — lov/2007-01-26-3
+
+*§ 3-7 tredje ledd annet punktum skal lyde:*
+
+> Klage og anke etter denne paragraf har oppsettende virkning.
 >
 
 ## § 4-1
@@ -520,6 +534,13 @@ refid: "lov/1992-07-17-99"
 > Dersom det benyttes rettsmidler mot en avgjørelse om å nekte stadfestelse av tvungen gjeldsordning eller dersom en kjennelse om tvungen gjeldsordning blir opphevet av kjæremålsinstansen, skal gjeldsforhandlingsperioden anses å løpe inntil rettskraftig avgjørelse foreligger i saken. En gjeldsforhandlingsperiode kan likevel ikke overstige ett år.
 >
 
+### 2007-02-27 — lov/2007-01-26-3
+
+*§ 5-1 femte ledd første punktum skal lyde:*
+
+> Dersom det benyttes rettsmidler mot en avgjørelse om å nekte stadfestelse av tvungen gjeldsordning eller dersom en kjennelse om tvungen gjeldsordning blir opphevet av ankeinstansen, skal gjeldsforhandlingsperioden anses å løpe inntil rettskraftig avgjørelse foreligger i saken.
+>
+
 ## § 5-2
 
 ### 2003-01-10 — lov/2003-01-10-1
@@ -563,6 +584,13 @@ refid: "lov/1992-07-17-99"
 *§ 5-4 første ledd første punktum skal lyde:*
 
 > Retten skal stadfeste skyldnerens forslag til tvungen gjeldsordning dersom vilkårene i § 1-2, § 1-3 første ledd og § 1-4 er oppfylt og forslaget oppfyller § 5-2.
+>
+
+### 2007-02-27 — lov/2007-01-26-3
+
+*§ 5-4 annet ledd tredje punktum skal lyde:*
+
+> En kjennelse som nekter stadfestelse kan bare ankes av skyldneren.
 >
 
 ## § 6-1

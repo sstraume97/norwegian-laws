@@ -1311,6 +1311,13 @@ refid: "lov/2008-06-27-71"
 > Departementet fastsetter i forskrift nærmere bestemmelser om adgangen til å gi ytterligere unntak fra krav i denne lov.
 >
 
+### 2019-06-21 — lov/2019-06-21-52
+
+*§ 20-7 første ledd første punktum skal lyde:*
+
+> Dersom et tiltak krever bruk av skjermingsverdig informasjon etter sikkerhetsloven § 5-2 og § 5-3, eller tiltaket berører et objekt som Forsvarsdepartementet har utpekt som skjermingsverdig i medhold av sikkerhetsloven § 7-1, er tiltaket unntatt fra kapittel 20 til 25 i loven her.
+>
+
 ## § 20-8
 
 ### 2014-06-20 — lov/2014-06-20-52
@@ -1326,6 +1333,25 @@ refid: "lov/2008-06-27-71"
 > Dersom det ansvarlige departement anvender unntaket i første ledd, skal det informere naboer og gjenboere om beslutningen og de rettslige konsekvensene av den. Departementet plikter å gi naboer og gjenboere informasjon om tiltaket så langt det vil være sikkerhetsmessig forsvarlig.
 >
 > Det ansvarlige departements beslutning etter første ledd kan ikke påklages. Det samme gjelder vedtak om avvisning av klage. Det kan ikke gis midlertidig forføyning mot tiltak som iverksettes i medhold av første ledd.
+>
+
+### 2019-06-21 — lov/2019-06-21-52
+
+*§ 20-8 første ledd skal lyde:*
+
+> Dersom tvingende sikkerhetshensyn gjør det nødvendig, kan hvert departement innen sitt myndighetsområde beslutte at et tiltak som skal utføres i tilknytning til et byggverk eller objekt som er utpekt som skjermingsverdig i henhold til sikkerhetsloven § 7-1, helt eller delvis skal være unntatt fra bestemmelser gitt i eller i medhold av denne lov.
+>
+> 8.I lov 5. juni 2009 nr. 35 om naturområder i Oslo og nærliggende kommuner skal § 3 andre ledd lyde:
+>
+> Militære myndigheter skal se til at de bestemmelser som er gitt i eller i medhold av denne lov, blir overholdt i områder der personer ikke har adgang etter sikkerhetsloven § 7-5.
+>
+> 9.I lov 25. juni 2010 nr. 45 om kommunal beredskapsplikt, sivile beskyttelsestiltak og Sivilforsvaret skal § 24 d fjerde ledd lyde:
+>
+> Dersom det kan skade nasjonale sikkerhetsinteresser om informasjon i rapportene blir kjent for uvedkommende, skal slik informasjon sikkerhetsgraderes etter sikkerhetsloven § 5-3.
+>
+> 10.I lov 16. desember 2016 nr. 92 om undersøkelser av ulykker og hendelser i Forsvaret skal § 19 andre ledd andre punktum lyde:
+>
+> For sikkerhetsgraderte opplysninger gjelder sikkerhetsloven § 5-4.
 >
 
 ## § 20-9

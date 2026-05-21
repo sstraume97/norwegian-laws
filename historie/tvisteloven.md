@@ -14,6 +14,22 @@ refid: "lov/2005-06-17-90"
 > Den som reiser saken, må påvise et reelt behov for å få kravet avgjort overfor saksøkte.
 >
 
+## § 1-4 a
+
+### 2019-06-21 — lov/2019-06-21-55
+
+*§ 1-4 a første ledd bokstav c skal lyde:*
+
+> opphever kommunens eller fylkeskommunens avgjørelse etter lovlighetskontroll, jf. kommuneloven kapittel 27.
+>
+
+### 2019-06-21 — lov/2019-06-21-55
+
+*§ 1-4 a tredje ledd skal lyde:*
+
+> Første ledd gjelder tilsvarende for samarbeidskommuner i et vertskommunesamarbeid, jf. kommuneloven kapittel 20, og for Longyearbyen lokalstyre.
+>
+
 ## § 1-5
 
 ### 2012-05-25 — lov/2012-05-25-28
@@ -51,6 +67,52 @@ refid: "lov/2005-06-17-90"
 *§ 2-1 første ledd bokstav b skal lyde:*
 
 > stat, kommuner og fylkeskommuner,
+>
+
+## § 2-2
+
+### 2013-04-05 — lov/2013-04-05-12
+
+*§ 2-2 tredje og fjerde ledd skal lyde:*
+
+> (3) Mindreårige er bare prosessdyktige når det følger av særlig lovbestemmelse. Personer som er fratatt rettslig handleevne etter vergemålsloven § 22, er bare prosessdyktige hvis saken gjelder eiendeler, disposisjoner eller forhold utenfor området for fratakelsen av handleevnen, med mindre noe annet følger av særlig lovbestemmelse.
+>
+> (4) En person som på grunn av sin psykiske helsetilstand ikke er i stand til å vareta sine egne interesser under saken, er ikke prosessdyktig. Har ikke personen verge, skal retten sørge for at det oppnevnes verge.
+>
+
+## § 2-3
+
+### 2013-04-05 — lov/2013-04-05-12
+
+*§ 2-3 annet ledd skal lyde:*
+
+> (2) For personer som mangler prosessdyktighet etter § 2-2 fjerde ledd, er vergen stedfortreder.
+>
+
+## § 2-4
+
+### 2007-02-27 — lov/2007-01-26-3
+
+*§ 2-4 annet ledd nytt fjerde punktum skal lyde:*
+
+> For mindreåriges rett til innsyn i dokumenter gjelder § 14-1 første ledd.
+>
+
+### 2013-04-05 — lov/2013-04-05-12
+
+*§ 2-4 skal lyde:*
+
+> § 2-4.Stedfortreder for mindreårige og personer som er fratatt rettslig handleevne mv.
+>
+> (1) For personer som mangler prosessdyktighet etter § 2-2 tredje ledd, er vergen stedfortreder. Er en mindreårigs foreldre verge i fellesskap, får vergemålsloven § 18 anvendelse.
+>
+> (2) En mindreårig over 15 år skal varsles til rettsmøtene. Retten skal opplyse om at den mindreårige har rett, men ikke plikt, til å være til stede i rettsmøtet. Den mindreårige skal meddeles prosesskriv samtidig med vergen, hvis ikke den mindreårige selv har erklært at det er unødvendig. For mindreåriges rett til innsyn i dokumenter gjelder § 14-1 første ledd.
+>
+> (3) Gjelder søksmålet midler som forvaltes av fylkesmannen etter vergemålsloven kapittel 7, skal stevningen forkynnes også for fylkesmannen. Fylkesmannen har rett til å tre inn i saken dersom personen mangler prosessdyktighet etter § 2-2 tredje ledd. Fylkesmannens prosesshandlinger kommer i så fall personen til gode selv om de strider mot personens egne prosesshandlinger.
+>
+> 52. I lov 15. juni 2007 nr. 40 om reindrift skal § 10 tredje ledd annet punktum lyde:
+>
+> Mindreårige barn hvis foreldre ikke lever sammen, har likevel adgang til å eie rein i siidaandel både hos fars slekt og hos mors slekt.
 >
 
 ## § 3-3
@@ -138,6 +200,13 @@ refid: "lov/2005-06-17-90"
 
 ## § 6-2
 
+### 2007-02-27 — lov/2007-01-26-3
+
+*§ 6-2 første ledd ny bokstav c skal lyde:*
+
+> saker om patenter, kretsmønstre til integrerte kretser, planteforedlerretter, varemerker og design,
+>
+
 ### 2008-12-12 — lov/2008-12-12-85
 
 *§ 6-2 første ledd bokstav a skal lyde:*
@@ -157,6 +226,24 @@ refid: "lov/2005-06-17-90"
 *§ 6-2 andre ledd bokstav d skal lyde:*
 
 > det etter reglene i §§ 15-1 til 15-3 bringes inn et nytt krav eller en ny part i saken.
+>
+
+## § 6-3
+
+### 2007-02-27 — lov/2007-01-26-3
+
+*§ 6-3 nytt fjerde ledd skal lyde:*
+
+> (4) Når en sak skal behandles i forliksrådet etter tvangsfullbyrdelsesloven § 7-7, regnes utleggsbegjæringen som forliksklage.
+>
+
+## § 6-4
+
+### 2007-02-27 — lov/2007-01-26-3
+
+*§ 6-4 nytt femte ledd skal lyde:*
+
+> (5) Når en sak er tatt til behandling etter tvangsfullbyrdelsesloven § 7-7, regnes nedtegningen av saksøktes innvendinger som tilsvar.
 >
 
 ## § 6-6
@@ -224,6 +311,20 @@ refid: "lov/2005-06-17-90"
 
 ## § 6-13
 
+### 2007-02-27 — lov/2007-01-26-3
+
+*§ 6-13 første ledd bokstav a skal lyde:*
+
+> gebyr for behandlingen i forliksrådet, samt gebyret for utleggsbegjæringen når en sak behandles i forliksrådet etter tvangsfullbyrdelsesloven § 7-7,
+>
+
+### 2007-02-27 — lov/2007-01-26-3
+
+*§ 6-13 første ledd bokstav d skal lyde:*
+
+> et beløp inntil fire ganger rettsgebyret for rettshjelp ved forliksklage eller tilsvar og saksforberedelse ellers, men inntil rettsgebyret dersom klageren i tillegg krever erstatning for kostnader ved utenrettslig inndriving etter annet ledd, og
+>
+
 ### 2023-05-11 — lov/2023-05-11-13
 
 *§ 6-13 tredje ledd nytt andre punktum skal lyde:*
@@ -283,6 +384,15 @@ refid: "lov/2005-06-17-90"
 > (2) Retten skal som regel kreve at partene inngir et sluttinnlegg. Sluttinnlegget skal inngis innen to uker før hovedforhandlingen hvis ikke retten fastsetter et annet tidspunkt. Sluttinnlegget skal kort angi den påstand, de påstandsgrunnlag og de rettsregler som påberopes, og de bevis parten vil føre. Med sluttinnlegget skal følge forslag til framdriftsplan for hovedforhandlingen, jf. § 9-11 annet ledd.
 >
 
+## § 9-12
+
+### 2007-06-15 — lov/2007-06-15-38
+
+*§ 9-12 tredje ledd skal lyde:*
+
+> De fagkyndige meddommerne oppnevnes slik at de har fagkyndighet tilpasset saken. Det kan oppnevnes meddommere med ulik fagkyndighet. Som meddommer med juridisk kyndighet kan bare oppnevnes en person som begge parter har foreslått.
+>
+
 ## § 9-16
 
 ### 2023-05-11 — lov/2023-05-11-13
@@ -313,6 +423,13 @@ refid: "lov/2005-06-17-90"
 >
 
 ## § 10-4
+
+### 2007-02-27 — lov/2007-01-26-3
+
+*§ 10-4 første ledd skal lyde:*
+
+> (1) Hvis ikke saken avsluttes på annen måte, skal den normalt være avsluttet med dom innen tre måneder etter at stevning ble inngitt.
+>
 
 ### 2023-05-11 — lov/2023-05-11-13
 
@@ -390,6 +507,13 @@ refid: "lov/2005-06-17-90"
 
 ## § 14-1
 
+### 2007-02-27 — lov/2007-01-26-3
+
+*§ 14-1 første ledd nytt annet og tredje punktum skal lyde:*
+
+> Mindreårige parter over 15 år har samme rett til innsyn. Parter under 15 år kan gis innsyn når deres alder og modenhet tilsier det, men skal ikke gjøres kjent med opplysninger som er underlagt lovbestemt taushetsplikt.
+>
+
 ### 2024-12-13 — lov/2024-12-13-78
 
 *§ 14-1 andre ledd nytt andre punktum skal lyde:*
@@ -440,6 +564,15 @@ refid: "lov/2005-06-17-90"
 *§ 18-3 første ledd skal lyde:*
 
 > (1) De virkninger som følger av annen lovgivning av at søksmål er reist, inntrer når prosesskrivet som reiser saken eller inndrar kravet, er sendt, slik at fristen er avbrutt etter domstolloven § 146. For krav som settes fram i rettsmøte, inntrer virkningen når kravet settes fram.
+>
+
+## § 19-1
+
+### 2007-02-27 — lov/2007-01-26-3
+
+*§ 19-1 annet ledd bokstav b skal lyde:*
+
+> som hever en sak som av andre grunner enn nevnt i bokstav a bortfaller uten realitetsavgjørelse,
 >
 
 ## § 19-3
@@ -557,6 +690,15 @@ refid: "lov/2005-06-17-90"
 > (3) Fjernavhør foretas ved bildeavhør. Er utstyr for bildeavhør ikke tilgjengelig, kan lydavhør brukes hvis vilkårene etter første ledd likevel er oppfylt. Retten bestemmer hvor avhøret skal foretas. Kongen kan gi nærmere forskrift om fjernavhør.
 >
 
+## § 22-3
+
+### 2007-02-27 — lov/2007-01-26-3
+
+*§ 22-3 første ledd skal lyde:*
+
+> Det kan ikke føres bevis når dette vil krenke lovbestemt taushetsplikt for den som har opplysningene som følge av tjeneste eller arbeid for stat eller kommune, familievernkontor, postoperatør, tilbyder eller installatør av elektronisk kommunikasjonsnett eller -tjeneste, teknisk kontrollorgan eller statens lufthavnselskap.
+>
+
 ## § 22-3 a
 
 ### 2025-06-20 — lov/2025-06-20-40
@@ -567,6 +709,13 @@ refid: "lov/2005-06-17-90"
 >
 
 ## § 22-5
+
+### 2007-02-27 — lov/2007-01-26-3
+
+*§ 22-5 første ledd skal lyde:*
+
+> (1) Retten kan ikke ta imot bevis fra prester i statskirken, prester eller forstandere i registrerte trossamfunn, advokater, forsvarere i straffesaker, meklere i ekteskapssaker, leger, psykologer, apotekere, jordmødre eller sykepleiere om noe som er betrodd dem i deres stilling. Det samme gjelder underordnede og medhjelpere som i stillings medfør er kommet til kunnskap om det som er betrodd de nevnte personer.
+>
 
 ### 2022-05-12 — lov/2022-05-12-28
 
@@ -602,6 +751,17 @@ refid: "lov/2005-06-17-90"
 > I § 32-2 skal uttrykket «unntatt § 19-13» lyde:
 >
 > unntatt § 19-13 første og annet ledd.
+>
+
+## § 22-12
+
+### 2016-04-22 — lov/2016-04-22-3
+
+*§ 22-12 første ledd første punktum skal lyde:*
+
+> Når et bevis omhandlet i dette kapittel føres med vedkommendes samtykke, skal retten pålegge de tilstedeværende taushetsplikt, hvis ikke samtykket bestemmer noe annet.
+>
+> I § 28-A1 tredje ledd første punktum erstattes ordet «planteforedlerett» av «planteforedlerrett».
 >
 
 ## § 23-2
@@ -657,6 +817,15 @@ refid: "lov/2005-06-17-90"
 > (2) Det samme gjelder overfor en part i saker hvor retten har plikt til å sørge for et forsvarlig faktisk avgjørelsesgrunnlag, jf. § 21-3 annet ledd.
 >
 
+## § 28-5
+
+### 2007-02-27 — lov/2007-01-26-3
+
+*§ 28-5 annet ledd første punktum skal lyde:*
+
+> Dersom begjæringen om bevissikring er nødvendiggjort av at en motpart etter § 28-3 annet ledd uten rimelig grunn har motsatt seg å medvirke til bevissikring og bevistilgang eller uten rimelig grunn har bestridt begjæringen, kan plikten etter første ledd helt eller delvis falle bort.
+>
+
 ## § 29-13
 
 ### 2020-04-17 — lov/2020-04-17-26
@@ -694,6 +863,24 @@ refid: "lov/2005-06-17-90"
 *§ 29-17 andre punktum skal lyde:*
 
 > § 9-12 første til tredje ledd gjelder tilsvarende.
+>
+
+## § 32-7
+
+### 2007-02-27 — lov/2007-01-26-3
+
+*§ 32-7 annet ledd skal lyde:*
+
+> (2) Dersom det er fare ved opphold, kan kjennelse som beslutter midlertidig sikring treffes uten muntlig forhandling.
+>
+
+## § 32-11
+
+### 2007-02-27 — lov/2007-01-26-3
+
+*§ 32-11 første ledd tredje punktum skal lyde:*
+
+> Ved midlertidige forføyninger til sikring av hovedkrav som bygger på at bestemmelser som ivaretar miljøhensyn, er overtrådt, og som er besluttet på grunnlag av at kravet er sannsynliggjort, jf. § 34-2 første ledd, og etter muntlig forhandling, jf. § 32-7 første ledd, plikter saksøkeren bare å erstatte skade som nevnt i første punktum, dersom denne visste eller burde vite at kravet ikke bestod da sikringen ble besluttet.
 >
 
 ## § 32-12
@@ -734,6 +921,13 @@ refid: "lov/2005-06-17-90"
 
 ## § 34-7
 
+### 2007-09-01 — lov/2007-06-29-68
+
+*§ 34-7 første ledd første punktum skal lyde:*
+
+> (1) Til sikring av immaterialrettigheter kan retten som midlertidig forføyning mot vareeieren, jf. tolloven § 1 nr. 3, beslutte at tollvesenet skal holde varer tilbake fra frigjøring, når innførsel eller utførsel av varene vil utgjøre et inngrep i en immaterialrettighet.
+>
+
 ### 2013-05-31 — lov/2013-05-31-25
 
 *§ 34-7 skal lyde:*
@@ -765,6 +959,15 @@ refid: "lov/2005-06-17-90"
 > (1) Grupperepresentanten har rett og plikt til sakskostnader i gruppesøksmålet.
 >
 
+## § 36-4
+
+### 2007-06-15 — lov/2007-06-15-38
+
+*§ 36-4 første ledd skal lyde:*
+
+> Tingretten settes med to meddommere, hvorav én lek og én fagkyndig. I særlige tilfeller kan retten settes med to fagdommere og tre meddommere, hvorav én eller to skal være fagkyndige. Når retten skal settes med bare én lek meddommer, avgjøres det ved loddtrekning hvilket kjønn denne skal ha.
+>
+
 ## § 36-6 a
 
 ### 2023-05-11 — lov/2023-05-11-13
@@ -786,7 +989,20 @@ refid: "lov/2005-06-17-90"
 
 *§ 36-6 a oppheves.*
 
+## § 36-10
+
+### 2007-02-27 — lov/2007-01-26-3
+
+*§ 36-10 tredje ledd bokstav d skal lyde:*
+
+> dommen går ut på tvang som ikke er vedtatt av fylkesnemnda.
+>
+
 ## § 37-3
+
+### 2007-02-27 — lov/2007-01-26-3
+
+*§ 37-3 skal lyde:*
 
 ### 2007-12-21 — lov/2007-12-21-127
 
@@ -845,6 +1061,18 @@ refid: "lov/2005-06-17-90"
 ### 2006-12-01 — lov/2006-12-01-65
 
 *I nr. 11 skal endringen av lov 13. desember 1991 nr. 81 om sosiale tjenester mv. § 9-10 oppheves.*
+
+### 2007-02-27 — lov/2007-01-26-3
+
+*Nåværende bokstav c til e blir bokstav d til f.*
+
+### 2007-02-27 — lov/2007-01-26-3
+
+*Nåværende fjerde ledd blir femte ledd.*
+
+### 2007-09-01 — lov/2007-06-29-68
+
+*I § 37-3 nr. 48 skal endringene i lov 10. juni 1965 nr. 5 om toll § 39 første ledd første punktum, fjerde ledd tredje punktum og sjette ledd annet punktum endres til å gjelde henholdsvis § 39 annet ledd første punktum, femte ledd tredje punktum og syvende ledd annet punktum.*
 
 ### 2007-12-21 — lov/2007-12-21-127
 
@@ -1040,6 +1268,23 @@ refid: "lov/2005-06-17-90"
 > I § 37-3 nr. 111 vert uttrykket «Trygdens organer» i lov om folketrygd § 21-4 femte ledd erstatta med «Arbeids- og velferdsetaten».
 >
 > I § 37-3 nr. 119 vert det gjort følgjande endring:
+>
+
+## § 28-A3
+
+### 2016-04-22 — lov/2016-04-22-3
+
+*§ 28-A3 annet ledd tredje punktum skal lyde:*
+
+> Retter begjæringen seg mot flere, kan den fremmes der én av disse har verneting.
+>
+> 26. I lov 15. mai 2008 nr. 35 om utlendingers adgang til riket og deres opphold her skal § 66 annet ledd bokstav b lyde:når utlendingen ikke er gitt en utreisefristfordi det er fare for unndragelse, jf. § 90 femte ledd bokstav a og § 106 a,fordi en søknad er avslått som åpenbart grunnløs eller som følge av vesentlig uriktige eller åpenbart villedende opplysninger, jf. § 90 femte ledd bokstav b,fordi utlendingen er funnet å utgjøre en trussel mot offentlig orden, jf. § 90 femte ledd bokstav c, ellerfordi utlendingen er funnet å utgjøre en trussel mot grunnleggende nasjonale interesser, jf. § 129 femte ledd.
+>
+> 27. I lov 26. mars 2010 nr. 9 om vergemål skal § 5 første ledd lyde:
+>
+> Området for hvert fylkesmannsembete utgjør et vergemålsdistrikt. Svalbard er et eget vergemålsdistrikt.
+>
+> 28. I lov 28. mai 2010 nr. 16 om behandling av opplysninger i politiet og påtalemyndigheten erstattes i § 40 nr. 7 bokstav e og nr. 8 ordet «tvunget» av «tvungent».
 >
 
 ## § 76

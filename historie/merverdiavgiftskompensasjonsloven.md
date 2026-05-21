@@ -5,6 +5,12 @@ refid: "lov/2003-12-12-108"
 
 # Endringshistorikk: Merverdiavgiftskompensasjonsloven
 
+## (annet)
+
+### 2008-05-09 — lov/2008-05-09-24
+
+*Nåværende annet ledd blir tredje ledd.*
+
 ## § 10
 
 ### 2004-06-25 — lov/2004-06-25-42
@@ -23,6 +29,19 @@ refid: "lov/2003-12-12-108"
 > For virksomheter som nevnt i § 2 bokstav a er foreldelsesfristen sammenfallende med fristen for å sende inn oppgave for neste periode.
 >
 
+### 2008-01-01 — lov/2007-12-14-108
+
+*§ 10 skal lyde:*
+
+> Foreldelsesfristen for krav om kompensasjon er sammenfallende, jf. § 6 tredje ledd, med fristen for å sende inn oppgave for sjette periode påfølgende år.
+>
+> For virksomheter som nevnt i § 2 bokstav a er foreldelsesfristen sammenfallende med fristen for å sende inn oppgave for neste periode.
+>
+> Foreldelsesfristen etter første og annet ledd begynner å løpe den datoen kompensasjonsbeløpet er eller skulle ha vært registrert i regnskapssystemet etter bestemmelsene i § 6 fjerde ledd.
+>
+> Foreldelse avbrytes kun ved innsendelse av kompensasjonsoppgave etter bestemmelsene i denne lov.
+>
+
 ### 2020-06-23 — lov/2020-06-23-104
 
 *§ 10 nytt femte ledd skal lyde:*
@@ -37,6 +56,35 @@ refid: "lov/2003-12-12-108"
 *§ 11 nytt andre ledd skal lyde:*
 
 > Kravet på tilbakebetaling med tillegg av renter er tvangsgrunnlag for utlegg. Kravet er tvangskraftig selv om grunnlaget er påklaget eller innbrakt for domstolene.
+>
+
+## § 12
+
+### 2006-01-01 — lov/2005-12-09-114
+
+*§ 12 første ledd annet punktum skal lyde:*
+
+> Bestemmelsene om oppbevaring av regnskapsmateriale i lov 19. november 2004 nr. 73 om bokføring (bokføringsloven) gjelder også for de som ikke er bokføringspliktige etter bokføringsloven.
+>
+
+## § 14
+
+### 2007-06-29 — lov/2007-06-29-64
+
+*§ 14 skal lyde:*
+
+> Omgjøring
+>
+> Skattekontoret kan kreve utbetalt kompensasjon korrigert i inntil 10 år fra tidspunktet for utbetalingen av kompensasjonen.
+>
+
+## § 15
+
+### 2008-01-01 — lov/2007-12-14-108
+
+*§ 15 fjerde ledd skal lyde:*
+
+> For utbetaling av kompensasjon etter § 9 skal rentesatsen tilsvare satsen fastsatt i medhold av lov 17. desember 1976 nr. 100 om renter ved forsinket betaling m.m. § 3 første ledd første punktum. For tilbakebetaling av for mye utbetalt kompensasjon etter § 11 skal rentesatsen tilsvare den pengepolitiske styringsrenten slik denne er fastsatt av Norges Bank per 1. januar det aktuelle året tillagt ett prosentpoeng.
 >
 
 ## § 16
@@ -57,7 +105,25 @@ refid: "lov/2003-12-12-108"
 > Overdragerens rett og plikt til justering etter første ledd overtas uendret av den overtakende kompensasjonsberettigede virksomheten.
 >
 
+## § 17
+
+### 2007-06-29 — lov/2007-06-29-64
+
+*§ 17 skal lyde:*
+
+> Administrasjon
+>
+> Kompensasjonsordningen administreres av avgiftsmyndighetene ved skattekontoret.
+>
+
 ## § 2
+
+### 2008-05-09 — lov/2008-05-09-24
+
+*§ 2 annet ledd skal lyde:*
+
+> Denne loven gjelder ikke privatpraktiserende allmennleger og privatpraktiserende fysioterapeuter.
+>
 
 ### 2017-01-01 — lov/2016-12-20-112
 
@@ -104,6 +170,24 @@ refid: "lov/2003-12-12-108"
 
 ## § 4
 
+### 2005-06-17 — lov/2005-06-17-75
+
+*§ 4 tredje ledd skal lyde:*
+
+> Kompensasjon ytes likevel for anskaffelser til boliger med helseformål eller sosiale formål. Det samme gjelder fellesanlegg i tilknytning til boligene. Kompensasjon ytes også for anskaffelser til kommunale havner på virksomhetsområder hvor det oppkreves havneavgifter.
+>
+
+### 2007-01-01 — lov/2006-12-15-83
+
+*§ 4 tredje ledd siste punktum oppheves.*
+
+### 2008-01-01 — lov/2007-12-14-108
+
+*§ 4 annet ledd skal lyde:*
+
+> Det ytes ikke kompensasjon:Når det foreligger fradrag for inngående merverdiavgift etter bestemmelsene i merverdiavgiftsloven kapittel VI.For merverdiavgift på anskaffelser som nevnt i merverdiavgiftsloven § 22 første ledd.For merverdiavgift på anskaffelser til bygg, anlegg eller annen fast eiendom for salg eller utleie.Når virksomheter som nevnt i § 2 første ledd bokstav a og b driver økonomisk aktivitet og denne aktiviteten kan være i konkurranse med virksomheter som ikke er kompensasjonsberettiget.
+>
+
 ### 2010-06-25 — lov/2010-06-25-39
 
 *§ 4 første ledd nr. 2 skal lyde:*
@@ -127,6 +211,20 @@ refid: "lov/2003-12-12-108"
 
 ## § 6
 
+### 2006-01-01 — lov/2005-12-09-114
+
+*§ 6 fjerde ledd skal lyde:*
+
+> Krav om kompensasjon medtas i oppgaven for den periode beløpet er registrert i regnskapssystemet etter regnskapsbestemmelsene som følger av lov 25. september 1992 nr. 107 om kommuner og fylkeskommuner eller bokført i regnskapssystemet etter bestemmelsene i lov 19. november 2004 nr. 73 om bokføring (bokføringsloven) eller i forskrift gitt i medhold av loven.
+>
+
+### 2007-06-29 — lov/2007-06-29-64
+
+*§ 6 første ledd skal lyde:*
+
+> For å få kompensert merverdiavgift må det sendes oppgave til skattekontoret.
+>
+
 ### 2010-06-25 — lov/2010-06-25-39
 
 *§ 6 første ledd nytt andre punktum skal lyde:*
@@ -135,6 +233,20 @@ refid: "lov/2003-12-12-108"
 >
 
 ## § 7
+
+### 2007-06-29 — lov/2007-06-29-64
+
+*§ 7 første ledd første punktum skal lyde:*
+
+> Oppgaven må være kommet frem til skattekontoret innen 1 måned og 10 dager etter utløpet av hver periode.
+>
+
+### 2007-06-29 — lov/2007-06-29-64
+
+*§ 7 første ledd skal lyde:*
+
+> Oppgaven må være kommet frem til fylkesskattekontoret innen 1 måned og 10 dager etter utløpet av hver periode. Fristen for 3. periode, mai og juni, er likevel 20. august. Oppgave som sendes i posten anses å være kommet frem i rett tid hvis den er poststemplet innen utløpet av fristen.
+>
 
 ### 2010-06-25 — lov/2010-06-25-39
 

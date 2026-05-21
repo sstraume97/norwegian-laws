@@ -78,6 +78,17 @@ refid: "lov/1999-07-02-61"
 > De regionale helseforetakene skal sørge for at det inngås samarbeidsavtaler som nevnt i helse- og omsorgstjenesteloven § 6-1. Det regionale helseforetaket kan beslutte at ett eller flere av helseforetakene det eier, skal inngå og være part i slike avtaler.
 >
 
+## § 2-1f
+
+### 2017-06-16 — lov/2017-06-16-55
+
+*Ny § 2-1f skal lyde:*
+
+> § 2-1f.De regionale helseforetakenes ansvar for å forebygge, avdekke og avverge vold og seksuelle overgrep
+>
+> De regionale helseforetakene skal ha særlig oppmerksomhet rettet mot at pasienter kan være utsatt for, eller kan stå i fare for å bli utsatt for, vold eller seksuelle overgrep. De regionale helseforetakene skal legge til rette for at spesialisthelsetjenesten blir i stand til å forebygge, avdekke og avverge vold og seksuelle overgrep.
+>
+
 ## § 2-3
 
 ### 2012-05-04 — lov/2012-05-04-23
@@ -165,6 +176,19 @@ refid: "lov/1999-07-02-61"
 > For tjenester i det psykiske helsevernet kan kontaktpsykolog utnevnes i stedet for kontaktlege dersom det er mest hensiktsmessig ut fra den behandling eller oppfølging som skal gis. Det samme gjelder tverrfaglig spesialisert behandling for rusmiddelavhengighet, jf. § 2-1 a første ledd nr. 5.
 >
 > Departementet kan i forskrift gi nærmere bestemmelser om hvilke pasientgrupper som omfattes og hvilke oppgaver og hvilket ansvar kontaktlegen eller kontaktpsykologen skal ha.
+>
+
+## § 2-5c
+
+### 2017-06-16 — lov/2017-06-16-55
+
+*§ 2-5c første til tredje ledd skal lyde:*
+
+> Helseinstitusjon som omfattes av denne loven skal oppnevne kontaktlege for pasienter som har alvorlig sykdom, skade eller lidelse, og som har behov for behandling eller oppfølging av spesialisthelsetjenesten av en viss varighet. Kontaktlegen skal være involvert i behandlingen eller oppfølgingen av pasienten.
+>
+> Helseinstitusjon som omfattes av denne loven, skal peke ut kontaktlege for pasienten så snart som mulig etter at det er vurdert at pasienten har rett til kontaktlege, senest første virkedag etter innleggelse eller poliklinisk undersøkelse. Pasienten skal så snart som mulig få vite hvem som er hans eller hennes kontaktlege, og skal orienteres om hvilket ansvar og hvilke oppgaver kontaktlegen har.
+>
+> Kontaktlegen skal være pasientens faste medisinskfaglige kontakt. For å sikre kontinuitet i pasientforløpet skal helseinstitusjon som omfattes av denne loven vurdere om kontaktlegen også skal være informasjonsansvarlig etter helsepersonelloven § 10 og journalansvarlig etter helsepersonelloven § 39.
 >
 
 ## § 3-1

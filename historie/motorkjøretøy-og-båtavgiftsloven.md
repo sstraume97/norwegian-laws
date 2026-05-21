@@ -5,7 +5,27 @@ refid: "lov/1959-06-19-2"
 
 # Endringshistorikk: Motorkjøretøy- og båtavgiftsloven
 
+## (annet)
+
+### 2008-05-09 — lov/2008-05-09-16
+
+*Nåværende § 10 blir § 11.*
+
 ## § 10
+
+### 2008-05-09 — lov/2008-05-09-16
+
+*§ 10 skal lyde:*
+
+> Reglene om taushetsplikt mv. i tolloven § 8 gjelder tilsvarende for tollmyndighetens arbeid knyttet til denne lov.
+>
+
+### 2008-12-12 — lov/2008-12-12-86
+
+*§ 10 skal lyde:*
+
+> Reglene om taushetsplikt mv. i lov om toll og vareførsel § 12-1 gjelder tilsvarende for tollmyndighetenes arbeid knyttet til denne lov.
+>
 
 ### 2016-01-01 — lov/2015-06-19-47
 

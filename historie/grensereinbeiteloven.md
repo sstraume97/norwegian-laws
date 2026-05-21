@@ -34,6 +34,15 @@ refid: "lov/1972-06-09-31"
 > For umerket rein som befinner seg i beiteområder som er fastsatt ved forskrift etter § 1 til beitetid som bestemt i § 2 for vedkommende område, gjelder likevel følgende:
 >
 
+## § 24
+
+### 2019-05-24 — lov/2019-05-24-18
+
+*§ 24 andre ledd skal lyde:*
+
+> Rein som uten hjemmel i loven befinner seg i Norge, må ikke slaktes uten samtykke av fylkesmannen i fylket der reinen er.
+>
+
 ## § 3
 
 ### 2005-06-17 — lov/2005-06-17-100
@@ -41,6 +50,24 @@ refid: "lov/1972-06-09-31"
 *§ 3 skal lyde:*
 
 > Kongen kan ved forskrift fastsette at svensk rein kan oppholde seg i bestemte områder til annen tid enn fastsatt i § 2 når reindrift foregår i tilstøtende grensetrakter i Sverige.
+>
+
+## § 39
+
+### 2019-05-24 — lov/2019-05-24-18
+
+*§ 39 fjerde ledd skal lyde:*
+
+> Pålegg om beiteavgift kan av den som pålegget berører, eller av lantbruksnämnden, ankes til Landbruksdirektoratet innen fem uker etter at tillitsmannen har mottatt pålegget.
+>
+
+## § 47
+
+### 2019-05-24 — lov/2019-05-24-18
+
+*§ 47 tredje ledd skal lyde:*
+
+> Med lantbruksnämndens samtykke kan Landbruksdirektoratet gjøre midlertidige unntak fra § 4 om bruken av beiteområdene.
 >
 
 ## § 5

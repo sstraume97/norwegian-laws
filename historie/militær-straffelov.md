@@ -5,81 +5,24 @@ refid: "lov/1902-05-22-13"
 
 # Endringshistorikk: Militær Straffelov – milstrl
 
-## § 1-3
-
-### 2016-04-22 — lov/2016-04-22-3
-
-*§ 1-3 annet ledd annet punktum skal lyde:*
-
-> Det samme gjelder ved tvangsoppløsning av samvirkeforetak i medhold av samvirkeloven § 141, jf § 144.
->
-
-## § 5-15
-
-### 2016-04-22 — lov/2016-04-22-3
-
-*§ 5-15 første ledd annet punktum skal lyde:*
-
-> Fristen beregnes fra åpningen av forhandling om tvangsakkord også hvor forhandlingen er gått over til konkurs i samsvar med konkursloven § 57.
->
-> 17. I lov 26. juni 1992 nr. 86 om tvangsfullbyrdelse gjøres følgende endringer:
->
-
-## § 10-6
-
-### 2016-04-22 — lov/2016-04-22-3
-
-*§ 10-6 annet ledd første punktum skal lyde:*
-
-> Når verdipapirforetaket får ansvar overfor kjøperen etter verdipapirhandelloven § 12-1, kan foretaket søke regress hos dem som har fått utbetalt noe av kjøpesummen såfremt ansvaret ikke skyldes forhold på foretakets side.
->
-
-## § 11-1
-
-### 2016-04-22 — lov/2016-04-22-3
-
-*§ 11-1 femte ledd skal lyde:*
-
-> Tvangsbruk kan ikke gjennomføres for andel i borettslag og for akvakulturtillatelser.
->
-> Fjerde ledd vedtatt ved lov 6. juni 2003 nr. 39 og fjerde ledd vedtatt ved lov 17. juni 2005 nr. 79 oppheves.
->
-> 18. I lov 24. juni 1994 nr. 38 om gjennomføring i norsk rett av De forente nasjoners sikkerhetsråds vedtak om å opprette internasjonale domstoler for forbrytelser i det tidligere Jugoslavia og Rwanda skal § 7 lyde:
->
-> § 7.Straff for uriktig forklaring
->
-> Om straffansvar for uriktig forklaring for Domstolen gjelder straffeloven § 221 tilsvarende.
->
-> 19. I lov 4. august 1995 nr. 53 om politiet skal § 24 c fjerde og femte ledd lyde:
->
-> Studentene plikter å avlegge dopingprøve etter nærmere regler gitt av departementet. Bruk av ulovlige dopingmidler eller nektelse av å medvirke til dopingkontroll kan føre til utvisning eller utestengning for inntil tre år.
->
-> Vedtak om utvisning, bortvisning eller utestengning kan påklages til departementet etter reglene i forvaltningsloven. Studenten har rett til å la seg bistå av advokat eller annen medhjelper fra skikkethetssak eller sak om bortvisning eller utestengning er reist, eventuelt etter at advarsel etter annet ledd er gitt.
->
-> 20. I lov 25. juni 1999 nr. 46 om finansavtaler og finansoppdrag gjøres følgende endringer:
->
-
-## § 22-12
-
-### 2016-04-22 — lov/2016-04-22-3
-
-*§ 22-12 første ledd første punktum skal lyde:*
-
-> Når et bevis omhandlet i dette kapittel føres med vedkommendes samtykke, skal retten pålegge de tilstedeværende taushetsplikt, hvis ikke samtykket bestemmer noe annet.
->
-> I § 28-A1 tredje ledd første punktum erstattes ordet «planteforedlerett» av «planteforedlerrett».
->
-
 ## (annet)
 
-### 2016-04-22 — lov/2016-04-22-3
+### 2008-03-07 — lov/2008-03-07-4
 
-*13. Lov 8. februar 1980 nr. 2 om pant § 6-1 annet ledd bokstav c skal lyde:*
+*§§ 80-86 og §§ 90-94 a oppheves.*
 
-> årsgebyr for vann og avløp etter lov 16. mars 2012 nr. 12 om kommunale vass- og avløpsanlegg.
+> 2. Lov 18. august 1914 nr. 3 om forsvarshemmeligheter oppheves.
 >
-> 14. I lov 22. mai 1981 nr. 25 om rettergangsmåten i straffesaker gjøres følgende endringer:
+> 3. I lov 13. august 1915 nr. 5 om domstolene gjøres følgende endring:
 >
+
+### 2009-06-19 — lov/2009-06-19-74
+
+*Nåværende fjerde ledd blir nytt annet ledd.*
+
+### 2009-06-19 — lov/2009-06-19-74
+
+*§§ 80-86 og §§ 90-94 a oppheves.*
 
 ### 2023-12-20 — lov/2023-12-20-110
 
@@ -89,196 +32,265 @@ refid: "lov/1902-05-22-13"
 
 *I § 45 erstattes henvisningen til «§§ 39, 40, 42 og 44» av en henvisning til «§§ 39, 42 og 44».*
 
+## § 1
+
+### 2009-06-19 — lov/2009-06-19-74
+
+*§ 1 skal lyde:*
+
+> Straffelovens første Del finder Anvendelse paa de strafbare Handlinger, som omhandles i nærværende Lov, forsaavidt denne intet modsat bestemmer.
+>
+
 ## § 100
 
-### 2016-04-22 — lov/2016-04-22-3
+### 2009-06-19 — lov/2009-06-19-74
 
-*§ 100 fjerde ledd oppheves.*
+*§ 100 skal lyde:*
 
-## § 145
-
-### 2016-04-22 — lov/2016-04-22-3
-
-*§ 145 første ledd nr. 2 skal lyde:*
-
-> alle spørsmål som gjelder åpning og gjennomføring av akkordforhandling og konkurs.
+> Med Fængsel indtil 6 Aar straffes den Krigsmand, som i Hensigt derved at forskaffe sig eller andre en uberettiget Vinding retsstridigudskriver Krigsskat eller Tvangsydelse ellerforhøier retmessige Rekvisitioner ellernegter at udstede Modtagelsesbevis for borttagen eller rekvireret Eiendom.
 >
 
-## § 147
+## § 101
 
-### 2016-04-22 — lov/2016-04-22-3
+### 2009-06-19 — lov/2009-06-19-74
 
-*§ 147 første ledd skal lyde:*
+*§ 101 innledningsvis skal lyde:*
 
-> Dersom en begjæring om gjeldsforhandling eller konkurs blir avvist på grunn av uforsettlige feil, men fremsatt på ny innen tre uker etter at kjennelsen er forkynt for vedkommende, regnes de materielle rettsfølger fra den første begjæring.
+> Med Fængsel indtil 6 Aar straffes den, som forøver et i Straffeloven §§ 321, 324 eller 330 omhandlet Lovbrud
 >
 
-## § 152
+### 2009-06-19 — lov/2009-06-19-74
 
-### 2016-04-22 — lov/2016-04-22-3
+*§ 101 annet ledd skal lyde:*
 
-*§ 152 oppheves.*
-
-> 16. I lov 8. juni 1984 nr. 59 om fordringshavernes dekningsrett gjøres følgende endringer:
+> Forøves saadant Lovbrud efter Aftale af flere i Fællesskab, straffes Anstiftere og Anførere med Fængsel indtil paa Livstid og de øvrige Deltagere med Fengsel indtil 10 Aar.
 >
 
-## § 158
+## § 102
 
-### 2016-04-22 — lov/2016-04-22-3
+### 2009-06-19 — lov/2009-06-19-74
 
-*§ 158 fjerde ledd første punktum skal lyde:*
+*§ 102 innledningsvis skal lyde:*
 
-> Når vilkårene for registrering etter politiregisterloven § 12 annet ledd nr. 1 til 4 er oppfylt, kan det også etter at avgjørelsen er rettskraftig eller saken endelig avgjort innhentes biologisk materiale fra personer som kan registreres i registeret.
+> Med Fængsel indtil paa Livstid straffes den, som forøver et i Straffeloven § 327 omhandlet Lovbrud
+>
+
+## § 103
+
+### 2009-06-19 — lov/2009-06-19-74
+
+*§ 103 skal lyde:*
+
+> Den, som uden Nødvendighed ødelegger eller beskadiger fremmed Eiendom, straffes med Fængsel indtil 6 Aar, men med Fængsel indtil paa Livstid, hvis det sker ved Forvoldelse af Ildebrand, Sammenstyrtning, Sprengning, Oversvømmelse, Sjøskade eller Jernbaneulykke.
+>
+
+## § 104
+
+### 2009-06-19 — lov/2009-06-19-74
+
+*§ 104 skal lyde:*
+
+> Den, som forøver en etter straffeloven kapittel 27, eller §§ 332, 337, 343, 351, 352 annet ledd eller 390 straffbar handling med hensyn til noen krigsvesenets øyemed tjenende gjenstand, straffes med de i nevnte lov bestemte straffer, dog så at arrest trer istedenfor bøter, og at straffen innen de for vedkommende straffart fastsatte grenser kan forhøyes med inntil en halvdel.
+>
+
+## § 105
+
+### 2009-06-19 — lov/2009-06-19-74
+
+*§ 105 skal lyde:*
+
+> Den, som forøver nogen i § 104 nævnt strafbar Handling med Hensyn til Krigsbytte, straffes som i Straffeloven bestemt, dog saa, at Arrest træder istedenfor Bøder.
+>
+
+## § 106
+
+### 2009-06-19 — lov/2009-06-19-74
+
+*§ 106 skal lyde:*
+
+> Krigsmand, som egenmægtig søger at gjøre Krigsbytte, straffes med Fængsel indtil 1 Aar.
+>
+
+## § 107
+
+### 2009-06-19 — lov/2009-06-19-74
+
+*§ 107 skal lyde:*
+
+> Med fengsel straffes den som mot fienden bruker våpen eller stridsmidler som er forbudt ved noen av Norge tiltrådt internasjonal overenskomst.
+>
+
+## § 108
+
+### 2009-06-19 — lov/2009-06-19-74
+
+*§ 108 innledningsvis skal lyde:*
+
+> Med fengsel inntil 3 år straffes den som overtrer bestemmelse som er gitt til beskyttelse for personer eller eiendom
+>
+> Slutningsbestemmelsen oppheves.
+>
+> 5 a. Lov 18. august 1914 nr. 3 om forsvarshemmeligheter oppheves.
+>
+> 6. I lov 24. juni 1915 nr. 5 om kontroll med post- og telegrafforsendelser og med telefonsamtaler skal § 1 annet ledd lyde:
+>
+> Utenfor krigstid kan kontrollen bare settes i verk overfor personer som mistenkes for noen overtredelse av straffeloven kapittel 17, 19, 20 og 23 eller lov 4. juli 2003 nr. 83 om elektronisk kommunikasjon § 12-4.
+>
+
+## § 12
+
+### 2009-06-19 — lov/2009-06-19-74
+
+*§ 12 skal lyde:*
+
+> De straffer, som anvendes efter denne lov, er fengsel, arrest og bøter. Forvaring kan idømmes efter reglene i straffeloven § 40. I særlige tilfelle anvendes rettighetstap som nevnt i straffeloven § 56.Med ovennævnte Straffe kan som Tillægsstraffe forbindes:Kunngjøring av dommen, hvorved lov 13. juni 1969 nr. 26 om skadeserstatning § 3-6, jfr. nærværende lov §§ 40, 41, 59 og 60, får tilsvarende anvendelse;Forvisning fra bestemte Steder overensstemmende med Straffeloven § 57.
+>
+
+### 2009-06-19 — lov/2009-06-19-74
+
+*§ 12 nr. 2 bokstav a oppheves.*
+
+## § 13
+
+### 2009-06-19 — lov/2009-06-19-74
+
+*§ 13 første ledd skal lyde:*
+
+> De i Straffeloven og i Lov om Fængselsvæsenet givne Regler om Fængsel og Bøder kommer, forsaavidt intet modsat er bestemt, til Anvendelse paa de militære Fængsels- og Bødestraffe.
+>
+
+### 2009-06-19 — lov/2009-06-19-74
+
+*§ 13 annet og tredje ledd oppheves.*
+
+## § 15
+
+### 2009-06-19 — lov/2009-06-19-74
+
+*§ 15 skal lyde:*
+
+> Arrest anvendes kun paa militære og civilmilitære Personer samt Krigsfanger og medfarende paa Skib og idømmes som Husarrest fra 1 til 30 Dage eller som Vagtarrest fra 1 til 60 Dage, men i de i § 27, jf. Straffeloven § 79 bokstav a, omhandlede Tilfælde henholdsvis indtil 45 og 90 Dage.
+>
+> 1 dags Arrest svarer til 1 Dags Fængsel.
 >
 
 ## § 16
 
-### 2016-04-22 — lov/2016-04-22-3
+### 2009-06-19 — lov/2009-06-19-74
 
-*§ 16 tredje og fjerde ledd skal lyde:*
+*§ 16 tredje ledd skal lyde:*
 
-> Dersom forhandling om frivillig gjeldsordning blir besluttet åpnet, kan skyldnerens bo ikke tas under konkursbehandling etter begjæring av en fordringshaver hvis fordring skriver seg fra tiden før gjeldsforhandlingen ble åpnet. Dette gjelder likevel ikke når det mer enn tre måneder etter at gjeldsforhandlingen ble besluttet åpnet, fremsettes en konkursbegjæring eller begjæres fremmet en konkursbegjæring hvis behandling er utsatt etter reglene i første ledd. Retten kan i særlige tilfeller forlenge fristen når skyldneren ber om det, og det er god utsikt til at skyldneren vil kunne oppnå frivillig gjeldsordning eller få åpnet forhandling om tvangsakkord. Rettens avgjørelse av spørsmålet om forlengelse av fristen kan ikke ankes.
->
-> Dersom forhandling om tvangsakkord blir besluttet åpnet, kan skyldnerens bo ikke tas under konkursbehandling etter begjæring av en fordringshaver hvis fordring skriver seg fra tiden før forhandlingen om tvangsakkord ble åpnet og som ikke grunner seg på avtale som er inngått med gjeldsnemndas tillatelse eller godkjennelse. Reglene i første og annet ledd gjelder tilsvarende.
+> Hvor Benyttelse af militært Arrestlokale vilde volde uforholdsmæssig Ulempe eller Bekostning, kan Arresten udholdes i Kredsfængsel eller Hjælpefængsel. Uden eget Samtykke maa Arrestanten ikke sættes sammen med nogen, der udstaar Straf af Fængsel eller med Varetægtsfange.
 >
 
-## § 161
+## § 2
 
-### 2016-04-22 — lov/2016-04-22-3
+### 2009-06-19 — lov/2009-06-19-74
 
-*§ 161 annet ledd første punktum skal lyde:*
+*§ 2 skal lyde:*
 
-> Den som unndrar seg gjennomføringen av idømt frihetsstraff, straffes med bot eller fengsel inntil 6 måneder.
+> Militære Lovbrud er alene de strafbare Handlinger, som omhandles i denne Lov.
 >
 
-## § 21
+### 2009-06-19 — lov/2009-06-19-74
 
-### 2016-04-22 — lov/2016-04-22-3
+*§ 2 annet ledd oppheves.*
 
-*§ 21 første ledd nr. 4 og 5 skal lyde:*
+## § 20
 
-> opplysning om skyldneren antas å ha foretatt disposisjoner som kan omstøtes i tilfelle av forhandling om tvangsakkord eller konkurs, og om det er holdt tvangsforretninger hos skyldneren som i så fall vil være uvirksomme;opplysning om skyldneren tidligere har søkt frivillig gjeldsordning eller vært under forhandling om tvangsakkord eller konkurs, i tilfelle med angivelse av den dividende fordringshaverne oppnådde;
+### 2009-06-19 — lov/2009-06-19-74
+
+*§ 20 skal lyde:*
+
+> Den som dømmes for overtredelse av krigsartiklene, kan idømmes tap av stemmerett i offentlige anliggender for en tid av inntil 10 år. For øvrig får reglene om rettighetstap i Straffeloven § 56 tilsvarende anvendelse.
 >
 
-## § 274
+## § 23
 
-### 2016-04-22 — lov/2016-04-22-3
+### 2009-06-19 — lov/2009-06-19-74
 
-*§ 274 første ledd første punktum skal lyde:*
+*§ 23 skal lyde:*
 
-> Ved avgjørelsen av spørsmål som nevnt i § 272 deltar i lagmannsretten tre dommere.
->
-> 15. I lov 8. juni 1984 nr. 58 om gjeldsforhandling og konkurs gjøres følgende endringer:
+> Med hensyn til inndragning finner Straffeloven §§ 67-75 tilsvarende anvendelse.
 >
 
-### 2016-04-22 — lov/2016-04-22-3
+## § 234
 
-*§ 274 første ledd annet punktum bostav d, e og f skal lyde:*
+### 2008-03-07 — lov/2008-03-07-4
 
-> er begått av flere i fellesskap,er motivert av fornærmedes hudfarge, nasjonale eller etniske opprinnelse, religion, livssyn, homofile orientering eller nedsatte funksjonsevne, ellerer forøvd ved bruk av kniv eller annet særlig farlig redskap.
->
-> 25. I lov 17. juni 2005 nr. 90 om mekling og rettergang i sivile tvister gjøres følgende endringer:
->
+*§ 234 fjerde ledd oppheves.*
 
-## § 28-A3
+## § 25
 
-### 2016-04-22 — lov/2016-04-22-3
+### 2009-06-19 — lov/2009-06-19-74
 
-*§ 28-A3 annet ledd tredje punktum skal lyde:*
+*§ 25 skal lyde:*
 
-> Retter begjæringen seg mot flere, kan den fremmes der én av disse har verneting.
->
-> 26. I lov 15. mai 2008 nr. 35 om utlendingers adgang til riket og deres opphold her skal § 66 annet ledd bokstav b lyde:når utlendingen ikke er gitt en utreisefristfordi det er fare for unndragelse, jf. § 90 femte ledd bokstav a og § 106 a,fordi en søknad er avslått som åpenbart grunnløs eller som følge av vesentlig uriktige eller åpenbart villedende opplysninger, jf. § 90 femte ledd bokstav b,fordi utlendingen er funnet å utgjøre en trussel mot offentlig orden, jf. § 90 femte ledd bokstav c, ellerfordi utlendingen er funnet å utgjøre en trussel mot grunnleggende nasjonale interesser, jf. § 129 femte ledd.
->
-> 27. I lov 26. mars 2010 nr. 9 om vergemål skal § 5 første ledd lyde:
->
-> Området for hvert fylkesmannsembete utgjør et vergemålsdistrikt. Svalbard er et eget vergemålsdistrikt.
->
-> 28. I lov 28. mai 2010 nr. 16 om behandling av opplysninger i politiet og påtalemyndigheten erstattes i § 40 nr. 7 bokstav e og nr. 8 ordet «tvunget» av «tvungent».
->
-> 29. I lov 25. juni 2010 nr. 45 om kommunal beredskapsplikt, sivile beskyttelsestiltak og Sivilforsvaret gjøres følgende endringer:
+> Paa Handling, der under paatrængende Fare eller Nød foretages for at faa givne Befalinger adlydte, finder Straffeloven §§ 17, 18 og 80 tilsvarende Anvendelse.
 >
 
-## § 29
+## § 27
 
-### 2016-04-22 — lov/2016-04-22-3
+### 2009-06-19 — lov/2009-06-19-74
 
-*§ 29 tredje ledd skal lyde:*
+*§ 27 skal lyde:*
 
-> For tilsyn med lovligheten av kommunens oppfyllelse av plikter etter §§ 12, 13, 14, 15, 20 og 21 gjelder kapittel 10 A i kommuneloven.
+> Bestemmelserne i Straffeloven §§ 34-39 kan bringes i Anvendelse, ogsaa hvor der idømmes Arrest. Samme Lovs § 79 bokstav a finder tilsvarende Anvendelse, hvor nogen af de strafbare Handlinger skulde have medført nævnte Straf.
 >
 
-## § 3
+## § 30
 
-### 2016-04-22 — lov/2016-04-22-3
+### 2009-06-19 — lov/2009-06-19-74
 
-*§ 3 annet ledd skal lyde:*
+*§ 30 første ledd skal lyde:*
 
-> Rettsgebyrloven § 3 tredje og sjette ledd og § 5 annet ledd gjelder tilsvarende.
+> Med hensyn til foreldelse gjelder for arrest de samme regler som i Straffelovens 15de kapitel bestemt.
 >
 
 ## § 32
 
-### 2016-04-22 — lov/2016-04-22-3
+### 2009-06-19 — lov/2009-06-19-74
 
 *§ 32 skal lyde:*
 
-> Ektefeller, foreldre og barn, søsken eller noen, som er i like så nært svogerskap, må ikke samtidig sitte i retten som dommere eller lagrettemedlemmer og heller ikke som rettsvitner.
+> Lovbrud ved trykt Skrift, hvis Forfatter ikke har navngivet sig eller paa anden Maade betegnet sig som hørende til den væbnede Magt, er ikke at anse som militære Lovbrud uden i de i §§ 47, 49, 69 og 86 nævnte Tilfælde.
 >
 
-### 2016-04-22 — lov/2016-04-22-3
+## § 33
 
-*§ 32 annet ledd skal lyde:*
+### 2009-06-19 — lov/2009-06-19-74
 
-> Tilsynspersonellet skal legitimere seg i samsvar med forvaltningsloven § 15, og om mulig sette seg i kontakt med representant for eier eller bruker av objektet.
+*§ 33 skal lyde:*
+
+> Alle militære Lovbrud er offentlig Paatale undergivet.
+>
+> Overskriften til annen del skal lyde:
+>
+> Militære Lovbrud.
 >
 
-## § 35
+## § 34
 
-### 2016-04-22 — lov/2016-04-22-3
+### 2009-06-19 — lov/2009-06-19-74
 
-*§ 35 skal lyde:*
+*§ 34 tredje ledd skal lyde:*
 
-> § 35.Kunngjøring av at forhandling om tvangsakkord er åpnet
->
-> Når forhandling om tvangsakkord er åpnet, skal gjeldsnemnda, hvis ikke tingretten beslutter å gjøre det selv, uten opphold utferdige en kunngjøring som skal inneholde:underretning om at skyldneren har åpnet forhandling om tvangsakkord;oppfordring til fordringshaverne om innen tre uker å sende inn til gjeldsnemnda en spesifisert oppgave over sine fordringer på skyldneren. Med oppgaven skal følge de dokumenter som tjener som bevis for fordringene, og opplysning skal gis om fordringenes grunnlag, om de sikkerheter i skyldnerens eller i tredjepersons eiendeler som måtte hefte for dem og om det er solidarisk medforpliktede. Har det før forhandlingen om tvangsakkord vært forhandling om frivillig gjeldsordning, meddeles det samtidig at fordringer som allerede er meldt til gjeldsnemnda, ikke behøver å meldes på nytt;berammelse av et fordringshavermøte, jf. § 38 a, eller opplysning om at tingretten har bestemt at det ikke skal holdes slikt møte.
->
-> Kunngjøringen rykkes inn i Brønnøysundregistrenes elektroniske kunngjøringspublikasjon.
->
-> Har det før forhandlingen om tvangsakkord vært forhandling om frivillig gjeldsordning, skal kopi av kunngjøringen uten opphold sendes til alle kjente fordringshavere.
->
-> Alle som har en rettslig interesse i bobehandlingen, har rett til å gjøre seg kjent med den listen over fordringshavere som var vedlegg til skyldnerens begjæring om åpning av gjeldsforhandling, jf. § 2 første ledd tredje punktum nr. 2, og med fordringsanmeldelsene.
+> Paa samme Maade straffes den, som retsstridig bevirker at en anden forlader eller bliver borte fra det Sted, hvor det paaligger ham som militær Pligt at være tilstede.
 >
 
 ## § 36
 
-### 2016-04-22 — lov/2016-04-22-3
+### 2009-06-19 — lov/2009-06-19-74
 
 *§ 36 skal lyde:*
 
-> § 36.Tinglysing m.m. av melding om at forhandling om tvangsakkord er åpnet
+> Den, som i Hensigt at unddrage sig sin militære Tjeneste ved Lemlæstelse eller paa anden Maade gjør sig helt eller delvis ubrugbar dertil, at nogen anden i saadan Hensigt gjøres ubrugbar til Krigstjeneste, straffes med Fængsel indtil 2 Aar.
 >
-> Melding om at skyldneren har åpnet forhandling om tvangsakkord, skal på begjæring av gjeldsnemnda tinglyses eller registreres i:Løsøreregisteret,grunnboken og liknende realregistre, for så vidt skyldneren eier fast eiendom eller andre registrerte eiendeler,et verdipapirregister, dersom det er registrert rettigheter der som gjeldsnemnda mener tilhører skyldneren, ogForetaksregisteret, dersom skyldnerens foretaksnavn er innført der.
+> Paa samme Maade straffes den, som ved at foregive Sygdom eller Legemsfeil søger at unddrage sig fra militær Tjeneste.
 >
-> Gjeldsnemnda skal videre sende underretning om åpningen av forhandling om tvangsakkord til de banker og tilsvarende institusjoner hvor skyldneren har innskudd.
+> Overskriften til femte kapittel skal lyde:
 >
-
-## § 37
-
-### 2016-04-22 — lov/2016-04-22-3
-
-*§ 37 første ledd bokstav a skal lyde:*
-
-> hindre at innsatte fortsetter å påvirke miljøet i fengslet på en særlig negativ måte,
->
-
-## § 38
-
-### 2016-04-22 — lov/2016-04-22-3
-
-*§ 38 første ledd første punktum skal lyde:*
-
-> Når ikke annet er bestemt i medhold av forvaltningsloven § 5 annet ledd, gjelder forvaltningsloven i fredstid for behandling av saker etter denne lov.
+> Lovbrud med Hensyn til den militære Underordning.
 >
 
 ## § 4
@@ -292,104 +304,166 @@ refid: "lov/1902-05-22-13"
 
 ## § 40
 
-### 2016-04-22 — lov/2016-04-22-3
+### 2009-06-19 — lov/2009-06-19-74
 
-*§ 40 tredje ledd skal lyde:*
+*§ 40 oppheves.*
 
-> Dersom en fordringshaver før forhandling om tvangsakkord ble åpnet, har stemt for akkordforslaget, og dette senere ikke er blitt endret, anses fordringshaveren for å fastholde sin vedtagelse, når den ikke senere er blitt tilbakekalt.
+## § 41
+
+### 2009-06-19 — lov/2009-06-19-74
+
+*§ 41 skal lyde:*
+
+> Den, som ved falsk anklage for militært Lovbrud mot nogen foresatt eller overordnet forgår sig på sådan måte som i Straffeloven §§ 222-225 omhandlet, straffes med de der bestemte straffer, dog så, at arrest trer istedenfor bøter.
+>
+> Den, som ellers mot bedre vitende inngir nogen ubeføiet besværing eller klage over foresatte eller overordnede i anledning av tjenesteforhold, straffes med arrest eller fengsel inntil 6 måneder. Skjer det ikke mot bedre vitende, men dog uten rimelig grunn og besværingen eller klagen viser sig å være aldeles ubeføiet, straffes den skyldige med arrest.
 >
 
-## § 45
+## § 42
 
-### 2016-04-22 — lov/2016-04-22-3
+### 2009-06-19 — lov/2009-06-19-74
 
-*§ 45 første ledd nr. 1 skal lyde:*
+*§ 42 skal lyde:*
 
-> legitimasjoner for at forhandlingen om tvangsakkord har vært kunngjort og bekreftelse av at fordringshaverne har vært varslet om avstemningen i overensstemmelse med lovens regler;
+> Den, som mod en foresat eller overordnet i Anledning af Tjenesten eller under Udførelse af militære Tjenestepligter gjør sig skyldig i noget Lovbrud mod den personlige Frihed, straffes med de i Straffeloven bestemte Straffe, dog saa, at Arrest træder istedenfor Bøder, og at Straffen inden de for vedkommende Strafart fastsatte Grænser kan forhøies med indtil en Halvdel.
+>
+> Er Lovbruddet forøvet i Nærvær af samlet Trop eller Skibsmandskab eller nogen betydelig Del deraf, straffes den skyldige med Fængsel i mindst 1 Aar.
 >
 
-## § 46 a
+## § 43
 
-### 2016-04-22 — lov/2016-04-22-3
+### 2009-06-19 — lov/2009-06-19-74
 
-*§ 46 a tredje ledd tredje punktum skal lyde:*
+*§ 43 skal lyde:*
 
-> Kredittgiveren anses å ha oppfylt opplysningsplikten etter første og annet ledd og angrerettloven § 30 første ledd første punktum dersom opplysninger er gitt forbrukeren i samsvar med formularet.
+> Den, som ved Vold eller Trusel søger at formaa en foresat eller overordnet til at foretage eller undlade en Tjenestehandling eller at hindre ham under en saadan, straffes med Fængsel indtil 6 Aar.
+>
+> Med Fængsel indtil 3 Aar straffes den, som ved Vold eller Trusel søger at hindre en anden Krigsmand fra at udføre en ham af foresatte given Befaling i Tjenesteanliggende.
 >
 
-### 2016-04-22 — lov/2016-04-22-3
+## § 44
 
-*§ 46 a fjerde ledd første punktum skal lyde:*
+### 2009-06-19 — lov/2009-06-19-74
 
-> Hvis taletelefoni blir benyttet som kommunikasjonsmåte, jf. angrerettloven § 28 fjerde ledd, skal forbrukeren gis opplysninger i samsvar med angrerettloven § 28 fjerde ledd.
+*§ 44 skal lyde:*
+
+> Den, som mod en foresat eller overordnet i Anledning af Tjenesten eller under Udførelse af militære Tjenestepligter gjør sig skyldig i noget Lovbrud mod Liv og Kropp, straffes med de i Straffeloven bestemte Straffe, dog saa, at Arrest træder istedenfor Bøder, og at Straffen inden de for vedkommende Strafart fastsatte Grænser kan forhøies med indtil en Halvdel.
+>
+> Er Lovbruddet forsætlig og forøvet i Nærvær af samlet Trop eller Skibsmandskab eller nogen betydelig Del deraf, straffes den skyldige med Fængsel i mindst 1 Aar.
 >
 
-## § 51 b
+## § 46
 
-### 2016-04-22 — lov/2016-04-22-3
+### 2009-06-19 — lov/2009-06-19-74
 
-*§ 51 b tredje ledd annet punktum skal lyde:*
+*§ 46 tredje ledd annet punktum skal lyde:*
 
-> Ved bruk av angrerett ved avtale om levering av vare eller tjenesteytelse gjelder angrerettloven §§ 27, 37 og 39 for bortfall av avtale om kreditt som helt eller delvis dekker kjøpesummen og som innvilges av selger eller tjenesteyter eller av tredjeperson etter avtale med selger eller tjenesteyter.
+> Voldes derved saadant Tab eller saadan Skade, kan Straffetiden forlænges til 10 Aar.
 >
-> 21. I lov 16. juli 1999 nr. 66 om Schengen informasjonssystem (SIS) skal § 11 tredje punktum lyde:
+
+## § 47
+
+### 2009-06-19 — lov/2009-06-19-74
+
+*§ 47 skal lyde:*
+
+> Den, som søger at ophidse Krigsmand til Uvilje mod Tjenesten eller til Had mod foresatte eller overordnede, straffes med Arrest eller med Fængsel indtil 3 Aar. Dersom Lovbruddet er forøvet ved trykt Skrift, skal dette utgjøre et skjerpende Moment ved utmålingen av Straff.
 >
-> Behandlingen av supplerende opplysninger for øvrig reguleres av politiregisterloven og personopplysningsloven, med unntak av de særlige slettereglene i § 20 syvende ledd.
+
+## § 49
+
+### 2009-06-19 — lov/2009-06-19-74
+
+*§ 49 bokstav c skal lyde:*
+
+> at negte Lydighed mod en foresats Befaling i Tjenesteanliggende, straffes for Opvigleri med Fængsel indtil 6 Aar.
 >
-> 22. I lov 18. mai 2001 nr. 21 om gjennomføring av straff mv. gjøres følgende endringer:
+
+## § 50
+
+### 2009-06-19 — lov/2009-06-19-74
+
+*§ 50 skal lyde:*
+
+> Aftaler flere Krigsmænd at ville i Fællesskab øve saadan Vold, Tvang eller Ulydighed som i § 49 omhandlet, straffes de for Mytteri med Fængsel indtil 3 Aar, men med Fængsel indtil 6 Maaneder, hvis de alle opgiver den strafbare Plan, før nogen militær Myndighed er kommen til Kundskab om samme; under særdeles formildende Omstændigheder kan i saa Fald Straf helt bortfalde.
+>
+
+## § 51
+
+### 2009-06-19 — lov/2009-06-19-74
+
+*§ 51 første ledd skal lyde:*
+
+> Med Fængsel indtil 2 Aar straffes den Krigsmand, som undlader gjennem betimelig Anmeldelse for vedkommende Myndighed eller paa anden Maade at søge afverget et Mytteri eller et Lovbrud mod §§ 42 eller 44 af nogen i Straffeloven §§ 254, 272, 275 eller 287 omhandlet Slags eller sammes Følger, uagtet han til en Tid, da Lovbruddet eller dets Følger endnu kunde forebygges, har erholdt paalidelig Kundskab om, at den er igjære eller er forøvet.
 >
 
 ## § 52
 
-### 2016-04-22 — lov/2016-04-22-3
+### 2009-06-19 — lov/2009-06-19-74
 
-*§ 52 annet punktum skal lyde:*
+*§ 52 skal lyde:*
 
-> §§ 12, 15, 16, 20, 33, 35, 36 og 41 til 45 i loven her gjelder ikke.
+> Søger flere Krigsmænd i Fællesskab retsstridigat øve Vold mod en foresat eller overordnet, ellerat tvinge en saadan til at foretage eller undlade en tjenestehandling, ellerat negte Lydighed mod en foresats Befaling i Tjenesteanliggende,bliver de deri skyldige at straffe for Oprør, Anstiftere og Hovedmænd saavelsom de, der øver Vold mod foresatte eller overordnede, med Fængsel indtil 10 Aar og de øvrige medvirkende med Fængsel indtil 6 Aar.
 >
-> 23. I lov 15. juni 2001 nr. 65 om gjennomføring i norsk rett av Den internasjonale straffedomstols vedtekter 17. juli 1998 (Roma-vedtektene) skal § 12 første ledd lyde:
->
-> For straffansvar for uriktig forklaring for Domstolen gjelder straffeloven § 221 tilsvarende.
->
-> 24. I lov 20. mai 2005 nr. 28 om straff gjøres følgende endringer:
+> Voldes ved Oprøret Tab af Menneskeliv eller betydelig Skade for Krigsvæsenet, eller foregaar Lovbruddet i Havsnød, eller medfører den Fare for Skibets Sikkerhed, kan Straffen for Anstiftere og Hovedmænd forlænges til Fængsel paa Livstid og for de øvrige medvirkende til Fængsel indtil 10 Aar.
 >
 
 ## § 53
 
-### 2016-04-22 — lov/2016-04-22-3
+### 2009-06-19 — lov/2009-06-19-74
 
-*§ 53 annet ledd skal lyde:*
+*§ 53 annet punktum skal lyde:*
 
-> Når stadfestelseskjennelsen er blitt rettskraftig, skal gjeldsnemnda kunngjøre akkorden på den måte som er fastsatt i § 35 annet ledd og sørge for at melding etter § 36 første ledd nr. 1, 2 og 3 blir slettet, og at melding om avslutning av forhandlingen om tvangsakkord blir registrert i Foretaksregisteret dersom skyldnerens foretaksnavn er innført der.
+> For Anstiftere og Hovedmænd nedsættes den til Fængsel indtil 6 Aar, saafremt alle Deltagere vender tilbage til Lydighed, inden det er kommet til saadan Forøvelse af Vold eller Tvang.
 >
 
 ## § 56
 
-### 2016-04-22 — lov/2016-04-22-3
+### 2009-06-19 — lov/2009-06-19-74
 
-*§ 56 annet ledd skal lyde:*
+*§ 56 første ledd første punktum skal lyde:*
 
-> § 53 får tilsvarende anvendelse, annet ledd likevel bare der det har vært kunngjort at skyldneren har åpnet forhandling om tvangsakkord.
+> Den, som ved at misbruge sin Myndighed eller ved uretmæssig at tiltage sig saadan retsstridig søger at formaa en undergiven eller underordnet til at gjøre, taale eller undlade noget, straffes med Arrest eller med Fængsel indtil 2 Aar, men i Gjentagelsestilfælde indtil 3 Aar.
 >
 
-## § 57
+## § 58
 
-### 2016-04-22 — lov/2016-04-22-3
+### 2009-06-19 — lov/2009-06-19-74
 
-*§ 57 første ledd nr. 2 skal lyde:*
+*§ 58 skal lyde:*
 
-> når det er åpnet forhandling om frivillig gjeldsordning og retten avslår skyldnerens endringsbegjæring om åpning av forhandling om tvangsakkord, jf § 6 a;
+> Den som uberettiget udøver Disciplinærmyndighed, eller som overskrider sin Disciplinærmyndighed, straffes med Arrest eller med Fængsel indtil 6 Aar.
 >
 
-## § 62
+## § 59
 
-### 2016-04-22 — lov/2016-04-22-3
+### 2009-06-19 — lov/2009-06-19-74
 
-*§ 62 skal lyde:*
+*§ 59 første ledd skal lyde:*
 
-> § 62.Presumsjon for insolvens ved skyldnerens erkjennelse mv.
+> Den, som mod en undergiven eller underordnet i Anledning af Tjenesten eller under Udførelse af militære Tjenestepligter gjør sig skyldig i nogen Ærekrænkelse eller Lovbrud mod Liv, Legeme eller Helbred, straffes med de i Straffeloven bestemte Straffe, dog saa, at Arrest træder istedenfor Bøder, og at der for de i § 271 første ledd omhandlede Lovbrud kan anvendes Fængsel indtil 1 Aar.
 >
-> Erkjenner skyldneren å være insolvent, eller har skyldneren stanset sine betalinger, eller har det ved utlegg eller arrest i løpet av de siste tre måneder før konkursbegjæringen ble innsendt, ikke kunnet oppnås dekning hos skyldneren, antas insolvens i alminnelighet å foreligge.
+
+## § 60
+
+### 2009-06-19 — lov/2009-06-19-74
+
+*§ 60 skal lyde:*
+
+> Den, som ved falsk anklage for militært lovbrudd mot nogen undergiven eller underordnet forgår sig på sådan måte som i straffeloven §§ 222-225 omhandlet, straffes med de der bestemte straffer, dog så at arrest trer istedenfor bøter.
+>
+
+## § 61
+
+### 2009-06-19 — lov/2009-06-19-74
+
+*§ 61 første ledd skal lyde:*
+
+> En foresat eller overordnet, som forleder eller tilskynder nogen ham i Tjenesten undergiven Befalingsmand til at forøve nogen i dette Kapitel omhandlet Lovbrud eller bistaar ham dermed eller vidende lader ham forøve den, eller som misbruger sin Stilling til at tilskynde en anden Befalingsmand til at forøve en saadan eller til at bistaa ham dermed, straffes efter de samme Straffebud som denne, dog saa, at Straffen inden de for vedkommende Strafart fastsatte Grænser kan forhøies med indtil en Halvdel.
+>
+> Overskriften til syvende kapittel skal lyde:
+>
+> Lovbrud med Hensyn til særegne Tjenestepligter og den militære Orden.
 >
 
 ## § 63
@@ -401,85 +475,135 @@ refid: "lov/1902-05-22-13"
 > Krigsmand, som forbryder sig paa saadan Maade som i den almindelige Straffelovs § 276 a, jf. § 276 b omhandlet, straffes saaledes som der bestemt, dog saa, at Arrest træder istedenfor Bøder.
 >
 
+### 2009-06-19 — lov/2009-06-19-74
+
+*§ 63 skal lyde:*
+
+> Krigsmand, som forbryder sig paa saadan Maade som i Straffeloven § 387, jf. 388 omhandlet, straffes saaledes som der bestemt, dog saa, at Arrest træder istedenfor Bøder.
+>
+
+## § 65
+
+### 2009-06-19 — lov/2009-06-19-74
+
+*§ 65 skal lyde:*
+
+> Krigsmand, som pligtstridig undlader at anmelde sine undergivnes strafbare Handlinger eller at udøve sin Disciplinærmyndighed, straffes med Arrest eller med Fængsel indtil 3 Aar, men med Arrest indtil 3 Maaneder, saafremt Undladelsen er skeet af Uagtsomhed.
+>
+
+## § 66
+
+### 2009-06-19 — lov/2009-06-19-74
+
+*§ 66 skal lyde:*
+
+> Krigsmand, som bevirker, at en Fange, der staar under militær bevogtning, undviger, eller som undlader at udføre en Paagribelse, der paaligger ham ifølge Tjenestepligt eller særlig Befaling, straffes med Fængsel indtil 5 Aar, men, hvis det er skeet af Uagtsomhed, med Arrest indtil 6 Maaneder.
+>
+
 ## § 67
 
-### 2016-04-22 — lov/2016-04-22-3
+### 2009-06-19 — lov/2009-06-19-74
 
-*§ 67 niende ledd skal lyde:*
+*§ 67 første ledd skal lyde:*
 
-> Med tjenestemenn i politiet menes i sjette og åttende ledd også politihøgskolestudenter som er i praksis, og innkalte mannskaper fra politireserven.
+> Den, som afgiver urigtige tjenestlige Attester, Meddelelser eller Erklæringer, straffes med Arrest eller med Fængsel indtil 3 Aar.
 >
 
-### 2016-04-22 — lov/2016-04-22-3
+## § 68
 
-*§ 67 annet ledd skal lyde:*
+### 2009-06-19 — lov/2009-06-19-74
 
-> Rettsgebyrloven § 3 tredje og sjette ledd og § 5 annet ledd gjelder tilsvarende.
+*§ 68 skal lyde:*
+
+> Den, som bevirker at der i nogen Tjenesten vedkommende Protokol anføres Usandhed eller lægges Skjul paa Sandheden, eller at der ved Udferdigelsen af Protokoludskrift, Telegram eller Telefonmeddelelse eller anden tjenestlig Erklæring, der er afgiven for at tjene som Bevis, anføres eller bevidnes Usandhed eller lægges Skjul paa Sandheden, straffes med Tjenestens Tab eller med Fængsel indtil 3 Aar, men indtil 6 Aar, saafremt den skyldige har handlet i Hensigt at forskaffe sig eller andre en uberettiget Vinding eller at skade nogen.
 >
 
-## § 72
+## § 69
 
-### 2016-04-22 — lov/2016-04-22-3
+### 2009-06-19 — lov/2009-06-19-74
 
-*§ 72 annet ledd skal lyde:*
+*§ 69 første ledd skal lyde:*
 
-> Kjennelse om konkursåpning kan ankes av enhver som avgjørelsen rammer. Ved anke over kjennelse om åpning av konkurs skal også boet være part. Anken har ikke oppsettende virkning, men før en kjennelse om åpning av konkurs er blitt rettskraftig, bør det som regel ikke foretas andre disposisjoner over skylderens eiendeler enn de som trengs for å hindre tap for boet.
+> Den, som uden skjellig Grund aabenbarer, hvad der i den militære Tjenestes Medfør er blevet ham betroet eller ved Lov eller anden gyldig Bestemmelse er betegnet som Tjenestehemmelighed, straffes med Arrest eller Tjenestens Tab eller med Fængsel indtil 6 Aar.
+>
+
+## § 70
+
+### 2009-06-19 — lov/2009-06-19-74
+
+*§ 70 skal lyde:*
+
+> Den, som ulovlig aabner eller tilsteder nogen at aabne et ham i Tjenestens Medfør betroet Brev, eller som medvirker hertil, straffes med Tjenestens Tab eller med Fængsel indtil 3 Aar, men indtil 6 Aar, saafremt han forøver Lovbruddet for at forskaffe sig eller andre en uberettiget Vinding.
+>
+
+## § 71
+
+### 2009-06-19 — lov/2009-06-19-74
+
+*§ 71 annet ledd skal lyde:*
+
+> Er ved Lovbruddet voldt betydelig Skade, eller er noget Skib derved blevet udsat for Fare, kan Fængsel indtil 3 Aar anvendes, men indtil 10 Aar, saafremt Lovbruddet er forøvet ombord i Havsnød.
+>
+
+## § 74
+
+### 2009-06-19 — lov/2009-06-19-74
+
+*§ 74 første punktum skal lyde:*
+
+> Krigsmand, som udfordrer en anden Krigsmand til Tvekamp, eller som modtager Udfordringen, eller som deltager i eller medvirker ved Tvekamp, straffes med Arrest eller Tjenestens Tab.
 >
 
 ## § 76
 
-### 2016-04-22 — lov/2016-04-22-3
+### 2009-06-19 — lov/2009-06-19-74
 
-*§ 76 første ledd fjerde punktum skal lyde:*
+*§ 76 annet ledd skal lyde:*
 
-> Bestemmelsen i § 73 annet ledd gjelder tilsvarende.
->
-> 3. I lov 1. juni 1917 nr. 1 om skjønn og ekspropriasjonssaker skal § 15 første ledd lyde:
->
-> Sletting av skjønnsmedlemmer fra utvalget, jf § 14, foretas av fylkesrådmannen når et skjønnsmedlem flytter fra fylket eller for øvrig vilkårene for sletting foreligger etter reglene i domstolloven § 76 første eller annet ledd. Før avgjørelse treffes, skal vedkommende skjønnsmedlem så vidt mulig få høve til å uttale seg, og han skal om mulig gis meddelelse om resultatet. Reglene i domstolloven § 76 tredje ledd om klage gjelder tilsvarende. Klagen går til lagmannsretten. Istedenfor et skjønnsmedlem som er slettet, oppnevner fylkesrådmannen en annen.
->
-> 4. I lov 1. juli 1927 nr. 1 om registrering av elektriske kraftledninger skal § 6 annet ledd første punktum lyde:
->
-> Vil nogen overfor eier av eller rettighetshaver i ledningen gjøre innsigelse mot adkomsten til den av hensyn til ledningen fornødne benyttelse av grunnen, må erklæring herom være registrert på ledningens folium senest 2 år efterat den i § 5 omhandlede meddelelse har vært innrykket i Norsk Lysingsblad.
->
-> 5. I lov 21. februar 1930 om skifte oppheves § 126 annet ledd annet punktum.
->
-> 6. I lov 29. mai 1953 nr. 1 om rett for handverkarar o.a. til å selja ting som ikkje vert henta skal § 7 annet punktum lyde:
->
-> Er tilskrifta åt tingaren ikkje kjend, eller er det tvil om kven som har retten til pengane, skal dei deponerast i Noregs Bank etter §§ 1 til 4 i lov 17. februar 1939 nr. 2 om deponering i gjeldshøve.
->
-> 7. I lov 23. oktober 1959 nr. 3 om oreigning av fast eigedom skal § 5 fjerde ledd lyde:
->
-> I heimel etter fyrste eller tredje leden kan det gjevast reglar om korleis heimelen skal nyttast.
->
-> 8. I lov 9. juni 1961 nr. 1 om skytevåpen og ammunisjon m.v. skal § 4 annet punktum lyde:
->
-> Heller ikke gjelder loven for ammunisjon som er bestemt for eller tilhører Direktoratet for samfunnssikkerhet og beredskap.
->
-> 9. I lov 16. juni 1961 nr. 15 om rettshøve mellom grannar skal § 3 første ledd første punktum lyde:
->
-> Er det ikkje nemnande om å gjera for eigaren eller for naturmangfaldet på staden, må eigaren ikkje ha tre som er til skade eller serleg ulempe for grannen, nærare hus, hage, tun eller dyrka jord på granneeigedomen enn tredjeparten av trehøgda.
->
-> 10. I lov 4. desember 1964 nr. 1 om fristar og betalingsutsetjing og ymist anna i serlege tilhøve skal § 7 lyde:
->
-> Det som er sagt i § 5 i lov 15. desember 1950 nr. 7 om serlege rådgjerder når det er krig, krigsfare og liknande tilstand, skal gjelda på tilsvarande måte om høve for styringsmakt i einskilde luter av landet til å gjeva føresegner etter lova her.
->
-> 11. I lov 21. mars 1975 nr. 9 om nordisk vitneplikt skal § 5 tredje punktum lyde:
->
-> Heller ikkje kan han straffast for uriktig forklaring.
->
-> 12. I lov 10. juni 1977 nr. 73 om jernbaneansvar skal § 2 tredje ledd første punktum lyde:
->
-> Fra lovens regler om ansvaret i kapittel II jf. kapittel IV unntas også befordring som er omfattet av Europaparlaments- og rådsforordning (EF) 1371/2007 av 23. oktober 2007 om jernbanepassasjerers rettigheter og forpliktelser, jf. jernbaneloven § 7 c.
+> Har han handlet for at forskaffe sig eller andre en uberettiget Vinding, eller er ved Lovbruddet betydelig Skade eller Retskrænkelse voldt, kan Fængsel indtil 6 Aar anvendes.
 >
 
-## § 85
+## § 77
 
-### 2016-04-22 — lov/2016-04-22-3
+### 2009-06-19 — lov/2009-06-19-74
 
-*§ 85 første ledd nr. 9 skal lyde:*
+*§ 77 annet ledd skal lyde:*
 
-> å gi melding så tidlig som mulig til det felles lokale kontoret i arbeids- og velferdsforvaltningen der skyldneren holder til om konkursen og om hvilke arbeidstakere som har krav i boet, dersom det er arbeidstakere i skyldnerens virksomhet.
+> Er betydelig Skade voldt, kan Fængsel indtil 2 Aar eller for Befalingsmænd indtil 3 Aar anvendes. Er nogens Død voldt, kan Fængsel indtil 6 Aar anvendes.
+>
+
+## § 78
+
+### 2009-06-19 — lov/2009-06-19-74
+
+*§ 78 første ledd skal lyde:*
+
+> Befalingsmand, som gjør sig skyldig i Forsømmelighed eller Skjødesløshed ved Udførelsen af sine Tjenestepligter, straffes med Arrest eller Tjenestens Tab.
+>
+
+### 2009-06-19 — lov/2009-06-19-74
+
+*§ 78 tredje ledd skal lyde:*
+
+> Er ved Befalingsmandens Forsømmelighed, Skjødesløshed eller Uforstand betydelig Skade voldt, kan Fængsel indtil 2 Aar anvendes, men Fængsel indtil 6 Aar, saafremt nogens Død derved er voldt.
+>
+
+## § 87
+
+### 2009-06-19 — lov/2009-06-19-74
+
+*§ 87 innledningsvis skal lyde:*
+
+> Med fengsel inntil på livstid straffes
+>
+
+## § 88
+
+### 2009-06-19 — lov/2009-06-19-74
+
+*§ 88 skal lyde:*
+
+> Krigsmand, som under Fegtning selv griber Flugten og ved Ord eller Tegn søger at forlede sine Vaabenfæller til Flugt, straffes med Fængsel indtil paa Livstid.
 >
 
 ## § 9
@@ -503,4 +627,52 @@ refid: "lov/1902-05-22-13"
 *§ 9 første ledd nr. 5 skal lyde:*
 
 > enhver som gjør seg skyldig i overtredelse av § 108, eller som på krigsskueplassen gjør seg skyldig i forbrytelse mot §§ 101 til 105.
+>
+
+## § 95
+
+### 2009-06-19 — lov/2009-06-19-74
+
+*§ 95 skal lyde:*
+
+> For ulovligt Fravær (§ 34) kan den skyldige straffes med Fængsel indtil 3 Aar.
+>
+
+## § 96
+
+### 2009-06-19 — lov/2009-06-19-74
+
+*§ 96 skal lyde:*
+
+> For de i § 35 og § 36 omhandlede lovbrudd straffes den skyldige med fengsel inntil 6 år.
+>
+> Har flere i forening avtalt og utført lovbrudd, som omhandles i § 35, straffes anstifteren og anføreren med fengsel inntil på livstid, de øvrige deltagere med inntil 10 år.
+>
+
+## § 97
+
+### 2009-06-19 — lov/2009-06-19-74
+
+*§ 97 skal lyde:*
+
+> Den, som gjør sig skyldig i nedennævnte Lovbrud, kan straffesFor Lovbrud af den i §§ 42 og 44 omhandlede Art med Fængsel indtil paa Livstid;for Lovbrud af den i § 43 omhandlede Art med Fængsel indtil 10 Aar;for Lovbrud af den i § 46, 1ste Led omhandlede Art med Fængsel indtil 1 Aar og for Lovbrud af den i 2det Led omhandlede Art med Fængsel indtil 10 Aar;for Lovbrud af den i § 47 omhandlede Art med Fængsel indtil 5 Aar;for Lovbrud af den i §§ 49 og 50 omhandlede Art med Fængsel indtil 15 Aar;For Lovbrud af den i § 51 omhandlede Art med Fængsel indtil 3 Aar;for Lovbrud mod § 52 med Fængsel indtil paa Livstid.
+>
+
+## § 99
+
+### 2009-06-19 — lov/2009-06-19-74
+
+*§ 99 annet til femte ledd skal lyde:*
+
+> Straffen for Lovbrud mod § 77, 1ste Led kan skjærpes til Fængsel indtil 2 Aar, men for Befalingsmænd indtil 3 Aar.
+>
+> Straffen for Lovbrud mod § 77, 2det Punktum kan skjærpes til Fængsel indtil 3 Aar, men for Befalingsmænd indtil 6 Aar.
+>
+> Straffen for Lovbrud mod § 78 kan skjærpes til Fængsel indtil 2 Aar, men indtil 3 Aar, saafremt betydelig Skade er voldt.
+>
+> Er i de i §§ 77 eller 78 omhandlede Tilfælde nogens Død voldt, kan Straffen skjærpes til Fængsel indtil 10 Aar.
+>
+> Overskriften til tiende kapittel skal lyde:
+>
+> Plyndring og andre Lovbrud mod Person eller Gods
 >

@@ -50,9 +50,6 @@ refid: "lov/2019-12-20-84"
 
 *Endringen av § 18-5 første og andre ledd oppheves.*
 
-> I lov 20. desember 2019 nr. 84 om endringer i folketrygdloven og enkelte andre lover gjøres følgende endringer i del IV:
->
-
 ### 2020-12-18 — lov/2020-12-18-138
 
 *I § 6 tredje ledd bokstav d skal ordet «uføretrygd» endres til «uføreytingar».*

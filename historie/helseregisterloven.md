@@ -74,6 +74,15 @@ refid: "lov/2014-06-20-43"
 > Nasjonalarkivet er dataansvarlig for opplysningene i Helsearkivregisteret, jf. arkivlova § 4 første ledd.
 >
 
+## § 13
+
+### 2017-06-16 — lov/2017-06-16-55
+
+*§ 13 første ledd skal lyde:*
+
+> Virksomheter og helsepersonell som tilbyr eller yter tjenester som omfattes av apotekloven, folkehelseloven, helse- og omsorgstjenesteloven, legemiddelloven, smittevernloven og spesialisthelsetjenesteloven plikter å melde opplysninger som bestemt i forskrifter etter §§ 8 til 12. Innmelding til registre etter §§ 9 bokstav b, 10, 11 og 12 kan skje uten hinder av taushetsplikt.
+>
+
 ## § 14
 
 ### 2020-12-04 — lov/2020-12-04-133
@@ -447,6 +456,15 @@ refid: "lov/2014-06-20-43"
 *§ 4 første ledd andre punktum skal lyde:*
 
 > Kongen kan i forskrift bestemme at loven helt eller delvis skal gjelde for Svalbard og Jan Mayen, og kan fastsette særlige regler om behandling av helseopplysninger for disse områdene.
+>
+
+## § 8
+
+### 2017-06-16 — lov/2017-06-16-55
+
+*§ 8 tredje ledd skal lyde:*
+
+> Registrene skal ivareta oppgaver etter apotekloven, folkehelseloven, helse- og omsorgstjenesteloven, legemiddelloven, smittevernloven og spesialisthelsetjenesteloven.
 >
 
 ## § 9

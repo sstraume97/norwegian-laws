@@ -15,6 +15,27 @@ refid: "lov/1932-02-05-2"
 
 *Nytt kapittel 3 skal lyde:*
 
+## § 10
+
+### 2007-02-27 — lov/2007-01-26-3
+
+*§ 10 tredje ledd første punktum skal lyde:*
+
+> For øvrig gjelder om vidneplikten og plikten til å gjøre tjeneste som sakkyndig, og om fremgangsmåten ved innkallelse og avhøring av vidner og sakkyndige, reglene i tvisteloven.
+>
+> 17. I lov 27. mai 1932 nr. 2 om veksler skal § 71 første ledd lyde:
+>
+> Vekselforeldelsen avbrytesved at stevning er sendt til retten eller i tilfelle klage til forliksrådet, eller ved at vekselkravet under rettssak gjøres gjeldende til motregning, eller for øvrig inndras i saken (jf. tvisteloven § 15-1) ellerved at vekselfordringen anmeldes i skyldnerens bo dersom dette behandles av offentlige myndigheter ellerved at den mot hvem søksmål (motregningskrav) som foran omtalt er reist, gir en formann varsel om søksmålet (tvisteloven § 15-9). Den som har mottatt sådan innvarsling, kan avbryte foreldelsen ved likeledes å gi sin formann prosessvarsel.
+>
+> 18. I lov 27. mai 1932 nr. 3 om chekker skal § 53 første ledd lyde:
+>
+> Sjekkforeldelse avbrytesved at stevning er sendt til retten eller i tilfelle klage til forliksrådet, eller ved at sjekkravet under rettssak gjøres gjeldende til motregning, eller for øvrig inndras i saken (jf. tvisteloven § 15-1) ellerved at chekkfordringen anmeldes i skyldnerens bo dersom dette behandles av offentlige myndigheter ellerved at den mot hvem søksmål (motregningskrav) som foran omtalt er reist, gir en formann varsel om søksmålet (tvisteloven § 15-9). Den som har mottatt sådan innvarsling, kan avbryte foreldelsen ved likeledes å gi sin formann prosessvarsel.
+>
+> 19. I lov 17. juni 1932 nr. 2 om enkelte bestemmelser om fremmede konsulers rettsstilling skal § 1 første ledd bokstav b annet punktum lyde:
+>
+> Tvistelovens regler om bevisopptak i rettssak får i så fall anvendelse.
+>
+
 ## § 14
 
 ### 2007-03-30 — lov/2007-03-30-13
@@ -190,6 +211,20 @@ refid: "lov/1932-02-05-2"
 >
 
 ## § 9
+
+### 2007-02-27 — lov/2007-01-26-3
+
+*§ 9 annet ledd skal lyde:*
+
+> Retten kan dog beslutte at et bevis skal føres gjennem særskilt bevisoptagelse, som i så fall foretas ved tingretten på vedkommende sted efter reglene i tvisteloven. Anke mot tingrettens avgjørelser går til Riksretten.
+>
+
+### 2007-02-27 — lov/2007-01-26-3
+
+*§ 9 tredje ledd annet punktum skal lyde:*
+
+> Dette utvalg som velges av retten skal i tilfelle ha tre medlemmer, derav én høiesterettsdommer, som tjenestegjør som leder, og to medlemmer av Lagtinget.
+>
 
 ### 2007-03-30 — lov/2007-03-30-13
 

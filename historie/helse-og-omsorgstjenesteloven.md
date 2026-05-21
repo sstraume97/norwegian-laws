@@ -5,7 +5,23 @@ refid: "lov/2011-06-24-30"
 
 # Endringshistorikk: Helse- og omsorgstjenesteloven – hol
 
+## § 1-1
+
+### 2017-06-16 — lov/2017-06-16-55
+
+*§ 1-1 nr. 5 skal lyde:*
+
+> sikre samhandling og at tjenestetilbudet blir tilgjengelig for pasient og bruker, sikre nødvendig opplæring av pasient, bruker og pårørende, samt sikre at tilbudet er tilpasset den enkeltes behov,
+>
+
 ## § 1-2
+
+### 2017-06-16 — lov/2017-06-16-55
+
+*§ 1-2 første ledd skal lyde:*
+
+> Loven gjelder for helse- og omsorgstjenester, herunder tannhelsetjenester, som tilbys eller ytes i riket av kommunen eller private som har avtale med kommunen, når ikke annet følger av loven her.
+>
 
 ### 2025-06-20 — lov/2025-06-20-72
 
@@ -27,7 +43,44 @@ refid: "lov/2011-06-24-30"
 > Bestemmelsene som er gitt i eller i medhold av denne loven, skal fravikes i den utstrekning det er nødvendig for å overholde forpliktelser som følger av EØS-avtalens hoveddel, bilaterale avtaler som nevnt i første ledd og forordninger og avtaler som nevnt i folketrygdloven §§ 1-3 a og 1-3 b.
 >
 
+## § 3-1
+
+### 2017-06-16 — lov/2017-06-16-55
+
+*§ 3-1 første ledd nytt andre punktum skal lyde:*
+
+> Kommunen skal sørge for at tannhelsetjenester, herunder spesialisttannhelsetjenester, er tilgjengelige for personer som oppholder seg i kommunen.
+>
+
 ## § 3-2
+
+### 2017-06-16 — lov/2017-06-16-55
+
+*§ 3-2 første ledd nr. 3 skal lyde:*
+
+> Hjelp ved ulykker og andre akutte situasjoner, herunder:legevakt,heldøgns medisinsk akuttberedskap,medisinsk nødmeldetjeneste, ogpsykososial beredskap og oppfølging.
+>
+
+### 2017-06-16 — lov/2017-06-16-55
+
+*§ 3-2 andre ledd nytt første punktum skal lyde:*
+
+> For å oppfylle ansvaret etter § 3-1 skal kommunen ha knyttet til seg lege, sykepleier, fysioterapeut, jordmor og helsesøster.
+>
+
+### 2017-06-16 — lov/2017-06-16-55
+
+*§ 3-2 første ledd nytt nr. 7 skal lyde:*
+
+> Tannhelsetjenester, herunder til pasient- og brukergrupper som nevnt i § 3-2 b.
+>
+
+### 2017-06-16 — lov/2017-06-16-55
+
+*§ 3-2 andre ledd første punktum skal lyde:*
+
+> For å oppfylle ansvaret etter § 3-1 skal kommunen ha knyttet til seg lege, sykepleier, fysioterapeut, jordmor, helsesøster, ergoterapeut, psykolog, tannpleier og tannlege.
+>
 
 ### 2017-10-01 — lov/2017-06-02-34
 
@@ -38,7 +91,40 @@ refid: "lov/2011-06-24-30"
 > Kongen i statsråd kan i forskrift gi nærmere bestemmelser om krav til innhold i tjenestene etter bestemmelsen her, herunder bestemmelser om kompetansekrav for ulike typer tjenester.
 >
 
+## § 3-2 b
+
+### 2017-06-16 — lov/2017-06-16-55
+
+*Ny § 3-2 b skal lyde:*
+
+> § 3-2 b.Kommunens ansvar for tannhelsetjenester til bestemte pasient- og brukergrupper
+>
+> For å oppfylle ansvaret etter § 3-1 skal kommunen gi et regelmessig og oppsøkende tannhelsetilbud til:Barn og ungdom til og med det året de fyller 20 årPersoner med psykisk utviklingshemmingPersoner som oppholder seg i helseinstitusjon, herunder institusjon i spesialisthelsetjenestenPersoner som mottar helsetjenester i hjemmet i form av sykepleiePersoner som på grunn av rusavhengighet mottar ett av følgende tilbud:tjenester som nevnt i § 3-2 første ledd nr. 6 bokstav b til clegemiddelassistert rehabiliteringannen tverrfaglig spesialisert behandling for rusavhengighetInnsatte i fengsler i kriminalomsorgen, jf. § 3-9.
+>
+> Kommunen kan i tillegg gi et regelmessig og oppsøkende tannhelsetilbud til andre pasient- og brukergrupper enn dem som fremgår av første ledd.
+>
+> Kommunen kan yte tannhelsetjenester til voksne mot betaling etter nærmere bestemmelser fastsatt av kommunen. Departementet kan gi forskrift om at kommunen skal sørge for å tilby slike tjenester i områder av kommunen der det ikke foreligger annet tilstrekkelig tilbud, og om pliktens varighet og geografiske omfang.
+>
+
+## § 3-3 a
+
+### 2017-06-16 — lov/2017-06-16-55
+
+*Ny § 3-3 a skal lyde:*
+
+> § 3-3 a.Kommunens ansvar for å forebygge, avdekke og avverge vold og seksuelle overgrep
+>
+> Kommunen skal ha særlig oppmerksomhet rettet mot at pasienter og brukere kan være utsatt for, eller kan stå i fare for å bli utsatt for, vold eller seksuelle overgrep. Kommunen skal legge til rette for at helse- og omsorgstjenesten blir i stand til å forebygge, avdekke og avverge vold og seksuelle overgrep.
+>
+
 ## § 3-4
+
+### 2017-06-16 — lov/2017-06-16-55
+
+*§ 3-4 nytt andre ledd skal lyde:*
+
+> Kommunen har ansvar for å samordne kommunal og privat tannhelsevirksomhet.
+>
 
 ### 2021-06-11 — lov/2021-06-11-78
 
@@ -153,6 +239,17 @@ refid: "lov/2011-06-24-30"
 > Brukerromsordninger etablert i medhold av brukerromsloven er å anse som en kommunal helse- og omsorgstjeneste. Kommunen avgjør om den vil etablere en brukerromsordning. Kommunen kan ikke inngå avtale med private om drift av brukerromsordning.
 >
 
+## § 5-11
+
+### 2017-06-16 — lov/2017-06-16-55
+
+*Ny § 5-11 skal lyde:*
+
+> § 5-11.Veiledningsplikt overfor spesialisthelsetjenesten
+>
+> Personell som yter tjenester omfattet av loven her, skal gi spesialisthelsetjenesten råd, veiledning og opplysninger om helsemessige forhold som er påkrevd for at spesialisthelsetjenesten skal kunne løse sine oppgaver etter lov og forskrift.
+>
+
 ## § 6-2
 
 ### 2012-06-22 — lov/2012-06-22-46
@@ -231,6 +328,71 @@ refid: "lov/2011-06-24-30"
 > For bruk av varslings- og lokaliseringsteknologi gjelder pasient- og brukerrettighetsloven § 4-6 a.
 >
 
+## § 9-3
+
+### 2013-04-05 — lov/2013-04-05-12
+
+*§ 9-3 annet og tredje ledd skal lyde:*
+
+> Brukeren, pasienten, pårørende og verge skal høres før det treffes vedtak om bruk av tvang og makt etter reglene i kapitlet her og gis informasjon om adgangen til å uttale seg i saker som skal overprøves, klageadgang og adgangen til å bringe vedtaket inn for tilsynsmyndighet og tingretten.
+>
+> Dersom verge ikke allerede er oppnevnt der kommunen anser det aktuelt å fatte vedtak om bruk av tvang og makt etter reglene i kapitlet her, skal verge oppnevnes. Kommunen skal begjære oppnevning av verge dersom ikke oppnevning er begjært av andre som kan fremsette slik begjæring, jf. vergemålsloven § 56. Opplysninger om personlige forhold som vergen mottar, kan bare gis videre dersom det er nødvendig for å utføre vergeoppdraget.
+>
+
+## § 9-7
+
+### 2013-04-05 — lov/2013-04-05-12
+
+*§ 9-7 første ledd fjerde punktum skal lyde:*
+
+> Det skal straks sendes melding om beslutningen til den faglig ansvarlige for tjenesten, Fylkesmannen, verge og pårørende, eller på den måten Fylkesmannen beslutter.
+>
+
+### 2013-04-05 — lov/2013-04-05-12
+
+*§ 9-7 fjerde ledd annet punktum skal lyde:*
+
+> Vedtaket skal samtidig sendes spesialisthelsetjenesten, verge og pårørende som kan avgi uttalelse til Fylkesmannen.
+>
+
+## § 9-8
+
+### 2013-04-05 — lov/2013-04-05-12
+
+*§ 9-8 annet ledd skal lyde:*
+
+> Fylkesmannen skal gi vergen og pårørende opplysning om klageadgangen etter § 9-11 andre ledd.
+>
+
+## § 9-11
+
+### 2013-04-05 — lov/2013-04-05-12
+
+*§ 9-11 første ledd første punktum skal lyde:*
+
+> Beslutning etter § 9-5 tredje ledd bokstav a kan påklages av brukeren eller pasienten, verge og pårørende til Fylkesmannen.
+>
+
+### 2013-04-05 — lov/2013-04-05-12
+
+*§ 9-11 annet ledd første punktum skal lyde:*
+
+> Vedtak etter § 9-5 tredje ledd bokstavene b og c som er overprøvd av Fylkesmannen etter § 9-8, kan påklages av brukeren eller pasienten, vergen og pårørende, til fylkesnemnda for barnevern og sosiale saker.
+>
+
+## § 9-12
+
+### 2013-04-05 — lov/2013-04-05-12
+
+*§ 9-12 annet ledd tredje punktum skal lyde:*
+
+> Søksmål kan også reises av pårørende eller verge.
+>
+> 56. I lov 20. januar 2012 nr. 6 om endringer i straffeloven, straffeprosessloven, straffegjennomføringsloven, konfliktrådsloven m.fl. (barn og straff) skal endringen i loven del V av § 18 tredje ledd i lov 15. mars 1991 nr. 3 om megling i konfliktråd lyde:
+>
+> Under ungdomsstormøtet skal domfelte, domfeltes verger, samt representanter fra kriminalomsorgen og politiet være til stede. Dersom vergene ikke kan eller vil være til stede, skal fylkesmannen oppnevne en midlertidig verge som kan opptre i stedet for den opprinnelige vergen under ungdomsstormøtet. Fornærmede og fornærmedes verger har rett til å være til stede. Forsvarer og bistandsadvokat som er oppnevnt etter straffeprosessloven § 100 annet ledd og § 107 a første ledd bokstav d, kan være til stede.
+>
+
 ## § 10-2
 
 ### 2012-06-22 — lov/2012-06-22-46
@@ -283,6 +445,37 @@ refid: "lov/2011-06-24-30"
 ### 2016-05-20 — lov/2016-05-20-10
 
 *§ 10-4 fjerde ledd oppheves. Nåværende femte ledd blir fjerde ledd.*
+
+## § 11-1
+
+### 2017-06-16 — lov/2017-06-16-55
+
+*§ 11-1 tredje ledd nytt andre punktum skal lyde:*
+
+> Dersom pasientens utgifter til tannhelsetjenester helt eller delvis skal dekkes av kommunen, må den privatpraktiserende ha avtale med kommunen.
+>
+
+### 2017-06-16 — lov/2017-06-16-55
+
+*§ 11-1 nytt fjerde ledd skal lyde:*
+
+> Kommunen skal dekke utgifter til reise for pasienter som får tilbud om tannhelsetjenester etter § 3-2 b. Kommunen skal gi forskrift med nærmere bestemmelser om utgiftsdekningen.
+>
+
+## § 11-6
+
+### 2017-06-16 — lov/2017-06-16-55
+
+*Ny § 11-6 skal lyde:*
+
+> § 11-6.Plikt til å utarbeide atskilte regnskaper mv. for tannhelsetjenester
+>
+> Departementet kan gi forskrift om krav til føring av atskilte regnskaper, krav til fordeling av inntekter og utgifter, regulering av overskudd, kontrollsystemer, informasjon og andre krav som er nødvendige for å unngå kryssubsidiering mellom tannhelsetjenester som kommunen tilbyr i områder av kommunen der det ikke foreligger annet tilstrekkelig tilbud, og tjenester som tilbys i konkurranse med private tjenesteytere.
+>
+> 5.I lov 20. juni 2014 nr. 42 om behandling av helseopplysninger ved ytelse av helsehjelp skal § 14 første ledd lyde:
+>
+> Virksomheter og helsepersonell som tilbyr eller yter tjenester som omfattes av apotekloven, folkehelseloven, helse- og omsorgstjenesteloven, legemiddelloven, smittevernloven og spesialisthelsetjenesteloven, plikter uten hinder av taushetsplikt å registrere eller melde opplysninger som bestemt i forskrifter etter §§ 11 til 13.
+>
 
 ## § 12-1
 
@@ -349,6 +542,18 @@ refid: "lov/2011-06-24-30"
 >
 
 ## (annet)
+
+### 2017-06-16 — lov/2017-06-16-55
+
+*Nåværende første punktum blir andre punktum.*
+
+### 2017-06-16 — lov/2017-06-16-55
+
+*Nåværende andre ledd blir nytt tredje ledd.*
+
+### 2017-06-16 — lov/2017-06-16-55
+
+*Nåværende fjerde til sjette ledd blir femte til syvende ledd.*
 
 ### 2021-06-18 — lov/2021-06-18-118
 

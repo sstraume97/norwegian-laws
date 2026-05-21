@@ -7,6 +7,15 @@ refid: "lov/2005-06-17-79"
 
 ## (annet)
 
+### 2009-01-09 — lov/2009-01-09-4
+
+*9. I lov 6. juni 2008 nr. 37 om forvaltning av viltlevande marine ressursar skal ny § 8 a lyde:*
+
+> § 8 a.Saker der fylkeskommunane har kompetanse
+>
+> Fylkeskommunane kan fatte vedtak på særskilde områder innanfor lova sitt verkeområde når dette er fastsett i forskrift. Departementet kan i forskrift fastsetje nærare reglar om fylkeskommunane sin kompetanse etter denne føresegna. I dei sakene der fylkeskommunane er gitt kompetanse til å fatte vedtak, er Fiskeridirektoratet klageinstans.
+>
+
 ### 2010-01-01 — lov/2009-12-18-136
 
 *Nåværende annet ledd blir nytt tredje ledd.*
@@ -105,6 +114,24 @@ refid: "lov/2005-06-17-79"
 > Manglende innbetaling av avgift for deltakelse i sammenslutningen er tvangsgrunnlag for utlegg.
 >
 
+## § 16
+
+### 2009-06-19 — lov/2009-06-19-61
+
+*§ 16 nytt tredje ledd skal lyde:*
+
+> Departementet kan i forskrift gi nærmere bestemmelser om pålegg om flytting av akvakulturanlegg innenfor et nærmere definert geografisk område dersom overordnede samfunns- og næringsmessige hensyn, herunder hensynet til fiskehelse og miljø tilsier dette. Departementet kan også i forskrift gi nærmere bestemmelser om prosedyrer for initiering og gjennomføring av prosesser med sikte på flytting, herunder prinsipper for dekning av kostnader.
+>
+
+## § 18
+
+### 2009-01-09 — lov/2009-01-09-4
+
+*§ 18 tredje ledd skal lyde:*
+
+> Departementet kan gi forskrift om registreringsordningen, herunder om registreringsmyndighet, erstatningsordning, føring av dagbok mv. Departementet kan i forskrift gi nærmere bestemmelser om fylkeskommunenes oppgaver knyttet til registreringsordningen.
+>
+
 ## § 2
 
 ### 2013-06-21 — lov/2013-06-21-74
@@ -131,6 +158,15 @@ refid: "lov/2005-06-17-79"
 >
 
 ## § 24
+
+### 2009-01-09 — lov/2009-01-09-4
+
+*§ 24 første og annet ledd skal lyde:*
+
+> Etter pålegg fra tildelings- og tilsynsmyndigheten plikter enhver som søker om eller driver aktiviteter som omfattes av denne lov, å gi opplysninger, dokumenter, prøvemateriale eller annet materiale som er nødvendig for at tildelings- og tilsynsmyndigheten skal kunne utføre sine oppgaver etter loven.
+>
+> Etter pålegg fra tildelings- og tilsynsmyndigheten plikter enhver som søker om eller driver aktiviteter som omfattes av denne lov å gjennomføre undersøkelser som er nødvendige for at tildelings- og tilsynsmyndigheten skal kunne utføre sine oppgaver etter loven.
+>
 
 ### 2013-06-21 — lov/2013-06-21-74
 
@@ -263,6 +299,22 @@ refid: "lov/2005-06-17-79"
 ### 2013-06-21 — lov/2013-06-21-74
 
 *§ 34 oppheves.*
+
+## § 6
+
+### 2009-01-09 — lov/2009-01-09-4
+
+*§ 6 annet ledd skal lyde:*
+
+> Departementet kan i forskrift gi nærmere bestemmelser om tildeling av akvakulturtillatelse, herunder krav til søknad og kriterier for innvilgelse av søknad og gi nærmere bestemmelser om hvilke søknader som skal behandles av fylkeskommunene.
+>
+
+### 2009-06-19 — lov/2009-06-19-61
+
+*§ 6 nytt tredje ledd skal lyde:*
+
+> Departementet kan i forskrift gi nærmere bestemmelser om hel eller delvis stans i tildeling for bestemte arter i bestemte tidsperioder eller geografiske områder, herunder om at søknader skal behandles i tildelingsrunder på bestemte tidspunkt.
+>
 
 ## § 7
 

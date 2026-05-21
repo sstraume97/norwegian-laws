@@ -1496,3 +1496,12 @@ refid: "lov/1949-07-28-26"
 ### 2019-06-21 — lov/2019-06-21-26
 
 *§ 8 første ledd oppheves.*
+
+## § 8 a
+
+### 2010-12-17 — lov/2010-12-17-77
+
+*§ 8 a andre ledd skal lyde:*
+
+> Levealdersjustering gjennomføres ved hjelp av forholdstall som fastsettes av Arbeids- og velferdsdirektoratet for årskull fra og med 1943-kullet, jf. folketrygdloven §§ 19-6 og 19-7.
+>

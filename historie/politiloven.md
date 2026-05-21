@@ -11,6 +11,13 @@ refid: "lov/1995-08-04-53"
 
 *Nåværende fjerde og femte ledd blir femte og sjette ledd.*
 
+### 2002-06-28 — lov/2002-06-28-53
+
+*Overskriften i § 10 skal lyde:*
+
+> § 10.Etterfølgende visitasjon m.v.
+>
+
 ### 2004-07-02 — lov/2004-07-02-60
 
 *Nåværende femte ledd blir nytt åttende ledd.*
@@ -20,11 +27,57 @@ refid: "lov/1995-08-04-53"
 > § 17a, § 17b og § 17c samles i nytt kapittel III A.
 >
 
+### 2005-06-17 — lov/2005-06-17-84
+
+*Endringen av § 2 nr. 7 skal lyde:*
+
+> utføre andre oppgaver som er fastsatt i lov eller som følger av sedvane, herunder oppgaver som i lov er lagt til lensmannen, namsfogden eller politistasjonssjef med sivile rettspleieoppgaver.
+>
+
+### 2005-06-17 — lov/2005-06-17-84
+
+*Endringen av § 16 første ledd skal lyde:*
+
+> Riket inndeles i politidistrikter med en politimester som sjef for hvert distrikt. Politidistriktene inndeles i lensmannsdistrikter og politistasjonsdistrikter. I et lensmannsdistrikt eller politistasjonsdistrikt har lensmannen eller politistasjonssjefen ledelsen av politiet under politimesteren. I politistasjonsdistrikter der de oppgavene som i lov er lagt til lensmannen, namsfogden eller politistasjonssjef med sivile rettspleieoppgaver, ikke ivaretas av politistasjonen, skal de ivaretas av et namsfogdkontor som en egen driftsenhet ledet av en namsfogd. Lensmannsdistrikter, namsfogddistrikter og politistasjonsdistrikter med sivile rettspleieoppgaver skal omfatte en eller flere hele kommuner. Inndelingen fastsettes av Kongen. Kongen fastsetter også hvordan distriktsinndelingen skal være i forhold til den norske del av kontinentalsokkelen og områder utenfor sjøterritoriet som norsk rett får anvendelse på.
+>
+
+### 2005-06-17 — lov/2005-06-17-84
+
+*Ny endring etter endringen i § 22 skal lyde:*
+
 ### 2005-12-21 — lov/2005-12-21-130
 
 *Overskriften til kapittel III A, plassert umiddelbart foran § 17a, skal lyde:*
 
 > Overskriften Kapittel III A. Adgangen for Politiets sikkerhetstjeneste til å bruke tvangsmidler i forebyggende øyemed, oppheves.
+>
+
+### 2009-06-19 — lov/2009-06-19-74
+
+*173. I lov 22. desember 1995 nr. 85 om europeiske økonomiske foretaksgrupper ved gjennomføring av EØS-avtalens vedlegg XXII nr. 10 (rådsforordning (EØF) nr. 2137/85) (EØFG-loven) § 4 første ledd nr. 2 og 3 skal lyde:*
+
+> når forretningsfører ikke lenger oppfyller vilkårene i § 3 eller vedkommende er ilagt dom på rettighetstap, jf. straffeloven § 56 første ledd bokstav b,når det inntrer slik hindring som nevnt i konkursloven § 142 for en deltaker, eller en deltaker blir ilagt dom på rettighetstap, jf. straffeloven § 56 første ledd bokstav b, og vedkommende ikke trer ut av foretaksgruppen.
+>
+> 174. I lov 22. mars 1996 nr. 16 om regulering av byggje- og anleggsverksemd skal § 4 lyde:
+>
+> Den som bryt lova her eller forskrift med heimel i lova, vert straffa med bøter.
+>
+> 175. I lov 7. juni 1996 nr. 31 om Den norske kirke skal § 7 tredje ledd første punktum lyde:
+>
+> Dersom det blir utferdiget siktelse eller reist tiltale mot et menighetsrådsmedlem for et straffbart forhold, som nevnt i straffeloven kapittel 19, 27, 28 og 30 og forholdet ifølge siktelsen eller tiltalen knytter seg til utøving av verv eller tjeneste for menighetsråd eller kirkelig fellesråd, kan menighetsrådet vedta å suspendere vedkommende fra vervet inntil saken er rettskraftig avgjort.
+>
+
+### 2017-05-11 — lov/2017-05-11-26
+
+*I kapittel III skal ny § 17 lyde:*
+
+> § 17.Den alminnelige namsmannen
+>
+> Lensmannen og politistasjonssjefen er namsmann i sitt distrikt med mindre oppgaven som namsmann ivaretas av et namsfogdkontor ledet av en namsfogd. Namsmannsdistrikter skal omfatte en eller flere hele kommuner. Kongen kan bestemme at én lensmann, politistasjonssjef eller namsfogd skal ivareta oppgaven som namsmann for flere lensmanns- og politistasjonsdistrikter i samme politidistrikt.
+>
+> Namsmann for Svalbard er Sysselmannen.
+>
+> Kongen fastsetter hvilke namsmannsdistrikter norsk kontinentalsokkel og norsk økonomisk sone hører til.
 >
 
 ### 2023-12-20 — lov/2023-12-20-110
@@ -69,6 +122,12 @@ refid: "lov/1995-08-04-53"
 ### 2025-06-20 — lov/2025-06-20-87
 
 *Gjeldende femte ledd blir nytt sjette ledd.*
+
+## § 10 a
+
+### 2002-06-28 — lov/2002-06-28-53
+
+*§ 10 a oppheves.*
 
 ## § 13
 
@@ -122,6 +181,39 @@ refid: "lov/1995-08-04-53"
 > Politidirektoratet ledes av politidirektøren.
 >
 
+## § 16
+
+### 2004-06-25 — lov/2004-06-25-53
+
+*§ 16 første ledd skal lyde:*
+
+> Riket inndeles i politidistrikter med en politimester som sjef for hvert distrikt. Politidistriktene inndeles i lensmannsdistrikter eller politistasjonsdistrikter og namsfogddistrikter. I et lensmannsdistrikt eller politistasjonsdistrikt har lensmannen eller politistasjonssjefen ledelsen av politiet under politimesteren. I et namsfogddistrikt ligger de gjøremål som loven legger til lensmannen og namsfogden, til et namsfogdkontor som en egen driftsenhet ledet av en namsfogd. Lensmannsdistrikter og namsfogddistrikter skal omfatte en eller flere hele kommuner. Inndelingen fastsettes av Kongen. Kongen fastsetter også hvordan distriktsinndelingen skal være i forhold til den norske del av kontinentalsokkelen og områder utenfor sjøterritoriet som norsk rett får anvendelse på.
+>
+
+### 2004-06-25 — lov/2004-06-25-53
+
+*§ 16 annet ledd nr. 3 og nytt nr. 4 skal lyde:*
+
+> at en politimester, som en varig ordning, helt eller delvis skal fritas for bestemte gjøremål, og at de legges til en annen politimester eller til et annet politiorgan,at enkelte namsfogder skal ligge direkte under Politidirektoratet.
+>
+
+### 2017-05-11 — lov/2017-05-11-26
+
+*§ 16 annet ledd skal lyde:*
+
+> Politidistriktene inndeles i lensmanns- og politistasjonsdistrikter. Inndelingen fastsettes av Kongen.
+>
+
+### 2017-05-11 — lov/2017-05-11-26
+
+*§ 16 tredje ledd nr. 4 oppheves.*
+
+## § 17
+
+### 2004-06-25 — lov/2004-06-25-53
+
+*§ 17 oppheves.*
+
 ## § 17 a
 
 ### 2001-06-15 — lov/2001-06-15-54
@@ -155,6 +247,20 @@ refid: "lov/1995-08-04-53"
 > Politiets sikkerhetstjeneste kan etter anmodning bistå det øvrige politi i saker som nevnt i første ledd nr. 5 annet punktum.
 >
 > Departementet kan bestemme at Politiets sikkerhetstjeneste skal tillegges et ansvar i saker som gjelder organisert kriminalitet, forbrytelser mot menneskeheten, folkemord og grove krigsforbrytelser.
+>
+
+### 2009-06-19 — lov/2009-06-19-74
+
+*§ 17 b nr. 1 skal lyde:*
+
+> overtredelser av straffeloven kapittel 17 og § 184 og sikkerhetsloven,
+>
+
+### 2009-06-19 — lov/2009-06-19-74
+
+*§ 17 b nr. 5 skal lyde:*
+
+> sabotasje og politisk motivert vold eller tvang, eller overtredelser av straffeloven kapittel 18. Åpen etterforsking i slike saker foretas likevel av det øvrige politi, med mindre annet bestemmes av overordnet påtalemyndighet.
 >
 
 ### 2016-06-17 — lov/2016-06-17-52
@@ -233,6 +339,13 @@ refid: "lov/1995-08-04-53"
 
 ## § 17 d
 
+### 2009-06-19 — lov/2009-06-19-74
+
+*§ 17 d første ledd bokstav a til c skal lyde:*
+
+> straffeloven §§ 131, 133 og 134,straffeloven §§ 121-126 ellerstraffeloven §§ 251, 254, 273, 274 og 275 og som retter seg mot medlemmer av Kongehuset, Stortinget, regjeringen, Høyesterett eller representanter for tilsvarende organer i andre stater.
+>
+
 ### 2016-06-17 — lov/2016-06-17-54
 
 *§ 17 d første og annet ledd skal lyde:*
@@ -250,6 +363,13 @@ refid: "lov/1995-08-04-53"
 >
 
 ## § 17 f
+
+### 2009-06-19 — lov/2009-06-19-74
+
+*§ 17 f annet ledd bokstav c skal lyde:*
+
+> som bevis for en terrorhandling, jf. straffeloven §§ 131, 133 og 134,
+>
 
 ### 2017-06-16 — lov/2017-06-16-59
 
@@ -335,10 +455,6 @@ refid: "lov/1995-08-04-53"
 >
 > Departementet kan bestemme at tilsetting i andre stillinger i Politidirektoratet skal skje ved beskikkelse og at andre stillinger i Politiets sikkerhetstjeneste skal være åremålsstillinger.
 >
-> I § 20 slik den lyder etter endring ved lov 15. juni 2001 nr. 52 gjøres følgende endringer:
->
-> § 20.Politimyndighet, legitimasjon og grader
->
 
 ### 2009-04-24 — lov/2009-04-24-21
 
@@ -368,6 +484,22 @@ refid: "lov/1995-08-04-53"
 > Departementet kan bestemme at ansettelse i andre stillinger i Politidirektoratet skal skje ved beskikkelse og at andre stillinger i Politiets sikkerhetstjeneste skal være åremålsstillinger.
 >
 
+## § 2
+
+### 2004-06-25 — lov/2004-06-25-53
+
+*§ 2 nr. 7 skal lyde:*
+
+> utføre andre oppgaver som er fastsatt i lov eller som følger av sedvane, herunder oppgaver som i lov er lagt til lensmannen eller namsfogden.
+>
+
+### 2017-05-11 — lov/2017-05-11-26
+
+*§ 2 nr. 7 skal lyde:*
+
+> utføre andre oppgaver som er fastsatt i lov eller som følger av sedvane, herunder oppgaver som i lov er lagt til den alminnelige namsmannen.
+>
+
 ## § 20
 
 ### 2001-06-15 — lov/2001-06-15-52
@@ -377,22 +509,11 @@ refid: "lov/1995-08-04-53"
 > Kongen kan bestemme at militært personell fra Forsvaret kan tildeles begrenset politimyndighet ved utøvelse av grenseoppsyn på landegrensen mellom Norge og Russland. Kongen gir nærmere bestemmelser om politimyndigheten.
 >
 
-### 2004-07-02 — lov/2004-07-02-60
+### 2004-06-25 — lov/2004-06-25-53
 
-*§ 20 første og annet ledd skal lyde:*
+*§ 20 første ledd første punktum skal lyde:*
 
-> Direktøren for Politidirektoratet, embetsmenn og tjenestemenn med politigrader og lensmenn har politimyndighet i hele riket i kraft av sin stilling. Departementet kan gjøre unntak for bestemte stillinger.
->
-> Departementet bestemmer hvilke andre ledere og tilsatte i Politidirektoratet og sjefer for politiets særorganer som har politimyndighet, og gir bestemmelse om tildeling av politimyndighet til studenter ved Politihøgskolen og personell i politireserven. Det samme gjelder for tildeling av politimyndighet til leder og tilsatte i spesialenheten for politisaker og påtalemyndigheten.
->
-
-### 2004-07-02 — lov/2004-07-02-60
-
-*§ 20 femte og sjette ledd skal lyde:*
-
-> Den som har politimyndighet, skal under utøvelse av myndigheten ha politilegitimasjon med seg. Begrensninger i politimyndigheten skal fremgå av legitimasjonen. Tjenestemannen plikter, så langt tjenesteforholdene på stedet tillater, å oppgi navn eller tjenestenummer og grad eller stilling når dette forlanges av den som tjenestehandlingen direkte angår. Den som ikke er i politiuniform, skal på forlangende fremvise politilegitimasjon såfremt han ikke er kjent av den som forlanger det.
->
-> Departementet bestemmer hvilke grader det skal være i politiet og kan gi nærmere regler om uniform og politilegitimasjon.
+> Direktøren for Politidirektoratet, embetsmenn og tjenestemenn med politigrader har politimyndighet i hele riket i kraft av sin stilling.
 >
 
 ### 2009-04-24 — lov/2009-04-24-21
@@ -454,6 +575,23 @@ refid: "lov/1995-08-04-53"
 > Embetsmenn utnevnes og polititjenestemenn ansettes i alminnelighet for å gjøre tjeneste i et politidistrikt eller i et av politiets særorganer. De er forpliktet til i det enkelte tilfelle å gjøre tjeneste uten hensyn til distriktsgrenser.
 >
 
+## § 22
+
+### 2004-06-25 — lov/2004-06-25-53
+
+*§ 22 annet ledd sjette punktum oppheves.I lov 20. desember 1996 nr. 106 om tomtefeste skal § 43 første ledd lyde:*
+
+> Skjønn etter lova her vert haldne som rettslege skjønn. Skjønnet kan styrast av lensmannen eller namsfuten dersom partane er samde om det.I lov 22. desember 1999 nr. 105 om handelsverksemd med brukte og kasserte ting skal § 3 første ledd lyde:
+>
+> Føresegnene i § 2 gjeld ikkje for auksjonsverksemd som vert driven av advokatar.I lov 26. april 2002 nr. 12 om notarius publicus skal § 2 første ledd lyde:
+>
+> Notarialforretningar er utføring av dei oppgåvene som er lagt til notarius publicus i lov eller forskrift, mellom anna å utføre vigslar og registrere partnerskap og gje notarialstadfestingar, som stadfesting av underskrift og rett kopi.I lov 6. juni 2003 nr. 39 om burettslag skal § 4-18 annet ledd annet punktum lyde:
+>
+> Skjønet skal styrtast av lensmannen eller namsfuten.I lov 4. juli 2003 nr. 83 om elektronisk kommunikasjon skal § 12-3 tredje ledd fjerde punktum lyde:
+>
+> Skjønnet styres av lensmannen eller namsfogden.
+>
+
 ## § 23 a
 
 ### 2021-06-18 — lov/2021-06-18-123
@@ -493,57 +631,11 @@ refid: "lov/1995-08-04-53"
 
 ## § 24a
 
-### 2004-07-02 — lov/2004-07-02-60
-
-*§ 24a oppheves.*
-
-> Nytt kapittel IV A skal lyde:
->
-> § 24a.Organisasjon og oppgaver
->
-> Politihøgskolen er den sentrale utdanningsinstitusjon for politiet. Politihøgskolen er underlagt Justisdepartementet og har et styre som øverste organ. Departementet oppnevner medlemmer til styret. Sjefen for Politihøgskolen har på styrets vegne det overordnede ansvar for og ledelse av høgskolens virksomhet. Departementet gir nærmere regler om styrets oppnevning, sammensetning og oppgaver, og om høgskolens oppgaver, organisering og virksomhet.
->
-> § 24b.Opptak
->
-> Opptak av studenter til Politihøgskolens grunnutdanning foretas av en opptaksnemnd oppnevnt av styret. Opptak forutsetter at søkeren har plettfri vandel, oppfyller fastsatte formelle krav og fremstår som skikket for tjeneste i politi- og lensmannsetaten. Søkerne må fremlegge uttømmende politiattest. Det kan også innhentes opplysninger om henlagte straffesaker eller andre forhold som kan ha betydning for søkerens skikkethet. Departementet gir nærmere regler om opptaksnemndas sammensetning, saksbehandling, spesielle opptakskrav, opptaksprøve og nærmere kriterier for opptak og rangering av søkere.
->
-> Opptak til videreutdanning og høyere grads studier foretas av Politihøgskolen. Departementet gir nærmere regler om saksbehandling og opptakskrav, herunder dokumentasjon av kompetanse.
->
-> Vedtak om avslag på søknad om opptak kan påklages til Politihøgskolens styre eller til en klagenemnd oppnevnt av styret. Klagen behandles etter reglene i forvaltningsloven. Tildeling av studiested er ikke gjenstand for klage.
->
-> § 24c.Utvisning, bortvisning og utestengning
->
-> Gjennom studiet skal Politihøgskolen vurdere om den enkelte student i grunnutdanningen er skikket for tjeneste i politiet. Styret oppnevner en egen skikkethetsnemnd og kan etter innstilling fra denne nemnda vedta å utvise en student som er funnet uskikket. I særlig alvorlige tilfelle kan sjefen for Politihøgskolen treffe vedtak om midlertidig utvisning. Slikt midlertidig vedtak skal uten unødig opphold forelegges for styret. Etter særlig vurdering kan styret gi en student som er vurdert som uskikket, anledning til å fullføre siste studieår. Departementet gir nærmere regler om skikkethetsnemndas sammensetning og saksbehandling, og om skikkethetsvurderingen.
->
-> Studenter i videreutdanning eller i høyere grads studier, som tross skriftlig advarsel fra styret igjen opptrer grovt forstyrrende for medstudenters arbeid eller for virksomheten ved institusjonen ellers, kan etter vedtak av styret bortvises fra studiet for inntil ett år. En student kan etter vedtak av styret utestenges for inntil tre år ved grov klanderverdig adferd som skaper fare for liv eller helse for personer som studenten kommer i kontakt med i undervisningen, eller ved grove brudd på taushetsplikt.
->
-> Studenter som gjør seg skyldig i fusk eller forsøk på fusk, kan utvises eller bortvises for inntil ett år.
->
-> Studentene plikter å avlegge dopingprøve etter nærmere regler gitt av departementet. Bruk av ulovlige dopingmidler eller nektelse av å medvirke til dopingkontroll kan føre til utvisning eller utestegning for inntil tre år.
->
-> Vedtak om utvisning, bortvisning eller utestegning kan påklages til departementet etter reglene i forvaltningsloven. Studenten har rett til å la seg bistå av advokat eller annen medhjelper fra skikkethetssak eller sak om bortvisning eller utestegning er reist, eventuelt etter at advarsel etter annet ledd er gitt.
->
-> § 24d.Alminnelige tjenesteregler, edruelighet, bierverv og taushetsplikt
->
-> Bestemmelsene i alminnelig tjenesteinstruks for politiet gitt i medhold av § 29 gjelder for studenter ved Politihøgskolen så langt de passer. Tilsvarende gjelder denne lovs bestemmelser om edruelighet og taushetsplikt. Når politimyndighet er tildelt av stedlig politimester, kan politimesteren nekte studenten bierverv som åpenbart er uforenlig med utøvelsen av politimyndighet.
->
-
 ### 2005-12-21 — lov/2005-12-21-130
 
 *§ 24a skal lyde:*
 
 > Politihøgskolen er den sentrale utdanningsinstitusjon for politiet. Politihøgskolen er underlagt Justisdepartementet og har et styre som øverste organ. Sjefen for Politihøgskolen har på vegne av styret det overordnede ansvaret for og ledelsen av høgskolens virksomhet. Departementet gir nærmere regler om valg til styret, styremedlemmenes oppnevning, sammensetning og oppgaver, og om høgskolens oppgaver, organisering og virksomhet.
->
-
-## § 25
-
-### 2004-07-02 — lov/2004-07-02-60
-
-*§ 25 skal lyde:*
-
-> § 25.Særlig politioppsyn ved allment tilgjengelige arrangementer
->
-> Når det av ordensmessige grunner er påkrevd med særlig polititilsyn ved allment tilgjengelige sammenkomster eller tilstelninger, for eksempel offentlig dans, fester, konserter, festivaler, forestillinger, idrettsstevner og lignende, kan arrangøren pålegges helt eller delvis å dekke utgiftene til dette oppsynet. Det kan kun kreves dekning for utgifter til særskilt politioppsyn som utføres i umiddelbar tilknytning til arrangementet og som tidsmessig står i direkte forbindelse med avviklingen av arrangementet.
 >
 
 ## § 27 a
@@ -565,6 +657,40 @@ refid: "lov/1995-08-04-53"
 
 ## § 29
 
+### 2005-06-17 — lov/2005-06-17-84
+
+*§ 29 skal lyde:*
+
+> Instruksjonsmyndighet m.m.
+>
+> Kongen fastsetter en alminnelig tjenesteinstruks for politiet. Departementet gir tjenestereglementer og særinstrukser. Politimesteren kan utstede utfyllende tjenesteregler når lokale forhold gjør dette påkrevd.
+>
+> Departementet gir nærmere regler om i hvilken utstrekning lensmenn, namsfogder og politistasjonssjefer kan overlate oppgaver som i lov er lagt til lensmannen, namsfogden eller politistasjonssjef med sivile rettspleieoppgaver, til sine underordnede.Nr. 38 om endringer i lov 20. desember 1996 nr. 106 om tomtefeste skal lyde:
+>
+> I lov 20. desember 1996 nr. 106 om tomtefeste skal § 43 lyde:
+>
+> Skjønn
+>
+> Skjønn etter kapittel VII vert haldne som rettslege skjønn. Skjønnet kan styrast av lensmannen, namsfuten eller politistasjonssjef med sivile rettspleieoppgåver dersom partane er samde om det.
+>
+> Skjønn etter §§ 15 og 37 skal styrast av lensmannen, namsfuten eller politistasjonssjef med sivile rettspleieoppgåver. Det skal vere to skjønnsmenn både ved skjønn og overskjønn. Om dekking av sakskostnader gjeld lov 1. juni 1917 nr. 1 om skjønn og ekspropriasjonssaker § 43.I nr. 41 skal endringen i lov 6. juni 2003 nr. 39 om burettslag § 4-18 annet ledd annet punktum lyde:
+>
+> Skjønet skal styrast av lensmannen, namsfuten eller politistasjonssjef med sivile rettspleieoppgåver.I nr. 42 skal endringen i lov 4. juli 2003 nr. 83 om elektronisk kommunikasjon § 12-3 tredje ledd fjerde punktum lyde:
+>
+> Skjønnet styres av lensmannen, namsfogden eller politistasjonssjef med sivile rettspleieoppgaver.
+>
+
+### 2017-05-11 — lov/2017-05-11-26
+
+*§ 29 annet ledd skal lyde:*
+
+> Departementet gir nærmere regler om i hvilken utstrekning namsmannen kan overlate sine oppgaver etter lov til sine underordnede.
+>
+> 9.I lov 27. mai 2016 nr. 14 om skatteforvaltning skal § 3-3 bokstav k første punktum lyde:
+>
+> til den alminnelige namsmannen og tingrett til bruk i skiftesak, når en innsynsbegjæring gjelder fastsetting av skatt for avdøde, og det ikke foreligger formell beslutning om skifteform.
+>
+
 ### 2020-01-10 — lov/2020-01-10-1
 
 *§ 29 skal lyde:*
@@ -581,6 +707,21 @@ refid: "lov/1995-08-04-53"
 ### 2025-06-20 — lov/2025-06-20-87
 
 *§ 29 annet ledd oppheves. Gjeldende tredje ledd blir annet ledd.*
+
+## § 30
+
+### 2009-06-19 — lov/2009-06-19-74
+
+*§ 30 avslutningsvis skal lyde:*
+
+> hvis ikke forholdet går inn under en strengere straffebestemmelse.
+>
+> 171. I lov 25. august 1995 nr. 57 om pakkereiser og reisegaranti skal § 11-7 lyde:
+>
+> Med bøter eller med fengsel i inntil tre måneder straffes den som forsettlig eller uaktsomt overtrer § 3-1 og bestemmelsene i dette kapittel eller bestemmelser gitt i medhold av § 11-6.
+>
+> 172. Lov 15. desember 1995 nr. 74 om forbud mot kjønnslemlestelse oppheves.
+>
 
 ## § 6
 
@@ -602,6 +743,39 @@ refid: "lov/1995-08-04-53"
 > Skytevåpen kan bare brukes når det er absolutt nødvendig og hvor lempeligere midler forgjeves har vært forsøkt eller åpenbart ikke vil føre frem, i situasjoner hvortjenestepersonen selv eller andre trues med eller utsettes for en grov voldshandling eller annen grov integritetskrenkelse, og bruk av våpen fremstår som nødvendig for å hindre tap av menneskeliv eller alvorlig personskade, ellerdet anses påkrevd å pågripe eller stanse person som er domfelt eller med stor grad av sikkerhet mistenkes for drap, andre grove voldshandlinger eller forsøk på slike voldsforbrytelser, eller av personer som av andre grunner anses som særlig farlige for menneskers liv eller helse, Norges selvstendighet, eller som alvorlig truer grunnleggende nasjonale interesser.
 >
 > I situasjoner som nevnt i første ledd kan skytevåpen etter beslutning fra innsatsleder også brukes til å beskadige eller gjøre en gjenstand ubrukelig eller forstyrre eller avlede gjerningspersonen.
+>
+
+## § 7
+
+### 2002-06-28 — lov/2002-06-28-53
+
+*§ 7 annet ledd skal lyde:*
+
+> Politiet kan i slike tilfeller blant annet regulere ferdselen, forby opphold i bestemte områder, visitere person eller kjøretøy, uskadeliggjøre eller ta farlige gjenstander i forvaring, avvise, bortvise, fjerne eller anholde personer, påby virksomhet stanset eller endret, ta seg inn på privat eiendom eller område eller påby områder evakuert.
+>
+
+## § 7 a
+
+### 2002-06-28 — lov/2002-06-28-53
+
+*Ny § 7 a skal lyde:*
+
+> § 7 a.Visitasjon for å avdekke våpen
+>
+> Politiet kan på offentlig sted visitere person eller kjøretøy når det er grunn til å undersøke om noen er i besittelse av eller oppbevarer våpen. Slik visitasjon kan bare foretas for å hindre straffbare handlinger som krenker noens liv, helse eller frihet, og barei situasjoner eller på steder hvor slike straffbare handlinger erfaringsmessig finner sted, elleri situasjoner eller på steder hvor det er grunn til å anta at noen planlegger eller forbereder slike straffbare handlinger.
+>
+> Visitasjonen skal gjennomføres så hensynfullt og skånsomt som mulig.
+>
+> Med våpen menes i denne paragrafen våpen og andre gjenstander som omfattes av våpenlovgivningen, kniv eller lignende skarpt redskap som det er forbudt å bære på offentlig sted, jf. straffeloven § 352 a, og andre farlige gjenstander som kan tas i forvaring etter politiloven § 7.
+>
+> Beslutningen om visitasjon i medhold av paragrafen her treffes av politimesteren eller den han bemyndiger. Beslutningen skal nedtegnes og begrunnes skriftlig, så vidt mulig før visitasjon skjer. Beslutningen skal gjelde for et nærmere angitt tidsrom.
+>
+
+### 2009-06-19 — lov/2009-06-19-74
+
+*§ 7 a tredje ledd skal lyde:*
+
+> Med våpen menes i denne paragrafen våpen og andre gjenstander som omfattes av våpenlovgivningen, kniv eller lignende skarpt redskap som det er forbudt å bære på offentlig sted, jf. straffeloven § 389, og andre farlige gjenstander som kan tas i forvaring etter politiloven § 7.
 >
 
 ## § 9

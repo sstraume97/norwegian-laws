@@ -311,6 +311,13 @@ refid: "lov/1989-06-16-69"
 
 ## § 8-5
 
+### 2004-06-25 — lov/2004-06-25-51
+
+*§ 8-5 andre ledd tredje punktum skal lyde:*
+
+> Foreldelsesloven 18. mai 1979 nr. 18 § 10 nr. 2 og 4 gjelder tilsvarende.
+>
+
 ### 2022-02-18 — lov/2022-02-18-5
 
 *§ 8-5 annet ledd første punktum skal lyde:*
@@ -709,6 +716,17 @@ refid: "lov/1989-06-16-69"
 > Dersom forsikringens gjenkjøpsverdi er utbetalt, må også gjenkjøpsverdien betales tilbake til selskapet innen samme frist, jf likevel § 12-10 første ledd.
 >
 
+## § 15-1
+
+### 2020-12-18 — lov/2020-12-18-149
+
+*§ 15-1 annet og tredje ledd skal lyde:*
+
+> En forsikringssum som forfaller ved forsikringstakerens død, tilfaller ektefellen. Dette gjelder likevel ikke hvis det før dødsfallet var avsagt dom for eller gitt bevilling til separasjon eller skilsmisse, selv om avgjørelsen ikke er rettskraftig eller endelig. En forsikringssum som tilfaller ektefellen, regnes ikke til de midler som skal deles likt etter ekteskapsloven § 77, jf § 58, hvis ikke gjenlevende ektefelle overtar boet uskiftet i samsvar med arveloven kapittel 5.
+>
+> En forsikringssum som ikke tilfaller ektefelle etter reglene i annet ledd, tilfaller arvingene etter lov eller testament. Satt forsikringstakeren i uskiftet bo på grunnlag av ekteskap i samsvar med arveloven kapittel 5, inngår forsikringssummen i de midler som skal deles likt mellom førsteavdødes og lengstlevendes arvinger, jf arveloven § 29 første ledd.
+>
+
 ## § 15-3
 
 ### 2022-02-18 — lov/2022-02-18-5
@@ -716,6 +734,24 @@ refid: "lov/1989-06-16-69"
 *§ 15-3 første ledd første punktum skal lyde:*
 
 > En oppnevnelse av begunstiget og tilbakekall av oppnevnelse må gjøres i melding i et skriftlig dokument til forsikringsforetaket.
+>
+
+## § 15-4
+
+### 2020-12-18 — lov/2020-12-18-149
+
+*§ 15-4 bokstav b til f skal lyde:*
+
+> Har forsikringstakeren foretatt flere oppnevnelser, gjelder arveloven § 58 bokstav e tilsvarende.Dør den begunstigede før den forsikrede, gjelder arveloven § 58 bokstav b tilsvarende.Er den forsikredes ektefelle oppnevnt, gjelder § 15-1 annet ledd tilsvarende.Er den forsikredes arvinger oppnevnt, omfatter dette også arvinger etter testament.Er forsikringen pantsatt ved forsikringstakerens død, gjelder arveloven § 58 bokstav d tilsvarende i forholdet mellom dødsboet og den begunstigede.
+>
+
+## § 15-9
+
+### 2020-12-18 — lov/2020-12-18-149
+
+*§ 15-9 første punktum skal lyde:*
+
+> Reglene i arveloven § 72 gjelder tilsvarende for den som har rett til en forsikringssum etter bestemmelsene i dette kapitlet.
 >
 
 ## § 16-2
@@ -728,6 +764,24 @@ refid: "lov/1989-06-16-69"
 >
 
 ## § 17-1
+
+### 2013-04-05 — lov/2013-04-05-12
+
+*§ 17-1 femte ledd tredje punktum skal lyde:*
+
+> Tilsvarende gjelder dersom forsikringstakeren blir fratatt rettslig handleevne, jf. vergemålsloven § 77 første ledd bokstav b.
+>
+
+### 2020-12-18 — lov/2020-12-18-149
+
+*§ 17-1 femte ledd første punktum skal lyde:*
+
+> Er det åpnet offentlig skifte av forsikringstakerens bo, skal dette registreres dersom det begjæres av tingretten, jf arveloven § 91 annet ledd.
+>
+> 16.I lov 29. juni 1990 nr. 50 om produksjon, omforming, overføring, omsetning, fordeling og bruk av energi m.m. skal § 10-3 femte ledd annet punktum lyde:
+>
+> Bestemmelsene i konsesjonsloven § 19 gjelder tilsvarende dersom fristen oversittes.
+>
 
 ### 2022-02-18 — lov/2022-02-18-5
 
@@ -752,6 +806,15 @@ refid: "lov/1989-06-16-69"
 > § 17-5.(utbetaling av forsikringssummen til den som fremtrer som berettiget)
 >
 > Har forsikringsforetaket i god tro utbetalt forsikringssummen eller gjenkjøpsverdien til den som er innført i registeret som berettiget, eller som har rett til forsikringssummen etter § 15-1, kan det ikke gjøres gjeldende overfor foretaket at en annen har bedre rett.
+>
+
+## § 17-6
+
+### 2013-04-05 — lov/2013-04-05-12
+
+*§ 17-6 annet punktum skal lyde:*
+
+> Dette gjelder likevel ikke dersom ugyldigheten skyldes falsk, forfalskning, sinnssykdom, grov tvang som nevnt i avtaleloven § 28, mindreårighet eller vergemål med fratakelse av rettslig handleevne.
 >
 
 ## § 18-1
@@ -807,6 +870,13 @@ refid: "lov/1989-06-16-69"
 >
 
 ## § 18-5
+
+### 2004-06-25 — lov/2004-06-25-51
+
+*§ 18-5 andre ledd tredje punktum skal lyde:*
+
+> Foreldelsesloven 18. mai 1979 nr. 18 § 10 nr. 2 og 4 gjelder tilsvarende.
+>
 
 ### 2022-02-18 — lov/2022-02-18-5
 

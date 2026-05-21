@@ -2135,6 +2135,13 @@ refid: "lov/2007-06-29-75"
 
 ## § 17-2
 
+### 2009-06-19 — lov/2009-06-19-74
+
+*§ 17-2 sjette ledd skal lyde:*
+
+> Dersom overtredelsen behandles av påtalemyndigheten eller retten etter lov 22. mai 1981 nr. 25 om rettergangsmåten i straffesaker, skal eventuelt krav om vinningsavståelse tas med som inndragningskrav etter straffeloven § 67.
+>
+
 ### 2010-06-04 — lov/2010-06-04-20
 
 *§ 17-2 første ledd skal lyde:*
@@ -2166,6 +2173,10 @@ refid: "lov/2007-06-29-75"
 >
 
 ## § 17-3
+
+### 2009-06-19 — lov/2009-06-19-74
+
+*§ 17-3 fjerde ledd oppheves.*
 
 ### 2010-06-04 — lov/2010-06-04-20
 
@@ -2252,6 +2263,13 @@ refid: "lov/2007-06-29-75"
 >
 
 ## § 17-4
+
+### 2009-06-19 — lov/2009-06-19-74
+
+*§ 17-4 første ledd tredje punktum skal lyde:*
+
+> Det samme gjelder forsøkshandlinger, jf. straffeloven § 16.
+>
 
 ### 2010-06-04 — lov/2010-06-04-20
 

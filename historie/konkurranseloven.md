@@ -226,6 +226,17 @@ refid: "lov/2004-03-05-12"
 > I saker av prinsipiell eller stor samfunnsmessig betydning kan Kongen i statsråd tillate atferd i strid med forbudet i § 10 eller § 11, og gi pålegg og omgjøre Konkurransetilsynets vedtak etter § 12 første ledd. En tillatelse til atferd i strid med § 10 eller § 11 har ingen virkning i forhold til overtredelser av lovens forbud eller vedtak truffet i medhold av loven før tillatelsen blir gitt.
 >
 
+## § 15
+
+### 2009-06-19 — lov/2009-06-19-74
+
+*§ 15 skal lyde:*
+
+> Den som betydelig overtrer bestemmelser om bokføring eller regnskap, straffes etter straffeloven §§ 392-394.
+>
+> 244. I lov 10. desember 2004 nr. 76 om arbeidsmarkedstjenester (arbeidsmarkedsloven) gjøres følgende endring:
+>
+
 ## § 16
 
 ### 2004-12-17 — lov/2004-12-17-100
@@ -554,6 +565,13 @@ refid: "lov/2004-03-05-12"
 
 ## § 25
 
+### 2007-02-27 — lov/2007-01-26-3
+
+*§ 25 annet ledd fjerde punktum skal lyde:*
+
+> Anke over beslutningen har ikke oppsettende virkning.
+>
+
 ### 2013-06-14 — lov/2013-06-14-35
 
 *§ 25 skal lyde:*
@@ -630,6 +648,13 @@ refid: "lov/2004-03-05-12"
 *§ 26 annet ledd tredje punktum skal lyde:*
 
 > Blir kravet avslått, kan spørsmålet kreves avgjort av Konkurranseklagenemnda.
+>
+
+### 2021-06-18 — lov/2021-06-18-122
+
+*§ 26 første ledd tredje punktum skal lyde:*
+
+> En sak som behandles av påtalemyndigheten, regnes ikke som avsluttet før påtalemyndigheten har avsluttet saken.
 >
 
 ### 2022-12-16 — lov/2022-12-16-94
@@ -757,6 +782,17 @@ refid: "lov/2004-03-05-12"
 > Kongen kan ved forskrift gi nærmere regler om utmåling av overtredelsesgebyr.
 >
 
+### 2007-02-27 — lov/2007-01-26-3
+
+*§ 29 fjerde ledd sjette punktum skal lyde:*
+
+> Tvisteloven gjelder så langt den passer.
+>
+
+### 2009-06-19 — lov/2009-06-19-74
+
+*§ 29 første ledd bokstav g oppheves.*
+
 ### 2013-06-14 — lov/2013-06-14-35
 
 *§ 29 skal lyde:*
@@ -780,6 +816,10 @@ refid: "lov/2004-03-05-12"
 
 > Vedtak om overtredelsesgebyr kan påklages til Konkurranseklagenemnda. Overtredelsesgebyret forfaller til betaling to måneder etter at vedtaket er mottatt. Vedtak om overtredelsesgebyr er tvangsgrunnlag for utlegg. Dersom foretaket klager til Konkurranseklagenemnda eller går til søksmål mot staten for å prøve vedtaket, suspenderes tvangskraften.
 >
+
+### 2021-06-18 — lov/2021-06-18-122
+
+*§ 29 annet ledd oppheves.*
 
 ### 2022-12-16 — lov/2022-12-16-94
 
@@ -840,6 +880,24 @@ refid: "lov/2004-03-05-12"
 > unnlater å etterkomme pålegg etter § 24 eller § 25,
 >
 
+### 2009-06-19 — lov/2009-06-19-74
+
+*§ 30 tredje ledd oppheves.*
+
+> 243. I lov 19. november 2004 nr. 73 om bokføring (bokføringsloven) skal § 15 lyde:
+>
+
+### 2009-06-19 — lov/2009-06-19-74
+
+*§ 30 annet ledd oppheves.*
+
+> 245. I lov 17. desember 2004 nr. 99 om kvoteplikt og handel med kvoter for utslipp av klimagasser (klimakvoteloven) skal § 22 nytt annet punktum lyde:
+>
+> Medvirkning straffes ikke.
+>
+> 246. I lov 29. april 2005 nr. 20 om innkreving av underholdsbidrag mv. (bidragsinnkrevingsloven) gjøres følgende endring:
+>
+
 ### 2013-06-14 — lov/2013-06-14-35
 
 *§ 30 skal lyde:*
@@ -873,6 +931,26 @@ refid: "lov/2004-03-05-12"
 *§ 31 første ledd skal lyde:*
 
 > Foretak som ikke oppfyller vilkårene for hel lempning i § 30, skal gis delvis lempning av overtredelsesgebyret dersom foretaket fremlegger bevis som vesentlig styrker Konkurransetilsynets muligheter til å bevise en overtredelse av konkurranseloven § 10 og oppfyller vilkårene i § 30 første ledd bokstav b og c. Reglene om bevisfremleggelse i § 30 annet ledd gjelder tilsvarende.
+>
+
+## § 33
+
+### 2009-06-19 — lov/2009-06-19-74
+
+*§ 33 fjerde ledd oppheves. Nåværende femte ledd blir nytt fjerde ledd.*
+
+> 247. I lov 27. mai 2005 nr. 31 om skogbruk (skogbrukslova) skal § 22 annet og tredje ledd lyde:
+>
+> Den som forsettleg eller aktlaust bryt føresegnene i §§ 6, 7, 8, 11, 12, 13, 14 eller 15, forskrifter gitt med heimel i desse paragrafane eller vedtak i medhald av desse føresegnene eller forskriftene, blir straffa med bøter eller fengsel i inntil eitt år.
+>
+> Den som forsettleg eller aktlaust bryt forskrifter gitt med heimel i §§ 4 tredje ledd eller 17 eller vedtak i medhald av desse forskriftene, blir straffa på same måte.
+>
+
+### 2021-06-18 — lov/2021-06-18-122
+
+*§ 33 oppheves.*
+
+> 29.I lov 10. desember 2004 nr. 76 om arbeidsmarkedstjenester gjøres følgende endring:
 >
 
 ## § 34

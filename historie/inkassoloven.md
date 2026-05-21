@@ -99,6 +99,13 @@ refid: "lov/1988-05-13-26"
 > I § 17 fjerde ledd første punktum vert tilvisinga til § 24 tredje ledd endra til § 30 tredje ledd.
 >
 
+### 2005-06-17 — lov/2005-06-17-83
+
+*§ 10 andre ledd bokstav f skal lyde:*
+
+> retten til å kreve nemndsbehandling etter § 22, dersom kravet blir inndrevet av et foretak som driver inkassovirksomhet i medhold av bevilling etter § 5 første eller tredje ledd.
+>
+
 ### 2017-03-31 — lov/2017-03-31-14
 
 *§ 10 første ledd første punktum skal lyde:*
@@ -206,6 +213,39 @@ refid: "lov/1988-05-13-26"
 > Krav i eller i medhold av denne loven om at meddelelser til skyldneren skal gis skriftlig, er ikke til hinder for bruk av elektronisk kommunikasjon dersom meddelelsen er sendt på en betryggende måte. Kongen kan i forskrift gi nærmere bestemmelser om hva som kan anses for en betryggende måte.
 >
 
+## § 30
+
+### 2005-06-17 — lov/2005-06-17-83
+
+*§ 30 tredje ledd skal lyde:*
+
+> Kredittilsynet kan gi inkassatorer som driver inkassovirksomhet i medhold av bevilling etter § 5, pålegg om å endre praksis som medfører fare for overtredelser av loven her eller av lov om Kredittilsynet. Kredittilsynet kan gi en eier med betydelig eierandel i foretak som har bevilling etter § 5, pålegg om retting dersom han ikke er egnet etter § 5.
+>
+
+## § 32
+
+### 2009-06-19 — lov/2009-06-19-74
+
+*§ 32 første ledd innledningsvis skal lyde:*
+
+> Med bøter eller fengsel inntil tre måneder, eller begge deler, straffes den som overtrer
+>
+
+### 2009-06-19 — lov/2009-06-19-74
+
+*§ 32 annet ledd skal lyde:*
+
+> Den som uaktsomt overtrer første ledd, straffes med bøter.
+>
+> 128. I lov 20. mai 1988 nr. 32 om militær disiplinærmyndighet skal § 10 første ledd lyde:
+>
+> Er et anmeldt forhold straffbart etter borgerlig lov og undergitt offentlig påtale, eller begjæres påtale av allmenne hensyn, eller er det annen grunn til å regne med at straffesak vil bli reist, bør refselse bare brukes dersom spesielle forhold gjør en forføyning nødvendig.
+>
+> 129. I lov 10. juni 1988 nr. 40 om finansieringsvirksomhet og finansinstitusjoner skal § 5-1 lyde:
+>
+> Den som forsettlig eller uaktsomt overtrer denne lov eller bestemmelse eller pålegg gitt med hjemmel i loven, straffes med bøter, eller under særlig skjerpende omstendigheter med fengsel i inntil 1 år, dersom forholdet ikke går inn under noen strengere straffebestemmelse.
+>
+
 ## § 4
 
 ### 2001-03-16 — lov/2001-03-16-8
@@ -221,6 +261,27 @@ refid: "lov/1988-05-13-26"
 > Inkassovirksomhet som gjelder ervervsmessig og stadig inndriving av forfalte pengekrav for andre kan også drives i medhold av norsk advokatbevilling.
 >
 > Inkassovirksomhet som gjelder oppkjøp og inndriving av forfalte fordringer kan drives uten bevilling av institusjoner som har rett til å drive finansieringsvirksomhet etter lov 10. juni 1988 nr. 40 om finansieringsvirksomhet og finansinstitusjoner (finansieringsvirksomhetsloven).
+>
+
+### 2008-09-19 — lov/2008-09-19-76
+
+*§ 4 første ledd skal lyde:*
+
+> Inkassovirksomhet kan bare drives av foretak som er registrert i Foretaksregisteret og har bevilling, hvis ikke annet følger av tredje til femte ledd.
+>
+
+### 2008-09-19 — lov/2008-09-19-76
+
+*§ 4 nytt femte ledd skal lyde:*
+
+> Kongen kan i forskrift gi regler om at inkassovirksomhet som gjelder ervervsmessig eller stadig inndriving av forfalte pengekrav for andre, også kan drives midlertidig av personer som er lovlig etablert i en EØS-stat med sikte på å drive slik inkassovirksomhet der, og kan gi nærmere regler om midlertidig utøvelse av slik inkassovirksomhet.
+>
+
+### 2014-05-09 — lov/2014-05-09-16
+
+*§ 4 femte ledd skal lyde:*
+
+> Kongen kan i forskrift gi regler om at inkassovirksomhet som gjelder ervervsmessig eller stadig inndriving av forfalte pengekrav for andre, også kan drives midlertidig av personer som er lovlig etablert i en EØS-stat eller i Sveits med sikte på å drive slik inkassovirksomhet der, og kan gi nærmere regler om midlertidig utøvelse av slik inkassovirksomhet. Kongen kan i forskrift gi regler om at Finanstilsynet uhindret av taushetsplikten kan eller skal gi opplysninger om en inkassator som har norsk inkassobevilling og midlertidig utøver inkassovirksomhet i en annen EØS-stat eller i Sveits, til relevant myndighet i vedkommende stat.
 >
 
 ### 2019-06-21 — lov/2019-06-21-50
@@ -268,11 +329,51 @@ refid: "lov/1988-05-13-26"
 > I § 9 andre ledd og § 19 første ledd vert parentesane endra til sluttparentesar.
 >
 
+### 2005-06-17 — lov/2005-06-17-83
+
+*§ 5 skal lyde:*
+
+> Inkassobevilling til stadig og ervervsmessig å inndrive forfalte pengekrav for andre kan etter søknad gis til et foretak når:den eller de som faktisk leder inkassovirksomheten har inkassobevilling etter annet ledd,styremedlemmer, daglig leder og eier med betydelig eierandel anses egnet til å drive foretaket i samsvar med lover, forskrifter og god inkassoskikk,styremedlemmer og daglig leder har lagt frem politiattest,inkassovirksomheten drives fra fast forretningssted innenfor EØS, ogforetaket har stilt sikkerhet som nevnt i § 29.
+>
+> Inkassobevilling etter første ledd bokstav a gis etter søknad til personer som anses egnet til å være faktisk leder for foretak som stadig og ervervsmessig inndriver forfalte pengekrav for andre. Søkeren må fremlegge politiattest og godtgjøre å ha minst tre års praktisk erfaring med inndriving av pengekrav i løpet av de siste ti år.
+>
+> Bevilling til stadig og ervervsmessig å drive oppkjøp og inndriving av forfalte pengekrav for egen regning kan etter søknad gis til et foretak når:styremedlemmer, daglig leder, faktisk leder og eier med betydelig eierandel anses egnet til å drive foretaket i samsvar med lover, forskrifter og god inkassoskikk,styremedlemmer, daglig leder og faktisk leder har lagt frem politiattest, oginkassovirksomheten drives fra fast forretningssted innenfor EØS.
+>
+> Det kan settes vilkår i bevilling etter første og tredje ledd, herunder om at foretaket skal være tilsluttet en nemndsordning som nevnt i § 22.
+>
+> Foretaket skal opplyse til Kredittilsynet om skifte av faktisk leder, daglig leder og styremedlemmer. Foretaket skal også opplyse om erverv av betydelig eierandel i foretaket og om økning av slik eierandel etter samme regler som i eiendomsmeglingsloven § 2-1 femte ledd tredje til syvende punktum med forskrifter. Opplysningsplikten etter dette leddet gjennomføres som en del av øvrige rapporteringsrutiner etter nærmere regler fastsatt av Kredittilsynet. Skifte av faktisk leder skal likevel meldes før slikt skifte finner sted.
+>
+> Politiattest etter paragrafen her som utstedes etter lov 11. juni 1971 nr. 52 om strafferegistrering, skal bare vise merknader om strafferettslige reaksjoner for overtredelse av straffeloven kapittel 15, 18, 22, 24 til 28 og 31, inkassoloven, konkurranselovgivningen, konkurslovgivningen, regnskapslovgivningen, selskapslovgivningen, skatte- og avgiftslovgivningen og verdipapirlovgivningen. Tidsbegrensningene i strafferegistreringsloven § 6 gjelder ikke. Kredittilsynet kan til enhver tid kreve at styremedlemmer, daglig leder og faktisk leder legger frem ny politiattest.
+>
+> Kongen kan gi utfyllende forskrifter om vilkårene for tildeling av inkassobevilling, herunder regler om hvilke straffbare forhold som skal avmerkes på politiattesten, og om behandling av attesten.
+>
+
+### 2008-09-19 — lov/2008-09-19-76
+
+*§ 5 andre ledd nytt tredje til femte punktum skal lyde:*
+
+> Kravet om tre års praktisk erfaring med inndriving av pengekrav gjelder ikke for EØS-statsborgere som har kvalifikasjonsbevis fra en annen EØS-stat som nevnt i direktiv 2005/36/EF artikkel 13 nr. 1 eller nr. 2. Dersom kvalifikasjonsbeviset ikke er lovregulert i den andre EØS-staten, må søkeren i tillegg ha drevet inkassovirksomhet på heltid i minst to år i løpet av de siste ti årene i en annen EØS-stat. Kongen kan i forskrift fastsette at tredje og fjerde punktum skal gjelde tilsvarende for borgere fra stater utenfor EØS og for søkere som har kvalifikasjonsbevis fra land utenfor EØS.
+>
+
+### 2009-06-19 — lov/2009-06-19-74
+
+*§ 5 sjette ledd første punktum skal lyde:*
+
+> Politiattest etter paragrafen her som utstedes etter lov 11. juni 1971 nr. 52 om strafferegistrering, skal bare vise merknader om strafferettslige reaksjoner for overtredelse av straffeloven kapittel 22, 25, 27, 29, 30 og 32, inkassoloven, konkurranselovgivningen, konkurslovgivningen, regnskapslovgivningen, selskapslovgivningen, skatte- og avgiftslovgivningen og verdipapirlovgivningen.
+>
+
 ### 2011-06-24 — lov/2011-06-24-33
 
 *§ 5 femte ledd andre punktum skal lyde:*
 
 > Foretaket skal også opplyse om erverv av betydelig eierandel i foretaket og om økning av slik eierandel etter samme regler som i eiendomsmeglingsloven § 2-8 første ledd annet til fjerde punktum og tredje ledd med forskrifter.
+>
+
+### 2014-05-09 — lov/2014-05-09-16
+
+*§ 5 annet ledd tredje til femte punktum skal lyde:*
+
+> Kravet om tre års praktisk erfaring med inndriving av pengekrav gjelder ikke for EØS-statsborgere eller sveitsiske statsborgere som har kvalifikasjonsbevis fra en annen EØS-stat eller Sveits som nevnt i direktiv 2005/36/EF artikkel 13 nr. 1 eller nr. 2. Dersom kvalifikasjonsbeviset ikke er lovregulert i den andre EØS-staten eller i Sveits, må søkeren i tillegg ha drevet inkassovirksomhet på heltid i minst to år i løpet av de siste ti årene i en annen EØS-stat eller i Sveits. Kongen kan i forskrift fastsette at tredje og fjerde punktum skal gjelde tilsvarende for borgere fra andre stater enn EØS-stater og Sveits og for søkere som har kvalifikasjonsbevis fra andre stater enn EØS-stater og Sveits.
 >
 
 ### 2015-12-11 — lov/2015-12-11-98

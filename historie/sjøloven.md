@@ -5,6 +5,94 @@ refid: "lov/1994-06-24-39"
 
 # Endringshistorikk: Sjøloven – sjøl
 
+## § 3-8
+
+### 2014-05-09 — lov/2014-05-09-16
+
+*§ 3-8 første ledd nr. 7 skal lyde:*
+
+> avtale inngått i samsvar med reglene gitt i eller i medhold av § 8-10.
+>
+
+### 2014-05-09 — lov/2014-05-09-16
+
+*§ 3-8 første ledd nr. 6 skal lyde:*
+
+> avtale inngått i samsvar med reglene gitt i eller i medhold av § 8-10.
+>
+
+## § 4-24
+
+### 2014-05-09 — lov/2014-05-09-16
+
+*§ 4-24 fjerde ledd tredje punktum oppheves. Nåværende fjerde og femte punktum blir tredje og fjerde punktum.*
+
+## § 8-1
+
+### 2014-05-09 — lov/2014-05-09-16
+
+*§ 8-1 annet og tredje ledd skal lyde:*
+
+> (2) I beløpet som kan deles ut etter første ledd, skal det gjøres fradrag for kreditt og sikkerhetsstillelse mv. etter §§ 8-7 til 8-10 fra før balansedagen som etter disse bestemmelsene skal ligge innenfor rammen av de midler selskapet kan dele ut som utbytte. Det skal likevel ikke gjøres fradrag for kreditt og sikkerhetsstillelse mv. som er tilbakebetalt eller avviklet før beslutningstidspunktet, eller kreditt til en aksjeeier i den grad kreditten avvikles ved en avregning i utbyttet. I beløpet som kan deles ut etter første ledd, skal det også gjøres fradrag for egne aksjer som selskapet har ervervet avtalepant i før balansedagen, med et beløp som tilsvarer fordringen pantet skal sikre. Dette gjelder likevel ikke hvis det er gjort fradrag for fordringen etter første punktum.
+>
+> (3) Ved beregningen etter første ledd skal det gjøres fradrag for andre disposisjoner etter balansedagen som etter loven skal ligge innenfor rammen av de midler selskapet kan benytte til utdeling av utbytte, eller som omfattes av § 12-1 første ledd nr 2.
+>
+
+### 2014-05-09 — lov/2014-05-09-16
+
+*§ 8-1 annet og tredje ledd skal lyde:*
+
+> (2) I beløpet som kan deles ut etter første ledd, skal det gjøres fradrag for kreditt og sikkerhetsstillelse mv. etter §§ 8-7 til 8-10 fra før balansedagen som etter disse bestemmelsene skal ligge innenfor rammen av de midler selskapet kan dele ut som utbytte. Det skal likevel ikke gjøres fradrag for kreditt og sikkerhetsstillelse mv. som er tilbakebetalt eller avviklet før beslutningstidspunktet, eller kreditt til en aksjeeier i den grad kreditten avvikles ved en avregning i utbyttet. I beløpet som kan deles ut etter første ledd, skal det også gjøres fradrag for egne aksjer som selskapet har ervervet avtalepant i før balansedagen, med et beløp som tilsvarer fordringen pantet skal sikre. Dette gjelder likevel ikke hvis det er gjort fradrag for fordringen etter første punktum.
+>
+> (3) Ved beregningen etter første ledd skal det gjøres fradrag for andre disposisjoner etter balansedagen som etter loven skal ligge innenfor rammen av de midler selskapet kan benytte til utdeling av utbytte, eller som omfattes av § 12-1 første ledd nr 2.
+>
+
+## § 9-3
+
+### 2014-05-09 — lov/2014-05-09-16
+
+*§ 9-3 tredje punktum oppheves.*
+
+### 2014-05-09 — lov/2014-05-09-16
+
+*§ 9-3 tredje punktum oppheves.*
+
+## § 12-2
+
+### 2014-05-09 — lov/2014-05-09-16
+
+*§ 12-2 første ledd første punktum skal lyde:*
+
+> Ved beregningen av selskapets tap etter § 12-1 første ledd nr 1, skal balansen i selskapets sist godkjente årsregnskap legges til grunn.
+>
+
+### 2014-05-09 — lov/2014-05-09-16
+
+*§ 12-2 første ledd første punktum skal lyde:*
+
+> Ved beregningen av selskapets tap etter § 12-1 første ledd nr 1, skal balansen i selskapets sist godkjente årsregnskap legges til grunn.
+>
+
+## § 16-9
+
+### 2014-05-09 — lov/2014-05-09-16
+
+*§ 16-9 første ledd skal lyde:*
+
+> (1) Utdeling til aksjeeierne av annet overskudd enn utbytte etter § 8-1 kan ikke finne sted før selskapets forpliktelser er dekket og det er gått minst seks uker siden kunngjøringen av kreditorvarselet i Brønnøysundregistrenes elektroniske kunngjøringspublikasjon etter § 16-4.17. I lov 13. juni 1997 nr. 45 om allmennaksjeselskaper gjøres følgende endringer:
+>
+
+### 2014-05-09 — lov/2014-05-09-16
+
+*§ 16-9 første ledd skal lyde:*
+
+> (1) Utdeling til aksjeeierne av annet overskudd enn utbytte etter § 8-1 kan ikke finne sted før selskapets forpliktelser er dekket og det er gått minst seks uker siden kunngjøringen av kreditorvarselet i Brønnøysundregistrenes elektroniske kunngjøringspublikasjon etter § 16-4.18. I lov 17. juli 1998 nr. 56 om årsregnskap mv. skal § 3-3 syvende ledd lyde:Foretak som jevnlig sysselsetter mer enn 50 ansatte, skal redegjøre for tiltak som er iverksatt og tiltak som planlegges iverksatt for å fremme formålet i diskrimineringsloven om etnisitet, diskriminerings- og tilgjengelighetsloven og diskrimineringsloven om seksuell orientering.19. I lov 16. juli 1999 nr. 66 om Schengen informasjonssystem (SIS) skal § 7 nr. 2 lyde:opplysninger om personer som ikke skal gis tillatelse til innreise fordi det i forbindelse med utvisning etter utlendingsloven § 66 første ledd bokstav a, b, c eller e, §§ 67, 68 eller 126 annet ledd er truffet vedtak om innreiseforbud, og vedtaket fortsatt er gjeldende20. I lov 18. mai 2001 nr. 21 om gjennomføring av straff mv. gjøres følgende endringer:
+>
+> I § 7 bokstav i erstattes «§ 26 sjette ledd» med «§ 16 syvende ledd».
+>
+> I § 7 b erstattes «§ 16 sjette ledd» med «§ 16 syvende ledd».
+>
+
 ## (annet)
 
 ### 2004-02-27 — lov/2004-02-27-10
@@ -564,6 +652,14 @@ refid: "lov/1994-06-24-39"
 > Reglene i dette kapittelet gjelder ikke for krigsskip eller andre skip som eies eller brukes av en fremmed stat, og som på det tidspunkt da skade ble voldt av farlig gods, utelukkende brukes i statlig ikke-kommersielt øyemed. §§ 212 til 215 gjelder likevel når skade er oppstått her i riket eller i norsk økonomisk sone, eller det er truffet tiltak for å avverge eller begrense slik skade.
 >
 
+### 2016-05-27 — lov/2016-05-27-16
+
+*Kapittel 15 avsnitt IV, overskrifta, skal lyde:*
+
+### 2016-05-27 — lov/2016-05-27-16
+
+*Noverande § 418 a vert ny § 418 d.*
+
 ### 2018-12-20 — lov/2018-12-20-115
 
 *Nytt kapittel 10 a skal lyde:*
@@ -715,11 +811,49 @@ refid: "lov/1994-06-24-39"
 > Et skip som er innført i et annet lands skipsregister, anses likevel som norsk hvis det er bareboatregistrert i norsk skipsregister i henhold til § 40.
 >
 
+## § 10
+
+### 2014-05-09 — lov/2014-05-09-16
+
+*§ 10 fjerde og femte ledd skal lyde:*
+
+> Subsidiær fengselsstraff fastsatt etter straffeloven § 28 kan gjennomføres som bøtetjeneste etter § 16 a.
+>
+> For domfelte under 18 år skal personundersøkelse som er foretatt etter straffeprosessloven § 161 a, danne grunnlag for valg av gjennomføringsform og andre avgjørelser om straffegjennomføringen. Det skal foretas en ny personundersøkelse dersom det har gått mer enn ett år fra personundersøkelsen ble foretatt til straffegjennomføring iverksettes, eller dersom barnets personlighet, livsforhold eller fremtidsmuligheter vesentlig er endret.
+>
+> I § 16 syvende ledd annet punktum erstattes «§ 16 tredje ledd bokstav d) og e)» med «fjerde ledd bokstav d og e».
+>
+
 ## § 11
 
 ### 2013-12-13 — lov/2013-12-13-114
 
 *§ 11 åttende ledd oppheves.*
+
+## § 117
+
+### 2007-02-27 — lov/2007-01-26-3
+
+*§ 117 annet punktum skal lyde:*
+
+> Søksmålet reises i den rettskrets hvor partrederiet har alminnelig verneting.
+>
+
+## § 118
+
+### 2007-02-27 — lov/2007-01-26-3
+
+*§ 118 første ledd annet og tredje punktum skal lyde:*
+
+> Er det uenighet om stedet for salget, avgjøres spørsmålet av tingretten ved partrederiets alminnelige verneting. Avgjørelsen treffes i form av kjennelse, som kan ankes.
+>
+
+### 2007-02-27 — lov/2007-01-26-3
+
+*§ 118 annet ledd tredje punktum skal lyde:*
+
+> Avgjørelsen hører under tingretten og treffes i form av kjennelse, som kan ankes.
+>
 
 ## § 136
 
@@ -748,6 +882,23 @@ refid: "lov/1994-06-24-39"
 > § 14.Fremgangsmåte m mRegisterføreren skal føre en dagbok over dokumenter som forlanges registrert, og et skipsregister med blad for hvert enkelt skip. Registrering foregår ved at et utdrag av dokumentet føres inn i dagboken og at dokumentet anmerkes i Skipsregisteret.Dokument som kreves registrert, skal snarest mulig føres inn i dagboken etter den dato og det minutt det er mottatt for registrering og skal anses for dagbokført på dette tidspunkt. Papirdokument som kommer inn etter Skipsregisterets ekspedisjonstid, skal føres inn i dagboken på et tidspunkt som departementet fastsetter i forskrift.Ser registerføreren når dokumentet mottas at det ikke kan registreres, gjør registerføreren oppmerksom på det. Blir dokumentet ikke tatt tilbake, skal det føres inn i dagboken og i tilfelle nektes registrert, jf. § 16. Er det åpenbart at dokumentet ikke kan registreres, kan det uten dagbokføring returneres til den som har krevd registrering. Vedkommende skal samtidig gjøres kjent med hvorfor dokumentet ikke kan registreres, og med at det ikke er dagbokført. Vedkommende skal videre gjøres kjent med at dokumentet vil bli dagbokført dersom dette kreves. Framsettes slikt krav, dagbokføres dokumentet fra det tidspunktet kravet kommer inn, jf. annet ledd.Foreligger vilkårene for registrering, skal dokumentet anmerkes i Skipsregisteret innen 2 uker etter dagbokføringsdato. Dokumentet sendes tilbake til eller gjøres tilgjengelig for den som er rettighetshaver etter dokumentet, eller sendes tilbake til eller gjøres tilgjengelig for den rettighetshaveren utpeker.Foreligger ikke vilkårene for registrering, skal dokumentet nektes registrert, jf. § 16.Dersom et skip ventes levert fra utenlandsk byggeverksted eller selger til ny eier på et tidspunkt utenfor ekspedisjonstiden ved registerførerens kontor, kan skipets innføring i registeret og registrering av frivillige rettsstiftelser skje før skipet blir levert, men registerføreren skal holde dokumentene tilbake inntil denne får bekreftelse på at skipet er levert. Blir skipet ikke levert innen 1 uke etter dagbokføringen, er registreringen uten noen rettsvirkning.Registrerte dokumenter skal lagres elektronisk. Departementet kan i forskrift gi nærmere bestemmelser om hvordan registrerte dokumenter skal lagres og håndteres.Departementet kan i forskrift fastsette at opplysninger eller attester som det finner nødvendig av hensyn til registerførerens kontroll, skal gis på fastsatt måte. Departementet kan i forskrift fastsette krav om innlevering av gjenpart av dokument som skal registreres, at gjenparten skal være bekreftet og hvem som kan gi slik bekreftelse.
 >
 > § 14.Fremgangsmåte m m
+>
+
+## § 143
+
+### 2009-06-19 — lov/2009-06-19-74
+
+*§ 143 fjerde ledd annet punktum oppheves.*
+
+## § 144
+
+### 2009-06-19 — lov/2009-06-19-74
+
+*§ 144 tredje ledd annet punktum oppheves.*
+
+> Nytt avsnitt II skal lyde:
+>
+> Avsnitt II Straff
 >
 
 ## § 15
@@ -882,6 +1033,15 @@ refid: "lov/1994-06-24-39"
 > For krav i anledning personskade tilføyet skipets egne passasjerer er ansvarsgrensen 250 000 SDR multiplisert med det antall passasjerer som skipet ifølge sitt sertifikat har adgang til å føre.For andre krav i anledning av personskade er ansvarsgrensen 3.020.000 SDR. For skip med tonnasje på mer enn 2.000 tonn forhøyes ansvarsgrensen slik:for hvert tonn fra 2.001 til 30.000 tonn, med 1208 SDR,for hvert tonn fra 30.001 til 70.000 tonn, med 906 SDR, ogfor hvert tonn over 70.000 tonn, med 604 SDR.Ansvarsgrensen for alle andre krav, samt udekket rest av krav som nevnt i nr. 2, er 1.510.000 SDR. For skip med tonnasje på mer enn 2.000 tonn forhøyes ansvarsgrensen slik:for hvert tonn fra 2.001 til 30.000 tonn, med 604 SDR,for hvert tonn fra 30.001 til 70.000 tonn, med 453 SDR,for hvert tonn over 70.000 tonn, med 302 SDR.
 >
 
+## § 175 a
+
+### 2009-06-12 — lov/2009-06-12-37
+
+*§ 175 a fyrste ledd skal lyde:*
+
+> Ansvarsgrensen for et krav som omfattes av § 172 a, er 2.000.000 SDR. For skip med tonnasje på mer enn 1.000 tonn forhøyes ansvarsgrensen slikfor hvert tonn fra 1.001 tonn til 2.000 tonn med 2.000 SDR, ogfor hvert tonn fra 2.001 tonn til 10..000 tonn med 5.000 SDR, ogfor hvert tonn over 10.001 tonn med 1.000 SDR.
+>
+
 ## § 175a
 
 ### 2005-06-17 — lov/2005-06-17-88
@@ -982,6 +1142,52 @@ refid: "lov/1994-06-24-39"
 *§ 182 b første ledd skal lyde:*
 
 > Utenlandsk skip som ikke har slikt sertifikat som nevnt i § 182 a, kan bortvises fra norske havner av Sjøfartsdirektoratet. Blir et utenlandsk skip bortvist, skal Sjøfartsdirektoratet foreta notifikasjon om bortvisningen i henhold til direktiv 2009/20/EF.
+>
+
+## § 183
+
+### 2009-06-12 — lov/2009-06-12-37
+
+*§ 183 tredje ledd skal lyde:*
+
+> Med skip forstås i §§ 183 til 190 ethvert sjøgående fartøy eller annen flytende innretning på sjøen.
+>
+
+### 2009-06-12 — lov/2009-06-12-37
+
+*§ 183 nytt tiande ledd skal lyde:*
+
+> §§ 183 til 190 gjelder ikke for forurensningsskade som er omfattet av § 191 annet ledd.
+>
+
+## § 19
+
+### 2007-02-27 — lov/2007-01-26-3
+
+*§ 19 tredje ledd første punktum skal lyde:*
+
+> Klage som gis etter utløpet av klagefristen, kan tas til behandling etter reglene i forvaltningsloven § 31, jf likevel paragrafen her fjerde ledd.
+>
+
+### 2007-02-27 — lov/2007-01-26-3
+
+*§ 19 fjerde ledd skal lyde:*
+
+> Reglene i tinglysingsloven §§ 10 a og 10 b om enkelte innskrenkinger i adgangen til å ta en anke til følge gjelder tilsvarende.
+>
+
+### 2007-02-27 — lov/2007-01-26-3
+
+*§ 19 femte ledd annet punktum skal lyde:*
+
+> Forvaltningsloven § 27 b annet punktum gjelder likevel tilsvarende.
+>
+
+### 2007-02-27 — lov/2007-01-26-3
+
+*§ 19 sjette ledd skal lyde:*
+
+> Vedkommende forvaltningsorgan kan bestemme at mulig søksmål må reises innen 3 uker fra det tidspunkt da melding om fristfastsettingen kom fram til vedkommende part. Ved oversittelse av fristen kan retten likevel tillate søksmålet fremmet dersom særlige grunner taler for det og det ikke foreligger forhold som er til hinder for å ta en klage til følge, jf paragrafen her fjerde ledd.
 >
 
 ## § 191
@@ -1116,6 +1322,13 @@ refid: "lov/1994-06-24-39"
 > Reglene i dette kapittel gjelder begrensningsfond som opprettes etter § 177 (globalfond), § 195 (oljeskadefond etter 1992-ansvarskonvensjonen), samt etterfølgende begrensningssøksmål. Som globalfond regnes også fond opprettet etter § 207.
 >
 
+### 2007-02-27 — lov/2007-01-26-3
+
+*§ 231 annet ledd skal lyde:*
+
+> Reglene i tvisteloven får tilsvarende anvendelse med mindre annet følger av kapitlet her.
+>
+
 ### 2015-05-12 — lov/2015-05-12-30
 
 *§ 231 første ledd første punktum skal lyde:*
@@ -1148,6 +1361,15 @@ refid: "lov/1994-06-24-39"
 > Begrensningsfond etter HNS-konvensjonen skal tilsvare ansvarsbeløpet etter § 215.
 >
 > Rentetillegget for krav som nevnt i fjerde og femte ledd, skal anses som en del av det erstatningskrav som skal dekkes av Det internasjonale erstatningsfond (1992) og Det internasjonale tilleggsfond (2003) etter § 201 og av HNS-fondet etter § 221.
+>
+
+## § 234
+
+### 2007-02-27 — lov/2007-01-26-3
+
+*§ 234 fjerde ledd skal lyde:*
+
+> Kjennelsen kan ankes.
 >
 
 ## § 235
@@ -1200,6 +1422,15 @@ refid: "lov/1994-06-24-39"
 > Når samtlige tvister er avgjort, skal retten ved dom fordele fondet etter reglene i § 176, § 195 eller § 216. Fordelingen skjer på grunnlag av pålydende av hver fordring med tillegg av forsinkelsesrente i henhold til alminnelige rettsregler.
 >
 
+## § 245
+
+### 2007-02-27 — lov/2007-01-26-3
+
+*§ 245 annet punktum skal lyde:*
+
+> Gjenåpning kan bare finne sted for så vidt gjelder retten til ansvarsbegrensning.
+>
+
 ## § 28
 
 ### 2020-04-17 — lov/2020-04-17-28
@@ -1227,6 +1458,22 @@ refid: "lov/1994-06-24-39"
 *§ 31 første ledd nytt annet punktum skal lyde:*
 
 > Slik registrering av skip omfatter også skrog, større seksjoner av skrog eller hovedmaskineri bygget ved verksted utenfor riket dersom levering fra det utenlandske verkstedet har funnet sted.
+>
+
+## § 35
+
+### 2007-02-27 — lov/2007-01-26-3
+
+*§ 35 tredje ledd annet punktum skal lyde:*
+
+> Kjennelsen kan ankes.
+>
+
+### 2007-02-27 — lov/2007-01-26-3
+
+*§ 35 femte ledd første punktum skal lyde:*
+
+> Melder noen seg før fristens utløp og påstår å ha bedre rett til skipet enn saksøkeren, fortsetter saken etter de vanlige regler i tvisteloven.
 >
 
 ## § 36
@@ -1286,7 +1533,27 @@ refid: "lov/1994-06-24-39"
 > Etter § 418 skal nytt avsnitt IV overskrifta lyde:
 >
 
+### 2014-05-09 — lov/2014-05-09-16
+
+*§ 418 nytt femte ledd skal lyde:*
+
+> Reglene i § 199 gjelder tilsvarende når et skip ikke har påbudt forsikring eller annen sikkerhet eller påbudt sertifikat etter reglene i eller i medhold av første til fjerde ledd.
+>
+
 ## § 418 a
+
+### 2016-05-27 — lov/2016-05-27-16
+
+*§ 418 a skal lyde:*
+
+> § 418 a.Passasjerrettigheter
+>
+> EØS-avtalen vedlegg XIII nr. 56y (Europaparlaments- og rådsforordning (EU) nr. 1177/2010 av 24. november 2010 om passasjerenes rettigheter ved sjøreiser og reiser på indre vannveier og om endring av forordning (EF) nr. 2006/2004) gjelder som lov med de tilpasninger som følger av vedlegg XIII, protokoll 1 til avtalen og avtalen for øvrig. Departementet kan i forskrift gi nærmere regler om gjennomføring og utfylling av forordningen.
+>
+> Departementet kan i forskrift gi regler om hvem som skal føre tilsyn med at reglene om passasjerrettigheter følges, tilsynsmyndighetens kompetanse og måten tilsynet skal utøves på. Luftfartsloven § 10-42 andre og fjerde ledd gjelder tilsvarende.
+>
+> Departementet kan i forskrift gi regler om etablering og finansiering av et klageorgan for løsning av tvister mellom passasjerer og den som mot vederlag driver passasjerfrakt med båt, eller andre som i forbindelse med slik transport har forpliktelser overfor passasjerene. Luftfartsloven §§ 10-44 til 10-47, herunder regler om departementets adgang til å bestemme eller gi regler i forskrift, gjelder tilsvarende.
+>
 
 ### 2020-05-20 — lov/2020-05-20-42
 
@@ -1300,6 +1567,21 @@ refid: "lov/1994-06-24-39"
 >
 
 ## § 418 b
+
+### 2016-05-27 — lov/2016-05-27-16
+
+*Ny § 418 b skal lyde:*
+
+> § 418 b.Retting og tvangsmulkt
+>
+> Tilsynsorganet kan gi pålegg om retting eller opphør av forhold som er i strid med bestemmelse gitt i eller i medhold av § 418 a eller vedtak gjort i medhold av disse bestemmelsene, og kan fastsette vilkår som må oppfylles for at virksomheten skal være i samsvar med krav etter disse bestemmelsene.
+>
+> For å sikre at plikter, forbud, påbud eller krav som følger av bestemmelse gitt i eller i medhold av § 418 a, eller vedtak gjort i medhold av disse bestemmelsene, blir etterlevd, kan tilsynsorganet fastsette en løpende tvangsmulkt som løper inntil forholdet er rettet. Tvangsmulkt kan bare fastsettes og løper så langt det er mulig for den ansvarlige å oppfylle det pålegget som tvangsmulkten er knyttet til. Tvangsmulkt løper likevel dersom det etter at tvangsmulkten er ilagt, blir umulig å oppfylle pålegget på grunn av forhold som skyldes den ansvarlige.
+>
+> Tvangsmulkt tilfaller staten. Tilsynsorganet kan frafalle krav om påløpt tvangsmulkt helt eller delvis.
+>
+> Departementet kan i forskrift fastsette nærmere regler om ileggelse av tvangsmulkt, om utmåling av tvangsmulkt, om hvor lenge tvangsmulkten kan løpe, og om adgangen til å ettergi tvangsmulkt.
+>
 
 ### 2020-05-20 — lov/2020-05-20-42
 
@@ -1319,6 +1601,23 @@ refid: "lov/1994-06-24-39"
 >
 
 ## § 418 c
+
+### 2016-05-27 — lov/2016-05-27-16
+
+*Ny § 418 c skal lyde:*
+
+> § 418 c.Overtredelsesgebyr
+>
+> Tilsynsorganet kan ilegge et foretak overtredelsesgebyr dersom foretaket eller noen som har handlet på foretakets vegne, overtrer bestemmelse gitt i eller i medhold av § 418 a. Det gjelder selv om ingen enkeltperson har utvist skyld.
+>
+> Ved avgjørelsen av om foretaket skal ilegges overtredelsesgebyr og ved utmålingen av gebyret skal det særlig legges vekt på overtredelsens grovhet og varighet, graden av skyld og foretakets økonomiske evne.
+>
+> Overtredelsesgebyret forfaller til betaling to måneder etter at vedtaket er fattet. Tilsynsorganet kan i særlige tilfeller frafalle ilagt overtredelsesgebyr. Endelig vedtak om overtredelsesgebyr er tvangsgrunnlag for utlegg. Dersom foretaket går til søksmål mot staten for å prøve vedtaket, suspenderes tvangskraften. Retten kan prøve alle sider av saken. Retten kan avsi dom for realitet i saken, dersom den finner det hensiktsmessig og forsvarlig.
+>
+> Adgangen til å ilegge overtredelsesgebyr foreldes etter fem år. Fristen avbrytes når tilsynsorganet meddeler et foretak at det er mistenkt for overtredelse av bestemmelse gitt i eller i medhold av § 418 a eller pålegg gitt i medhold av disse bestemmelsene.
+>
+> Departementet kan i forskrift gi regler om utmåling av overtredelsesgebyr.
+>
 
 ### 2020-05-20 — lov/2020-05-20-42
 
@@ -1352,6 +1651,17 @@ refid: "lov/1994-06-24-39"
 > Departementet kan gi forskrift om hvem som skal føre tilsyn med at reglene om passasjerrettigheter følges, tilsynsmyndighetens kompetanse og måten tilsynet skal utøves på.
 >
 > For å sikre at plikter som følger av bestemmelsene gitt i første ledd første punktum, eller pålegg gitt i medhold av disse bestemmelsene blir etterlevd, kan tilsynsmyndigheten overfor den ansvarlige fastsette en tvangsmulkt som løper inntil forholdet er rettet. Kompetansen til å gi forskrift etter § 418 b femte ledd gjelder tilsvarende.
+>
+
+## § 420
+
+### 2016-05-27 — lov/2016-05-27-16
+
+*§ 420 skal lyde:*
+
+> § 420.Skadelidtes medvirkning
+>
+> Har passasjeren ved egen skyld forårsaket eller medvirket til tap som nevnt i § 418 d og § 419, kan bortfrakterens ansvar settes ned etter alminnelige erstatningsregler.
 >
 
 ## § 422
@@ -1418,6 +1728,15 @@ refid: "lov/1994-06-24-39"
 > Reglene i §§ 411 til 417, § 418 a, §§ 419 til 429 og § 501 første ledd nr. 4 til 6 kan ikke ved forhåndsavtale fravikes til skade for passasjereni innenriksfart i Norge, Danmark, Finland eller Sverige eller ved befordring til eller fra noen av disse stater, uansett om befordringen for øvrig er undergitt fremmed rett;ved annen befordring dersom alminnelige norske lovvalgsregler medfører at befordringen er undergitt norsk rett.
 >
 
+### 2016-05-27 — lov/2016-05-27-16
+
+*§ 430 skal lyde:*
+
+> § 430.Virkeområde og ufravikelighet
+>
+> Reglene i §§ 411 til 417, § 418 a, § 418 d, §§ 419 til 429 og § 501 første ledd nr. 4 til 6 kan ikke ved forhåndsavtale fravikes til skade for passasjereni innenriksfart i Norge, Danmark, Finland eller Sverige eller ved befordring til eller fra noen av disse stater, uansett om befordringen for øvrig er undergitt fremmed rett;ved annen befordring dersom alminnelige norske lovvalgsregler medfører at befordringen er undergitt norsk rett.
+>
+
 ## § 431
 
 ### 2013-06-07 — lov/2013-06-07-30
@@ -1431,6 +1750,21 @@ refid: "lov/1994-06-24-39"
 
 *§ 431 tredje ledd vert oppheva. Noverande fjerde ledd blir nytt tredje ledd.*
 
+### 2014-05-09 — lov/2014-05-09-16
+
+*§ 431 skal lyde:*
+
+> § 431.Unntak fra ufravikeligheten
+>
+> Uten hinder av § 430 kan bortfrakteren ved befordring av passasjer fraskrive seg ansvaret for forsinkelse etter dette kapittel for tiden før passasjeren går om bord og etter at passasjeren er kommet i land, men likevel ikke for sjøtransport mellom skipet og land som er inkludert i billettprisen eller utføres med transportmiddel stilt til rådighet av bortfrakteren.
+>
+> For håndreisegods som ikke befinner seg i eller på medført kjøretøy, kan bortfrakteren likeledes fraskrive seg ansvaret for forsinkelse etter dette kapittel for tiden før godset blir brakt om bord og etter at det er brakt i land, men ikke for sjøtransport mellom skipet og land som nevnt i første ledd, og heller ikke for den tid bortfrakteren har hånd om godset mens passasjeren befinner seg på kai eller på en terminal eller stasjon eller et annet anlegg i havn.
+>
+> Bortfrakteren kan i alle tilfelle forbeholde seg ansvarsfrihet for levende dyr som sendes som reisegods.
+>
+> 16. I lov 13. juni 1997 nr. 44 om aksjeselskaper gjøres følgende endringer:
+>
+
 ## § 432
 
 ### 2013-06-07 — lov/2013-06-07-30
@@ -1438,6 +1772,15 @@ refid: "lov/1994-06-24-39"
 *§ 432 første ledd skal lyde:*
 
 > Kongen kan bestemme at det for skip som ikke er omfattet av klasse A og klasse B i direktiv 2009/45/EF, som fører 12 passasjerer eller mindre og som brukes til passasjerbefordring i norsk innenriksfart, skal tegnes forsikring eller stilles sikkerhet til dekning av det ansvar for personskade som bortfrakteren kan få etter § 418, jf. § 171, § 172 og § 175 nr. 1. Kongen kan i forskrift gi regler om hvilke skip dette skal gjelde for, og kan gi regler om forsikringen eller sikkerhetstillelsen, herunder om hvilke vilkår forsikringen eller sikkerhetsstillelsen må oppfylle for å kunne godkjennes, om virkningen av at de ikke holdes i kraft, og om forsikringsbevis.
+>
+
+## § 454
+
+### 2007-02-27 — lov/2007-01-26-3
+
+*§ 454 annet ledd tredje punktum skal lyde:*
+
+> Retten skal forene sakene til felles behandling og avgjørelse i den utstrekning det er adgang til det, jf tvisteloven § 15-6 første punktum.
 >
 
 ## § 461
@@ -1449,6 +1792,46 @@ refid: "lov/1994-06-24-39"
 > § 461.York-Antwerpen-reglene
 >
 > Når ikke annet er avtalt, gjelder York-Antwerpen-reglene for hvilke skader, tap og kostnader som skal henføres til felleshavari, og for havarifordelingen. Kongen fastsetter hvilken versjon av York-Antwerpen-reglene som skal gjelde etter første punktum, og kunngjør reglene i sin engelske tekst og norsk oversettelse.
+>
+
+## § 472
+
+### 2011-12-16 — lov/2011-12-16-64
+
+*§ 472 andre ledd, samt tredje ledd annet, tredje og fjerde punktum, vert oppheva. Noverande tredje og fjerde ledd blir nytt annet og tredje ledd.*
+
+## § 472 a
+
+### 2011-12-16 — lov/2011-12-16-64
+
+*Ny § 472 a skal lyde:*
+
+> § 472 a.Definisjoner
+>
+> Med alvorlig ulykke menes i denne loven en ulykke hvor det har vært brann, eksplosjon, sammenstøt e.l., ekstreme vær- eller isforhold, sprekker eller feil på skroget mv. som fører til:maskinstans, betydelig skade i innredningen, betydelig strukturell skade, herunder vanngjennomtrengning i skroget, slik at skipet ikke er i stand til å fortsette seilasen, ellerforurensning, ellerhavari som gjør det nødvendig å taue skipet eller få assistanse fra land.
+>
+> Med hurtiggående passasjerfartøy menes i denne loven et hurtiggående fartøy som definert i regel X/1 i SOLAS-konvensjonen av 1974 med senere endringer, og som kan transportere flere enn tolv passasjerer.
+>
+> Med roroferge menes i denne loven et sjøgående passasjerskip som er utstyrt med innretninger som gjør det mulig å kjøre vei- eller skinnegående kjøretøyer på og av skipet, og som kan transportere flere enn tolv passasjerer.
+>
+> Med sjøulykke menes i denne loven når det ved driften av skip oppstår en hendelse hvor:noen omkommer eller det voldes betydelig skade på person,skipet har eller må antas å ha gått tapt, eller skipet er forlatt,det oppstår betydelig skade på skipet,skipet har grunnstøtt eller vært involvert i et sammenstøt eller hendelse som medfører at skipet ikke lenger er funksjonsdyktig, ellerdet oppstår betydelig skade på miljøet eller fare for miljøet som følge av skade på skipet.
+>
+> Med svært alvorlig sjøulykke menes i denne loven en sjøulykke som innebærer at skipet har gått tapt, noen har omkommet eller det er påført betydelig skade på miljøet, eller det har vært umiddelbar fare for noe av dette med et passasjerskip.
+>
+> Skade på skip, personer eller miljøet som er foretatt med hensikt, skal ikke anses som en sjøulykke eller svært alvorlig sjøulykke.
+>
+> § 473 tredje ledd og fjerde ledd andre punktum vert oppheva.
+>
+> § 475 første ledd annet og tredje punktum samt tredje ledd vert oppheva.
+>
+
+## § 474
+
+### 2007-02-27 — lov/2007-01-26-3
+
+*§ 474 annet ledd tredje punktum skal lyde:*
+
+> Videre kan foretas besiktelse av skipet og det sted der hendelsen fant sted, og foretas annen undersøkelse av realbevis for så vidt det hensiktsmessig kan skje i forbindelse med vitneavhøringen.
 >
 
 ## § 475
@@ -1479,6 +1862,19 @@ refid: "lov/1994-06-24-39"
 > Har et norsk skip vært innblandet i en hendelse som har forårsaket vrak i konvensjonsområdet til en annen stat som er tilsluttet vrakfjerningskonvensjonen, skal skipsføreren eller den driftsansvarlige for skipet dessuten umiddelbart melde fra om hendelsen til denne staten. § 210 h tredje ledd første punktum og fjerde ledd gjelder tilsvarende, jf. også § 210.
 >
 
+## § 475 a
+
+### 2011-12-16 — lov/2011-12-16-64
+
+*Ny § 475 a skal lyde:*
+
+> § 475 a.Plikt til sikring av bevis
+>
+> Enhver som er involvert i en sjøulykke skal så snart omstendighetene tillater det samle inn og ta vare på alle bevis som kan være nødvendige for sikkerhetsundersøkelsen, herunder:ta vare på alle opplysninger fra sjøkart, skipsdagbøker, elektroniske og magnetiske innspillings- og videobånd, herunder opplysninger fra ferdskriver (VDR) og andre elektroniske innretninger i tidsrommet før, under og etter ulykken,sikre at slike opplysninger ikke overskrives eller endres på annen måte,hindre forstyrrelse fra annet utstyr som kan ha betydning for sikkerhetsundersøkelsen eller ulykken.
+>
+> Plikten til å samle inn og ta vare på bevis etter første ledd opphører når sikkerhetsundersøkelsen er avsluttet.
+>
+
 ## § 476
 
 ### 2005-04-15 — lov/2005-04-15-17
@@ -1486,6 +1882,178 @@ refid: "lov/1994-06-24-39"
 *§ 476 fjerde ledd tredje punktum skal lyde:*
 
 > Fastsettelsen kan påkjæres til lagmannsretten etter reglene i rettshjelpsloven § 27.
+>
+
+### 2007-02-27 — lov/2007-01-26-3
+
+*§ 476 fjerde ledd annet til fjerde punktum skal lyde:*
+
+> Godtgjørelsen fastsettes av rettens leder. Fastsettelsen kan ankes til lagmannsretten etter reglene i rettshjelploven § 27. For fastsettelser foretatt av norsk konsulrett i utlandet er Borgarting lagmannsrett ankeinstans.
+>
+
+### 2011-12-16 — lov/2011-12-16-64
+
+*§ 476 skal lyde:*
+
+> § 476.Iverksetting av undersøkelse
+>
+> Når undersøkelsesmyndigheten har mottatt melding om en sjøulykke, skal den straks avgjøre om den skal foreta undersøkelser av ulykken, og skal i så fall iverksette undersøkelsene så snart som mulig og senest innen to måneder etter at ulykken fant sted. Undersøkelsen skal bringes til avslutning uten ugrunnet opphold. Undersøkelsesmyndigheten avgjør selv omfanget av undersøkelsen og hvordan den skal gjennomføres.
+>
+> Det skal iverksettes undersøkelser etter svært alvorlige sjøulykker i følgende tilfeller:når et norsk skip er innblandet, uansett hvor ulykken inntreffer,når det er et utenlandsk skip som har vært utsatt for ulykken, og ulykken inntreffer innenfor riket,når ulykken berører vesentlige norske interesser, uavhengig av skipets flagg og hvor ulykken fant sted.
+>
+> En svært alvorlig sjøulykke med et fiskefartøy under 15 meter der skipet har gått tapt, men uten at noen har omkommet, omfattes ikke av bokstav a til c.
+>
+> Undersøkelsesmyndigheten skal foreta en foreløpig vurdering for å avgjøre om det skal iverksettes undersøkelse ved alvorlige ulykker.
+>
+> Sjøulykker med fritidsbåter omfattes ikke av annet og tredje ledd.
+>
+> For andre sjøulykker enn dem som omfattes av annet ledd, avgjør undersøkelsesmyndigheten selv om den vil foreta undersøkelser. Ved avgjørelsen skal det legges vekt på behovet for å klarlegge forholdene vedrørende sjøulykken, hvor alvorlig ulykken er, hvilken fartøystype og last som er involvert, hvilket bidrag undersøkelsene kan gi til sjøsikkerhetsarbeidet, forventet ressursbruk ved en undersøkelse, om nødvendige undersøkelser kan gjennomføres på annen måte, og om en særlig berørt stat mener undersøkelser bør skje. Særlig berørte stater bør om mulig gis anledning til å uttale seg om ulykken bør undersøkes. Det skal også legges vekt på at antallet undersøkelser generelt bør være av et slik omfang at det kan gi et tilfredsstillende grunnlagsmateriale for det generelle sjøsikkerhetsarbeidet.
+>
+> Undersøkelsesmyndigheten kan uten hensyn til tidligere avgjørelse beslutte å undersøke forhold vedrørende en eller flere sjøulykker.
+>
+> Undersøkelsesmyndighetens avgjørelser etter denne paragraf kan ikke påklages.
+>
+> Undersøkelsene skal følge retningslinjene som er fastsatt i medhold av forordning 1406/2002/EF artikkel 2 bokstav e. Undersøkelsesmyndigheten kan fravike retningslinjene når det er nødvendig for å oppfylle undersøkelsens formål.
+>
+
+## § 477
+
+### 2011-12-16 — lov/2011-12-16-64
+
+*§ 477 tredje ledd skal lyde:*
+
+> Forklaringer som nevnt i første og annet ledd kan ikke stilles til rådighet for andre formål enn sikkerhetsundersøkelsen. Dette gjelder også for opplysninger som avslører identiteten til personer som har avgitt forklaring, og opplysninger av særlig følsom eller privat art om personer som har vært innblandet i ulykken. Opplysninger fremkommet under forklaringene kan ikke brukes som bevis mot den som har avgitt forklaringen i en senere straffesak mot vedkommende.
+>
+
+## § 481
+
+### 2007-02-27 — lov/2007-01-26-3
+
+*§ 481 første ledd første punktum skal lyde:*
+
+> Avhøringen av skipsføreren og de andre vitnene finner sted etter reglene i tvisteloven §§ 21-5 og 21-10 og kapittel 22 og 24 for så vidt ikke annet er bestemt i det følgende.
+>
+
+### 2007-02-27 — lov/2007-01-26-3
+
+*§ 481 annet ledd første punktum skal lyde:*
+
+> Rettens leder foretar avhøringen, dersom denne ikke finner å kunne overlate den til sjøfartsinspektøren eller en annen representant for påtalemyndigheten eller til rederen, lasteierne, assurandørene eller andre interesserte.
+>
+
+### 2007-02-27 — lov/2007-01-26-3
+
+*§ 481 tredje ledd skal lyde:*
+
+> Undersøkelse av realbevis finner sted etter reglene i tvisteloven kapittel 26 og 27.
+>
+
+## § 482
+
+### 2011-12-16 — lov/2011-12-16-64
+
+*§ 482 skal lyde:*
+
+> § 482.Internasjonale undersøkelser
+>
+> Når undersøkelsesmyndigheten har mottatt melding om sjøulykke som involverer en særlig berørt stat, skal den så raskt som mulig underrette myndighetene i vedkommende stat.
+>
+> Skal undersøkelsesmyndigheten undersøke en sjøulykke inntruffet utenfor riket, kan deler av undersøkelsen gjennomføres i samarbeid med norsk utenriksstasjon. Undersøkelsesmyndigheten kan også anmode om bistand fra utenlandsk undersøkelsesmyndighet.
+>
+> Ved undersøkelser som involverer en særlig berørt stat, skal undersøkelsesmyndigheten samarbeide med vedkommende stat. Undersøkelsesmyndigheten skal så raskt som mulig bli enige med undersøkelsesmyndigheten i den særlig berørte staten om hvem som skal ha hovedansvaret for undersøkelsen, og hvordan undersøkelsen skal gjennomføres. Undersøkelsesmyndigheten kan overlate undersøkelser, herunder undersøkelser som omfattes av § 476 annet ledd, til den særlig berørte staten. Undersøkelsesmyndigheten kan delta i undersøkelser av sjøulykker utenfor riket som gjennomføres av utenlandsk undersøkelsesmyndighet. Ved undersøkelser innenfor fremmed stats territorium gjelder bestemmelsene i avsnitt II bare så langt norske myndigheters kompetanse rekker etter folkeretten, og så langt kyststatens lovgivning ikke er til hinder.
+>
+> Når en roroferge eller et hurtiggående passasjerfartøy er innblandet i en sjøulykke, skal undersøkelsen innledes av den EØS-stat innenfor hvis sjøterritorium eller indre farvann ulykken eller hendelsen inntreffer. Dersom ulykken inntreffer i andre farvann enn sjøterritoriet eller indre farvann, skal undersøkelsen innledes av den medlemsstat skipet sist besøkte. Denne staten skal være hovedansvarlig for sikkerhetsundersøkelsen og samordningen med andre særlig berørte medlemsstater inntil det foreligger en felles avtale om hvilken stat som skal ha hovedansvar for undersøkelsen.
+>
+> Undersøkelsesmyndigheten i en særlig berørt stat innenfor EØS-området skal gis tilgang til de samme bevis og forklaringer i henhold til § 477, som undersøkelsesmyndigheten selv. Undersøkelsesmyndigheten skal ta hensyn til oppfatninger en slik stat har ved undersøkelsen.
+>
+
+## § 484
+
+### 2011-12-16 — lov/2011-12-16-64
+
+*§ 484 ny overskrift skal lyde:*
+
+> Rettigheter for dem som saken angår
+>
+
+### 2011-12-16 — lov/2011-12-16-64
+
+*§ 484 tredje ledd oppheves.*
+
+## § 485
+
+### 2011-12-16 — lov/2011-12-16-64
+
+*§ 485 nytt fjerde til sjuande ledd skal lyde:*
+
+> Undersøkelsesmyndigheten kan utarbeide en forenklet rapport for andre sjøulykker enn de som er nevnt i § 476 annet ledd, dersom resultatet av undersøkelsen ikke vil kunne bidra til å forhindre fremtidige ulykker og hendelser.
+>
+> Rapporten skal gjøres tilgjengelig innen 12 måneder etter at ulykken inntraff. Dersom dette ikke er mulig, skal undersøkelsesmyndigheten utgi en foreløpig rapport innen 12 måneder.
+>
+> Undersøkelsesmyndigheten skal oversende rapporten til EFTAs overvåkningsorgan (ESA) og melde ulykker og hendelser til sjøs til den europeiske databasen for sjøulykker.
+>
+> Undersøkelsesmyndighetens avgjørelser etter denne paragraf kan ikke påklages.
+>
+
+## § 486
+
+### 2011-12-16 — lov/2011-12-16-64
+
+*§ 486 skal lyde:*
+
+> § 486.Behandling av sjøfolk som har vært involvert i sjøulykke
+>
+> Ved undersøkelse av sjøulykker skal det tas hensyn til retningslinjer som er fastsatt av FN's sjøfartsorganisasjon (IMO) om behandling av sjøfolk som har vært involvert i en sjøulykke.
+>
+
+## § 486 a
+
+### 2011-12-16 — lov/2011-12-16-64
+
+*Ny § 486 a skal lyde:*
+
+> § 486 a.Forskrifter
+>
+> Kongen kan gi utfyllende forskrifter til kapittel 18 avsnitt II.
+>
+
+## § 488
+
+### 2007-02-27 — lov/2007-01-26-3
+
+*§ 488 skal lyde:*
+
+> § 488.Rettens sammensetning m.m.
+>
+> Skjønnsmedlemmenes antall er to. Dersom rettens leder finner det ønskelig, skal antallet være fire.
+>
+> Skjønnsmedlemmene gis så vidt mulig en dags varsel.
+>
+> I særlige tilfelle kan lederen unnlate å delta i skjønnet og overlate til skjønnsmedlemmene å holde det alene med påfølgende avhjemling i rettsmøte.
+>
+
+## § 490
+
+### 2007-02-27 — lov/2007-01-26-3
+
+*§ 490 skal lyde:*
+
+> § 490.Avhør, dokumentasjon, gransking
+>
+> Skjønnsmedlemmene har rett til å stille spørsmål til de personer som blir avhørt.
+>
+> Forklaringer som blir gitt under skjønnet, skal dokumenteres for så vidt en part eller annen fremmøtt interessert krever det, eller retten antar at forklaringene har betydning for vurderingen av en skades årsak eller omfang eller ansvarsforholdet, eller retten ellers finner grunn til det. Dokumentasjonen foretas etter reglene i tvisteloven § 13-9 første ledd.
+>
+> I den utstrekning det er forsvarlig og ikke uforenlig med lederens deltakelse i skjønnsavgjørelsen, kan lederen overlate den nærmere gransking til skjønnsmedlemmene alene, dersom det ville kreve uforholdsmessig lang tid for lederen å delta fullt ut i hele granskingsarbeidet.
+>
+
+## § 491
+
+### 2007-02-27 — lov/2007-01-26-3
+
+*§ 491 første ledd skal lyde:*
+
+> Det er ikke adgang til overskjønn, anke eller gjenåpning.
 >
 
 ## § 5
@@ -1557,6 +2125,35 @@ refid: "lov/1994-06-24-39"
 
 ## § 506
 
+### 2009-06-19 — lov/2009-06-19-74
+
+*§ 506 skal lyde:*
+
+> § 506.Straff
+>
+> Med bøter eller fengsel inntil 6 måneder straffes den som forsettlig eller grovt uaktsomt på vesentlig måteovertrer § 9 om kjenningssignal og merking eller forskrifter gitt i medhold av bestemmelsenovertrer bestemmelser i kapittel 2 om registrering eller forskrifter gitt i medhold av kapitletuberettiget fører et norsk flagg eller på annen måte utgir skipet for å være norsk, eller i norsk farvann uberettiget fører noe flagg eller på annen måte utgir skipet for å ha en annen enn sin virkelige nasjonalitet.
+>
+> Med bøter eller fengsel inntil 1 år straffes en skipsfører eller vakthavende styrmann som overtrer plikten i § 135 første eller annet ledd om å iverksette alle nødvendige tiltak ved havsnød eller annen fare og ikke uten særlig grunn forlate eller oppgi skipet så lenge det er rimelige utsikter til berging, med mindre det er betydelig fare for vedkommendes eget liv.
+>
+> Med bøter eller fengsel inntil 6 måneder straffes andre som har sitt arbeid om bord såfremt de uten særlig grunn og uten tillatelse av skipsføreren forlater skipet i havsnød eller annen fare så lenge skipsføreren er ombord.
+>
+> Med bøter eller fengsel inntil 3 år straffes en skipsfører eller vakthavende styrmann som forsettlig eller grovt uaktsomt overtrer plikten i § 164 første punktum til å yte nødvendig hjelp når det kan skje uten særlig fare for eget skip eller personer om bord der, men inntil 6 år såfremt unnlatelsen har hatt døden eller betydelig skade på legeme eller helse til følge.
+>
+> Med bøter eller fengsel inntil 6 måneder straffes den som forsettlig eller grovt uaktsomt overtrer plikten i §§ 186 eller 197 eller forskrifter gitt i medhold av bestemmelsene, om å ha forsikring eller annen sikkerhet samt gyldige sertifikater.
+>
+> Med bøter eller fengsel inntil 3 måneder straffes den som unnlater å oppfylle meldeplikten i § 475 første ledd eller forskrifter gitt i medhold av bestemmelsen. På samme måte straffes den som på vesentlig måte unnlater å fremlegge dokumentasjon i samsvar med § 477 annet ledd, eller å etterkomme krav fra undersøkelsesmyndigheten etter § 479 første ledd, eller som fjerner gjenstander i strid med § 478.
+>
+> Ved vurderingen av om en overtredelse av første ledd er vesentlig, skal det særlig legges vekt på overtredelsens omfang og virkninger og graden av utvist skyld.
+>
+> 165. I lov 5. august 1994 nr. 55 om vern mot smittsomme sykdommer skal § 8-1 lyde:
+>
+> Med unntak av overtredelse av plikter etter § 5-1 eller plikter som omfattes av helsepersonellovgivningen, straffes forsettlig eller uaktsom overtredelse av loven her eller vedtak gitt med hjemmel i loven med bot eller fengsel inntil 2 år. Dersom overtredelsen har tap av menneskeliv eller betydelig skade på legeme eller helse som følge, er straffen bot eller fengsel inntil 4 år.
+>
+> 166. I lov 12. januar 1995 nr. 6 om medisinsk utstyr skal § 12 første ledd lyde:
+>
+> Den som forsettlig eller uaktsomt overtrer bestemmelser eller pålegg gitt i eller i medhold av denne lov, straffes med bøter eller fengsel inntil 3 måneder, eller under særlig skjerpende omstendigheter med bøter eller fengsel inntil 2 år.
+>
+
 ### 2018-12-20 — lov/2018-12-20-115
 
 *§ 506 femte ledd skal lyde:*
@@ -1589,11 +2186,61 @@ refid: "lov/1994-06-24-39"
 > Flyttbare plattformer som er innført i et annet lands skipsregister, anses likevel som norske hvis de er bareboatregistrert i norsk skipsregister i henhold til § 40.
 >
 
+## § 8
+
+### 2011-12-16 — lov/2011-12-16-64
+
+*§ 8 første ledd første punktum skal lyde:*
+
+> For skip som innføres i skipsregisteret, velger eieren hjemstedet blant de byer og andre tettbebyggelser ved kysten som den myndighet departementet bestemmer har godkjent som hjemsteder.
+>
+
 ## § 91
+
+### 2007-02-27 — lov/2007-01-26-3
+
+*§ 91 første ledd skal lyde:*
+
+> Reglene her gjelder for arrest i skip etter tvisteloven kapittel 32 og 33. Reglene gjelder tilsvarende for midlertidig forføyning etter tvisteloven kapittel 32 og 34 når forføyningen går ut på tilbakehold av et skip.
+>
+
+### 2007-02-27 — lov/2007-01-26-3
+
+*§ 91 annet ledd annet punktum skal lyde:*
+
+> For disse tilfellene gjelder reglene i tvisteloven kapittel 32 til 34 fullt ut.
+>
 
 ### 2013-04-05 — lov/2013-04-05-11
 
 *§ 91 annet ledd bokstav c skal lyde:*
 
 > arrest som begjæres etter at det foreligger tvangsgrunnlag for kravet som nevnt i tvangsfullbyrdelsesloven § 4-1 annet ledd,
+>
+
+## § 95
+
+### 2007-02-27 — lov/2007-01-26-3
+
+*§ 95 annet ledd første punktum skal lyde:*
+
+> Et skip som er arrestert etter tvisteloven § 33-2 tredje ledd, må ikke forlate det sted det ligger før tvangssalg er holdt eller tvangsbruk iverksatt.
+>
+
+### 2007-02-27 — lov/2007-01-26-3
+
+*§ 95 tredje ledd skal lyde:*
+
+> For realregistrerte skip som er arrestert etter tvisteloven § 33-2 første ledd eller holdt tilbake etter tvisteloven kapittel 34, kan det gis pålegg som nevnt i annet ledd og for øvrig iverksettes tiltak som der bestemt dersom retten finner det nødvendig for å sikre arresten.
+>
+
+## § 98
+
+### 2007-02-27 — lov/2007-01-26-3
+
+*§ 98 overskriften og innledningen skal lyde:*
+
+> Forholdet til tvangsfullbyrdelsesloven og tvisteloven
+>
+> For øvrig gjelder reglene i tvangsfullbyrdelsesloven og tvisteloven sjuende del, herunder reglene om
 >

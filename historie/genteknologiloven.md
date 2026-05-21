@@ -7,9 +7,59 @@ refid: "lov/1993-04-02-38"
 
 ## (annet)
 
+### 2004-05-07 — lov/2004-05-07-22
+
+*Overskrifta til kapittel 2 skal lyde:*
+
+> Innesluttet bruk av genmodifiserte organismer
+>
+
+### 2004-05-07 — lov/2004-05-07-22
+
+*Overskrifta til kapittel 3 skal lyde:*
+
+> Utsetting av genmodifiserte organismer
+>
+
+### 2004-05-07 — lov/2004-05-07-22
+
+*Nytt kapittel 3 a med §§ 11 a til 11 c skal lyde:*
+
+> § 11 a.Forbud mot kloning av dyr
+>
+> Det er forbudt å klone virveldyr og krepsdyr.
+>
+> § 11 b.Dispensasjon
+>
+> Departementet eller den departementet utpeker, kan etter søknad gi dispensasjon fra forbudet i § 11 a for kloning i biologisk og medisinsk grunnforskning eller medisinsk virksomhet. For dispensasjon for kloning i medisinsk virksomhet er det et vilkår at formålet er å oppnå nye behandlingsmåter og forebyggende tiltak for mennesker og dyr, og at det er en balanse mellom dyreetiske hensyn og forventet nytte.
+>
+> Dispensasjonsadgangen omfatter ikke kloning av primater.
+>
+> Søknad om dispensasjon skal inneholde en avveining mellom nytteverdi og de belastninger dyret utsettes for, herunder hensynet til dyrets integritet, instinkter og trivsel. Den som søker om å framstille klonede dyr, skal utrede de alternative metoder som eksisterer og redegjøre for disse i søknaden.
+>
+> Kongen kan gi forskrift om det nærmere innhold i søknad om dispensasjon.
+>
+> § 11 c.Krav til virksomheten
+>
+> Det skal føres protokoll over virksomhet som drives i medhold av tillatelse etter § 11 b første ledd. Myndighetene kan kreve utlevert opplysninger om kloning i medhold av tillatelse etter § 11 b første ledd til bruk i offentlige registre om kloningsvirksomhet.
+>
+> Lokalitetene som benyttes til kloning i medhold av tillatelse etter § 11 b første ledd skal være egnet til formålet og utstyrt og innredet for de funksjoner som skal utføres.
+>
+> Kongen kan i forskrift fastsette nærmere krav til virksomheten, krav til innholdet i plikten til å føre protokoll og krav til opplysninger til bruk i myndighetenes registrering av kloning av dyr.
+>
+
 ### 2014-05-09 — lov/2014-05-09-15
 
 *Kapittel 5 overskriften skal lyde:*
+
+## § 1
+
+### 2004-05-07 — lov/2004-05-07-22
+
+*§ 1 første ledd skal lyde:*
+
+> Denne loven har til formål å sikre at framstilling og bruk av genmodifiserte organismer og framstilling av klonede dyr skjer på en etisk og samfunnsmessig forsvarlig måte, i samsvar med prinsippet om bærekraftig utvikling og uten helse- og miljømessige skadevirkninger.
+>
 
 ## § 10
 
@@ -72,7 +122,70 @@ refid: "lov/1993-04-02-38"
 > Tredje ledd andre punktum gjelder ikke risikovurderinger eller opplysninger som inngår i konklusjonene til relevante vitenskapelige utvalg eller i konklusjonene i vurderingsrapportene, og som gjelder påregnelige virkninger for menneskers helse, dyrehelse eller miljøet. Tredje ledd andre punktum gjelder heller ikke dersom hastetiltak er nødvendige for å beskytte menneskers eller dyrs helse eller miljøet, for eksempel i nødssituasjoner. Departementet kan gi forskrift om at også andre opplysninger kan unntas fra innsyn i saker om utsetting.
 >
 
+## § 14
+
+### 2004-05-07 — lov/2004-05-07-22
+
+*§ 14 skal lyde:*
+
+> § 14.Merkeplikt
+>
+> Kongen kan gi forskrift om merking av produkter som består av eller inneholder genmodifiserte organismer eller produkter fra klonede dyr.
+>
+
+## § 15
+
+### 2004-05-07 — lov/2004-05-07-22
+
+*§ 15 første punktum skal lyde:*
+
+> I en godkjenning etter §§ 6 annet ledd, 7 eller 10, eller i en dispensasjon etter § 11 b, kan det fastsettes vilkår.
+>
+
+## § 18
+
+### 2004-05-07 — lov/2004-05-07-22
+
+*§ 18 første punktum skal lyde:*
+
+> Tilsynsmyndigheten har adgang til inspeksjon av ethvert sted der det foregår virksomhet som er omfattet av denne lov.
+>
+
+## § 19
+
+### 2004-05-07 — lov/2004-05-07-22
+
+*§ 19 første ledd første punktum skal lyde:*
+
+> Enhver som driver virksomhet som omfattes av denne lov, plikter etter pålegg fra tilsynsmyndigheten og uten hinder av taushetsplikt, å gi de opplysninger som er nødvendig for at tilsynsmyndigheten kan gjennomføre sine oppgaver etter loven.
+>
+
 ## § 2
+
+### 2004-05-07 — lov/2004-05-07-22
+
+*§ 2 første ledd andre punktum skal lyde:*
+
+> Loven gjelder også framstilling av klonede virveldyr og krepsdyr.
+>
+
+### 2004-05-07 — lov/2004-05-07-22
+
+*§ 2 første ledd noverande andre punktum blir nytt tredje punktum.*
+
+### 2004-05-07 — lov/2004-05-07-22
+
+*§ 2 nytt tredje ledd skal lyde:*
+
+> Med mindre hensikten er å fremstille et klonet individ, gjelder loven ikke for kloning av gener, celler og vev.
+>
+
+### 2004-05-07 — lov/2004-05-07-22
+
+*§ 2 nytt fjerde ledd skal lyde:*
+
+> Loven gjelder ikke for framstilling av ikke-genmodifiserte klonede dyr som også kan forekomme som resultat av naturlige biologiske prosesser.
+>
 
 ### 2025-06-20 — lov/2025-06-20-89
 
@@ -125,6 +238,15 @@ refid: "lov/1993-04-02-38"
 >
 
 ## § 4
+
+### 2004-05-07 — lov/2004-05-07-22
+
+*§ 4 skal lyde:*
+
+> Definisjoner
+>
+> I denne lov menes med:mikroorganismer: enhver cellulær eller ikke-cellulær mikrobiologisk enhet som er i stand til å formere seg eller til å overføre genetisk materialegenmodifiserte organismer: mikroorganismer, planter og dyr hvor den genetiske sammensetning er endret ved bruk av gen- eller celleteknologigenteknologi: teknikker som innebærer at arvestoff isoleres, karakteriseres, modifiseres og insettes i levende celler eller viruscelleteknologi: teknikker for framstilling av levende celler med nye kombinasjoner av genetisk materiale ved fusjon av to eller flere cellerklonet dyr: et dyr som har likt eller tilnærmet likt arvemateriale som et annet dyrkloning av dyr: enhver teknikk for framstilling av dyr med likt eller tilnærmet likt arvemateriale.
+>
 
 ### 2025-06-20 — lov/2025-06-20-89
 

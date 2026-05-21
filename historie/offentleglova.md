@@ -7,6 +7,13 @@ refid: "lov/2006-05-19-16"
 
 ## (annet)
 
+### 2021-06-11 — lov/2021-06-11-76
+
+*Lov 19. mai 2006 nr. 16 om rett til innsyn i dokument i offentleg verksemd § 19 første punktum skal lyde:*
+
+> Det kan gjerast unntak frå innsyn for dokument som blir utveksla mellom statlege organ og Sametinget og andre som ledd i konsultasjonar etter reglane i sameloven kapittel 4.
+>
+
 ### 2021-06-18 — lov/2021-06-18-124
 
 *Nåværende § 5 tredje ledd blir nytt fjerde ledd.*

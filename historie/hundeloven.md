@@ -5,6 +5,12 @@ refid: "lov/2003-07-04-74"
 
 # Endringshistorikk: Hundeloven – hul
 
+## § 12-4
+
+### 2009-06-19 — lov/2009-06-19-74
+
+*§ 12-4 tredje ledd oppheves.*
+
 ## (annet)
 
 ### 2022-06-17 — lov/2022-06-17-69
@@ -326,6 +332,15 @@ refid: "lov/2003-07-04-74"
 > Er det tvil om en hund går inn under første ledd bokstav c, kan politiet ta hunden i forvaring og kreve at hundeholderen bekoster og medvirker ved en kyndig undersøkelse av hundens adferd for å avklare om den er vel avbalansert eller har en lav terskel for aggresjon eller andre farlige egenskaper mv.
 >
 
+## § 2
+
+### 2009-06-19 — lov/2009-06-19-74
+
+*§ 2 bokstav d skal lyde:*
+
+> vesentlig skade på person: skader som anses som legemsbeskadigelse etter straffeloven § 273.
+>
+
 ## § 20
 
 ### 2023-06-16 — lov/2023-06-16-66
@@ -335,6 +350,15 @@ refid: "lov/2003-07-04-74"
 > Kongen kan fastsette forskrift om unntak fra forbudet i § 19 første ledd bokstav a og vilkår for slike unntak.
 >
 
+## § 22
+
+### 2009-06-19 — lov/2009-06-19-74
+
+*§ 22 tredje ledd skal lyde:*
+
+> En person som dømmes til straff av fengsel for et lovbrudd som innbefatter bruk av vold eller truende atferd, kan ved dommen forbys å ha med hunder å gjøre. Forbud skal bli satt dersom en hund er brukt til lovbruddet.
+>
+
 ## § 25
 
 ### 2013-04-05 — lov/2013-04-05-12
@@ -342,6 +366,17 @@ refid: "lov/2003-07-04-74"
 *§ 25 tredje ledd annet punktum skal lyde:*
 
 > Den skal foregå etter reglene i lov om dyrevelferd.
+>
+
+## § 28
+
+### 2009-06-19 — lov/2009-06-19-74
+
+*§ 28 tredje ledd siste punktum skal lyde:*
+
+> På samme måte straffes forsøk.
+>
+> 238. I lov 4. juli 2003 nr. 83 om elektronisk kommunikasjon (ekomloven) gjøres følgende endring:
 >
 
 ## § 29

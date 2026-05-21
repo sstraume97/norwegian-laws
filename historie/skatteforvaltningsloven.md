@@ -183,6 +183,15 @@ refid: "lov/2016-05-27-14"
 > Taushetsplikten etter § 3-1 er ikke til hinder for at opplysninger gis til avdødes ektefelle og arving som definert i skifteloven § 124 første og annet ledd, når vedkommende kan vise til et saklig behov for innsyn. Når skifteformen er valgt, er det den eller de som representerer boet, som har rett til innsyn.
 >
 
+### 2020-12-18 — lov/2020-12-18-149
+
+*§ 3-10 skal lyde:*
+
+> § 3-10.Utlevering av opplysninger til avdødes ektefelle, samboer og arving
+>
+> Taushetsplikten etter § 3-1 er ikke til hinder for at opplysninger gis til avdødes ektefelle, samboer og arving, jf. arveloven § 2 første og tredje ledd, når vedkommende kan vise til et saklig behov for innsyn, eller til den som har fullmakt som nevnt i arveloven § 92 første eller annet ledd. Når skifteformen er valgt, er det den eller de som representerer boet, jf. arveloven §§ 118 og 134, som har rett til innsyn.
+>
+
 ## § 3-11
 
 ### 2018-12-20 — lov/2018-12-20-110
@@ -924,6 +933,17 @@ refid: "lov/2016-05-27-14"
 *§ 9-7 tredje ledd skal lyde:*
 
 > (3) Skattelisten skal ikke inneholde opplysninger om avdøde personer, opplysninger om personer som er 17 år eller yngre ved skattleggingsperiodens utgang, opplysninger om personer med adresse som er sperret i henhold til bestemmelsene gitt i eller i medhold av folkeregisterloven, opplysninger om personer uten fast bopel og opplysninger om personer der opplysningene som inngår i skattelisten kan røpe et klientforhold. Tillegg i alminnelig inntekt etter skatteloven § 10-42 skal ikke medtas i nettoinntekten i skattelisten. Oppjustering av alminnelig inntekt etter skatteloven §§ 10-11, 10-31, 10-42 og 10-44 skal ikke medtas i nettoinntekten i skattelisten.
+>
+
+## § 10-3
+
+### 2020-12-18 — lov/2020-12-18-149
+
+*§ 10-3 skal lyde:*
+
+> § 10-3.Kontrollopplysninger ved skifte av dødsbo
+>
+> Utstedes det proklama ved skifte av dødsbo, plikter arving, tingrettsdommer, testamentsfullbyrder og andre som yter hjelp ved skifteoppgjøret, etter krav fra skattemyndighetene å gi opplysninger som er nødvendige for å avgjøre om boet skylder skatt.
 >
 
 ## § 10-5

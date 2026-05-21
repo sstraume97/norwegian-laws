@@ -27,6 +27,13 @@ refid: "lov/1935-06-07-2"
 > Registerføreren kan delegere sin myndighet til andre tjenestemenn etter nærmere bestemmelser gitt av departementet.
 >
 
+### 2005-06-17 — lov/2005-06-17-94
+
+*§ 1 første ledd skal lyde:*
+
+> Tinglysing av dokumenter som gjelder fast eiendom, hører under en eller flere registerførere under Statens kartverk i den utstrekning det er bestemt av departementet, og ellers under tingretten. Registrering av dokumenter som gjelder andeler i borettslag etter burettslagslova kapittel 6, hører under en eller flere registerførere under Statens kartverk. En registerfører som nevnt i første og annet punktum, må ha juridisk embetseksamen eller tilsvarende. Er tingrettens forretninger delt mellom flere embetsmenn, kan departementet bestemme hvem som skal være registerfører.
+>
+
 ### 2017-03-31 — lov/2017-03-31-14
 
 *§ 1 første ledd skal lyde:*
@@ -34,7 +41,34 @@ refid: "lov/1935-06-07-2"
 > Tinglysing av dokumenter som gjelder fast eiendom, hører under en eller flere registerførere under Statens kartverk. Registrering av dokumenter som gjelder andeler i borettslag etter burettslagslova kapittel 6, hører under en eller flere registerførere under Statens kartverk. En registerfører som nevnt i første og annet punktum, må ha juridisk embetseksamen eller tilsvarende.
 >
 
+## § 10
+
+### 2007-02-27 — lov/2007-01-26-3
+
+*§ 10 første ledd første punktum skal lyde:*
+
+> For den som har fått underretning etter § 9, er fristen for å anke en måned fra den dag da underretningen ble sendt.
+>
+
+### 2007-02-27 — lov/2007-01-26-3
+
+*§ 10 annet og tredje ledd skal lyde:*
+
+> Om oversitting av ankefristen gjelder forvaltningsloven § 31 tilsvarende, jf. likevel §§ 10 a og 10 b.
+>
+> Registerføreren skal tilrettelegge saken for ankedomstolen og gi slik redegjørelse for saken som er nødvendig for ankedomstolen.
+>
+
 ## § 10 a
+
+### 2007-02-27 — lov/2007-01-26-3
+
+*§ 10 a skal lyde:*
+
+> Erklæres anke over at et dokument er nektet tinglyst etter utløpet av fristen etter § 10 første ledd første punktum eller i tilfelle tredje punktum, kan anken ikke tas til følge dersom dette kan medføre tap for noen som i god tro har fått dagbokført et dokument etter at det dokument som ble nektet tinglyst, var innført i dagboken.
+>
+> Er det senere dagbokførte dokument en pantobligasjon som følger reglene for omsetningsgjeldsbrev, kan en anke heller ikke tas til følge dersom dette kan medføre tap for noen som i god tro har ervervet obligasjonen etter utløpet av fristen i § 10 første ledd første punktum. Innehaveren av en slik pantobligasjon som er dagbokført etter det dokument som anken gjelder, plikter etter pålegg av registerføreren å innlevere obligasjonen til påtegning om anken eller til oppbevaring under saken. Registerføreren kan nedlegge forbud mot at innehaveren avhender obligasjonen før påtegning er gitt eller anken er endelig avgjort. Anken kan ikke tas til følge uten at obligasjonen er gitt påtegning eller oppbevares hos registerføreren eller på annen betryggende måte.
+>
 
 ### 2014-06-20 — lov/2014-06-20-45
 
@@ -48,6 +82,25 @@ refid: "lov/1935-06-07-2"
 *§ 10 a annet ledd første og annet punktum skal lyde:*
 
 > Er det senere registrerte dokument en pantobligasjon som følger reglene for omsetningsgjeldsbrev, kan en anke heller ikke tas til følge dersom dette kan medføre tap for noen som i god tro har ervervet obligasjonen etter utløpet av fristen i § 10 første ledd første punktum. Innehaveren av en slik pantobligasjon som er registrert etter det dokument som anken gjelder, plikter etter pålegg av registerføreren å innlevere obligasjonen til påtegning om anken eller til oppbevaring under saken.
+>
+
+## § 10 b
+
+### 2007-02-27 — lov/2007-01-26-3
+
+*§ 10 b skal lyde:*
+
+> Anke over at en pantobligasjon som følger reglene for omsetningsgjeldsbrev, er blitt tinglyst, kan ikke tas til følge dersom obligasjonen etter utløpet av fristen i § 10 første ledd første punktum er ervervet av noen i god tro.
+>
+> Innehaveren av obligasjonen plikter etter pålegg av registerføreren å innlevere den til påtegning om anken eller til oppbevaring under saken. § 10 a annet ledd tredje og fjerde punktum gjelder tilsvarende.
+>
+> 21. I lov 13. desember 1946 nr. 21 om krigspensjonering for militærpersoner skal § 30 nr. 2 lyde:
+>
+> 2. Rikstrygdeverket kan, når det finnes nødvendig for avgjørelsen av en sak etter denne lov la innhente forklaringer gjennom bevissikring etter reglene i tvisteloven § 28-3 tredje ledd og § 28-4 eller ved politiet. Krav om bevissikring fremmes for den tingrett hvor de som skal avhøres, bor eller oppholder seg eller realbevis skal undersøkes.
+>
+> 22. I lov 13. desember 1946 nr. 22 om krigspensjonering for hjemmestyrkepersonell og sivilpersoner skal § 39 nr. 2 lyde:
+>
+> 2. Rikstrygdeverket kan, når det finnes nødvendig for avgjørelsen av en sak etter denne lov la innhente forklaringer gjennom bevissikring etter reglene i tvisteloven § 28-3 tredje ledd og § 28-4 eller ved politiet. Krav om bevissikring fremmes for den tingrett hvor de som skal avhøres, bor eller oppholder seg eller realbevis skal undersøkes.
 >
 
 ## § 11
@@ -279,6 +332,17 @@ refid: "lov/1935-06-07-2"
 > For å avbryte fristen i første ledd må den nye tinglysingen inneholde en uttrykkelig gjentagelse av den opprinnelige rettsstiftelsen. Som uttrykkelig gjentagelse av rettsstiftelsen regnes forhøyelse av beløpet i et pantedokument.
 >
 
+## § 3
+
+### 2007-02-27 — lov/2007-01-26-3
+
+*§ 3 skal lyde:*
+
+> Avgjørelser av registerføreren kan ankes av enhver som har rettslig interesse.
+>
+> For anke etter første ledd gjelder reglene i tvisteloven og domstolloven dersom ikke annet følger av § 10. Anken hører under lagmannsretten i det lagdømme der registerføreren har sete, og behandles etter reglene om anke over kjennelser og beslutninger. Reglene i tvisteloven § 29-3 om begrensninger i ankegrunnene gjelder ikke.
+>
+
 ## § 32
 
 ### 2017-03-31 — lov/2017-03-31-14
@@ -466,6 +530,13 @@ refid: "lov/1935-06-07-2"
 >
 
 ## § 9
+
+### 2007-02-27 — lov/2007-01-26-3
+
+*§ 9 første ledd annet punktum skal lyde:*
+
+> Den som har forlangt tinglysingen, skal straks i rekommandert brev underrettes om nektelsen og grunnen til den samt om adgangen til anke og fristen for det.
+>
 
 ### 2014-06-20 — lov/2014-06-20-45
 

@@ -5,37 +5,7 @@ refid: "lov/1996-11-29-68"
 
 # Endringshistorikk: Svalbardskatteloven – svalbsktl
 
-## § 1-1
-
-### 2006-12-15 — lov/2006-12-15-85
-
-*§ 1-1 annet ledd bokstav a skal lyde:*
-
-> skatt på formue og inntekt og tonnasjeskatt etter skatteloven (formues- og inntektsskatt), skatt på formue og inntekt etter lov 29. november 1996 nr. 68 om skatt til Svalbard (svalbardskatt) og trygdeavgift etter folketrygdloven kapittel 23, herunder forskuddstrekk, forskuddsskatt og restskatt etter kapitlene 5 til 7 i loven her, samt krav på skatt fastsatt ved summarisk fellesoppgjør etter ligningsloven § 9-5 nr. 8
->
-
-### 2006-12-15 — lov/2006-12-15-85
-
-*§ 1-1 annet ledd bokstav d skal lyde:*
-
-> arbeidsgiveravgift etter folketrygdloven kapittel 23, herunder krav fastsatt ved summarisk fellesoppgjør etter ligningsloven § 9-5 nr. 8
->
-
-### 2006-12-15 — lov/2006-12-15-85
-
-*§ 1-1 tredje ledd bokstav c skal lyde:*
-
-> tvangsmulkt etter § 5-16, lov 19. juni 1964 nr. 14 om avgift på arv og visse gaver § 43, lov 19. juni 1969 nr. 66 om merverdiavgift § 52 og ligningsloven § 10-6
->
-
 ## § 1-3
-
-### 2006-12-15 — lov/2006-12-15-85
-
-*§ 1-3 nytt annet ledd skal lyde:*
-
-> (2) Første ledd gjelder tilsvarende når kravet rettes mot panthaver eller den som har fått seg overdratt fordringen. Kravet kan også rettes mot skattyter etter reglene i første ledd.
->
 
 ### 2024-06-25 — lov/2024-06-25-63
 
@@ -81,13 +51,6 @@ refid: "lov/1996-11-29-68"
 >
 
 ## § 2-2
-
-### 2006-12-15 — lov/2006-12-15-85
-
-*§ 2-2 annet ledd første punktum skal lyde:*
-
-> (2) Arveavgift skal betales til og innkreves av skattefogdkontoret for det fylket hvor kravet er fastsatt.
->
 
 ### 2010-12-10 — lov/2010-12-10-64
 
@@ -137,6 +100,27 @@ refid: "lov/1996-11-29-68"
 
 ## § 3-1
 
+### 2005-12-09 — lov/2005-12-09-110
+
+*§ 3-1 annet ledd skal lyde:*
+
+> I skatteloven unntas fra anvendelse bestemmelsene om vilkår for skatteplikt til riket, om fordeling av beskatningsretten mellom kommuner, om sambeskatning av ektefeller, om minstefradrag og særfradrag, om skipsaksjeselskaper og om skipsallmennaksjeselskaper. Videre unntas §§ 2-30 til 2-32 fjerde ledd, § 6-13 første ledd, §§ 6-18 til 6-20, §§ 6-42 til 6-44, §§ 6-47 til 6-49, § 6-61, § 10-12, § 10-31 første ledd annet punktum, reglene i § 10-34 gjelder bare i forhold til endring av aksjens kostpris, § 10-42 femte til tiende ledd, § 10-44 annet ledd annet punktum, § 16-10, samt kapittel 15 og 17. Ved anvendelsen av bestemmelsene om gjelds- og gjeldsrentefordeling i skatteloven §§ 4-31 og 6-91 likestilles unntak fra skattlegging på Svalbard etter denne lov med unntak fra skattlegging i Norge etter overenskomst med fremmed stat.
+>
+
+### 2007-12-14 — lov/2007-12-14-104
+
+*§ 3-1 annet ledd første punktum skal lyde:*
+
+> I skatteloven unntas fra anvendelse bestemmelsene om vilkår for skatteplikt til riket, om fordeling av beskatningsretten mellom kommuner, om sambeskatning av ektefeller, om minstefradrag og særfradrag, om skipsaksjeselskaper og skipsallmennaksjeselskaper og om beregning av personinntekt.
+>
+
+### 2007-12-14 — lov/2007-12-14-104
+
+*§ 3-1 nytt fjerde ledd skal lyde:*
+
+> For enkeltpersonforetak mv. gjelder følgende:Ved fastsettelsen av alminnelig inntekt fra enkeltpersonforetak gis det fradrag for renter på gjeld til finansinstitusjoner og gjeld som knytter seg til mengdegjeldsbrev. Fradrag gis i den utstrekning gjelden ikke overstiger verdien av eiendelene i virksomheten. Ved fastsettelsen av verdien av eiendelene i virksomheten, gjelder skatteloven § 12-12 annet ledd tilsvarende, med unntak av § 12-12 annet ledd bokstav c.Skatt av alminnelig inntekt fra enkeltpersonforetak beregnes med en prosentvis fastsatt del av denne inntekten og med samme satser som er fastsatt for lønnsinntekt, jf. § 3-2. Slik inntekt inngår ikke ved fastsettelsen av ordinær alminnelig inntekt. Særskilt godtgjørelse etter selskapsloven § 2-26 første ledd skattlegges på tilsvarende måte.Underskudd i enkeltpersonforetak fremføres til fradrag i senere års inntekt fra enkeltpersonforetak. Når det ved opphør av virksomhet i enkeltpersonforetak er udekket underskudd, kan slikt underskudd kreves avregnet mot alminnelig inntekt ved bruk av en avregningsfaktor på 0,5.
+>
+
 ### 2010-12-10 — lov/2010-12-10-64
 
 *§ 3-1 annet ledd annet punktum skal lyde:*
@@ -159,6 +143,15 @@ refid: "lov/1996-11-29-68"
 >
 
 ## § 3-2
+
+### 2007-12-14 — lov/2007-12-14-104
+
+*§ 3-2 skal lyde:*
+
+> Skattlegging ved lønnstrekk
+>
+> Skatt av lønn, pensjoner og annen ytelse som nevnt i skatteloven § 12-2 bokstavene a, b og c beregnes med en prosentvis fastsatt del av ytelsens bruttoverdi, jf. § 5-2. Skatten beregnes med en lav sats for inntekt opp til 12 ganger folketrygdens grunnbeløp, og med en høyere sats for overskytende inntekt. I det samlede inntektsgrunnlaget etter forrige punktum inngår også inntekt som nevnt i § 3-1 fjerde ledd bokstav b. Det benyttes det grunnbeløp som sist ble fastsatt for inntektsåret.
+>
 
 ### 2010-12-10 — lov/2010-12-10-64
 
@@ -192,16 +185,18 @@ refid: "lov/1996-11-29-68"
 > § 3-3.Fribeløp for ungdom
 >
 
-## § 4-1
-
-### 2006-12-15 — lov/2006-12-15-85
-
-*§ 4-1 første ledd bokstav c skal lyde:*
-
-> arbeidsgiver: Den som selv eller ved fullmektig utbetaler lønn eller annen godtgjørelse eller ytelse som det skal foretas forskuddstrekk eller utleggstrekk i.
->
-
 ## § 4-2
+
+### 2007-12-14 — lov/2007-12-14-104
+
+*§ 4-2 skal lyde:*
+
+> § 4-2.Ligningsmyndigheter
+>
+> Ligningsloven kapittel 2 gjelder tilsvarende med mindre annet er særskilt bestemt eller følger av denne lov.
+>
+> Departementet kan fastsette nærmere regler om organiseringen av ligningsforvaltningen for Svalbard, herunder gi forskrift om oppnevning, sammensetning og organisering av en særskilt skatteklagenemnd.
+>
 
 ### 2014-12-19 — lov/2014-12-19-78
 
@@ -219,6 +214,20 @@ refid: "lov/1996-11-29-68"
 > I ligningsloven unntas fra anvendelse kapittel 5 om regnskapsplikt, § 8-5 om særskilt avgjørelsesmyndighet samt § 8-6 om stedet for ligning.
 >
 
+### 2005-06-17 — lov/2005-06-17-72
+
+*§ 4-3 første ledd første punktum skal lyde:*
+
+> Ved gjennomføring av ligning mv. gjelder ligningsloven kapittel 3 til 12 med mindre annet er særskilt bestemt eller følger av denne lov.
+>
+
+### 2007-12-14 — lov/2007-12-14-104
+
+*§ 4-3 første ledd skal lyde:*
+
+> Ved gjennomføring av ligning mv. gjelder ligningsloven kapittel 3 til 12 med mindre annet er særskilt bestemt eller følger av denne lov. I ligningsloven unntas fra anvendelse kapittel 5 om regnskapsplikt og § 8-5 om særskilt avgjørelsesmyndighet.
+>
+
 ### 2013-04-26 — lov/2013-04-26-16
 
 *§ 4-3 første ledd skal lyde:*
@@ -227,6 +236,22 @@ refid: "lov/1996-11-29-68"
 >
 
 ## § 4-4
+
+### 2007-12-14 — lov/2007-12-14-104
+
+*§ 4-4 første og annet ledd skal lyde:*
+
+> Selvangivelse skal leveres av personer og selskaper som er skattepliktige til Svalbard for formue eller inntekt som nevnt i § 3-1. Skattekontoret kan pålegge andre å levere selvangivelse.
+>
+> Selvangivelse med vedlegg leveres til skattekontoret innen utgangen av februar året etter inntektsåret. For den som skattekontoret pålegger å levere selvangivelse, kan en senere frist fastsettes.
+>
+
+### 2009-01-01 — lov/2008-12-12-95
+
+*§ 4-4 annet ledd første punktum skal lyde:*
+
+> Selvangivelse med vedlegg leveres til skattekontoret innen utgangen av april i året etter inntektsåret.
+>
 
 ### 2010-12-10 — lov/2010-12-10-64
 
@@ -242,6 +267,13 @@ refid: "lov/1996-11-29-68"
 >
 
 ## § 4-5
+
+### 2007-12-14 — lov/2007-12-14-104
+
+*§ 4-5 første ledd skal lyde:*
+
+> Lønnsoppgave leveres til skattekontoret innen utgangen av januar året etter inntektsåret. Andre kontrollopplysninger og ligningsoppgaver som nevnt i ligningsloven kapittel 6 leveres til skattekontoret innen utgangen av februar året etter inntektsåret.
+>
 
 ### 2013-04-26 — lov/2013-04-26-16
 
@@ -263,12 +295,32 @@ refid: "lov/1996-11-29-68"
 
 ## § 4-6
 
+### 2007-12-14 — lov/2007-12-14-104
+
+*§ 4-6 annet ledd skal lyde:*
+
+> Skattekontoret kan fravike opplysningene i lønnsoppgaven når det er grunn til å anta at de er uriktige. Før opplysningene fravikes, skal arbeidsgiver og arbeidstaker gis en passende frist for uttalelse.
+>
+
+### 2007-12-14 — lov/2007-12-14-104
+
+*§ 4-6 første ledd skal lyde:*
+
+> Skattekontoret foretar kontroll av fastsatt lønnstrekk og beregner pensjonsgivende inntekt for kalenderåret. Når lønn og annen ytelse etter § 3-2 overstiger 12 ganger folketrygdens grunnbeløp, skal skattekontoret også beregne årets skatt og trygdeavgift. Fastsettelsen skjer etter skattekontorets skjønn når fristen for levering av lønnsoppgave er oversittet.
+>
+
 ### 2014-12-19 — lov/2014-12-19-78
 
 *§ 4-6 annet ledd skal lyde:*
 
 > Skattekontoret kan fravike de innrapporterte opplysningene når det er grunn til å anta at de er uriktige. Før opplysningene fravikes, skal arbeidsgiver og arbeidstaker gis en passende frist for uttalelse.
 >
+
+## § 4-7
+
+### 2007-12-14 — lov/2007-12-14-104
+
+*§ 4-7 første ledd oppheves. Nåværende annet ledd blir første ledd.*
 
 ## § 4-9
 
@@ -290,11 +342,11 @@ refid: "lov/1996-11-29-68"
 
 ## § 5-1
 
-### 2006-12-15 — lov/2006-12-15-85
+### 2007-12-14 — lov/2007-12-14-104
 
-*§ 5-1 tredje ledd skal lyde:*
+*§ 5-1 annet ledd skal lyde:*
 
-> (3) Trekktabeller og skjema for skattekort fastsettes av Skattedirektoratet. Departementet kan i forskrift gi nærmere regler til utfylling av denne paragrafen.
+> De funksjoner som etter skattebetalingsloven tilligger skatteoppkreveren i kommunen, skal tilligge skatteoppkreveren for Svalbard.
 >
 
 ### 2025-04-25 — lov/2025-04-25-12
@@ -308,11 +360,27 @@ refid: "lov/1996-11-29-68"
 
 ## § 5-2
 
-### 2006-12-15 — lov/2006-12-15-85
+### 2007-12-14 — lov/2007-12-14-104
 
-*§ 5-2 nytt fjerde ledd skal lyde:*
+*§ 5-2 første ledd skal lyde:*
 
-> (4) Departementet kan i forskrift gi nærmere regler til utfylling av denne paragrafen.
+> Ved utbetaling av lønn og annen godtgjørelse for arbeid skal arbeidsgiver gjøre fradrag i ytelsens verdi for skatt etter § 3-2. Arbeidsgiver trekker skatt med høy sats når samlet utbetaling fra arbeidsgiveren til den ansatte i inntektsåret overstiger 12 ganger folketrygdens grunnbeløp.
+>
+
+### 2007-12-14 — lov/2007-12-14-104
+
+*§ 5-2 annet ledd skal lyde:*
+
+> Ansatte som sannsynliggjør samlet inntekt over 12 ganger folketrygdens grunnbeløp fra flere arbeidsgivere i inntektsåret, kan kreve at det fastsettes forskuddsskatt etter bestemmelsene i skattebetalingsloven på dette grunnlag.
+>
+> § 5-2 nåværende annet til femte ledd blir tredje til sjette ledd.
+>
+
+### 2007-12-14 — lov/2007-12-14-104
+
+*§ 5-2 nytt syvende ledd skal lyde:*
+
+> Når samlet lønn og annen ytelse som omfattes av § 3-2 overstiger 12 ganger folketrygdens grunnbeløp, skjer avregning og innkreving mv. etter bestemmelsene i skattebetalingsloven, med de unntak og presiseringer som følger av § 5-1.
 >
 
 ### 2010-12-10 — lov/2010-12-10-64
@@ -361,32 +429,29 @@ refid: "lov/1996-11-29-68"
 
 ## § 5-3
 
-### 2006-12-15 — lov/2006-12-15-85
+### 2007-12-14 — lov/2007-12-14-104
 
-*§ 5-3 nytt tredje ledd skal lyde:*
+*§ 5-3 skal lyde:*
 
-> (3) Departementet kan i forskrift gi nærmere regler til utfylling av denne paragrafen.
+> § 5-3.Skatteoppkrever
 >
-
-## § 5-4
-
-### 2006-12-15 — lov/2006-12-15-85
-
-*§ 5-4 nytt fjerde ledd skal lyde:*
-
-> (4) Departementet kan i forskrift gi nærmere regler til utfylling av denne paragrafen.
->
-
-## § 5-7
-
-### 2006-12-15 — lov/2006-12-15-85
-
-*§ 5-7 første ledd bokstav b skal lyde:*
-
-> livrente, pensjon, vartpenger, introduksjonsstønad og supplerende stønad til person med kort botid i Norge for desember måned. Fritaket gjelder ikke beløp som først kan heves etter årets utgang.
+> Departementet bestemmer hvilke organer som skal være skatteoppkrever for Svalbard, og kan fastsette nærmere regler om organiseringen av skatteoppkrevingen.
 >
 
 ## § 6-3
+
+### 2006-12-15 — lov/2006-12-15-79
+
+*Ny § 6-3 skal lyde:*
+
+> Skattefradrag for inntektsårene 2006 og 2007
+>
+> Personer som innen utløpet av inntektsåret har vært skattemessig bosatt på Svalbard i minst 12 måneder, gis et skattefradrag på 7 200 kroner ved den endelige fastsettelsen av årets inntekts- og formuesskatt.
+>
+> Skattefradraget gis ikke med høyere beløp enn summen av inntekts- og formuesskatt.
+>
+> Denne paragraf gjelder ikke for ansatte i virksomheter som følger særskilt praksis med forenklet felles oppgjør for ansattes skatt.
+>
 
 ### 2010-12-10 — lov/2010-12-10-64
 
@@ -423,251 +488,11 @@ refid: "lov/1996-11-29-68"
 > Denne paragraf gjelder for ansatte som ikke er bosatt på Svalbard, og som er ansatt i stillinger som har gått inn under særskilt praksis for skatt til Svalbard for pendlere. Gjeldende praksis videreføres ut inntektsåret 2014, og avsluttes deretter. Følgende vilkår må være oppfylt for den enkelte ansatte:det første arbeidsoppholdet på Svalbard varer sammenhengende i 30 dager, ogpåfølgende arbeidsopphold er ledd i en turnusordning med regelmessige arbeidsopphold på Svalbard, ogvedkommende har ikke inntekt fra selvstendige arbeidsforhold utenfor Svalbard.
 >
 
-## § 6-5
-
-### 2006-12-15 — lov/2006-12-15-85
-
-*§ 6-5 første ledd skal lyde:*
-
-> (1) For upersonlige skattytere fastsettes forskuddsskatten lik den utlignede skatt ved siste ligning.
->
-
-### 2006-12-15 — lov/2006-12-15-85
-
-*§ 6-5 fjerde ledd skal lyde:*
-
-> (4) Ligningskontoret kan etter krav fra skattyteren frafalle forskuddsskatten, når det er overveiende sannsynlig at det ikke vil bli utlignet skatt for vedkommende inntektsår. Dersom det er overveiende sannsynlig at det vil oppstå et større avvik mellom utskrevet forskuddsskatt og utlignet skatt, kan ligningskontoret etter krav fra skattyter endre utskrivningen. Departementet kan i forskrift gi nærmere bestemmelser om hva som i denne sammenheng vil utgjøre et større avvik.
->
-
-## § 9-1
-
-### 2006-12-15 — lov/2006-12-15-85
-
-*§ 9-1 nytt annet ledd skal lyde:*
-
-> (2) Krav belastet dagsoppgjørsordningen skal betales kontant. Tollregionen kan bestemme at oppgjøret også kan skje ved elektronisk betaling via bank.
->
-
-## § 10-1
-
-### 2006-12-15 — lov/2006-12-15-85
-
-*§ 10-1 nytt tredje ledd skal lyde:*
-
-> (3) Annet ledd gjelder ikke utbetalinger etter petroleumsskatteloven § 3 bokstav c femte ledd. Retten til motregning går likevel foran rettigheter stiftet ved pantsettelse eller overdragelse.
->
-
-## § 10-30
-
-### 2006-12-15 — lov/2006-12-15-85
-
-*§ 10-30 skal lyde:*
-
-> § 10-30.Innenlands merverdiavgift
->
-> Innenlands merverdiavgift for en periode forfaller til betaling samme dag som det skal leveres omsetningsoppgave til avgiftsmyndighetene etter lov 19. juni 1969 nr. 66 om merverdiavgift §§ 31, 31a, 33 og 40.
->
-
-## § 10-41
-
-### 2006-12-15 — lov/2006-12-15-85
-
-*§ 10-41 første ledd skal lyde:*
-
-> (1) Toll og avgifter som oppstår ved innførsel, og som ikke belastes tollkreditten eller dagsoppgjørsordningen, jf. § 14-20, forfaller til betaling samtidig med at tollplikten oppstår.
->
-
-### 2006-12-15 — lov/2006-12-15-85
-
-*§ 10-41 nytt tredje ledd skal lyde:*
-
-> (3) Skatte- og avgiftskrav belastet dagsoppgjørsordningen forfaller til betaling første virkedag etter fortolling. Tollregionen kan fastsette en nærmere frist for når på forfallsdagen betaling må ha skjedd.
->
-
-## § 10-51
-
-### 2006-12-15 — lov/2006-12-15-85
-
-*§ 10-51 bokstav f skal lyde:*
-
-> tilleggsskatt etter ligningsloven § 10-2, tilleggsavgift etter lov 19. juni 1969 nr. 66 om merverdiavgift §§ 64 og 73, lov 19. juni 1964 nr. 14 om avgift på arv og visse gaver § 44, lov 19. mai 1933 nr. 11 om særavgifter § 3 og § 4 første ledd, lov 19. juni 1959 nr. 2 om avgifter vedrørende motorkjøretøyer og båter § 3, og tilleggstoll etter tolloven § 69
->
-
-### 2006-12-15 — lov/2006-12-15-85
-
-*§ 10-51 ny bokstav g skal lyde:*
-
-> tvangsmulkt etter lov 19. juni 1969 nr. 66 om merverdiavgift § 52
->
-
-## § 10-52
-
-### 2006-12-15 — lov/2006-12-15-85
-
-*§ 10-52 skal lyde:*
-
-> § 10-52.Ansvarskrav
->
-> Ansvarskrav etter kapittel 16, ansvarskrav etter § 4-1 annet ledd og ansvarskrav etter lov 13. desember 1996 nr. 87 om skatt på honorar til utenlandske artister m.v. § 8 fjerde ledd skal betales senest to uker etter at melding om kravet er sendt, jf. tvangsfullbyrdelsesloven § 4-18.
->
-
-## § 10-60
-
-### 2006-12-15 — lov/2006-12-15-85
-
-*§ 10-60 første ledd skal lyde:*
-
-> (1) Når det er betalt for mye skatt eller avgift, skal beløpet og renter etter § 11-4 tilbakebetales den skatte- eller avgiftspliktige så snart som mulig, og senest tre uker etter at vedtaket som medførte tilbakebetaling ble truffet, når ikke annet er bestemt i lov eller forskrift. Tilbakebetalingen skal også omfatte renter som er betalt av refusjonsbeløpet. Renter som er påløpt, men ikke betalt, bortfaller.
->
-
-## § 11-2
-
-### 2006-12-15 — lov/2006-12-15-85
-
-*§ 11-2 annet ledd skal lyde:*
-
-> (2) Renten er beregnet fra forfallstidspunktet for kravene etter §§ 10-1 til 10-41, fram til det treffes vedtak om endring mv, med de unntak som følger av tredje til syvende ledd.
->
-
-### 2006-12-15 — lov/2006-12-15-85
-
-*§ 11-2 nytt sjette ledd skal lyde:*
-
-> (6) Dersom arveavgift i medhold av § 10-31 fjerde ledd blir betalt senere enn den forfallstid som følger av § 10-31 første og annet ledd, skal det betales rente av avgiftsbeløpet for tiden fra ordinært forfall og fram til endelig avgiftsfastsettelse skjer.
->
-
-## § 11-5
-
-### 2006-12-15 — lov/2006-12-15-85
-
-*§ 11-5 første ledd første punktum skal lyde:*
-
-> Restskatt etter § 7-1 annet ledd tillegges rentetillegg.
->
-
-### 2006-12-15 — lov/2006-12-15-85
-
-*§ 11-5 annet ledd oppheves.*
-
-## § 14-2
-
-### 2006-12-15 — lov/2006-12-15-85
-
-*§ 14-2 skal lyde:*
-
-> § 14-2.Forholdet til tvangsfullbyrdelsesloven
->
-> Tvangsfullbyrdelsesloven gjelder tilsvarende så langt den passer ved innkrevingsmyndighetenes gjennomføring av utleggsforretninger. Dette gjelder likevel ikke §§ 5-1 til 5-5 og §§ 7-1 til 7-8.
->
-
-## § 14-5
-
-### 2006-12-15 — lov/2006-12-15-85
-
-*§ 14-5 annet ledd første punktum skal lyde:*
-
-> (2) Ved utleggstrekk nedlagt av skatteoppkreverne skal arbeidsgivere som har plikt til å ha skattetrekkskonto, følge de reglene som gjelder for oppgjør mv. for forskuddstrekk, jf. kapittel 5.
->
-
-### 2006-12-15 — lov/2006-12-15-85
-
-*§ 14-5 tredje ledd skal lyde:*
-
-> (3) Det beløpet som er trukket går ikke inn i arbeidsgiverens konkursbo, og er heller ikke gjenstand for utlegg eller andre tvangsforføyninger fra enkeltforfølgende fordringshaveres side.
->
-
-## § 14-11
-
-### 2006-12-15 — lov/2006-12-15-85
-
-*§ 14-11 fjerde ledd annet punktum skal lyde:*
-
-> Dette gjelder likevel ikke overfor personer som er ansvarlige for avgiften etter §§ 16-40 og 16-41.
->
-
-## § 16-20
-
-### 2006-12-15 — lov/2006-12-15-85
-
-*§ 16-20 tredje ledd skal lyde:*
-
-> (3) Felles ansvarskrav fra flere kommuner kan ved motregning, jf. § 16-1 annet ledd, motregnes i krav som arbeidsgiveren har på hver enkelt av skattekreditorene.
->
-
-## § 19-3
-
-### 2006-12-15 — lov/2006-12-15-85
-
-*§ 19-3 nr. 8 om endringer i lov 19. juni 1969 nr. 66 om merverdiavgift første avsnitt skal lyde:*
-
-> § 24 tredje ledd, § 27 annet ledd tredje punktum, §§ 34 til 38, § 52 tredje ledd, § 59 og § 59 a oppheves.
->
-
-### 2006-12-15 — lov/2006-12-15-85
-
-*§ 19-3 nr. 10 om endringer i lov 13. juni 1975 nr. 35 om skattlegging av undersjøiske petroleumsforekomster m.v. første avsnitt skal lyde:*
-
-> § 3 bokstav c nr. 5 femte til åttende punktum oppheves.
->
-
-### 2006-12-15 — lov/2006-12-15-85
-
-*§ 19-3 nr. 15 om endringer i lov 28. februar 1997 nr. 19 om folketrygd (folketrygdloven) nytt første avsnitt skal lyde:*
-
-### 2006-12-15 — lov/2006-12-15-85
-
-*§ 19-3 nr. 15 nytt tredje avsnitt skal lyde:*
-
-## § 24-1
-
-### 2006-12-15 — lov/2006-12-15-85
-
-*§ 24-1 femte ledd skal lyde:*
-
-> Når ligningen er avsluttet, beregner Skattedirektoratet tilskott fra kommunen og fylkeskommunen, se skattebetalingsloven § 8-2 første og femte ledd.
->
-
-## § 24-3
-
-### 2006-12-15 — lov/2006-12-15-85
-
-*§ 24-3 tredje ledd skal lyde:*
-
-> Når det foreligger forhold som nevnt i skattebetalingsloven § 4-1 annet ledd, hviler pliktene etter paragrafen her på den som har plikt til å foreta forkottstrekk.
->
-
 ## (annet)
 
-### 2006-12-15 — lov/2006-12-15-85
+### 2007-12-14 — lov/2007-12-14-104
 
-*Nåværende § 9-1 annet ledd blir nytt tredje ledd.*
-
-### 2006-12-15 — lov/2006-12-15-85
-
-*Overskriften i § 11-2 skal lyde:*
-
-> § 11-2.Renter ved vedtak om endring, arveavgift betalt etter forfall mv.
->
-
-### 2006-12-15 — lov/2006-12-15-85
-
-*Nåværende § 11-2 sjette ledd blir nytt syvende ledd.*
-
-### 2006-12-15 — lov/2006-12-15-85
-
-*Nåværende § 11-5 første ledd tredje punktum blir nytt annet ledd.*
-
-### 2006-12-15 — lov/2006-12-15-85
-
-*Nåværende § 19-3 nr. 10 første til fjerde avsnitt blir annet til femte avsnitt.*
-
-### 2006-12-15 — lov/2006-12-15-85
-
-*Nåværende § 19-3 nr. 15 første avsnitt blir annet avsnitt.*
-
-### 2006-12-15 — lov/2006-12-15-85
-
-*Nåværende § 19-3 nr. 15 annet til sjette avsnitt blir fjerde til åttende avsnitt.*
+*Nåværende sjette og syvende ledd blir åttende og niende ledd.*
 
 ### 2010-12-10 — lov/2010-12-10-64
 

@@ -1786,6 +1786,13 @@ refid: "lov/1998-07-17-56"
 > Departementet kan ved forskrift bestemme at forvaltningsorgan skal gi opplysninger til Regnskapsregisteret som er egnet til å fastslå regnskapsplikt etter § 1-2 første ledd nr. 4, 7, 9 eller 11 og annet til fjerde ledd. Forskriftene kan fastsette at opplysningene skal gis uten hinder av taushetsplikt.
 >
 
+### 2009-01-01 — lov/2008-12-12-98
+
+*§ 9-3 første punktum skal lyde:*
+
+> Departementet kan ved forskrift bestemme at forvaltningsorgan skal gi opplysninger til Regnskapsregisteret som er egnet til å fastslå regnskapsplikt etter § 1-2 første til fjerde ledd.
+>
+
 ## § 10-1
 
 ### 2005-06-10 — lov/2005-06-10-46

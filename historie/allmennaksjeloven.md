@@ -56,6 +56,17 @@ refid: "lov/1997-06-13-45"
 > (2) Følgende regler om datterselskap gjelder også for datterselskap med utenlandsk morselskap: § 3-8, § 4-25, § 6-16 første ledd, § 6-16 a første ledd tredje punktum nr 3, § 8-7 første og annet ledd, §§ 8-8 til 8-10, § 9-1 første ledd og § 9-8. Reglene i §§ 4-25 og 6-16 gjelder ikke for utenlandsk datterselskap.
 >
 
+### 2021-06-18 — lov/2021-06-18-137
+
+*§ 1-4 skal lyde:*
+
+> § 1-4.Selskaper som er likestilt med konsernselskaper
+>
+> (1) Følgende regler om morselskap gjelder også når morselskapet er aksjeselskap: § 3-8, § 6-5, § 6-16 første ledd, § 6-35 femte ledd, § 8-5, §§ 8-7 til 8-10 og § 9-8.
+>
+> (2) Følgende regler om datterselskap gjelder også for datterselskap med utenlandsk morselskap: § 3-8, § 4-25, § 6-16 første ledd, § 8-7 første og tredje ledd, §§ 8-8 til 8-10, § 9-1 første ledd og § 9-8. Reglene i §§ 4-25 og 6-16 gjelder ikke for utenlandsk datterselskap.
+>
+
 ## § 1-5
 
 ### 2011-06-24 — lov/2011-06-24-33
@@ -80,6 +91,10 @@ refid: "lov/1997-06-13-45"
 
 > (3) Stiftelsesdokumentet skal oppbevares i hele selskapets levetid.
 >
+
+### 2021-06-18 — lov/2021-06-18-122
+
+*§ 2-1 femte ledd annet punktum oppheves.*
 
 ## § 2-3
 
@@ -533,6 +548,24 @@ refid: "lov/1997-06-13-45"
 
 *§ 3-9 første ledd tredje punktum oppheves.*
 
+## § 3-11
+
+### 2021-06-18 — lov/2021-06-18-137
+
+*§ 3-11 tredje ledd første punktum skal lyde:*
+
+> Ved vurderingen av om en avtale er vesentlig etter første ledd skal avtaler som selskapet eller et annet foretak i samme konsern eller foretaksgruppe, jf. § 8-7 fjerde ledd nr. 3, har inngått med samme tilknyttet part i samme regnskapsår, regnes sammen.
+>
+
+## § 3-13
+
+### 2021-06-18 — lov/2021-06-18-137
+
+*§ 3-13 andre punktum skal lyde:*
+
+> Ved avstemningen kan stemmerett ikke utøves for aksjer som eies av den tilknyttede parten eller av et annet foretak i samme konsern eller foretaksgruppe, jf. § 8-7 fjerde ledd nr. 3, som den tilknyttede parten.
+>
+
 ## § 3-14
 
 ### 2025-06-20 — lov/2025-06-20-106
@@ -540,6 +573,24 @@ refid: "lov/1997-06-13-45"
 *§ 3-14 andre ledd nye andre og tredje punktum skal lyde:*
 
 > Det skal registreres i Foretaksregisteret at registeret har mottatt redegjørelsen, når redegjørelsen er datert, og hvem som er avtaleparter. Erklæringen skal registreres i Foretaksregisteret.
+>
+
+## § 3-16
+
+### 2021-06-18 — lov/2021-06-18-137
+
+*§ 3-16 nr. 6 skal lyde:*
+
+> avtale som omfattes av § 8-7 fjerde ledd første punktum nr. 2 og 3, jf. annet punktum, dersom morselskapet eller den juridiske personen eier samtlige aksjer i selskapet,
+>
+
+## § 3-19
+
+### 2021-06-18 — lov/2021-06-18-137
+
+*§ 3-19 tredje ledd første punktum skal lyde:*
+
+> Ved vurderingen av om en avtale er vesentlig etter annet ledd skal avtaler som datterselskapet eller et annet foretak i samme konsern eller foretaksgruppe, jf. § 8-7 fjerde ledd nr. 3, har inngått med samme tilknyttet part i samme regnskapsår, regnes sammen.
 >
 
 ## § 4-2
@@ -958,6 +1009,13 @@ refid: "lov/1997-06-13-45"
 >
 
 ## § 5-12
+
+### 2007-02-27 — lov/2007-01-26-3
+
+*§ 5-12 annet ledd tredje punktum skal lyde:*
+
+> Rettens avgjørelse kan ikke ankes.
+>
 
 ### 2021-05-28 — lov/2021-05-28-51
 
@@ -1628,6 +1686,20 @@ refid: "lov/1997-06-13-45"
 > (9) Departementet kan ved forskrift eller enkeltvedtak gjøre unntak fra reglene i første til syvende ledd for erverv av aksjer av eller for ansatte i selskapet. Tilsvarende gjelder for erverv av aksjer av eller for ansatte i selskap i samme konsern eller foretaksgruppe som nevnt i § 8-7 tredje ledd nr. 3.
 >
 > (10) Departementet kan i forskrift gi nærmere regler om innsending av redegjørelse og erklæring etter femte ledd til Foretaksregisteret, offentliggjøring av informasjon i redegjørelsen og erklæringen, gebyr for å registrere redegjørelsen og erklæringen, samt gebyr for innsyn.
+>
+
+### 2021-06-18 — lov/2021-06-18-137
+
+*§ 8-10 sjuande ledd andre punktum skal lyde:*
+
+> Innsideinformasjon etter markedsmisbruksforordningen artikkel 7, jf. verdipapirhandelloven § 3-1, skal ikke sendes Foretaksregisteret.
+>
+
+### 2021-06-18 — lov/2021-06-18-137
+
+*§ 8-10 niande ledd andre punktum skal lyde:*
+
+> Tilsvarende gjelder for erverv av aksjer av eller for ansatte i selskap i samme konsern eller foretaksgruppe som nevnt i § 8-7 fjerde ledd nr. 3.
 >
 
 ### 2025-06-20 — lov/2025-06-20-106
@@ -2567,7 +2639,25 @@ refid: "lov/1997-06-13-45"
 > Er det begjært gransking etter §§ 5-25 til 5-28, regnes fristen fra den dag begjæringen er endelig avslått eller i tilfelle granskingen er avsluttet.
 >
 
+## § 17-7
+
+### 2021-06-18 — lov/2021-06-18-122
+
+*§ 17-7 første ledd oppheves. Nåværende annet ledd blir nytt første ledd.*
+
+> 17.I lov 26. juni 1998 nr. 41 om kontantstøtte til småbarnsforeldre gjøres følgende endring:
+>
+
 ## § 18-3
+
+### 2007-02-27 — lov/2007-01-26-3
+
+*§ 18-3 annet og tredje ledd skal lyde:*
+
+> Kjennelser og beslutninger som tingretten treffer etter denne loven, kan ankes.
+>
+> Anke etter annet ledd kan ikke grunnes på at avgjørelsen er uhensiktsmessig eller uheldig. Dette gjelder ikke kjennelse etter §§ 5-25 til 5-27 og § 8-4.
+>
 
 ### 2013-06-14 — lov/2013-06-14-40
 
@@ -2601,6 +2691,26 @@ refid: "lov/1997-06-13-45"
 ### 2021-06-11 — lov/2021-06-11-84
 
 *§ 18-5 oppheves.*
+
+## § 19-1
+
+### 2009-06-19 — lov/2009-06-19-74
+
+*§ 19-1 første ledd annet punktum oppheves.*
+
+### 2009-06-19 — lov/2009-06-19-74
+
+*§ 19-1 tredje ledd første punktum oppheves.*
+
+## § 19-2
+
+### 2009-06-19 — lov/2009-06-19-74
+
+*§ 19-2 første ledd tredje punktum oppheves.*
+
+### 2009-06-19 — lov/2009-06-19-74
+
+*§ 19-2 annet ledd første punktum oppheves.*
 
 ## § 20-6
 
@@ -2987,4 +3097,13 @@ refid: "lov/1997-06-13-45"
 > § 7-6.Bærekraftsrapportering(1) I selskap som har plikt til å utarbeide bærekraftsrapportering etter regnskapsloven § 2-3, skal revisor attestere bærekraftsrapporteringen. Generalforsamlingen kan i stedet velge en annen revisor til å attestere bærekraftsrapporteringen eller en uavhengig tilbyder av attestasjonstjenester dersom det er adgang til dette etter revisorloven § 1-3. Godtgjørelsen skal godkjennes av generalforsamlingen.(2) Den som attesterer bærekraftsrapporteringen, skal hvert regnskapsår avgi en attestasjonsuttalelse om bærekraftsrapportering etter revisorloven § 9-7 a til generalforsamlingen. Uttalelsen skal være styret i hende senest to uker før den ordinære generalforsamlingen. I selskaper som nevnt i § 5-11 b skal uttalelsen være styret i hende senest 22 dager før generalforsamlingen.(3) §§ 7-2, 7-3 og 7-5 gjelder tilsvarende for den som er valgt til å attestere bærekraftsrapporteringen etter første ledd.
 >
 > § 7-6.Bærekraftsrapportering
+>
+
+## § 23
+
+### 2021-06-18 — lov/2021-06-18-122
+
+*§ 23 tredje ledd oppheves.*
+
+> 18.I lov 17. juli 1998 nr. 61 om grunnskolen og den vidaregåande opplæringa gjøres følgende endring:
 >

@@ -90,6 +90,13 @@ refid: "lov/1998-06-26-41"
 
 ## § 2
 
+### 2004-07-02 — lov/2004-07-02-58
+
+*§ 2 første ledd skal lyde:*
+
+> Kontantstøtte ytes for barn mellom 1 og 3 år som er bosatt i riket, og som ikke eller bare delvis gjør bruk av barnehageplass som det ytes offentlig driftstilskudd for, jf § 7 tredje ledd.
+>
+
 ### 2012-08-01 — lov/2012-01-06-1
 
 *§ 2 første ledd skal lyde:*
@@ -126,6 +133,15 @@ refid: "lov/1998-06-26-41"
 
 ## § 3 a
 
+### 2004-07-02 — lov/2004-07-02-58
+
+*Ny § 3 a skal lyde:*
+
+> § 3 a.Arbeidstakere på kontinentalsokkelen
+>
+> Bestemmelsene i EØS-avtalens vedlegg VI nr. 1 og 2 (forordning (EØF) nr. 1408/71 og forordning (EØF) nr. 574/72 mv.) får tilsvarende anvendelse på en arbeidstaker mv. som arbeider med leting etter eller utvinning av olje, gass eller andre naturressurser på den norske delen av kontinentalsokkelen, som om vedkommende hadde arbeidet på norsk territorium.
+>
+
 ### 2022-11-25 — lov/2022-11-25-86
 
 *§ 3 a første ledd skal lyde:*
@@ -134,6 +150,15 @@ refid: "lov/1998-06-26-41"
 >
 
 ## § 7
+
+### 2004-07-02 — lov/2004-07-02-58
+
+*§ 7 andre og tredje ledd skal lyde:*
+
+> Det ytes full kontantstøtte dersom barnet ikke gjør bruk av barnehageplass som det ytes offentlig driftstilskudd for.
+>
+> Dersom barnet gjør bruk av barnehageplass som det ytes offentlig driftstilskudd for, og det er skriftlig avtalt redusert oppholdstid, ytes delvis kontantstøtte som følger:Med 80 prosent av full kontantstøtte når det er avtalt oppholdstid til og med 8 timer per uke.Med 60 prosent av full kontantstøtte når det er avtalt oppholdstid fra og med 9 til og med 16 timer per uke.Med 40 prosent av full kontantstøtte når det er avtalt oppholdstid fra og med 17 til og med 24 timer per uke.Med 20 prosent av full kontantstøtte når det er avtalt oppholdstid fra og med 25 til og med 32 timer per uke.
+>
 
 ### 2012-08-01 — lov/2012-01-06-1
 

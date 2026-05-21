@@ -448,6 +448,47 @@ refid: "lov/2008-05-15-35"
 
 *I § 92 fjerde ledd første og annet punktum skal uttrykket «fengsling» endres til «internering».*
 
+### 2020-05-26 — lov/2020-05-26-48
+
+*I lov 15. mai 2008 nr. 35 om utlendingers adgang til riket og deres opphold her skal nytt midlertidig kapittel 10 a lyde:*
+
+> § 79 a.Formål og virkeområde
+>
+> Formålet med dette kapittelet er å tilrettelegge for en forsvarlig og rettssikker virksomhet i Utlendingsnemnda ved å avhjelpe konsekvenser av utbruddet av covid-19.
+>
+> Reglene i dette kapittelet skal likevel bare benyttes i den utstrekning smittevernhensyn gjør det nødvendig og ubetenkelig.
+>
+> § 79 b.Fjernmøte i Utlendingsnemnda
+>
+> Nemndleder kan beslutte at nemndmøter helt eller delvis skal holdes som fjernmøter. Det kan videre besluttes at bare nemndmedlemmer fra Oslo-området skal delta i nemndmøter. Det kan besluttes at tolking skal gjennomføres som fjerntolking.
+>
+> Før nemnda treffer beslutning om fjernmøte hvor utlendingen kan møte, skal utlendingen gis rett til å uttale seg.
+>
+> Forvaltningsloven kapittel IV til VI om saksforberedelse, vedtak og klage gjelder ikke for beslutning om avgjørelsesform og fjernmøte.
+>
+> § 79 c.Kombinasjon av muntlig og skriftlig behandling i Utlendingsnemnda
+>
+> Nemndleder kan beslutte at nemndas møte skal begrenses i omfang. Vedtak kan treffes på grunnlag av en kombinasjon av muntlig behandling i møte og sakens dokumenter.
+>
+> Før nemnda treffer beslutning om delvis skriftlig saksbehandling i møte hvor utlendingen kan møte, skal utlendingen gis rett til å uttale seg.
+>
+> Forvaltningsloven kapittel IV til VI om saksforberedelse, vedtak og klage gjelder ikke for beslutning om delvis skriftlig behandling.
+>
+> § 79 d.Særlig om stornemndmøter
+>
+> Bestemmelsene i §§ 79 b og 79 c gjelder tilsvarende for stornemndmøter.
+>
+> § 79 e.Ikraftsetting og opphevelse av kapittel 10 a
+>
+> Kapittel 10 a trer i kraft straks, og oppheves 1. november 2020.
+>
+> § 79 f.Overgangsregler
+>
+> Dersom en behandlingsmåte med hjemmel i kapittel 10 a er besluttet eller påbegynt før opphevingstidspunktet i § 79 e, skal loven gjelde ved behandlingen inntil saken er avsluttet i nemnda.
+>
+> Kongen kan gi forskrift om overgangsregler.
+>
+
 ### 2020-06-12 — lov/2020-06-12-66
 
 *Nåværende § 77 femte ledd blir nytt åttende ledd.*
@@ -477,6 +518,10 @@ refid: "lov/2008-05-15-35"
 ### 2022-04-29 — lov/2022-04-29-26
 
 *Kapittel 2 overskriften skal lyde:*
+
+### 2022-04-29 — lov/2022-04-29-26
+
+*§§ 14 og 15 oppheves.*
 
 ### 2023-06-02 — lov/2023-06-02-20
 
@@ -705,6 +750,13 @@ refid: "lov/2008-05-15-35"
 > Bestemmelsene om kassasjon og retting i lov 4. desember 1992 nr. 126 om arkiv § 9 bokstav c og d er ikke til hinder for sletting etter tredje ledd.
 >
 > Kongen kan gi nærmere regler i forskrift.
+>
+
+### 2022-04-29 — lov/2022-04-29-26
+
+*§ 100 b første ledd første punktum skal lyde:*
+
+> I forbindelse med kontroll etter § 21 eller grenseloven § 15, eller i forbindelse med behandlingen av en sak etter utlendingsloven, kan politiet, Utlendingsdirektoratet, Utlendingsnemnda, Utenriksdepartementet, utenriksstasjon eller andre med kontrollmyndighet etter § 22 eller grenseloven innhente biometrisk personinformasjon i form av ansiktsfoto og fingeravtrykk til kontroll av fremlagt oppholdskort eller kontroll av annet kort med registrert biometrisk personinformasjon etter § 100 a annet ledd.
 >
 
 ### 2023-12-20 — lov/2023-12-20-110
@@ -1508,6 +1560,36 @@ refid: "lov/2008-05-15-35"
 
 ## § 108
 
+### 2009-06-19 — lov/2009-06-19-74
+
+*§ 108 annet ledd bokstav c og d skal lyde:*
+
+> ved falske forespeilinger eller liknende utilbørlig atferd forleder en utlending til å reise inn i riket med sikte på å bosette seg her,overlater til en annen pass, reisebevis for flyktninger, annet reisedokument eller liknende dokument som kan bli brukt som reisedokument, når vedkommende vet eller bør vite at det kan bli brukt av en utlending til å reise inn i riket eller til en annen stat.
+>
+
+### 2009-06-19 — lov/2009-06-19-74
+
+*§ 108 tredje ledd bokstav a og b skal lyde:*
+
+> hjelper en utlending til ulovlig opphold i riket eller et annet land som deltar i Schengensamarbeidet, ellerhjelper en utlending til ulovlig å reise inn i riket eller til et annet land. Dette gjelder likevel ikke dersom hensikten er å hjelpe en utlending som omfattes av § 28 til å reise inn i trygge land.
+>
+
+### 2009-06-19 — lov/2009-06-19-74
+
+*§ 108 nytt femte ledd skal lyde:*
+
+> Den som yter humanitær bistand til utlending som oppholder seg ulovlig i riket, skal ikke kunne straffes for medvirkning til ulovlig opphold med mindrevedkommende har hatt til hensikt å hjelpe utlendingen til å unndra seg plikten til å forlate riket, oghjelpen har vanskeliggjort myndighetenes mulighet til å få til en utsendelse.
+>
+
+### 2009-06-19 — lov/2009-06-19-74
+
+*§ 108 sjette ledd oppheves. Nåværende syvende, åttende og niende ledd blir nytt sjette, syvende og åttende ledd.*
+
+> 268. I lov 20. juni 2008 nr. 44 om medisinsk og helsefaglig forskning (helseforskningsloven) skal § 54 første ledd lyde:
+>
+> Med bøter eller fengsel inntil ett år eller begge deler straffes den som forsettlig eller grovt uaktsomt overtrer bestemmelser i loven eller bestemmelser gitt i medhold av den.
+>
+
 ### 2009-12-18 — lov/2009-12-18-132
 
 *§ 108 første ledd og annet ledd bokstav a skal lyde:*
@@ -1592,6 +1674,13 @@ refid: "lov/2008-05-15-35"
 > forsettlig eller uaktsomt overtrer innreiseforbudet i § 71 annet ledd eller § 124 første ledd. Dersom utlendingen ikke har lovlig opphold i et Schengenland, straffes overtredelsen bare med bot, med mindre vedkommende er utvist på grunn av straff, utreise fra Schengenområdet har funnet sted eller returprosedyrer er anvendt uten at slik utreise har funnet sted,er utvist som følge av ilagt fengselsstraff, forvaring eller særreaksjon etter andre bestemmelser enn annet ledd, og forsettlig eller uaktsomt overtrer kravet om oppholdstillatelse i utlendingsloven § 55 annet ledd ved ikke å forlate riket.
 >
 
+### 2022-04-29 — lov/2022-04-29-26
+
+*§ 108 annet ledd bokstav a skal lyde:*
+
+> Med bot eller med fengsel inntil seks måneder eller med begge deler straffes den som:Forsettlig eller uaktsomt overtrer de bestemmelsene som er angitt i det følgende, eller forbud, påbud eller vilkår gitt i medhold av disse bestemmelsene:§ 8 første ledd§ 9 første og fjerde ledd§ 16 første ledd§ 19 første og annet ledd§ 20 tredje ledd§ 21 første ledd§ 27 første ledd, jf. fjerde ledd§ 55 første og annet ledd, med mindre overtredelsen rammes av tredje ledd bokstav f§ 83 første og annet ledd§ 90 sjette ledd§ 93 første ledd annet punktum§ 100 b første ledd annet punktum§ 105 første ledd§ 126 første ledd§ 130 første ledd, jf. § 105
+>
+
 ### 2025-04-04 — lov/2025-04-04-7
 
 *§ 108 tredje ledd bokstav e skal lyde:*
@@ -1606,22 +1695,6 @@ refid: "lov/2008-05-15-35"
 *§ 109 fjerde ledd skal lyde:*
 
 > Kongen kan gi nærmere bestemmelser i forskrift om gjennomføring av bestemmelsene i dette kapittelet og om forholdet til lovens alminnelige bestemmelser, herunder for de tilfellene der en utlending som nevnt i første ledd, får oppholdstillatelse etter lovens alminnelige bestemmelser. Kongen kan bestemme i forskrift at det skal innhentes og lagres biometrisk personinformasjon i form av ansiktsfoto og fingeravtrykk i kort som dokumenterer oppholdsrett i henhold til §§ 118 og 119. I slike tilfeller vil reglene i §§ 64 a, 100 a og 100 b gjelde tilsvarende så langt de passer.
->
-
-## § 11
-
-### 2009-06-19 — lov/2009-06-19-41
-
-*§ 11 første ledd nr. 1 skal lyde:*
-
-> for utlending som har rett til fri rettshjelp etter utlendingsloven § 92 første ledd, annet ledd og tredje ledd første punktum, eller for den som har rett til fri rettshjelp etter statsborgerloven § 27 sjuende ledd første punktum.
->
-
-### 2009-06-19 — lov/2009-06-19-41
-
-*§ 11 annet punktum skal lyde:*
-
-> Søkeren må likevel til sammen ha fem års opphold i riket i løpet av de siste syv årene, med oppholdstillatelser av minst ett års varighet.
 >
 
 ## § 110
@@ -1647,15 +1720,6 @@ refid: "lov/2008-05-15-35"
 *§ 114 fjerde ledd bokstav c skal lyde:*
 
 > det foreligger en særlig vanskelig situasjon, for eksempel at ektefellen som ikke er EØS-borger, eller eventuelle barn har vært utsatt for vold eller andre alvorlige overgrep i ekteskapet, eller
->
-
-## § 12
-
-### 2009-06-19 — lov/2009-06-19-41
-
-*§ 12 første ledd annet punktum skal lyde:*
-
-> Søkeren må likevel til sammen ha minst tre års opphold i riket i løpet av de siste ti årene med oppholdstillatelser av minst ett års varighet.
 >
 
 ## § 120
@@ -1866,23 +1930,7 @@ refid: "lov/2008-05-15-35"
 > ikke har innrettet seg etter et vedtak som pålegger en utreiseplikt, jf. § 90, eller tvangsretur for øvrig ikke lar seg gjennomføre.
 >
 
-## § 14
-
-### 2009-06-19 — lov/2009-06-19-41
-
-*§ 14 første ledd skal lyde:*
-
-> For søker som har tillatelse etter utlendingsloven kapittel 13 om særlige regler for utlendinger som omfattes av Avtale om Det europeiske økonomiske samarbeidsområde (EØS) og Konvensjon om opprettelse av Det europeiske Frihandelsforbund (EFTA-konvensjonen), gjelder ikke vilkåret i § 7 første ledd bokstav d. Søkeren må likevel ha oppholdt seg i riket de siste tre årene med oppholdsrett i medhold av utlendingsloven §§ 112 til 116.
->
-
 ## § 15
-
-### 2009-06-19 — lov/2009-06-19-41
-
-*§ 15 annet punktum skal lyde:*
-
-> Søkeren må likevel ha oppholdt seg i riket med oppholdstillatelser av minst ett års varighet de siste to årene.
->
 
 ### 2009-12-18 — lov/2009-12-18-132
 
@@ -1891,67 +1939,27 @@ refid: "lov/2008-05-15-35"
 > Det skal også påses at det ikke foreligger annet grunnlag for bortvisning, jf. §§ 17 og 121.
 >
 
+### 2020-03-27 — lov/2020-03-27-16
+
+*§ 15 femte ledd bokstav c skal lyde:*
+
+> pålegge fører av skip eller luftfartøy, eller transportør som utfører yrkesmessig landtransport av personer, å kontrollere at utenlandske og norske reisende har gyldige reise- eller legitimasjonsdokument og visum, samt plikt til å ta kopi av disse.
+>
+
 ## § 16
 
-### 2009-06-19 — lov/2009-06-19-41
+### 2022-04-29 — lov/2022-04-29-26
 
-*§ 16 første ledd nr. 4 skal lyde:*
+*§ 16 skal lyde:*
 
-> for utlending i tilfeller som nevnt i utlendingsloven § 92 tredje ledd annet punktum og fjerde ledd eller for den som har rett til fri sakførsel etter statsborgerloven § 27 sjuende ledd annet punktum.
+> § 16.Adgang til riket for sjøfolk som fratrer stilling mv.
 >
-> 6. I lov 22. mai 1981 nr. 25 om rettergangsmåten i straffesaker skal § 67 annet ledd bokstav d lyde:forbrytelse mot militær straffelov § 34 annet ledd annet straffalternativ, jf. tredje ledd, tolloven § 66, merverdiavgiftsloven § 72, ligningsloven § 12-1, utlendingsloven § 108 annet ledd, jf. femte ledd, regnskapsloven § 8-5 første ledd første og tredje punktum, jf. tredje ledd første punktum og bokføringsloven § 15 første ledd første og tredje punktum, jf. tredje ledd første punktum.
+> Sjøfolk eller blindpassasjer om bord på sjøfartøy som skal innreisekontrolleres etter grenseloven § 17, kan ikke forlate fartøyet før det er fastsatt hvor og når innreisekontrollen skal gjennomføres.
 >
-> 7. I lov 28. februar 1997 nr. 19 om folketrygd skal § 1-7 lyde:
->
-> § 1-7.Flyktning
->
-> Med flyktning menes i denne loven en person som er innvilget oppholdstillatelse i medhold av utlendingsloven § 28.
->
-> 8. I lov 13. juni 1997 nr. 42 om kystvakten skal § 12 første ledd bokstav g lyde:lov 15. mai 2008 nr. 35 om utlendingers adgang til riket og deres opphold her (utlendingsloven),
->
-> 9. I lov 19. juni 1997 nr. 82 om pass skal § 1 tredje ledd lyde:
->
-> Kongen kan bestemme at § 6 annet ledd (innhenting og lagring av biometrisk personinformasjon i passet) og § 6 a (innsyn i og sletting av biometrisk personinformasjon innhentet for personalisering av passet og etterfølgende identitetskontroll) også skal omfatte diplomatpass, spesialpass og tjenestepass utstedt etter regler gitt i medhold av lov 3. mai 2002 nr. 13 om utenrikstjenesten, samt utlendingspass i medhold av utlendingsloven § 64.
->
-> 10. I lov 16. juli 1999 nr. 66 om Schengen informasjonssystem skal § 7 nr. 2 lyde:opplysninger om personer som ikke skal gis tillatelse til innreise fordi det i forbindelse med utvisning etter utlendingsloven § 66 bokstav a, b, c, e eller f, §§ 67 eller 68 er truffet vedtak om innreiseforbud, og vedtaket fortsatt er gjeldende
->
-> 11. I lov 4. juli 2003 nr. 80 om introduksjonsordning og norskopplæring for nyankomne innvandrere gjøres følgende endringer:
->
-
-### 2009-06-19 — lov/2009-06-19-41
-
-*§ 16 tredje punktum skal lyde:*
-
-> Statsløs søker som har fylt 18 år, må likevel ha oppholdt seg i riket med oppholdstillatelser av minst ett års varighet de siste tre årene.
+> Kongen kan gi forskrift om vilkårene for sjøfolk og blindpassasjerers adgang til riket, blant annet om sjøfolks landlov, og om saksbehandlingen og klageadgangen i slike saker.
 >
 
 ## § 17
-
-### 2009-06-19 — lov/2009-06-19-41
-
-*§ 17 skal lyde:*
-
-> § 17.Rett og plikt til deltakelse i opplæring i norsk og samfunnskunnskap
->
-> Rett og plikt til deltakelse i gratis opplæring i norsk og samfunnskunnskap i til sammen 300 timer gjelder for utlending mellom 16 og 55 år som har fåttoppholdstillatelse etter utlendingsloven som danner grunnlag for permanent oppholdstillatelse, ellerkollektiv beskyttelse i massefluktsituasjon etter utlendingsloven § 34.
->
-> Utlending mellom 55 og 67 år med oppholdsgrunnlag som nevnt i bokstav a eller b har rett, men ikke plikt, til å delta i opplæring som nevnt i første ledd.
->
-> Rett til deltakelse etter første og annet ledd gjelder ikke for utlending med oppholdstillatelse etter utlendingsloven §§ 23 og 25 og deres familiemedlemmer med tillatelse etter utlendingsloven kapittel 6. Utlending mellom 16 og 55 år med tillatelse som nevnt i første punktum som danner grunnlag for permanent oppholdstillatelse, har plikt til deltakelse i opplæring i norsk og samfunnskunnskap i til sammen 300 timer, jf. § 18 første ledd annet punktum.
->
-> Rett eller plikt til deltakelse i opplæring i norsk og samfunnskunnskap foreligger ikke dersom det dokumenteres at vedkommende har tilstrekkelige kunnskaper i norsk. Plikt til deltakelse foreligger ikke dersom det dokumenteres at vedkommende har tilstrekkelige kunnskaper i samisk. Dersom særlige helsemessige eller andre tungtveiende årsaker tilsier det, kan kommunen frita den enkelte fra plikt til deltakelse.
->
-> Rett eller plikt til deltakelse etter første til tredje ledd inntrer ved innvilgelse av førstegangs oppholdstillatelse etter utlendingsloven, eller fra ankomst til riket for utlending som har fått slik tillatelse før innreise. For personer som omfattes av første ledd bokstav b, inntrer rett og plikt til deltakelse fra det tidspunkt vedkommende blir bosatt i kommunen i henhold til særskilt avtale mellom utlendingsmyndighetene og kommunen. Rett til deltakelse etter første og annet ledd gjelder i tre år. I særlige tilfeller kan rett og plikt til deltakelse inntre fra det tidspunktet krav om opplæring settes fram. Departementet kan i forskrift gi utfyllende regler om hva som her skal være å anse som særlige tilfeller.
->
-> 12. I lov 10. juni 2005 nr. 51 om norsk statsborgerskap gjøres følgende endringer:
->
-
-### 2009-06-19 — lov/2009-06-19-41
-
-*§ 17 annet ledd skal lyde:*
-
-> Barnet må likevel ha oppholdt seg i riket de siste to årene med oppholdstillatelser av minst ett års varighet. Opphold i en eller flere søknadsperioder medregnes i toårsperioden. Kravet om oppholdstillatelse gjelder likevel ikke barn som er statsborger av et annet nordisk land.
->
 
 ### 2015-12-18 — lov/2015-12-18-127
 
@@ -2004,13 +2012,24 @@ refid: "lov/2008-05-15-35"
 > vedtaket gjelder bortvisning etter § 17 første ledd bokstav h og l, ellerUtlendingsdirektoratet beslutter at saken skal avgjøres av direktoratet.
 >
 
-## § 2
+## § 20
 
-### 2009-06-19 — lov/2009-06-19-41
+### 2020-03-27 — lov/2020-03-27-16
 
-*§ 2 første ledd skal lyde:*
+*§ 20 første ledd bokstav a og b skal lyde:*
 
-> Rett og plikt til deltakelse i introduksjonsprogram gjelder for nyankommet utlending mellom 18 og 55 år som har behov for grunnleggende kvalifisering og som har fåttasyl, jf. utlendingsloven § 28,oppholdstillatelse etter innreisetillatelse som overføringsflyktning, jf. utlendingsloven § 35 tredje leddfornybar oppholdstillatelse etter utlendingsloven § 38 første ledd på grunnlag av søknad om asyl, eller kollektiv beskyttelse i massefluktsituasjon, jf. utlendingsloven § 34, elleroppholdstillatelse som familiemedlemmer til personer som nevnt i bokstav a, b og c, jf. utlendingsloven kapittel 6. For å være omfattet av denne bestemmelsen er det et vilkår at personer som nevnt i bokstav a, b og c ikke har vært bosatt i en kommune i mer enn fem år før det søkes om familiegjenforening.
+> føreren av luftfartøy som kommer fra, eller går til utlandet, skal gi politiet fortegnelse over utenlandske og norske reisende og mannskap,føreren av skip som passerer grensen på vei til eller fra norsk havn, skal gi politiet fortegnelse over utenlandske og norske reisende og mannskap,
+>
+
+### 2022-04-29 — lov/2022-04-29-26
+
+*§ 20 første ledd bokstav a og b oppheves. Nåværende bokstav c til g blir bokstav a til e.*
+
+### 2022-04-29 — lov/2022-04-29-26
+
+*§ 20 nytt fjerde ledd skal lyde:*
+
+> Regler om plikt for transportør av luft- og sjøfartøy til å gi forhåndsmelding om reisende og mannskap følger av grenseloven § 16.
 >
 
 ## § 21 a
@@ -2024,6 +2043,17 @@ refid: "lov/2008-05-15-35"
 > Politiet kan holde tilbake en utlending eller innbringe vedkommende til politistasjon, lensmannskontor eller annet lokale som benyttes under polititjenesten nårutlendingen ikke gir opplysninger for å bringe identiteten og lovligheten av oppholdet i riket på det rene i forbindelse med en alminnelig utlendingskontroll når politiet forlanger det, eller gir opplysninger under slik kontroll som det er grunn til å tvile på riktigheten av, ellerutlendingen stanses i en inn- eller utreisekontroll og det foreligger, eller undersøkes om det foreligger, grunnlag for bortvisning eller utvisning.
 >
 > Ingen må holdes tilbake lenger enn nødvendig etter denne paragrafen og ikke ut over 4 timer. Tiden inngår i beregningen av frister etter §§ 106 a til 106 c og politiloven § 8.
+>
+
+## § 22
+
+### 2022-04-29 — lov/2022-04-29-26
+
+*§ 22 skal lyde:*
+
+> § 22.Adgang til å gjennomføre utlendingskontroll
+>
+> Kongen kan gi forskrift om Tolletatens og andre myndigheters adgang til å gjennomføre utlendingskontroll.
 >
 
 ## § 23
@@ -2061,17 +2091,6 @@ refid: "lov/2008-05-15-35"
 >
 
 ## § 27
-
-### 2009-06-19 — lov/2009-06-19-41
-
-*§ 27 tredje ledd tredje punktum skal lyde:*
-
-> Utlendingsloven §§ 77 og 78 gjelder tilsvarende ved behandling av saker etter loven her.
->
-> 13. I lov 17. juni 2005 nr. 67 om betaling og innkreving av skatte- og avgiftskrav skal § 4-1 annet ledd annet punktum lyde:
->
-> Pliktene og ansvaret påhviler også den som oppgir å være arbeidsgiver i saker etter utlendingsloven §§ 23 tredje ledd og 24 annet ledd.
->
 
 ### 2020-05-29 — lov/2020-05-29-58
 
@@ -2162,15 +2181,6 @@ refid: "lov/2008-05-15-35"
 *§ 28 femte ledd skal lyde:*
 
 > Retten til anerkjennelse som flyktning etter første ledd gjelder ikke dersom utlendingen kan få effektiv beskyttelse i andre deler av hjemlandet enn det området søkeren har flyktet fra.
->
-
-## § 3
-
-### 2009-06-19 — lov/2009-06-19-41
-
-*§ 3 tredje ledd skal lyde:*
-
-> Kommunen kan tilby introduksjonsprogram til nyankommet utlending med oppholdstillatelse i henhold til utlendingsloven kapittel 6 som er familiemedlemmer til andre enn personer nevnt i § 2, til nyankommet utlending over 55 år med oppholdsgrunnlag som nevnt i § 2 første ledd, og til nyankommet utlending som nevnt i § 2 som er bosatt i kommunen uten særskilt avtale mellom utlendingsmyndighetene og kommunen.
 >
 
 ## § 30
@@ -2473,6 +2483,29 @@ refid: "lov/2008-05-15-35"
 > En utlending som har oppholdstillatelse etter §§ 40 eller 41, skal etter søknad gis ny oppholdstillatelse på selvstendig grunnlag dersom:samlivet er opphørt på grunn av referansepersonens død, med mindre særlige grunner taler imot det, ellersamlivet er opphørt, og det er grunn til å anta at utlendingen eller eventuelle barn har blitt mishandlet i samlivsforholdet eller av andre medlemmer av samme husstand, eller av svigerfamilie.
 >
 
+## § 6
+
+### 2020-03-27 — lov/2020-03-27-16
+
+*§ 6 fjerde ledd skal lyde:*
+
+> Loven gjelder ikke for Svalbard. Kongen kan i forskrift gi nærmere regler om kontroll med utenlandske og norske reisende som kommer fra eller reiser til Svalbard.
+>
+
+### 2022-04-29 — lov/2022-04-29-26
+
+*§ 6 annet ledd skal lyde:*
+
+> Kongen kan i forskrift fravike lovens regler for innretninger og anlegg som nevnt i første ledd, samt gi forskrift om kontroll ved reise mellom disse og norsk landterritorium.
+>
+
+### 2022-04-29 — lov/2022-04-29-26
+
+*§ 6 femte ledd skal lyde:*
+
+> Loven gjelder ikke for norske sjøfartøy i utenriksfart. Kongen kan i forskrift gi nærmere regler om når loven eller regler gitt i medhold av loven får anvendelse for norske sjøfartøy i utenriksfart som anløper norsk havn.
+>
+
 ## § 60
 
 ### 2009-06-19 — lov/2009-06-19-41
@@ -2702,6 +2735,13 @@ refid: "lov/2008-05-15-35"
 > En utlending uten oppholdstillatelse kan utvisesnår utlendingen grovt eller gjentatte ganger har overtrådt en eller flere bestemmelser i loven her, forsettlig eller grovt uaktsomt har gitt vesentlig uriktige eller åpenbart villedende opplysninger i en sak etter loven, eller unndrar seg gjennomføringen av et vedtak som innebærer at vedkommende skal forlate riket,
 >
 
+### 2009-06-19 — lov/2009-06-19-74
+
+*§ 66 bokstav e skal lyde:*
+
+> når utlendingen har overtrådt straffeloven kapittel 20, eller har gitt trygt tilholdssted til noen som utlendingen kjenner til at har begått en slik forbrytelse,
+>
+
 ### 2010-12-17 — lov/2010-12-17-88
 
 *§ 66 nytt annet ledd skal lyde:*
@@ -2797,6 +2837,13 @@ refid: "lov/2008-05-15-35"
 > Dersom forholdet som danner grunnlag for utvisning, er en straffbar handling som ble begått på et tidspunkt hvor utlendingen hadde gyldig midlertidig oppholdstillatelse, gjelder § 67 selv om utlendingen står uten oppholdstillatelse på vedtakstidspunktet. Ettårsfristen i § 67 gjelder likevel bare dersom utlendingen har fremmet søknad om fornyet oppholdstillatelse, og har rett til fortsatt opphold på samme vilkår inntil søknaden er endelig avgjort, etter reglene i § 61.
 >
 
+### 2022-04-29 — lov/2022-04-29-26
+
+*§ 66 første ledd bokstav a skal lyde:*
+
+> når utlendingen grovt eller gjentatte ganger har overtrådt en eller flere bestemmelser i loven her eller grenseloven, forsettlig eller grovt uaktsomt har gitt vesentlig uriktige eller åpenbart villedende opplysninger i en sak etter loven, eller unndrar seg gjennomføringen av et vedtak som innebærer at vedkommende skal forlate riket,
+>
+
 ### 2024-04-19 — lov/2024-04-19-19
 
 *§ 66 første ledd bokstav f til h skal lyde:*
@@ -2835,6 +2882,13 @@ refid: "lov/2008-05-15-35"
 >
 
 ## § 67
+
+### 2009-06-19 — lov/2009-06-19-74
+
+*§ 67 første ledd bokstav c og d skal lyde:*
+
+> når utlendingen har sonet eller er ilagt straff eller særreaksjon for brudd på straffeloven §§ 271, 272, 273 og 274,når utlendingen har overtrådt straffeloven kapittel 18, eller har gitt trygt tilholdssted til noen som utlendingen kjenner til at har begått en slik forbrytelse, eller
+>
 
 ### 2012-01-20 — lov/2012-01-20-5
 
@@ -2890,6 +2944,13 @@ refid: "lov/2008-05-15-35"
 >
 
 ## § 68
+
+### 2009-06-19 — lov/2009-06-19-74
+
+*§ 68 første ledd bokstav c skal lyde:*
+
+> når utlendingen har overtrådt straffeloven kapittel 18, eller har gitt trygt tilholdssted til noen som utlendingen kjenner til at har begått en slik forbrytelse, eller
+>
 
 ### 2013-06-21 — lov/2013-06-21-91
 
@@ -2952,13 +3013,6 @@ refid: "lov/2008-05-15-35"
 >
 
 ## § 7
-
-### 2009-06-19 — lov/2009-06-19-41
-
-*§ 7 første ledd bokstavene d og e skal lyde:*
-
-> fyller vilkårene for permanent oppholdstillatelse i utlendingsloven § 62,har til sammen syv års opphold i riket i løpet av de siste ti årene, med oppholdstillatelser av minst ett års varighet, opphold i en eller flere søknadsperioder medregnet i syvårsperioden, jf. femte ledd,
->
 
 ### 2013-06-21 — lov/2013-06-21-92
 
@@ -3076,6 +3130,13 @@ refid: "lov/2008-05-15-35"
 
 *§ 76 tredje ledd oppheves. Nåværende fjerde og femte ledd blir nye tredje og fjerde ledd.*
 
+### 2014-05-09 — lov/2014-05-09-16
+
+*§ 76 fjerde ledd første punktum skal lyde:*
+
+> Kommer Utlendingsnemnda i en sak etter tredje ledd til at Utlendingsdirektoratets vedtak er ugyldig, skal den oppheve vedtaket og sende saken tilbake til Utlendingsdirektoratet for hel eller delvis ny behandling.
+>
+
 ### 2015-11-20 — lov/2015-11-20-94
 
 *§ 76 annet ledd annet og tredje punktum oppheves.*
@@ -3109,6 +3170,13 @@ refid: "lov/2008-05-15-35"
 >
 
 ## § 77
+
+### 2009-06-19 — lov/2009-06-19-74
+
+*§ 77 femte ledd siste punktum skal lyde:*
+
+> Overtredelse straffes etter straffeloven § 210.
+>
 
 ### 2012-04-13 — lov/2012-04-13-15
 
@@ -3232,8 +3300,6 @@ refid: "lov/2008-05-15-35"
 > 4. I lov 7. mars 1940 nr. 1 om adgangen til visse områder skal § 2 tredje ledd lyde:
 >
 > Utlending som handler mot disse bestemmelser, kan utvises av riket i overensstemmelse med utlendingsloven kapittel 8.
->
-> 5. I lov 13. juni 1980 nr. 35 om fri rettshjelp gjøres følgende endringer:
 >
 
 ### 2013-06-21 — lov/2013-06-21-92
@@ -3603,6 +3669,13 @@ refid: "lov/2008-05-15-35"
 > Dersom utlendingen har fått vedtak om overføring til et annet land i medhold av Dublin III-forordningen, jf. § 32 fjerde ledd, og vedkommende har begjært utsatt iverksetting, kan ikke vedtaket iverksettes før Utlendingsnemnda har tatt stilling til begjæringen om utsatt iverksetting eller behandlet klagen på vedtaket.
 >
 
+### 2014-05-09 — lov/2014-05-09-16
+
+*§ 90 sjette ledd annet til fjerde punktum skal lyde:*
+
+> Når særlige grunner taler for det, kan utlendingen bli ført til et annet land enn det vedkommende kom fra. Utlendinger som ikke har gyldig reisedokument, har plikt til å skaffe seg dette. Beslutninger som gjelder iverksetting, regnes ikke som enkeltvedtak, jf. forvaltningsloven § 2 første ledd bokstav b.
+>
+
 ### 2014-12-12 — lov/2014-12-12-71
 
 *§ 90 femte ledd skal lyde:*
@@ -3824,6 +3897,23 @@ refid: "lov/2008-05-15-35"
 > I sak som nevnt i § 76 tredje ledd har utlendingen rett til fritt rettsråd uten behovsprøving.
 >
 
+### 2014-05-09 — lov/2014-05-09-16
+
+*§ 92 første ledd skal lyde:*
+
+> I saker om bortvisning, utvisning, tilbakekall av tillatelse eller tilbakekall av oppholdsdokument, jf. § 120, har utlendingen rett til fritt rettsråd uten behovsprøving. Det gjelder likevel ikke i utvisningssaker i henhold til §§ 66 første ledd bokstav b og c, 67 første ledd bokstav a, b og c, 68 første ledd bokstav a og b og 122.
+>
+> I § 108 annet ledd bokstav a skal nytt siste punkt i opplistingen lyde:
+>
+> § 130 første ledd, jf. § 105
+>
+> 25. I lov 9. januar 2009 nr. 2 om kontroll med markedsføring og avtalevilkår mv. gjøres følgende endring:
+>
+> § 48 b annet ledd blir første ledd nytt annet punktum. Nåværende tredje og fjerde ledd blir annet og tredje ledd.
+>
+> 26. I lov 8. mai 2009 nr. 23 oppheves endringen i lov 15. mai 2008 nr. 35 om utlendingers adgang til riket og deres opphold her § 42 annet ledd.
+>
+
 ### 2014-12-12 — lov/2014-12-12-70
 
 *§ 92 fjerde ledd skal lyde:*
@@ -3958,6 +4048,15 @@ refid: "lov/2008-05-15-35"
 *§ 95 tredje ledd skal lyde:*
 
 > Kongen kan gi forskrift om innkvarteringsordninger, blant annet om tildeling og bortfall av botilbud, innkvartering av og omsorg til enslige mindreårige som bor i asylmottak, og stønad til beboere i asylmottak.
+>
+
+## § 97
+
+### 2009-06-19 — lov/2009-06-19-74
+
+*§ 97 annet ledd første punktum skal lyde:*
+
+> Politiattesten skal vise om vedkommende er siktet, tiltalt, ilagt forelegg eller er dømt for brudd på straffeloven §§ 291, 295, 296, 299, 302, 304, 305, 309, 311, 312 og 314 der den fornærmede er under 18 år.
 >
 
 ## § 98

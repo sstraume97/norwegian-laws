@@ -108,6 +108,13 @@ refid: "lov/2003-12-05-100"
 > Før behandlingen påbegynnes, skal behandlende lege påse at det foreligger skriftlig samtykke fra kvinnen og hennes ektefelle eller samboer. Ved gjentatte behandlinger skal nytt samtykke innhentes. Bare myndige personer kan gi slikt samtykke.
 >
 
+### 2013-04-05 — lov/2013-04-05-12
+
+*§ 2-5 annet ledd tredje punktum skal lyde:*
+
+> Bare personer over 18 år som ikke er fratatt rettslig handleevne på det personlige området, kan gi slikt samtykke.
+>
+
 ### 2020-06-19 — lov/2020-06-19-78
 
 *§ 2-5 skal lyde:*
@@ -165,6 +172,17 @@ refid: "lov/2003-12-05-100"
 >
 
 ## § 2-9
+
+### 2013-04-05 — lov/2013-04-05-12
+
+*§ 2-9 første ledd første punktum skal lyde:*
+
+> En sædgiver skal være over 18 år og ikke fratatt rettslig handleevne på det personlige området.
+>
+> 50. I lov 20. mai 2005 nr. 28 om straff skal § 261 første ledd lyde:
+>
+> Den som alvorlig eller gjentatte ganger unndrar en mindreårig eller holder denne unndratt fra noen som i henhold til lov, avtale eller rettsavgjørelse skal ha den mindreårige boende fast hos seg, eller som urettmessig unndrar den mindreårige fra noen som har omsorgen etter barnevernloven, straffes med bot eller fengsel inntil 2 år. På samme måte straffes den som tar en mindreårig ut av landet eller holder tilbake en mindreårig i utlandet og ved det ulovlig unndrar den mindreårige fra noen som i henhold til lov, avtale eller rettsavgjørelse har foreldreansvar eller som har omsorgen etter barnevernloven.
+>
 
 ### 2020-06-19 — lov/2020-06-19-78
 
@@ -448,6 +466,15 @@ refid: "lov/2003-12-05-100"
 
 *§ 4-2 annet ledd oppheves.*
 
+## § 4-6
+
+### 2009-06-19 — lov/2009-06-19-74
+
+*§ 4-6 skal lyde:*
+
+> Fosterdiagnostikk med sikte på å fastsette farskap og farskapstesting på fosterstadiet er forbudt. Dette gjelder ikke når svangerskapet kan være et resultat av omstendigheter som omtalt i straffeloven §§ 291, 295, 296, 299 og 304.
+>
+
 ## § 5-1
 
 ### 2020-06-19 — lov/2020-06-19-78
@@ -602,6 +629,15 @@ refid: "lov/2003-12-05-100"
 
 ## § 7-5
 
+### 2009-06-19 — lov/2009-06-19-74
+
+*§ 7-5 skal lyde:*
+
+> Den som overtrer loven eller bestemmelser gitt i medhold av loven straffes med bøter eller fengsel i inntil tre måneder.
+>
+> 241. I lov 19. desember 2003 nr. 124 om matproduksjon og mattrygghet mv. (matloven) gjøres følgende endring:
+>
+
 ### 2013-06-21 — lov/2013-06-21-78
 
 *§ 7-5 nytt andre ledd skal lyde:*
@@ -714,6 +750,12 @@ refid: "lov/2003-12-05-100"
 ### 2025-06-20 — lov/2025-06-20-68
 
 *Noverande tredje til femte ledd blir fjerde til nytt sjette ledd.*
+
+## § 28
+
+### 2009-06-19 — lov/2009-06-19-74
+
+*§ 28 første ledd annet punktum oppheves. Nåværende tredje punktum blir nytt annet punktum.*
 
 ## § 2A-1
 

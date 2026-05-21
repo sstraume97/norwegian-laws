@@ -29,3 +29,36 @@ refid: "lov/1932-05-27-2"
 
 > Foreldelsen avbrytes ikke i forhold til andre vekselskyldnere enn den mot hvem nogen av de ovennevnte handlinger foretas; men avbrytelsen virker til fordel for alle dens forgjengere, som har foretatt avbrytelsen.
 >
+
+## § 87
+
+### 2004-06-25 — lov/2004-06-25-53
+
+*§ 87 skal lyde:*
+
+> Protest tas opp av lensmannen eller namsfogden.
+>
+> Dersom det er nødvendig for at protesten skal kunne opptas i tide, kan lensmannen eller namsfogden ta opp protest utenfor sitt distrikt.
+>
+> Tilkalling av vitne er ikke nødvendig.
+>
+
+## § 90
+
+### 2004-06-25 — lov/2004-06-25-53
+
+*§ 90 annet ledd fjerde punktum skal lyde:*
+
+> Er protest i medhold av § 87 annet ledd opptatt av en tjenestemann utenfor sitt distrikt, skal det i protesten anføres at den tjenestemann som normalt skulle ha opptatt protesten, ikke kunne gjøre det i tide.
+>
+
+## § 91
+
+### 2004-06-25 — lov/2004-06-25-53
+
+*§ 91 skal lyde:*
+
+> Protesten skal ordrett føres inn i tjenestemannens protokoll.
+>
+> Utskrift av protokollen må ikke meddeles andre enn protestrekvirenten.Lov 19. mars 1937 nr. 2 om enkelte bestemmelser angående underfogder oppheves.I lov 15. desember 1950 nr. 7 om særlige rådgjerder under krig, krigsfare og liknende forhold skal § 16 første ledd annet punktum lyde:
+>

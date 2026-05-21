@@ -48,6 +48,10 @@ refid: "lov/2000-06-02-39"
 
 ## § 2-2
 
+### 2001-06-15 — lov/2001-06-15-94
+
+*§ 2-2 første ledd bokstav b oppheves. Nåværende bokstaver c, d og e blir b, c og d.*
+
 ### 2009-06-19 — lov/2009-06-19-71
 
 *§ 2-2 første ledd første punktum skal lyde:*
@@ -64,7 +68,37 @@ refid: "lov/2000-06-02-39"
 > Søkere som ikke kan gis apotekkonsesjon
 >
 
+## § 2-3
+
+### 2001-06-15 — lov/2001-06-15-94
+
+*§ 2-3 første ledd bokstav c og d skal lyde:*
+
+> Søker er et foretak som direkte eller indirekte eies med 10 prosent eller mer av person med rekvireringsrett for legemidler eller av nærstående til denne eller av foretak som tar syke i behandling eller av foretak som har kontroll over slikt foretak. Grensen gjelder tilsvarende for samarbeidende grupper av slike personer. Departementet kan i det enkelte tilfellet gjøre unntak fra grensen i første punktum for nærstående til person med rekvireringsrett.Søker kontrolleres av en eller flere industrielle tilvirkere av legemidler eller av foretak som direkte eller indirekte eier 10 prosent eller mer av slike tilvirkere.
+>
+
+### 2001-06-15 — lov/2001-06-15-94
+
+*§ 2-3 første ledd ny bokstav e skal lyde:*
+
+> Søker har kontroll over et foretak som tar syke i behandling.
+>
+
+### 2001-06-15 — lov/2001-06-15-94
+
+*§ 2-3 nytt annet ledd skal lyde:*
+
+> Et foretak har kontroll over et annet foretak når det tar plass før dette i en ubrutt rekke av foretak som har bestemmende innflytelse over en blokkerende minoritetsandel eller en tredjedel eller mer av stemmene eller aksjekapitalen i det neste foretaket i rekken.
+>
+
 ## § 2-5
+
+### 2001-06-15 — lov/2001-06-15-94
+
+*§ 2-5 annet ledd skal lyde:*
+
+> I særlige tilfeller kan konsesjon til sykehusapotek også gis til privat søker som oppfyller kravene i § 2-2 jf. § 2-3. Dette gjelder selv om kravet i § 2-3 første ledd bokstav c eller e ikke er oppfylt.
+>
 
 ### 2009-06-19 — lov/2009-06-19-71
 
@@ -84,6 +118,13 @@ refid: "lov/2000-06-02-39"
 *§ 2-6 oppheves.*
 
 ## § 2-7
+
+### 2001-06-15 — lov/2001-06-15-94
+
+*§ 2-7 annet ledd bokstav a skal lyde:*
+
+> Tillatelse til etablering av medisinutsalg på et bestemt sted hvis departementet anser det nødvendig for å sikre en forsvarlig legemiddelforsyning. Tillatelse til å ha medisinutsalg kan kalles tilbake med 6 måneders varsel, og skal kalles tilbake hvis det etableres et apotek på stedet.
+>
 
 ### 2009-06-19 — lov/2009-06-19-71
 
@@ -377,6 +418,17 @@ refid: "lov/2000-06-02-39"
 > Legemidler som er tilvirket til lager, kan bare selges til apotek og til grossist på grunnlag av særskilt tillatelse fra departementet. Tillatelsen kan gis for et begrenset tidsrom og på nærmere vilkår, som kan endres etter at tillatelse er gitt. Apotek med tillatelse til salg av lagerproduksjon etter dette ledd kan pålegges leveringsplikt til apotek og grossist for legemidler som omfattes av tillatelsen.
 >
 
+## § 8-1
+
+### 2001-06-15 — lov/2001-06-15-94
+
+*§ 8-1 skal lyde:*
+
+> § 8-1.Tilsynsmyndighet
+>
+> Departementet er tilsynsmyndighet og fører tilsyn med at krav til apotekvirksomhet i lov og forskrifter er oppfylt.
+>
+
 ## § 8-2
 
 ### 2009-06-19 — lov/2009-06-19-71
@@ -419,6 +471,10 @@ refid: "lov/2000-06-02-39"
 
 ## § 9-3
 
+### 2001-06-15 — lov/2001-06-15-94
+
+*§ 9-3 oppheves.*
+
 ### 2024-06-25 — lov/2024-06-25-68
 
 *§ 9-3 første punktum skal lyde:*
@@ -427,6 +483,15 @@ refid: "lov/2000-06-02-39"
 >
 
 ## § 9-4
+
+### 2001-06-15 — lov/2001-06-15-94
+
+*§ 9-4 skal lyde:*
+
+> § 9-4.Tvangsmulkt
+>
+> For å sikre at vilkår gitt etter § 2-8, plikter etter § 5-5 samt pålegg gitt etter § 8-3 oppfylles, kan tilsynsmyndigheten bestemme at apoteket skal betale en løpende tvangsmulkt for hver dag som går etter utløpet av den frist som er satt for oppfylling av forholdet, inntil de er oppfylt. Vedtak om tvangsmulkt er tvangsgrunnlag for utlegg.
+>
 
 ### 2008-12-19 — lov/2008-12-19-110
 
@@ -474,6 +539,10 @@ refid: "lov/2000-06-02-39"
 >
 
 ## (annet)
+
+### 2001-06-15 — lov/2001-06-15-94
+
+*Nåværende annet ledd blir tredje ledd.*
 
 ### 2002-12-20 — lov/2002-12-20-101
 

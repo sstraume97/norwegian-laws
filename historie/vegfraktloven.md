@@ -77,6 +77,42 @@ refid: "lov/1974-12-20-68"
 > Foreligger det etter godsets framkomst til bestemmelsesstedet, hindring for utlevering, skal fraktføreren innhente forholdsordre fra avsenderen. Nekter mottakeren ved internasjonal befordring å ta imot godset, kan avsenderen rå over det uten å framvise det første eksemplar av fraktbrevet.
 >
 
+## § 41
+
+### 2007-02-27 — lov/2007-01-26-3
+
+*§ 41 femte ledd skal lyde:*
+
+> Et krav som er foreldet, kan heller ikke gjøres gjeldende overfor en saksøker eller til motregning under rettergang.
+>
+
+## § 42
+
+### 2007-02-27 — lov/2007-01-26-3
+
+*§ 42 tredje ledd skal lyde:*
+
+> Ved innenriks befordring kan søksmål foruten i rettskrets hvor det etter tvisteloven kapittel 4 er verneting, også reises i rettskrets hvor godset ble overtatt til befordring eller hvor bestemmelsesstedet ligger.
+>
+
+## § 43
+
+### 2007-02-27 — lov/2007-01-26-3
+
+*§ 43 annet ledd første punktum skal lyde:*
+
+> Dom, herunder fraværsdom, avsagt av domstol i en konvensjonsstat, og forlik inngått eller bekreftet for slik domstol, kan fullbyrdes her i riket når dommen eller forliket kan kreves fullbyrdet i den stat der dommen er avsagt eller forliket inngått.
+>
+
+## § 47
+
+### 2007-02-27 — lov/2007-01-26-3
+
+*§ 47 første punktum skal lyde:*
+
+> Bortsett fra når krav mot saksøkeren eller motregningsinnsigelse gjøres gjeldende i søksmål om krav som grunnes på samme fraktavtale, kan søksmål om ansvar for tap, skade eller forsinket utlevering bare reises mot den første eller den siste fraktfører eller mot fraktføreren ved den del av befordringen hvorunder den hending inntraff som voldte tapet, skaden eller forsinkelsen.
+>
+
 ## § 7
 
 ### 2020-05-07 — lov/2020-05-07-39

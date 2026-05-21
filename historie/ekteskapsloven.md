@@ -14,6 +14,66 @@ refid: "lov/1991-07-04-47"
 > § 23.Skilsmisse på grunn av overgrep og tvangsekteskap
 >
 
+### 2007-02-27 — lov/2007-01-26-3
+
+*I kapittel 5 skal ny § 25 a lyde:*
+
+> § 25 a.Virkeområde
+>
+> Reglene i dette kapitlet kommer til anvendelse i saker:om separasjon og skilsmisse som reises for fylkesmannen, ellerom et ekteskap består eller ikke består, om oppløsning av ekteskap og om separasjon som reises for domstolene (ekteskapssak).
+>
+> For spørsmål som bringes inn i saken etter § 30 d første ledd bokstav a og c, gjelder § 30 b om norske domstolers kompetanse og § 30 c om verneting tilsvarende. For spørsmål som bringes inn i saken etter § 30 d første ledd bokstav b, gjelder barnelova § 82 om norske domstolers kompetanse og denne lov § 30 c om verneting tilsvarende.
+>
+
+### 2007-02-27 — lov/2007-01-26-3
+
+*Nåværende tredje og fjerde punktum blir femte og sjette punktum.*
+
+### 2007-02-27 — lov/2007-01-26-3
+
+*Nye §§ 30 a til 30 f skal lyde:*
+
+> § 30 a.Fylkesmannens adgang til å opptre for å ivareta offentlige interesser
+>
+> I saker som anlegges for å få dom for at et ekteskap består eller ikke består, eller for å få det oppløst etter § 24 første ledd, kan fylkesmannen opptre for å ivareta offentlige interesser. Retten skal gi ham melding om saken. Fylkesmannen kan erklære anke og begjære gjenåpning. Ellers er inntreden i saken bare tillatt etter § 30 f.
+>
+> § 30 b.Når ekteskapssak kan anlegges i Norge
+>
+> Dersom ikke annet er fastsatt ved overenskomst med fremmed stat, kan ekteskapssak reises ved norsk domstol:når saksøkte har bopel i riket, ellernår saksøkeren har bopel i riket og enten har bodd her de siste to år eller tidligere har hatt bopel her, ellernår saksøkeren er norsk statsborger og det godtgjøres at hun eller han på grunn av sitt statsborgerskap ikke vil kunne reise sak i det land hvor vedkommende har bopel, ellernår begge ektefeller er norske statsborgere og saksøkte ikke motsetter seg at saken reises for norsk domstol, ellernår det blir søkt om skilsmisse på grunnlag av separasjon som er meddelt her i riket, i løpet av de fem foregående år.
+>
+> § 30 c.Verneting
+>
+> Ekteskapssak anlegges ved saksøktes alminnelige verneting etter tvisteloven § 4-4. I saker som nevnt i § 30 annet ledd annet og tredje punktum, anlegges saken der en av de saksøkte har alminnelig verneting.
+>
+> Hører saken under norsk domsmyndighet uten at saksøkte har alminnelig verneting i riket, kan saken anlegges i den rettskrets hvor ektefellene hadde sin siste felles bopel eller saksøkeren har bopel.
+>
+> Blir saken reist av fylkesmannen, kan den anlegges i den rettskretsen hvor en av ektefellene kunne vært saksøkt.
+>
+> § 30 d.Inndragning av andre krav i en ekteskapssak
+>
+> I ekteskapssak kan også behandles:spørsmål om bidrag,spørsmål etter barnelova om felles barn,spørsmål etter ekteskapslovens øvrige bestemmelser med mindre det er begjært offentlig skifte, ogkrav som er en følge av søksmålet.
+>
+> Hvis ikke spørsmål som nevnt i første ledd bokstav a og b er trukket inn i saken, skal retten av eget tiltak undersøke om partene er uenige om slike spørsmål, og i tilfelle treffe avgjørelse i saken. Det gjelder likevel ikke hvis partene er enige om å holde spørsmålet utenfor, eller den ene parten uteblir, og den møtende ønsker å holde spørsmålet utenfor, eller hvis en av partene er bosatt utenfor riket.
+>
+> Når spørsmål etter barnelova om felles barn trekkes inn i saken etter første ledd, får saksbehandlingsreglene i barnelova kap. 7 anvendelse for behandlingen av disse spørsmålene.
+>
+> Ellers kan en ekteskapssak bare forenes med sivile tvister om andre rettsforhold så langt vilkårene i tvisteloven § 15-1 er til stede, og kun i den utstrekning retten tillater det.
+>
+> § 30 e.Rettskraft, oppfriskning og gjenåpning
+>
+> En rettskraftig dom om spørsmål som nevnt i § 25 a første ledd bokstav b (ekteskapssak), virker for og mot alle og legges til grunn i alle forhold hvor spørsmålet har betydning. Går dommen ut på skilsmisse eller på separasjon, gjelder det samme selv om dommen ikke er rettskraftig, hvis ikke annet er bestemt.
+>
+> Er et ekteskap erklært for ikke å bestå, eller er det oppløst, er oppfriskning for oversittelse av ankefristen og gjenåpning utelukket hvis en av ektefellene har inngått nytt ekteskap før avgjørelsen om oppfriskning eller henvisning til hovedforhandling er forkynt for ham eller henne.
+>
+> § 30 f.Parten dør. Barns og arvingers rett til å tre inn i saken
+>
+> Dør en part før dom er avsagt i en sak om hans eller hennes eget ekteskap, heves saken. Gjelder saken oppløsning av ekteskap etter § 24 første ledd eller spørsmålet om et ekteskap består, eller om en separasjon er uten rettsvirkning etter § 20 annet ledd, kan den likevel fortsettes så vel av som mot den avdødes barn eller arvinger hvis avgjørelsen har rettslig betydning.
+>
+> Dør parten etter at dom er avsagt, kan under samme betingelse anke og gjenåpning anvendes av eller mot barna eller arvingene hvis dommen går ut på oppløsning av ekteskapet eller på separasjon, eller saken gjelder spørsmålet om ekteskapet består, eller om en separasjon er uten rettsvirkning etter § 20 annet ledd.
+>
+> Har flere søksmåls- eller ankeberettigede trådt inn i saken, må de opptre i fellesskap. Har en enkelt trådt inn, kan andre søksmåls- eller ankeberettigede slutte seg til.
+>
+
 ### 2008-06-27 — lov/2008-06-27-53
 
 *Nåværende § 1 blir ny § 1 a og nåværende § 1 a blir ny § 1 b.*
@@ -33,6 +93,48 @@ refid: "lov/1991-07-04-47"
 ### 2016-05-27 — lov/2016-05-27-12
 
 *Nåværende fjerde og femte punktum blir femte og nytt sjette punktum.*
+
+### 2020-12-18 — lov/2020-12-18-149
+
+*I kapittel 15 skal ny § 78 a lyde:*
+
+> § 78 a.Tap av retten til deling av felleseie
+>
+> Blir en ektefelle dømt for en straffbar handling mot den avdøde ektefellen, og handlingen forårsaket dødsfallet, kan retten bestemme at deling av felleseiemidler ikke skal finne sted. Arveloven § 72 tredje og fjerde ledd gjelder tilsvarende så langt de passer.
+>
+
+### 2020-12-18 — lov/2020-12-18-149
+
+*Nåværende del V blir ny del VI.*
+
+### 2020-12-18 — lov/2020-12-18-149
+
+*Nåværende kapittel 18 blir nytt kapittel 19.*
+
+### 2020-12-18 — lov/2020-12-18-149
+
+*Nåværende § 94 blir ny § 110.*
+
+### 2020-12-18 — lov/2020-12-18-149
+
+*Nåværende § 95 blir ny § 111.*
+
+### 2020-12-18 — lov/2020-12-18-149
+
+*Nåværende § 96 blir ny § 112.*
+
+> 2.I lov 17. juli 1925 nr. 11 om Svalbard skal § 12 lyde:
+>
+> § 12.
+>
+> På Svalbard kan meldinger om dødsfall etter arveloven § 89 gis til sysselmannen.
+>
+> 3.I lov 10. februar 1967 om behandlingsmåten i forvaltningssaker skal § 4 første ledd bokstav b lyde:saker som forvaltningsorganet selv behandler eller avgjør i medhold av rettspleielovene (straffeprosesslovene, domstolloven, tvisteloven, voldgiftsloven, tvangsfullbyrdelsesloven, skjønnsloven) eller lover som knytter seg til disse lovene (konkursloven, arvelovens tredje del og gjeldsordningsloven), eller jordskiftelova eller rettsgebyrloven.
+>
+> 4.I lov 12. mai 1972 nr. 28 om atomenergivirksomhet skal § 32 nr. 4 annet punktum lyde:
+>
+> Når Kongen ikke har bestemt annet, gjelder bestemmelsene i arveloven kapittel 17 avsnitt V tilsvarende så langt de passer for tingrettens avgjørelser etter denne paragraf.
+>
 
 ### 2021-06-11 — lov/2021-06-11-63
 
@@ -139,6 +241,13 @@ refid: "lov/1991-07-04-47"
 > Vedtak om å ikke utstede prøvingsattest kan påklages til fylkesmannen.
 >
 
+### 2007-06-29 — lov/2007-06-29-56
+
+*§ 10 første ledd første punktum skal lyde:*
+
+> Har folkeregistermyndigheten eller norsk utenrikstjenestemann funnet at brudefolkene fyller ekteskapsvilkårene etter loven, og det heller ikke foreligger hindringer som nevnt i § 8 eller § 9, skal brudefolkene få en attest for at det ikke er noe til hinder for at ekteskapet blir inngått.
+>
+
 ### 2023-06-16 — lov/2023-06-16-34
 
 *§ 10 første ledd første punktum skal lyde:*
@@ -229,6 +338,13 @@ refid: "lov/1991-07-04-47"
 > Noverande tredje og fjerde ledd blir andre og tredje ledd.
 >
 
+### 2007-06-29 — lov/2007-06-29-56
+
+*§ 14 første ledd skal lyde:*
+
+> Før vigsel finner sted, skal vigsleren motta en attest fra folkeregistermyndigheten eller norsk utenrikstjenestemann på at ekteskapsvilkårene er prøvet og at reglene i §§ 6 til 10 er fulgt.
+>
+
 ### 2023-06-16 — lov/2023-06-16-34
 
 *§ 14 første ledd skal lyde:*
@@ -258,6 +374,10 @@ refid: "lov/1991-07-04-47"
 
 > Et ekteskap er ugyldig dersom prest i Den norske kirke ikke har fulgt liturgi fastsatt av Kirkemøtet.
 >
+
+### 2013-04-05 — lov/2013-04-05-12
+
+*§ 16 sjette ledd tredje punktum oppheves.*
 
 ### 2015-09-18 — lov/2015-09-18-92
 
@@ -356,6 +476,17 @@ refid: "lov/1991-07-04-47"
 > Et ekteskap som er inngått i utlandet, anerkjennes ikke her i riket dersom minst en av partene var norsk statsborger eller fast bosatt her i riket på vigselstidspunktet, og:ekteskapet er inngått uten at begge parter var til stede under vigselen,en av partene var under 18 år, elleren av partene allerede var gift.Departementet kan likevel etter begjæring fra begge parter anerkjenne ekteskapet dersom sterke grunner taler for det.
 >
 
+## § 2
+
+### 2013-04-05 — lov/2013-04-05-12
+
+*§ 2 skal lyde:*
+
+> § 2.Adgangen til å inngå ekteskap for personer som er satt under vergemål
+>
+> Den som er satt under vergemål, må ha samtykke fra vergen for å inngå ekteskap dersom det faller innenfor vergens oppdrag å gi slikt samtykke. Nekter vergen, kan fylkesmannen likevel gi tillatelse hvis det ikke er rimelig grunn for nektelsen.
+>
+
 ## § 23
 
 ### 2007-01-18 — lov/2007-01-18-1
@@ -381,6 +512,15 @@ refid: "lov/1991-07-04-47"
 > § 24.Oppløsning av ekteskap som er inngått i strid med §§ 1 a, 3 eller 4
 >
 > Hver av ektefellene kan kreve ekteskapet oppløst dersom det er inngått i strid med §§ 1 a, 3 eller 4.
+>
+
+## § 25
+
+### 2007-02-27 — lov/2007-01-26-3
+
+*§ 25 nytt tredje ledd skal lyde:*
+
+> Har bevillingsvedtaket vært gjenstand for klage, regnes ikke vedtaket som endelig før etter utløpet av søksmålsfristen i § 29 femte ledd.
 >
 
 ## § 26
@@ -415,6 +555,68 @@ refid: "lov/1991-07-04-47"
 > § 26.Mekling mv.
 >
 
+## § 27
+
+### 2013-04-05 — lov/2013-04-05-12
+
+*§ 27 annet ledd bokstav c skal lyde:*
+
+> når sak om separasjon eller skilsmisse blir reist av vergen etter § 28.
+>
+
+## § 28
+
+### 2007-02-27 — lov/2007-01-26-3
+
+*Ny § 28 skal lyde:*
+
+> § 28.Partsrettigheter for umyndig ektefelle mv.
+>
+> Sak for fylkesmannen om separasjon eller skilsmisse og ekteskapssak for domstolene reises av eller mot en ektefelle personlig også når han eller hun er umyndig. Når sak er reist, kan vergen opptre til støtte for den umyndige. Vergen skal varsles om saken av fylkesmannen. Er sak reist for domstolene, skal stevning også forkynnes for vergen.
+>
+> En verge kan fremme sak på vegne av en ektefelle som mangler rettslig handleevne, dersom det er påtrengende nødvendig av hensyn til denne ektefellen. Disse sakene behandles i alle tilfeller av domstolene, som også avgjør om det er grunnlag for saksanlegget.
+>
+> Dersom en myndig ektefelle har fått oppnevnt hjelpeverge i medhold av vergemålsloven §§ 90 a flg., og det faller innenfor hjelpevergens oppdrag å opptre i eller fremme sak om separasjon eller skilsmisse eller ekteskapssak, gjelder reglene i første og annet ledd tilsvarende for hjelpevergen.
+>
+> For behandling av spørsmål om bidrag og andre økonomiske spørsmål i forbindelse med ekteskapssak gjelder tvisteloven § 2-3. Dette gjelder også for en hjelpeverge hvis det faller innenfor hjelpevergens oppdrag å tre inn i saken.
+>
+
+### 2013-04-05 — lov/2013-04-05-12
+
+*§ 28 skal lyde:*
+
+> § 28.Partsrettigheter for ektefelle under vergemål mv.
+>
+> Sak for fylkesmannen om separasjon eller skilsmisse og ekteskapssak for domstolene reises av eller mot en ektefelle personlig også når han eller hun er mindreårig eller fratatt rettslig handleevne etter vergemålsloven § 22. Når sak er reist, kan vergen opptre til støtte for denne ektefellen. Vergen skal varsles om saken av fylkesmannen. Er sak reist for domstolene, skal stevning også forkynnes for vergen.
+>
+> En verge kan fremme sak på vegne av en ektefelle som mangler rettslig handleevne, dersom det er påtrengende nødvendig av hensyn til denne ektefellen. Disse sakene behandles i alle tilfeller av domstolene, som også avgjør om det er grunnlag for saksanlegget.
+>
+> Dersom en ektefelle er satt under vergemål uten å være fratatt rettslig handleevne, og det faller innenfor vergens oppdrag å opptre i eller fremme sak om separasjon eller skilsmisse eller ekteskapssak, gjelder reglene i første og annet ledd tilsvarende for vergen.
+>
+
+## § 29
+
+### 2007-02-27 — lov/2007-01-26-3
+
+*§ 29 tredje ledd nytt tredje og fjerde punktum skal lyde:*
+
+> Begjæring om oppreisning for oversittelse av klagefristen må settes fram så snart som mulig, og senest én måned etter at klagefristen løp ut. Er det gitt skilsmissebevilling, er oppreisning utelukket dersom en av ektefellene i mellomtiden har inngått nytt ekteskap.
+>
+
+### 2007-02-27 — lov/2007-01-26-3
+
+*§ 29 fjerde ledd skal lyde:*
+
+> Dør en av partene under saken, gjelder § 30 f tilsvarende ved klage over fylkesmannens avgjørelser.
+>
+
+### 2007-02-27 — lov/2007-01-26-3
+
+*§ 29 nytt femte ledd skal lyde:*
+
+> Søksmål om gyldigheten av et vedtak om separasjon eller skilsmisse kan bare reises når parten fullt ut har benyttet sin adgang til å klage over avgjørelsen. Søksmål må reises innen én måned etter det endelige vedtaket ble forkynt for parten, og må rettes både mot staten ved departementet og den andre ektefellen. Er det gitt skilsmissebevilling, kan det ikke gis oppfriskning for oversittelse av søksmålsfristen dersom den ene av ektefellene i mellomtiden har inngått nytt ekteskap. § 30 e annet ledd gjelder tilsvarende. Inngår en av ektefellene ekteskap etter at søksmål er reist, skal saken heves.
+>
+
 ## § 29 a
 
 ### 2018-06-22 — lov/2018-06-22-52
@@ -440,6 +642,19 @@ refid: "lov/1991-07-04-47"
 *§ 3 første ledd nytt andre og tredje punktum skal lyde:*
 
 > Ekteskap kan heller ikke inngås mellom andre beslektede dersom disse er søskenbarn eller nærmere slektninger enn søskenbarn. Statsforvalteren kan gi samtykke til ekteskap etter andre punktum dersom sterke grunner taler for det.
+>
+
+## § 30
+
+### 2007-02-27 — lov/2007-01-26-3
+
+*§ 30 skal lyde:*
+
+> § 30.Partene i en ekteskapssak
+>
+> Ekteskapssak kan bare reises for domstolene av en av ektefellene selv eller av den som påstår å være eller ikke være saksøktes ektefelle, når ikke annet framgår av loven.
+>
+> Reises slik sak av den ene ektefellen, stevnes den andre ektefellen som motpart. Blir saken reist av andre, stevnes begge ektefeller som motparter. Blir sak om oppløsning reist på grunn av tidligere ekteskap, skal også ektefellen i det tidligere ekteskapet stevnes som motpart.
 >
 
 ## § 30 b
@@ -474,6 +689,15 @@ refid: "lov/1991-07-04-47"
 > For spørsmål som bringes inn i saken etter første ledd bokstav b, gjelder barnelova § 15-5 om norske domstolers kompetanse tilsvarende, med mindre noe annet følger av overenskomst med annen stat.
 >
 
+## § 32
+
+### 2020-12-18 — lov/2020-12-18-149
+
+*§ 32 annet ledd fjerde punktum skal lyde:*
+
+> Bestemmelsene i arveloven kapittel 17 avsnitt V får tilsvarende anvendelse.
+>
+
 ## § 4
 
 ### 2021-06-11 — lov/2021-06-11-63
@@ -481,6 +705,35 @@ refid: "lov/1991-07-04-47"
 *§ 4 nytt andre ledd skal lyde:*
 
 > Når et ekteskap inngått etter utenlandsk rett ikke anerkjennes her i riket, gjelder første ledd tilsvarende. Partene i et slikt ekteskap kan likevel gifte seg med hverandre dersom lovens øvrige vilkår for inngåelse av ekteskap er oppfylt. Statsforvalteren kan etter begjæring gi tillatelse til at en part i et ekteskap som nevnt i første punktum kan gifte seg med en annen når særlige grunner taler for det. Departementet fastsetter hvilke statsforvaltere som skal behandle slike begjæringer.
+>
+
+## § 43
+
+### 2020-12-18 — lov/2020-12-18-149
+
+*§ 43 tredje ledd skal lyde:*
+
+> Ved opphør av uskiftet skal delingen skje etter reglene i arveloven § 29 tredje ledd dersom det ikke i ektepakten er bestemt en mer lik fordeling av formuen.
+>
+
+## § 47
+
+### 2013-04-05 — lov/2013-04-05-12
+
+*§ 47 skal lyde:*
+
+> § 47.Personer med manglende rettslig handleevne
+>
+> En ektefelle som er mindreårig eller fratatt rettslig handleevne på det økonomiske området, må ha samtykke av verge for å inngå avtaler i samsvar med reglene i §§ 42 til 46. Det samme gjelder en ektefelle som er satt under vergemål uten å være fratatt rettslig handleevne, dersom det faller innenfor vergens oppdrag å gi slikt samtykke.
+>
+
+## § 54
+
+### 2013-04-05 — lov/2013-04-05-12
+
+*§ 54 første ledd femte punktum skal lyde:*
+
+> Kreves det for en ektefelle samtykke av verge, må dette samtykket gis på samme måte.
 >
 
 ## § 55
@@ -492,6 +745,47 @@ refid: "lov/1991-07-04-47"
 > En ektepakt som overdrar fast eiendom fra den ene ektefellen til den andre, må dessuten tinglyses hos registerføreren for tinglysing i fast eiendom etter de alminnelige regler. Tilsvarende gjelder for andre eiendeler hvor overdragelse trenger tinglysing eller registrering for å få rettsvern.
 >
 
+## § 57
+
+### 2007-02-27 — lov/2007-01-26-3
+
+*§ 57 første ledd bokstav c tredje punktum skal lyde:*
+
+> Kravet avgjøres ved dom av den tingretten som delingen hører under.
+>
+
+### 2007-02-27 — lov/2007-01-26-3
+
+*§ 57 første ledd bokstav c fjerde punktum oppheves. Femte og sjette punktum blir fjerde og femte punktum og skal lyde:*
+
+> Reglene om behandling av skiftetvister gjelder så langt de passer. En dom om deling skal tinglyses etter reglene for ektepakter.
+>
+
+### 2013-04-05 — lov/2013-04-05-12
+
+*§ 57 første ledd bokstav c annet punktum skal lyde:*
+
+> Dersom ektefellen er mindreårig eller fratatt rettslig handleevne på det økonomiske området, må vergen samtykke.
+>
+> 33. I lov 19. juni 1992 nr. 59 om bygdeallmenninger skal § 4-2 tredje og fjerde ledd lyde:
+>
+> For person som er mindreårig eller fratatt rettslig handleevne, utøves stemmeretten av vergen.
+>
+> Ingen kan avgi mer enn to stemmer. I tilfelle hvor både vergen og person som nevnt i tredje ledd har stemmerett, kan likevel vergen stemme både for seg selv og personen han eller hun er verge for.
+>
+> 34. I lov 19. juni 1992 nr. 60 om skogsdrift m.v. i statsallmenningene skal § 3-2 tredje og fjerde ledd lyde:
+>
+> For person som er mindreårig eller fratatt rettslig handleevne, utøves stemmeretten av vergen.
+>
+> Ingen kan avgi mer enn to stemmer. I tilfelle hvor både vergen og person som nevnt i tredje ledd har stemmerett, kan likevel vergen stemme både for seg selv og personen han eller hun er verge for.
+>
+> 35. I lov 18. juni 1993 nr. 109 om autorisasjon av regnskapsførere skal § 4 første ledd nr. 5 lyde:ikke være mindreårig eller fratatt rettslig handleevne etter vergemålsloven,
+>
+> 36. I lov 22. desember 1995 nr. 85 om europeiske økonomiske foretaksgrupper ved gjennomføring av EØS-avtalens vedlegg XXII nr. 10 (rådsforordning (EØF) nr. 2137/85) skal § 3 lyde:
+>
+> § 3 Ingen kan være forretningsfører i en foretaksgruppe når vedkommende er mindreårig eller fratatt rettslig handleevne, eller det inntrer slik hindring for vedkommende som nevnt i konkursloven § 142.
+>
+
 ## § 6
 
 ### 2003-12-19 — lov/2003-12-19-119
@@ -501,11 +795,34 @@ refid: "lov/1991-07-04-47"
 > Prøvingen foretas av folkeregisteret eller av norsk utenrikstjenestemann på det stedet der en av brudefolkene bor, eller om ingen av brudefolkene har bopel her i landet, på det stedet der en av dem oppholder seg. Norsk utenrikstjenestemann prøver kun ekteskapsvilkårene for norske borgere som er fast bosatt i embetsdistriktet, og bare i de tilfeller der prøvingen ikke kan foretas av norsk folkeregister.
 >
 
+### 2007-06-29 — lov/2007-06-29-56
+
+*§ 6 andre ledd skal lyde:*
+
+> Prøvingen foretas av folkeregistermyndigheten eller av norsk utenrikstjenestemann. Norsk utenrikstjenestemann prøver kun ekteskapsvilkårene for norske borgere som er fast bosatt i embetsdistriktet, og bare i de tilfeller der prøvingen ikke kan foretas av norsk folkeregistermyndighet.
+>
+
 ### 2023-06-16 — lov/2023-06-16-34
 
 *§ 6 andre ledd skal lyde:*
 
 > Prøvingen foretas av folkeregistermyndigheten eller av norsk utenrikstjenesteansatt. Norsk utenrikstjenesteansatt prøver kun ekteskapsvilkårene for norske borgere som er fast bosatt i embetsdistriktet, og bare i de tilfeller der prøvingen ikke kan foretas av norsk folkeregistermyndighet.
+>
+
+## § 69
+
+### 2020-12-18 — lov/2020-12-18-149
+
+*§ 69 første ledd første punktum skal lyde:*
+
+> Blir ikke ektefellene enige om verdien av eiendeler som den enkelte skal beholde etter § 66 eller overta etter § 67, fastsettes verdien etter begjæring ved skiftetakst.
+>
+
+### 2020-12-18 — lov/2020-12-18-149
+
+*§ 69 annet ledd annet punktum skal lyde:*
+
+> I andre tilfeller skal verdsettelsen knyttes til verdien på det tidspunktet det blir bestemt hvem som skal overta eiendelen, hvis ikke noe annet blir avtalt.
 >
 
 ## § 7
@@ -538,6 +855,27 @@ refid: "lov/1991-07-04-47"
 > Folkeregisteret eller norsk utenrikstjenestemann kan gjøre unntak fra kravet i første punktum når særlige grunner taler for det.
 >
 
+### 2007-02-27 — lov/2007-01-26-3
+
+*§ 7 bokstav e annet ledd femte og sjette punktum skal lyde:*
+
+> Kjennelsen kan ankes av den som avgjørelsen går mot. Er bevisene godtatt, skal retten gi melding til fylkesmannen, som kan anke kjennelsen.
+>
+
+### 2007-06-29 — lov/2007-06-29-56
+
+*§ 7 bokstav a første punktum skal lyde:*
+
+> Hver av dem skal legge fram fødselsattest fra folkeregistermyndigheten når prøvingen ikke foretas av folkeregistermyndigheten.
+>
+
+### 2007-06-29 — lov/2007-06-29-56
+
+*§ 7 bokstav h andre punktum skal lyde:*
+
+> Folkeregistermyndigheten eller norsk utenrikstjenestemann kan gjøre unntak fra kravet i første punktum når særlige grunner taler for det.
+>
+
 ### 2008-12-19 — lov/2008-12-19-112
 
 *§ 7 bokstav e første ledd første punktum skal lyde:*
@@ -545,11 +883,27 @@ refid: "lov/1991-07-04-47"
 > Hver av brudefolkene skal erklære skriftlig på ære og samvittighet om han eller hun har inngått ekteskap eller registrert partnerskap tidligere, eller om han eller hun sitter i uskiftet bo etter en tidligere samboer etter arveloven § 28 c.
 >
 
+### 2013-04-05 — lov/2013-04-05-12
+
+*§ 7 bokstav c skal lyde:*
+
+> Er noen av brudefolkene satt under vergemål og det faller innenfor vergens oppdrag å samtykke til ekteskap, skal det godtgjøres at det er gitt samtykke eller tillatelse til ekteskapet etter § 2 første punktum, jf. andre punktum.
+>
+
 ### 2015-09-18 — lov/2015-09-18-92
 
 *§ 7 bokstav b skal lyde:*
 
 > Er noen av brudefolkene under 18 år, skal det godtgjøres at det er gitt samtykke og tillatelse til ekteskapet etter § 1 a.
+>
+
+### 2020-12-18 — lov/2020-12-18-149
+
+*§ 7 bokstav e første og annet ledd skal lyde:*
+
+> Hver av brudefolkene skal erklære skriftlig på ære og samvittighet om han eller hun har inngått ekteskap eller registrert partnerskap tidligere, eller om han eller hun sitter i uskiftet bo etter en tidligere samboer etter arveloven § 32. I tilfelle skal det legges fram bevis for at det tidligere ekteskapet eller det registrerte partnerskapet er opphørt ved død eller ved skilsmisse, eller oppløst etter § 24.
+>
+> Bevis for at den tidligere ektefellen eller den registrerte partneren er død, føres som regel ved attest fra en innenlandsk eller utenlandsk offentlig myndighet. Kan slik attest ikke skaffes, kan partene legge sine opplysninger og bevis fram for vedkommende tingrettsdommer, jf. arveloven § 84 første ledd. Hører skiftet ikke under norsk tingrett, kan spørsmålet bringes inn for tingrettsdommeren på det stedet der ekteskapsvilkårene prøves. Retten avgjør ved kjennelse om bevisene skal godtas. Kjennelsen kan ankes av den som avgjørelsen går mot. Er bevisene godtatt, skal retten gi melding til fylkesmannen, som kan anke kjennelsen.
 >
 
 ### 2021-06-11 — lov/2021-06-11-63
@@ -579,6 +933,15 @@ refid: "lov/1991-07-04-47"
 > En utenlandsk statsborger som ikke er fast bosatt i Norge, skal legge fram dokumentasjon fra myndighetene i sitt hjemland om at det ikke er noe til hinder for at han eller hun inngår ekteskap i Norge, eller dersom slik dokumentasjon ikke kan legges fram, dokumentasjon som viser at han eller hun ikke er registrert som gift eller registrert partner i sitt hjemland. Folkeregistermyndigheten eller norsk utenrikstjenestemann kan gjøre unntak fra kravet i første punktum når særlige grunner taler for det. Departementet gir forskrift om når en utenlandsk statsborger skal anses for å være fast bosatt i Norge.
 >
 
+## § 77
+
+### 2020-12-18 — lov/2020-12-18-149
+
+*§ 77 tredje ledd skal lyde:*
+
+> Om forholdet ellers mellom den gjenlevende ektefellen og avdødes arvinger, herunder om retten til å overta eiendeler ved delingen, gjelder reglene i arveloven.
+>
+
 ## § 8
 
 ### 2008-12-19 — lov/2008-12-19-112
@@ -586,6 +949,22 @@ refid: "lov/1991-07-04-47"
 *§ 8 nytt femte ledd skal lyde:*
 
 > Første, annet og fjerde ledd gjelder tilsvarende for den som har sittet i uskiftet bo etter en tidligere samboer etter arveloven § 28 c.
+>
+
+### 2013-04-05 — lov/2013-04-05-12
+
+*§ 8 fjerde ledd skal lyde:*
+
+> Erklæring som nevnt i første ledd kan ikke gis av noen som er under 18 år eller fratatt rettslig handleevne, hvis ikke vergen har gitt samtykke til privat skifte etter skifteloven § 53 første ledd nr. 3 eller § 79.
+>
+
+### 2020-12-18 — lov/2020-12-18-149
+
+*§ 8 fjerde og femte ledd skal lyde:*
+
+> Erklæring som nevnt i første ledd kan ikke gis av noen som er under 18 år eller fratatt rettslig handleevne, hvis ikke vergen har gitt samtykke til privat skifte etter § 96 første ledd første punktum bokstav c.
+>
+> Første, annet og fjerde ledd gjelder tilsvarende for den som har sittet i uskiftet bo etter en tidligere samboer etter arveloven kapittel 6.
 >
 
 ## § 83
@@ -642,11 +1021,27 @@ refid: "lov/1991-07-04-47"
 > Dersom vigsleren, folkeregisteret eller norsk utenrikstjenestemann har grunn til å tro at noen av brudefolkene på grunn av alvorlig sinnslidelse eller alvorlig psykisk utviklingshemning mangler rettslig handleevne, kan det kreves lagt fram attest fra en offentlig lege eller fra en annen lege som en offentlig lege utpeker.
 >
 
+### 2007-06-29 — lov/2007-06-29-56
+
+*§ 9 første punktum skal lyde:*
+
+> Dersom vigsleren, folkeregistermyndigheten eller norsk utenrikstjenestemann har grunn til å tro at noen av brudefolkene på grunn av alvorlig sinnslidelse eller alvorlig psykisk utviklingshemning mangler rettslig handleevne, kan det kreves lagt fram attest fra en offentlig lege eller fra en annen lege som en offentlig lege utpeker.
+>
+
 ### 2023-06-16 — lov/2023-06-16-34
 
 *§ 9 første punktum skal lyde:*
 
 > Dersom vigsleren, folkeregistermyndigheten eller norsk utenrikstjenesteansatt har grunn til å tro at noen av brudefolkene på grunn av alvorlig sinnslidelse eller alvorlig psykisk utviklingshemning mangler rettslig handleevne, kan det kreves lagt fram attest fra en offentlig lege eller fra en annen lege som en offentlig lege utpeker.
+>
+
+## § 90
+
+### 2020-12-18 — lov/2020-12-18-149
+
+*§ 90 tredje punktum skal lyde:*
+
+> Reglene om registrering i arveloven § 91 får tilsvarende anvendelse så langt de passer.
 >
 
 ## § 91
@@ -656,6 +1051,133 @@ refid: "lov/1991-07-04-47"
 *§ 91 annet punktum skal lyde:*
 
 > Når det er åpnet offentlig skifte, treffer den tingrett som skifter boet avgjørelsen, jf skifteloven § 57.
+>
+
+### 2007-02-27 — lov/2007-01-26-3
+
+*§ 91 første punktum skal lyde:*
+
+> Er det etter at separasjon er krevd eller søksmål om skilsmisse er reist, grunn til å frykte at en ektefelle vil unndra eiendeler fra delingen eller på annen måte gjøre det vanskelig å oppfylle den andre ektefellens rettigheter etter kapitlene 12 til 14, kan vedkommende ektefelle kreve midlertidig forføyning etter tvisteloven kapittel 32 og 34.
+>
+
+### 2020-12-18 — lov/2020-12-18-149
+
+*§ 91 annet punktum skal lyde:*
+
+> Når det er åpnet offentlig skifte, treffer den tingrett som skifter boet avgjørelsen, jf § 104.
+>
+> Etter § 93 skal ny del V lyde:
+>
+> § 94.Kapitlets virkeområde. Skifteformene
+>
+> Er ektefellene i en situasjon som nevnt i § 57, gjelder reglene i dette kapitlet for fremgangsmåten ved delingen.
+>
+> Deling av formuen kan skje ved privat skifte eller offentlig skifte.
+>
+> § 95.Fremgangsmåten ved privat skifte
+>
+> Hvis det ikke åpnes offentlig skifte etter § 96, gjennomfører ektefellene selv oppgjøret.
+>
+> § 96.Åpning av offentlig skifte
+>
+> Har ektefellene formue som er felleseie, skal det åpnes offentlig skiftehvis en ektefelle krever det,hvis det kreves av en arving eller kreditor som har rett til å kreve deling etter § 57,hvis en ektefelle er fratatt rettslig handleevne, med mindre vergen skriftlig samtykker i at boet skiftes privat,hvis en ektefelle er fraværende utenfor riket eller hans eller hennes oppholdssted ikke er kjent.Krav etter første punktum bokstav a og b kan fremmes inntil bindende avtale om oppgjøret er inngått mellom ektefellene.
+>
+> Har ektefellene fullstendig særeie, skal det åpnes offentlig skifte hvis begge ektefellene krever det. Ektefellene må kreve offentlig skifte innen to år etter at ekteskapet ble oppløst, jf. § 25.
+>
+> Det kan ikke åpnes offentlig skifte hvis det ikke stilles fullgod sikkerhet for skifteomkostningene.
+>
+> § 97.Stedlig og internasjonal kompetanse
+>
+> Hvis ikke noe annet er fastsatt ved overenskomst med fremmed stat, kan det kreves skiftebehandling i Norge når en av ektefellene har sitt vanlige bosted her. Hvis ingen av ektefellene har sitt vanlige bosted her, men minst en av dem har en annen klar tilknytning til Norge, kan det skiftes her hvis ektefellene i fellesskap begjærer det og skiftemyndigheten finner det hensiktsmessig. Skiftebehandling for norsk skiftemyndighet gjennomføres etter norsk lov.
+>
+> Skiftebehandling foretas ved norsk domstol i den rettskretsender ektefellene hadde sitt siste felles bosted hvis noen av dem ved skiftets åpning bor i rettskretsen,der en av dem bor, hvis de ikke har hatt felles bosted i riket, eller ingen av dem bor i den rettskretsen der de hadde sitt siste felles bosted,der en av dem oppholder seg, hvis ingen av dem har bosted i riket,der en fast eiendom som omfattes av skiftet, ligger, og ektefellene ikke har hatt felles bosted i riket,der ektefellene har avtalt at skiftet skal behandles, forutsatt at avtalen er inngått etter at tvisten har oppstått.
+>
+> Er mer enn én tingrett kompetent til å gjennomføre skiftet, foretas det ved den tingretten som først mottar skiftebegjæring.
+>
+> § 98.Tingrettens saklige kompetanse
+>
+> Tingretten behandler alle spørsmål om offentlig skifte skal åpnes, og om skiftets gjennomføring og slutning etter de saksbehandlingsregler som er gitt i dette kapitlet.
+>
+> § 99.Forberedende rettsmøte
+>
+> Før det åpnes offentlig skifte skal retten innkalle partene til et forberedende rettsmøte, med mindre retten finner at et slikt møte vil ha liten hensikt. I møtet skal det gis veiledning om reglene som gjelder for oppgjøret, og om mulig skal spørsmål partene tvistes om, avklares. Dommeren kan mekle mellom partene.
+>
+> Kommer partene til enighet, og dommeren finner det ubetenkelig, kan det i rettsmøtet inngås rettsforlik.
+>
+> Forberedende rettsmøte etter denne paragrafen er ikke offentlig, og allmennheten har ikke rett til innsyn etter tvisteloven kapittel 14, med mindre retten bestemmer noe annet.
+>
+> § 100.Gjennomføring av skiftet
+>
+> Tingretten avgjør om den skal gjennomføre skiftet selv, eller om den skal oppnevne en bostyrer. Hvis det oppnevnes bostyrer, gjelder reglene i arveloven §§ 148 til 157 så langt de passer.
+>
+> Når det ikke oppnevnes bostyrer, kan retten engasjere en medhjelper til gjennomføringen av skiftet.
+>
+> Retten kan innkalle partene til skiftesamling hvis en ektefelle krever det, eller hvis retten ellers finner det hensiktsmessig. Arveloven § 140 gjelder tilsvarende så langt den passer.
+>
+> § 101.Hva skiftebehandlingen omfatter
+>
+> Offentlig skifte etter § 96 første ledd omfatter eiendeler som er felleseie, og særeiemidler som er av betydning for delingen av felleseiet mellom ektefellene, jf. særlig § 58 tredje ledd bokstav c, § 63 og § 73.
+>
+> Offentlig skifte etter § 96 annet ledd omfatter begge ektefellenes særeiemidler.
+>
+> Under offentlig skifte kan tingretten, hvis en av ektefellene krever det, også behandle:rett til bidrag etter kapittel 16,spørsmål om gyldigheten av en ektepakt og hva som hører til en ektefelles særeie, og spørsmål om tolkingen av ektepakten og om den helt eller delvis skal settes til side, jf. § 46 annet ledd,spørsmål om bruksrett til felles bolig og leien for slik bruksrett etter § 68,andre krav som er nødvendige for gjennomføringen av skiftet.
+>
+> § 102.Partenes råderett over egne eiendeler
+>
+> At delingen foregår for retten, har ikke betydning for en ektefelles råderett over egne eiendeler, unntatt når det er truffet beslutning etter § 91.
+>
+> § 103.Dekning av felles gjeld
+>
+> Er det gjeld som begge ektefellene er ansvarlige for, skal retten, hvis en av dem krever det, sørge for at den delen av gjelden som faller på den andre, blir dekket under oppgjøret eller sikret etter reglene i § 64.
+>
+> § 104.Midlertidige avgjørelser
+>
+> Når det er åpnet offentlig skifte, treffer retten avgjørelse om midlertidig forføyning etter reglene i § 91. Retten kan også av eget tiltak treffe slik avgjørelse.
+>
+> § 105.Skiftetvister
+>
+> For tvister under offentlig skifte gjelder reglene i arveloven § 168 annet til fjerde ledd, § 169, § 170 og § 173 tilsvarende så langt de passer.
+>
+> § 106.Tilbakelevering
+>
+> Offentlig skiftebehandling skal avsluttes hvis den grunnen som ledet til offentlig skifte, ikke lenger er til stede. Ektefellene gjennomfører da den videre delingen, jf. § 95. Tvist som er reist under skiftebehandlingen, fortsetter likevel etter reglene i § 105.
+>
+> Tilbakeleveringen skjer ved kjennelse. Kjennelsen skal straks meddeles ektefellene og kreditorer som har meldt krav under skiftet. Har det vært tvist om tilbakeleveringen, skal kjennelsen forkynnes for den tapende part.
+>
+> § 107.Innstilling
+>
+> Offentlig skiftebehandling skal innstilles hvis det viser seg at det beløpet som er stilt som sikkerhet for skifteomkostningene, ikke er tilstrekkelig til å dekke skifteomkostningene, og det ikke stilles ytterligere sikkerhet. Skiftebehandlingen skal også innstilles hvis det viser seg at felleseiet eller særeiemidlene allerede er skiftet.
+>
+> Innstilling av skiftebehandlingen skjer ved kjennelse. § 106 annet ledd gjelder tilsvarende.
+>
+> § 108.Fastsettelse av booppgjøret
+>
+> Det offentlige skiftet avsluttes ved at det fastsettes et booppgjør. Den som gjennomfører skiftebehandlingen, utarbeider et utkast til booppgjør. Booppgjøret skal inneholde en oppstilling over fordelingen av ektefellenes eiendeler og gjeld.
+>
+> Utkastet til booppgjør skal sendes ektefellene. Ektefellene skal gis en frist på minst to uker til å påpeke feil ved utkastet.
+>
+> Booppgjøret fastsettes av tingretten ved kjennelse.
+>
+> Kjennelsen skal straks meddeles ektefellene. Er en av ektefellene under vergemål eller forsvunnet, gjelder arveloven § 161 annet og tredje ledd tilsvarende.
+>
+> Reglene i arveloven § 162 gjelder tilsvarende for adgangen til anke og omgjøring av kjennelsen.
+>
+> § 109.Plikt til å sørge for tinglysing eller registrering
+>
+> Retten skal sørge for at overføring av fast eiendom som ledd i booppgjøret tinglyses i grunnboken. Om en ektefelle gis rett til pant i fast eiendom eller realregistrerbart løsøre, skal retten sørge for at pantet tinglyses eller registreres. Gebyr for tinglysing eller annen registrering i et realregister dekkes av ektefellene i fellesskap.
+>
+
+## § 93
+
+### 2007-02-27 — lov/2007-01-26-3
+
+*§ 93 første ledd første punktum skal lyde:*
+
+> Dersom det pågår sak om kravet eller sak for domstolene etter kapittel 5, treffes midlertidig avgjørelse etter § 92 av den retten som behandler saken.
+>
+> 93. I lov 20. juli 1991 nr. 67 om overføring av domfelte skal § 9 tredje punktum lyde:
+>
+> Avgjørelse etter gyldighetskonvensjonen art. 39 nr. 2 første punktum treffes ved kjennelse, som kan ankes etter reglene om anke over dommer.
 >
 
 ## § 95

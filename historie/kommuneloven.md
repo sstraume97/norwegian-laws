@@ -5,22 +5,6 @@ refid: "lov/2018-06-22-83"
 
 # Endringshistorikk: Kommuneloven
 
-## § 1-4 a
-
-### 2019-06-21 — lov/2019-06-21-55
-
-*§ 1-4 a første ledd bokstav c skal lyde:*
-
-> opphever kommunens eller fylkeskommunens avgjørelse etter lovlighetskontroll, jf. kommuneloven kapittel 27.
->
-
-### 2019-06-21 — lov/2019-06-21-55
-
-*§ 1-4 a tredje ledd skal lyde:*
-
-> Første ledd gjelder tilsvarende for samarbeidskommuner i et vertskommunesamarbeid, jf. kommuneloven kapittel 20, og for Longyearbyen lokalstyre.
->
-
 ## § 5-1
 
 ### 2019-06-21 — lov/2019-06-21-55
@@ -347,9 +331,6 @@ refid: "lov/2018-06-22-83"
 ### 2019-06-21 — lov/2019-06-21-55
 
 *§ 31-6 nytt nr. 35 skal lyde:*
-
-> 35.I lov 17. juni 2005 nr. 90 om mekling og rettergang i sivile tvister gjøres følgende endringer:
->
 
 ## (annet)
 

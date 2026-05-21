@@ -100,6 +100,13 @@ refid: "lov/2005-04-29-20"
 
 ## § 21
 
+### 2007-06-29 — lov/2007-06-29-66
+
+*§ 21 første ledd andre punktum skal lyde:*
+
+> Innkrevingssentralen kan videre kreve at skattekontoret gir opplysninger om arv og gaver som det skal gis melding om etter lov 19. juni 1964 nr. 14 om avgift på arv og visse gaver.
+>
+
 ### 2017-12-19 — lov/2017-12-19-122
 
 *§ 21 første ledd nytt tredje punktum skal lyde:*

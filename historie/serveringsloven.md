@@ -113,6 +113,13 @@ refid: "lov/1997-06-13-55"
 > Kommunen kan straks stenge et serveringssted inntil videre dersom dette er nødvendig for å stanse brudd på lovgivning som nevnt i § 6 første ledd. Slik stenging skal opphøre når forholdene som lå til grunn for stengingsvedtaket, er rettet.
 >
 
+### 2009-06-19 — lov/2009-06-19-74
+
+*§ 18 skal lyde:*
+
+> Kommunen kan straks sette en serveringsbevilling ut av kraft inntil videre dersom dette er nødvendig for å avverge eller stanse lovbrudd, og det er skjellig grunn til å tro at bevillingen vil bli kalt tilbake etter § 19, eller at bevillingshaveren vil bli fradømt retten til å drive serveringsstedet etter straffelovens § 56 første ledd bokstav b.
+>
+
 ## § 19
 
 ### 2007-12-21 — lov/2007-12-21-133
@@ -138,6 +145,19 @@ refid: "lov/1997-06-13-55"
 *§ 21 første ledd ny bokstav e skal lyde:*
 
 > unnlater å melde endringer til kommunen etter § 14.
+>
+
+### 2009-06-19 — lov/2009-06-19-74
+
+*§ 21 annet ledd oppheves.*
+
+> 189. I lov 19. juni 1997 nr. 62 om familievernkontorer skal § 5 annet ledd lyde:
+>
+> Overtredelse av taushetsplikt etter denne bestemmelsen kan straffes etter straffeloven § 209.
+>
+> 190. I lov 19. juni 1997 nr. 82 om pass skal § 5 annet ledd bokstav b lyde:innskrenkninger pålagt i henhold til straffeloven §§ 18, 20 annet ledd, 62, 71 annet til fjerde ledd, 73, 79 bokstav a (jf. lov 2. juli 1999 nr. 62 om etablering og gjennomføring av psykisk helsevern § 5-3), straffegjennomføringsloven § 43 eller straffeprosessloven § 69 tredje ledd.
+>
+> 191. Utgår.
 >
 
 ## § 3

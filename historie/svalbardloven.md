@@ -109,6 +109,22 @@ refid: "lov/1925-07-17-11"
 > Er saken særlig viktig, kan Kongen etter begjæring av en part bestemme at en skjønnsstyrer som oppnevnes av Kongen og to skjønnsmenn skal avgi skjønnet. Overskjønn avgis i så fall av fem skjønnsmenn og styres av en skjønnsstyrer som Kongen oppnevner.
 >
 
+### 2004-06-25 — lov/2004-06-25-53
+
+*§ 10 nytt tredje ledd skal lyde:*
+
+> Skjønn og takster som i riket for øvrig styres av lensmannen eller namsfogden, styres på Svalbard av sysselmannen.
+>
+
+### 2007-02-27 — lov/2007-01-26-3
+
+*§ 10 første og annet ledd skal lyde:*
+
+> Skjønn i ekspropriasjonssaker avgis av tre skjønnsmedlemmer. Overskjønn avgis av fem skjønnsmedlemmer og styres av sysselmannen.
+>
+> Er saken særlig viktig, kan Kongen etter begjæring av en part bestemme at en skjønnsstyrer som oppnevnes av Kongen og to skjønnsmedlemmer skal avgi skjønnet. Overskjønn avgis i så fall av fem skjønnsmedlemmer og styres av en skjønnsstyrer som Kongen oppnevner.
+>
+
 ### 2021-07-01 — lov/2021-06-11-68
 
 *§ 10 andre punktum skal lyde:*
@@ -127,6 +143,71 @@ refid: "lov/1925-07-17-11"
 > Skjønnsmenn og rettsvitner oppnevnes av retten.
 >
 
+### 2004-06-25 — lov/2004-06-25-53
+
+*§ 11 fjerde ledd oppheves.*
+
+### 2007-02-27 — lov/2007-01-26-3
+
+*§ 11 annet ledd skal lyde:*
+
+> Skjønnsmedlemmer og rettsvitner oppnevnes av retten.
+>
+> 12. Lov 26. juni 1926 nr. 21om forandring i lovgivningen om Høiesterett oppheves.
+>
+
+## § 12
+
+### 2004-06-25 — lov/2004-06-25-53
+
+*Ny § 12 skal lyde:*
+
+> På Svalbard kan meldinger om dødsfall etter lov 21. februar 1930 om skifte § 12 a gis til sysselmannen.I lov 21. februar 1930 om skifte gjøres følgende endringer:
+>
+
+## § 12 a
+
+### 2004-06-25 — lov/2004-06-25-53
+
+*§ 12 a første ledd skal lyde:*
+
+> Om dødsfall skal den dødes nærmeste slektninger, ektefellen eller andre som har vært til stede, straks gi melding til lensmannen eller namsfogden eller til tingretten.
+>
+
+## § 123
+
+### 2013-04-05 — lov/2013-04-05-12
+
+*§ 123 skal lyde:*
+
+> § 123.
+>
+> Med hensyn til vergemål under offentlig skifte for arvinger som er forsvunnet etter arvefallet eller hvis oppholdssted ikke kjennes, får vergemålsloven kapittel 5 og § 34 tilsvarende anvendelse.
+>
+> 8. I lov 17. februar 1939 nr. 1 om gjeldsbrev skal § 17 lyde:
+>
+> § 17.
+>
+> Utgjevaren kann likeins gjera gjeldande at gjeldsbrevet er falskt eller forfalska, underskrive på hans vegner utan fullmakt eller ugildt på grunn av grov tvang (§ 28 i avtalelova), manglande rettsleg handleevne eller sinnssjukdom, at gjeldsbrevet er sagt maktlaust, eller at kravet er bortfalle eller brigda etter reglane om deponering, forelding, preklusjon eller tvangsakkord.
+>
+
+## § 14
+
+### 2013-04-05 — lov/2013-04-05-12
+
+*§ 14 oppheves.*
+
+## § 15
+
+### 2013-04-05 — lov/2013-04-05-12
+
+*§ 15 oppheves.*
+
+> 6. Lov 22. april 1927 nr. 3 om vergemål for umyndige oppheves.
+>
+> 7. I lov 21. februar 1930 om skifte gjøres følgende endringer:
+>
+
 ## § 18
 
 ### 2021-07-01 — lov/2021-06-11-68
@@ -134,6 +215,26 @@ refid: "lov/1925-07-17-11"
 *§ 18 skal lyde:*
 
 > Mekling mellom ektefeller etter ekteskapsloven kan foretas av Sysselmesteren eller av en vigsler.
+>
+
+## § 19
+
+### 2013-04-05 — lov/2013-04-05-12
+
+*§ 19 skal lyde:*
+
+> § 19.
+>
+> Med hensyn til forvaltningen av boets eiendeler er retten bundet av loddeiernes beslutning forsåvidt de alle er enige og retten ikke finner at beslutningen strider mot fraværende arvingers eller mot kreditorenes tarv.
+>
+
+## § 2
+
+### 2004-06-25 — lov/2004-06-25-53
+
+*§ 2 første ledd skal lyde:*
+
+> Registrering og forsegling foretas av tingretten eller av lensmannen eller namsfogden eller av en annen skikket person oppnevnt av tingretten.
 >
 
 ## § 25
@@ -380,6 +481,13 @@ refid: "lov/1925-07-17-11"
 > Administrasjonssjefen skal sørge for at administrasjonen drives i samsvar med lover, forskrifter og overordnede instrukser, og at den er gjenstand for betryggende kontroll.
 >
 
+### 2013-04-05 — lov/2013-04-05-12
+
+*§ 39 annet ledd første punktum skal lyde:*
+
+> Er det gitt utlegg til person under vergemål eller til noen hvis midler skal forvaltes som foreskrevet i § 19 i lov om forsvunne personer mv., og utlegget i verdi svarer til eller overstiger det beløp som er fastsatt i medhold av vergemålsloven § 49 første ledd, skal skifteforvalteren uoppholdelig sende utskrift av utloddingsprotokollen til fylkesmannen som forvaltningen av midlene hører under.
+>
+
 ### 2019-05-24 — lov/2019-05-24-17
 
 *§ 39 skal lyde:*
@@ -481,6 +589,13 @@ refid: "lov/1925-07-17-11"
 > Sysselmannen har samme myndighet som en fylkesmann. Sysselmannen er også politimester (politichef) og notarius publicus, så lenge det ikke er særskilte tjenestemenn i disse stillinger.
 >
 
+### 2004-06-25 — lov/2004-06-25-53
+
+*§ 5 nytt tredje ledd skal lyde:*
+
+> På Svalbard er sysselmannen namsmann og hovedstevnevitne. Veksel- og sjekkprotester tas opp av sysselmannen.
+>
+
 ### 2021-07-01 — lov/2021-06-11-68
 
 *§ 5 skal lyde:*
@@ -492,6 +607,46 @@ refid: "lov/1925-07-17-11"
 > På Svalbard er sysselmesteren namsmann og hovedstevnevitne. Veksel- og sjekkprotester tas opp av Sysselmesteren.
 >
 
+## § 53
+
+### 2013-04-05 — lov/2013-04-05-12
+
+*§ 53 første ledd nr. 3 skal lyde:*
+
+> hvis noen av ektefellene er under atten år eller fratatt rettslig handleevne, med mindre vergen skriftlig samtykker i at boet skiftes privat,
+>
+
+## § 6
+
+### 2004-06-25 — lov/2004-06-25-53
+
+*§ 6 tredje ledd skal lyde:*
+
+> Er ingen berettiget til stede for å motta landslottbeløpet, eller er det tvil angående dets betaling, kan det deponeres hos lensmannen eller namsfogden i det distrikt hvor fangsten er gjort.
+>
+> § 8 annet skal ledd lyde:
+>
+> Skjønnet styres av lensmannen eller namsfogden på det sted der fangsten eller skaden er gjort.I lov 12. juni 1931 nr. 1 i henhold til konvensjonen mellem Norge og Sverige om visse spørsmål vedrørende vassdragsretten av 11 mai 1929 skal § 18 nr. 1 annet til fjerde punktum lyde:
+>
+
+## § 61
+
+### 2013-04-05 — lov/2013-04-05-12
+
+*§ 61 annet ledd tredje punktum skal lyde:*
+
+> Retten skal påse at avgjørelsen ikke blir til skade for loddeier som er under vergemål, eller som er forhindra fra sjølv å gjøre sine ønsker gjeldende eller fra å være personlig til stede under skiftet.
+>
+
+## § 65
+
+### 2013-04-05 — lov/2013-04-05-12
+
+*§ 65 annet ledd annet punktum skal lyde:*
+
+> Dersom det stilles fullgod sikkerhet, kan lodd til en person som er under 18 år eller fratatt rettslig handleevne, også i andre tilfeller legges ut ved en fordring på den som overtar eiendelen eller rettigheten.
+>
+
 ## § 7
 
 ### 2002-08-30 — lov/2002-08-30-67
@@ -499,6 +654,28 @@ refid: "lov/1925-07-17-11"
 *§ 7 skal lyde:*
 
 > Svalbard hører under den tingrett som Kongen fastsetter.
+>
+
+## § 77
+
+### 2004-06-25 — lov/2004-06-25-53
+
+*§ 77 tredje punktum skal lyde:*
+
+> Retten skal så vidt mulig søke opplysninger om deres oppholdssted og kan i den hensikt kreve bistand av politiet.I lov 14. mars 1930 om landslott gjøres følgende endringer:
+>
+
+## § 79
+
+### 2013-04-05 — lov/2013-04-05-12
+
+*§ 79 skal lyde:*
+
+> § 79.
+>
+> Er noen av loddeierne under 18 år, må vergen skriftlig samtykke i at boet blir skiftet privat. Det samme gjelder om noen av loddeierne er fratatt rettslig handleevne. Retten skal skriftlig varsle fylkesmannen om at boet skiftes privat. Person som nevnt i første og annet punktum representeres under skiftebehandlingen av vergen, og vergen har på dennes vegne de rettigheter som tilkommer en loddeier. Ved vergemål uten fratakelse av rettslig handleevne får vergen de samme rettighetene som nevnt i fjerde punktum hvis representasjon under skifte faller innenfor vergeoppdraget.
+>
+> Er alle loddeierne i en situasjon som nevnt i første ledd første og annet punktum, kan det skiftes privat hvis vergen overtar ansvaret for avdødes forpliktelser. Er det flere verger, hefter de fullt og solidarisk for gjelden. Regelen i første ledd tredje punktum gjelder tilsvarende.
 >
 
 ## § 8
@@ -510,6 +687,40 @@ refid: "lov/1925-07-17-11"
 > Forliksmegling skjer i Svalbard forliksråd. Forliksrådsmedlemmer med varamedlemmer velges av lokalstyret selv.
 >
 
+### 2004-06-25 — lov/2004-06-25-53
+
+*§ 8 skal lyde:*
+
+> Medlemmer og varamedlemmer av Svalbard forliksråd velges av Longyearbyen lokalstyre selv. Sysselmannen er sekretariat for forliksrådet.
+>
+
+### 2013-04-05 — lov/2013-04-05-12
+
+*§ 8 fjerde ledd skal lyde:*
+
+> Skifte av arvelodd som er tildelt en fraværende arving og forvaltes etter reglene i vergemålsloven, foretas av tingretten på det sted hvor arven først falt.
+>
+
+## § 84
+
+### 2013-04-05 — lov/2013-04-05-12
+
+*§ 84 annet ledd skal lyde:*
+
+> Fylkesmannen og verge kan kreve offentlig skifte på vegne av en mindreårig loddeier eller loddeier som er fratatt rettslig handleevne. Fylkesmannen har rett til å kreve offentlig skifte selv om privat skifte er avsluttet, hvis fylkesmannen finner at størrelsen på arvelodd som tilkommer en person som nevnt i første punktum, ikke er tilfredsstillende.
+>
+
+## § 87
+
+### 2013-04-05 — lov/2013-04-05-12
+
+*§ 87 skal lyde:*
+
+> § 87.
+>
+> Boet skal skiftes offentlig hvis det er bestemt av arvelateren i gyldig testament, eller hvis arvelateren har bestemt at arv som tilfaller noen av arvingene, skal forvaltes etter reglene i vergemålsloven kapittel 7, og arven for den eller de arvinger det gjelder, antas å overstige grensen etter vergemålsloven § 49 første ledd første punktum.
+>
+
 ## § 9
 
 ### 2001-06-15 — lov/2001-06-15-66
@@ -519,3 +730,12 @@ refid: "lov/1925-07-17-11"
 ### 2002-08-30 — lov/2002-08-30-67
 
 *§ 9 oppheves.*
+
+## § 98
+
+### 2013-04-05 — lov/2013-04-05-12
+
+*§ 98 annet ledd tredje punktum skal lyde:*
+
+> Hvis arvingene eller deres verger ikke vedtar denne oppgave, eller skifteforvalter på vegne av arving under vergemål finner særlig grunn til å dra oppgavens riktighet i tvil, kan de kreve nærmere opplysninger, og i fornødent fall registrering og takst.
+>

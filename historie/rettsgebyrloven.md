@@ -5,28 +5,15 @@ refid: "lov/1982-12-17-86"
 
 # Endringshistorikk: Rettsgebyrloven
 
-## § 1-1
-
-### 2003-01-01 — forskrift/2002-10-11-1094
-
-*§ 1-1 første ledd skal lyde:*
-
-> Godtgjørelsen settes til kr 250 for hver dag eller del av dag som går med til møte på rettsstedet i saken for:Lagrettemedlem,Meddommer som tas av det alminnelige utvalg,Forliksrådsmedlem som gjør tjeneste i tingretten i sak som behandles etter lov av 28. november 1898 om Umyndiggjørelse.
->
-
 ## (annet)
-
-### 2003-01-01 — forskrift/2002-10-11-1094
-
-*Overskriften til kapittel 1 skal lyde:*
-
-### 2003-01-01 — forskrift/2002-10-11-1094
-
-*Kapittel 1. Godtgjørelse til lagrettemedlemmer, meddommere, jordskiftemeddommere, skjønnsmenn, forliksrådsmedlemmer som gjør tjeneste i tingretten i saker som behandles etter lov av 28. november 1898 om Umyndiggjørelse, sakkyndige vitner ved sjøforklaring og rettsvitner.*
 
 ### 2004-12-10 — lov/2004-12-10-77
 
 *Nåværende § 3 fjerde ledd blir nytt femte ledd.*
+
+### 2017-05-11 — lov/2017-05-11-26
+
+*Nåværende fjerde ledd blir tredje ledd.*
 
 ### 2019-01-01 — lov/2018-12-20-118
 
@@ -85,6 +72,13 @@ refid: "lov/1982-12-17-86"
 > sak etter tvistemålslovens kapittel 33 om overprøving av administrative vedtak om frihetstap og andre tvangsinngrep, jfr. også lov om fri rettshjelp § 16 første ledd nr. 2.
 >
 
+### 2007-02-27 — lov/2007-01-26-3
+
+*§ 10 nr. 12 skal lyde:*
+
+> sak etter tvisteloven kapittel 36 om administrative tvangsvedtak i helse- og sosialsektoren, jfr. også lov om fri rettshjelp § 16 første ledd nr. 2.
+>
+
 ### 2008-03-07 — lov/2008-03-07-5
 
 *§ 10 nytt annet ledd skal lyde:*
@@ -115,12 +109,44 @@ refid: "lov/1982-12-17-86"
 
 ## § 11
 
+### 2004-06-25 — lov/2004-06-25-53
+
+*§ 11 første ledd første punktum skal lyde:*
+
+> For behandling av skjønn og takster som styres av en dommer ved de alminnelige domstoler eller av en lensmann eller en namsfogd, betales 5 ganger rettsgebyret for hver dag eller del av dag som skjønnet varer.
+>
+
+### 2004-06-25 — lov/2004-06-25-53
+
+*§ 11 tredje ledd skal lyde:*
+
+> For klage over avgjørelser under skjønn som styres av en lensmann eller en namsfogd, jf. skjønnsloven § 31, betales rettsgebyret.
+>
+
+### 2007-02-27 — lov/2007-01-26-3
+
+*§ 11 første ledd annet punktum skal lyde:*
+
+> Ved gebyrberegningen tas ikke med dager da bare skjønnsmedlemmene er samlet til gransking eller verdsettelse.
+>
+
 ### 2016-01-01 — lov/2015-12-18-125
 
 *§ 11 første ledd første punktum skal lyde:*
 
 > For behandling av skjønn og takster som styres av en dommer ved de alminnelige domstoler, dommer i jordskifteretten eller av en lensmann, namsfogd eller politistasjonssjef, betales 5 ganger rettsgebyret for hver dag eller del av dag som skjønnet varer.
 >
+
+### 2017-05-11 — lov/2017-05-11-26
+
+*§ 11 første ledd første punktum skal lyde:*
+
+> For behandling av skjønn og takster som styres av en dommer ved de alminnelige domstoler eller en dommer i jordskifteretten betales 5 ganger rettsgebyret for hver dag eller del av dag som skjønnet varer.
+>
+
+### 2017-05-11 — lov/2017-05-11-26
+
+*§ 11 tredje ledd oppheves.*
 
 ## § 14
 
@@ -129,6 +155,20 @@ refid: "lov/1982-12-17-86"
 *§ 14 første ledd første punktum skal lyde:*
 
 > For begjæring om tvangsfullbyrdelse betales 1,5 ganger rettsgebyret, selv om begjæringen senere blir trukket tilbake eller avvist.
+>
+
+### 2004-06-25 — lov/2004-06-25-53
+
+*§ 14 første ledd nytt tredje punktum skal lyde:*
+
+> Det betales ikke gebyr etter første punktum for den første utleggsbegjæringen fra klageren for krav som er fastslått i dom, kjennelse eller rettsforlik etter behandling i forliksrådet etter tvangsfullbyrdelsesloven § 7-7 med mindre den opprinnelige utleggssaken ble fortsatt etter tvistemålsloven § 277 sjette ledd.
+>
+
+### 2004-06-25 — lov/2004-06-25-53
+
+*§ 14 fjerde ledd nytt tredje punktum skal lyde:*
+
+> Ved begjæring om utlegg etter tvangsfullbyrdelsesloven § 7-2 bokstav f kan namsmannen i særlige tilfeller kreve at gebyret etter første ledd første punktum betales forskuddsvis.
 >
 
 ### 2004-07-01 — lov/2004-06-25-54
@@ -150,6 +190,13 @@ refid: "lov/1982-12-17-86"
 *§ 14 første ledd nr. 1 skal lyde:*
 
 > Ved begjæring om utlegg etter tvangsfullbyrdelsesloven kapittel 7: 2,6 ganger rettsgebyret når utlegg blir tatt.
+>
+
+### 2007-02-27 — lov/2007-01-26-3
+
+*§ 14 første ledd siste punktum skal lyde:*
+
+> Det betales ikke gebyr etter første punktum når det første gang fremmes ny begjæring om utlegg for krav som er fastslått i dom, kjennelse eller rettsforlik etter behandling i forliksrådet etter tvangsfullbyrdelsesloven § 7-7 med mindre den opprinnelige utleggssaken ble fortsatt etter tvangsfullbyrdelsesloven § 7-7 tredje ledd.
 >
 
 ### 2015-01-23 — lov/2015-01-23-4
@@ -265,6 +312,27 @@ refid: "lov/1982-12-17-86"
 > For konkursbo som åpnes av tingretten betales 25 ganger rettsgebyret. For dødsbo som åpnes av tingretten betales 18 ganger rettsgebyret, eventuelt gebyr etter § 18 tredje ledd. For felleseiebo som åpnes av tingretten betales 10,5 ganger rettsgebyret, eventuelt gebyr etter § 18 tredje ledd. For tvangsavvikling etter aksjeloven § 16-14, jf. § 16-18, allmennaksjeloven § 16-14, jf. § 16-18 og samvirkelova § 140, jf. § 144 som åpnes av tingretten betales 3,2 ganger rettsgebyret.
 >
 
+### 2020-12-18 — lov/2020-12-18-149
+
+*§ 16 nr. 1 tredje punktum skal lyde:*
+
+> For åpning av offentlig skifte etter ekteskapsloven kapittel 18 eller husstandsfellesskapsloven § 3 a betales 10,5 ganger rettsgebyret, eventuelt gebyr etter § 18 tredje ledd.
+>
+
+### 2020-12-18 — lov/2020-12-18-149
+
+*§ 16 nr. 3 første punktum skal lyde:*
+
+> For forberedende rettsmøte etter arveloven, ekteskapsloven eller husstandsfellesskapsloven betales 2 ganger rettsgebyret.
+>
+
+### 2020-12-18 — lov/2020-12-18-149
+
+*§ 16 nr. 4 skal lyde:*
+
+> For summarisk skifte etter reglene i arveloven § 141 annet ledd betales ikke gebyr.
+>
+
 ### 2022-01-01 — lov/2021-12-22-166
 
 *§ 16 første ledd nr. 1 første punktum skal lyde:*
@@ -297,6 +365,15 @@ refid: "lov/1982-12-17-86"
 > Har det i et bo vært oppnevnt bobestyrer etter skifteloven § 16 annet ledd eller § 91 første ledd, betales halvparten av fullt gebyr såfremt oppnevningen ikke er blitt tilbakekalt etter samme lovs § 91e.
 >
 
+### 2020-12-18 — lov/2020-12-18-149
+
+*§ 18 annet og tredje ledd skal lyde:*
+
+> Blir et dødsbo eller konkursbo innstilt eller tilbakelevert, betales halvparten av fullt gebyr. Det samme gjelder ved innstilling av bobehandlingen eller tilbakelevering etter ekteskapsloven §§ 106 og 107, jf. husstandsfellesskapsloven § 3 a. Blir et tvangsavviklingsbo innstilt eller tilbakelevert, betales 2,9 ganger rettsgebyret.
+>
+> Har det i et bo vært oppnevnt bostyrer etter arveloven § 134 annet ledd, ekteskapsloven § 100 eller husstandsfellesskapsloven § 3 a, betales halvparten av fullt gebyr såfremt oppnevningen ikke er blitt tilbakekalt etter arveloven § 157, jf. ekteskapsloven § 100 første ledd annet punktum og husstandsfellesskapsloven § 3 a annet punktum.
+>
+
 ### 2022-01-01 — lov/2021-12-22-166
 
 *§ 18 annet ledd første punktum skal lyde:*
@@ -320,6 +397,20 @@ refid: "lov/1982-12-17-86"
 > Er en forretning begjært av en person eller myndighet på vegne av en annen, blir begge ansvarlige for gebyret. Ved tinglysing av skjøte og andre dokumenter som har sammenheng med salg av fast eiendom er meglerforetak som bistår avtalepartene med oppgaver som nevnt i lov 16. juni 1989 nr. 53 om eiendomsmegling § 3-9 første ledd nr. 1, 2 eller 4, også ansvarlig for gebyret uavhengig av om meglerforetaket har begjært forretningen. Har staten begjært en forretning på vegne av noen, kan staten kreve refusjon av denne med mindre noe annet følger av lov.
 >
 
+### 2007-02-27 — lov/2007-01-26-3
+
+*§ 2 annet ledd første punktum skal lyde:*
+
+> Den som har begjært forretningen eller vedkommende rettergangsskritt dekker også alle utgifter til meddommere, skjønnsmedlemmer, sakkyndige, vitner, oversettelser, særlige undersøkelser og andre sideutgifter.
+>
+
+### 2007-02-27 — lov/2007-01-26-3
+
+*§ 2 annet ledd nye tredje, fjerde og femte punktum skal lyde:*
+
+> Når retten har funnet det nødvendig med oversettelser til og fra samisk, dekkes utgiftene av staten. Sideutgifter som må ses som en følge av at saken har prinsipiell betydning for den ene parten, kan denne parten pålegges å betale. Godtgjøring til rettsmekler og hjelper som er fastsatt etter tvisteloven § 8-4 tredje ledd dekkes med lik andel av partene.
+>
+
 ### 2013-12-13 — lov/2013-12-13-131
 
 *§ 2 tredje ledd annet punktum oppheves. Nåværende tredje punktum blir annet punktum.*
@@ -333,7 +424,25 @@ refid: "lov/1982-12-17-86"
 > For begjæring fra loddeier om utferdigelse av proklama i medhold av skifteloven § 70 annet ledd betales 2,2 ganger rettsgebyret. Tas boet senere under behandling av tingretten, reduseres gebyret for bobehandlingen med 2,2 ganger rettsgebyret.
 >
 
+### 2020-12-18 — lov/2020-12-18-149
+
+*§ 20 første punktum skal lyde:*
+
+> For begjæring fra en arving om utstedelse av proklama etter arveloven § 93 betales 2,2 ganger rettsgebyret.
+>
+
 ## § 21
+
+### 2003-01-01 — lov/2002-12-20-104
+
+*§ 21 skal lyde:*
+
+> For tinglysing, registrering eller anmerkning i grunnboken, løsøreregisteret og kraftledningsregisteret betales 2 ganger rettsgebyret, medmindre annet følger av annet ledd eller er bestemt i § 22.
+>
+> For tinglysing eller registrering av pantobligasjon eller skadesløsbrev betales 2,5 ganger rettsgebyret. Det samme gebyr betales for registrering i løsøreregisteret av avtale om salgspant i motorvogn (herunder avtale som etter § 3-22 i lov 8. februar 1980 nr. 2 om pant likestilles med salgspantavtale) og av avtale om factoring.
+>
+> Det skal betales fullt gebyr for hvert register og for hver rettskrets et dokument skal tinglyses eller registreres i.
+>
 
 ### 2003-09-08 — lov/2003-09-05-92
 
@@ -411,6 +520,13 @@ refid: "lov/1982-12-17-86"
 
 ## § 23 a
 
+### 2007-02-27 — lov/2007-01-26-3
+
+*§ 23 a skal lyde:*
+
+> For anke mot tinglysings- og registreringsavgjørelser betales 6 ganger rettsgebyret.
+>
+
 ### 2013-12-13 — lov/2013-12-13-131
 
 *§ 23 a skal lyde:*
@@ -419,6 +535,13 @@ refid: "lov/1982-12-17-86"
 >
 
 ## § 25
+
+### 2004-06-25 — lov/2004-06-25-53
+
+*§ 25 tredje ledd oppheves.I lov 8. juni 1984 nr. 58 om gjeldsforhandling og konkurs skal § 80 fjerde ledd lyde:*
+
+> Registrerings- og forseglingsforretningene kan overlates til lensmannen eller namsfogden eller en annen skikket person oppnevnt av retten.I plan- og bygningslov 14. juni 1985 nr. 77 skal § 59 annet ledd lyde:
+>
 
 ### 2022-01-01 — lov/2021-12-22-166
 
@@ -441,6 +564,26 @@ refid: "lov/1982-12-17-86"
 *§ 27 første punktum skal lyde:*
 
 > Avskrifter, utskrifter og kopier av dokument i rettsforretninger skal gis gebyrfritt.
+>
+
+## § 27 a
+
+### 2007-02-27 — lov/2007-01-26-3
+
+*§ 27 a skal lyde:*
+
+> For følgende særlige anker betales 6 ganger rettsgebyret:anke etter rettshjelploven § 27 eller etter bestemmelser som viser til rettshjelploven § 27.anke mot avgjørelser under notarialforretninger.
+>
+
+## § 27 c
+
+### 2020-12-18 — lov/2020-12-18-149
+
+*§ 27 c skal lyde:*
+
+> § 27 c.
+>
+> For oppbevaring av testament hos domstol i medhold av arveloven § 63 betales 0,8 ganger rettsgebyret.
 >
 
 ## § 27a
@@ -468,6 +611,15 @@ refid: "lov/1982-12-17-86"
 > Når Statens innkrevingssentral er pålagt å innkreve gebyr og sideutgifter, kan den inndrive kravene ved trekk i lønn og lignende ytelser etter reglene i dekningsloven § 2-7.
 >
 
+### 2007-02-27 — lov/2007-01-26-3
+
+*§ 3 nye sjette og sjuende ledd skal lyde:*
+
+> Er det ikke betalt tilstrekkelig forskudd når erklæring om et rettergangsskritt blir satt fram, skal retten sette en kort frist for betalingen. Skjer betaling ikke innen utløpet av denne fristen, skal erklæringen avvises med mindre reglene i § 5 får anvendelse. Skjer betaling innen utløpet av fristen, har det ikke betydning for bedømmelsen av spørsmålet om når erklæringen ble satt fram, at betaling først fant sted etterpå.
+>
+> Ved manglende betaling for rettergangsskritt som skal betales av en part etter § 2 annet ledd femte punktum, kan rettergangsskrittet likevel foretas. § 5 annet ledd tredje punktum gjelder tilsvarende.
+>
+
 ### 2025-04-25 — lov/2025-04-25-12
 
 *§ 3 fjerde ledd skal lyde:*
@@ -484,13 +636,96 @@ refid: "lov/1982-12-17-86"
 > Gebyrplikten for tvistemål, skjønn, tvangsfullbyrdelse og midlertidig sikring inntrer når saken er ført inn i sakslisten og for overprøving ved høyere instans innføring i denne saksliste. Ved tinglysing er påføringen av attest for tinglysing avgjørende for gebyrplikten. For bobehandling gjelder de særlige regler i kapittel 5.
 >
 
+### 2007-02-27 — lov/2007-01-26-3
+
+*§ 4 første punktum skal lyde:*
+
+> Gebyrplikten for sivile tvister, skjønn, tvangsfullbyrdelse og midlertidig sikring inntrer når saken er ført inn i sakslisten og for overprøving ved høyere instans innføring i denne saksliste.
+>
+
+## § 5
+
+### 2007-02-27 — lov/2007-01-26-3
+
+*§ 5 nye annet og tredje ledd skal lyde:*
+
+> Hvis en part som har begjært et rettergangsskritt, har fått henstand etter første ledd eller slik henstand kan påregnes, skal domstolen tillate at vedkommende rettergangsskritt foretas. I andre tilfeller kan domstolen tillate at et rettergangsskritt foretas dersom den parten som har begjært det, ikke kan betale straks, og det vil være til skade eller vesentlig ulempe for parten om rettergangsskrittet ikke foretas. Krever rettergangsskrittet utbetalinger, kan pengene legges ut av det offentlige.
+>
+> Når rettergangsskritt er foretatt med henstand, skal retten sette en frist for betalingen. Inntil betaling har skjedd, eller fristen er utløpt, skal retten bare foreta slike skritt i saken som den finner nødvendige. Skjer betaling ikke innen utløpet av fristen, avsies fraværsavgjørelse etter tvisteloven § 16-9 eller § 16-10.
+>
+
 ## § 5 a
+
+### 2003-01-01 — lov/2002-12-20-104
+
+*§ 5 a nr. 5 skal lyde:*
+
+> Avgjørelser som gjelder forretninger som nevnt i § 25 hos en notarius publicus kan påkjæres etter reglene i lov 26. april 2002 nr. 12 om notarius publicus § 5.
+>
+
+### 2004-06-25 — lov/2004-06-25-53
+
+*§ 5 a nr. 2 skal lyde:*
+
+> Avgjørelser som gjelder forretninger som nevnt i kapittel 3 hos en lensmann eller en namsfogd kan påklages til tingretten etter reglene i skjønnsloven § 31.
+>
+
+### 2004-06-25 — lov/2004-06-25-53
+
+*§ 5 a nr. 3 første punktum skal lyde:*
+
+> Avgjørelser som gjelder forretninger som nevnt i kapittel 4 og § 25 hos en lensmann eller en namsfogd eller hos en særskilt namsmann kan påklages til tingretten etter reglene i tvangsfullbyrdelsesloven § 5-16.
+>
+
+### 2004-06-25 — lov/2004-06-25-53
+
+*§ 5 a nr. 5 oppheves. Nåværende nr. 6 blir nytt nr. 5.*
+
+### 2007-02-27 — lov/2007-01-26-3
+
+*§ 5 a innledningen og nr. 1, 4 og 5 skal lyde:*
+
+> Avgjørelser etter denne lov eller etter bestemmelser gitt i medhold av denne lov kan ankes eller påklages på følgende måte:Avgjørelser som gjelder forretninger som nevnt i kapittel 2, 3, 4 og 5 hos en domstol kan ankes til overordnet domstol etter de regler som gjelder for anke i forbindelse med forretningen. Avgjørelser truffet av Arbeidsretten kan ikke ankes.Avgjørelser som gjelder forretninger som nevnt i kapittel 6 og 7 kan ankes eller påklages etter de regler som gjelder for overprøving av tinglysings- og registreringsavgjørelser under forretningen.Avgjørelser etter § 27 a kan ankes etter de regler som gjelder for anke mot avgjørelser under vedkommende forretning.
+>
 
 ### 2013-12-13 — lov/2013-12-13-131
 
 *§ 5 a nr. 4 oppheves. Nåværende nr. 5 blir nr. 4.*
 
+### 2017-05-11 — lov/2017-05-11-26
+
+*§ 5 a nr. 2 oppheves.*
+
+## § 5 b
+
+### 2007-02-27 — lov/2007-01-26-3
+
+*§ 5 b første og annet ledd skal lyde:*
+
+> Anke eller klage etter § 5 a har ikke oppsettende virkning.
+>
+> For anke eller klage etter § 5 a betales ikke gebyr. For anke mot en domstols avgjørelse av en anke eller en klage etter § 5 a betales 6 ganger rettsgebyret.
+>
+
 ## § 7
+
+### 2004-06-25 — lov/2004-06-25-53
+
+*§ 7 skal lyde:*
+
+> For behandling av en sak ved forliksrådet betales rettsgebyret selv om forliksklagen senere blir trukket tilbake eller avvist. For behandling av en sak i forliksrådet etter tvangsfullbyrdelsesloven § 7-7 betales også rettsgebyret.
+>
+
+### 2007-02-27 — lov/2007-01-26-3
+
+*§ 7 skal lyde:*
+
+> For behandling av en sak ved forliksrådet betales rettsgebyret selv om forliksklagen senere blir trukket tilbake eller avvist. Dersom samme sak bringes inn for forliksrådet på ny etter å ha vært behandlet i utenrettslig tvistenemnd som omhandlet i tvisteloven § 6-2 annet ledd bokstav c, betales ikke nytt gebyr.
+>
+> Trekkes en forliksklage før pålegg om tilsvar eller innkalling er sendt innklagede, påløper ikke gebyr. Betalt gebyr tilbakebetales.
+>
+> Blir en forliksklage avvist på grunn av manglende gebyrbetaling, påløper ikke gebyr.
+>
 
 ### 2019-01-01 — lov/2018-12-20-118
 
@@ -553,6 +788,49 @@ refid: "lov/1982-12-17-86"
 *§ 8 syvende ledd nytt femte punktum skal lyde:*
 
 > For kjæremål over avgjørelser om avslag på fri sakførsel etter lov om fri rettshjelp § 27 betales ikke gebyr.
+>
+
+### 2007-02-27 — lov/2007-01-26-3
+
+*§ 8 første ledd tredje punktum oppheves. Nåværende fjerde til sjette punktum blir tredje til femte punktum.*
+
+### 2007-02-27 — lov/2007-01-26-3
+
+*§ 8 annet ledd første punktum skal lyde:*
+
+> Det betales inngangsgebyr som for særskilt sak når saksøkte har brakt inn krav til pådømming, og for regressøksmål.
+>
+
+### 2007-02-27 — lov/2007-01-26-3
+
+*§ 8 annet ledd nytt tredje punktum skal lyde:*
+
+> For ny behandling etter at begjæring om oppfriskning mot fraværsavgjørelse eller gjenåpning er tatt til følge, betales også som for særskilt sak.
+>
+
+### 2007-02-27 — lov/2007-01-26-3
+
+*§ 8 tredje ledd skal lyde:*
+
+> Er avgjørelse i en sak opphevet og sendt til videre behandling fra ankeinstansen, betales ikke nytt gebyr for behandlingen.
+>
+
+### 2007-02-27 — lov/2007-01-26-3
+
+*§ 8 femte ledd annet punktum skal lyde:*
+
+> Trekkes saken tilbake eller forlik inngås på et senere tidspunkt eller under hovedforhandling, eller fraværsdom avsies, betales halvparten av fullt gebyr.
+>
+
+### 2007-02-27 — lov/2007-01-26-3
+
+*§ 8 sjuende og nye åttende og niende ledd skal lyde:*
+
+> For behandling av anke mot kjennelser og beslutninger og krav om gjenåpning betales 6 ganger rettsgebyret. Blir anken avvist, nektet fremmet eller hevet, betales 2 ganger rettsgebyret. Blir anke avvist på grunn av manglende gebyrbetaling, betales ikke gebyr. For anke til tingrett over beslutninger i forliksrådet betales 2 ganger rettsgebyret. For anke over avgjørelser om avslag på fri sakførsel etter lov om fri rettshjelp § 27 betales ikke gebyr.
+>
+> For saker som behandles etter tvisteloven kapittel 10 betales 3,5 ganger rettsgebyret. Ved anke mot slik dom gjelder første ledd, men slik at det bare betales 4 ganger rettsgebyret hvis lagmannsretten opphever dommen etter tvisteloven § 29-12 annet ledd.
+>
+> Når saken først har vært behandlet i forliksrådet, reduseres betalingen etter første ledd første punktum og etter åttende ledd med rettsgebyret.
 >
 
 ## § 9

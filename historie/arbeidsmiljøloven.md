@@ -1692,6 +1692,20 @@ refid: "lov/2005-06-17-62"
 
 ## § 17-1
 
+### 2007-02-27 — lov/2007-01-26-3
+
+*§ 17-1 første ledd skal lyde:*
+
+> I søksmål om rettigheter eller plikter etter denne lov gjelder domstolloven og tvisteloven, med de særregler som går fram av dette kapittel.
+>
+
+### 2007-02-27 — lov/2007-01-26-3
+
+*§ 17-1 annet ledd tredje punktum skal lyde:*
+
+> Rettens avgjørelse etter forrige punktum kan ikke angripes.
+>
+
 ### 2009-06-19 — lov/2009-06-19-39
 
 *§ 17-1 tredje ledd skal lyde:*
@@ -1881,11 +1895,34 @@ refid: "lov/2005-06-17-62"
 
 ## § 17-5
 
+### 2007-02-27 — lov/2007-01-26-3
+
+*§ 17-5 tredje ledd skal lyde:*
+
+> Ved oppsigelse under permisjon ved svangerskap, fødsel, adopsjon eller omsorg for små barn etter §§ 12-1 til 12-6 eller under permisjon ved militærtjeneste mv. etter § 12-12 kan retten gi oppfriskning for oversittelse av fristene for å kreve forhandlinger eller for søksmål, dersom arbeidstaker krever det og retten finner det rimelig.
+>
+
 ### 2012-10-19 — lov/2012-10-19-68
 
 *§ 17-5 andre ledd skal lyde:*
 
 > (2) Ved oppsigelse under fravær på grunn av barns eller barnepassers sykdom etter § 12-9 eller fravær på grunn av pleie av nærstående etter § 12-10, forlenges fristen for å kreve forhandlinger eller gå til søksmål med det antall dager arbeidstaker var fraværende etter at oppsigelsen fant sted.
+>
+
+## § 17-7
+
+### 2007-02-27 — lov/2007-01-26-3
+
+*§ 17-7 første ledd skal lyde:*
+
+> Under hovedforhandling og under ankeforhandling i lagmannsrett settes retten med to meddommere.
+>
+
+### 2007-06-15 — lov/2007-06-15-38
+
+*§ 17-7 tredje ledd skal lyde:*
+
+> Partene foreslår hver sin halvpart av det antall meddommere retten settes med i den enkelte sak. Foreligger ikke partenes forslag innen den frist dommeren har bestemt, kan dommeren oppnevne meddommere etter domstolloven § 94. Det samme gjelder dersom flere saksøkere eller saksøkte ikke blir enige om noe felles forslag.
 >
 
 ## § 18-2
@@ -2187,6 +2224,36 @@ refid: "lov/2005-06-17-62"
 > (2) Under særlig skjerpende omstendigheter kan fengsel inntil fem år anvendes. Ved avgjørelsen av om det foreligger slike omstendigheter, skal det særlig legges vekt på om overtredelsen har eller kunne ha medført alvorlig fare for liv eller helse eller om den er foretatt eller fortsatt tross pålegg eller henstilling fra offentlig myndighet, vedtak av arbeidsmiljøutvalget eller henstilling fra verneombud eller bedriftshelsetjeneste.
 >
 
+## § 19-2
+
+### 2009-06-19 — lov/2009-06-19-74
+
+*§ 19-2 første ledd annet punktum oppheves.*
+
+## § 19-4
+
+### 2009-06-19 — lov/2009-06-19-74
+
+*§ 19-4 nytt annet punktum skal lyde:*
+
+> Medvirkning straffes ikke.
+>
+
+## § 19-5
+
+### 2009-06-19 — lov/2009-06-19-74
+
+*§ 19-5 skal lyde:*
+
+> Enhver som er knyttet til Arbeidstilsynet er i forhold til straffeloven å regne som offentlig tjenestemann.
+>
+
+## § 19-7
+
+### 2009-06-19 — lov/2009-06-19-74
+
+*§ 19-7 oppheves.*
+
 ## (annet)
 
 ### 2006-01-01 — lov/2005-12-21-121
@@ -2219,6 +2286,13 @@ refid: "lov/2005-06-17-62"
 ### 2006-12-15 — lov/2006-12-15-69
 
 *Nåværende sjette ledd blir nytt niende ledd.*
+
+### 2007-02-27 — lov/2007-01-26-3
+
+*Overskriften til § 17-5 skal lyde:*
+
+> Fristforlengelse og oppfriskning ved oppsigelse under sykdom, svangerskap, foreldrepermisjon, militærtjeneste mv.
+>
 
 ### 2009-06-19 — lov/2009-06-19-39
 

@@ -138,6 +138,13 @@ refid: "lov/2010-03-26-8"
 
 ## § 15
 
+### 2013-05-31 — lov/2013-05-31-25
+
+*§ 15 første ledd bokstav c skal lyde:*
+
+> uten tillatelse inneholder et våpen eller annet tegn som er omfattet av straffeloven § 165 bokstav b og § 166, et statsflagg, eller noe annet som er egnet til å oppfattes som slikt tegn eller flagg.
+>
+
 ### 2020-06-12 — lov/2020-06-12-67
 
 *§ 15 skal lyde:*
@@ -161,6 +168,12 @@ refid: "lov/2010-03-26-8"
 >
 > Et varemerke kan ikke registreres uten samtykke av vedkommende rettighetshaver hvis:bruk av merket ville krenke en annens rett her i riket til et varemerke, foretaksnavn eller annet forretningskjennetegn,merket er søkt registrert av en agent eller representant i eget navn uten merkehaverens samtykke, og uten at agenten eller representanten har grunnlag for sin handling,merket inneholder noe som er egnet til å oppfattes som en annens navn, kunstnernavn eller lignende eller portrett, med mindre det åpenbart siktes til en forlengst avdød person,merket inneholder noe som er egnet til å oppfattes som den særpregede tittelen på en annens beskyttede åndsverk, eller krenker en annens rett her i riket til et åndsverk eller fotografisk bilde eller en design, ellermerket krenker en annens rett her i riket til en betegnelse som er beskyttet ved forskrift etter matloven.
 >
+
+## § 18
+
+### 2021-06-18 — lov/2021-06-18-122
+
+*§ 18 annet ledd oppheves.*
 
 ## § 2
 
@@ -577,6 +590,19 @@ refid: "lov/2010-03-26-8"
 
 > § 61.Straff
 >
+> Den som begår varemerkeinngrep straffes med bøter eller fengsel i inntil ett år.
+>
+> Dersom det foreligger særlig skjerpende omstendigheter er straffen bøter eller fengsel inntil tre år. Ved vurderingen av om særlig skjerpende omstendigheter foreligger skal det særlig legges vekt på den skade som er påført rettighetshaveren, herunder skade på rettighetshaverens kommersielle omdømme, den vinning som inngriperen har oppnådd, og omfanget av inngrepet for øvrig.
+>
+> For overtredelse av denne bestemmelsen kan påtale unnlates hvis ikke allmenne hensyn tilsier påtale, jf. straffeprosessloven § 62 a. Ved inngrep i fellesmerke anses bare merkehaveren som fornærmet.
+>
+
+### 2013-05-31 — lov/2013-05-31-25
+
+*§ 61 skal lyde:*
+
+> § 61.Straff
+>
 > Den som forsettlig begår eller medvirker til å begå varemerkeinngrep, straffes med bøter eller fengsel inntil ett år.
 >
 > Dersom det foreligger særlig skjerpende omstendigheter, er straffen bøter eller fengsel inntil tre år. Ved vurderingen av om særlig skjerpende omstendigheter foreligger skal det særlig legges vekt på den skade som er påført rettighetshaveren, herunder skade på rettighetshaverens kommersielle omdømme, den vinning som inngriperen har oppnådd, og omfanget av inngrepet for øvrig.
@@ -589,6 +615,13 @@ refid: "lov/2010-03-26-8"
 *§ 61 tredje ledd andre punktum skal lyde:*
 
 > Ved inngrep i rett til fellesmerke eller garanti- eller kontrollmerke anses bare merkehaveren som fornærmet.
+>
+
+### 2021-06-18 — lov/2021-06-18-122
+
+*§ 61 tredje ledd første punktum oppheves. Nåværende annet punktum blir nytt første punktum.*
+
+> 34.I lov 24. juni 2011 nr. 29 om folkehelsearbeid gjøres følgende endring:
 >
 
 ## § 61 a
@@ -671,6 +704,13 @@ refid: "lov/2010-03-26-8"
 
 ## § 72
 
+### 2014-05-09 — lov/2014-05-09-16
+
+*§ 72 første ledd annet punktum skal lyde:*
+
+> Innføringen har virkning fra den dagen registreringen ved Det internasjonale byrået anses for å ha skjedd eller fra dagen for en etterfølgende utpeking av Norge.
+>
+
 ### 2019-06-21 — lov/2019-06-21-49
 
 *§ 72 første ledd skal lyde:*
@@ -687,6 +727,21 @@ refid: "lov/2010-03-26-8"
 > Hvis en internasjonal registrering som har virkning i Norge, helt eller delvis opphører å gjelde som følge av bortfall av den nasjonale registreringen eller søknaden som den bygger på, og innehaveren deretter overfor Patentstyret ved søknad fremsetter krav om registrering av varemerket her i riket, skal slik registrering ha virkning fra den dagen den internasjonale registrereringen fikk virkning i Norge, såfremt søknaden leveres innen tre måneder fra den dagen den internasjonale registreringen opphørte, og de varer eller tjenester som angis i søknaden, var omfattet av den internasjonale registreringen slik den gjaldt i Norge.
 >
 > Hvis en internasjonal registrering som har virkning i Norge, helt eller delvis opphører å gjelde som følge av en oppsigelse av Madridprotokollen, og innehaveren deretter overfor Patentstyret ved søknad fremsetter krav om registrering av varemerket her i riket, skal slik registrering skje med virkning fra den dagen den internasjonale registreringen fikk virkning i Norge, hvis søknaden leveres innen to år fra den dagen oppsigelsen fikk virkning, og de varer eller tjenester som angis i søknaden, var omfattet av den internasjonale registreringen slik den gjaldt i Norge.
+>
+
+## § 77
+
+### 2014-05-09 — lov/2014-05-09-16
+
+*§ 77 første og annet ledd skal lyde:*
+
+> Meddelelser fra Patentstyret eller Klagenemnden til en søker, registreringsinnehaver, innsiger eller en som har krevd administrativ overprøving etter § 40, regnes alltid som avgitt når de er sendt til den adressen som vedkommende senest har oppgitt til Patentstyret eller Klagenemnden. Adressen innføres i varemerkeregistret. For søkere og registreringsinnehavere som har fullmektig, kan meddelelser sendes til fullmektigen.
+>
+> Hvis den registrerte adressen viser seg å være feil, inntas meddelelsen eller et sammendrag i Norsk Varemerketidende, med opplysning om at dokumentet kan fås hos Patentstyret eller Klagenemnden.
+>
+> 28. I lov 20. januar 2012 nr. 4 om pågriping og overlevering til og frå Noreg for straffbare forhold på grunnlag av ein arrestordre skal § 23 annet ledd tredje og fjerde punktum lyde:
+>
+> Spørsmålet om samtykke skal likevel behandlast skriftleg, om ikkje retten treff avgjerd om munnleg behandling. I tilfelle som nemnde i § 21 andre ledd skal oppmodinga sendast den tingretten som avgjorde spørsmålet om overlevering.
 >
 
 ## § 8

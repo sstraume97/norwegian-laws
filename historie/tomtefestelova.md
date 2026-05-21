@@ -63,6 +63,10 @@ refid: "lov/1996-12-20-106"
 
 *Nåværende § 42 fjerde ledd blir nytt femte ledd.*
 
+### 2017-05-11 — lov/2017-05-11-26
+
+*Nåværende § 53 annet og tredje ledd blir første og annet ledd.*
+
 ## § 10
 
 ### 2015-07-01 — lov/2015-06-19-63
@@ -171,6 +175,13 @@ refid: "lov/1996-12-20-106"
 
 ## § 36
 
+### 2007-02-27 — lov/2007-01-26-3
+
+*§ 36 annet ledd skal lyde:*
+
+> Er kravet sett fram seinare, kan Kongen gje oppfrisking om oversitjinga er orsakande. Når innløysingsvilkåra vert fastsett ved skjønn etter § 37 andre ledd, høyrer også spørsmål om oppfrisking under skjønnet.
+>
+
 ### 2015-07-01 — lov/2015-06-19-63
 
 *§ 36 skal lyde:*
@@ -260,11 +271,64 @@ refid: "lov/1996-12-20-106"
 > Ved skjønn etter § 37 kan saka bli delt slik at det blir forhandla og fastsett særskilt om festaren har rett til innløysing eller om kva innløysingssummen er, slik at skjønnet elles blir utsett.
 >
 
+### 2007-02-27 — lov/2007-01-26-3
+
+*§ 43 annet ledd annet punktum skal lyde:*
+
+> Det skal vere to skjønnsmedlemmer både ved skjønn og overskjønn.
+>
+> 111. I lov 28. februar 1997 nr. 19 om folketrygd skal § 21-4 femte ledd lyde:
+>
+> Trygdens organer har videre rett til å innhente nødvendige opplysninger ved bevissikring etter reglene i tvisteloven § 28-3 tredje ledd og § 28-4 eller ved politiet. Krav om bevissikring fremmes for den tingrett hvor de som skal avhøres, bor eller oppholder seg eller realbevis skal undersøkes.
+>
+> 112. I lov 23. mai 1997 nr. 31 om eierseksjoner skal § 16 femte ledd lyde:
+>
+> Rettens avgjørelser etter tredje og fjerde ledd er kjennelser og kan ankes etter tvistelovens regler.
+>
+> 113. I lov 13. juni 1997 nr. 37 om salg av tidsparter i fritidsbolig skal § 4 annet ledd lyde:
+>
+> Forbrukeren kan ikke vedta annet verneting for tvist om forhold som er regulert i denne lov enn de lovbestemte, med unntak av sitt alminnelige verneting.
+>
+
 ### 2010-09-03 — lov/2010-09-03-54
 
 *§ 43 annet ledd første punktum skal lyde:*
 
 > Ved skjønn etter §§ 5 a, 15 og 37 skal talet på skjønnsmedlemer alltid vere to, både ved skjønn og overskjønn.
+>
+
+### 2017-05-11 — lov/2017-05-11-26
+
+*§ 43 første ledd første punktum skal lyde:*
+
+> Skjønn etter lova her blir haldne som skjønn styrt av tingretten.
+>
+
+### 2017-05-11 — lov/2017-05-11-26
+
+*§ 43 første ledd annet punktum oppheves.*
+
+> 18.I lov 6. juni 2003 nr. 39 om burettslag skal § 4-18 annet ledd annet punktum lyde:
+>
+> Skjønet skal styrast av jordskifteretten.
+>
+> 19.I lov 4. juli 2003 nr. 83 om elektronisk kommunikasjon skal § 12-3 tredje ledd fjerde og femte punktum lyde:
+>
+> Skjønnet styres av jordskifteretten. Kongen kan likevel gjøre vedtak for den enkelte sak om at skjønnet skal styres av tingretten.
+>
+> 20.I lov 17. juni 2005 nr. 101 om eigedomsregistrering skal § 45 annet punktum lyde:
+>
+> Skjønn blir styrt av jordskifteretten.
+>
+> 21.I lov 27. juni 2008 nr. 71 om planlegging og byggesaksbehandling skal § 16-12 første ledd lyde:
+>
+> Skjønn etter dette kapittel behandles av tingretten etter reglene om ekspropriasjon i lov 1. juni 1917 nr. 1 om skjønn og ekspropriasjonssaker. Skjønn etter §§ 27-3 og 28-3 behandles av jordskifteretten etter samme lov.
+>
+> 22.I lov 19. juni 2009 nr. 100 om forvaltning av naturens mangfold skal § 51 annet ledd lyde:
+>
+> Blir tilbudet ikke akseptert, kan eier eller rettighetshaver senest seks måneder etter at det ble gitt, sette frem krav for fylkesmannen om at staten begjærer skjønn styrt av tingretten til fastsetting av erstatning etter § 50.
+>
+> 23.I lov 19. juni 2009 nr. 101 om erverv og utvinning av mineralressurser oppheves § 53 første ledd.
 >
 
 ## § 5

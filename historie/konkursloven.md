@@ -11,6 +11,27 @@ refid: "lov/1984-06-08-58"
 
 *Nåværende annet ledd blir nytt tredje ledd.*
 
+### 2007-02-27 — lov/2007-01-26-3
+
+*Overskriften i § 52 skal lyde:*
+
+> Stadfestelseskjennelsen. Anke.
+>
+
+### 2007-02-27 — lov/2007-01-26-3
+
+*Overskriften i § 72 skal lyde:*
+
+> Kjennelse om konkursåpning. Anke.
+>
+
+### 2007-02-27 — lov/2007-01-26-3
+
+*Nåværende § 155 annet punktum blir tredje punktum.*
+
+> 83. Lov 7. juni 1985 nr. 51 om utmarkskommisjon for Nordland og Troms oppheves.
+>
+
 ### 2016-06-17 — lov/2016-06-17-55
 
 *Nåværende §§ 161 og 162 blir §§ 176 og 177 i fjerde del.*
@@ -24,20 +45,39 @@ refid: "lov/1984-06-08-58"
 > Når begjæring om tinglysing av melding om konkursåpning framsettes over telefon eller på annen enkel måte, skal også rettens navn, adresse og telefonnummer oppgis.
 >
 
-### 2003-01-01 — forskrift/2002-10-11-1094
-
-*§ 1 første ledd skal lyde:*
-
-> Det føres et register over sentrale opplysninger om bo tatt under behandling av retten som konkursbo etter lov om gjeldsforhandling og konkurs av 8. juni 1984 nr. 58 og om aksjeselskaper som tvangsavvikles etter konkurslovens regler.
->
-
 ## § 10
 
-### 2003-01-01 — forskrift/2002-10-11-1094
+### 2007-02-27 — lov/2007-01-26-3
 
-*§ 10 første ledd skal lyde:*
+*§ 10 annet ledd tredje punktum skal lyde:*
 
-> Enhver kan ved henvendelse til Konkursregisteret få oppgitt følgende registrerte opplysninger:personer, foretak, stiftelser og andre sammenslutninger som er gått konkurs,aksjeselskaper som tvangsavvikles etter konkurslovens regler,foretakets nåværende og eventuelle tidligere firma og adresse siste år, stilling eller bransje, grunnlag for konkursen, rettens navn, dato for konkursåpning eller kjennelse om tvangsoppløsning, saksnummer, bostyrer, borevisor, tid og sted for første skiftesamling, frist for fordringsanmeldelser og fristdagen,stiftere, eiere, daglig leder, styreleder og revisor eller regnskapsfører,om daglig leder og styrelederen har lederansvar eller styreverv i andre foretak,om ilagt konkurskarantene,dato for avsluttet bobehandling og om bobehandlingen er innstilt og med hvilken hjemmel, om det er foretatt utlodning og med hvilken dividende.
+> Retten kan gi oppfriskning under de samme vilkår som om avgjørelsen var tatt under rettergang.
+>
+
+## § 100
+
+### 2016-04-22 — lov/2016-04-22-3
+
+*§ 100 fjerde ledd oppheves.*
+
+## § 103
+
+### 2007-02-27 — lov/2007-01-26-3
+
+*§ 103 skal lyde:*
+
+> § 103.Skyldnerens plikt til å møte på skiftesamlinger.
+>
+> Skyldneren plikter å være til stede på alle skiftesamlinger når denne ikke har gyldig fravær eller har fått tillatelse av bostyreren til å være fraværende.
+>
+
+## § 105
+
+### 2007-02-27 — lov/2007-01-26-3
+
+*§ 105 fjerde ledd tredje punktum skal lyde:*
+
+> En avgjørelse om frihetsinnskrenkninger som er tatt uten muntlig forhandling, kan ikke ankes særskilt.
 >
 
 ## § 109
@@ -58,6 +98,15 @@ refid: "lov/1984-06-08-58"
 > Konkursskyldneren, fordringshavere som har fått innstilt sine fordringer og borevisor har rett til å uttale seg og å være til stede under fordringsprøvingen. Disse skal varsles om tid og sted for prøvingen og tilsendes bostyrerens innstilling minst åtte dager før prøvingen finner sted. Varsel om fordringsprøving kan sendes elektronisk med henvisning til hvor innstillingen finnes elektronisk tilgjengelig, dersom mottakeren har godtatt bruk av elektronisk kommunikasjon. Den som har rett til å være til stede ved fordringsprøvingen, har likevel rett til på forespørsel å få tilsendt innstillingen. Når det finnes ubetenkelig, kan en fordring prøves selv om bostyrers innstilling ikke har foreligget senest åtte dager før fordringsprøvingen.
 >
 
+### 2009-06-19 — lov/2009-06-19-74
+
+*§ 111 nr. 2 annet punktum oppheves.*
+
+> 118. I lov 21. juni 1985 nr. 78 om registrering av foretak skal § 10-4 nytt tredje punktum lyde:
+>
+> Medvirkning straffes ikke.
+>
+
 ## § 117
 
 ### 2004-04-23 — lov/2004-04-23-18
@@ -65,6 +114,15 @@ refid: "lov/1984-06-08-58"
 *§ 117 annet ledd skal lyde:*
 
 > Salg av boets eiendeler til skyldneren eller til skyldnerens nærstående som nevnt i dekningsloven § 1-5 skal ikke skje før kunngjøring har funnet sted i avis eller i et egnet elektronisk medium. Fristen for å gi bud skal normalt ikke settes kortere enn en uke. Kunngjøring kan unnlates dersom særlige forhold gjør at det må anses uhensiktsmessig å kunngjøre salget.
+>
+
+## § 117 a
+
+### 2007-02-27 — lov/2007-01-26-3
+
+*§ 117 a fjerde ledd tredje punktum skal lyde:*
+
+> Rettens avgjørelse kan ikke ankes.
 >
 
 ## § 120
@@ -94,6 +152,38 @@ refid: "lov/1984-06-08-58"
 > Dersom fordringshaveren har godtatt bruk av elektronisk kommunikasjon, kan fordringshaveren i varselet gjøres kjent med fristen etter § 40 og om hvor forslaget, bostyrerens og bostyrets uttalelse og fordringshaverlisten finnes elektronisk tilgjengelig.
 >
 
+### 2007-02-27 — lov/2007-01-26-3
+
+*§ 124 første ledd tredje og fjerde punktum skal lyde:*
+
+> En kjennelse som nekter behandling, kan ankes innen tre dager. Går kjennelsen ut på at forslaget skal behandles, er den ikke gjenstand for anke.
+>
+
+## § 125
+
+### 2007-02-27 — lov/2007-01-26-3
+
+*§ 125 første ledd fjerde punktum skal lyde:*
+
+> Rettens kjennelse kan ankes av skyldneren og enhver fordringshaver som vil bli bundet av akkorden.
+>
+
+## § 126
+
+### 2020-12-18 — lov/2020-12-18-149
+
+*§ 126 første ledd nr. 2 skal lyde:*
+
+> etter arveloven for øvrig ville ha hatt adgang til å overta skyldnerens bo til privat skifte.
+>
+
+### 2020-12-18 — lov/2020-12-18-149
+
+*§ 126 tredje ledd skal lyde:*
+
+> Reglene i første og annet ledd anvendes tilsvarende på skyldnerens ektefelle eller samboer, dersom han eller hun etter arveloven har rett til å sitte i uskiftet bo og sender melding til retten om at han eller hun vil nytte sin rett, under forutsetning av at akkord blir brakt i stand. Uskifteattest som nevnt i arveloven § 97 utferdiges i så fall av retten når rettskraftig stadfestelseskjennelse foreligger.
+>
+
 ## § 128
 
 ### 2006-01-27 — lov/2006-01-27-4
@@ -117,6 +207,15 @@ refid: "lov/1984-06-08-58"
 *§ 130 andre ledd tredje punktum skal lyde:*
 
 > De fordringshavere som får et mindre beløp enn angitt i bostyrerens utlodning, skal underrettes om den nye utlodningen.
+>
+
+## § 132
+
+### 2007-02-27 — lov/2007-01-26-3
+
+*§ 132 annet ledd skal lyde:*
+
+> Dersom en utlodning blir påklaget eller anket, kan retten bestemme at utbetaling skal skje i den utstrekning utlodningen antas ikke å ville bli berørt av klagen eller anket.
 >
 
 ## § 135
@@ -198,6 +297,35 @@ refid: "lov/1984-06-08-58"
 > Med selskap i tredje og fjerde ledd menes aksjeselskap, allmennaksjeselskap, forretningsavdeling av utenlandsk selskap, stiftelse, boligbyggelag, borettslag, samvirkeforetak, gjensidig forsikringsselskap og statsforetak.
 >
 
+## § 143
+
+### 2007-02-27 — lov/2007-01-26-3
+
+*§ 143 tredje ledd annet punktum skal lyde:*
+
+> Anke kan gis oppsettende virkning av den rett som har fått sin kjennelse anket, eller av ankedomstolen.
+>
+
+### 2009-06-19 — lov/2009-06-19-74
+
+*§ 143 første ledd annet punktum oppheves.*
+
+### 2009-06-19 — lov/2009-06-19-74
+
+*§ 143 annet ledd annet punktum skal lyde:*
+
+> Etter begjæring fra påtalemyndigheten kan retten bestemme at virkningene av kjennelsen skal forlenges inntil rettskraftig dom foreligger i straffesak hvor påtalemyndigheten har nedlagt eller overveier å nedlegge påstand om rettighetstap etter straffeloven § 56.
+>
+
+## § 143 a
+
+### 2009-06-19 — lov/2009-06-19-74
+
+*§ 143 a første ledd skal lyde:*
+
+> Den som forsettlig eller uaktsomt opptrer i strid med kjennelse etter § 143, straffes med bøter eller med fengsel inntil 3 måneder.
+>
+
 ## § 144
 
 ### 2006-01-27 — lov/2006-01-27-4
@@ -233,6 +361,20 @@ refid: "lov/1984-06-08-58"
 > Skyldneren kan bringe sitt krav etter § 76 inn for tingretten etter denne lov, eller ved ordinært søksmål etter tvistemålslovens regler.
 >
 
+### 2007-02-27 — lov/2007-01-26-3
+
+*§ 145 femte ledd skal lyde:*
+
+> Skyldneren kan bringe sitt krav etter § 76 inn for tingretten etter denne lov, eller ved ordinært søksmål etter tvistelovens regler.
+>
+
+### 2016-04-22 — lov/2016-04-22-3
+
+*§ 145 første ledd nr. 2 skal lyde:*
+
+> alle spørsmål som gjelder åpning og gjennomføring av akkordforhandling og konkurs.
+>
+
 ### 2016-06-17 — lov/2016-06-17-55
 
 *§ 145 annet ledd nytt annet punktum skal lyde:*
@@ -241,6 +383,13 @@ refid: "lov/1984-06-08-58"
 >
 
 ## § 146
+
+### 2007-02-27 — lov/2007-01-26-3
+
+*§ 146 første ledd annet punktum skal lyde:*
+
+> I andre tilfeller hører behandlingen under tingretten i den rettskrets hvor skyldneren har sitt alminnelige verneting.
+>
 
 ### 2016-06-17 — lov/2016-06-17-55
 
@@ -349,6 +498,15 @@ refid: "lov/1984-06-08-58"
 > Reglene i konvensjon 7. november 1933 mellem Norge, Danmark, Finnland, Island og Sverige om konkurs går i forholdet til konvensjonsstatene foran reglene i fjerde del i loven her.
 >
 
+## § 147
+
+### 2016-04-22 — lov/2016-04-22-3
+
+*§ 147 første ledd skal lyde:*
+
+> Dersom en begjæring om gjeldsforhandling eller konkurs blir avvist på grunn av uforsettlige feil, men fremsatt på ny innen tre uker etter at kjennelsen er forkynt for vedkommende, regnes de materielle rettsfølger fra den første begjæring.
+>
+
 ## § 148
 
 ### 2002-08-30 — lov/2002-08-30-67
@@ -366,6 +524,125 @@ refid: "lov/1984-06-08-58"
 > For rettsvitne, protokollfører og stevnevitne gjelder reglene i lov om domstolene § 110, likevel slik at de ikke blir inhabile i større utstrekning enn etter de regler som gjelder for dommere etter første til tredje ledd i denne paragraf. Reglene i første punktum gjelder tilsvarende for den som utfører forseglings- og registreringsforretninger for tingretten.
 >
 > Lov om domstolene §§ 111-121 gjelder tilsvarende.
+>
+
+### 2007-02-27 — lov/2007-01-26-3
+
+*§ 148 tredje ledd skal lyde:*
+
+> Ved behandlingen av rettstvister er dommeren inhabil i samme utstrekning som i sivile saker.
+>
+
+## § 149
+
+### 2007-02-27 — lov/2007-01-26-3
+
+*§ 149 første ledd skal lyde:*
+
+> Bestemmelsene i tvisteloven første, fjerde, femte og sjette del, kapittel 8 og §§ 9-6, 9-11 og 9-16 får tilsvarende anvendelse så langt de passer og ikke annet er bestemt. Med hensyn til vitners og sakkyndiges møteplikt gjelder samme regler som under hovedforhandling i sivile tvister.
+>
+
+### 2007-02-27 — lov/2007-01-26-3
+
+*§ 149 annet ledd første punktum skal lyde:*
+
+> For adgangen til å opptre som prosessfullmektig under gjeldsforhandling og konkurs gjelder tvisteloven § 3-3 første til fjerde ledd.
+>
+
+### 2007-02-27 — lov/2007-01-26-3
+
+*§ 149 annet ledd tredje punktum skal lyde:*
+
+> Ved begjæring om konkurs, ved behandling av tvister ved allmennprosess etter tvisteloven og ved anke gjelder tvisteloven § 3-3 første til tredje ledd.
+>
+
+### 2007-02-27 — lov/2007-01-26-3
+
+*§ 149 tredje ledd første punktum skal lyde:*
+
+> Retten kan ved konkursbehandling i særlige tilfeller beslutte bevisopptak etter tvisteloven kapittel 27 til avklaring av boets rettigheter eller forpliktelser.
+>
+
+## § 150
+
+### 2007-02-27 — lov/2007-01-26-3
+
+*§ 150 skal lyde:*
+
+> § 150.Tingrettens avgjørelser.
+>
+> Foruten i de tilfeller som domstolloven og tvisteloven bestemmer, er tingrettens avgjørelser kjennelser når denne lov kaller dem så eller de avgjør en rettstvist som ikke skal avgjøres ved dom.
+>
+
+## § 152
+
+### 2007-02-27 — lov/2007-01-26-3
+
+*§ 152 første ledd annet punktum skal lyde:*
+
+> Etter at partene har fått anledning til å uttale seg, kan retten bestemme at anke over kjennelse i tvist om anmeldte fordringer skal behandles etter reglene om anke over kjennelser.
+>
+
+### 2007-02-27 — lov/2007-01-26-3
+
+*§ 152 tredje ledd skal lyde:*
+
+> Overfor kjennelser som åpner konkurs, kan gjenåpning kreves etter reglene for dommer i tvisteloven kapittel 31.
+>
+
+### 2016-04-22 — lov/2016-04-22-3
+
+*§ 152 oppheves.*
+
+## § 153
+
+### 2007-02-27 — lov/2007-01-26-3
+
+*§ 153 skal lyde:*
+
+> § 153.Frister for rettsmidler.
+>
+> Fristen for anke er en måned, hvis ikke annet følger av §§ 4 tredje ledd, 54 annet ledd og 124 første ledd.
+>
+> Fristene for anke over en avgjørelse som ikke skal forkynnes eller meddeles vedkommende, regnes fra den dag avgjørelsen ble tatt. Skal avgjørelsen meddeles vedkommende, regnes fristen fra den dag meddelelsen er avsendt. For utlodninger regnes fristen alltid fra utlodningsdagen. For anke over kjennelser som nevnt i §§ 52 annet ledd og 125 første ledd regnes fristen fra avsigelsen.
+>
+> Etter at stadfestelse av tvangsakkord eller sluttutlodning er blitt rettskraftig, kan oppfriskning mot forsømmelser under bobehandlingen ikke gis og gjenåpning ikke kreves.
+>
+
+## § 154
+
+### 2007-02-27 — lov/2007-01-26-3
+
+*§ 154 overskriften og første ledd skal lyde:*
+
+> Behandling av tvist ved allmennprosess.
+>
+> En tvist som hører under tingretten etter denne lov, kan behandles ved allmennprosess, dersom denne behandlingsformen anses mest hensiktsmessig på grunn av rettsspørsmålets art eller de opplysninger som kreves, og retten gir samtykke.
+>
+
+### 2007-02-27 — lov/2007-01-26-3
+
+*§ 154 fjerde og femte ledd skal lyde:*
+
+> Skal en tvist behandles ved allmennprosess, fastsetter retten hvem som skal reise søksmålet, og innen hvilken frist det må anlegges.
+>
+> Megling i forliksrådet foretas ikke. Ellers gjelder reglene for allmennprosess hvis ikke annet følger av bestemmelsene i denne lov.
+>
+
+### 2007-02-27 — lov/2007-01-26-3
+
+*§ 154 sjuende ledd skal lyde:*
+
+> Rettens beslutninger etter denne paragraf kan ikke angripes ved anke.
+>
+
+## § 155
+
+### 2007-02-27 — lov/2007-01-26-3
+
+*§ 155 første og nytt annet punktum skal lyde:*
+
+> Tvisteloven § 16-16 første ledd bokstav c gjelder tilsvarende hvor skyldneren er part i en voldgiftssak i Norge som er begynt før konkursåpningen. Gjelder saken krav mot skyldneren, kan boet trekkes inn som part dersom kravet gjøres gjeldende mot boet.
 >
 
 ## § 156
@@ -400,6 +677,35 @@ refid: "lov/1984-06-08-58"
 > Føreren av Konkursregisteret skal tilby abonnementsordninger for opplysninger som etter loven her skal kunngjøres i Brønnøysundregistrenes elektroniske kunngjøringspublikasjon. Kongen kan i forskrift gi nærmere regler om ordningen, herunder om hvilke typer abonnement som skal tilbys, tekniske krav for å være abonnent og om finansiering. Kongen kan i forskrift også gi regler om at fordringshavere og offentlige myndigheter skal kunne abonnere på opplysninger fra elektroniske bosider hos Brønnøysundregistrene.
 >
 
+## § 16
+
+### 2007-02-27 — lov/2007-01-26-3
+
+*§ 16 tredje ledd fjerde punktum skal lyde:*
+
+> Rettens avgjørelse av spørsmålet om forlengelse av fristen kan ikke ankes.
+>
+
+### 2016-04-22 — lov/2016-04-22-3
+
+*§ 16 tredje og fjerde ledd skal lyde:*
+
+> Dersom forhandling om frivillig gjeldsordning blir besluttet åpnet, kan skyldnerens bo ikke tas under konkursbehandling etter begjæring av en fordringshaver hvis fordring skriver seg fra tiden før gjeldsforhandlingen ble åpnet. Dette gjelder likevel ikke når det mer enn tre måneder etter at gjeldsforhandlingen ble besluttet åpnet, fremsettes en konkursbegjæring eller begjæres fremmet en konkursbegjæring hvis behandling er utsatt etter reglene i første ledd. Retten kan i særlige tilfeller forlenge fristen når skyldneren ber om det, og det er god utsikt til at skyldneren vil kunne oppnå frivillig gjeldsordning eller få åpnet forhandling om tvangsakkord. Rettens avgjørelse av spørsmålet om forlengelse av fristen kan ikke ankes.
+>
+> Dersom forhandling om tvangsakkord blir besluttet åpnet, kan skyldnerens bo ikke tas under konkursbehandling etter begjæring av en fordringshaver hvis fordring skriver seg fra tiden før forhandlingen om tvangsakkord ble åpnet og som ikke grunner seg på avtale som er inngått med gjeldsnemndas tillatelse eller godkjennelse. Reglene i første og annet ledd gjelder tilsvarende.
+>
+
+## § 160
+
+### 2009-06-19 — lov/2009-06-19-74
+
+*§ 160 annet ledd skal lyde:*
+
+> Overtredelse av taushetsplikten straffes som bestemt i straffeloven § 209.
+>
+> 117. I lov 14. juni 1985 nr. 77 Plan- og bygningslov gjøres følgende endring:
+>
+
 ## § 2
 
 ### 2003-01-01 — forskrift/2002-10-11-1094
@@ -411,6 +717,15 @@ refid: "lov/1984-06-08-58"
 > Dersom boet inngår avtale med fordringshavere med panterett i eiendeler som tilhører boet om at inntektene ved forvaltning og salg av disse aktiva skal utbetales direkte til panthaver, kan retten samtykke i at sikkerheten settes lavere enn fastslått i første ledd. Det samme gjelder også ellers når retten finner det ubetenkelig.
 >
 > Dersom risikoen under bobehandlingen blir vesentlig minsket som følge av foreløpig utlodding eller annen reduksjon i verdien av boets aktiva, kan retten skriftlig samtykke i at sikkerheten reduseres. Retten kan kreve at sikkerheten økes dersom verdien av boets aktiva viser seg å være vesentlig større enn det som opprinnelig er lagt til grunn, eller forholdene ellers tilsier det.Endret ved rettelse 19. desember 2002. Se Norsk Lovtidend 18/2002.
+>
+
+## § 21
+
+### 2016-04-22 — lov/2016-04-22-3
+
+*§ 21 første ledd nr. 4 og 5 skal lyde:*
+
+> opplysning om skyldneren antas å ha foretatt disposisjoner som kan omstøtes i tilfelle av forhandling om tvangsakkord eller konkurs, og om det er holdt tvangsforretninger hos skyldneren som i så fall vil være uvirksomme;opplysning om skyldneren tidligere har søkt frivillig gjeldsordning eller vært under forhandling om tvangsakkord eller konkurs, i tilfelle med angivelse av den dividende fordringshaverne oppnådde;
 >
 
 ## § 24
@@ -435,11 +750,34 @@ refid: "lov/1984-06-08-58"
 
 ## § 3
 
-### 2003-01-01 — forskrift/2002-10-11-1094
+### 2007-02-27 — lov/2007-01-26-3
 
-*§ 3 første ledd nr. 1 første punktum skal lyde:*
+*§ 3 annet ledd skal lyde:*
 
-> Dersom konkursdebitor er registrert i Foretaksregisteret og ikke er et enkeltpersonforetak, registreres foretakets organisasjonsnummer, foretakets nåværende og eventuelle tidligere firma og adresse siste år, bransje, saksnummer for konkursboet, rettens navn og dato for kjennelse om konkursåpning.
+> Lov 17. desember 1982 nr. 86 om rettsgebyr § 3 tredje og femte ledd og § 5 annet ledd gjelder tilsvarende.
+>
+
+### 2016-04-22 — lov/2016-04-22-3
+
+*§ 3 annet ledd skal lyde:*
+
+> Rettsgebyrloven § 3 tredje og sjette ledd og § 5 annet ledd gjelder tilsvarende.
+>
+
+## § 31
+
+### 2007-02-27 — lov/2007-01-26-3
+
+*§ 31 annet ledd femte punktum skal lyde:*
+
+> I særlige tilfeller kan retten fravike satsene for godtgjørelse av skjønnsmedlemmer som ellers gjelder ved skiftetakst.
+>
+
+### 2020-12-18 — lov/2020-12-18-149
+
+*§ 31 annet ledd fjerde punktum skal lyde:*
+
+> For øvrig gjelder arveloven § 106 annet til femte ledd tilsvarende.
 >
 
 ## § 35
@@ -458,6 +796,34 @@ refid: "lov/1984-06-08-58"
 > Kunngjøringen rykkes inn i Brønnøysundregistrenes elektroniske kunngjøringspublikasjon.
 >
 
+### 2016-04-22 — lov/2016-04-22-3
+
+*§ 35 skal lyde:*
+
+> § 35.Kunngjøring av at forhandling om tvangsakkord er åpnet
+>
+> Når forhandling om tvangsakkord er åpnet, skal gjeldsnemnda, hvis ikke tingretten beslutter å gjøre det selv, uten opphold utferdige en kunngjøring som skal inneholde:underretning om at skyldneren har åpnet forhandling om tvangsakkord;oppfordring til fordringshaverne om innen tre uker å sende inn til gjeldsnemnda en spesifisert oppgave over sine fordringer på skyldneren. Med oppgaven skal følge de dokumenter som tjener som bevis for fordringene, og opplysning skal gis om fordringenes grunnlag, om de sikkerheter i skyldnerens eller i tredjepersons eiendeler som måtte hefte for dem og om det er solidarisk medforpliktede. Har det før forhandlingen om tvangsakkord vært forhandling om frivillig gjeldsordning, meddeles det samtidig at fordringer som allerede er meldt til gjeldsnemnda, ikke behøver å meldes på nytt;berammelse av et fordringshavermøte, jf. § 38 a, eller opplysning om at tingretten har bestemt at det ikke skal holdes slikt møte.
+>
+> Kunngjøringen rykkes inn i Brønnøysundregistrenes elektroniske kunngjøringspublikasjon.
+>
+> Har det før forhandlingen om tvangsakkord vært forhandling om frivillig gjeldsordning, skal kopi av kunngjøringen uten opphold sendes til alle kjente fordringshavere.
+>
+> Alle som har en rettslig interesse i bobehandlingen, har rett til å gjøre seg kjent med den listen over fordringshavere som var vedlegg til skyldnerens begjæring om åpning av gjeldsforhandling, jf. § 2 første ledd tredje punktum nr. 2, og med fordringsanmeldelsene.
+>
+
+## § 36
+
+### 2016-04-22 — lov/2016-04-22-3
+
+*§ 36 skal lyde:*
+
+> § 36.Tinglysing m.m. av melding om at forhandling om tvangsakkord er åpnet
+>
+> Melding om at skyldneren har åpnet forhandling om tvangsakkord, skal på begjæring av gjeldsnemnda tinglyses eller registreres i:Løsøreregisteret,grunnboken og liknende realregistre, for så vidt skyldneren eier fast eiendom eller andre registrerte eiendeler,et verdipapirregister, dersom det er registrert rettigheter der som gjeldsnemnda mener tilhører skyldneren, ogForetaksregisteret, dersom skyldnerens foretaksnavn er innført der.
+>
+> Gjeldsnemnda skal videre sende underretning om åpningen av forhandling om tvangsakkord til de banker og tilsvarende institusjoner hvor skyldneren har innskudd.
+>
+
 ## § 37
 
 ### 2006-01-27 — lov/2006-01-27-4
@@ -469,13 +835,24 @@ refid: "lov/1984-06-08-58"
 > Dersom en anmeldt fordring helt eller delvis blir bestridt, skal gjeldsnemnda uten opphold underrette fordringshaveren og samtidig gjøre vedkommende oppmerksom på reglene i § 47 annet ledd. Underretningen skal sendes med rekommandert brev eller ved bruk av elektronisk kommunikasjon hvor det er benyttet en betryggende metode for å sikre at underretningen er mottatt.
 >
 
+## § 39
+
+### 2007-02-27 — lov/2007-01-26-3
+
+*§ 39 skal lyde:*
+
+> § 39.Skyldnerens møteplikt.
+>
+> Skyldneren plikter å være til stede på fordringshavermøter og et eventuelt avstemningsmøte, hvis ikke skyldneren har gyldig fravær eller har fått tillatelse av gjeldsnemnda til å være fraværende.
+>
+
 ## § 4
 
-### 2003-01-01 — forskrift/2002-10-11-1094
+### 2007-02-27 — lov/2007-01-26-3
 
-*§ 4 skal lyde:*
+*§ 4 tredje ledd annet og tredje punktum skal lyde:*
 
-> Den rett som avsier kjennelse om konkursåpning, skal straks, fortrinnsvis pr. telefaks eller som elektronisk post, sende melding til Konkursregisteret med opplysninger som nevnt i § 3 nr. 1, 2 og 8, tidsangivelse og adresse for første skiftesamling, frist for fordringsanmeldelser og fristdagen.
+> En kjennelse som tar begjæringen til følge, kan ikke angripes ved anke. En kjennelse som avslår begjæringen, kan ankes innen tre dager.
 >
 
 ## § 40
@@ -487,21 +864,110 @@ refid: "lov/1984-06-08-58"
 > Dersom vedtakelsen eller tilbakekallingen er skjedd ved en representant som ikke har fremlagt betryggende legitimasjon for sin myndighet til å forplikte fordringshaveren, skal vedtakelsen eller tilbakekallingen godtas såfremt betryggende legitimasjon fremlegges innen den fastsatte avstemningsfrist eller på et eventuelt avstemningsmøte.
 >
 
-## § 5
+### 2016-04-22 — lov/2016-04-22-3
 
-### 2003-01-01 — forskrift/2002-10-11-1094
+*§ 40 tredje ledd skal lyde:*
 
-*§ 5 skal lyde:*
+> Dersom en fordringshaver før forhandling om tvangsakkord ble åpnet, har stemt for akkordforslaget, og dette senere ikke er blitt endret, anses fordringshaveren for å fastholde sin vedtagelse, når den ikke senere er blitt tilbakekalt.
+>
 
-> Dersom ny bostyrer blir oppnevnt, skal dette snarest meldes til Konkursregisteret.
+## § 45
+
+### 2016-04-22 — lov/2016-04-22-3
+
+*§ 45 første ledd nr. 1 skal lyde:*
+
+> legitimasjoner for at forhandlingen om tvangsakkord har vært kunngjort og bekreftelse av at fordringshaverne har vært varslet om avstemningen i overensstemmelse med lovens regler;
 >
-> Retten skal snarest etter avsluttet bobehandling sende Konkursregisteret avsluttende kjennelse eller utlodning.
+
+## § 46
+
+### 2007-02-27 — lov/2007-01-26-3
+
+*§ 46 annet ledd femte punktum skal lyde:*
+
+> Skyldneren plikter å være til stede i møtet dersom han eller hun ikke har gyldig fravær, eller har fått rettens tillatelse til å være fraværende.
 >
-> Har retten avsagt kjennelse om konkurskarantene, skal denne straks sendes Konkursregisteret. Retten skal også gi melding dersom kjennelsen om konkurskarantene blir omgjort eller virkningen faller bort etter reglene i konkurslovens § 143 fjerde eller femte ledd.
+
+### 2007-02-27 — lov/2007-01-26-3
+
+*§ 46 fjerde ledd skal lyde:*
+
+> Rettens avgjørelse etter denne paragraf er ikke gjenstand for anke.
 >
-> Dersom en kjennelse om konkursåpning eller konkurskarantene blir opphevet etter kjæremål, skal retten straks gi Konkursregisteret melding om dette.
+
+## § 47
+
+### 2007-02-27 — lov/2007-01-26-3
+
+*§ 47 første ledd tredje punktum skal lyde:*
+
+> Avgjørelsen tas i forbindelse med avgjørelsen av spørsmålet om stadfestelse og kan bare ankes sammen med denne.
 >
-> Likeledes skal melding straks gis dersom et kjæremål over kjennelse om konkurskarantene gis oppsettende virkning etter konkurslovens § 143 tredje ledd.
+
+## § 52
+
+### 2007-02-27 — lov/2007-01-26-3
+
+*§ 52 annet og tredje ledd skal lyde:*
+
+> En kjennelse som stadfester akkorden, kan ankes av skyldneren og av enhver fordringshaver som vil bli bundet av akkorden. Skyldneren vedblir å stå under gjeldsnemndas tilsyn inntil kjennelsen er blitt rettskraftig.
+>
+> Dersom tingretten eller ankeinstansen nekter stadfestelse, skal den samtidig treffe de avgjørelser som er nevnt i § 57.
+>
+
+## § 53
+
+### 2016-04-22 — lov/2016-04-22-3
+
+*§ 53 annet ledd skal lyde:*
+
+> Når stadfestelseskjennelsen er blitt rettskraftig, skal gjeldsnemnda kunngjøre akkorden på den måte som er fastsatt i § 35 annet ledd og sørge for at melding etter § 36 første ledd nr. 1, 2 og 3 blir slettet, og at melding om avslutning av forhandlingen om tvangsakkord blir registrert i Foretaksregisteret dersom skyldnerens foretaksnavn er innført der.
+>
+
+## § 54
+
+### 2007-02-27 — lov/2007-01-26-3
+
+*§ 54 annet ledd annet og tredje punktum skal lyde:*
+
+> En kjennelse som tar begjæringen til følge, kan innen tre dager ankes av skyldneren. En kjennelse som avslår begjæringen, kan ikke ankes.
+>
+
+## § 56
+
+### 2016-04-22 — lov/2016-04-22-3
+
+*§ 56 annet ledd skal lyde:*
+
+> § 53 får tilsvarende anvendelse, annet ledd likevel bare der det har vært kunngjort at skyldneren har åpnet forhandling om tvangsakkord.
+>
+
+## § 57
+
+### 2007-02-27 — lov/2007-01-26-3
+
+*§ 57 tredje ledd tredje punktum skal lyde:*
+
+> Ved anke over kjennelsen gjelder § 72 annet ledd tilsvarende.
+>
+
+### 2016-04-22 — lov/2016-04-22-3
+
+*§ 57 første ledd nr. 2 skal lyde:*
+
+> når det er åpnet forhandling om frivillig gjeldsordning og retten avslår skyldnerens endringsbegjæring om åpning av forhandling om tvangsakkord, jf § 6 a;
+>
+
+## § 59
+
+### 2020-12-18 — lov/2020-12-18-149
+
+*§ 59 skal lyde:*
+
+> § 59.Følgene av at skyldneren dør under gjeldsforhandlingen.
+>
+> Dersom skyldneren dør før kjennelse om konkursåpning er avsagt i henhold til § 57 eller før gjeldsforhandlingen anses for avsluttet, jf § 58, skal gjeldsforhandlingen innstilles og skyldnerens bo behandles i samsvar med arveloven.
 >
 
 ## § 6
@@ -520,13 +986,92 @@ refid: "lov/1984-06-08-58"
 > Når forhandling om frivillig gjeldsordning er åpnet, skal gjeldsnemnda, hvis ikke retten beslutter å gjøre det selv, uten opphold kunngjøre åpningen i Brønnøysundregistrenes elektroniske kunngjøringspublikasjon.
 >
 
-## § 7
+## § 62
 
-### 2003-01-01 — forskrift/2002-10-11-1094
+### 2016-04-22 — lov/2016-04-22-3
 
-*§ 7 fjerde ledd skal lyde:*
+*§ 62 skal lyde:*
 
-> Under bobehandling skal bostyrer sende et eksemplar av innberetninger til retten til Konkursregisteret.
+> § 62.Presumsjon for insolvens ved skyldnerens erkjennelse mv.
+>
+> Erkjenner skyldneren å være insolvent, eller har skyldneren stanset sine betalinger, eller har det ved utlegg eller arrest i løpet av de siste tre måneder før konkursbegjæringen ble innsendt, ikke kunnet oppnås dekning hos skyldneren, antas insolvens i alminnelighet å foreligge.
+>
+
+## § 67
+
+### 2007-02-27 — lov/2007-01-26-3
+
+*§ 67 annet ledd skal lyde:*
+
+> Lov 17. desember 1982 nr. 86 om rettsgebyr § 3 tredje og femte ledd og § 5 annet ledd gjelder tilsvarende.
+>
+
+### 2016-04-22 — lov/2016-04-22-3
+
+*§ 67 annet ledd skal lyde:*
+
+> Rettsgebyrloven § 3 tredje og sjette ledd og § 5 annet ledd gjelder tilsvarende.
+>
+
+## § 71
+
+### 2007-02-27 — lov/2007-01-26-3
+
+*§ 71 overskriften og første ledd første punktum skal lyde:*
+
+> Utsettelse av rettsmøtet. Utveksling av prosesskriv.
+>
+> Retten kan ved kjennelse utsette behandlingen av en konkursbegjæring til et senere rettsmøte når den finner det nødvendig for at det kan bli innhentet ytterligere opplysninger, fordi det er grunn til å tro at skyldneren har gyldig fravær, eller av andre lignende grunner.
+>
+
+### 2007-02-27 — lov/2007-01-26-3
+
+*§ 71 annet og tredje ledd skal lyde:*
+
+> Dersom retten finner at en begjæring om åpning av konkurs reiser faktiske eller rettslige spørsmål som bør utredes nærmere, kan den ved kjennelse beslutte at partene skal gis adgang til å inngi prosesskriv. Fristen for å inngi prosesskriv må normalt ikke være over fire dager, og samtlige prosesskriv bør være kommet inn til retten innen to uker.
+>
+> Rettens avgjørelser etter denne paragraf kan ikke angripes ved anke.
+>
+
+## § 72
+
+### 2007-02-27 — lov/2007-01-26-3
+
+*§ 72 annet ledd skal lyde:*
+
+> Ved anke over kjennelse om åpning av konkurs skal også boet være part. Anken har ikke oppsettende virkning, men før en kjennelse om åpning av konkurs er blitt rettskraftig, bør det som regel ikke foretas andre disposisjoner over skylderens eiendeler enn de som trengs for å hindre tap for boet.
+>
+
+### 2016-04-22 — lov/2016-04-22-3
+
+*§ 72 annet ledd skal lyde:*
+
+> Kjennelse om konkursåpning kan ankes av enhver som avgjørelsen rammer. Ved anke over kjennelse om åpning av konkurs skal også boet være part. Anken har ikke oppsettende virkning, men før en kjennelse om åpning av konkurs er blitt rettskraftig, bør det som regel ikke foretas andre disposisjoner over skylderens eiendeler enn de som trengs for å hindre tap for boet.
+>
+
+## § 75
+
+### 2007-02-27 — lov/2007-01-26-3
+
+*§ 75 første ledd første punktum skal lyde:*
+
+> Er begjæring om konkurs fremsatt, kan tingretten eller den domstol som etter anke behandler begjæringen, på anmodning av en fordringshaver eller etter eget tiltak bestemme at skyldnerens rådighet over eiendeler som omfattes av beslagsretten i konkurs, helt eller delvis skal oppheves inntil konkursbegjæringen er avgjort, dersom det finnes sannsynlig at skyldneren ellers ville forføye over eiendelene til skade for fordringshaverne.
+>
+
+### 2007-02-27 — lov/2007-01-26-3
+
+*§ 75 femte ledd tredje punktum skal lyde:*
+
+> Anke har ikke oppsettende virkning med mindre retten bestemmer det.
+>
+
+## § 76
+
+### 2007-02-27 — lov/2007-01-26-3
+
+*§ 76 tredje ledd skal lyde:*
+
+> Dersom krav etter første og annet ledd bringes inn for retten, treffer den sin avgjørelse ved dom som er gjenstand for anke.
 >
 
 ## § 78
@@ -591,6 +1136,13 @@ refid: "lov/1984-06-08-58"
 > Blir en eiendel abandonert etter § 117 b, skal bostyreren sørge for at melding som nevnt i andre ledd nr. 1 og 2 og fjerde ledd slettes for så vidt gjelder de abandonerte eiendeler. Videre skal det gis melding til fylkesskattekontoret dersom abandoneringen gjelder formuesgoder som vil kunne medføre krav på merverdiavgift ved salg fra skyldnerens side.
 >
 
+### 2007-06-29 — lov/2007-06-29-54
+
+*§ 79 sjuande ledd andre punktum skal lyde:*
+
+> Videre skal det gis melding til skattekontoret dersom abandoneringen gjelder formuesgoder som vil kunne medføre krav på merverdiavgift ved salg fra skyldnerens side.
+>
+
 ### 2021-04-30 — lov/2021-04-30-28
 
 *§ 79 skal lyde:*
@@ -608,8 +1160,35 @@ refid: "lov/1984-06-08-58"
 > Blir en eiendel abandonert etter § 117 b, skal bostyreren sørge for at melding som nevnt i annet ledd slettes for så vidt gjelder de abandonerte eiendeler. Videre skal det gis melding til skattekontoret dersom abandoneringen gjelder formuesgoder som vil kunne medføre krav på merverdiavgift ved salg fra skyldnerens side.
 >
 
+## § 82
+
+### 2007-02-27 — lov/2007-01-26-3
+
+*§ 82 skal lyde:*
+
+> § 82.Anke.
+>
+> Rettens avgjørelser etter § 77 annet ledd og §§ 78 til 80 kan ikke angripes ved anke.
+>
+
+## § 83
+
+### 2007-02-27 — lov/2007-01-26-3
+
+*§ 83 fjerde ledd skal lyde:*
+
+> Rettens avgjørelser etter første ledd kan ikke angripes ved anke.
+>
+
 ## § 85
 
+### 2016-04-22 — lov/2016-04-22-3
+
+*§ 85 første ledd nr. 9 skal lyde:*
+
+> å gi melding så tidlig som mulig til det felles lokale kontoret i arbeids- og velferdsforvaltningen der skyldneren holder til om konkursen og om hvilke arbeidstakere som har krav i boet, dersom det er arbeidstakere i skyldnerens virksomhet.
+>
+
 ### 2022-05-12 — lov/2022-05-12-28
 
 *§ 85 første ledd nr. 9 og ny nr. 10 skal lyde:*
@@ -640,17 +1219,6 @@ refid: "lov/1984-06-08-58"
 *§ 85 nytt fjerde ledd skal lyde:*
 
 > Dersom konkursskyldneren er advokat eller en virksomhet som driver advokatvirksomhet, og det ikke er oppnevnt forvalter, kan bostyreren uhindret av advokatens taushetsplikt foreta undersøkelser av advokatens eller virksomhetens regnskap og annet materiale så langt det er nødvendig for å ivareta oppgaven som bostyrer. Er det oppnevnt forvalter etter advokatloven § 46, skal bostyreren henvende seg til forvalteren, som skal vurdere om vilkåret for å utlevere informasjon underlagt advokatens taushetsplikt, er oppfylt. Informasjon som nevnt i tvisteloven § 22-5 første ledd og straffeprosessloven § 119 første ledd skal ikke bringes videre til andre bo-organer.
->
-
-## § 9
-
-### 2003-01-01 — forskrift/2002-10-11-1094
-
-*§ 9 annet og tredje ledd skal lyde:*
-
-> Unntatt fra regelen i første ledd er Oslo skifterett og byskriverembete, Bergen byfogdembete, Trondheim tingrett og Stavanger byfogdembete. Disse domstolene kan selv, i samråd med registerføreren, innrykke kunngjøring som nevnt i første ledd.
->
-> Når særlige forhold tilsier det, kan registerføreren overlate kunngjøringsoppgaven også til andre førsteinstansdomstoler enn de som er nevnt i annet ledd.
 >
 
 ## § 93
@@ -660,4 +1228,13 @@ refid: "lov/1984-06-08-58"
 *§ 93 første ledd andre punktum skal lyde:*
 
 > Så lenge fristen for anmeldelse av fordringer ikke er utløpt, skal innkalling likevel alltid kunngjøres i Brønnøysundregistrenes elektroniske kunngjøringspublikasjon.
+>
+
+## § 97
+
+### 2007-02-27 — lov/2007-01-26-3
+
+*§ 97 tredje punktum skal lyde:*
+
+> Avgjørelsen har bare virkning for spørsmålet om fordringshaverens stemmerett og kan ikke ankes.
 >

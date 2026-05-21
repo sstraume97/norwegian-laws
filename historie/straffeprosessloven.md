@@ -5,171 +5,6 @@ refid: "lov/1981-05-22-25"
 
 # Endringshistorikk: Straffeprosessloven – strpl
 
-## § 1-3
-
-### 2003-01-01 — forskrift/2002-10-11-1094
-
-*§ 1-3 første ledd skal lyde:*
-
-> Tjenestemenn i påtalemyndigheten har bare påtalemyndighet i det distrikt hvor de gjør tjeneste. De kan likevel også utenfor sitt distrikt begjære foretatt rettergangsskritt i anledning saken. I tilfelle kan begjæringen sendes direkte til vedkommende tingrett når det finnes hensiktsmessig. Det stedlige politikammer skal orienteres dersom saken gjelder tilståelsesdom.
->
-
-## § 7-5
-
-### 2003-01-01 — forskrift/2002-10-11-1094
-
-*§ 7-5 femte ledd første punktum skal lyde:*
-
-> Dersom en offentlig tjenestemann i tjenestens medfør erfarer at det er begått en forseelse og mistenkte straks erkjenner forholdet, kan saken av påtalemyndigheten, jf. § 21-1, oversendes tingretten med begjæring om pådømmelse i henhold til tjenestemannens skriftlige innberetning, når mistenkte samtykker i dette.
->
-
-## § 8-2
-
-### 2003-01-01 — forskrift/2002-10-11-1094
-
-*§ 8-2 sjuende ledd skal lyde:*
-
-> Innrømmer mistenkte å ha begått en handling som avhøret gjelder, skal han spørres om han erkjenner seg skyldig til straff. Har han gitt en uforbeholden tilståelse og saken antas å kunne pådømmes etter straffeprosessloven § 248 (tilståelsesdom), skal han gjøres oppmerksom på dette og hva tilståelsesdom innebærer, samt spørres om han samtykker i slik pådømmelse. Han skal også orienteres om at samtykke innebærer at eventuelle borgerlige rettskrav vil kunne bli pådømt av retten.
->
-
-## § 8-3
-
-### 2003-01-01 — forskrift/2002-10-11-1094
-
-*§ 8-3 tredje ledd skal lyde:*
-
-> Dersom mistenkte samtykker i pådømmelse etter straffeprosessloven § 248 (tilståelsesdom), jf. § 8-2 sjuende ledd, skal også vergene spørres om de samtykker i slik pådømmelse.
->
-
-## § 14-4
-
-### 2003-01-01 — forskrift/2002-10-11-1094
-
-*§ 14-4 skal lyde:*
-
-> Dersom politiet i en forbrytelsessak som ikke er nevnt i § 22-2 annet ledd første punktum mener saken bør kunne avgjøres ved tilståelsesdom, skal det avvente resultatet av personundersøkelsen før saken sendes statsadvokaten med mindre sakens avgjørelse ellers ville bli forsinket i urimelig grad.
->
-
-## § 15-1
-
-### 2003-01-01 — forskrift/2002-10-11-1094
-
-*§ 15-1 første ledd skal lyde:*
-
-> Når vilkårene antas å være til stede for tilståelsesdom, bør saken sendes tingretten med begjæring om rettslig avhør av siktede og mulig pådømmelse.
->
-
-### 2003-01-01 — forskrift/2002-10-11-1094
-
-*§ 15-1 annet ledd tredje punktum skal lyde:*
-
-> Rettslig avhør av siktede bør normalt begjæres når det er grunn til å anta at saken kan pådømmes i tingretten etter reglene i straffeprosessloven § 6 annet ledd nr. 1.
->
-
-## § 15-4
-
-### 2003-01-01 — forskrift/2002-10-11-1094
-
-*§ 15-4 skal lyde:*
-
-> Påtalemyndigheten skal møte ved rettsmøte til behandling av spørsmålet om fengsling, med mindre særlige forhold gjør det upåkrevd.
->
-> Også ved andre rettsmøter i tingretten utenfor hovedforhandling bør påtalemyndigheten som regel møte. Blir rettsmøte holdt med sikte på tilståelsesdom, jf. straffeprosessloven § 248, gjelder dette likevel bare når det foreligger særlig grunn til at påtalemyndigheten bør møte.
->
-> Vedkommende tjenestemann innen påtalemyndigheten avgjør om han selv skal møte eller om dette skal overlates en underordnet tjenestemann. I enklere saker kan det overlates til en polititjenestemann som ikke hører til påtalemyndigheten, å møte i rettsmøter i tingretten utenfor hovedforhandling på vegne av påtalemyndigheten. Dette bør dog ikke gjøres i saker hvor siktede møter med forsvarer eller hvor det kan bli spørsmål om ubetinget frihetsstraff i sak som fremmes etter straffeprosessloven § 248.
->
-
-## § 20-8
-
-### 2003-01-01 — forskrift/2002-10-11-1094
-
-*§ 20-8 første ledd annet punktum skal lyde:*
-
-> Dersom forelegget ikke vedtas fordi siktede er uenig i botens størrelse, bør saken om mulig sendes tingretten til pådømmelse etter reglene i straffeprosessloven § 248.
->
-
-## § 21-1
-
-### 2003-01-01 — forskrift/2002-10-11-1094
-
-*§ 21-1 skal lyde:*
-
-> § 21-1.Kompetanse til å begjære en sak pådømt etter straffeprosessloven § 248 (tilståelsesdom)
->
-> I sak om forseelse avgjør politiet om saken skal begjæres pådømt etter straffeprosessloven § 248 (tilståelsesdom), hvis ikke tiltalespørsmålet hører under Kongen. Ved overtredelse av straffeloven § 324 til § 327 eller § 330 skal saken likevel forelegges statsadvokaten til avgjørelse etter reglene i fjerde ledd. Det samme gjelder når saken antas å ha særlig stor allmenn interesse eller når overordnet påtalemyndighet ellers har bestemt det.
->
-> I forbrytelsessaker som nevnt i § 22-2 annet ledd første punktum avgjør politiet om saken skal begjæres pådømt etter straffeprosessloven § 248 (tilståelsesdom), hvis ikke tiltalespørsmålet hører under Kongen. Saken skal likevel forelegges statsadvokaten til avgjørelse etter fjerde ledd, når saken antas å ha særlig stor allmenn interesse eller når overordnet påtalemyndighet ellers har bestemt det.
->
-> I forbrytelsessaker som ikke er nevnt i § 22-2 annet ledd første punktum avgjør statsadvokaten om saken skal begjæres pådømt etter straffeprosessloven § 248 (tilståelsesdom), med mindre tiltalespørsmålet hører under riksadvokaten eller Kongen. Har en sak særlig stor allmenn interesse, skal den forelegges for riksadvokaten.
->
-> Mener politiet at en forbrytelsessak som ikke er nevnt i § 22-2 bør avgjøres ved tilståelsesdom, skal saken forelegges statsadvokaten med utferdiget siktelse. Dersom straffeloven § 54 nr. 3 eller § 64 annet ledd eller fengselsloven § 41 kommer til anvendelse, skal kopi av den tidligere dommen vedlegges. I innstillingen skal politiet gi uttalelse om forhold som nevnt i § 21-2. I saker hvor siktede er fengslet må politiet når saken sendes statsadvokaten, sørge for å ta de nødvendige kopier til bruk ved eventuell forlengelse av fengslingen.
->
-> Bestemmelsene i fjerde ledd gjelder tilsvarende når statsadvokaten eller riksadvokaten avgir innstilling til henholdsvis riksadvokaten eller Kongen.
->
-
-## § 21-2
-
-### 2003-01-01 — forskrift/2002-10-11-1094
-
-*§ 21-2 første ledd første punktum skal lyde:*
-
-> Den som treffer beslutning om å oversende saken til pådømmelse etter reglene i straffeprosessloven § 248 (tilståelsesdom), skal til rettledning for retten som regel uttale seg om hva han mener er passende straff for handlingen og om de vilkår som i tilfelle bør settes for betinget dom.
->
-
-## § 23-1
-
-### 2003-01-01 — forskrift/2002-10-11-1094
-
-*§ 23-1 annet ledd skal lyde:*
-
-> En sak må ikke begjæres pådømt etter straffeprosessloven § 248 (tilståelsesdom) dersom påtalemyndigheten vil påstå sikring.
->
-
-## § 24-1
-
-### 2003-01-01 — forskrift/2002-10-11-1094
-
-*§ 24-1 tredje ledd første punktum skal lyde:*
-
-> Saker om forseelse ved tingretten skal som regel føres av politiets tjenestemenn som hører til påtalemyndigheten.
->
-
-## § 27-1
-
-### 2003-01-01 — forskrift/2002-10-11-1094
-
-*§ 27-1 fjerde ledd skal lyde:*
-
-> Bestemmelsene i denne paragrafen gjelder tilsvarende når saken er avgjort ved tilståelsesdom eller fremmet på grunnlag av et ikke-vedtatt forelegg.
->
-
-## § 29-9
-
-### 2003-01-01 — forskrift/2002-10-11-1094
-
-*§ 29-9 første ledd tredje punktum skal lyde:*
-
-> Saken sendes tingretten på domfeltes oppholdssted.
->
-
-## § 30-12
-
-### 2003-01-01 — forskrift/2002-10-11-1094
-
-*§ 30-12 tredje ledd første punktum skal lyde:*
-
-> Ved utleggstrekk kan skyldneren eller arbeidsgiveren (kassereren) klage til tingretten over pålegget i medhold av tvangsfullbyrdelsesloven § 5-16 jf. § 7-26.
->
-
-## § 34-10
-
-### 2003-01-01 — forskrift/2002-10-11-1094
-
-*§ 34-10 skal lyde:*
-
-> I saker for tingretten avgjør statsadvokaten om aktoratet skal utføres av ham selv, en hjelpestatsadvokat, en statsadvokatfullmektig eller en advokat som er antatt til å føre slike saker. Det samme gjelder i saker som er begjært pådømt etter reglene i straffeprosessloven § 248 (tilståelsesdom) når det foreligger særlige grunn til at påtalemyndigheten bør møte.
->
-
 ## (annet)
 
 ### 2001-06-15 — lov/2001-06-15-63
@@ -215,13 +50,34 @@ refid: "lov/1981-05-22-25"
 > Om dokumentinnsyn gjelder §§ 28, 242 og 264 tilsvarende. Kommisjonen kan unnta fra innsyn dokumenter som den selv har utarbeidet for sin interne saksforberedelse.
 >
 
-### 2003-01-01 — forskrift/2002-10-11-1094
+### 2001-06-15 — lov/2001-06-15-64
 
-*Overskriften til kapittel 21 skal lyde:*
+*Endringen i § 157 annet ledd oppheves.*
 
-### 2003-01-01 — forskrift/2002-10-11-1094
+### 2001-06-15 — lov/2001-06-15-64
 
-*Kap. 21. Tilståelsesdom*
+*Nåværende annet og tredje ledd blir nytt tredje og fjerde ledd.*
+
+### 2001-06-15 — lov/2001-06-15-64
+
+*Endringen i § 196 oppheves.*
+
+### 2001-06-15 — lov/2001-06-15-64
+
+*Endringen i § 216 a oppheves.*
+
+### 2001-06-15 — lov/2001-06-15-64
+
+*Endringen i § 30 oppheves.*
+
+### 2001-06-15 — lov/2001-06-15-64
+
+*Endringen i § 58 oppheves.*
+
+> Nr. 11 endres slik:
+>
+> I endringen i lov 20. juli 1991 nr. 67 om overføring av domfelte gjøres følgende endring:
+>
 
 ### 2003-01-10 — lov/2003-01-10-3
 
@@ -242,9 +98,49 @@ refid: "lov/1981-05-22-25"
 
 *Nåværende annet ledd blir nytt fjerde ledd.*
 
+### 2003-12-19 — lov/2003-12-19-125
+
+*Nåværende annet og tredje ledd blir nye fjerde og femte ledd.*
+
+### 2004-03-05 — lov/2004-03-05-13
+
+*Nåværende syvende og åttende ledd blir åttende og nytt niende ledd.*
+
 ### 2004-07-02 — lov/2004-07-02-61
 
 *Kapittel 9 a skal lyde:*
+
+### 2007-02-27 — lov/2007-01-26-3
+
+*Overskriften til kapittel 23 skal lyde:*
+
+> Anke over dommer
+>
+
+### 2007-02-27 — lov/2007-01-26-3
+
+*I kapittel 26 skal overskriften lyde:*
+
+> Anke over kjennelser og beslutninger
+>
+
+### 2007-02-27 — lov/2007-01-26-3
+
+*Overskriften til kapittel 27 skal lyde:*
+
+> Gjenåpning
+>
+
+### 2007-02-27 — lov/2007-01-26-3
+
+*Overskriften til kapittel 29 skal lyde:*
+
+> Sivile krav
+>
+
+### 2008-03-07 — lov/2008-03-07-4
+
+*Nåværende annet ledd i § 256 blir nytt tredje ledd.*
 
 ### 2008-03-07 — lov/2008-03-07-5
 
@@ -306,6 +202,10 @@ refid: "lov/1981-05-22-25"
 
 *Nåværende annet, tredje og fjerde ledd blir nytt tredje, fjerde og femte ledd.*
 
+### 2009-06-19 — lov/2009-06-19-74
+
+*Nåværende annet ledd i § 256 blir nytt tredje ledd.*
+
 ### 2009-06-19 — lov/2009-06-19-75
 
 *Nytt kapittel 16 c skal lyde:*
@@ -344,6 +244,19 @@ refid: "lov/1981-05-22-25"
 > Koordinerende bistandsadvokat skal, så langt det er mulig, samordne bistandsadvokatenes syn på spørsmål som oppstår under etterforskningen og forberedelsen av hovedforhandlingen og bidra til en hensiktsmessig gjennomføring av saken i samarbeid med øvrige aktører. Dersom det er nødvendig for en hensiktsmessig gjennomføring av saken, kan retten beslutte at spørsmål som den enkelte bistandsadvokat ønsker stilt under etterforskning, bevisopptak og hovedforhandling til andre enn egen klient, jf. § 271 andre ledd andre punktum og § 291 a, skal samordnes og stilles av koordinerende bistandsadvokat.
 >
 > Rettens oppnevning av en bestemt koordinerende bistandsadvokat kan ikke ankes eller brukes som ankegrunn.
+>
+
+### 2013-04-05 — lov/2013-04-05-12
+
+*I kapittel 8 skal ny § 93 g lyde:*
+
+> § 93 g.
+>
+> Rettigheter som etter loven her tilkommer fornærmede og etterlatte, utøves av vergen når den fornærmede eller etterlatte er under 18 år, med mindre noe annet følger av lov. Er vergene uenige seg imellom om utøvelsen av rettighetene, skal det oppnevnes en setteverge.
+>
+> En mindreårig som har fylt 15 år, kan på ethvert tidspunkt i saken selv utøve rettighetene som fornærmet eller etterlatt, med mindre den mindreårige er i en tilstand som beskrevet i vergemålsloven § 20.
+>
+> Rettigheter som nevnt i første ledd utøves av vergen når den fornærmede eller etterlatte fullt ut er fratatt den rettslige handleevnen. Det samme gjelder en fornærmet eller etterlatt som delvis er fratatt den rettslige handleevnen når fratakelsen av handleevnen må anses å omfatte det å utøve prosessuelle rettigheter.
 >
 
 ### 2013-05-24 — lov/2013-05-24-19
@@ -612,109 +525,6 @@ refid: "lov/1981-05-22-25"
 > Stedlig virkekrets for tingrettene fastsettes av departementet.
 >
 
-### 2003-01-01 — forskrift/2002-10-11-1094
-
-*§ 1 skal lyde:*
-
-> Militære straffesaker behandles i krigstid ved følgende domstoler som førsteinstans, som i disse saker har stedlig virkekrets som angitt:
->
-> Oslo tingrett
->
-> Virkekretsen dekker Oslo kommune og kommunene Asker, Bærum, Enebakk, Oppegård, Ski, Ås, Vestby, Frogn og Nesodden i Akershus fylke.
->
-> Eidsvoll tingrett
->
-> Virkekretsen dekker kommunene Eidsvoll, Hurdal, Nannestad, Ullensaker, Fet, Gjerdrum, Lørenskog, Nittedal, Rælingen, Skedsmo, Aurskog-Høland, Nes og Sørum i Akershus fylke.
->
-> Sarpsborg tingrett
->
-> Stedlig virkekrets omfatter alle kommunene i Østfold fylke (Fredrikstad, Hvaler, Hobøl, Moss, Rygge, Råde, Våler, Sarpsborg, Skiptvedt, Rakkestad, Aremark, Halden, Askim, Eidsberg, Marker, Rømskog, Spydeberg og Trøgstad).
->
-> Sør-Østerdal tingrett
->
-> Stedlig virkekrets omfatter alle kommunene i Hedmark fylke (Hamar, Løten, Ringsaker, Stange, Alvdal, Engerdal, Folldal, Rendalen, Stor-Elvdal, Tolga, Os, Tynset, Grue, Våler, Åsnes, Elverum, Trysil, Åmot, Eidskog, Kongsvinger, Nord-Odal og Sør-Odal).
->
-> Sør-Gudbrandsdal tingrett
->
-> Stedlig virkekrets omfatter alle kommunene i Oppland fylke (Gran, Jevnaker, Lunner, Nordre Land, Søndre Land, Dovre, Lesja, Lom, Nord-Fron, Sel, Skjåk, Vågå, Gausdal, Lillehammer, Ringebu, Sør-Fron, Øyer, Gjøvik, Vestre Toten, Østre Toten, Etnedal, Nord-Aurdal, Sør-Aurdal, Vang, Vestre Slidre og Øystre Slidre).
->
-> Kongsberg tingrett
->
-> Stedlig virkekrets omfatter alle kommunene i Buskerud fylke (Drammen, Krødsherad, Modum, Nedre Eiker, Sigdal, Øvre Eiker, Flå, Gol, Hemsedal, Hol, Hole, Hurum, Lier, Nes, Ål, Flesberg, Kongsberg, Nore og Uvdal, Ringerike, Rollag og Røyken) samt kommunene Hjartdal, Notodden, Tinn, Bø, Nome, Sauherad og Seljord i Telemark fylke.
->
-> Skien og Porsgrunn tingrett
->
-> Virkekretsen omfatter kommunene Bamble, Porsgrunn, Skien, Siljan, Drangedal og Kragerø i Telemark fylke.
->
-> Tønsberg tingrett
->
-> Stedlig virkekrets omfatter alle kommunene i Vestfold fylke (Andebu, Nøtterøy, Stokke, Tjøme, Tønsberg, Hof, Holmestrand, Sande, Svelvik, Borre, Ramnes, Våle, Lardal, Larvik og Sandefjord).
->
-> Nedenes tingrett
->
-> Stedlig virkekrets omfatter kommunene Gjerstad, Risør, Tvedestrand, Vegårshei, Arendal, Froland, Åmli, Birkenes, Grimstad og Lillesand i Aust-Agder fylke samt kommunene Fyresdal, Kviteseid, Nissedal, Tokke og Vinje i Telemark fylke.
->
-> Kristiansand tingrett
->
-> Stedlig virkekrets omfatter alle kommunene i Vest-Agder fylke (Kristiansand, Songdalen, Søgne, Flekkefjord, Kvinesdal, Sirdal, Farsund, Hægebostad, Lyngdal, Audnedal, Lindesnes, Mandal, Marnardal, Vennesla og Åseral) samt kommunene Bygland, Bykle, Evje og Hornnes, Iveland og Valle i Aust-Agder fylke.
->
-> Stavanger tingrett
->
-> Stedlig virkekrets omfatter alle kommunene i Rogaland fylke (Stavanger, Bjerkreim, Eigersund, Lund, Sokndal, Haugesund, Hå, Klepp, Sola, Time, Bokn, Karmøy, Tysvær, Utsira, Vindafjord, Finnøy, Forsand, Hjelmeland, Kvitsøy, Randaberg, Rennesøy, Sauda, Strand, Suldal, Gjesdal og Sandnes).
->
-> Bergen tingrett
->
-> Stedlig virkekrets omfatter alle kommunene i Hordaland fylke (Bergen, Eidfjord, Jondal, Kvam, Odda, Ullensvang, Askøy, Austevoll, Fjell, Fusa, Os, Samnanger, Sund, Austrheim, Fedje, Lindås, Masfjorden, Meland, Modalen, Osterøy, Radøy, Vaksdal, Øygarden, Bømlo, Etne, Fitjar, Kvinnherad, Stord, Sveio, Tysnes, Ølen, Granvin, Ulvik og Voss).
->
-> Sunnfjord tingrett
->
-> Stedlig virkekrets omfatter alle kommunene i Sogn og Fjordane fylke (Aurland, Luster, Lærdal, Sogndal, Årdal, Eid, Gloppen, Hornindal, Selje, Stryn, Vågsøy, Askvoll, Bremanger, Fjaler, Flora, Førde, Gaular, Jølster, Naustdal, Balestrand, Gulen, Hyllestad, Høyanger, Leikanger, Solund og Vik).
->
-> Romsdal tingrett
->
-> Stedlig virkekrets omfatter alle kommunene i Møre og Romsdal fylke (Aure, Averøy, Eide, Frei, Gjemnes, Halsa, Kristiansund, Rindal, Smøla, Sunndal, Surnadal, Tingvoll, Tustna, Aukra, Fræna, Midsund, Molde, Nesset, Rauma, Sandøy, Vestnes, Giske, Haram, Hareid, Norddal, Skodje, Stordal, Stranda, Sula, Sykkylven, Ulstein, Ørskog, Ålesund, Herøy, Sande, Vanylven, Volda og Ørsta).
->
-> Trondheim tingrett
->
-> Stedlig virkekrets omfatter alle kommunene i Sør-Trøndelag fylke (Trondheim, Bjugn, Frøya, Hitra, Osen, Roan, Ørland, Åfjord, Holtålen, Melhus, Midtre Gauldal, Røros, Klæbu, Malvik, Rissa, Selbu, Skaun, Tydal, Agdenes, Hemne, Meldal, Oppdal, Orkdal, Rennebu og Snillfjord).
->
-> Inderøy tingrett
->
-> Stedlig virkekrets omfatter alle kommunene i Nord-Trøndelag fylke (Inderøy, Mosvik, Namdalseid, Snåsa, Steinkjer, Verran, Flatanger, Fosnes, Grong, Høylandet, Leka, Lierne, Namsskogan, Namsos, Nærøy, Overhalla, Røyrvik, Vikna, Frosta, Leksvik, Levanger, Meråker, Stjørdal og Verdal).
->
-> Alstahaug tingrett
->
-> Virkekretsen dekker kommunene Alstahaug, Dønna, Grane, Hattfjelldal, Herøy, Leirfjord, Vefsn, Bindal, Brønnøy, Sømna, Vega, Vevelstad, Hemnes, Lurøy, Nesna, Rana og Træna i Nordland fylke.
->
-> Salten tingrett
->
-> Virkekretsen dekker kommunene Beiarn, Bodø, Fauske, Gildeskål, Meløy, Rødøy, Saltdal, Skjerstad, Steigen og Sørfold i Nordland fylke.
->
-> Ofoten tingrett
->
-> Virkekretsen dekker kommunene Ballangen, Evenes, Hamarøy, Lødingen, Narvik, Tjeldsund og Tysfjord i Nordland fylke samt kommunene Gratangen, Lavangen og Salangen i Troms fylke.
->
-> Trondenes tingrett
->
-> Virkekretsen dekker kommunene Flakstad, Moskenes, Røst, Vestvågøy, Værøy, Vågan, Andøy, Bø, Hadsel, Sortland og Øksnes i Nordland fylke samt kommunene Bjarkøy, Harstad, Ibestad, Kvæfjord og Skånland i Troms fylke.
->
-> Nord-Troms tingrett
->
-> Virkekretsen dekker kommunene Balsfjord, Karlsøy, Kvænangen, Gáivuotna-Kåfjord, Lyngen, Nordreisa, Skjervøy, Storfjord og Tromsø i Troms fylke.
->
-> Senja tingrett
->
-> Virkekretsen dekker kommunene Bardu, Berg, Dyrøy, Lenvik, Målselv, Sørreisa, Torsken og Tranøy i Troms fylke.
->
-> Hammerfest tingrett
->
-> Virkekretsen dekker kommunene Hammerfest, Hasvik, Kvalsund, Måsøy, Nordkapp, Porsanger, Alta, Guovdageaidnu-Kautokeino og Loppa i Finnmark fylke.
->
-> Tana og Varanger tingrett
->
-> Virkekretsen dekker kommunene Karášjohka-Karasjok, Unjárga-Nesseby, Sør-Varanger, Deatnu-Tana, Vadsø, Berlevåg, Båtsfjord, Gamvik, Lebesby og Vardø i Finnmark fylke.
->
-
 ## § 100
 
 ### 2008-03-07 — lov/2008-03-07-5
@@ -813,11 +623,25 @@ refid: "lov/1981-05-22-25"
 
 ## § 100 b
 
+### 2008-03-07 — lov/2008-03-07-4
+
+*§ 100 b nytt annet ledd skal lyde:*
+
+> Første ledd gjelder tilsvarende når en sak om kontaktforbud i eget hjem, jf. straffeloven § 57 tredje ledd, bringes inn for retten.
+>
+
 ### 2008-03-07 — lov/2008-03-07-5
 
 *§ 100 b første ledd nytt annet punktum skal lyde:*
 
 > Det samme gjelder når grunnlaget for besøksforbudet er mulig overtredelse av straffeloven § 219.
+>
+
+### 2009-06-19 — lov/2009-06-19-74
+
+*§ 100 b nytt annet ledd skal lyde:*
+
+> Første ledd gjelder tilsvarende når en sak om kontaktforbud i eget hjem, jf. straffeloven § 57 tredje ledd, bringes inn for retten.
 >
 
 ### 2023-12-20 — lov/2023-12-20-111
@@ -830,6 +654,28 @@ refid: "lov/1981-05-22-25"
 >
 
 ## § 100 c
+
+### 2008-03-07 — lov/2008-03-07-4
+
+*Ny § 100 c skal lyde:*
+
+> Med mindre retten på grunnlag av sakens art og forholdene ellers finner det ubetenkelig at den domfelte er uten forsvarer, skal den oppnevne offentlig forsvarer når det er spørsmål om å fastsette eller fullbyrde ubetinget frihetsstraff i mer enn 6 måneder etter brudd på vilkårene forstraffutmålingsutsettelse, jf. straffeloven § 60 tredje ledd, jf. § 39 annet ledd,fullbyrdingsutsettelse, jf. straffeloven § 39 annet ledd,løslatelse på prøve fra fengselsstraff, jf. straffegjennomføringsloven § 44 annet ledd,løslatelse på prøve fra forvaring, jf. straffeloven § 46 første ledd, ellersamfunnsstraff, jf. straffeloven § 52 første ledd bokstav a.
+>
+> Er det aktuelt å fastsette eller fullbyrde en mildere straff, kan retten oppnevne offentlig forsvarer for den domfelte når særlige grunner taler for det.
+>
+> Den domfelte skal ha offentlig forsvarer i saker om opphevelse eller endring av vilkår for prøveløslatelse fra forvaring etter straffeloven § 45 femte ledd. I andre saker om endring av vilkår eller forlengelse av prøvetid, jf. straffeloven §§ 39 første ledd, 45 fjerde ledd og 60 tredje ledd, kan retten oppnevne offentlig forsvarer for den domfelte når særlige grunner taler for det.
+>
+
+### 2009-06-19 — lov/2009-06-19-74
+
+*Ny § 100 c skal lyde:*
+
+> Med mindre retten på grunnlag av sakens art og forholdene ellers finner det ubetenkelig at den domfelte er uten forsvarer, skal den oppnevne offentlig forsvarer når det er spørsmål om å fastsette eller fullbyrde ubetinget frihetsstraff i mer enn 6 måneder etter brudd på vilkårene forstraffutmålingsutsettelse, jf. straffeloven § 60 tredje ledd, jf. § 39 annet ledd,fullbyrdingsutsettelse, jf. straffeloven § 39 annet ledd,løslatelse på prøve fra fengselsstraff, jf. straffegjennomføringsloven § 44 annet ledd,løslatelse på prøve fra forvaring, jf. straffeloven § 46 første ledd, ellersamfunnsstraff, jf. straffeloven § 52 første ledd bokstav a.
+>
+> Er det aktuelt å fastsette eller fullbyrde en mildere straff, kan retten oppnevne offentlig forsvarer for den domfelte når særlige grunner taler for det.
+>
+> Den domfelte skal ha offentlig forsvarer i saker om opphevelse eller endring av vilkår for prøveløslatelse fra forvaring etter straffeloven § 45 femte ledd. I andre saker om endring av vilkår eller forlengelse av prøvetid, jf. straffeloven §§ 39 første ledd, 45 fjerde ledd og 60 tredje ledd, kan retten oppnevne offentlig forsvarer for den domfelte når særlige grunner taler for det.
+>
 
 ### 2016-12-16 — lov/2016-12-16-98
 
@@ -928,6 +774,15 @@ refid: "lov/1981-05-22-25"
 > Politiet skal gjøre fornærmede kjent med retten til advokat ved anmeldelsen av forholdet.
 >
 
+### 2008-03-07 — lov/2008-03-07-4
+
+*§ 107 a første og annet ledd skal lyde:*
+
+> I saker om overtredelse av straffeloven §§ 192-197, 199, 200 tredje ledd, § 342 første ledd bokstav b, jf. § 57 og § 342 første ledd bokstav c, jf. straffeprosessloven § 222 a, har fornærmede rett til hjelp fra advokat dersom fornærmede ønsker det. I andre saker kan retten på begjæring oppnevne advokat for fornærmede hvis det er grunn til å tro at fornærmede som følge av handlingen får betydelig skade på legeme eller helbred og det anses å være behov for advokat.
+>
+> Når en sak om besøksforbud i eget hjem, jf. § 222 a annet ledd annet punktum, eller kontaktforbud i eget hjem, jf. straffeloven § 57 tredje ledd, bringes inn for retten, har den som forbudet skal beskytte, rett til advokat. Reglene i kapitlet her gjelder tilsvarende så langt de passer.
+>
+
 ### 2008-03-07 — lov/2008-03-07-5
 
 *§ 107 a skal lyde:*
@@ -939,6 +794,15 @@ refid: "lov/1981-05-22-25"
 > Retten kan også oppnevne bistandsadvokat i andre tilfeller der sakens art og alvor, hensynet til de berørte eller andre særlige forhold tilsier at det er behov for advokat.
 >
 > Når en sak om besøksforbud i eget hjem, jf. § 222 a annet ledd annet punktum, eller kontaktforbud i eget hjem, jf. straffeloven § 33 tredje ledd, bringes inn for retten, har den som forbudet skal beskytte, rett til advokat. Det samme gjelder når besøksforbud på grunnlag av mulig overtredelse av straffeloven § 219 bringes inn for retten. Reglene i kapitlet her gjelder tilsvarende så langt de passer.
+>
+
+### 2009-06-19 — lov/2009-06-19-74
+
+*§ 107 a første og annet ledd skal lyde:*
+
+> I saker om overtredelse av straffeloven §§ 192-197, 199, 200 tredje ledd, § 342 første ledd bokstav b, jf. § 57, og § 342 første ledd bokstav c, jf. straffeprosessloven § 222 a, har fornærmede rett til hjelp fra advokat dersom fornærmede ønsker det. I andre saker kan retten på begjæring oppnevne advokat for fornærmede hvis det er grunn til å tro at fornærmede som følge av handlingen får betydelig skade på legeme eller helbred og det anses å være behov for advokat.
+>
+> Når en sak om besøksforbud i eget hjem, jf. § 222 a annet ledd annet punktum, eller kontaktforbud i eget hjem, jf. straffeloven § 57 tredje ledd, bringes inn for retten, har den som forbudet skal beskytte, rett til advokat. Reglene i kapitlet her gjelder tilsvarende så langt de passer.
 >
 
 ### 2012-01-20 — lov/2012-01-20-6
@@ -998,6 +862,13 @@ refid: "lov/1981-05-22-25"
 >
 
 ## § 107 c
+
+### 2007-02-27 — lov/2007-01-26-3
+
+*§ 107 c fjerde ledd annet punktum skal lyde:*
+
+> Advokaten skal videre gis adgang til å uttale seg om sivile krav som tilkommer fornærmede også når kravet fremmes av påtalemyndigheten.
+>
 
 ### 2008-03-07 — lov/2008-03-07-5
 
@@ -1117,6 +988,31 @@ refid: "lov/1981-05-22-25"
 > I påtrengende tilfelle gjelder det samme enhver som har møteplikt etter § 109 første ledd.
 >
 
+## § 112
+
+### 2007-02-27 — lov/2007-01-26-3
+
+*§ 112 skal lyde:*
+
+> Vitne som antar at det har gyldig fraværsgrunn, skal uten ugrunnet opphold meddele dette til retten.
+>
+
+## § 115
+
+### 2007-02-27 — lov/2007-01-26-3
+
+*§ 115 første ledd første punktum skal lyde:*
+
+> Retten kan bestemme at et vitne som uteblir eller forlater rettsstedet uten gyldig fravær, skal avhentes til samme eller senere rettsmøte.
+>
+
+### 2007-02-27 — lov/2007-01-26-3
+
+*§ 115 tredje ledd første punktum skal lyde:*
+
+> Er det grunn til å frykte at et vitne vil utebli uten gyldig fravær fra en hovedforhandling som han er lovlig innkalt til, og uteblivelse vil føre til en ikke uvesentlig forsinkelse av saken, kan retten straks treffe beslutning etter første ledd.
+>
+
 ## § 118
 
 ### 2001-06-15 — lov/2001-06-15-38
@@ -1124,6 +1020,13 @@ refid: "lov/1981-05-22-25"
 *§ 118 første ledd første punktum skal lyde:*
 
 > Retten må ikke ta imot forklaring som vitnet ikke kan gi uten å krenke lovbestemt taushetsplikt han har som følge av tjeneste eller arbeid for stat eller kommune, familievernkontor, postoperatør eller tilbyder av tilgang til telenett eller teletjeneste eller teleinstallatør, hvis ikke departementet gir samtykke.
+>
+
+### 2007-02-27 — lov/2007-01-26-3
+
+*§ 118 annet ledd tredje punktum skal lyde:*
+
+> Denne redegjørelsen skal meddeles partene.
 >
 
 ## § 118 a
@@ -1144,6 +1047,15 @@ refid: "lov/1981-05-22-25"
 > Om den mindreåriges medbestemmelsesrett ved rettens beslutning gjelder reglene i barnelova §§ 1-2 og 12-6.
 >
 
+## § 121
+
+### 2007-02-27 — lov/2007-01-26-3
+
+*§ 121 første punktum skal lyde:*
+
+> Selv om forholdet ikke går inn under § 119, kan retten frita et vitne for å svare på spørsmål om noe som er blitt betrodd det under sjelesorg, sosialt hjelpearbeid, medisinsk behandling, rettshjelp i medhold av domstolloven § 218 annet ledd eller liknende virksomhet.
+>
+
 ## § 122
 
 ### 2008-03-07 — lov/2008-03-07-5
@@ -1151,6 +1063,35 @@ refid: "lov/1981-05-22-25"
 *§ 122 første ledd nytt tredje punktum skal lyde:*
 
 > Fritak for vitneplikt gjelder ikke for fornærmede eller vitner under 12 år.
+>
+
+## § 123
+
+### 2007-02-27 — lov/2007-01-26-3
+
+*§ 123 første ledd skal lyde:*
+
+> Et vitne kan nekte å svare på spørsmål når svaret vil kunne utsette vitnet eller noen det står i slikt forhold til som nevnt i § 122 første eller annet ledd for straff. Retten kan likevel pålegge et vitne å forklare seg når det er rimelig etter en samlet vurdering av sakens art, forklaringens betydning for sakens opplysning og følgene for vitnet av å gi forklaring. Retten kan frita for forklaring ved vesentlig tap av sosialt omdømme eller vesentlig velferdstap av annen art for vitnet eller noen av dets nærmeste etter § 122 første eller annet ledd når det ut fra en vurdering av sakens art, forklaringens betydning for sakens opplysning og forholdene ellers ville være urimelig å pålegge vitnet å forklare seg.
+>
+
+## § 125
+
+### 2007-02-27 — lov/2007-01-26-3
+
+*§ 125 første, annet og tredje ledd skal lyde:*
+
+> Redaktøren av et trykt skrift kan nekte å svare på spørsmål om hvem som er forfatter til en artikkel eller melding i skriftet eller kilde for opplysninger i det. Det samme gjelder spørsmål om hvem som er kilde for andre opplysninger som er betrodd redaktøren til bruk i hans virksomhet.
+>
+> Samme rett som redaktøren har andre som har fått kjennskap til forfatteren eller kilden gjennom sitt arbeid for vedkommende forlag, redaksjon, pressebyrå eller trykkeri.
+>
+> Når vektige samfunnsinteresser tilsier at opplysningen gis og den er av vesentlig betydning for sakens oppklaring, kan retten etter en samlet vurdering likevel pålegge vitnet å oppgi navnet. Dersom forfatteren eller kilden har avdekket forhold som det var av samfunnsmessig betydning å få gjort kjent, kan vitnet bare når det finnes særlig påkrevd pålegges å oppgi navnet.
+>
+
+### 2007-02-27 — lov/2007-01-26-3
+
+*§ 125 femte ledd skal lyde:*
+
+> Bestemmelsene i paragrafen her gjelder tilsvarende for kringkastingssjef og for medarbeidere i kringkasting eller annen medievirksomhet som i hovedtrekk har samme formål som aviser og kringkasting.
 >
 
 ## § 127
@@ -1162,6 +1103,15 @@ refid: "lov/1981-05-22-25"
 > Tilsvarende kan påtalemyndigheten bekrefte med forsikring at et vitne ikke kan gi forklaring eller svare på et spørsmål.
 >
 
+## § 128
+
+### 2007-02-27 — lov/2007-01-26-3
+
+*§ 128 første ledd første punktum skal lyde:*
+
+> Før avhøringen skal rettens leder formane vitnene til å forklare den fulle sannhet uten å skjule noe.
+>
+
 ## § 129
 
 ### 2008-03-07 — lov/2008-03-07-5
@@ -1171,7 +1121,34 @@ refid: "lov/1981-05-22-25"
 > Vitnene, med unntak av fornærmede og etterlatte, bør som regel ikke høre på forhandling i saken før de er avhørt under hovedforhandlingen.
 >
 
+## § 13
+
+### 2007-02-27 — lov/2007-01-26-3
+
+*§ 13 første ledd tredje punktum skal lyde:*
+
+> En avgjørelse om å foreta eller unnlate forening av forfølging mot samme person for flere straffbare handlinger kan ikke ankes eller brukes som ankegrunn.
+>
+
+## § 130
+
+### 2007-02-27 — lov/2007-01-26-3
+
+*§ 130 skal lyde:*
+
+> Rettens leder spør vitnet om navn, fødselsdato, stilling, bopel og forhold til siktede og fornærmede. Er det særlig grunn til det, spørres vitnet også om andre omstendigheter som kan ha innflytelse på bedømmelsen av forklaringen.
+>
+> I stedet for bopel kan vitnet oppgi arbeidssted. Oppgir vitnet arbeidsstedet, kan rettens leder dersom det er behov for det, i tillegg pålegge vitnet å oppgi bopelen skriftlig til retten. Er det fare for at vitnet eller noen som vitnet står i et slikt forhold til som nevnt i § 122, kan bli utsatt for en forbrytelse som krenker livet, helsen eller friheten, eller for vesentlig velferdstap av annen art, kan lederen beslutte at opplysning om bopelen eller arbeidsstedet bare skal opplyses skriftlig til retten.
+>
+
 ## § 130 a
+
+### 2007-02-27 — lov/2007-01-26-3
+
+*§ 130 a femte ledd annet punktum skal lyde:*
+
+> I tingretten tar rettens leder avgjørelsen.
+>
 
 ### 2008-03-07 — lov/2008-03-07-5
 
@@ -1203,6 +1180,15 @@ refid: "lov/1981-05-22-25"
 > Dersom en kjennelse som tillater anonym vitneførsel omgjøres, kan vitnet ikke føres under full identitet, jf. § 130, med mindre vitnet samtykker til det.
 >
 
+## § 131
+
+### 2007-02-27 — lov/2007-01-26-3
+
+*§ 131 skal lyde:*
+
+> Før forklaring avgis, spør rettens leder vitnet: «Forsikrer du at du vil forklare den rene og fulle sannhet og ikke legge skjul på noe?» Til dette svarer vitnet stående: «Det forsikrer jeg på ære og samvittighet.»
+>
+
 ## § 132
 
 ### 2015-09-04 — lov/2015-09-04-87
@@ -1210,6 +1196,28 @@ refid: "lov/1981-05-22-25"
 *§ 132 nr 1 skal lyde:*
 
 > vitne som er under 15 år, eller som på grunn av forstandssvakhet eller av andre årsaker ikke kan ha noen klar forståelse av forsikringens betydning,
+>
+
+## § 135
+
+### 2007-02-27 — lov/2007-01-26-3
+
+*§ 135 skal lyde:*
+
+> Hver part avhører de vitner som er innkalt etter hans begjæring. Når han er ferdig med å avhøre et vitne, kan motparten avhøre det videre, og deretter kan ytterligere spørsmål fra begge sider rettes til vitnet, om rettens leder tillater det. Når partene er ferdige med sin avhøring, kan rettens medlemmer stille spørsmål.
+>
+> Møter verken påtalemyndighet eller forsvarer, foretar rettens leder avhøringen. Dersom enten påtalemyndighet eller forsvarer ikke møter, foretar rettens leder avhøring i hans sted.
+>
+> Vitner som retten har innkalt av eget tiltak, avhøres av rettens leder, når han ikke finner grunn til å overlate avhøringen til partene.
+>
+
+## § 136
+
+### 2007-02-27 — lov/2007-01-26-3
+
+*§ 136 tredje ledd tredje punktum skal lyde:*
+
+> Rettens leder skal overta avhøringen dersom den foregår på en utilfredsstillende måte eller andre grunner taler for det.
 >
 
 ## § 142 a
@@ -1225,11 +1233,27 @@ refid: "lov/1981-05-22-25"
 
 ## § 147
 
+### 2001-06-15 — lov/2001-06-15-64
+
+*§ 147 første ledd annet punktum skal lyde:*
+
+> Dette gjelder ikke ved foreløpige erklæringer som nevnt i § 165 fjerde ledd.
+>
+
 ### 2019-06-21 — lov/2019-06-21-48
 
 *§ 147 første ledd skal lyde:*
 
 > Enhver som tjenestegjør som sakkyndig i rettsmedisinske spørsmål, skal straks sende den rettsmedisinske kommisjon avskrift av den skriftlige erklæring som denne gir retten eller påtalemyndigheten. For foreløpige erklæringer som nevnt i § 165 fjerde ledd gjelder dette bare dersom erklæringen skal legges frem i retten. Innsendelsesplikten gjelder også for erklæringer om rettspsykiatriske forhold som er utarbeidet av personer som partene fremstiller for retten etter § 149, dersom erklæringen skal legges frem i retten.
+>
+
+## § 147 a
+
+### 2001-06-15 — lov/2001-06-15-64
+
+*Ny § 147 a skal lyde:*
+
+> I saker der det kan bli lagt ned påstand om dom på overføring til tvungent psykisk helsevern etter straffeloven § 39 eller tvungen omsorg etter straffeloven § 39 a, skal påtalemyndigheten underrette den eller de rettspsykiatrisk sakkyndige om dette. De sakkyndige skal straks etter at de har avgitt den rettspsykiatriske erklæringen, underrette fylkeshelsesjefen om saken. De sakkyndige skal gi råd om hvilken institusjon den siktede bør innskrives ved, jf. psykisk helsevernloven §§ 5-2 og 5-3.
 >
 
 ## § 148
@@ -1263,11 +1287,50 @@ refid: "lov/1981-05-22-25"
 
 ## § 157
 
+### 2008-01-18 — lov/2008-01-18-3
+
+*§ 157 skal lyde:*
+
+> Den som med skjellig grunn mistenkes for en handling som etter loven kan medføre frihetsstraff, kan underkastes kroppslig undersøkelse når det antas å være av betydning for opplysningen av saken og ikke fremstår som et uforholdsmessig inngrep. Det kan tas blodprøve og foretas andre undersøkelser som kan skje uten fare eller betydelig smerte.
+>
+> Disse regler gjelder selv om straff ikke kan idømmes på grunn av reglene i straffeloven §§ 44 eller 46. Det gjelder også når tilstanden har medført at den mistenkte ikke har utvist skyld.
+>
+> Uten mistenktes samtykke kan undersøkelse bare foretas etter kjennelse av retten. Så vidt mulig og tilrådelig skal han få adgang til å uttale seg før avgjørelsen treffes.
+>
+> Dersom formålet med undersøkelsen ellers kunne forspilles, kan ordre fra påtalemyndigheten tre i stedet for kjennelse av retten. Ordren skal være skriftlig og grunngitt. Er det fare ved opphold, kan ordren gis muntlig, men den skal da snarest mulig nedtegnes.
+>
+> De innhentede prøvene skal bare brukes i strafferettspleien. Kongen kan i forskrift likevel bestemme at rettstoksikologiske analysedata også kan brukes i forskningsøyemed, og gi nærmere regler om slik bruk.
+>
+
 ### 2020-12-04 — lov/2020-12-04-135
 
 *§ 157 annet ledd første punktum skal lyde:*
 
 > Disse regler gjelder selv om straff ikke kan idømmes på grunn av reglene i straffeloven § 20.
+>
+
+## § 158
+
+### 2008-01-18 — lov/2008-01-18-3
+
+*Ny § 158 skal lyde:*
+
+> Uten hensyn til § 157 første ledd kan det innhentes biologisk materiale med sikte på å gjennomføre en DNA-analyse av den som med skjellig grunn mistenkes for en straffbar handling som etter loven kan medføre frihetsstraff. Regelen i § 157 annet ledd gjelder tilsvarende.
+>
+> Hvis den det gjelder samtykker skriftlig, kan det innhentes biologisk materiale med sikte på å gjennomføre DNA-analyse uten hensyn til om det foreligger skjellig grunn til mistanke. Analyseresultatet og det biologiske materialet tilintetgjøres når formålet med undersøkelsen er oppnådd.
+>
+> Det biologiske materialet innhentes av politiet. Nekter den mistenkte å medvirke til nødvendig undersøkelse, må det ikke brukes tvang uten at retten ved kjennelse har avgjort at vilkårene for å ta DNA-prøve er oppfylt. Dersom det vil medføre vesentlig ulempe å avvente rettens avgjørelse, kan ordre fra påtalemyndigheten tre i stedet for kjennelse av retten. Regelen i § 157 fjerde ledd annet og tredje punktum gjelder tilsvarende.
+>
+> Når vilkårene for registrering etter § 160 a første til fjerde ledd er oppfylt, kan det også etter at avgjørelsen er rettskraftig eller saken endelig avgjort innhentes biologisk materiale fra personer som kan registreres i registeret. Nekter vedkommende å avgi biologisk materiale frivillig, kan slikt materiale innhentes med tvang når dette kan skje uten fare eller betydelig smerte.
+>
+> Med biologisk materiale menes i denne bestemmelsen spytt eller celleprøver fra munnhule. Kongen kan i forskrift bestemme at også annet biologisk materiale skal omfattes av bestemmelsen.
+>
+
+### 2016-04-22 — lov/2016-04-22-3
+
+*§ 158 fjerde ledd første punktum skal lyde:*
+
+> Når vilkårene for registrering etter politiregisterloven § 12 annet ledd nr. 1 til 4 er oppfylt, kan det også etter at avgjørelsen er rettskraftig eller saken endelig avgjort innhentes biologisk materiale fra personer som kan registreres i registeret.
 >
 
 ## § 160
@@ -1288,9 +1351,44 @@ refid: "lov/1981-05-22-25"
 > Nekter domfelte å avgi biologisk materiale frivillig, kan blodprøve og andre prøver tas med tvang når det kan skje uten fare eller betydelig smerte.
 >
 
+### 2008-01-18 — lov/2008-01-18-3
+
+*§ 160 a skal lyde:*
+
+> Den som er ilagt en straff for en handling som etter loven kan medføre frihetsstraff, kan registreres i identitetsregisteret. Registrering kan først skje når avgjørelsen er rettskraftig eller saken er endelig avgjort. Handling som det er utferdiget forenklet forelegg for, gir ikke grunnlag for registrering.
+>
+> Den som ikke kan dømmes til straff for en handling som kvalifiserer for registrering på grunn av reglene i straffeloven §§ 44 eller 46, kan likevel registreres. Det samme gjelder når tilstanden har medført at vedkommende ikke har utvist skyld.
+>
+> Den som har begått en handling som kunne ha medført frihetsstraff om den hadde vært begått i Norge, og som i utlandet er ilagt en straff som svarer til dem som er nevnt i straffeloven § 15, kan registreres dersom vedkommende arbeider eller oppholder seg i Norge.
+>
+> Den som begjærer det av grunner som finnes fyllestgjørende, kan registreres i identitetsregisteret.
+>
+> Politiet treffer vedtak om registrering.
+>
+> Opplysningene i registeret skal bare brukes i strafferettspleien. Kongen kan i forskrift likevel bestemme at opplysningene også kan brukes i forskningsøyemed, og gi nærmere regler om slik bruk.
+>
+> Kongen kan gi forskrift med nærmere bestemmelser om DNA-registrering, for eksempel regler om registrering i henholdsvis identitetsregisteret og sporregisteret, om føring og bruk av registrene, om søk i registrene, om sletting av opplysninger i registrene, om innsynsrett og klagerett for den som er registrert, om oppbevaring av DNA-profiler og om utlevering av opplysninger i DNA-registeret til utenlandsk politimyndighet.
+>
+
 ### 2013-06-21 — lov/2013-06-21-86
 
 *§ 160 a oppheves.*
+
+## § 160a
+
+### 2008-06-27 — lov/2008-06-27-67
+
+*§ 160a første ledd skal lyde:*
+
+> Den som er ilagt en straff for en handling som etter loven kan medføre frihetsstraff, kan registreres i identitetsregisteret. Registrering i identitetsregisteret kan først skje når avgjørelsen er rettskraftig eller saken er endelig avgjort. Før dette tidspunkt kan prøve innhentet etter § 158 registreres i etterforskningsregisteret. Handling som det er utferdiget forenklet forelegg for, gir ikke grunnlag for registrering.
+>
+
+### 2008-06-27 — lov/2008-06-27-67
+
+*§ 160a syvende ledd skal lyde:*
+
+> Kongen kan gi forskrift med nærmere bestemmelser om DNA-registrering, for eksempel regler om registrering i henholdsvis identitetsregisteret, etterforskningsregisteret og sporregisteret, om føring og bruk av registrene, om søk i registrene, om sletting av opplysninger i registrene, om innsynsrett og klagerett for den som er registrert, om oppbevaring av DNA-profiler og om utlevering av opplysninger i DNA-registeret til utenlandsk politimyndighet.
+>
 
 ## § 161
 
@@ -1343,6 +1441,15 @@ refid: "lov/1981-05-22-25"
 >
 
 ## § 165
+
+### 2001-06-15 — lov/2001-06-15-64
+
+*§ 165 første og nytt annet ledd skal lyde:*
+
+> Dersom retten finner det nødvendig for avgjørelsen av saken, kan den beslutte at siktede skal underkastes rettspsykiatrisk undersøkelse ved oppnevnte sakkyndige.
+>
+> Siktede skal alltid undergis rettspsykiatrisk undersøkelse når det er aktuelt å idømmeoverføring til tvungent psykisk helsevern etter straffeloven § 39,tvungen omsorg etter straffeloven 39 a,opprettholdelse av reaksjon som nevnt i nr. 1 og 2 etter straffeloven § 39 b, elleroverføring til anstalt under kriminalomsorgen etter psykisk helsevernloven § 5-6.
+>
 
 ### 2019-06-21 — lov/2019-06-21-48
 
@@ -1397,7 +1504,23 @@ refid: "lov/1981-05-22-25"
 > Nødvendige opplysninger knyttet til siktedes helse kan gis videre til de sakkyndige som foretar en rettspsykiatrisk undersøkelse, selv om siktede ikke samtykker til slik utlevering. Dette gjelder bare i saker om lovbrudd som kan medføre fengsel i mer enn seks år og hvor utfallet kan avhenge av om siktede er tilregnelig eller ikke.
 >
 
+## § 171
+
+### 2001-06-15 — lov/2001-06-15-64
+
+*§ 171 annet ledd skal lyde:*
+
+> Når det er reist sak om overføring til tvungent psykisk helsevern etter straffeloven § 39 eller tvungen omsorg etter straffeloven § 39 a, eller det er sannsynlig at slik sak vil bli reist, kan pågripelse skje uansett om straff kan idømmes, såfremt vilkårene i første ledd for øvrig foreligger. Det samme gjelder når det er avsagt dom på overføring til tvungent psykisk helsevern eller tvungen omsorg.
+>
+
 ## § 172
+
+### 2001-03-02 — lov/2001-03-02-7
+
+*§ 172 første punktum skal lyde:*
+
+> Når noen mistenkes foren forbrytelse som kan medføre straff av fengsel i 10 år eller mer, eller forsøk på en slik forbrytelse, elleren forbrytelse mot straffeloven § 228 annet ledd annet straffalternativ jf. § 232, § 229 annet straffalternativ jf. § 232, eller § 229 tredje straffalternativ,kan han pågripes såfremt det foreligger tilståelse eller andre forhold som i særlig grad styrker mistanken, selv om vilkårene i § 171 ikke er oppfylt.
+>
 
 ### 2003-07-04 — lov/2003-07-04-78
 
@@ -1406,6 +1529,22 @@ refid: "lov/1981-05-22-25"
 > Ved vurderingen skal det særlig legges vekt på om det er egnet til å støte allmennhetens rettsfølelse eller skape utrygghet dersom den mistenkte er på frifot.
 >
 > Gjeldende annet punktum blir nytt tredje punktum.
+>
+
+## § 173 a
+
+### 2008-03-07 — lov/2008-03-07-4
+
+*§ 173 a skal lyde:*
+
+> Den som med skjellig grunn mistenkes for vilkårsbrudd som nevnt i straffeloven §§ 39 annet ledd, 46 første ledd eller 52 første ledd bokstav a, jf. straffegjennomføringsloven § 44 annet ledd annet punktum, kan pågripes når:det er grunn til å frykte for at han vil unndra seg fullbyrdingen av straff eller andre forholdsregler,det antas påkrevd for å hindre nye vilkårsbrudd, ellerhan selv begjærer det av grunner som finnes fyllestgjørende.
+>
+
+### 2009-06-19 — lov/2009-06-19-74
+
+*§ 173 a skal lyde:*
+
+> Den som med skjellig grunn mistenkes for vilkårsbrudd som nevnt i straffeloven §§ 39 annet ledd, 46 første ledd eller 52 første ledd bokstav a, jf. straffegjennomføringsloven § 44 annet ledd annet punktum, kan pågripes når:det er grunn til å frykte for at han vil unndra seg fullbyrdingen av straff eller andre forholdsregler,det antas påkrevd for å hindre nye vilkårsbrudd, ellerhan selv begjærer det av grunner som finnes fyldestgjørende.
 >
 
 ## § 18
@@ -1457,6 +1596,27 @@ refid: "lov/1981-05-22-25"
 
 ## § 184
 
+### 2001-03-02 — lov/2001-03-02-7
+
+*§ 184 annet ledd nytt fjerde punktum skal lyde:*
+
+> Det skal også gå frem av kjennelsen at fengslingen ikke er et uforholdsmessig inngrep.
+>
+
+### 2008-03-07 — lov/2008-03-07-4
+
+*§ 184 annet ledd skal lyde:*
+
+> Fengsling kan besluttes dersom vilkårene etter §§ 171, 172, 173 annet ledd eller 173 a er oppfylt og formålet ikke kan oppnås ved tiltak etter § 188. Reglene i § 174 gjelder tilsvarende. Kjennelsen skal angi lovhjemmelen, kortfattet nevne hvorfor det antas å foreligge skjellig grunn til mistanke, og for øvrig gjøre rede for grunnen til fengslingen. Det skal også gå frem av kjennelsen at fengslingen ikke er et uforholdsmessig inngrep.
+>
+
+### 2009-06-19 — lov/2009-06-19-74
+
+*§ 184 annet ledd skal lyde:*
+
+> Fengsling kan besluttes dersom vilkårene etter §§ 171, 172, 173 annet ledd eller 173 a er oppfylt og formålet ikke kan oppnås ved tiltak etter § 188. Reglene i § 174 gjelder tilsvarende. Kjennelsen skal angi lovhjemmelen, kortfattet nevne hvorfor det antas å foreligge skjellig grunn til mistanke, og for øvrig gjøre rede for grunnen til fengslingen. Det skal også gå frem av kjennelsen at fengslingen ikke er et uforholdsmessig inngrep.
+>
+
 ### 2012-01-20 — lov/2012-01-20-6
 
 *§ 184 annet ledd annet punktum skal lyde:*
@@ -1497,6 +1657,13 @@ refid: "lov/1981-05-22-25"
 
 ## § 186
 
+### 2001-03-02 — lov/2001-03-02-7
+
+*§ 186 annet ledd nye fjerde og femte punktum skal lyde:*
+
+> Kjennelsen skal angi på hvilken måte etterforskningen vil bli skadelidende om ikke den fengslede blir underlagt forbud eller kontroll etter bestemmelsen her. Det skal også gå frem av kjennelsen at bruken av forbud eller kontroll ikke er et uforholdsmessig inngrep.
+>
+
 ### 2012-01-20 — lov/2012-01-20-6
 
 *§ 186 annet ledd nytt tredje og fjerde punktum skal lyde:*
@@ -1520,6 +1687,36 @@ refid: "lov/1981-05-22-25"
 ### 2012-01-20 — lov/2012-01-20-6
 
 *§ 186 a fjerde ledd oppheves. Nåværende femte ledd blir nytt fjerde ledd.*
+
+## § 187
+
+### 2001-03-02 — lov/2001-03-02-7
+
+*§ 187 første ledd første punktum skal lyde:*
+
+> Er siktede i varetektsfengsel når det avsies ubetinget dom på frihetsstraff eller kjennelse som forkaster en anke over en slik dom, kan han fortsatt holdes fengslet i inntil 4 uker etter avsigelse av dommen eller kjennelsen om ikke retten treffer annen bestemmelse.
+>
+
+### 2001-03-02 — lov/2001-03-02-7
+
+*§ 187 annet ledd annet og tredje punktum skal lyde:*
+
+> Det samme gjelder når han får betinget dom eller bare blir ilagt straff av bot, samfunnstjeneste eller fengsel som er avsonet ved varetektsfengsel. Blir det på stedet avgitt erklæring om anke, eller om at det vil bli innstilt på anke, kan den rett som har avsagt dommen, når særlige grunner taler for det, ved kjennelse bestemme at siktede kan holdes fengslet i et bestemt tidsrom.
+>
+
+### 2007-02-27 — lov/2007-01-26-3
+
+*§ 187 første ledd første punktum skal lyde:*
+
+> Er siktede i varetektsfengsel når det avsies ubetinget dom på frihetsstraff eller dom som forkaster anke over slik dom, kan han fortsatt holdes fengslet i inntil 4 uker etter domsavsigelsen om ikke retten treffer annen bestemmelse.
+>
+
+### 2007-02-27 — lov/2007-01-26-3
+
+*§ 187 annet ledd tredje punktum skal lyde:*
+
+> Blir det på stedet avgitt erklæring om anke over dom, eller om at det vil bli innstilt på slik anke, kan den rett som har avsagt dommen, når særlige grunner taler for det, ved kjennelse bestemme at siktede kan holdes fengslet i et bestemt tidsrom.
+>
 
 ## § 188
 
@@ -1572,13 +1769,24 @@ refid: "lov/1981-05-22-25"
 > Ransaking etter foranstående bestemmelser kan foretas selv om mistenkte ikke kan dømmes til straff på grunn av reglene i straffeloven § 20.
 >
 
+## § 199a
+
+### 2005-04-08 — lov/2005-04-08-16
+
+*Ny § 199a skal lyde:*
+
+> Ved ransaking av et datasystem kan politiet pålegge enhver som har befatning med datasystemet å gi nødvendige opplysninger for å gi tilgang til datasystemet.
+>
+> Brudd på opplysningsplikten som begås av andre enn den siktede, straffes etter straffeloven § 339 nr. 1.
+>
+
 ## § 2
 
-### 2003-01-01 — forskrift/2002-10-11-1094
+### 2001-06-15 — lov/2001-06-15-64
 
-*§ 2 annet ledd skal lyde:*
+*§ 2 første ledd nr. 1 skal lyde:*
 
-> Forskriften kommer også til anvendelse i straffesaker som behandles av tingretten etter reglene i straffeprosessloven kapittel 22, og i straffesaker som behandles av lagmannsretten etter reglene i straffeprosessloven kapittel 23 og kapittel 24.
+> sak om overføring til tvungent psykisk helsevern etter straffeloven § 39 eller tvungen omsorg etter straffeloven § 39 a,
 >
 
 ### 2003-07-04 — lov/2003-07-04-77
@@ -1926,6 +2134,51 @@ refid: "lov/1981-05-22-25"
 
 *§ 211 og 212 oppheves.*
 
+## § 213
+
+### 2007-02-27 — lov/2007-01-26-3
+
+*§ 213 annet ledd annet punktum skal lyde:*
+
+> Retten kan bestemme at beslag av bevismidler skal opprettholdes også etter at det foreligger rettskraftig dom i saken, såfremt og så lenge det er grunn til å regne med at saken kan bli begjært gjenåpnet eller andre særlige forhold tilsier det.
+>
+
+## § 214 a
+
+### 2008-03-07 — lov/2008-03-07-4
+
+*Ny § 214 a skal lyde:*
+
+> Påtalemyndigheten kan beslutte inndratt beslaglagte gjenstander som er egnet til bruk ved legemskrenkelse, og beslaglagte etterlikninger av våpen dersom gjenstandene kan inndras etter straffeloven §§ 69 første ledd bokstav c eller 70 første ledd annet punktum. Beslutningen skal være skriftlig og begrunnet. Når påtalemyndigheten utferdiger forelegg, begjærer saken pådømt ved tilståelsesdom eller reiser tiltale med påstand om straff, skal inndragningskravet likevel tas med i saken.
+>
+> Eieren eller besitteren av en beslaglagt ting skal så vidt mulig gis skriftlig underretning om påtalemyndighetens beslutning om inndragning ved kopi av beslutningen, med mindre tingen er av ubetydelig verdi. Saken kan kreves forelagt for retten innen 1 måned etter at underretningen er kommet frem. Har underretning ikke vært gitt, er fristen for å kreve saken inn for retten 6 måneder fra beslaget ble foretatt. Et krav som er fremsatt etter at fristen er utløpt, kan likevel tas til følge når oversittelsen ikke bør legges den til last som har fremsatt kravet, eller når særlige omstendigheter ellers tilsier det.
+>
+
+### 2009-06-19 — lov/2009-06-19-74
+
+*Ny § 214 a skal lyde:*
+
+> Påtalemyndigheten kan beslutte inndratt beslaglagte gjenstander som er egnet til bruk ved legemskrenkelse, og beslaglagte etterlikninger av våpen dersom gjenstandene kan inndras etter straffeloven §§ 69 første ledd bokstav c eller 70 første ledd annet punktum. Beslutningen skal være skriftlig og begrunnet. Når påtalemyndigheten utferdiger forelegg, begjærer saken pådømt ved tilståelsesdom eller reiser tiltale med påstand om straff, skal inndragningskravet likevel tas med i saken.
+>
+> Eieren eller besitteren av en beslaglagt ting skal så vidt mulig gis skriftlig underretning om påtalemyndighetens beslutning om inndragning ved kopi av beslutningen, med mindre tingen er av ubetydelig verdi. Saken kan kreves forelagt for retten innen 1 måned etter at underretningen er kommet frem. Har underretning ikke vært gitt, er fristen for å kreve saken inn for retten 6 måneder fra beslaget ble foretatt. Et krav som er fremsatt etter at fristen er utløpt, kan likevel tas til følge når oversittelsen ikke bør legges den til last som har fremsatt kravet, eller når særlige omstendigheter ellers tilsier det.
+>
+
+## § 214 b
+
+### 2008-03-07 — lov/2008-03-07-4
+
+*Ny § 214 b skal lyde:*
+
+> Påtalemyndigheten kan beslutte inndragning av en beslaglagt ting dersom inndragning kan skje etter straffeloven § 74 og verken eieren, lovbryteren eller besitteren er kjent. Beslutningen skal være skriftlig og begrunnet. Eieren eller besitteren kan kreve saken forelagt for retten innen 6 måneder etter at vedtak om inndragning er fattet.
+>
+
+### 2009-06-19 — lov/2009-06-19-74
+
+*Ny § 214 b skal lyde:*
+
+> Påtalemyndigheten kan beslutte inndragning av en beslaglagt ting dersom inndragning kan skje etter straffeloven § 74 og verken eieren, lovbryteren eller besitteren er kjent. Beslutningen skal være skriftlig og begrunnet. Eieren eller besitteren kan kreve saken forelagt for retten innen 6 måneder etter at vedtak om inndragning er fattet.
+>
+
 ## § 215
 
 ### 2017-03-31 — lov/2017-03-31-14
@@ -1937,6 +2190,23 @@ refid: "lov/1981-05-22-25"
 ### 2011-04-15 — lov/2011-04-15-11
 
 *§ 215 a femte ledd oppheves.*
+
+## § 215a
+
+### 2005-04-08 — lov/2005-04-08-16
+
+*Ny § 215a skal lyde:*
+
+> Påtalemyndigheten kan som ledd i etterforskning gi pålegg om sikring av elektronisk lagrede data som antas å ha betydning som bevis.
+>
+> Pålegg om sikring av data i en sending som besittes av en tilbyder av tilgang til elektroniske kommunikasjonsnett eller elektronisk kommunikasjonstjeneste, kan bare gis dersom vilkårene i første ledd er oppfylt og det er grunn til å tro at det er begått en straffbar handling.
+>
+> Den som har rådigheten over de data som omfattes av sikringspålegget, skal underrettes om pålegget. En mistenkt skal underrettes straks dataene er sikret og han får status som siktet i saken. For øvrig skal underretning gis straks dataene er sikret.
+>
+> Sikringspålegget gjelder for et bestemt tidsrom, som ikke må være lenger enn nødvendig og høyst 90 dager om gangen. Dersom sikringspålegget gis etter anmodning fra fremmed stat, gjelder pålegget for minst 60 dager. § 197 tredje ledd, § 208 første og tredje ledd og § 216 i gjelder tilsvarende.
+>
+> Den pålegget retter seg mot, skal etter begjæring utlevere de trafikkdata som er nødvendige for å spore hvor dataene som omfattes av sikringspålegget kom fra og hvor de eventuelt ble sendt til.
+>
 
 ## § 216
 
@@ -2030,6 +2300,13 @@ refid: "lov/1981-05-22-25"
 > som rammes av straffeloven §§ 90, 91, 91 a, 94 jf. 90, 145 annet ledd, 162, 162 c, 204 a, 317, jf. §§ 162 eller 390 a.
 >
 
+### 2009-06-19 — lov/2009-06-19-74
+
+*§ 216 b første ledd skal lyde:*
+
+> Retten kan ved kjennelse gi politiet tillatelse til å foreta annen kontroll av kommunikasjonsanlegg når noen med skjellig grunn mistenkes for en handling eller forsøk på en handlingsom etter loven kan medføre straff av fengsel i 5 år eller mer, eller som rammes av straffeloven kapittel 21.
+>
+
 ### 2012-06-22 — lov/2012-06-22-52
 
 *§ 216 b annet ledd bokstav b og c skal lyde:*
@@ -2072,6 +2349,15 @@ refid: "lov/1981-05-22-25"
 *§ 216 c annet ledd skal lyde:*
 
 > Dersom den telefon den mistenkte antas å ville bruke er tilgjengelig for et større antall personer, kan tillatelse til kommunikasjonskontroll bare gis når det foreligger særlige grunner. Det samme gjelder ved kontroll av telefon som tilhører advokat, lege, prest eller andre som erfaringsmessig fører samtaler av svært fortrolig art over telefon eller redaktør eller journalist, såfremt vedkommende ikke selv er mistenkt i saken. Første og annet punktum gjelder tilsvarende for andre kommunikasjonsanlegg.
+>
+
+## § 216 d
+
+### 2001-03-02 — lov/2001-03-02-7
+
+*§ 216 d første ledd første til tredje punktum skal lyde:*
+
+> Dersom det ved opphold er stor fare for at etterforskningen vil lide, kan ordre fra påtalemyndigheten tre istedenfor kjennelse av retten. Påtalemyndighetens beslutning skal snarest mulig, og senest innen 24 timer etter at kontrollen ble påbegynt, forelegges retten for godkjennelse. Ender fristen på et tidspunkt utenom rettens ordinære kontortid, forlenges fristen til retten åpner igjen.
 >
 
 ## § 216 g
@@ -2231,6 +2517,15 @@ refid: "lov/1981-05-22-25"
 *§ 216 o første ledd bokstav b skal lyde:*
 
 > som rammes av straffeloven §§ 121, 123, 125, 126, 127 jf. 123, § 128 første punktum, §§ 129, 130, 136, 136 a, 136 b, 232, 254, 257, 311, 333, 337 jf. 231, eller 340 jf. 231, eller av lov om kontroll med eksport av strategiske varer, tjenester og teknologi m.v. § 5 eller av lov om utlendingers adgang til riket og deres opphold her § 108 femte ledd.
+>
+
+## § 217
+
+### 2007-02-27 — lov/2007-01-26-3
+
+*§ 217 annet ledd skal lyde:*
+
+> En avgjørelse av retten kan ikke ankes av siktede.
 >
 
 ## § 219
@@ -2485,13 +2780,6 @@ refid: "lov/1981-05-22-25"
 
 ## § 23
 
-### 2003-01-01 — forskrift/2002-10-11-1094
-
-*§ 23 tredje ledd annet punktum skal lyde:*
-
-> Hvis underretning til den mistenkte skal unnlates av grunner som er nevnt i straffeprosessloven § 216j tredje ledd, må politiet sørge for at tingrettens kjennelse forelegges kontrollutvalget innen den frist kontrollutvalget har satt.
->
-
 ### 2018-06-22 — lov/2018-06-22-79
 
 *§ 23 skal lyde:*
@@ -2512,6 +2800,20 @@ refid: "lov/1981-05-22-25"
 >
 
 ## § 230
+
+### 2007-02-27 — lov/2007-01-26-3
+
+*§ 230 tredje ledd fjerde punktum skal lyde:*
+
+> Påtalemyndigheten kan beslutte at en mistenkt eller et vitne skal avhentes for straks å fremstilles dersom den mistenkte eller vitnet har fått innkallingen lovlig forkynt for seg eller på annen måte har fått kjennskap til innkallingen, og har uteblitt uten gyldig fravær.
+>
+
+### 2018-12-20 — lov/2018-12-20-114
+
+*§ 230 annet ledd første punktum skal lyde:*
+
+> Vitner som har taushetsplikt etter finansforetaksloven §§ 9-6 og 9-7, verdipapirhandelloven § 10-9 eller verdipapirregisterloven § 8-1, plikter å gi forklaring til politiet om forhold som omfattes av taushetsplikten eller taushetsplikt etter avtale.
+>
 
 ### 2023-12-20 — lov/2023-12-20-110
 
@@ -2716,22 +3018,6 @@ refid: "lov/1981-05-22-25"
 > Kongen kan gi nærmere regler om bruk av barnehus ved tilrettelagte avhør.
 >
 
-## § 24
-
-### 2003-01-01 — forskrift/2002-10-11-1094
-
-*§ 24 tredje ledd sjette punktum skal lyde:*
-
-> Tingretten kan ved kjennelse bestemme at underretning skal unnlates eller utsettes i et nærmere fastsatt tidsrom dersom det vil være til skade for etterforskningen at underretning gis, eller andre forhold taler for at underretning bør unnlates eller utsettes.
->
-
-### 2003-01-01 — forskrift/2002-10-11-1094
-
-*§ 24 femte ledd skal lyde:*
-
-> Selv om det har vært foretatt kommunikasjonskontroll, og det er den mistenkte som begjærer underretning om dette, kan det ikke opplyses at kontroll har vært foretatt hvis:saken gjelder overtredelse av straffeloven kapittel 8 eller 9,retten finner at underretning kan være til skade for etterforskningen av saken, ellerretten finner at andre forhold taler for at underretning bør unnlates eller utsettes.
->
-
 ## § 242
 
 ### 2004-07-02 — lov/2004-07-02-61
@@ -2739,6 +3025,13 @@ refid: "lov/1981-05-22-25"
 *§ 242 første ledd første punktum skal lyde:*
 
 > Mistenkte, hans forsvarer, fornærmede og den som hadde foreldreansvar eller var verge for fornærmede i saker som nevnt i § 107 a annet ledd første og annet punktum skal på begjæring gis adgang til å gjøre seg kjent med sakens dokumenter såfremt det kan skje uten skade eller fare for etterforskingens øyemed eller for tredjemann.
+>
+
+### 2007-02-27 — lov/2007-01-26-3
+
+*§ 242 annet ledd tredje punktum skal lyde:*
+
+> Forsvareren kan anke et avslag om innsyn etter første punktum på den siktedes vegne.
 >
 
 ### 2008-03-07 — lov/2008-03-07-5
@@ -2783,6 +3076,13 @@ refid: "lov/1981-05-22-25"
 > Kongen kan gi forskrifter om hvordan dokumentene skal gjøres tilgjengelig etter denne paragraf.
 >
 
+### 2018-12-20 — lov/2018-12-20-114
+
+*§ 242 første ledd tredje punktum skal lyde:*
+
+> Offentlig forsvarer kan ikke nektes adgang til dokumenter som fremlegges eller har vært fremlagt i rettsmøte, unntatt rettsmøte som holdes for å avsi kjennelse etter fjerde ledd.
+>
+
 ### 2019-06-21 — lov/2019-06-21-50
 
 *§ 242 første ledd annet punktum skal lyde:*
@@ -2791,6 +3091,39 @@ refid: "lov/1981-05-22-25"
 >
 
 ## § 242 a
+
+### 2007-02-27 — lov/2007-01-26-3
+
+*§ 242 a tredje ledd annet punktum skal lyde:*
+
+> Den siktede og hans forsvarer kan bare gjøres kjent med prosesskriv fra påtalemyndigheten og delta i rettsmøter i den utstrekning det kan skje uten at opplysninger som er begjært unntatt fra innsyn, gjøres kjent.
+>
+
+### 2007-02-27 — lov/2007-01-26-3
+
+*§ 242 a femte ledd tredje punktum skal lyde:*
+
+> Rettens avgjørelse etter paragrafen her kan ikke brukes som ankegrunn ved anke over dom.
+>
+
+### 2007-12-21 — lov/2007-12-21-126
+
+*§ 242 a skal lyde:*
+
+> Etter begjæring fra statsadvokaten kan tingretten som en enkeltstående rettshandling, jf. § 272 a, ved kjennelse beslutte at påtalemyndigheten kan nekte den mistenkte og forsvareren innsyn i opplysninger som påtalemyndigheten ikke vil påberope som bevis i saken, når det om innsyn gis, kan være fare foren alvorlig forbrytelse mot noens liv, helse eller frihet,at muligheten for en person til å delta skjult i etterforskningen av andre saker som nevnt i andre ledd, blir vesentlig vanskeliggjort,at muligheten for politiet til å forebygge eller etterforske forbrytelser som nevnt i annet ledd, blir vesentlig vanskeliggjort fordi informasjon om andre saker eller om politiets metodebruk blir kjent, ellerat politiets samarbeid med et annet lands myndigheter blir vesentlig vanskeliggjort.Unntak fra dokumentinnsyn kan bare besluttes dersom det er strengt nødvendig og det ikke medfører vesentlige betenkeligheter av hensyn til den mistenktes forsvar.
+>
+> Reglene i første ledd første punktum bokstav b til d gjelder bare i saker om en handling eller forsøk på en handlingsom etter loven kan medføre straff av fengsel i 5 år eller mer, ellersom rammes av straffeloven kapittel 8 eller 9 eller § 162 eller av lov om kontroll med eksport av strategiske varer, tjenester og teknologi m.v. § 5.Forhøyelse av maksimumsstraffen ved gjentakelse av forbrytelser kommer ikke i betraktning.
+>
+> Retten kan på vilkår som nevnt i første og annet ledd også nekte innsyn i opplysninger som er fremlagt for retten som grunnlag for avgjørelse om bruk av tvangsmidler som nevnt i §§ 200 a, 202 c, 202 e, 208 a, 210 a, 210 c, 216 a, 216 b, 216 m og 222 d.
+>
+> Bestemmelsen i § 130 a sjette ledd gjelder tilsvarende så langt den passer. Foreligger det rettskraftig kjennelse om at det skal gis innsyn i opplysninger som er begjært unntatt etter bestemmelsen her, kan påtalemyndigheten likevel nekte innsyn dersom den innstiller strafforfølgningen.
+>
+> Den mistenktes forsvarer plikter å bevare taushet om opplysninger han får innsyn i, men som den mistenkte nektes innsyn i etter bestemmelsen her.
+>
+> Retten kan bare omgjøre en kjennelse om å nekte innsyn etter paragrafen her, dersom det har kommet til nye opplysninger. Fjerde ledd annet punktum gjelder tilsvarende. Rettens avgjørelse etter paragrafen her kan ikke brukes som ankegrunn.
+>
+> Statsadvokatens begjæring etter første ledd og andre dokumenter knyttet til behandlingen av begjæringen inngår ikke i straffesaksdokumentene i den sak begjæringen knytter seg til, og skal ikke gjøres kjent for mistenkte og forsvareren. §§ 216 e annet ledd og 216 i første ledd første punktum gjelder tilsvarende. Kjennelsen skal meddeles den advokat som er særskilt oppnevnt etter § 100 a. Mistenkte og forsvareren skal likevel meddeles avgjørelse om å nekte innsyn i opplysninger etter paragrafen her, men skal ikke gjøres kjent med innholdet i kjennelsen. Ved skjult etterforskning kan meddelelse utsettes til den mistenkte får underretning om etterforskningen.
+>
 
 ### 2013-06-21 — lov/2013-06-21-86
 
@@ -2896,6 +3229,13 @@ refid: "lov/1981-05-22-25"
 > Sak om sikring eller forvaring kan ikke pådømmes i forhørsrett.
 >
 
+### 2001-06-15 — lov/2001-06-15-64
+
+*§ 248 fjerde ledd skal lyde:*
+
+> Sak om særreaksjon kan ikke pådømmes i forhørsrett.
+>
+
 ### 2002-08-30 — lov/2002-08-30-67
 
 *§ 248 skal lyde:*
@@ -2966,6 +3306,13 @@ refid: "lov/1981-05-22-25"
 
 ## § 251
 
+### 2001-06-15 — lov/2001-06-15-64
+
+*§ 251 første ledd skal lyde:*
+
+> Er det grunn til å anta at siktede er i en tilstand som nevnt i straffeloven § 44 og innkalling til hovedforhandling blir unnlatt etter reglene i § 84 annet ledd, kan det bare fremmes sak om overføring til tvungent psykisk helsevern etter straffeloven § 39, tvungen omsorg etter straffeloven § 39 a eller om inndragning.
+>
+
 ### 2020-12-04 — lov/2020-12-04-135
 
 *§ 251 første ledd skal lyde:*
@@ -3013,6 +3360,24 @@ refid: "lov/1981-05-22-25"
 > Finner påtalemyndigheten at en sak bør avgjøres med bot eller inndragning, eller begge deler, kan den utferdige forelegg i stedet for å reise tiltale. Reaksjoner som nevnt i § 2 nr. 4 kan også avgjøres ved forelegg, og kan også ilegges sammen med reaksjoner som nevnt i første punktum.
 >
 
+### 2008-03-07 — lov/2008-03-07-4
+
+*§ 255 skal lyde:*
+
+> Finner påtalemyndigheten at en sak bør avgjøres med bot, inndragning eller rettighetstap, kan den utferdige forelegg i stedet for å reise tiltale. Reaksjoner som nevnt i § 2 nr. 4 kan også avgjøres ved forelegg og kan også ilegges sammen med reaksjoner som nevnt i første punktum.
+>
+> Rettighetstap som avgjøres ved forelegg, kan bare gjelde for inntil 3 år og kan ikke gjelde tap av stilling, retten til å inneha stilling eller tap av retten til å utøve næringsvirksomhet, med unntak for binæring.
+>
+
+### 2009-06-19 — lov/2009-06-19-74
+
+*§ 255 skal lyde:*
+
+> Finner påtalemyndigheten at en sak bør avgjøres med bot, inndragning eller rettighetstap, kan den utferdige forelegg i stedet for å reise tiltale. Reaksjoner som nevnt i § 2 nr. 4 kan også avgjøres ved forelegg og kan også ilegges sammen med reaksjoner som nevnt i første punktum.
+>
+> Rettighetstap som avgjøres ved forelegg, kan bare gjelde for inntil 3 år og kan ikke gjelde tap av stilling, retten til å inneha stilling eller tap av retten til å utøve næringsvirksomhet, med unntak for binæring.
+>
+
 ## § 256
 
 ### 2003-07-04 — lov/2003-07-04-77
@@ -3020,6 +3385,24 @@ refid: "lov/1981-05-22-25"
 *§ 256 nr. 4 skal lyde:*
 
 > fastsetting av den bot som kreves, og den fengselsstraff som inntrer om boten ikke blir betalt, og i tilfelle den inndragning eller reaksjon som nevnt i § 2 nr. 4,
+>
+
+### 2008-03-07 — lov/2008-03-07-4
+
+*§ 256 første ledd nr. 4 og nytt annet ledd skal lyde:*
+
+> fastsetting av den bot og i tilfelle den inndragning og det rettighetstap som kreves,
+>
+> Dersom den siktede har vært berøvet friheten i anledning av saken, og det ved fastsettingen av boten ikke er gitt fullt fradrag for frihetsberøvelsen, jf. straffeloven § 83 annet ledd, skal det anmerkes i forelegget hvor mange dager som har kommet til fradrag.
+>
+
+### 2009-06-19 — lov/2009-06-19-74
+
+*§ 256 første ledd nr. 4 og nytt annet ledd skal lyde:*
+
+> fastsetting av den bot og i tilfelle den inndragning og det rettighetstap som kreves,
+>
+> Dersom den siktede har vært berøvet friheten i anledning av saken, og det ved fastsettingen av boten ikke er gitt fullt fradrag for frihetsberøvelsen, jf. straffeloven § 83 annet ledd, skal det anmerkes i forelegget hvor mange dager som har kommet til fradrag.
 >
 
 ## § 261
@@ -3046,7 +3429,35 @@ refid: "lov/1981-05-22-25"
 > Retten avgjør ved kjennelse om gjenopptakelse skal tillates. Reglene i § 54 kommer ikke til anvendelse. Blir gjenopptakelse besluttet, behandles saken av tingretten. § 400 gjelder tilsvarende så langt den passer.
 >
 
+### 2007-02-27 — lov/2007-01-26-3
+
+*§ 261 første ledd første og annet punktum skal lyde:*
+
+> Begjæring om gjenåpning av sak som er avgjort ved forelegg, settes frem for tingretten. Begjæringen må angi grunnlaget for gjenåpning og de bevis som vil bli påberopt.
+>
+
+### 2007-02-27 — lov/2007-01-26-3
+
+*§ 261 tredje ledd annet punktum skal lyde:*
+
+> Rettens beslutning kan ikke ankes eller brukes som ankegrunn.
+>
+
+### 2007-02-27 — lov/2007-01-26-3
+
+*§ 261 fjerde ledd første til tredje punktum skal lyde:*
+
+> Retten avgjør ved kjennelse om gjenåpning skal tillates. Reglene i § 54 kommer ikke til anvendelse. Blir gjenåpning besluttet, behandles saken av tingretten.
+>
+
 ## § 262
+
+### 2007-02-27 — lov/2007-01-26-3
+
+*§ 262 første ledd tredje punktum skal lyde:*
+
+> Rettens leder kan om han finner behov for det, be om utlån av sakens dokumenter.
+>
 
 ### 2013-06-21 — lov/2013-06-21-86
 
@@ -3091,6 +3502,20 @@ refid: "lov/1981-05-22-25"
 >
 
 ## § 264
+
+### 2007-02-27 — lov/2007-01-26-3
+
+*§ 264 femte ledd tredje punktum skal lyde:*
+
+> Forsvareren kan anke et avslag om innsyn etter første punktum på den tiltaltes vegne.
+>
+
+### 2007-12-21 — lov/2007-12-21-126
+
+*§ 264 sjette ledd andre punktum skal lyde:*
+
+> Reglene i § 242 a tredje til syvende ledd gjelder tilsvarende.
+>
 
 ### 2013-06-21 — lov/2013-06-21-86
 
@@ -3209,6 +3634,13 @@ refid: "lov/1981-05-22-25"
 
 ## § 266
 
+### 2007-02-27 — lov/2007-01-26-3
+
+*§ 266 første ledd tredje punktum skal lyde:*
+
+> Dens avgjørelse kan ikke ankes.
+>
+
 ### 2021-06-18 — lov/2021-06-18-122
 
 *§ 266 skal lyde:*
@@ -3274,6 +3706,20 @@ refid: "lov/1981-05-22-25"
 
 ## § 272
 
+### 2007-02-27 — lov/2007-01-26-3
+
+*§ 272 annet ledd skal lyde:*
+
+> Slik beslutning kan ikke ankes.
+>
+
+### 2007-02-27 — lov/2007-01-26-3
+
+*§ 272 femte ledd annet punktum skal lyde:*
+
+> Er spørsmålet etter anke avgjort i høyere instans, kan avgjørelsen ikke omgjøres under hovedforhandlingen uten på grunnlag av nye opplysninger.
+>
+
 ### 2008-03-07 — lov/2008-03-07-5
 
 *§ 272 første ledd ny bokstav h skal lyde:*
@@ -3313,6 +3759,13 @@ refid: "lov/1981-05-22-25"
 
 ## § 272 a
 
+### 2007-02-27 — lov/2007-01-26-3
+
+*§ 272 a tredje ledd annet punktum skal lyde:*
+
+> Rettens beslutning om ikke å omgjøre en kjennelse kan ikke ankes.
+>
+
 ### 2013-06-21 — lov/2013-06-21-86
 
 *§ 272 a annet ledd oppheves.*
@@ -3331,6 +3784,20 @@ refid: "lov/1981-05-22-25"
 >
 
 ## § 274
+
+### 2007-02-27 — lov/2007-01-26-3
+
+*§ 274 første ledd annet punktum skal lyde:*
+
+> I tingretten tar rettens leder avgjørelsen.
+>
+
+### 2016-04-22 — lov/2016-04-22-3
+
+*§ 274 første ledd første punktum skal lyde:*
+
+> Ved avgjørelsen av spørsmål som nevnt i § 272 deltar i lagmannsretten tre dommere.
+>
 
 ### 2021-06-18 — lov/2021-06-18-122
 
@@ -3395,7 +3862,53 @@ refid: "lov/1981-05-22-25"
 > Innkalling kan sendes offentlig oppnevnt forsvarer med anmodning om at denne forestår forkynningen for tiltalte etter reglene i domstolloven § 179. Forsvareren skal senest en uke før hovedforhandlingen underrette påtalemyndigheten om hvorvidt forkynning har skjedd.
 >
 
+## § 276
+
+### 2007-02-27 — lov/2007-01-26-3
+
+*§ 276 annet ledd annet punktum skal lyde:*
+
+> Beslutningen kan ikke ankes eller brukes som ankegrunn.
+>
+
+### 2007-02-27 — lov/2007-01-26-3
+
+*§ 276 tredje ledd annet punktum skal lyde:*
+
+> Domstolens leder avgjør hvem som skal være rettens leder.
+>
+
+### 2007-02-27 — lov/2007-01-26-3
+
+*§ 276 femte ledd skal lyde:*
+
+> I vidløftige saker kan rettens leder bestemme at ett eller to varamedlemmer for meddommerne skal følge forhandlingene og tre inn i retten om noen får forfall.
+>
+
+### 2009-01-30 — lov/2009-01-30-7
+
+*§ 276 første stykket skal lyde:*
+
+> Ved hovedforhandling settes retten med en fagdommer og to meddommere. I saker etter § 268 om forhold som kan straffes med bot eller fengsel inntil ett år, eller med bot og fengsel inntil ett år, kan retten settes uten meddommere. Dette gjelder ikke hvor retten finner behandlingsmåten betenkelig. Rettens avgjørelse om at retten skal settes uten meddommere, kan ikke ankes. Rettens vurdering av om behandlingsmåten er betenkelig kan heller ikke brukes som grunnlag for anke over dommen.
+>
+
 ## § 277
+
+### 2007-02-27 — lov/2007-01-26-3
+
+*§ 277 annet ledd skal lyde:*
+
+> I andre saker hvor det er behov for det, kan rettens leder beslutte å oppnevne fagkyndige meddommere etter reglene i domstolloven § 87 eller § 88.
+>
+
+### 2007-06-15 — lov/2007-06-15-38
+
+*§ 277 første ledd skal lyde:*
+
+> I saker hvor det er behov for det, kan retten oppnevne fagkyndige meddommere etter reglene i domstolloven § 94.
+>
+> Tredje og fjerde ledd blir annet og tredje ledd.
+>
 
 ### 2020-12-04 — lov/2020-12-04-135
 
@@ -3405,6 +3918,13 @@ refid: "lov/1981-05-22-25"
 >
 
 ## § 278
+
+### 2007-02-27 — lov/2007-01-26-3
+
+*§ 278 annet ledd første punktum skal lyde:*
+
+> Rettens leder sørger for at forhandlingen så vidt mulig blir gjennomført uten avbrytelse.
+>
 
 ### 2021-06-18 — lov/2021-06-18-122
 
@@ -3431,6 +3951,15 @@ refid: "lov/1981-05-22-25"
 *§ 28 første ledd skal lyde:*
 
 > Utskrift av rettsbøker og andre dokumenter i en straffesak som retten har avsluttet behandlingen av, kan kreves avden fornærmede,den som hadde foreldreansvar eller var verge for fornærmede i saker som nevnt i § 107 a annet ledd første og annet punktum, ogenhver annen som det har rettslig interesse for.
+>
+
+### 2007-12-21 — lov/2007-12-21-126
+
+*§ 28 tredje ledd fjerde punktum skal lyde:*
+
+> Reglene i § 242 a tredje til syvende ledd gjelder tilsvarende så langt de passer.
+>
+> § 52 tredje ledd sjette og sjuande punktum vert oppheva.
 >
 
 ### 2008-03-07 — lov/2008-03-07-5
@@ -3477,6 +4006,15 @@ refid: "lov/1981-05-22-25"
 > Det kan ikke gis utskrift av den delen av rettsboken som er nevnt i § 21 a, § 40 femte ledd eller § 52 tredje ledd.
 >
 
+## § 281
+
+### 2007-02-27 — lov/2007-01-26-3
+
+*§ 281 første ledd nr. 2 skal lyde:*
+
+> er uteblitt uten at det er opplyst eller sannsynliggjort at han har gyldig fravær eller
+>
+
 ## § 282
 
 ### 2001-06-15 — lov/2001-06-15-63
@@ -3488,6 +4026,43 @@ refid: "lov/1981-05-22-25"
 > Begjæringen må angi grunnlaget for ny behandling. Inneholder begjæringen ingen grunn som kan føre til ny behandling etter reglene i første ledd, avsier retten straks kjennelse om at begjæringen forkastes. Avgjørelsen kan tas av rettens formann.
 >
 > Dersom begjæringen ikke straks forkastes, forelegges den for motparten til uttalelse. Begjæringen avgjøres ved kjennelse uten muntlig forhandling. Retten kan likevel innhente ytterligere opplysninger og holde bevisopptak etter reglene for bevisopptak utenfor hovedforhandling. Reglene om forsvarer i § 97 første punktum gjelder tilsvarende. Avgjørelsen kan tas av rettens formann. Partene skal få uttale seg om innhentede opplysninger.
+>
+
+### 2007-02-27 — lov/2007-01-26-3
+
+*§ 282 første ledd første punktum skal lyde:*
+
+> Den som er domfelt når hovedforhandling er fremmet etter § 281 første ledd nr. 2, kan begjære saken behandlet på ny, når han gjør sannsynlig at han hadde gyldig fravær og at det ikke kan legges ham til last at han har unnlatt å melde fra i tide.
+>
+
+### 2007-02-27 — lov/2007-01-26-3
+
+*§ 282 tredje ledd tredje punktum skal lyde:*
+
+> Avgjørelsen kan tas av rettens leder.
+>
+
+### 2007-02-27 — lov/2007-01-26-3
+
+*§ 282 fjerde ledd femte punktum skal lyde:*
+
+> Avgjørelsen kan tas av rettens leder.
+>
+
+### 2007-02-27 — lov/2007-01-26-3
+
+*§ 282 femte ledd skal lyde:*
+
+> Uteblir domfelte ved den nye hovedforhandling uten at det er opplyst eller sannsynlig at han har gyldig fravær, heves saken, og den avsagte dom blir stående ved makt.
+>
+
+## § 283
+
+### 2007-02-27 — lov/2007-01-26-3
+
+*§ 283 første ledd annet punktum skal lyde:*
+
+> Bevisopptaket foretas av rettens leder.
 >
 
 ## § 284
@@ -3510,7 +4085,30 @@ refid: "lov/1981-05-22-25"
 > Sjette punktum oppheves. Gjeldende syvende punktum blir nytt sjette punktum.
 >
 
+## § 288
+
+### 2001-06-15 — lov/2001-06-15-64
+
+*§ 288 tredje ledd første punktum skal lyde:*
+
+> Det skal alltid avsis kjennelse som nevnt dersom vilkårene ellers er til stede for det og den videre forhandling må utsettes for at tiltalte kan bli underkastet mentalobservasjon i tilfelle der avgjørelsen om dette har utstått etter reglene i § 165 tredje ledd.
+>
+
+### 2007-02-27 — lov/2007-01-26-3
+
+*§ 288 annet ledd nr. 2 siste punktum skal lyde:*
+
+> Kjennelsen trenger ikke grunner og kan ikke ankes.
+>
+
 ## § 289
+
+### 2007-02-27 — lov/2007-01-26-3
+
+*§ 289 første ledd annet punktum skal lyde:*
+
+> Rettens leder spør så tiltalte om han erkjenner seg skyldig, og oppfordrer ham til å følge forhandlingen med oppmerksomhet.
+>
 
 ### 2021-06-18 — lov/2021-06-18-122
 
@@ -3530,6 +4128,15 @@ refid: "lov/1981-05-22-25"
 > Dersom det er flere fornærmede med bistandsadvokat i samme sak, bør tiltalte gis anledning til å forklare seg etter hver fornærmet. Fornærmede bør ikke høre på andre fornærmedes forklaringer før de selv forklarer seg.
 >
 > Dersom etterlatte skal forklare seg og hensynet til sakens opplysning tilsier at de ikke bør overvære forhandlingene før de selv har forklart seg, kan retten bestemme at de skal forklare seg før tiltalte.
+>
+
+## § 29
+
+### 2001-06-15 — lov/2001-06-15-64
+
+*§ 29 første ledd bokstav c skal lyde:*
+
+> når utlendingen her i riket er ilagt straff eller særreaksjon for et forhold som kan føre til fengselsstraff i mer enn tre måneder eller flere ganger i løpet av de siste tre år er ilagt fengselsstraff,
 >
 
 ## § 29 a
@@ -3590,6 +4197,22 @@ refid: "lov/1981-05-22-25"
 
 ## § 292 a
 
+### 2007-12-21 — lov/2007-12-21-126
+
+*§ 292 a første ledd første punktum skal lyde:*
+
+> Etter begjæring fra aktor kan tingretten som en enkeltstående rettshandling, jf. § 272 a ved kjennelse beslutte at et vitne ikke skal forklare seg om forhold som påtalemyndigheten ikke vil påberope som bevis i saken, når det om forklaring gis, kan være fare foren alvorlig forbrytelse mot noens liv, helse eller frihet,at muligheten for en person til å delta skjult i etterforskningen av andre saker som nevnt i annet ledd, blir vesentlig vanskeliggjort,at muligheten for politiet til å forebygge eller etterforske forbrytelser som nevnt i annet ledd, blir vesentlig vanskeliggjort fordi informasjon om andre saker eller om politiets metodebruk blir kjent, ellerat politiets samarbeid med et annet lands myndigheter blir vesentlig vanskeliggjort.
+>
+
+### 2007-12-21 — lov/2007-12-21-126
+
+*§ 292 a tredje og fjerde ledd skal lyde:*
+
+> Retten kan på vilkår som nevnt i første og annet ledd også beslutte at et vitne ikke skal forklare seg om forhold som kan røpe opplysninger som er fremlagt for retten som grunnlag for avgjørelse om bruk av tvangsmidler som nevnt i §§ 200 a, 202 c, 202 e, 208 a, 210 a, 210 c, 216 a, 216 b, 216 m og 222 d.
+>
+> Reglene i § 242 a fjerde til syvende ledd gjelder tilsvarende så langt de passer.
+>
+
 ### 2013-06-21 — lov/2013-06-21-86
 
 *§ 292 a skal lyde:*
@@ -3628,6 +4251,15 @@ refid: "lov/1981-05-22-25"
 > Regelen i § 274 a gjelder tilsvarende under hovedforhandlingen.
 >
 
+## § 297
+
+### 2007-02-27 — lov/2007-01-26-3
+
+*§ 297 første ledd annet punktum skal lyde:*
+
+> Opplesing kan alltid skje når tiltalte uteblir uten gyldig fravær i sak hvor forelegg er utferdiget eller som bare gjelder inndragning.
+>
+
 ## § 298
 
 ### 2008-03-07 — lov/2008-03-07-5
@@ -3663,6 +4295,13 @@ refid: "lov/1981-05-22-25"
 > Krav fra den ene ektefellen mot den andre ektefellen om at ekteskapet er ugyldig eller om skilsmisse uten forutgående separasjon, jf. lov 4. juli 1991 nr. 47 om ekteskap § 16 tredje og fjerde ledd og § 23 i sak etter straffeloven § 222 annet ledd.
 >
 
+### 2007-02-27 — lov/2007-01-26-3
+
+*§ 3 tredje ledd skal lyde:*
+
+> De krav som er nevnt i første og annet ledd anses som sivile krav og behandles etter reglene i kap 29.
+>
+
 ### 2008-03-07 — lov/2008-03-07-5
 
 *§ 3 fjerde ledd annet punktum skal lyde:*
@@ -3670,11 +4309,27 @@ refid: "lov/1981-05-22-25"
 > Dette gjelder likevel ikke §§ 72, 80, 229, 273, 289 a, 295, 397 og 398 og ikke kapitlene 9 a og 28.
 >
 
+### 2018-12-20 — lov/2018-12-20-114
+
+*§ 3 annet ledd skal lyde:*
+
+> I forbindelse med straffesak mot en embetsmann kan det offentlige gjøre gjeldende krav om avskjed etter statsansatteloven § 28.
+>
+
 ### 2021-06-18 — lov/2021-06-18-122
 
 *§ 3 fjerde ledd skal lyde:*
 
 > Med uttrykket fornærmede forstås i denne lov også andre skadelidte som nevnt i første ledd. Dette gjelder likevel ikke §§ 289 a, 397, 398 og ikke kapittel 9 a.
+>
+
+## § 30
+
+### 2007-02-27 — lov/2007-01-26-3
+
+*§ 30 første ledd nytt annet punktum skal lyde:*
+
+> Ved dom avgjøres også anke over dom når saken ikke blir avvist, eller når anken ikke blir avvist eller nektet fremmet.
 >
 
 ## § 302
@@ -3724,6 +4379,13 @@ refid: "lov/1981-05-22-25"
 
 ## § 306
 
+### 2007-02-27 — lov/2007-01-26-3
+
+*§ 306 tredje ledd skal lyde:*
+
+> Når det gjelder dom av lagmannsrett i sak som er behandlet med lagrette, kan det til skade for siktede heller ikke ankes over lovanvendelsen vedkommende skyldspørsmålet, med mindre anken grunnes på at den protokollerte redegjørelsen fra rettens leder om rettssetningene har vært uriktig.
+>
+
 ### 2017-06-16 — lov/2017-06-16-58
 
 *§ 306 tredje ledd oppheves.*
@@ -3733,6 +4395,15 @@ refid: "lov/1981-05-22-25"
 ### 2017-06-16 — lov/2017-06-16-58
 
 *§ 307 annet ledd oppheves.*
+
+## § 31
+
+### 2007-02-27 — lov/2007-01-26-3
+
+*§ 31 annet ledd skal lyde:*
+
+> Bare protokollføreren har adgang til å overvære rådslagningen og stemmegivningen om ikke rettens leder gir særlig tillatelse til andre som av hensyn til sin juridiske utdanning eller av liknende grunner ønsker å være til stede.
+>
 
 ## § 310
 
@@ -3820,6 +4491,13 @@ refid: "lov/1981-05-22-25"
 
 ## § 315
 
+### 2007-02-27 — lov/2007-01-26-3
+
+*§ 315 tredje ledd skal lyde:*
+
+> Ved prøving av saksbehandlingen er ankedomstolen ikke bundet av avgjørelser truffet etter anke over kjennelser og beslutninger. Likevel er lagmannsretten bundet av den rettsoppfatning som ligger til grunn for avgjørelse i Høyesteretts ankeutvalg.
+>
+
 ### 2021-06-18 — lov/2021-06-18-122
 
 *§ 315 første ledd skal lyde:*
@@ -3852,11 +4530,31 @@ refid: "lov/1981-05-22-25"
 
 ## § 32
 
+### 2007-02-27 — lov/2007-01-26-3
+
+*§ 32 skal lyde:*
+
+> Lederen leder forhandlingene, stiller spørsmålene og teller opp stemmene. Avstemningen foregår muntlig i den rekkefølge lederen fastsetter.
+>
+> En dommer som er blitt overstemt, skal ta del i de følgende avstemninger som saken gir grunn til, om ikke annet er bestemt ved lov.
+>
+> I Høyesterett foregår stemmegivningen offentlig i den orden rettens leder bestemmer. Lederen stemmer alltid sist. Hver av dommerne grunngir den avgjørelsen han stemmer for.
+>
+
 ### 2022-06-17 — lov/2022-06-17-58
 
 *§ 32 tredje ledd skal lyde:*
 
 > I Høyesterett foregår stemmegivningen offentlig i den orden rettens leder bestemmer. Stemmegivningen kan skje i fjernmøte. Leder stemmer alltid sist. Hver av dommerne grunngir den avgjørelsen han stemmer for.
+>
+
+## § 320
+
+### 2007-02-27 — lov/2007-01-26-3
+
+*§ 320 skal lyde:*
+
+> Ved anke til Høyesterett treffer Høyesteretts ankeutvalg avgjørelser etter §§ 317-319.
 >
 
 ## § 321
@@ -3866,6 +4564,13 @@ refid: "lov/1981-05-22-25"
 *§ 321 første ledd første punktum skal lyde:*
 
 > Anke til lagmannsretten om forhold hvor påtalemyndigheten ikke har påstått og det ikke er idømt annen reaksjon enn bot, inndragning eller tap av retten til å føre motorvogn mv., kan ikke fremmes uten rettens samtykke.
+>
+
+### 2007-02-27 — lov/2007-01-26-3
+
+*§ 321 sjette ledd skal lyde:*
+
+> Nektelse etter paragrafen her eller avslag på begjæring om omgjøring av slik nektelse kan ankes på grunnlag av feil i saksbehandlingen. For øvrig kan avgjørelser etter paragrafen her ikke ankes eller brukes som ankegrunn.
 >
 
 ### 2010-12-10 — lov/2010-12-10-76
@@ -3883,6 +4588,13 @@ refid: "lov/1981-05-22-25"
 >
 
 ## § 323
+
+### 2007-02-27 — lov/2007-01-26-3
+
+*§ 323 første ledd første punktum skal lyde:*
+
+> Anke til Høyesterett kan ikke fremmes uten samtykke av Høyesteretts ankeutvalg.
+>
 
 ### 2010-12-10 — lov/2010-12-10-76
 
@@ -3904,6 +4616,13 @@ refid: "lov/1981-05-22-25"
 
 ## § 325
 
+### 2007-02-27 — lov/2007-01-26-3
+
+*§ 325 annet punktum skal lyde:*
+
+> Henvisningsavgjørelsen kan ikke ankes eller brukes som ankegrunn.
+>
+
 ### 2008-03-07 — lov/2008-03-07-5
 
 *§ 325 nytt annet ledd skal lyde:*
@@ -3911,7 +4630,23 @@ refid: "lov/1981-05-22-25"
 > Henvisningsavgjørelsen skal forkynnes for den som har fått krav som nevnt i § 3 avgjort i den avgjørelsen anken gjelder. Fornærmede gis samtidig en frist for å begjære behandling av krav etter § 3 jf. § 428, eventuelt imøtegå begjæring fra siktede etter § 311 første ledd annet punktum eller § 310 første ledd annet punktum.
 >
 
+## § 327
+
+### 2007-02-27 — lov/2007-01-26-3
+
+*§ 327 annet ledd skal lyde:*
+
+> Avgjørelser som nevnt i § 54, med unntak av bevisopptak etter § 338 annet ledd, kan under saksforberedelsen for Høyesterett treffes av den dommer som forbereder ankeforhandlingen eller etter dennes innstilling av Høyesteretts ankeutvalg.
+>
+
 ## § 329
+
+### 2007-02-27 — lov/2007-01-26-3
+
+*§ 329 tredje ledd skal lyde:*
+
+> Om utarbeidelse av utdrag gjelder lov 14. august 1918 nr. 2 om utdrag i sivile saker og straffesaker.
+>
 
 ### 2010-12-10 — lov/2010-12-10-76
 
@@ -3960,6 +4695,34 @@ refid: "lov/1981-05-22-25"
 > Paragrafen her gjelder ikke for saker som etter kapittel 24 skal behandles med lagrette.
 >
 
+### 2007-02-27 — lov/2007-01-26-3
+
+*§ 332 første ledd tredje og fjerde punktum skal lyde:*
+
+> I vidløftige saker kan rettens leder bestemme at ett eller flere varamedlemmer for meddommerne skal følge forhandlingene og tre inn i retten om noen av meddommerne får forfall. I saker hvor det er behov for det, kan rettens leder beslutte at to av meddommerne skal være fagkyndige.
+>
+
+### 2007-06-15 — lov/2007-06-15-38
+
+*§ 332 første ledd skal lyde:*
+
+> Ved ankeforhandling som omfatter bevisbedømmelsen under skyldspørsmålet eller avgjørelse om straff eller rettsfølge som nevnt i § 2 første ledd nr. 1 for forbrytelse som etter loven kan medføre fengsel i mer enn 6 år, settes lagmannsretten med fire meddommere. § 321 tredje ledd annet punktum gjelder tilsvarende. I vidløftige saker kan rettens leder bestemme at ett eller flere varamedlemmer for meddommerne skal følge forhandlingene og tre inn i retten om noen av meddommerne får forfall. I saker hvor det er behov for det, kan rettens leder beslutte at to av meddommerne skal være fagkyndige. Disse oppnevnes etter reglene i domstolloven § 94.
+>
+
+### 2008-03-07 — lov/2008-03-07-4
+
+*§ 332 tredje ledd skal lyde:*
+
+> Paragrafen her gjelder ikke for saker som etter kapittel 24 skal behandles med lagrette, og heller ikke for anke over saker som nevnt i straffeloven § 52 første ledd bokstav a.
+>
+
+### 2009-06-19 — lov/2009-06-19-74
+
+*§ 332 tredje ledd skal lyde:*
+
+> Paragrafen her gjelder ikke for saker som etter kapittel 24 skal behandles med lagrette, og heller ikke for anke over saker som nevnt i straffeloven § 52 første ledd bokstav a.
+>
+
 ### 2017-06-16 — lov/2017-06-16-58
 
 *§ 332 skal lyde:*
@@ -3980,6 +4743,27 @@ refid: "lov/1981-05-22-25"
 > Når anke til lagmannsretten ikke gjelder bevisbedømmelsen under skyldspørsmålet eller avgjørelse om straff eller rettsfølge som nevnt i § 2 første ledd nr. 1 for forbrytelse som etter loven kan medføre fengsel i mer enn 6 år, kan retten med partenes samtykke beslutte at saken skal behandles skriftlig. § 321 tredje ledd annet punktum gjelder tilsvarende.
 >
 
+### 2007-02-27 — lov/2007-01-26-3
+
+*§ 333 femte ledd skal lyde:*
+
+> Beslutning om skriftlig behandling kan ikke ankes eller brukes som ankegrunn.
+>
+
+### 2008-03-07 — lov/2008-03-07-4
+
+*§ 333 sjette ledd skal lyde:*
+
+> Paragrafen her gjelder ikke for anke over saker som nevnt i straffeloven § 52 første ledd bokstav a.
+>
+
+### 2009-06-19 — lov/2009-06-19-74
+
+*§ 333 sjette ledd skal lyde:*
+
+> Paragrafen her gjelder ikke for anke over saker som nevnt i straffeloven § 52 første ledd bokstav a.
+>
+
 ## § 334
 
 ### 2001-05-04 — lov/2001-05-04-16
@@ -3988,6 +4772,87 @@ refid: "lov/1981-05-22-25"
 
 > Skal lagmannsretten bare prøve saksbehandlingen eller lovanvendelsen under skyldspørsmålet, innkalles ikke siktede til ankeforhandlingen med mindre retten finner at særlige grunner tilsier det. Skal den bare prøve spørsmålet om straff eller annen rettsfølge som nevnt i § 2 første ledd nr. 1, kan innkalling unnlates hvis siktedes nærvær finnes overflødig.
 >
+
+## § 336
+
+### 2007-02-27 — lov/2007-01-26-3
+
+*§ 336 første ledd første punktum skal lyde:*
+
+> Er siktede stevnet i samsvar med § 335 første punktum og uteblir uten at det er opplyst eller sannsynlig at han har gyldig fravær, skal hans anke over bevisbedømmelsen avvises.
+>
+
+### 2007-02-27 — lov/2007-01-26-3
+
+*§ 336 tredje ledd skal lyde:*
+
+> Skal retten ikke prøve bevisene under skyldspørsmålet, kan saken alltid fremmes i siktedes fravær, med mindre han er innkalt eller skal innkalles til ankeforhandlingen og det er opplyst eller sannsynlig at han har gyldig fravær.
+>
+
+### 2007-02-27 — lov/2007-01-26-3
+
+*§ 336 fjerde ledd første punktum skal lyde:*
+
+> En ankesak kan heves dersom det har gått mer enn to år siden siktede erklærte anke og ankeforhandling ikke er holdt fordi det har vært umulig å innkalle siktede eller fordi siktede har hatt gyldig fravær.
+>
+
+### 2007-02-27 — lov/2007-01-26-3
+
+*§ 336 fjerde ledd tredje og fjerde punktum skal lyde:*
+
+> Ankefristen løper fra det tidspunktet kjennelsen er avsagt. Dersom siktede har forsvarer, har også forsvareren rett til å anke kjennelsen.
+>
+
+## § 337
+
+### 2007-02-27 — lov/2007-01-26-3
+
+*§ 337 første ledd første punktum skal lyde:*
+
+> Kjennelse om avvisning etter § 336 første ledd første punktum kan omgjøres dersom siktede gjør sannsynlig at han hadde gyldig fravær og at det ikke kan legges ham til last at han har unnlatt å melde fra i tide.
+>
+
+### 2007-02-27 — lov/2007-01-26-3
+
+*§ 337 annet ledd første punktum skal lyde:*
+
+> Begjæring om omgjøring må fremsettes innen utløpet av ankefristen.
+>
+
+## § 338
+
+### 2007-02-27 — lov/2007-01-26-3
+
+*§ 338 annet ledd skal lyde:*
+
+> Begjæring om bevisopptak fremsettes for Høyesteretts ankeutvalg, som avgjør om begjæringen skal tas til følge.
+>
+
+## § 342
+
+### 2001-03-02 — lov/2001-03-02-7
+
+*§ 342 skal lyde:*
+
+> Med bøter eller fengsel inntil 6 måneder eller begge deler straffes den sometter å ha vært utvist av riket, uten tillatelse igjen innfinner seg her,ved dom er forvist til eller fra bestemte deler av riket og som rettsstridig igjen oppholder seg på et sted der dette er forbudt for vedkommende, ellerkrenker forbud etter straffeprosessloven §§ 222 a eller 222 b.Fengsel inntil 2 år kan idømmes hvis han tidligere er straffet for en slik forseelse.
+>
+> Medvirkning straffes på samme måte. Forsøk er straffbart.
+>
+
+## § 345
+
+### 2007-02-27 — lov/2007-01-26-3
+
+*§ 345 annet ledd skal lyde:*
+
+> Dersom retten i andre tilfelle ikke finner grunn til å endre eller oppheve den påankede dom, forkastes anken. I motsatt fall avsier retten ny dom dersom de nødvendige forutsetninger er til stede; ellers oppheves den angrepne dom.
+>
+
+## § 346
+
+### 2007-02-27 — lov/2007-01-26-3
+
+*§ 346 oppheves.*
 
 ## § 35
 
@@ -4018,13 +4883,158 @@ refid: "lov/1981-05-22-25"
 > Er flere straffbare forhold forent i én sak, gjelder følgende:Ved anke over bevisbedømmelsen under skyldspørsmålet der noen av forholdene skal behandles med lagrette og andre ikke, skal alle forholdene behandles med lagrette. Omfatter ankesaken spørsmål om overtredelse av straffeloven kapittel 8 eller 9 eller lov 18. august 1914 om forsvarshemmeligheter, skal likevel hele saken behandles med meddommere.Dersom ankeforhandlingen omfatter både bevisanke som skal behandles med lagrette, og anke over andre sider ved en dom, avgjøres de sistnevnte forholdene av lagmannsretten uten medvirkning fra lagretten. Dersom fire lagrettemedlemmer tiltrer retten etter § 376 e første ledd, skal de likevel for alle de straffbare forhold som ankeforhandlingen omfatter, delta ved behandlingen av spørsmål om straff eller rettsfølge som nevnt i § 2 første ledd og om saksomkostninger. Selv om vilkårene i § 376 e ikke er oppfylt, skal fire lagrettemedlemmer på samme måte tiltre retten når denne skal behandle spørsmål hvor det etter § 332 skulle ha deltatt meddommere.
 >
 
+## § 355
+
+### 2007-02-27 — lov/2007-01-26-3
+
+*§ 355 annet ledd første punktum skal lyde:*
+
+> I vidløftige saker kan rettens leder beslutte at 11 eller 12 lagrettemedlemmer skal følge forhandlingene.
+>
+
+### 2007-02-27 — lov/2007-01-26-3
+
+*§ 355 tredje ledd skal lyde:*
+
+> Før forhandlingen begynner, bringer rettens leder på det rene om noen av lagrettemedlemmene eller varamedlemmene er ugilde, jf domstolsloven § 115.
+>
+
+### 2007-06-15 — lov/2007-06-15-38
+
+*§ 355 tredje ledd skal lyde:*
+
+> Før forhandlingen begynner, bringer rettens leder på det rene om noen av lagrettemedlemmene er ugilde, jf. domstolloven § 115.
+>
+
+### 2009-01-30 — lov/2009-01-30-7
+
+*§ 355 tredje stykket skal lyde:*
+
+> Før forhandlingen begynner, bringer rettens leder på det rene om noen av lagrettemedlemmene er ugilde, jf domstolsloven § 115.
+>
+
+## § 356
+
+### 2007-06-15 — lov/2007-06-15-38
+
+*§ 356 første ledd skal lyde:*
+
+> Partene har rett til å skyte ut så mange lagrettemedlemmer som det er til stede flere enn 10, eller flere enn 11 eller 12 i de tilfellene som er nevnt i § 355 andre ledd.
+>
+
+## § 359
+
+### 2007-02-27 — lov/2007-01-26-3
+
+*§ 359 skal lyde:*
+
+> Rettens leder gjør lagrettens medlemmer kjent med gangen i rettsforhandlingene og lagrettens oppgaver og ansvar. Han skal særskilt foreholde lagrettens medlemmer at de inntil lagrettekjennelsen er endelig avgitt, ikke må ha samtale eller forbindelse med noen annen enn retten når det gjelder saken, og at de ikke uten tillatelse av rettens leder må forlate rådslagningsrommet etter at de har trukket seg tilbake for å svare på de spørsmål som er stilt.
+>
+
+## § 360
+
+### 2007-02-27 — lov/2007-01-26-3
+
+*§ 360 første ledd skal lyde:*
+
+> Deretter spør rettens leder lagrettens medlemmer: «Forsikrer du at du vil gi vel akt på alt som forhandles i retten og svare på de spørsmål som blir forelagt deg, slik som du vet sannest og rettest å være etter loven og bevisene i saken?» Lagrettens medlemmer skal stående og hver for seg svare: «Det forsikrer jeg.»
+>
+
+## § 361
+
+### 2007-02-27 — lov/2007-01-26-3
+
+*§ 361 første ledd første punktum skal lyde:*
+
+> Under ledelse av rettens leder velger lagretten ved lukkede sedler en ordfører.
+>
+
+### 2007-06-15 — lov/2007-06-15-38
+
+*§ 361 skal lyde:*
+
+> Under ledelse av rettens leder velger lagretten ved lukkede sedler en ordfører. Står stemmene likt, avgjøres valget ved loddtrekning. Lagretten får utlevert en liste over lagrettens medlemmer.
+>
+
+## § 363
+
+### 2007-02-27 — lov/2007-01-26-3
+
+*§ 363 annet ledd første punktum skal lyde:*
+
+> Rettens leder utarbeider spørsmålene og forelegger dem for partene.
+>
+
+## § 368
+
+### 2007-02-27 — lov/2007-01-26-3
+
+*§ 368 første og annet ledd skal lyde:*
+
+> Når spørsmålene er fastsatt, leser rettens leder dem opp. Hvert lagrettemedlem får en avskrift av spørsmålene.
+>
+> Rettens leder gjennomgår i et kort foredrag bevisene i saken og forklarer spørsmålene og de rettssetninger som skal legges til grunn.
+>
+
+## § 369
+
+### 2007-02-27 — lov/2007-01-26-3
+
+*§ 369 første ledd annet punktum skal lyde:*
+
+> Den skal ta med seg spørsmålsskriftet som rettens leder har undertegnet.
+>
+
 ## § 37
 
 ### 2017-06-16 — lov/2017-06-16-58
 
 *§ 37 annet ledd oppheves.*
 
+## § 370
+
+### 2007-02-27 — lov/2007-01-26-3
+
+*§ 370 annet ledd skal lyde:*
+
+> Finner lagretten at den trenger ytterligere klargjøring av spørsmålene, av de rettssetninger som skal legges til grunn, eller av den fremgangsmåte som skal følges, eller finner den at spørsmålene bør forandres eller nye spørsmål stilles, vender den tilbake til rettssalen for at rettens leder kan foreta det som er påkrevd. Lagretten kan tilkalle rettens leder for å få veiledning vedrørende de spørsmål som er nevnt i første punktum.
+>
+
+## § 371
+
+### 2007-06-15 — lov/2007-06-15-38
+
+*§ 371 skal lyde:*
+
+> Når rådslagningen er slutt, stemmer lagretten under ledelse av ordføreren over de enkelte spørsmål i den orden de er stilt. Lagrettens medlemmer trekker lodd om rekkefølgen. Ordføreren stemmer sist.
+>
+
+## § 376 a
+
+### 2007-02-27 — lov/2007-01-26-3
+
+*§ 376 a tredje ledd annet punktum skal lyde:*
+
+> Beslutningen kan ankes på grunn av feil ved saksbehandlingen eller lovanvendelsen.
+>
+
+## § 376 d
+
+### 2007-02-27 — lov/2007-01-26-3
+
+*§ 376 d skal lyde:*
+
+> Når ny behandling er besluttet etter § 376 c, kan tiltalte ikke dømmes etter strengere straffebestemmelser enn han ville blitt dømt etter dersom lagrettens kjennelse i den første behandlingen av saken var lagt til grunn, med mindre vilkårene for gjenåpning foreligger.
+>
+
 ## § 377
+
+### 2007-02-27 — lov/2007-01-26-3
+
+*§ 377 første ledd skal lyde:*
+
+> Kjennelse eller beslutning kan ankes etter dette kapittel av enhver som avgjørelsen rammer, med mindre den kan ankes etter kapittel 23 eller vedkommende kan bruke den som ankegrunn mot en dom eller den etter sin art eller etter særskilt lovregel er uangripelig.
+>
 
 ### 2021-06-18 — lov/2021-06-18-122
 
@@ -4039,6 +5049,26 @@ refid: "lov/1981-05-22-25"
 > Overskriften til sjuende del skal lyde:
 >
 
+## § 378
+
+### 2007-02-27 — lov/2007-01-26-3
+
+*§ 378 innledningen skal lyde:*
+
+> Kjennelser og beslutninger under hovedforhandlingen kan ikke ankes uten i følgende tilfelle:
+>
+
+## § 379
+
+### 2007-02-27 — lov/2007-01-26-3
+
+*§ 379 skal lyde:*
+
+> Ankefristen er to uker, når ikke annet er bestemt. Reglene i § 310 tredje ledd og § 318 første ledd gjelder tilsvarende.
+>
+> Anke fra den som er pålagt å gi forklaring eller forsikring, underkaste seg gransking, utlevere bevis eller gjøre tjeneste som sakkyndig, må erklæres straks om vedkommende er til stede i retten, og ellers innen tre dager.
+>
+
 ## § 38
 
 ### 2017-06-16 — lov/2017-06-16-58
@@ -4047,11 +5077,154 @@ refid: "lov/1981-05-22-25"
 
 ## § 380
 
+### 2007-02-27 — lov/2007-01-26-3
+
+*§ 380 skal lyde:*
+
+> Anke erklæres skriftlig eller muntlig for den rett hvis avgjørelse angripes. Reglene i § 312 annet ledd og § 319 annet ledd gjelder tilsvarende.
+>
+> Anke over avgjørelser om hvorvidt en siktet skal varetektsfengsles, skal behandles snarest mulig.
+>
+
 ### 2010-12-10 — lov/2010-12-10-76
 
 *§ 380 første ledd nytt tredje punktum skal lyde:*
 
 > Anken skal være undertegnet av siktede, eller dennes forsvarer når forsvareren er advokat.
+>
+
+## § 381
+
+### 2007-02-27 — lov/2007-01-26-3
+
+*§ 381 skal lyde:*
+
+> Finner retten anken grunnet, skal den forandre sin avgjørelse, såfremt det er adgang til det. Ellers oversender den uten opphold erklæringen med tilhørende dokumenter til ankedomstolen.
+>
+> Finner retten at det ikke er adgang til å anke, eller at anken er erklært for sent, skal den gjøre den ankende oppmerksom på det, men saken oversendes likevel, om ikke anken blir tatt tilbake.
+>
+> Senest ved oversendelsen gir retten motparten melding om anken, såfremt noen har opptrådt som motpart eller kan betraktes som motpart. Melding gis likevel ikke når påtalemyndigheten anker et avslag på begjæring om bruk av tvangsmiddel, såfremt det er fare for at slik melding vil forspille formålet med forføyningen.
+>
+
+## § 382
+
+### 2007-02-27 — lov/2007-01-26-3
+
+*§ 382 skal lyde:*
+
+> Anke har ikke oppsettende virkning uten når loven bestemmer det, eller den rett hvis avgjørelse angripes eller ankedomstolen bestemmer det.
+>
+> Anke fra tredjemann som er pålagt å avgi forklaring eller forsikring, utlevere bevis eller gjøre tjeneste som sakkyndig, har oppsettende virkning for ham.
+>
+
+## § 383
+
+### 2007-02-27 — lov/2007-01-26-3
+
+*§ 383 første ledd skal lyde:*
+
+> Den ankende og andre som anken har betydning for, kan inngi skriftlig uttalelse om saken. Det samme kan den rett som har truffet den angrepne avgjørelse.
+>
+
+## § 384
+
+### 2007-02-27 — lov/2007-01-26-3
+
+*§ 384 første punktum skal lyde:*
+
+> Ankedomstolen kan innhente ytterligere opplysninger og beslutte bevisopptak.
+>
+
+## § 385
+
+### 2007-02-27 — lov/2007-01-26-3
+
+*§ 385 skal lyde:*
+
+> Anken avgjøres ved kjennelse uten muntlig forhandling.
+>
+> Finnes anken grunnet, treffer ankedomstolen ny avgjørelse når den har grunnlag for det; ellers oppheves den angrepne avgjørelse. Fører anken ikke fram, forkastes den.
+>
+> Er det påberopt feil ved saksbehandlingen, gjelder reglene i § 343 tilsvarende. Foreligger det en saksbehandlingsfeil som ikke er påberopt, kan ankedomstolen etter omstendighetene oppheve den ankede avgjørelsen såfremt den antar at feilen kan ha innvirket på avgjørelsens innhold, eller feilen hører til dem som er nevnt i § 343 annet ledd.
+>
+> I stedet for å oppheve etter reglene i tredje ledd kan ankedomstolen selv treffe avgjørelse i saken når det nødvendige grunnlag er til stede og retten finner det ubetenkelig.
+>
+
+## § 386
+
+### 2007-02-27 — lov/2007-01-26-3
+
+*§ 386 skal lyde:*
+
+> Når anken er avgjort, sendes saksdokumentene med kjennelsen til påtalemyndigheten, som sørger for melding til siktede eller andre som kjennelsen angår og til den rett som har truffet den angrepne avgjørelse.
+>
+
+## § 387
+
+### 2007-02-27 — lov/2007-01-26-3
+
+*§ 387 skal lyde:*
+
+> Når særlige grunner taler for det, kan retten beslutte å holde muntlig forhandling om anken og herunder avhøre parter og vitner eller foreta annen umiddelbar bevisførsel. Rettens beslutning kan ikke ankes eller brukes som ankegrunn. Føring av rettsboken under den muntlige forhandling foregår etter reglene i § 21.
+>
+> Holdes muntlig forhandling, skal siktede alltid ha forsvarer når anken berører ham. Retten kan oppnevne prosessfullmektig for en tredjemann som er part i ankesaken etter dette kapittel. For prosessfullmektigen gjelder reglene i kap 9 så langt de passer.
+>
+> Når det etter første ledd blir holdt muntlig forhandling i Høyesteretts ankeutvalg eller i Høyesterett etter beslutning etter domstolloven § 5 første eller fjerde ledd, gjelder de samme begrensninger for bevisførselen som følger av § 340 i denne lov.
+>
+
+## § 387 a
+
+### 2007-02-27 — lov/2007-01-26-3
+
+*§ 387 a skal lyde:*
+
+> Dersom ankeutvalget enstemmig finner det klart at en anke til Høyesteretts ankeutvalg ikke kan føre frem, kan det avvise eller forkaste anken uten annen begrunnelse enn en henvisning til bestemmelsen her. Avgjørelsen kan omgjøres til gunst for siktede når særlige grunner foreligger.
+>
+> En anke fra påtalemyndigheten, som ikke er til gunst for siktede, kan utvalget på tilsvarende måte avvise når det enstemmig finner at anken gjelder spørsmål av mindre betydning eller at det ellers ikke er grunn til at anken tas under behandling.
+>
+
+## § 388
+
+### 2007-02-27 — lov/2007-01-26-3
+
+*§ 388 skal lyde:*
+
+> Lagmannsrettens avgjørelse av en anke over en kjennelse eller beslutning kan ikke ankes videre uten i følgende tilfelle:når den avviser en sak fra den underordnede rett fordi saken ikke hører under domstolene, eller fordi den allerede er rettskraftig avgjort,når anken gjelder saksbehandlingen ved lagmannsretten,når anken gjelder tolking av en lovforskrift,når anken gjelder avgjørelse om vitneplikt etter § 125.
+>
+> Dersom Høyesteretts ankeutvalg enstemmig finner at verken avgjørelsens betydning utenfor den foreliggende sak eller andre forhold tilsier at en anke mot lagmannsrettens avgjørelse av en ankesak tas under behandling, kan det avvise anken. Avgjørelsen om avvisning treffes ved beslutning, som kan omgjøres til gunst for siktede når særlige grunner foreligger.
+>
+
+## § 389
+
+### 2007-02-27 — lov/2007-01-26-3
+
+*§ 389 skal lyde:*
+
+> En sak som er avgjort ved rettskraftig dom, kan etter begjæring av en part gjenåpnes til ny prøving når vilkårene i §§ 390-393 foreligger. Er dommen avsagt av lagmannsretten og den omfatter bevisbedømmelsen under skyldspørsmålet, kan saken gjenåpnes selv om dommen ikke er rettskraftig.
+>
+> Reglene i §§ 307-309 gjelder tilsvarende.
+>
+> Avgjørelse om inndragning eller mortifikasjon kan gjenåpnes særskilt når vilkårene etter tvisteloven § 31-3 første ledd bokstav a til d og §§ 31-4 og 31-5 er oppfylt. Om behandlingen av saken gjelder reglene i dette kapittel.
+>
+
+## § 39
+
+### 2007-02-27 — lov/2007-01-26-3
+
+*§ 39 tredje ledd første punktum skal lyde:*
+
+> Rettens leder skriver dommen, om ikke retten bestemmer noe annet.
+>
+
+## § 390
+
+### 2007-02-27 — lov/2007-01-26-3
+
+*§ 390 skal lyde:*
+
+> Gjenåpning kan kreves når en dommer eller et lagrettemedlem som har deltatt i behandlingen av saken, etter loven var utelukket fra dommerstillingen eller ugild, og det er grunn til å anta at dette kan ha hatt betydning for avgjørelsen.
+>
+> Gjenåpning kan likevel ikke kreves av en part som har eller kunne ha gjort feilen gjeldende under saken.
 >
 
 ## § 391
@@ -4063,7 +5236,75 @@ refid: "lov/1981-05-22-25"
 > når en internasjonal domstol eller FNs menneskerettskomité i sak mot Norge har funnet atavgjørelsen er i strid med en folkerettslig regel som Norge er bundet av, og ny behandling må antas å burde føre til en annen avgjørelse, ellersaksbehandlingen som ligger til grunn for avgjørelsen er i strid med en folkerettslig regel som Norge er bundet av, hvis det er grunn til å anta at saksbehandlingsfeilen kan ha innvirket på avgjørelsens innhold, og gjenopptakelse er nødvendig for å bøte på den skade som feilen har medført.
 >
 
+### 2001-06-15 — lov/2001-06-15-64
+
+*§ 391 nr. 3 skal lyde:*
+
+> når det opplyses en ny omstendighet eller skaffes frem et nytt bevis som synes egnet til å føre til frifinnelse eller avvisning eller til anvendelse av en mildere strafferegel eller en vesentlig mildere rettsfølge. I sak hvor det ikke er idømt frihetsstraff, overføring til tvungent psykisk helsevern etter straffeloven § 39, tvungen omsorg etter straffeloven § 39 a eller rettighetstap, kan det ikke påberopes nye opplysninger eller bevis som vedkommende burde ha gjort gjeldende på et tidligere tidspunkt.
+>
+> Nr. 10 endres slik:
+>
+> I endringene i utlendingsloven 24. juni 1988 nr. 64 gjøres følgende endringer:
+>
+
+### 2007-02-27 — lov/2007-01-26-3
+
+*§ 391 innledningen skal lyde:*
+
+> Til gunst for siktede kan gjenåpning kreves:
+>
+
+### 2007-02-27 — lov/2007-01-26-3
+
+*§ 391 nr. 2 bokstav b skal lyde:*
+
+> saksbehandlingen som ligger til grunn for avgjørelsen er i strid med en folkerettslig regel som Norge er bundet av, hvis det er grunn til å anta at saksbehandlingsfeilen kan ha innvirket på avgjørelsens innhold, og gjenåpning er nødvendig for å bøte på den skade som feilen har medført.
+>
+
+## § 392
+
+### 2007-02-27 — lov/2007-01-26-3
+
+*§ 392 første ledd skal lyde:*
+
+> Selv om vilkårene i §§ 390 eller 391 ikke er til stede, kan gjenåpning til gunst for siktede besluttes når Høyesterett har fraveket en lovtolking som den tidligere har lagt til grunn, og som dommen bygger på.
+>
+
+## § 393
+
+### 2007-02-27 — lov/2007-01-26-3
+
+*§ 393 første ledd innledningen skal lyde:*
+
+> Til skade for siktede kan påtalemyndigheten kreve gjenåpning:
+>
+
+### 2007-02-27 — lov/2007-01-26-3
+
+*§ 393 annet ledd skal lyde:*
+
+> Dersom den straffbare handling som påstås forøvd, etter loven ikke kan medføre fengsel i mer enn 3 år, kan gjenåpning bare finne sted på det grunnlag at siktede har gjort seg skyldig i straffbart forhold med hensyn til saken.
+>
+
+## § 394
+
+### 2007-02-27 — lov/2007-01-26-3
+
+*§ 394 skal lyde:*
+
+> Begjæringen settes frem for kommisjonen for gjenopptakelse av straffesaker (gjenopptakelseskommisjonen). Begjæringen må angi den avgjørelsen som angripes, grunnlaget for gjenåpning og bevis av betydning for saken.
+>
+> Dersom særlige grunner taler for det, kan kommisjonen bestemme at en avgjørelse som retter seg mot en avdød person, skal gjenåpnes uten at noen har begjært det.
+>
+
 ## § 395
+
+### 2007-02-27 — lov/2007-01-26-3
+
+*§ 395 tredje ledd skal lyde:*
+
+> Kommisjonens avgjørelser kan bare ankes eller brukes som ankegrunn der det er uttrykkelig sagt i loven. Avgjørelsen treffes med alminnelig flertall hvis den ikke tas av kommisjonens leder eller nestleder.
+>
 
 ### 2007-12-21 — lov/2007-12-21-127
 
@@ -4087,6 +5328,20 @@ refid: "lov/1981-05-22-25"
 >
 
 ## § 397
+
+### 2007-02-27 — lov/2007-01-26-3
+
+*§ 397 første ledd skal lyde:*
+
+> Kommisjonen har plikt til å veilede den som begjærer gjenåpning, slik at han eller hun kan vareta sitt tarv best mulig. Kommisjonen skal av eget tiltak vurdere om siktede har behov for veiledning.
+>
+
+### 2007-02-27 — lov/2007-01-26-3
+
+*§ 397 tredje ledd første punktum skal lyde:*
+
+> Gjelder begjæringen en avgjørelse som etter sin art ikke kan gjenåpnes, eller inneholder den ingen grunn som etter loven kan føre til gjenåpning, kan kommisjonen uten nærmere behandling forkaste begjæringen etter reglene om kjennelse.
+>
 
 ### 2008-03-07 — lov/2008-03-07-5
 
@@ -4154,7 +5409,23 @@ refid: "lov/1981-05-22-25"
 > Om dokumentinnsyn gjelder §§ 28, 242, 242 a, 264, 264 a og 267 tilsvarende.
 >
 
+## § 398 a
+
+### 2007-02-27 — lov/2007-01-26-3
+
+*§ 398 a annet ledd femte punktum skal lyde:*
+
+> Avgjørelsen treffes med alminnelig flertall, og kan bringes inn for lagmannsretten etter reglene om anke over kjennelser og beslutninger.
+>
+
 ## § 399
+
+### 2007-02-27 — lov/2007-01-26-3
+
+*§ 399 første punktum skal lyde:*
+
+> Reglene om kjennelse gjelder for kommisjonens avgjørelse av om gjenåpning skal tillates.
+>
 
 ### 2010-01-15 — lov/2010-01-15-2
 
@@ -4163,16 +5434,21 @@ refid: "lov/1981-05-22-25"
 > Fem medlemmer hvorav tre med juridisk embetseksamen eller mastergrad i rettsvitenskap avgjør om begjæringen skal tas til følge.
 >
 
-## § 4
+## § 40
 
-### 2003-01-01 — forskrift/2002-10-11-1094
+### 2008-03-07 — lov/2008-03-07-4
 
-*§ 4 annet ledd annet punktum skal lyde:*
+*§ 40 annet ledd nytt tredje punktum skal lyde:*
 
-> Det samme gjelder når opptak av en tilståelse skal brukes som grunnlag for tilståelsesdom.
+> Det skal opplyses i domsgrunnene om hvorvidt straffeloven § 78 bokstav f er anvendt, og det bør angis hvilken betydning tilståelsen har hatt for straffutmålingen.
 >
 
-## § 40
+### 2009-06-19 — lov/2009-06-19-74
+
+*§ 40 annet ledd nytt tredje punktum skal lyde:*
+
+> Det skal opplyses i domsgrunnene om hvorvidt straffeloven § 78 bokstav f er anvendt, og det bør angis hvilken betydning tilståelsen har hatt for straffutmålingen.
+>
 
 ### 2010-12-10 — lov/2010-12-10-76
 
@@ -4197,6 +5473,29 @@ refid: "lov/1981-05-22-25"
 > Det skal opplyses i domsgrunnene om hvorvidt straffeloven § 79 bokstav a er anvendt, og det bør pekes på straffenivået for hvert av de mest alvorlige lovbruddene.
 >
 
+## § 400
+
+### 2007-02-27 — lov/2007-01-26-3
+
+*§ 400 første ledd første punktum skal lyde:*
+
+> Er gjenåpning besluttet, skal saken henvises til ny fullstendig behandling ved en domstol som er sideordnet den rett som har avsagt den angrepne dom.
+>
+
+### 2007-02-27 — lov/2007-01-26-3
+
+*§ 400 annet ledd første og annet punktum skal lyde:*
+
+> Er dommen som skal gjenåpnes avsagt av tingretten, sender kommisjonen sin avgjørelse til lagmannsretten, som peker ut en tingrett med tilgrensende rettskrets til å behandle begjæringen. Er dommen avsagt av lagmannsretten, sender kommisjonen sin avgjørelse til Høyesteretts ankeutvalg, som peker ut en lagmannsrett med tilgrensende rettskrets til å behandle begjæringen.
+>
+
+### 2007-02-27 — lov/2007-01-26-3
+
+*§ 400 sjette ledd skal lyde:*
+
+> Beslutninger etter paragrafen her kan ikke ankes eller brukes som ankegrunn.
+>
+
 ## § 400 a
 
 ### 2008-03-07 — lov/2008-03-07-5
@@ -4206,13 +5505,44 @@ refid: "lov/1981-05-22-25"
 > Når gjenåpning er besluttet, gjelder § 264 a tilsvarende så langt det passer.
 >
 
+## § 401
+
+### 2007-02-27 — lov/2007-01-26-3
+
+*§ 401 skal lyde:*
+
+> Overfor kjennelse som avviser en sak, eller som avviser en anke over dom, kommer reglene om gjenåpning av dommer til anvendelse så langt de passer. Det samme gjelder for beslutning som nekter en anke over dom fremmet.
+>
+> Overskriften til sjuende del skal lyde:
+>
+> Private straffesaker og sivile krav
+>
+
 ## § 403
 
 ### 2019-11-01 — lov/2019-11-01-71
 
 *§ 403 tredje ledd andre punktum oppheves.*
 
+## § 407
+
+### 2007-02-27 — lov/2007-01-26-3
+
+*§ 407 femte ledd fjerde punktum skal lyde:*
+
+> For øvrig gjelder reglene om anke over dom fra en saksøker.
+>
+
 ## § 409
+
+### 2013-04-05 — lov/2013-04-05-12
+
+*§ 409 tredje ledd skal lyde:*
+
+> Er fornærmede under 18 år, helt eller delvis fratatt den rettslige handleevnen, antas å være i en tilstand som nevnt i straffeloven § 44, eller er han død, gjelder reglene i straffeloven § 78.
+>
+> 26. I lov 17. desember 1982 nr. 86 om rettsgebyr skal § 10 første ledd nr. 7 lyde:sak om fratakelse av den rettslige handleevnen etter vergemålsloven,
+>
 
 ### 2017-06-16 — lov/2017-06-16-58
 
@@ -4234,6 +5564,31 @@ refid: "lov/1981-05-22-25"
 
 *§ 41 annet ledd annet punktum oppheves.*
 
+## § 410
+
+### 2007-02-27 — lov/2007-01-26-3
+
+*§ 410 annet ledd skal lyde:*
+
+> Ellers kan saksøkeren opptre personlig eller ved prosessfullmektig etter reglene i tvisteloven kapittel 3.
+>
+
+## § 419
+
+### 2007-02-27 — lov/2007-01-26-3
+
+*§ 419 første ledd skal lyde:*
+
+> Om megling og forlik i retten gjelder tvisteloven kapittel 8 I og 19 IV.
+>
+
+### 2007-02-27 — lov/2007-01-26-3
+
+*§ 419 tredje ledd første punktum skal lyde:*
+
+> Uteblir saksøkeren fra rettsmøte som nevnt i § 412 tredje ledd eller § 414 eller fra hovedforhandlingen, uten at det er opplyst eller sannsynlig at han har gyldig fravær, og heller ikke noen prosessfullmektig møter for ham, betraktes han som trådt tilbake.
+>
+
 ## § 42
 
 ### 2001-05-04 — lov/2001-05-04-16
@@ -4254,6 +5609,60 @@ refid: "lov/1981-05-22-25"
 > Dersom siktede er til stede eller deltar i rettsmøtet ved fjernmøteteknikk når saken tas opp til doms, skal retten opplyse hvordan dommen vil bli forkynt.
 >
 
+## § 420
+
+### 2007-02-27 — lov/2007-01-26-3
+
+*§ 420 annet punktum skal lyde:*
+
+> Begjæring om omgjøring må fremsettes innen utløpet av fristen for å anke kjennelsen.
+>
+
+## § 421
+
+### 2007-02-27 — lov/2007-01-26-3
+
+*§ 421 første ledd første punktum skal lyde:*
+
+> Vil saksøkeren anke dommen til lagmannsrett, må han anta en advokat til å utføre saken.
+>
+
+## § 422
+
+### 2007-02-27 — lov/2007-01-26-3
+
+*§ 422 første punktum skal lyde:*
+
+> Møter ingen advokat for saksøkeren ved sakens behandling i Høyesterett eller lagmannsretten eller under rettsmøte som nevnt i § 412 siste ledd eller § 414, og det ikke er opplyst eller sannsynlig at det foreligger gyldig fravær, avvises saken.
+>
+
+## § 423
+
+### 2007-02-27 — lov/2007-01-26-3
+
+*§ 423 første punktum skal lyde:*
+
+> Når saksøkte anker dommen i sak som ikke gjelder ærekrenkelse, overtar påtalemyndigheten forfølgningen og sørger for at ankeerklæringen blir forkynt for saksøkeren.
+>
+
+## § 424
+
+### 2007-02-27 — lov/2007-01-26-3
+
+*§ 424 første ledd skal lyde:*
+
+> Når saksøkte anker dommen i sak om ærekrenkelse, gjelder reglene i § 421 og § 422 første og annet punktum tilsvarende for ham.
+>
+
+## § 425
+
+### 2007-02-27 — lov/2007-01-26-3
+
+*§ 425 skal lyde:*
+
+> Når en anke over dom er avvist etter § 422 eller § 424 første ledd, eller saken er hevet etter § 424 annet ledd, gjelder reglene i § 420 tilsvarende.
+>
+
 ## § 426
 
 ### 2008-03-07 — lov/2008-03-07-5
@@ -4267,6 +5676,27 @@ refid: "lov/1981-05-22-25"
 *§ 427 tredje ledd skal lyde:*
 
 > Det samme gjelder krav mot siktedes foreldre etter lov 13. juni 1969 nr. 26 om skadeserstatning § 1-2 nr. 2 og en ektefelles krav som nevnt i § 3 nr. 7.
+>
+
+### 2007-02-27 — lov/2007-01-26-3
+
+*§ 427 første ledd første punktum skal lyde:*
+
+> I offentlig sak kan påtalemyndigheten på begjæring fremme sivile krav som nevnt i § 3.
+>
+
+### 2007-02-27 — lov/2007-01-26-3
+
+*§ 427 fjerde ledd første punktum skal lyde:*
+
+> Når sivilt krav fremmes mot en annen enn siktede, får vedkommende stilling som part for dette spørsmåls vedkommende.
+>
+
+### 2007-02-27 — lov/2007-01-26-3
+
+*§ 427 fjerde ledd tredje punktum skal lyde:*
+
+> Er dette ikke gjort, kan det sivile kravet bare fremmes i den utstrekning saksøkte samtykker eller retten finner at han likevel har hatt gode nok muligheter til å forberede sitt forsvar.
 >
 
 ### 2008-03-07 — lov/2008-03-07-5
@@ -4306,6 +5736,13 @@ refid: "lov/1981-05-22-25"
 
 ## § 428
 
+### 2007-02-27 — lov/2007-01-26-3
+
+*§ 428 første ledd første punktum skal lyde:*
+
+> Den som har et sivilt krav som nevnt i § 3, kan selv fremme dette i forbindelse med offentlig sak, såfremt hovedforhandling blir holdt.
+>
+
 ### 2008-03-07 — lov/2008-03-07-5
 
 *§ 428 første ledd nytt annet og tredje punktum skal lyde:*
@@ -4342,6 +5779,13 @@ refid: "lov/1981-05-22-25"
 
 ## § 429
 
+### 2007-02-27 — lov/2007-01-26-3
+
+*§ 429 skal lyde:*
+
+> I private straffesaker kan saksøkeren gjøre sivile krav gjeldende på samme måte som påstand om straff.
+>
+
 ### 2021-06-18 — lov/2021-06-18-122
 
 *§ 429 oppheves.*
@@ -4353,6 +5797,13 @@ refid: "lov/1981-05-22-25"
 *§ 43 tredje ledd skal lyde:*
 
 > Er siktede ikke til stede, anses dommen avsagt når den er underskrevet. Retten skal sørge for at dommen snarest mulig forkynnes for siktede, jf. domstolloven § 159 a, med slik opplysning som nevnt i annet ledd. Han skal samtidig spørres om han vedtar dommen.
+>
+
+### 2007-02-27 — lov/2007-01-26-3
+
+*§ 43 første ledd tredje og fjerde punktum skal lyde:*
+
+> Etter at det har vært holdt rådslagning og stemmegivning etter § 31, kan retten enstemmig beslutte at bare rettens leder behøver å være til stede når dommen blir avsagt. I så fall underskrives dommen av de øvrige dommerne før rettens leder avsier dommen ved underskriving eller avlesing.
 >
 
 ### 2008-03-07 — lov/2008-03-07-5
@@ -4369,6 +5820,47 @@ refid: "lov/1981-05-22-25"
 > Dommen avsies i rettsmøte, som kan være et fjernmøte.
 >
 
+## § 43 a
+
+### 2008-03-07 — lov/2008-03-07-4
+
+*Ny § 43 a skal lyde:*
+
+> Når en dom blir lest opp eller forkynt, skal den domfelte gjøres kjent medhva dommen går ut på,eventuelle vilkår for dommen, ogmulige følger av brudd på vilkårene, herunder følger av at den domfelte begår en ny straffbar handling før utløpet av en prøve- eller gjennomføringstid.
+>
+> Dommeren kan gi advarsel og formaning, eventuelt i et særskilt rettsmøte.
+>
+> Hvis den domfelte skal følges opp av kriminalomsorgen, og kriminalomsorgen ikke var til stede da dommen ble avsagt, underretter påtalemyndigheten straks kriminalomsorgen om dommen.
+>
+> § 51 første ledd nytt annet punktum:
+>
+> Reises ny sak om et krav som er avgjort ved rettskraftig dom, skal retten avvise saken av eget tiltak. Det samme gjelder i tilfeller som nevnt i straffeloven § 8.
+>
+
+### 2009-06-19 — lov/2009-06-19-74
+
+*Ny § 43 a skal lyde:*
+
+> Når en dom blir lest opp eller forkynt, skal den domfelte gjøres kjent medhva dommen går ut på,eventuelle vilkår for dommen, ogmulige følger av brudd på vilkårene, herunder følger av at den domfelte begår en ny straffbar handling før utløpet av en prøve- eller gjennomføringstid.
+>
+> Dommeren kan gi advarsel og formaning, eventuelt i et særskilt rettsmøte.
+>
+> Hvis den domfelte skal følges opp av kriminalomsorgen, og kriminalomsorgen ikke var til stede da dommen ble avsagt, underretter påtalemyndigheten straks kriminalomsorgen om dommen.
+>
+> § 51 første ledd nytt annet punktum:
+>
+> Reises ny sak om et krav som er avgjort ved rettskraftig dom, skal retten avvise saken av eget tiltak. Det samme gjelder i tilfeller som nevnt i straffeloven § 8.
+>
+
+## § 431
+
+### 2007-02-27 — lov/2007-01-26-3
+
+*§ 431 skal lyde:*
+
+> Retten kan bestemme at forhandlingen om et sivilt krav skal utsettes til straffesaken er pådømt.
+>
+
 ## § 432
 
 ### 2002-08-30 — lov/2002-08-30-67
@@ -4376,6 +5868,26 @@ refid: "lov/1981-05-22-25"
 *§ 432 annet ledd skal lyde:*
 
 > Når en sak avgjøres ved tilståelsesdom, kan borgerlige krav bare pådømmes i den utstrekning retten finner dem utvilsomme.
+>
+
+### 2007-02-27 — lov/2007-01-26-3
+
+*§ 432 annet, tredje og fjerde ledd skal lyde:*
+
+> Når en sak avgjøres ved tilståelsesdom, kan sivile krav bare pådømmes i den utstrekning retten finner dem utvilsomme.
+>
+> Om frist for oppfyllelse m.m. gjelder reglene i tvisteloven § 19-7.
+>
+> Den som mener å ha ytterligere krav enn det han har fått dom for etter første eller annet ledd, kan reise sak om restkravet etter reglene i tvisteloven.
+>
+
+## § 433
+
+### 2007-02-27 — lov/2007-01-26-3
+
+*§ 433 skal lyde:*
+
+> Etter at hovedforhandling er begynt, kan begjæring om pådømmelse av det sivile kravet ikke tas tilbake uten at kravet samtidig frafalles, med mindre saksøkte eller retten samtykker.
 >
 
 ## § 434
@@ -4402,6 +5914,24 @@ refid: "lov/1981-05-22-25"
 > I sak for Høyesterett gjelder § 323 tilsvarende.
 >
 > Ved gjenopptakelse av straffesak kan en part på samme vilkår som nevnt i første ledd kreve ny behandling av de borgerlige krav dersom fristen i tvistemålsloven § 408 ikke er utløpt.
+>
+
+### 2007-02-27 — lov/2007-01-26-3
+
+*§ 434 første ledd innledningen skal lyde:*
+
+> Ved anke over dom i straffesaken kan partene kreve ny behandling også av de sivile krav dersom vilkårene i §§ 427 til 433 er oppfylt og anken gjelder
+>
+
+### 2007-02-27 — lov/2007-01-26-3
+
+*§ 434 tredje, fjerde og femte ledd skal lyde:*
+
+> Ved gjenåpning av straffesak kan en part på samme vilkår som nevnt i første ledd kreve ny behandling av de sivile krav dersom fristen i tvisteloven § 31-6 ikke er utløpt.
+>
+> Begjæring om behandling av sivile krav sammen med straffesaken må sammen med opplysning om de bevis som vil bli ført, settes fram så tidlig at den annen part har tilstrekkelig tid til å forberede seg på behandlingen.
+>
+> Dersom et sivilt krav ikke avgjøres i straffesaken, skal retten sørge for at melding om dette blir forkynt for den som har krevd ny behandling av spørsmålet. Parten skal samtidig orienteres om adgangen til fortsatt behandling etter tvistelovens regler og om fristen i tredje punktum. Parten må innen én måned etter at slik melding ble forkynt for ham, gi retten melding om at han krever fortsatt behandling av det sivile kravet. Om slikt krav ikke fremsettes, skal denne delen av saken heves.
 >
 
 ### 2008-03-07 — lov/2008-03-07-5
@@ -4435,6 +5965,13 @@ refid: "lov/1981-05-22-25"
 
 ## § 435
 
+### 2007-02-27 — lov/2007-01-26-3
+
+*§ 435 skal lyde:*
+
+> Særskilt anke mot avgjørelsen av sivile krav finner sted etter tvistelovens regler. Det samme gjelder gjenåpning.
+>
+
 ### 2024-12-13 — lov/2024-12-13-78
 
 *§ 435 skal lyde:*
@@ -4442,6 +5979,15 @@ refid: "lov/1981-05-22-25"
 > § 435.Ved gjenåpning av straffesaken kan en part på samme vilkår som nevnt i § 434 første ledd kreve at avgjørelsen av sivile krav gjenåpnes til ny prøving.Gjenåpning av avgjørelsen av sivile krav i andre tilfeller følger tvistelovens regler. Fristen i tvisteloven § 31-6 annet ledd gjelder likevel ikke.Reglene i § 308 gjelder tilsvarende.Ender gjenåpningssaken med frifinnelse for et sivilt krav, skal et tilbakebetalingskrav for utbetalt erstatning dekkes av staten dersom gjenåpning ble begjært mer enn ti år etter at kravet ble pådømt.
 >
 > § 435.
+>
+
+## § 436
+
+### 2007-02-27 — lov/2007-01-26-3
+
+*§ 436 annet ledd første punktum skal lyde:*
+
+> Når avgjørelsen ved anke eller begjæring om gjenåpning fra siktede går ham imot, gjelder regelen i første ledd tilsvarende.
 >
 
 ## § 438
@@ -4462,7 +6008,30 @@ refid: "lov/1981-05-22-25"
 > Dersom en sak som har blitt gjenopptatt ender med frifinnelse, og særlige grunner gjør det rimelig, kan retten helt eller delvis tilkjenne andre enn siktede dekning av omkostninger som knytter seg til tiltak som har hatt vesentlig betydning for at saken ble gjenopptatt.
 >
 
+### 2007-02-27 — lov/2007-01-26-3
+
+*§ 438 tredje ledd skal lyde:*
+
+> Dersom en sak som har blitt gjenåpnet ender med frifinnelse, og særlige grunner gjør det rimelig, kan retten helt eller delvis tilkjenne andre enn siktede dekning av omkostninger som knytter seg til tiltak som har hatt vesentlig betydning for at saken ble gjenåpnet.
+>
+
+## § 439
+
+### 2007-02-27 — lov/2007-01-26-3
+
+*§ 439 første ledd skal lyde:*
+
+> Når fornærmede under en offentlig forfølging selv fremmer sivile krav, gjelder bestemmelsene om erstatning for saksomkostninger i tvisteloven kapittel 20 tilsvarende for omkostninger vedkommende disse krav.
+>
+
 ## § 440
+
+### 2007-02-27 — lov/2007-01-26-3
+
+*§ 440 første ledd skal lyde:*
+
+> I privat sak etter denne lov gjelder bestemmelsene om erstatning for saksomkostninger i tvisteloven kapittel 20 tilsvarende.
+>
 
 ### 2021-06-18 — lov/2021-06-18-122
 
@@ -4477,6 +6046,15 @@ refid: "lov/1981-05-22-25"
 > Avgjørelse om erstatning for saksomkostninger tas i dommen eller i den kjennelse som avslutter saken. Er slik avgjørelse ikke truffet, eller innstilles forfølgningen uten dom eller kjennelse, kan krav om saksomkostninger bringes inn til avgjørelse ved kjennelse av den rett som har hatt saken, eller om ingen rett har hatt saken, den tingrett som saken hører under etter § 12. Kravet settes fram innen en måned etter at det ble adgang til det. Før avgjørelsen treffes, skal motparten ha hatt anledning til å uttale seg.
 >
 
+## § 442
+
+### 2007-02-27 — lov/2007-01-26-3
+
+*§ 442 annet punktum og nytt tredje punktum skal lyde:*
+
+> Ellers kan det ankes på det grunnlag at omkostningsavgjørelsen er avgjort i strid med loven. Slik anke behandles etter reglene i kapittel 26.
+>
+
 ## § 444
 
 ### 2003-01-10 — lov/2003-01-10-3
@@ -4486,6 +6064,13 @@ refid: "lov/1981-05-22-25"
 > Med mindre noe annet følger av § 446, har en siktet rett til erstatning av staten for økonomisk tap som forfølgningen har påført hamdersom han blir frifunnet,dersom forfølgningen mot ham blir innstilt, ellerfor så vidt han har vært pågrepet eller fengslet i strid med Den europeiske menneskerettskonvensjon artikkel 5 eller FNs konvensjon om sivile og politiske rettigheter artikkel 9.
 >
 > En domfelt har også rett til erstatning for økonomisk tap som skyldes fullbyrdet straff som overstiger den straff som idømmes etter gjenopptakelse.
+>
+
+### 2007-02-27 — lov/2007-01-26-3
+
+*§ 444 annet ledd skal lyde:*
+
+> En domfelt har også rett til erstatning for økonomisk tap som skyldes fullbyrdet straff som overstiger den straff som idømmes etter gjenåpning.
 >
 
 ## § 445
@@ -4568,6 +6153,13 @@ refid: "lov/1981-05-22-25"
 > En dommer som har deltatt ved avgjørelsen av straffesaken mot siktede, skal ikke delta ved behandlingen av siktedes krav om erstatning eller oppreisning etter strafforfølgning.
 >
 
+### 2007-02-27 — lov/2007-01-26-3
+
+*§ 449 annet ledd tredje punktum skal lyde:*
+
+> Saken behandles etter reglene i tvisteloven.
+>
+
 ### 2021-06-18 — lov/2021-06-18-122
 
 *§ 449 første ledd skal lyde:*
@@ -4611,6 +6203,17 @@ refid: "lov/1981-05-22-25"
 > I sak om erstatning eller oppreisning etter straffforfølgning har siktede rett til fritt rettsråd uten behovsprøving etter reglene i rettshjelpsloven § 11.
 >
 
+### 2007-02-27 — lov/2007-01-26-3
+
+*§ 450 annet ledd skal lyde:*
+
+> Om sakskostnader ved behandling for retten gjelder reglene i tvisteloven kapittel 20, likevel slik at saksøkeren kan pålegges å erstatte statens sakskostnader bare dersom søksmålet var grunnløst.
+>
+
+### 2007-02-27 — lov/2007-01-26-3
+
+*§ 450 tredje ledd oppheves.*
+
 ## § 451
 
 ### 2003-01-10 — lov/2003-01-10-3
@@ -4631,6 +6234,13 @@ refid: "lov/1981-05-22-25"
 > Angripes en rettskraftig dom ved anke eller er en begjæring om gjenopptakelse tatt til følge, kan den rett som skal behandle saken, ved kjennelse beslutte at fullbyrding helt eller delvis skal utstå.
 >
 
+### 2007-02-27 — lov/2007-01-26-3
+
+*§ 452 annet ledd skal lyde:*
+
+> Angripes en rettskraftig dom ved anke eller er en begjæring om gjenåpning tatt til følge, kan den rett som skal behandle saken, ved kjennelse beslutte at fullbyrding helt eller delvis skal utstå.
+>
+
 ### 2023-12-20 — lov/2023-12-20-110
 
 *§ 452 nytt tredje ledd skal lyde:*
@@ -4639,6 +6249,27 @@ refid: "lov/1981-05-22-25"
 >
 
 ## § 455
+
+### 2003-12-19 — lov/2003-12-19-125
+
+*§ 455 første ledd annet punktum skal lyde:*
+
+> Beslutningen treffes likevel av politiet i sak hvor politiet har tatt ut tiltale etter § 67 annet ledd bokstav b til d.
+>
+
+### 2008-03-07 — lov/2008-03-07-4
+
+*§ 455 første ledd fjerde punktum skal lyde:*
+
+> For dom som beslutter å fullbyrde subsidiær fengselsstraff etter straffeloven § 52 første ledd bokstav a, treffes vedtak om fullbyrding av myndighet som nevnt i lov om straffegjennomføring § 58 annet ledd.
+>
+
+### 2009-06-19 — lov/2009-06-19-74
+
+*§ 455 første ledd fjerde punktum skal lyde:*
+
+> For dom som beslutter å fullbyrde subsidiær fengselsstraff etter straffeloven § 52 første ledd bokstav a, treffes vedtak om fullbyrding av myndighet som nevnt i lov om straffegjennomføring § 58 annet ledd.
+>
 
 ### 2013-06-14 — lov/2013-06-14-44
 
@@ -4655,6 +6286,24 @@ refid: "lov/1981-05-22-25"
 >
 
 ## § 456
+
+### 2008-03-07 — lov/2008-03-07-4
+
+*§ 456 fjerde ledd annet punktum skal lyde:*
+
+> Bot som ikke betales eller lar seg inndrive ved lønnstrekk eller annen tvangsfullbyrding, skal fullbyrdes ved soning av den subsidiære fengselsstraffen når den botlagte har evne til å betale boten eller allmenne hensyn tilsier det.
+>
+> 6. I lov 2. juni 1989 nr. 27 om omsetning av alkoholholdig drikk m.v. skal § 10-3 lyde:
+>
+> Dersom vilkårene for inndragning etter straffeloven er oppfylt, kan påtalemyndigheten beslutte at brennevin og gjærende eller gjæret udestillert væske tilintetgjøres. Det samme gjelder annen alkoholholdig drikk når den er skjenket i glass eller finnes i opptrukket flaske. Beslutning om inndragning av lovlig tilvirket brennevin skal være skriftlig og begrunnet. Eieren eller besitteren skal så vidt mulig underrettes om påtalemyndighetens beslutning ved kopi av beslutningen og kan kreve saken forelagt for retten innen 1 måned etter at beslaget ble foretatt.
+>
+
+### 2009-06-19 — lov/2009-06-19-74
+
+*§ 456 fjerde ledd annet punktum skal lyde:*
+
+> Bot som ikke betales eller lar seg inndrive ved lønnstrekk eller annen tvangsfullbyrding, skal fullbyrdes ved soning av den subsidiære fengselsstraffen når den botlagte har evne til å betale boten eller allmenne hensyn tilsier det.
+>
 
 ### 2011-12-09 — lov/2011-12-09-49
 
@@ -4743,11 +6392,40 @@ refid: "lov/1981-05-22-25"
 
 ## § 468
 
+### 2007-06-15 — lov/2007-06-15-38
+
+*§ 468 annet ledd skal lyde:*
+
+> Domstolloven § 70 første ledd og § 72 gjelder tilsvarende.
+>
+
 ### 2013-06-21 — lov/2013-06-21-82
 
 *§ 468 annet ledd nytt annet punktum skal lyde:*
 
 > For kontroll etter § 72 kan militære myndigheter begjære at det foretas vandelsvurdering etter reglene i politiregisterloven § 45.
+>
+
+## § 47
+
+### 2007-02-27 — lov/2007-01-26-3
+
+*§ 47 skal lyde:*
+
+> Mot beslutninger etter §§ 44-46 kan anke bare erklæres på grunn av feil ved saksbehandlingen eller fordi en retting går videre enn loven hjemler.
+>
+> Når det er begjært retting etter §§ 44 eller 45, løper ingen frist for anke over dommen før spørsmålet er avgjort. Er det anket, skal den overordnede domstol underrettes.
+>
+> Er det foretatt retting etter § 45, løper en ny frist for anke over dommen. Dette skal siktede gis opplysning om når rettingen blir forkynt.
+>
+
+## § 470
+
+### 2007-02-27 — lov/2007-01-26-3
+
+*§ 470 første ledd første punktum skal lyde:*
+
+> Rettens leder eller en dommer skal i tilstrekkelig tid før hovedforhandlingen i saken ta ut militære meddommere ved loddtrekking fra de listene som er nevnt i § 468.
 >
 
 ## § 471
@@ -4804,18 +6482,52 @@ refid: "lov/1981-05-22-25"
 
 ## § 5
 
+### 2001-06-15 — lov/2001-06-15-64
+
+*§ 5 annet ledd skal lyde:*
+
+> Fullbyrding i Norge av en utenlandsk straffereaksjon mot en utilregnelig person kan bare skje etter dom på overføring til tvungent psykisk helsevern etter straffeloven § 39, eller til tvungen omsorg etter straffeloven § 39 a.
+>
+> Del II endres slik:
+>
+> Nr. 3 til 7 skal lyde:Sikringstiltak som er satt i verk når loven trer i kraft, kan fortsette inntil lengstetiden i sikringsbemyndigelsen løper ut eller krav som nevnt i annet punktum eller nr. 4 er rettskraftig avgjort. Hvis påtalemyndigheten mener at særreaksjon fortsatt er nødvendig etter utløpet av lengstetiden, må den reise sak med påstand om idømmelse av særreaksjon etter straffeloven §§ 39, 39 a eller 39 c. Saken må bringes inn for herreds- eller byretten før lengstetiden løper ut. Retten avgjør ved dom om det skal idømmes særreaksjon som nevnt.Den som er idømt sikring, kan kreve at påtalemyndigheten innstiller sikringstiltaket eller reiser sak med påstand om idømmelse av særreaksjon etter straffeloven §§ 39, 39 a eller 39 c. Sak skal så vidt mulig reises innen ett år etter at kravet er satt fram. Nr. 3 siste punktum gjelder tilsvarende.For dom på sikring som ikke er satt i verk når loven trer i kraft, skal påtalemyndigheten såvidt mulig innen ett år etter lovens ikrafttredelse innstille sikringstiltaket eller reise sak for herreds- eller byretten med påstand om idømmelse av særreaksjon etter straffeloven §§ 39, 39 a eller 39 c. Nr. 3 siste punktum gjelder tilsvarende.For en domfelt som er idømt både straff og sikring, kan påstanden i sak som nevnt i nr. 3, 4 og 5 begrenses til at den domfelte skal anses som prøveløslatt etter §§ 39 f og 39 g. Reglene om gjeninnsettelse i § 39 g fjerde og femte ledd gjelder tilsvarende.Inntil den nye dommen er rettskraftig eller sikringsdommen er falt bort, gjelder straffeloven § 39 slik den lød før ikrafttredelsen av lov 17. januar 1997 nr. 11 for gjennomføringen av sikringsdommen.
+>
+
 ### 2002-08-30 — lov/2002-08-30-67
 
 *§ 5 annet ledd oppheves.*
 
-### 2003-01-01 — forskrift/2002-10-11-1094
+## § 51
 
-*§ 5 første ledd skal lyde:*
+### 2008-03-07 — lov/2008-03-07-4
 
-> Bistand i straffesak for tingrett og for lagmannsrett betales med 6 ganger den offentlige salærsats dersom hovedforhandlingen ikke overstiger 2 timer og med 8 ganger den offentlige salærsats dersom hovedforhandlingen ikke overstiger 3,5 timer. For hovedforhandling som overstiger 3,5 timer betales 2,25 ganger den offentlige salærsats for hver time som medgår under hovedforhandling for tingretten, og 2,50 ganger den offentlige salærsats for hver time som medgår under ankeforhandlingen for lagmannsretten.
+*§ 51 annet ledd nytt tredje og fjerde punktum skal lyde:*
+
+> Inndragningssak etter dette ledd kan bare fremmes dersom tiltalte varsles om at slik sak vil bli fremmet senest når hovedforhandlingen i straffesaken starter, før tilståelsesdom avsies eller før forelegg vedtas. Straffedommens avgjørelse av skyldspørsmålet legges uprøvd til grunn i den senere inndragningssaken i den utstrekning den er avgjørende for spørsmålet om inndragning.
+>
+
+### 2009-06-19 — lov/2009-06-19-74
+
+*§ 51 annet ledd nytt tredje og fjerde punktum skal lyde:*
+
+> Inndragningssak etter dette ledd kan bare fremmes dersom tiltalte varsles om at slik sak vil bli fremmet senest når hovedforhandlingen i straffesaken starter, før tilståelsesdom avsies eller før forelegg vedtas. Straffedommens avgjørelse av skyldspørsmålet legges uprøvd til grunn i den senere inndragningssaken i den utstrekning den er avgjørende for spørsmålet om inndragning.
 >
 
 ## § 52
+
+### 2007-02-27 — lov/2007-01-26-3
+
+*§ 52 annet ledd skal lyde:*
+
+> Retten sørger for at en kjennelse snarest mulig blir meddelt siktede eller andre som den angår. Er det adgang til anke, skal retten gi vedkommende opplysning om frist og fremgangsmåte.
+>
+
+### 2007-02-27 — lov/2007-01-26-3
+
+*§ 52 tredje ledd fjerde punktum skal lyde:*
+
+> Forsvareren kan anke avgjørelsen på den siktedes vegne.
+>
 
 ### 2013-06-21 — lov/2013-06-21-86
 
@@ -4840,6 +6552,13 @@ refid: "lov/1981-05-22-25"
 *§ 55 første ledd nr. 3 skal lyde:*
 
 > politimestrene, visepolitimestrene, sjefen for Politiets sikkerhetstjeneste, politiinspektørene, politiadvokatene, politiadjutantene, og politifullmektigene for så vidt de har juridisk embetseksamen og gjør tjeneste i embete eller stilling som er tillagt påtalemyndighet,
+>
+
+### 2005-06-10 — lov/2005-06-10-48
+
+*§ 55 første ledd nr. 1 til 3 skal lyde:*
+
+> Påtalemyndighetens tjenestemenn er:riksadvokaten og den assisterende riksadvokaten,statsadvokatene, statsadvokatfullmektigene og hjelpestatsadvokatene,politimestrene, visepolitimestrene, sjefen og den assisterende sjefen for Politiets Sikkerhetstjeneste, sjefen og den assisterende sjefen for Nye Kripos, politiinspektørene, politiadvokatene, og politifullmektigene for så vidt de har juridisk embetseksamen og gjør tjeneste i embete eller stilling som er tillagt påtalemyndighet,
 >
 
 ### 2010-01-15 — lov/2010-01-15-2
@@ -4975,6 +6694,15 @@ refid: "lov/1981-05-22-25"
 
 ## § 59
 
+### 2001-03-02 — lov/2001-03-02-7
+
+*§ 59 skal lyde:*
+
+> Det som er bestemt i § 58, gjelder også for den som før han ennå vet at han er mistenkt, så vidt mulig og i det vesentlige har forebygget eller gjenopprettet de skadelige følger av handlingen.
+>
+> Har siktede avgitt en uforbeholden tilståelse, skal retten ta dette i betraktning ved straffutmålingen. Retten kan nedsette straffen under det for handlingen bestemte lavmål og til en mildere straffart.
+>
+
 ### 2021-06-18 — lov/2021-06-18-122
 
 *§ 59 første ledd nytt annet og tredje punktum skal lyde:*
@@ -4983,6 +6711,13 @@ refid: "lov/1981-05-22-25"
 >
 
 ## § 59 a
+
+### 2004-03-05 — lov/2004-03-05-13
+
+*§ 59 a første ledd skal lyde:*
+
+> Følgende vedtak av påtalemyndigheten kan med de begrensninger som følger av annet ledd, påklages til nærmeste overordnet påtalemyndighet:henleggelse,påtaleunnlatelse,utferdigelse av forelegg,utferdigelse av tiltalebeslutning,vedtak etter § 459 (soningsutsettelse).Riksadvokatens vedtak kan ikke påklages. Vedtak som nevnt i § 67 sjette ledd, kan påklages til riksadvokaten.
+>
 
 ### 2008-03-07 — lov/2008-03-07-5
 
@@ -5016,12 +6751,16 @@ refid: "lov/1981-05-22-25"
 
 ## § 6
 
-### 2003-01-01 — forskrift/2002-10-11-1094
+### 2007-02-27 — lov/2007-01-26-3
 
-*§ 6 første ledd skal lyde:*
+*§ 6 nr. 1 skal lyde:*
 
-> Under hovedforhandling i tingrett og i lagmannsrett kan lydopptak av forhandlinger foretas når retten finner grunn til det.
+> anke i saker som er behandlet ved tingretten og
 >
+
+### 2007-02-27 — lov/2007-01-26-3
+
+*§ 6 nr. 2 oppheves. Nåværende nr. 3 blir nr. 2.*
 
 ## § 61 c
 
@@ -5054,6 +6793,24 @@ refid: "lov/1981-05-22-25"
 >
 
 ## § 62 a
+
+### 2008-03-07 — lov/2008-03-07-4
+
+*Ny § 62 a skal lyde:*
+
+> Den offentlige påtalemyndighet skal påtale straffbare handlinger når ikke annet er bestemt ved lov.
+>
+> For overtredelse av straffebud med en strafferamme på fengsel i 2 år eller lavere kan påtale unnlates hvis ikke allmenne hensyn tilsier påtale. Ved vurderingen av om allmenne hensyn foreligger, legges det blant annet vekt på overtredelsens grovhet, hensynet til den alminnelig lovlydighet og om den fornærmede, en annen som har lidt skade ved overtredelsen, eller vedkommende berørte myndighet ønsker påtale.
+>
+
+### 2009-06-19 — lov/2009-06-19-74
+
+*Ny § 62 a skal lyde:*
+
+> Den offentlige påtalemyndighet skal påtale straffbare handlinger når ikke annet er bestemt ved lov.
+>
+> For overtredelse av straffebud med en strafferamme på 2 år eller lavere kan påtale unnlates hvis ikke allmenne hensyn tilsier påtale. Ved vurderingen av om allmenne hensyn foreligger, legges det blant annet vekt på overtredelsens grovhet, hensynet til den alminnelig lovlydighet og om den fornærmede, en annen som har lidt skade ved overtredelsen, eller vedkommende berørte myndighet ønsker påtale.
+>
 
 ### 2020-12-04 — lov/2020-12-04-135
 
@@ -5095,6 +6852,20 @@ refid: "lov/1981-05-22-25"
 > forbrytelser ved trykt skrift eller i kringkastingssending, unntatt forbrytelse mot straffeloven § 204 og § 204 a.
 >
 
+### 2008-03-07 — lov/2008-03-07-4
+
+*§ 65 nytt nr. 4 skal lyde:*
+
+> sak mot utlending som ikke er bosatt i Norge, jf. straffeloven § 5 tredje ledd. Dette gjelder likevel ikke når strafforfølgning her i landet finner sted i samsvar med overenskomst med fremmed stat om overføring av straffesaker.
+>
+
+### 2009-06-19 — lov/2009-06-19-74
+
+*§ 65 nytt nr. 4 skal lyde:*
+
+> sak mot utlending som ikke er bosatt i Norge, jf. straffeloven § 5 tredje ledd. Dette gjelder likevel ikke når strafforfølgning her i landet finner sted i samsvar med overenskomst med fremmed stat om overføring av straffesaker.
+>
+
 ### 2013-06-21 — lov/2013-06-21-85
 
 *§ 65 nr. 1 skal lyde:*
@@ -5132,6 +6903,13 @@ refid: "lov/1981-05-22-25"
 
 ## § 66
 
+### 2003-12-19 — lov/2003-12-19-125
+
+*§ 66 skal lyde:*
+
+> Statsadvokaten avgjør spørsmålet om tiltale i saker om forbrytelser når det ikke hører under Kongen i statsråd, riksadvokaten eller politiet.
+>
+
 ### 2019-11-01 — lov/2019-11-01-71
 
 *§ 66 skal lyde:*
@@ -5153,6 +6931,38 @@ refid: "lov/1981-05-22-25"
 *§ 67 femte ledd skal lyde:*
 
 > Sjefen for Politiets sikkerhetstjeneste har den myndighet som er nevnt i første ledd i de saker Kongen bestemmer.
+>
+
+### 2003-12-19 — lov/2003-12-19-125
+
+*§ 67 annet og tredje ledd skal lyde:*
+
+> Hvis ikke annet er bestemt i loven her, avgjør politiet spørsmålet om tiltale i saker omforseelser,forbrytelser som etter loven ikke kan medføre straff av fengsel i mer enn ett år, med unntak av saker etter straffeloven kapittel 12 og §§ 176 annet ledd, 198 og 237,forbrytelse mot straffeloven §§ 147 annet ledd annet punktum, jf. tredje ledd, 162 første ledd, jf. fjerde og femte ledd, 162 b første ledd, jf. tredje og fjerde ledd, 182 til 190, 227 første ledd første punktum, 228 annet ledd første straffalternativ, jf. 232, 229 første straffalternativ, jf. 232, 255, 257, 258, 260, 270, 271, 271 a, 286, jf. 288, 292 og 317 første, tredje og femte ledd, ogforbrytelse mot militær straffelov § 34 annet ledd annet straffalternativ, jf. tredje ledd, tolloven § 66, merverdiavgiftsloven § 72, ligningsloven § 12-1, utlendingsloven § 47 annet ledd, jf. femte ledd og regnskapsloven § 8-5 første ledd første og tredje punktum, jf. tredje ledd første punktum.
+>
+> I saker som nevnt i bokstav b til d, avgjør politimesteren spørsmålet om tiltale. Etter generelle retningslinjer gitt av riksadvokaten kan politimesteren med skriftlig samtykke fra førstestatsadvokaten beslutte at også andre tjenestemenn med juridisk embetseksamen innen påtalemyndigheten i politiet skal ha slik myndighet. Alle tjenestemenn innen påtalemyndigheten i politiet kan likevel utferdige forelegg i saker som nevnt i annet ledd bokstav b.
+>
+
+### 2004-03-05 — lov/2004-03-05-13
+
+*§ 67 sjette og nytt syvende ledd skal lyde:*
+
+> I saker som gjelder anmeldelse av embets- eller tjenestemenn i politiet eller påtalemyndigheten for å ha begått en straffbar handling i tjenesten, skal etterforskingen foretas og ledes av et eget sentralt organ etter nærmere fastsatte regler. Det samme gjelder når påtalemyndigheten finner at det foreligger mistanke om straffbar handling i tjenesten som tilsier at etterforsking igangsettes mot noen person som nevnt i første punktum eller når en mistenkt selv begjærer etterforsking. Lederen eller en annen i organet med juridisk embetseksamen som lederen gir fullmakt i henhold til generelle retningslinjer gitt av riksadvokaten, avgjør spørsmålet om tiltale når påtalespørsmålet ikke hører under Kongen i statsråd eller riksadvokaten. I saker der organet avgjør spørsmålet om tiltale, utføres aktoratet av lederen av organet eller av en annen i organet som lederen gir fullmakt. Riksadvokaten kan instruere organet.
+>
+> Kongen kan bestemme at det etableres regionale kontorer underlagt den sentrale enheten hvor de som utøver etterforsking er ansatte i etterforskingsetaten og uavhengig fra politi- og påtalemyndigheten.
+>
+
+### 2007-02-27 — lov/2007-01-26-3
+
+*§ 67 første ledd skal lyde:*
+
+> Politiet kan etterforske og reise siktelse i alle saker, herunder begjære rettens avgjørelse om bruk av tvangsmidler etter kap 14-17 og anke slike avgjørelser.
+>
+
+### 2008-12-12 — lov/2008-12-12-94
+
+*§ 67 annet ledd bokstav d skal lyde:*
+
+> forbrytelse mot militær straffelov § 34 annet ledd annet straffalternativ, jf. tredje ledd, lov om toll og vareførsel § 16-7, merverdiavgiftsloven § 72, ligningsloven § 12-1, utlendingsloven § 47 annet ledd, jf. femte ledd, regnskapsloven § 8-5 første ledd første og tredje punktum, jf. tredje ledd første punktum og bokføringsloven § 15 første ledd første og tredje punktum, jf. tredje ledd første punktum.
 >
 
 ### 2010-01-15 — lov/2010-01-15-2
@@ -5188,6 +6998,13 @@ refid: "lov/1981-05-22-25"
 *§ 67 tredje ledd tredje punktum skal lyde:*
 
 > Alle tjenestemenn innen påtalemyndigheten i politiet kan likevel utferdige forelegg i saker som nevnt i annet ledd bokstav b og i saker om overtredelse av straffeloven § 228 jf. § 232.
+>
+
+### 2016-04-22 — lov/2016-04-22-3
+
+*§ 67 niende ledd skal lyde:*
+
+> Med tjenestemenn i politiet menes i sjette og åttende ledd også politihøgskolestudenter som er i praksis, og innkalte mannskaper fra politireserven.
 >
 
 ### 2019-11-01 — lov/2019-11-01-71
@@ -5226,6 +7043,47 @@ refid: "lov/1981-05-22-25"
 >
 
 ## § 68
+
+### 2003-12-19 — lov/2003-12-19-125
+
+*§ 68 første til tredje ledd skal lyde:*
+
+> Den myndighet som har besluttet tiltale, gjør vedtak om anke.
+>
+> Fra regelen i første ledd gjelder følgende unntak:riksadvokaten treffer vedtak om anke i saker som nevnt i § 64 første ledd,statsadvokaten treffer vedtak om anke i saker der politiet har tatt ut tiltale etter § 67 annet ledd bokstav c eller d, og i så fall også for forhold i saken der politiet har tatt ut tiltale etter § 67 annet ledd bokstav a eller b. Politiet kan likevel vedta dommen.Kongen kan ved forskrift gjøre andre unntak fra regelen i første ledd for særskilte straffebestemmelser.
+>
+> Når politiet treffer vedtak om anke etter regelen i første ledd, tar politimesteren avgjørelsen. I politimesterens fravær kan hans eller hennes faste stedfortreder ta avgjørelsen. Politimesteren kan, med skriftlig samtykke fra førstestatsadvokaten, bestemme at også andre tjenestemenn med juridisk embetseksamen i ledende stillinger innen påtalemyndigheten i politiet skal ha samme ankekompetanse som politimesterens faste stedfortreder.
+>
+
+### 2007-02-27 — lov/2007-01-26-3
+
+*§ 68 første ledd skal lyde:*
+
+> Den myndighet som har besluttet tiltale, gjør vedtak om anke over dom.
+>
+
+### 2007-02-27 — lov/2007-01-26-3
+
+*§ 68 fjerde og femte ledd skal lyde:*
+
+> Anke mot kjennelse om avvisning erklæres av den som har myndighet til å anke en dom. Den som utfører saken, erklærer anke over øvrige kjennelser og beslutninger.
+>
+> Riksadvokaten gjør vedtak om å begjære gjenåpning.
+>
+
+### 2008-03-07 — lov/2008-03-07-4
+
+*§ 68 sjette ledd skal lyde:*
+
+> Anke over tingrettens avgjørelse i sak etter straffeloven § 52 første ledd bokstav a, treffes av myndighet som nevnt i lov om straffegjennomføring § 58 annet ledd. Anke over lagmannsrettens dom i sak som nevnt i første punktum, besluttes av statsadvokaten. § 310 tredje ledd gjelder tilsvarende.
+>
+
+### 2009-06-19 — lov/2009-06-19-74
+
+*§ 68 sjette ledd skal lyde:*
+
+> Anke over tingrettens avgjørelse i sak etter straffeloven § 52 første ledd bokstav a, treffes av myndighet som nevnt i lov om straffegjennomføring § 58 annet ledd. Anke over lagmannsrettens dom i sak som nevnt i første punktum, besluttes av statsadvokaten. § 310 tredje ledd gjelder tilsvarende.
+>
 
 ### 2010-01-15 — lov/2010-01-15-2
 
@@ -5278,6 +7136,28 @@ refid: "lov/1981-05-22-25"
 > Unnlatelse av påtale kan også gjøres betinget av slike vilkår som er nevnt i straffeloven § 53 nr. 2, nr. 3 bokstavene a – h, nr. 4 og nr. 5.
 >
 
+### 2008-03-07 — lov/2008-03-07-4
+
+*§ 69 skal lyde:*
+
+> Selv om straffskyld anses bevist, kan påtalemyndigheten når helt særlige grunner tilsier det, unnlate å påtale handlingen.
+>
+> Påtaleunnlatelse kan gis på vilkår av at siktede i prøvetiden ikke gjør seg skyldig i noen ny straffbar handling. Prøvetiden er 2 år fra den dag det blir besluttet å unnlate påtale, men ikke lenger enn foreldelsesfristen for adgangen til å reise straffesak for handlingen.
+>
+> Påtaleunnlatelse kan også gis på vilkår som nevnt i straffeloven §§ 35, 36 og 37 bokstavene a til i. Gir siktedes forhold grunn til det, kan påtalemyndigheten i prøvetiden oppheve eller endre fastsatte vilkår og sette nye vilkår. Den siktede skal så vidt mulig få uttale seg om vilkårene før de fastsettes.
+>
+
+### 2009-06-19 — lov/2009-06-19-74
+
+*§ 69 skal lyde:*
+
+> Selv om straffskyld anses bevist, kan påtalemyndigheten når helt særlige grunner tilsier det, unnlate å påtale handlingen.
+>
+> Påtaleunnlatelse kan gis på vilkår av at siktede i prøvetiden ikke gjør seg skyldig i noen ny straffbar handling. Prøvetiden er 2 år fra den dag det blir besluttet å unnlate påtale, men ikke lenger enn foreldelsesfristen for adgangen til å reise straffesak for handlingen.
+>
+> Påtaleunnlatelse kan også gis på vilkår som nevnt i straffeloven §§ 35, 36 og 37 bokstavene a til i. Gir siktedes forhold grunn til det, kan påtalemyndigheten i prøvetiden oppheve eller endre fastsatte vilkår og sette nye vilkår. Den siktede skal så vidt mulig få uttale seg om vilkårene før de fastsettes.
+>
+
 ### 2012-01-20 — lov/2012-01-20-6
 
 *§ 69 annet ledd nytt tredje punktum skal lyde:*
@@ -5304,6 +7184,15 @@ refid: "lov/1981-05-22-25"
 *§ 69 tredje ledd første punktum skal lyde:*
 
 > Påtaleunnlatelse kan også gis på vilkår som nevnt i straffeloven § 35, § 36 og § 37 første ledd bokstavene a til h og j.
+>
+
+## § 7
+
+### 2007-02-27 — lov/2007-01-26-3
+
+*§ 7 nytt annet punktum skal lyde:*
+
+> Anke over kjennelser og beslutninger avgjøres av Høyesteretts ankeutvalg.
 >
 
 ## § 71
@@ -5379,6 +7268,13 @@ refid: "lov/1981-05-22-25"
 > Tiltale må i så fall være reist eller begjæring om tilståelsesdom fremsatt innen tre måneder etter utløpet av prøvetiden.
 >
 
+### 2007-02-27 — lov/2007-01-26-3
+
+*§ 74 sjette ledd skal lyde:*
+
+> Ellers kan en forfølging bare tas opp på ny ved omgjøring av overordnet myndighet etter § 75 annet ledd, ved avgjørelse i klagesak etter § 59 a eller når vilkårene for gjenåpning er oppfylt.
+>
+
 ## § 76
 
 ### 2001-05-18 — lov/2001-05-18-21
@@ -5388,11 +7284,39 @@ refid: "lov/1981-05-22-25"
 > Ved rettsmøter i forhørsretten om fullbyrding av subsidiær fengselsstraff etter straffeloven § 28 b første ledd eller av reststraff etter prøveløslatelse etter straffegjennomføringsloven § 44 annet ledd, kan tilsatte i kriminalomsorgen møte.
 >
 
+### 2001-06-15 — lov/2001-06-15-64
+
+*§ 76 tredje ledd første punktum skal lyde:*
+
+> Saker ved lagmannsrett og herreds- eller byrett som gjelder forbrytelse som etter loven kan medføre fengsel i mer enn 6 år, eller sak hvor påtalemyndigheten vil påstå idømmelse av særreaksjon, skal under hoved- og ankeforhandling føres av en statsadvokat.
+>
+
 ### 2002-08-30 — lov/2002-08-30-67
 
 *§ 76 annet ledd fjerde punktum skal lyde:*
 
 > Det samme gjelder for rettsmøter utenfor hovedforhandling.
+>
+
+### 2003-12-19 — lov/2003-12-19-125
+
+*§ 76 fjerde ledd skal lyde:*
+
+> Når politiet har tatt ut tiltale i en sak, skal saken for tingretten som regel føres av en polititjenestemann som hører til påtalemyndigheten.
+>
+
+### 2008-03-07 — lov/2008-03-07-4
+
+*§ 76 femte ledd skal lyde:*
+
+> Ved rettsmøter i tingretten og lagmannsretten om fullbyrding av subsidiær fengselsstraff etter straffeloven § 52 første ledd bokstav a eller av reststraff etter prøveløslatelse etter straffegjennomføringsloven § 44 annet ledd, kan tilsatte i kriminalomsorgen møte. Bestemmelser om påtalemyndighetens rettigheter og plikter gjelder tilsvarende.
+>
+
+### 2009-06-19 — lov/2009-06-19-74
+
+*§ 76 femte ledd skal lyde:*
+
+> Ved rettsmøter i tingretten og lagmannsretten om fullbyrding av subsidiær fengselsstraff etter straffeloven § 52 første ledd bokstav a eller av reststraff etter prøveløslatelse etter straffegjennomføringsloven § 44 annet ledd, kan tilsatte i kriminalomsorgen møte. Bestemmelser om påtalemyndighetens rettigheter og plikter gjelder tilsvarende.
 >
 
 ### 2010-01-15 — lov/2010-01-15-2
@@ -5437,6 +7361,24 @@ refid: "lov/1981-05-22-25"
 > Rettens fastsetting kan påkjæres etter reglene i rettshjelpslovens § 27.
 >
 
+### 2007-02-27 — lov/2007-01-26-3
+
+*§ 78 annet ledd annet punktum skal lyde:*
+
+> Rettens fastsetting kan ankes etter reglene i rettshjelploven § 27.
+>
+
+## § 8
+
+### 2007-02-27 — lov/2007-01-26-3
+
+*§ 8 skal lyde:*
+
+> Med samtykke av Høyesteretts ankeutvalg kan en anke over dom som hører under lagmannsrett, bringes direkte inn for Høyesterett når anken gjelder et spørsmål av betydning utenfor den foreliggende sak, eller det er særlig viktig å få saken hurtig avgjort.
+>
+> Søknad om samtykke fremsettes sammen med ankeerklæringen og sendes med sakens dokumenter til ankeutvalget. Før samtykke gis, skal motparten ha fått adgang til å uttale seg.
+>
+
 ## § 80
 
 ### 2021-06-18 — lov/2021-06-18-122
@@ -5465,7 +7407,36 @@ refid: "lov/1981-05-22-25"
 
 *§ 81 a oppheves.*
 
+## § 82
+
+### 2007-12-21 — lov/2007-12-21-126
+
+*§ 82 tredje ledd nytt tredje punktum skal lyde:*
+
+> Ved skjult etterforskning får mistenkte heller ikke stilling som siktet ved at påtalemyndigheten begjærer nekting av innsyn etter § 242 a.
+>
+> Noverande tredje punktum vert nytt fjerde punktum.
+>
+
+## § 83
+
+### 2013-04-05 — lov/2013-04-05-12
+
+*§ 83 skal lyde:*
+
+> § 83.
+>
+> Er siktede under 18 år, har også hans verge partsrettigheter. Dersom vergen ikke kan eller vil vareta siktedes tarv i saken, skal fylkesmannen oppnevne en midlertidig verge som har partsrettigheter i stedet for den opprinnelige vergen.
+>
+
 ## § 84
+
+### 2013-04-05 — lov/2013-04-05-12
+
+*§ 84 annet ledd fjerde punktum skal lyde:*
+
+> Har han ikke verge, skal det oppnevnes verge.
+>
 
 ### 2020-12-04 — lov/2020-12-04-135
 
@@ -5496,11 +7467,44 @@ refid: "lov/1981-05-22-25"
 > Skal en dom i straffesak forkynnes for siktede, kan påtalemyndigheten beslutte at han kan pågripes for å få gjennomført forkynnelsen dersom det har gått mer enn én måned siden dommen ble avsagt og forsøk på å forkynne dommen ikke har lykkes.
 >
 
+### 2007-02-27 — lov/2007-01-26-3
+
+*§ 88 første ledd første punktum skal lyde:*
+
+> Dersom en siktet som er stevnet i samsvar med § 42 annet ledd jf domstolloven § 159 a eller § 86 og § 87 første eller tredje ledd, uteblir fra rettsmøtet eller fra fremmøteforkynnelsen uten at det er opplyst at han har gyldig fravær, kan retten beslutte at han skal pågripes for straks å fremstilles eller for å holdes fengslet inntil han kan bli fremstilt.
+>
+
 ### 2016-12-16 — lov/2016-12-16-96
 
 *§ 88 første ledd første punktum skal lyde:*
 
 > Dersom en siktet som er stevnet i samsvar med § 42 annet ledd eller domstolloven § 159 b, jf. domstolloven § 159 a annet eller tredje ledd, eller § 86 og § 87 første eller tredje ledd, uteblir fra rettsmøtet eller fra fremmøteforkynnelsen uten at det er opplyst at han har gyldig fravær, kan retten beslutte at han skal pågripes for straks å fremstilles eller for å holdes fengslet inntil han kan bli fremstilt.
+>
+
+## § 9
+
+### 2007-02-27 — lov/2007-01-26-3
+
+*§ 9 oppheves.*
+
+## § 91
+
+### 2007-02-27 — lov/2007-01-26-3
+
+*§ 91 første ledd og annet ledd første punktum skal lyde:*
+
+> Rettens leder spør siktede om han er villig til å forklare seg og oppfordrer ham i så fall til å forklare seg sannferdig.
+>
+> Siktede avhøres først av rettens leder.
+>
+
+## § 93
+
+### 2007-02-27 — lov/2007-01-26-3
+
+*§ 93 annet ledd skal lyde:*
+
+> Nekter siktede å svare, eller forklarer han seg forbeholdent, kan rettens leder gjøre ham oppmerksom på at dette kan bli ansett for å tale mot ham.
 >
 
 ## § 93 a
@@ -5581,6 +7585,13 @@ refid: "lov/1981-05-22-25"
 
 ## § 96
 
+### 2001-06-15 — lov/2001-06-15-64
+
+*§ 96 femte ledd skal lyde:*
+
+> Vil påtalemyndigheten påstå idømt en særreaksjon, skal siktede alltid ha forsvarer under hovedforhandlingen.
+>
+
 ### 2012-01-20 — lov/2012-01-20-6
 
 *§ 96 nytt tredje ledd skal lyde:*
@@ -5605,6 +7616,20 @@ refid: "lov/1981-05-22-25"
 >
 
 ## § 98
+
+### 2008-03-07 — lov/2008-03-07-4
+
+*§ 98 nytt fjerde ledd skal lyde:*
+
+> Bestemmelsene om rett til forsvarer i paragrafen her gjelder tilsvarende i saker om pågripelse eller varetektsfengsling etter § 173 a, jf. § 184 annet ledd.
+>
+
+### 2009-06-19 — lov/2009-06-19-74
+
+*§ 98 nytt fjerde ledd skal lyde:*
+
+> Bestemmelsene om rett til forsvarer i paragrafen her gjelder tilsvarende i saker om pågripelse eller varetektsfengsling etter § 173 a, jf. § 184 annet ledd.
+>
 
 ### 2012-01-20 — lov/2012-01-20-6
 

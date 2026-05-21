@@ -454,6 +454,19 @@ refid: "lov/1992-12-04-127"
 
 ## § 3-3
 
+### 2005-06-17 — lov/2005-06-17-98
+
+*Ny § 3-3 skal lyda:*
+
+> § 3-3.Forbud mot skjult reklame
+>
+> Kringkasteren skal ikke sende innslag som inneholder skjult reklame.
+>
+> § 3-4 tredje ledd skal lyda:
+>
+> Sponsede program skal ikke oppmuntre til kjøp eller leie av sponsors eller tredje parts produkt eller tjenester, herunder ved å inneholde spesielle salgsfremmende henvisninger til slike produkt eller tjenester, jf. likevel § 3-5.
+>
+
 ### 2012-12-14 — lov/2012-12-14-91
 
 *§ 3-3 skal lyde:*
@@ -523,6 +536,17 @@ refid: "lov/1992-12-04-127"
 >
 
 ## § 3-5
+
+### 2005-06-17 — lov/2005-06-17-98
+
+*Ny § 3-5 skal lyda:*
+
+> § 3-5.Premier i kringkastingsprogram
+>
+> I program der det forekommer premier får §§ 3-3 og 3-4 tredje ledd ikke anvendelse for premiepresentasjonen så lenge denne ikke er mer omfattende enn den informasjonen som med rimelighet er nødvendig for å orientere publikum om premien. Presentasjonen må ikke omfatte opplysninger om giveren eller andre av giverens produkter. Muntlig opplysning om hvem som er giver, er likevel tillatt. Det skal særlig vises varsomhet ved presentasjon av premier i barneprogram.
+>
+> Kongen kan i forskrift gi nærmere regler om utforming av premiepresentasjoner.
+>
 
 ### 2017-06-16 — lov/2017-06-16-68
 
@@ -641,6 +665,13 @@ refid: "lov/1992-12-04-127"
 >
 
 ## § 4-5
+
+### 2009-06-19 — lov/2009-06-19-74
+
+*§ 4-5 første ledd bokstav d skal lyde:*
+
+> sender program som norsk rett har funnet stridende mot straffeloven § 185.
+>
 
 ### 2012-12-14 — lov/2012-12-14-91
 
@@ -857,6 +888,28 @@ refid: "lov/1992-12-04-127"
 > Den som mot vederlag tilbyr fjernsynssendinger ved kringkasting eller formidling av kringkasting, plikter å gi Norsk rikskringkasting AS opplysninger om sine kunders navn, adresse og fødselsdato. Plikten gjelder bare for kundeforhold som ble inngått før 1. januar 2020.
 >
 
+## § 10-1
+
+### 2009-06-19 — lov/2009-06-19-74
+
+*§ 10-1 første ledd siste punktum oppheves.*
+
+### 2009-06-19 — lov/2009-06-19-74
+
+*§ 10-1 tredje ledd første punktum skal lyde:*
+
+> Overtredelse av bestemmelser gitt i eller i medhold av kapittel 9, jf. § 10-1 første ledd, kan straffes uten hinder av de begrensninger som følger av straffeloven §§ 4-8 og straffeprosessloven § 65 nr. 4.
+>
+
+### 2009-06-19 — lov/2009-06-19-74
+
+*§ 10-1 fjerde ledd oppheves.*
+
+> 152. I lov 4. desember 1992 nr. 130 om husdyravl skal § 7 lyde:
+>
+> Den som overtrer bestemmelser gitt i eller i medhold av denne lov straffes med bøter eller med fengsel inntil tre måneder.
+>
+
 ## § 10-2
 
 ### 2025-02-28 — lov/2025-02-28-2
@@ -894,6 +947,25 @@ refid: "lov/1992-12-04-127"
 >
 
 ## § 10-4
+
+### 2005-06-17 — lov/2005-06-17-98
+
+*Ny § 10-4 skal lyda:*
+
+> § 10-4.Tvangsmulkt
+>
+> For å sikre at plikter etter bestemmelsene i kapittel 2, 3 og 4 og § 6-4, § 8-1 og § 8-2 eller forskrift eller enkeltvedtak fastsatt i medhold av disse bestemmelsene blir oppfylt, kan Medietilsynet ilegge den ansvarlige for oppfyllelsen tvangsmulkt.
+>
+> Tvangsmulkten kan fastsettes som en løpende mulkt eller som et engangsbeløp. Ved løpende mulkt kan Medietilsynet bestemme at mulkten enten skal begynne å løpe en uke etter vedtaket om tvangsmulkt, eller fra en særskilt fastsatt frist for oppfyllelse av plikten dersom denne fristen er utløpt uten at plikten er oppfylt. Ved tvangsmulkt i form av et engangsbeløp kan Medietilsynet bestemme at mulkten skal betales ved en særskilt fastsatt frist for oppfyllelse av plikten dersom denne fristen er utløpt uten at plikten er oppfylt.
+>
+> Tvangsmulkt tilfaller statskassen og er tvangsgrunnlag for utlegg.
+>
+> Medietilsynet kan i særlige tilfeller redusere eller frafalle påløpt tvangsmulkt.
+>
+> Kongen kan i forskrift fastsette nærmere bestemmelser om ileggelse av tvangsmulkt, herunder om vilkår for tvangsmulkt og om tvangsmulktens størrelse og renter ved forsinket betaling.
+>
+> Noverande §§ 10-4 og 10-5 blir §§ 10-5 og 10-6.
+>
 
 ### 2009-06-19 — lov/2009-06-19-92
 
@@ -951,6 +1023,47 @@ refid: "lov/1992-12-04-127"
 ### 2003-01-31 — lov/2003-01-31-8
 
 *Nåværende § 8-2 femte ledd blir § 8-2 fjerde ledd.*
+
+### 2005-06-17 — lov/2005-06-17-98
+
+*Overskrifta til kapittel 4 skal lyda:*
+
+> Videresending i kringkastingsnett mv.
+>
+> § 4-4 tredje ledd skal lyda:
+>
+> Dersom valg av hvilke kringkastingssendinger som skal videresendes i kabelnettet ikke er gjennomført i samsvar med bestemmelsene i eller i medhold av denne lov, kan Medietilsynet pålegge kabeleier eller den som disponerer kabelnettet å gjennomføre nytt valg.
+>
+> Noverande tredje ledd blir nytt fjerde ledd.
+>
+> § 4-5 skal lyda:
+>
+> Medietilsynet kan i forskrift eller enkeltvedtak forby videresending av fjernsynskanaler somsender reklame i strid med norsk lovsender program med pornografi eller vold i strid med norsk lov eller andre program som i alvorlig grad kan skade mindreåriges fysiske, psykiske og moralske utviklingsender program som kan være skadelige for barn eller ungdom når videresendingen skjer på tidspunkt barn eller ungdom er en dominerende seergruppe ellersender program som norsk rett har funnet stridende mot straffeloven § 135 a.
+>
+> Medietilsynet kan i forskrift eller enkeltvedtak forby salg, utleie eller markedsføring av innretninger eller tjenester som i det vesentlige har som formål å gi tilgang til fjernsynskanaler eller program som nevnt i første ledd bokstav b eller d.
+>
+> Kongen gir i forskrift nærmere regler om unntak fra forbudet i første ledd bokstav a og om prosedyrer m.v. i forbindelse med nedlegging av forbud etter første og andre ledd.
+>
+> § 4-6 blir oppheva.
+>
+> § 10-1 første ledd skal lyda:
+>
+> Med bøter eller fengsel inntil 6 måneder straffes den som forsettlig eller uaktsomt grovt eller gjentatte ganger overtrer bestemmelsene i § 2-1 første eller tredje ledd, § 2-4, § 2-7, § 3-1 andre ledd, § 4-5 første ledd bokstav b og d, og kapittel 9 eller forskrift eller enkeltvedtak gitt med hjemmel i disse bestemmelser. Medvirkning straffes på samme måte.
+>
+> § 10-1 tredje ledd første punktum skal lyda:
+>
+> Overtredelse eller medvirkning til overtredelse av bestemmelser gitt i eller i medhold av kapittel 9, jf. § 10-1 første ledd, kan straffes uten hinder av de begrensninger som følger av straffeloven §§ 12, 12 a og 13 første og andre ledd.
+>
+> § 10-2 skal lyda:
+>
+> Når denne lov eller bestemmelse eller vilkår fastsatt i medhold av loven er overtrådt, kan Medietilsynet gi den som er ansvarlig for overtredelsen advarsel.
+>
+> § 10-3 første og andre ledd skal lyda:
+>
+> Medietilsynet kan ved overtredelse av bestemmelsene i kapittel 2, 3, § 6-4, § 8-1 og § 8-2 eller forskrift eller enkeltvedtak fastsatt i medhold av disse bestemmelsene, ilegge den som er ansvarlig for overtredelsen overtredelsesgebyr til staten beregnet etter nærmere regler fastsatt av Kongen.
+>
+> Kongen kan gi regler om forhøyet gebyr ved gjentatt overtredelse. Medietilsynet kan i særlige tilfeller frafalle ilagt overtredelsesgebyr.
+>
 
 ### 2012-12-14 — lov/2012-12-14-91
 

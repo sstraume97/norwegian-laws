@@ -202,6 +202,27 @@ refid: "lov/1999-03-26-17"
 
 ## § 12-2
 
+### 2007-02-27 — lov/2007-01-26-3
+
+*§ 12-2 tredje ledd femte punktum skal lyde:*
+
+> Retten kan gi oppfriskning for oversittelse av frist som nevnt i annet punktum.
+>
+
+### 2007-02-27 — lov/2007-01-26-3
+
+*§ 12-2 fjerde ledd sjette punktum skal lyde:*
+
+> Partene kan anke kjennelsen innen fjorten dager.
+>
+
+### 2007-02-27 — lov/2007-01-26-3
+
+*§ 12-2 femte ledd skal lyde:*
+
+> Blir saken brakt inn for retten etter tredje ledd, kan retten avgjøre spørsmålet om ansvar for kostnadene med takstnemnd etter tvisteloven kapittel 20.
+>
+
 ### 2009-01-16 — lov/2009-01-16-6
 
 *§ 12-2 annet til fjerde ledd skal lyde:*
@@ -213,7 +234,23 @@ refid: "lov/1999-03-26-17"
 > Retten skal fastsette godtgjørelsen for medlemmene av takstnemnda. Retten kan bestemme at den som har krevd takst skal betale inn et beløp til sikkerhet for godtgjørelsen. Utleieren skal bære kostnadene dersom takstnemnda fastsetter et lavere beløp enn det utleieren har krevd i leie, eller høyere vederlag enn det utleieren har vært villig til å betale for påkostningene. Ellers skal leieren betale kostnadene. Rettens avgjørelse treffes ved kjennelse og skal begrunnes. Partene kan anke kjennelsen innen én måned.
 >
 
+## § 12-3
+
+### 2007-02-27 — lov/2007-01-26-3
+
+*§ 12-3 annet punktum skal lyde:*
+
+> Saksbehandlingsreglene i tvisteloven kapittel 32 og 34 gjelder tilsvarende.
+>
+
 ## § 12-5
+
+### 2007-02-27 — lov/2007-01-26-3
+
+*§ 12-5 annet og tredje punktum skal lyde:*
+
+> Departementet kan fastsette regler om saklig myndighetsområde, oppnevning, sammensetning, organisering, saksbehandling, vedtak, tvangskraft, sakskostnader, gebyr, gjenåpning, forholdet til voldgiftsklausuler, bransjenemnder og de alminnelige domstolene og andre forhold av betydning for tvisteløsningen. Departementet kan også bestemme at reglene i § 12-2 ikke skal gjelde i områder hvor Husleietvistutvalget gjelder.
+>
 
 ### 2009-01-16 — lov/2009-01-16-6
 
@@ -229,6 +266,19 @@ refid: "lov/1999-03-26-17"
 > Husleietvistutvalget behandler tvister etter loven her og etter lov 16. juni 1939 nr. 6 om husleie.
 >
 > Husleietvistutvalget er faglig uavhengig og kan ikke instrueres om behandlingen av enkeltsaker eller om den faglige virksomheten for øvrig.
+>
+
+## § 13-2
+
+### 2007-02-27 — lov/2007-01-26-3
+
+*§ 13-2 annet ledd bokstav e fjerde punktum skal lyde:*
+
+> For dommer forkynt etter lovens ikrafttredelse gjelder ankefristene i tvisteloven § 29-5.
+>
+> 120. I lov 25. juni 1999 nr. 46 om finansavtaler og finansoppdrag (finansavtaleloven) skal § 4 fjerde ledd annet punktum lyde:
+>
+> Bestemmelsen i første punktum er likevel ikke til hinder for tvangsfullbyrdelse etter tvangsfullbyrdelsesloven eller midlertidig sikring etter tvisteloven.
 >
 
 ## (annet)

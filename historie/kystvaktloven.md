@@ -36,6 +36,19 @@ refid: "lov/1997-06-13-42"
 > For øvrig gjelder bestemmelsene om arrest i tvisteloven kapittel 32 og 33 tilsvarende for hefte etter denne paragraf så langt de passer.
 >
 
+## § 36
+
+### 2009-06-19 — lov/2009-06-19-74
+
+*§ 36 tredje ledd skal lyde:*
+
+> Uaktsom overtredelse av første ledd bokstav a til c er også straffbar.
+>
+
+### 2009-06-19 — lov/2009-06-19-74
+
+*§ 36 femte ledd første punktum oppheves.*
+
 ## § 9
 
 ### 2003-05-23 — lov/2003-05-23-33

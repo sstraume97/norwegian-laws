@@ -95,6 +95,13 @@ refid: "lov/2003-06-06-39"
 
 ## § 2-13
 
+### 2005-06-17 — lov/2005-06-17-94
+
+*§ 2-13 andre ledd skal lyde:*
+
+> (2) Medan yrkesutøvar som nemnd i første ledd eig alle andelane i laget, kan forbrukaren etter avtale ha burett etter kapittel 5 før andelen blir overført eller teikna. Før buretten blir overteken, skal avtalen om rett til bustad i laget registrerast i grunnboka. Frå registreringa gjeld reglane om råderett over og rettsstiftingar i andel tilsvarande. Blir laget oppløyst før andelen er overført eller teikna, gjeld § 5-25 tilsvarande. Annan avtale med forbrukaren om bruksrett til bustaden er ikkje gyldig.
+>
+
 ### 2008-04-25 — lov/2008-04-25-11
 
 *§ 2-13 nytt fjerde ledd skal lyde:*
@@ -176,6 +183,15 @@ refid: "lov/2003-06-06-39"
 > (2) Oppfører brukaren seg slik at det er fare for øydelegging eller vesentleg forringing av eigedommen, eller slik at det er til alvorleg plage eller sjenanse for andre brukarar i eigedommen, kan laget krevje fråviking frå bustaden etter tvangsfullbyrdelsesloven kapittel 13. Kravsmål om fråviking skal setjast fram for tingretten. Dersom det innan fristen etter tvangsfullbyrdelsesloven § 13-6 blir reist innvendingar mot fråvikinga som ikkje er klart grunnlause, skal kravsmålet om fråviking ikkje takast til følgje utan behandling ved allmennprosess.
 >
 
+## § 5-11
+
+### 2005-06-17 — lov/2005-06-17-94
+
+*§ 5-11 andre ledd første punktum skal lyde:*
+
+> Ein andelseigar kan med godkjenning frå styret gjennomføre tiltak på eigedomen som trengst på grunn av funksjonshemming hos ein brukar av bustaden.
+>
+
 ## § 5-11 a
 
 ### 2020-12-04 — lov/2020-12-04-137
@@ -214,6 +230,30 @@ refid: "lov/2003-06-06-39"
 *§ 5-23 første ledd skal lyde:*
 
 > (1) Oppfører andelseigaren seg slik at det er fare for øydelegging eller vesentleg forringing av eigedommen, eller slik at det er til alvorleg plage eller sjenanse for andre brukarar i eigedommen, kan laget krevje fråviking frå bustaden etter tvangsfullbyrdelsesloven kapittel 13. Kravsmål om fråviking kan setjast fram tidlegast samtidig med at det blir gitt pålegg etter § 5-22 om sal. Kravsmålet skal setjast fram for tingretten. Dersom det innan fristen etter tvangsfullbyrdelsesloven § 13-6 blir reist innvendingar mot fråvikinga som ikkje er klart grunnlause, skal kravsmålet om fråviking ikkje takast til følgje utan behandling ved allmennprosess.
+>
+
+## § 6-1
+
+### 2005-06-17 — lov/2005-06-17-94
+
+*§ 6-1 skal lyde:*
+
+> § 6-1.Registrering i grunnboka
+>
+> (1) Andelane i burettslaget skal registrerast i grunnboka.
+>
+> (2) For registreringa gjeld reglane i tinglysingslova så langt ikkje noko anna er fastsett i kapitlet her.
+>
+> (3) Kongen gir nærare forskrifter om registreringa, og kan i den samanhengen gi føresegner som vik frå tinglysingslova med forskrifter.
+>
+
+## § 6-2
+
+### 2005-06-17 — lov/2005-06-17-94
+
+*§ 6-2 andre ledd skal lyde:*
+
+> (2) Stemninga eller eit utdrag av stemninga i eit søksmål som gjeld rett som nemnd i første ledd, kan registrerast dersom retten fastset det i orskurd.
 >
 
 ## § 6-4
@@ -272,6 +312,21 @@ refid: "lov/2003-06-06-39"
 
 ## § 6-16
 
+### 2005-06-17 — lov/2005-06-17-94
+
+*Ny § 6-16 skal lyde:*
+
+> § 6-16.Gebyr
+>
+> (1) For registrering etter lova her skal det betalast gebyr. Departementet kan likevel fastsetje fritak frå plikta til å betale gebyr for bestemte registreringar. Departementet gir forskrifter om storleiken på gebyret. Departementet kan også gi forskrifter om korleis informasjon om registrerte rettar skal gjerast tilgjengeleg, og kan fastsetje at det skal betalast gebyr for tenestene.
+>
+> (2) Gebyret skal betalast av den som har kravd forretninga. Den som har kravd ei bestemt forretning, må også betale for andre gebyrpliktige forretningar som nødvendig følgjer med den forretninga som er kravd.
+>
+> (3) Er ei forretning kravd av ein person eller ei myndigheit på vegner av ein annan, blir begge ansvarlege for gebyret. Ved registrering av dokument som har samanheng med sal av burettslagsandel, er eit meklarføretak som hjelper avtalepartane med oppgåver som nemnde i lov 16. juni 1989 nr. 53 om eiendomsmegling § 3-9 første ledd nr. 1, 2 eller 4, også ansvarleg for gebyret uavhengig av om meklarføretaket har kravd forretninga. Har staten kravd ei forretning på vegner av nokon, kan staten krevje refusjon av denne dersom ikkje noko anna følgjer av lov.
+>
+> (4) Krav på betaling etter denne føresegna frå andre enn stat, fylkeskommune eller kommune er tvangsgrunnlag for utlegg. Når Statens innkrevjingssentral er pålagt å krevje inn gebyr for Statens kartverk, kan krava drivast inn ved trekk i lønn og liknande ytingar etter reglane i dekningslova § 2-7. Innkrevjingssentralen kan også drive inn krava ved å stifte utleggspant for kravet dersom panteretten kan få rettsvern ved registrering i eit register eller ved ei melding til ein tredjeperson, jf. pantelova kapittel 5, og utleggsforretninga kan haldast på kontoret til innkrevjingssentralen etter tvangsfullbyrdingslova § 7-9 første ledd.
+>
+
 ### 2020-12-04 — lov/2020-12-04-137
 
 *§ 6-16 tredje ledd andre punktum skal lyde:*
@@ -280,6 +335,17 @@ refid: "lov/2003-06-06-39"
 >
 
 ## § 6-17
+
+### 2005-06-17 — lov/2005-06-17-94
+
+*Ny § 6-17 skal lyde:*
+
+> § 6-17.Skadebotansvar
+>
+> (1) Staten skal bøte tap som nokon lir utan eiga skuld på grunn av registreringsfeil ved:å lite på ein attest om registrering eller sletting eller på ei attestert registerutskrift,at eit rettserverv ikkje blir registrert eller blir registrert eller endeleg registrert for seint,at eit rettserverv må stå attende etter § 6-12 for eit erverv som er registrert seinare, ellerat registrering er skjedd på grunnlag av eit dokument som nemnd i § 6-13 andre ledd, og nokon i god tru har fått registrert ein rett som byggjer på avtale, i tillit til det registrerte.
+>
+> (2) Det skal reknast som registreringsfeil etter første ledd nr. 1 at eit hefte ikkje er påført i attesten på pantedokumentet, og dette seinare viser seg å redusere høvet til dekning av panteretten.
+>
 
 ### 2014-06-20 — lov/2014-06-20-45
 
@@ -405,7 +471,44 @@ refid: "lov/2003-06-06-39"
 > (2) Yrkesutøvar eller kjøpar som bryt forbodet i § 2-12 a og forsettleg eller aktlaust valdar tap for laget eller andelseigarar, har plikt til å bøte tapet.
 >
 
+## § 12-7
+
+### 2021-06-18 — lov/2021-06-18-122
+
+*§ 12-7 første ledd oppheves. Nåværende annet ledd blir første ledd.*
+
+## § 14-1
+
+### 2005-06-17 — lov/2005-06-17-94
+
+*§ 14-1 første og andre ledd skal lyde:*
+
+> (1) Lova gjeld frå den tid Kongen fastset. Kongen kan setje i verk dei einskilde føresegnene til ulik tid.
+>
+> (2) Kongen fastset når lov 4. februar 1960 nr. 2 om borettslag blir oppheva.
+>
+
 ## § 14-9
+
+### 2005-06-17 — lov/2005-06-17-94
+
+*§ 14-9 første ledd første punktum skal lyde:*
+
+> (1) Seinast seks månader etter at kapittel 6 i lova her er sett i verk, skal styret sende melding til registerføraren for tinglysing av andelar i burettslag om registrering av andelane.
+>
+
+### 2005-06-17 — lov/2005-06-17-94
+
+*§ 14-9 femte ledd oppheves. Nåværende sjette og syvende ledd blir femte og sjette ledd.*
+
+### 2005-06-17 — lov/2005-06-17-94
+
+*§ 14-9 syvende og nytt åttende ledd skal lyde:*
+
+> (7) Beslagsforbod i andel i burettslag og råderettsband etter dekningslova § 3-2 i slik andel har rettsvern utan registrering i grunnboka, dersom rettsvernet er sikra før kapittel 6 i lova her er sett i verk.
+>
+> (8) Er det i medhald av § 14-17 avtalt innskrenking i røysteretten etter § 7-10, kan innskrenkinga halde fram så langt det følgjer av dei tidlegare reglane.
+>
 
 ### 2005-12-21 — lov/2005-12-21-130
 
@@ -414,7 +517,73 @@ refid: "lov/2003-06-06-39"
 > (6) Til andelane er registrerte, gjeld dei tidlegare reglane om rettsvern for rettserverv og om tvangssal. Det kan likevel ikkje etablerast rettsvern for avtala panterett i burettslagsandel på anna vis enn ved registrering i grunnboka når det er gått eitt år etter at lova her blei sett i kraft.
 >
 
+## § 14-11
+
+### 2005-06-17 — lov/2005-06-17-94
+
+*§ 14-11 skal lyde:*
+
+> § 14-11.Vedtekter og avtalar
+>
+> Vedtektsføresegner og avtalar som er i strid med føresegner i lova her, fell bort seinast eitt år etter at lovføresegnene blei sett i kraft.
+>
+
 ## (annet)
+
+### 2005-06-17 — lov/2005-06-17-94
+
+*Kapittel 14 nytt avsnitt V skal lyde:*
+
+> § 14-13.Varigheit
+>
+> Når kapittel 6 i lova her blir sett i verk, blir reglane i kapittel 14 avsnitt V oppheva.
+>
+> § 14-14.Andelsbrev
+>
+> (1) For kvar andel skal det skrivast ut eit andelsbrev. Andelsbrev kan ikkje skrivast ut før laget er registrert i Føretaksregisteret.
+>
+> (2) Andelsbrevet skal innehalde namnet på laget, dagen for registreringa, andelsnummeret og pålydande, namnet på andelseigaren og opplysning om kva bustad som er knytt til andelen.
+>
+> (3) Er det knytt innskot til andelen, skal dette førast på andelsbrevet med opplysning om at andelen ikkje gyldig kan ervervast eller pantsetjast utan saman med innskotet.
+>
+> (4) Er det avtalt innskrenking i røysteretten etter § 14-17, skal innskrenkinga førast på andelsbrevet med opplysning om frå kva tidspunkt andelseigaren skal ha røysterett.
+>
+> (5) Andelsbrevet skal vere datert og underskrive av minst to styremedlemmer.
+>
+> § 14-15.Partialobligasjon
+>
+> (1) Er det knytt innskot til andelen etter § 2-10, skal det skrivast ut ein partialobligasjon til kvar andelseigar. Partialobligasjonane kan ikkje skrivast ut før panteretten for dei samla innskota er tinglyst etter § 2-11.
+>
+> (2) Partialobligasjonen skal ha ei påføring som viser tilknytinga mellom innskotet og andelen.
+>
+> § 14-16.Andelsbok
+>
+> Alle andelar skal vere innført i ei andelsbok med opplysning om namnet og adressa til eigaren. Som andelsbok reknar ein også eit sikkert lausblads- eller kortsystem. Føringa kan også gjerast ved elektronisk databehandling.
+>
+> § 14-17.Avtale mellom utbyggjar og forbrukar
+>
+> (1) For avtale mellom yrkesutøvar som nemnd i § 2-12 og forbrukar om rett til bustad i laget gjeld bustadoppføringslova dersom arbeid som er omfatta av avtalen, ikkje er fullført på avtaletida, og elles avhendingslova, jf. bustadoppføringslova § 1 a og avhendingslova § 1-1 a.
+>
+> (2) Medan ein yrkesutøvar som nemnd i første ledd fører opp bustader for burettslaget, kan yrkesutøvaren og forbrukaren avtale at andelen blir overført eller teikna utan at forbrukaren får røysterett etter § 7-10. Det kan ikkje gyldig avtalast andre innskrenkingar i råderetten til andelseigaren enn det som elles følgjer av lova her.
+>
+> (3) Er det avtalt innskrenking etter andre ledd, skal andelseigaren få røysterett etter § 7-10 seinast to år etter første overtaking av andel i laget.
+>
+> § 14-18.Panterett for felleskostnader
+>
+> Laget kan ikkje stifte panterett i eigne andelar ved avtale unntatt til sikring av krav på dekning av felleskostnader og andre krav frå lagsforholdet.
+>
+> § 14-19.Burett
+>
+> Burett etter burettslagslova kapittel 5 skal likestillast med leigerett i panteloven §§ 4-3 og 5-8 og tvangsfullbyrdelsesloven §§ 1-8, 6-1 og 12-1.
+>
+> § 14-20.Heimelsoverføring
+>
+> Overføring av andel etter avhendingslova § 1-1 a og bustadsoppføringslova § 1 a skjer ved overlevering av andelsbrev og eventuell partialobligasjon, og melding til burettslaget.
+>
+> § 14-21.Forskrifter
+>
+> Kongen kan i forskrifter gi ytterlegare mellombelse reglar til kapittel 6 i lova her er sett i verk.
+>
 
 ### 2010-09-03 — lov/2010-09-03-54
 

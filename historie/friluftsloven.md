@@ -23,6 +23,15 @@ refid: "lov/1957-06-28-16"
 > Som innmark eller like med innmark reknes i denne lov gårdsplass, hustomt, dyrket mark, engslått og kulturbeite samt liknende område hvor almenhetens ferdsel vil være til utilbørlig fortrengsel for eier eller bruker.
 >
 
+## § 10 a
+
+### 2009-06-19 — lov/2009-06-19-74
+
+*Ny § 10 a skal lyde:*
+
+> Enhver kan på uinnhegnet sted plukke ville nøtter som skal spises på stedet, ville bær, sopp eller blomster, og ta opp røtter av ville urter. For multer på multebærland i Nordland, Troms og Finnmark gjelder første punktum bare når eieren (brukeren) ikke har nedlagt forbud mot plukking, og bare plukking av multer som skal spises på stedet.
+>
+
 ## § 13
 
 ### 2011-09-16 — lov/2011-09-16-41
@@ -71,11 +80,29 @@ refid: "lov/1957-06-28-16"
 
 ## § 2
 
+### 2009-06-19 — lov/2009-06-19-74
+
+*§ 2 annet ledd oppheves.*
+
+> 53. I lov 3. februar 1961 om ansvar for skade som motorvogner gjer gjøres følgende endring:
+>
+
 ### 2020-06-19 — lov/2020-06-19-85
 
 *§ 2 andre ledd skal lyde:*
 
 > Det samme gjelder ferdsel med ride- eller kløvhest, kjelke, tråsykkel eller liknende på veg eller sti i utmark og over alt i utmark på fjellet, såfremt ikke kommunen med samtykke av eieren eller brukeren har forbudt slik ferdsel på nærmere angitte strekninger.
+>
+
+## § 20
+
+### 2009-06-19 — lov/2009-06-19-74
+
+*§ 20 annet ledd oppheves.*
+
+> 54. I lov 3. mars 1961 nr. 4 om varemerker skal § 3 første punktum lyde:
+>
+> Den som bruker varekjennetegn i strid med denne lov, straffes med bøter eller fengsel inntil 3 måneder.
 >
 
 ## § 22
@@ -172,6 +199,21 @@ refid: "lov/1957-06-28-16"
 > Overskriften i kapittel VI skal lyde:
 >
 > Om reaksjoner ved overtredelse mv.
+>
+
+## § 39
+
+### 2009-06-19 — lov/2009-06-19-74
+
+*§ 39 skal lyde:*
+
+> Den som forsettlig eller uaktsomt overtrer regler gitt i eller i medhold av denne lov, straffes med bøter for så vidt ikke forholdet rammes av strengere straffebud.
+>
+> 51. I lov 6. juli 1957 nr. 26 om samordning av pensjons- og trygdeytelser skal § 24 tredje ledd første punktum lyde:
+>
+> Den som unnlater å gi opplysninger etter første og andre ledd, eller som gir uriktige opplysninger, straffes med bøter.
+>
+> 52. I lov 19. juni 1959 nr. 2 om avgifter vedrørende motorkjøretøyer og båter gjøres følgende endring:
 >
 
 ## § 40

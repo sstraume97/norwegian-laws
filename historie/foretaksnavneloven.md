@@ -309,6 +309,15 @@ refid: "lov/1985-06-21-79"
 > Kapittel VII Overskriften skal lyde:
 >
 
+## § 4-9
+
+### 2021-06-18 — lov/2021-06-18-122
+
+*§ 4-9 annet ledd oppheves.*
+
+> 12.I lov 12. mars 1993 nr. 32 om planteforedlerrett gjøres følgende endring:
+>
+
 ## § 5-1
 
 ### 2020-06-12 — lov/2020-06-12-67
@@ -335,6 +344,13 @@ refid: "lov/1985-06-21-79"
 
 ## § 6-1
 
+### 2009-06-19 — lov/2009-06-19-74
+
+*§ 6-1 første og nytt annet punktum skal lyde:*
+
+> Den som bruker foretaksnavn i strid med denne lov straffes med bøter eller med fengsel inntil 3 måneder, for så vidt ikke strengere straffebestemmelse kommer til anvendelse. Medvirkning straffes ikke.
+>
+
 ### 2013-05-31 — lov/2013-05-31-25
 
 *Ny § 6-1 skal lyde:*
@@ -348,6 +364,33 @@ refid: "lov/1985-06-21-79"
 > Bestemmelsene om sanksjoner mot varemerkeinngrep i varemerkeloven kapittel 8, bortsett fra § 61, gjelder tilsvarende ved bruk av foretaksnavn som er vernet etter §§ 3-2 og 3-3 i strid med annens rett.
 >
 > For bruk av andre foretaksnavn enn dem som er vernet etter §§ 3-2 og 3-3 i strid med denne lov eller annens rett, gjelder §§ 5-2, 6-2 og 6-3.
+>
+
+### 2013-05-31 — lov/2013-05-31-25
+
+*§ 6-1 første til tredje ledd skal lyde:*
+
+> Den som bruker foretaksnavn som er vernet etter §§ 3-2 og 3-3 i strid med annens rett, straffes med bøter eller fengsel inntil ett år.
+>
+> Dersom det foreligger særlig skjerpende omstendigheter, er straffen bøter eller fengsel inntil tre år. Ved vurderingen av om særlig skjerpende omstendigheter foreligger, skal det særlig legges vekt på den skade som er påført rettighetshaveren, herunder skade på rettighetshaverens kommersielle omdømme, den vinning som krenkeren har oppnådd og omfanget av krenkelsen for øvrig.
+>
+> For overtredelse av denne bestemmelsen kan påtale unnlates hvis ikke allmenne hensyn tilsier påtale, jf. straffeprosessloven § 62 a.
+>
+
+### 2021-06-18 — lov/2021-06-18-122
+
+*§ 6-1 tredje ledd oppheves. Nåværende fjerde og femte ledd blir nytt tredje og fjerde ledd.*
+
+> 10.I lov 15. juni 1990 nr. 27 om vern av kretsmønstre for integrerte kretser gjøres følgende endring:
+>
+
+## § 6-2
+
+### 2013-05-31 — lov/2013-05-31-25
+
+*§ 6-2 første og nytt annet punktum skal lyde:*
+
+> Den som bruker foretaksnavn i strid med denne lov straffes med bøter eller med fengsel inntil tre måneder, for så vidt ikke strengere straffebestemmelse kommer til anvendelse. Medvirkning straffes ikke.
 >
 
 ## § 7-1
@@ -377,6 +420,25 @@ refid: "lov/1985-06-21-79"
 
 ## (annet)
 
+### 2009-06-19 — lov/2009-06-19-74
+
+*Nåværende annet punktum blir nytt tredje punktum.*
+
+> 120. I lov 21. juni 1985 nr. 82 om kredittkjøp m.m. skal § 31 lyde:
+>
+> Den som overtrer bestemmelser gitt i eller i medhold av § 7, § 9, jf § 27 a, eller § 29 bokstav c, straffes med bøter, eller under særlig skjerpende omstendigheter med fengsel inntil tre måneder, eventuelt sammen med bøter. På samme måte straffes den som unnlater å gi opplysninger som nevnt i §§ 4, 5, 6, jf § 27 a, § 29 bokstav b eller § 30 annet ledd, eller gir misvisende opplysninger som der nevnt. På samme måte straffes også en kredittyter som overtrer § 5 a første eller tredje ledd, jf § 27 a, eller unnlater å oppfylle sin plikt etter § 5 b, jf § 27 a.
+>
+> Den som uaktsomt overtrer bestemmelse som nevnt i første ledd straffes med bøter.
+>
+> 121. I lov 28. februar 1986 nr. 8 om adopsjon skal § 16 b annet ledd første punktum lyde:
+>
+> Den som overtrer forbudet i første ledd straffes med bøter eller fengsel inntil tre måneder.
+>
+> 122. I lov 20. juni 1986 nr. 35 om mesterbrev i håndverk og annen næring skal § 1 fjerde ledd nytt annet punktum lyde:
+>
+> Medvirkning straffes ikke.
+>
+
 ### 2013-05-31 — lov/2013-05-31-25
 
 *Kapittel 6 overskriften skal lyde:*
@@ -384,6 +446,10 @@ refid: "lov/1985-06-21-79"
 ### 2013-05-31 — lov/2013-05-31-25
 
 *Nåværende §§ 6-1 og 6-2 blir §§ 6-2 og 6-3.*
+
+### 2013-05-31 — lov/2013-05-31-25
+
+*Nåværende annet punktum blir nytt tredje punktum*
 
 ### 2023-12-20 — lov/2023-12-20-110
 
@@ -398,4 +464,57 @@ refid: "lov/1985-06-21-79"
 *Nåværende femtende ledd blir nytt sekstende ledd og skal lyde:*
 
 > Foretaksnavn må ikke inneholde annen foretaksbetegnelse enn den som angir foretakets egen organisasjonsform. Foretaksbetegnelsen skal stå bakerst i foretaksnavnet. Kongen kan gi nærmere regler om utforming av foretaksnavn.
+>
+
+## § 22
+
+### 2021-06-18 — lov/2021-06-18-122
+
+*§ 22 fjerde ledd oppheves.*
+
+## § 412
+
+### 2013-05-31 — lov/2013-05-31-25
+
+*§ 412 nr. 136 skal lyde:*
+
+> I lov 15. juni 1990 nr. 27 om vern av kretsmønstre for integrerte kretser skal § 9 lyde:
+>
+> § 9.Straff
+>
+> Den som begår inngrep i en kretsmønsterrett, straffes med bøter eller fengsel inntil ett år.
+>
+> Dersom det foreligger særlig skjerpende omstendigheter, er straffen bøter eller fengsel inntil tre år. Ved vurderingen av om særlig skjerpende omstendigheter foreligger skal det særlig legges vekt på den skade som er påført rettighetshaveren, herunder skade på rettighetshaverens kommersielle omdømme, den vinning som inngriperen har oppnådd, og omfanget av inngrepet for øvrig.
+>
+> For overtredelse av denne bestemmelsen kan påtale unnlates hvis ikke allmenne hensyn tilsier påtale, jf. straffeprosessloven § 62 a.
+>
+
+### 2013-05-31 — lov/2013-05-31-25
+
+*§ 412 nr. 154 skal lyde:*
+
+> I lov 12. mars 1993 nr. 32 om planteforedlerrett skal § 22 lyde:
+>
+> § 22.Straff
+>
+> Den som begår inngrep i en planteforedlerrett, straffes med bøter eller fengsel inntil ett år.
+>
+> Dersom det foreligger særlig skjerpende omstendigheter, er straffen bøter eller fengsel inntil tre år. Ved vurderingen av om særlig skjerpende omstendigheter foreligger skal det særlig legges vekt på den skade som er påført rettighetshaveren, herunder skade på rettighetshaverens kommersielle omdømme, den vinning som inngriperen har oppnådd, og omfanget av inngrepet for øvrig.
+>
+> Den som overtrer reglene om anvendelse av sortsnavn i § 20, straffes med bøter.
+>
+> Ved overtredelse av første og annet ledd kan påtale unnlates hvis ikke allmenne hensyn tilsier påtale, jf. straffeprosessloven § 62 a. Overtredelse av tredje ledd påtales bare av det offentlige hvis fornærmede ber om det.
+>
+
+### 2013-05-31 — lov/2013-05-31-25
+
+*§ 412 nr. 230 skal lyde:*
+
+## § 9
+
+### 2021-06-18 — lov/2021-06-18-122
+
+*§ 9 tredje ledd oppheves.*
+
+> 11.I lov 19. juni 1992 nr. 60 om skogsdrift m.v. i statsallmenningene gjøres følgende endring:
 >

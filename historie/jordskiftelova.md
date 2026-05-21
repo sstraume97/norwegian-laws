@@ -62,9 +62,36 @@ refid: "lov/2013-06-21-100"
 
 ## § 5-3
 
+### 2017-05-11 — lov/2017-05-11-26
+
+*§ 5-3 første ledd skal lyde:*
+
+> Jordskifteretten held skjønn og tek andre avgjerder i samband med sak for jordskifteretten etterlov 14. juni 1912 nr. 1 om anlæg av taugbaner og løipestrenger mv. §§ 8 og 16, når det er nødvendig av omsyn til jordskiftetlov 28. juni 1957 nr. 16 om friluftslivet § 35 femte ledd tredje punktumlov 23. oktober 1959 nr. 3 om oreigning av fast eigedom §§ 17, 19, 26 og 27lov 5. mai 1961 om grannegjerdelov 16. juni 1961 nr. 12 om ymse beitespørsmål §§ 7, 9 og 14lov 21. juni 1963 nr. 23 om vegar kapittel VIIlov 29. november 1968 um særlege råderettar over framand eigedomlov 9. juni 1978 nr. 50 om kulturminner § 11lov 9. desember 1994 nr. 64 om løysingsrettar § 22lov 24. november 2000 nr. 82 om vassdrag og grunnvann § 31 tredje ledd bokstav clov 6. juni 2003 nr. 39 om burettslag § 4-18lov 4. juli 2003 nr. 83 om elektronisk kommunikasjon § 12-3lov 17. juni 2005 nr. 101 om eigedomsregistrering § 45lov 15. juni 2007 nr. 40 om reindriftlov 27. juni 2008 nr. 71 om planlegging og byggesaksbehandling § 16-12, oglov 4. september 2015 nr. 91 om posttjenester § 55
+>
+
 ### 2023-06-09 — lov/2023-06-09-32
 
 *§ 5-3 bokstav p, § 5-4 annet punktum og § 5-6 annet punktum oppheves.*
+
+## § 5-7
+
+### 2017-05-11 — lov/2017-05-11-26
+
+*§ 5-7 første ledd tredje punktum skal lyde:*
+
+> Reglane for skjønn styrt av tingretten i lov 1. juni 1917 nr. 1 om skjønn og ekspropriasjonssaker gjeld så langt kapittel 1, 2, 6 og 8 ikkje har reglar om behandlinga.
+>
+
+### 2017-05-11 — lov/2017-05-11-26
+
+*§ 5-7 annet ledd første punktum skal lyde:*
+
+> Avgjerder som jordskifteretten tek som eiga sak etter §§ 5-4 til 5-6, følgjer reglane for skjønn styrt av tingretten i lov 1. juni 1917 nr. 1 om skjønn og eks-propriasjonssaker.
+>
+> 25.I lov 4. september 2015 nr. 91 om posttjenester skal § 55 annet ledd tredje punktum lyde:
+>
+> Skjønnet styres av jordskifteretten.
+>
 
 ## § 6-1
 

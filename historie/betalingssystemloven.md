@@ -191,6 +191,15 @@ refid: "lov/1999-12-17-95"
 
 ## § 5-3
 
+### 2009-06-19 — lov/2009-06-19-74
+
+*§ 5-3 første ledd siste punktum og annet ledd første punktum oppheves.*
+
+> 206. I lov 22. desember 1999 nr. 105 om handelsverksemd med brukte og kasserte ting skal § 5 lyde:
+>
+> Den som forsettleg eller aktlaust bryt føresegner gitt i eller i medhald av denne lova, vert straffa med bøter eller under skjerpande forhold med fengsel i inntil tre månader.
+>
+
 ### 2018-11-23 — lov/2018-11-23-87
 
 *§ 5-3 skal lyde:*

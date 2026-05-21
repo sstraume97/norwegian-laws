@@ -5,6 +5,24 @@ refid: "lov/1987-05-15-21"
 
 # Endringshistorikk: Film- og videogramlova – filml
 
+## § 13
+
+### 2009-06-19 — lov/2009-06-19-74
+
+*§ 13 nytt annet punktum skal lyde:*
+
+> Medverknad blir ikkje straffa.
+>
+
+## § 13 a
+
+### 2009-06-19 — lov/2009-06-19-74
+
+*§ 13 a nytt siste punktum skal lyde:*
+
+> Medverknad blir ikkje straffa.
+>
+
 ## § 13a
 
 ### 2006-12-22 — lov/2006-12-22-104
@@ -18,6 +36,20 @@ refid: "lov/1987-05-15-21"
 
 ## § 14
 
+### 2009-06-19 — lov/2009-06-19-74
+
+*§ 14 første ledd første punktum skal lyde:*
+
+> Ansvarleg leiar for eit distributørfirma kan straffast med bot eller fengsel opptil tre månader om han i næring omset videogram som han kunne straffast for etter § 317 eller § 318 i straffelova om han hadde kjent til innhaldet.
+>
+
+### 2009-06-19 — lov/2009-06-19-74
+
+*§ 14 første ledd nytt tredje punktum skal lyde:*
+
+> Medverknad blir ikkje straffa.
+>
+
 ### 2010-09-03 — lov/2010-09-03-55
 
 *§ 14 første ledd første punktum skal lyde:*
@@ -27,6 +59,17 @@ refid: "lov/1987-05-15-21"
 
 ## § 15
 
+### 2009-06-19 — lov/2009-06-19-74
+
+*§ 15 første ledd skal lyde:*
+
+> Den som driv omsetning av film eller videogram som er sperra eller inndrege som stridande mot § 317 eller § 318 i straffelova for mindre enn 15 år sidan, kan straffast med bot eller fengsel opptil tre månader. Medverknad blir ikkje straffa.
+>
+
+### 2009-06-19 — lov/2009-06-19-74
+
+*§ 15 annet ledd oppheves.*
+
 ### 2010-09-03 — lov/2010-09-03-55
 
 *§ 15 første ledd skal lyde:*
@@ -35,6 +78,23 @@ refid: "lov/1987-05-15-21"
 >
 
 ## § 16
+
+### 2009-06-19 — lov/2009-06-19-74
+
+*§ 16 første ledd skal lyde:*
+
+> Ein film eller eit videogram som heilt eller delvis er i strid med § 317 eller § 318 i straffelova, kan ved dom inndragast utan omsyn til om nokon kan straffast.
+>
+> 124. I lov 12. juni 1987 nr. 48 om norsk internasjonalt skipsregister skal § 11 lyde:
+>
+> Den som forsettlig eller grovt uaktsomt vesentlig overtrer bestemmelsene i § 4 eller forskrifter gitt i medhold av bestemmelsene, eller plikten til å framlegge dokumentasjon som nevnt i § 9 annet ledd straffes med bøter. Medvirkning straffes ikke.
+>
+> Ved vurderingen av om en overtredelse av første ledd er vesentlig, skal det særlig legges vekt på overtredelsens omfang og virkninger og graden av utvist skyld.
+>
+> 125. I lov 12. juni 1987 nr. 57 om forbud mot fallskjermhopping m.v. innenfor visse fjellområder skal § 3 lyde:
+>
+> Den som overtrer forskrifter gitt i medhold av § 2, straffes med bøter.
+>
 
 ### 2010-09-03 — lov/2010-09-03-55
 
@@ -56,6 +116,13 @@ refid: "lov/1987-05-15-21"
 > Overskrifta til kapittel III skal lyde:
 >
 > Kapittel III. Registreringsplikt, førehandskontroll og aldersgrenser
+>
+
+### 2009-06-19 — lov/2009-06-19-74
+
+*§ 2 annet ledd annet punktum skal lyde:*
+
+> Løyvet kan nektast eller trekkjast attende dersom løyvehavaren bryt reglar i denne lova eller i forskrifter til denne lova, straffelova § 317 eller § 318 eller bryt vilkår som er sette ved tildeling av løyvet.
 >
 
 ### 2010-09-03 — lov/2010-09-03-55
@@ -110,6 +177,13 @@ refid: "lov/1987-05-15-21"
 > Departementet kan i forskrift gi nærmare reglar om førehandskontroll, registreringsplikt og betaling av gebyr.
 >
 
+### 2009-06-19 — lov/2009-06-19-74
+
+*§ 4 tredje ledd skal lyde:*
+
+> Medietilsynet må ikkje godkjenne for framsyning i næring bilete som tilsynet meiner strir mot § 13a eller straffelova § 317 eller 318.
+>
+
 ### 2010-09-03 — lov/2010-09-03-55
 
 *§ 4 tredje ledd skal lyde:*
@@ -134,6 +208,13 @@ refid: "lov/1987-05-15-21"
 >
 
 ## § 7
+
+### 2009-06-19 — lov/2009-06-19-74
+
+*§ 7 annet ledd tredje og fjerde punktum skal lyde:*
+
+> Eit videogram som Medietilsynet meiner er i strid med reglane i straffelova § 317 eller § 318 kan ikkje registrerast. Det same gjeld videogram som er funne rettsstridig ved dom, vedteke førelegg eller som etter avgjerd av påtalemakta eller tingretten skal inndragast eller sperrast fordi det er eller kan vere i strid med reglane i straffelova § 317 eller § 318.
+>
 
 ### 2010-09-03 — lov/2010-09-03-55
 

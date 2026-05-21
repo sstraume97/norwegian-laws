@@ -5,6 +5,12 @@ refid: "lov/2003-06-27-64"
 
 # Endringshistorikk: Alternativ behandlingsloven – albhl
 
+## § 7-6
+
+### 2021-06-18 — lov/2021-06-18-122
+
+*§ 7-6 annet punktum oppheves.*
+
 ## (annet)
 
 ### 2025-04-25 — lov/2025-04-25-13
@@ -35,3 +41,23 @@ refid: "lov/2003-06-27-64"
 ### 2008-05-09 — lov/2008-05-09-33
 
 *§ 8 nåværende andre ledd blir nytt fjerde ledd.*
+
+## § 9
+
+### 2009-06-19 — lov/2009-06-19-74
+
+*§ 9 første ledd skal lyde:*
+
+> Den som forsettlig eller grovt uaktsomt overtrer bestemmelser i loven eller i medhold av den, straffes med bøter eller fengsel i inntil tre måneder.
+>
+
+### 2009-06-19 — lov/2009-06-19-74
+
+*§ 9 annet ledd annet punktum oppheves.*
+
+### 2021-06-18 — lov/2021-06-18-122
+
+*§ 9 femte ledd oppheves.*
+
+> 27.I lov 4. juli 2003 nr. 84 om frittståande skolar gjøres følgende endring:
+>

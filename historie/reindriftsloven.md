@@ -5,6 +5,15 @@ refid: "lov/2007-06-15-40"
 
 # Endringshistorikk: Reindriftsloven
 
+## § 8-9
+
+### 2009-06-19 — lov/2009-06-19-74
+
+*§ 8-9 tredje punktum oppheves.*
+
+> 263. I lov 29. juni 2007 nr. 74 om regulerte markeder (børsloven) gjøres følgende endring:
+>
+
 ## (annet)
 
 ### 2016-06-17 — lov/2016-06-17-70
@@ -110,6 +119,15 @@ refid: "lov/2007-06-15-40"
 
 ## § 33
 
+### 2019-05-24 — lov/2019-05-24-18
+
+*§ 33 tredje ledd skal lyde:*
+
+> Merking skal skje i henhold til bestemmelsene i lov 19. juni 2009 nr. 97 om dyrevelferd.
+>
+> I § 38 første ledd andre punktum, § 71 første ledd andre punktum, § 75 tredje punktum og § 79 andre ledd erstattes «Statens reindriftsforvaltning» med «Landbruksdirektoratet».
+>
+
 ### 2019-06-21 — lov/2019-06-21-62
 
 *§ 33 første og andre ledd skal lyde:*
@@ -132,6 +150,15 @@ refid: "lov/2007-06-15-40"
 > Midlertidig merking skjer med hårmerke eller øreklips. Midlertidig merking viser eierforholdet inntil merking i henhold til § 33 eller § 34 første ledd finner sted.
 >
 
+## § 35
+
+### 2009-06-19 — lov/2009-06-19-74
+
+*§ 35 annet ledd skal lyde:*
+
+> Ommerking straffes etter reglene i straffeloven kapittel 29.
+>
+
 ## § 37
 
 ### 2013-06-14 — lov/2013-06-14-45
@@ -152,6 +179,13 @@ refid: "lov/2007-06-15-40"
 > Alle reinmerker skal godkjennes av merkenemnda før de tas i bruk i det regionale reinbeiteområdet. Godkjente reinmerker i det regionale reinbeiteområdet registreres hos Statens reindriftsforvaltning. Reinmerket skal ha en slik form at forveksling eller misbruk ikke kan finne sted. Merkenemnda skal, under ivaretakelse av hensynet til velordnet reindrift, søke å bevare tradisjonell bruk og utforming av reinmerker, blant annet skal tradisjonelle familiemerker søkes bevart for familien.
 >
 
+### 2019-05-24 — lov/2019-05-24-18
+
+*§ 38 andre ledd skal lyde:*
+
+> Reinmerke kan ikke registreres som varemerke etter varemerkeloven.
+>
+
 ## § 46
 
 ### 2025-06-06 — lov/2025-06-06-28
@@ -160,6 +194,12 @@ refid: "lov/2007-06-15-40"
 
 > I hvert distrikt skal det være en distriktskasse. Alle siidaandeler plikter å betale et årlig tilskudd til distriktskassen. Distriktskassens midler skal dekke godtgjørelse til distriktsstyrets medlemmer og andre utgifter til administrering og kan dekke utgifter til daglig drift av distriktet.
 >
+
+## § 48
+
+### 2009-06-19 — lov/2009-06-19-74
+
+*§ 48 fjerde ledd oppheves.*
 
 ## § 49
 
@@ -219,6 +259,13 @@ refid: "lov/2007-06-15-40"
 *§ 58 første ledd annet punktum skal lyde:*
 
 > Fylkesmannens behandling skal, foruten en kontroll med at lovens regler for utarbeidelse av bruksregler er fulgt, også omfatte en vurdering av om bruksreglene gir grunnlag for en økologisk bærekraftig reindrift i distriktet.
+>
+
+### 2019-05-24 — lov/2019-05-24-18
+
+*§ 58 fjerde ledd skal lyde:*
+
+> Hvis fylkesmannen ikke godkjenner de foreslåtte bruksreglene, skal fylkesmannen bistå distriktet ved utarbeidelse av et nytt forslag som skal behandles etter reglene foran. Fylkesmannen skal, hvis dette ikke fører frem, utarbeide bruksregler for distriktet.
 >
 
 ### 2025-06-06 — lov/2025-06-06-28
@@ -340,6 +387,17 @@ refid: "lov/2007-06-15-40"
 
 *§ 69 oppheves.*
 
+## § 70 a
+
+### 2019-05-24 — lov/2019-05-24-18
+
+*§ 70 a første ledd andre punktum skal lyde:*
+
+> I kravet om skjønn skal det gis så vidt mulig nøyaktige opplysninger om tid og sted for skadeforvoldelsen, skadens art og omfang og erstatningskravets størrelse.
+>
+> 6.I lov 21. juni 2013 nr. 100 om fastsetjing og endring av eigedoms- og rettshøve på fast eigedom m.m. oppheves § 5-3 bokstav a.
+>
+
 ## § 70 b
 
 ### 2025-06-06 — lov/2025-06-06-28
@@ -401,6 +459,17 @@ refid: "lov/2007-06-15-40"
 *§ 8 tredje ledd skal lyde:*
 
 > Dersom eiere og brukere som rår over den største delen av et fjellområde som er høvelig til tamreindrift, ønsker området disponert til slik virksomhet, men hindres i dette av enkelte grunneiere som ikke vil være med, kan jordskiftelova §§ 3-8 eller 3-9 brukes tilsvarende.
+>
+
+## § 80
+
+### 2009-06-19 — lov/2009-06-19-74
+
+*§ 80 annet punktum oppheves. Nåværende tredje punktum blir nytt annet punktum og skal lyde:*
+
+> Også uaktsom overtredelse er straffbar.
+>
+> 262. I lov 29. juni 2007 nr. 73 om eiendomsmegling gjøres følgende endring:
 >
 
 ## § 82 a

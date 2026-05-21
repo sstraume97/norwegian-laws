@@ -13,3 +13,12 @@ refid: "lov/1952-11-21-3"
 
 > Forsvarsloven kapittel 8 får anvendelse med de avvikelser som etter Kongens bestemmelse anses påkrevd av hensyn til tjenesten i politiet.
 >
+
+## § 1
+
+### 2005-12-21 — lov/2005-12-21-131
+
+*§ 1 første ledd skal lyde:*
+
+> Menn og kvinner som i henhold til sivilforsvarslovgivningen er pliktig til å gjøre tjeneste i sivilforsvaret, kan i stedet pålegges å gjøre tjeneste i politiet.
+>

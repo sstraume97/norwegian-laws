@@ -7,6 +7,72 @@ refid: "lov/2002-06-21-45"
 
 ## (annet)
 
+### 2004-01-01 — lov/2003-12-19-132
+
+*Nytt kapittel 7A skal lyde:*
+
+> § 37 a.Virkeområde
+>
+> Førar av drosje, selskapsvogn, turvogn, rutevogn og motorvogn som er spesielt utforma og/eller utstyrt for transport for funksjonshemma, må under persontransport mot vederlag ha kjøresetel i tillegg til førarkort.
+>
+> Kjøresetelen gjeld for heile landet og blir utferda av politimeisteren eller den han gir myndigheit der vedkommande bur. Det er ikkje nødvendig med ny kjøresetel ved skifte av bustad, jf. § 37 c andre ledd.
+>
+> Kjøresetel blir utferda for 10 år. For person som er fylt 60 år blir kjøresetelen utferda for fem år, men ikkje lenger enn til innehavar fyller 70 år. Dersom særlege helseforhold tilseier det, skal perioden kjøresetelen er gyldig for setjast kortare.
+>
+> § 37 b.Søknad om kjøresetel m.m.
+>
+> Søknad om kjøresetel skal gjerast på fastsett blankett. Legeattest skal leggjast ved søknad om kjøresetel og søknad om fornying av kjøresetel.
+>
+> Det blir stilt same krav til helse m.m. som for førarkort klasse D og DE. Dersom innehavar av kjøresetel ikkje lenger fyller dei krava som er sette for syn, hørsel og førleik, pliktar vedkommande å gi melding til politiet.
+>
+> Politiet skal gi kjøresetelen påteikning om eventuelle avgrensande vilkår.
+>
+> § 37 c.Vilkår for tildeling av kjøresetel m.m.
+>
+> Den som skal få kjøresetel, må være fylt 20 år og ha slik vandel at politiet ikkje finn vedkommande uskikka til å virke som førar av slik motorvogn som nemnd i § 37 a.
+>
+> Politimeisteren eller den han gir myndigheit kan bestemme at det for å få kjøresetel for drosje skal krevjast avlagt prøve som viser tilstrekkeleg kjennskap til løyvedistriktet. Er slikt vedtak sett i verk, gjeld ikkje kjøresetel frå anna politidistrikt utan påteikning frå politiet om at vedkommande har stått til kjentmannsprøven.
+>
+> § 37 d.Mellombels nekting av kjøresetel
+>
+> Blir ein som ikkje har kjøresetel med skilleg grunn mistenkt for straffbart forhold, som kan vere avgjerande for retten til å få kjøresetel, kan politimeisteren eller den han gir myndigheit bestemme at kjøresetel ikkje skal utferdast før saka er endeleg avgjort, likevel ikkje ut over tre månadar utan orskurd frå tingretten.
+>
+> § 37 e.Beslag av kjøresetel
+>
+> Finn politiet at innehavar av kjøresetel med skilleg grunn er mistenkt for straffbart forhold som kan medføre tap av retten til å føre motorvogn ved persontransport mot vederlag, jf. § 37 f andre ledd, kan ein polititenestemann ta kjøresetelen frå innehavaren. Spørsmålet om å oppretthalde beslaget skal så snart som mogeleg leggjast fram for ein tenestemann som tilhører påtalemakta. Avgjerda skal gjerast skriftleg. Dersom den mistenkte ikkje samtykker i beslaget, må spørsmålet om fortsett beslag av kjøresetel innan tre veker sendast tingretten til avgjerd.
+>
+> § 37 f.Tilbakekalling og tap av retten til å føre motorvogn ved persontransport mot vederlag
+>
+> Politimeisteren eller den han gir myndigheit, kan treffe vedtak om å kalle retten til å føre motorvogn ved persontransport mot vederlag tilbake, dersom vedkommande ikkje er edrueleg eller viser seg å vere upåliteleg eller å ha andre eigenskapar som gjer at han må reknast som uskikka til å vere førar av bil under persontransport mot vederlag.
+>
+> Blir den som har kjøresetel ilagt straff, kan det i same dom eller ved førelegg fastsetjast tap av retten til å føre motorvogn ved persontransport mot vederlag for ei bestemt tid eller for alltid, dersom allmenne omsyn elles krev det.
+>
+> § 37 g.Innlevering av kjøresetel
+>
+> Ved beslag av kjøresetel, tilbakekalling eller tap av retten til å føre motorvogn ved persontransport mot vederlag, pliktar innehavaren straks å levere kjøresetelen til politiet.
+>
+> § 37 h.Klage og unntak
+>
+> For vedtak treft av politiet er Politidirektoratet klageinstans. I klagesak om krav til helse og førleik for kjøresetel, skal politiet byggje på endeleg avgjerd frå Statens helsetilsyn om helsemessige tilhøve. Gjeld klagen krav til førleik som er avgjort av regionvegkontoret, skal politiet byggje på endeleg avgjerd frå Vegdirektoratet. For vedtak treft av regionvegkontoret er Vegdirektoratet klageinstans.
+>
+> Politidirektoratet kan i særskilde høve gjere unntak frå reglane i kapittelet her.
+>
+> § 37 i.Forkorting på grunn av etterfølgjande forhold m.m.
+>
+> Tilbakekalling av retten til å føre motorvogn ved persontransport mot vederlag er ikkje til hinder for at politimeisteren eller den han gir myndigheit utferdar ny kjøresetel dersom dei grunnar som medførte tilbakekallinga ikkje lenger er til stades.
+>
+> Dersom særlige grunnar talar for det, kan politimeisteren eller den han gir myndigheit forkorte den perioden for tap av retten til å føre motorvogn ved persontransport mot vederlag som er fastsett ved dom eller førelegg, jf. § 37 f. Dersom særs sterke grunner talar for det, kan perioden forkortast sjølv om minstetida etter lov eller forskrift ikkje er gått ut.
+>
+
+### 2015-01-23 — lov/2015-01-23-6
+
+*I kapittel 7A skal ny § 37 j lyde:*
+
+> § 37 j.Forskrift om kjøresetel
+>
+> Departementet kan i forskrift gje nærare reglar om kjøresetel.
+>
+
 ### 2024-03-15 — lov/2024-03-15-10
 
 *Overskriften i § 9 skal lyde:*
@@ -81,6 +147,15 @@ refid: "lov/2002-06-21-45"
 
 *Nåværende § 9 g blir ny § 9 i.*
 
+## § 10
+
+### 2013-06-21 — lov/2013-06-21-104
+
+*§ 10 første ledd skal lyde:*
+
+> (1) Den som har forretningsstad i Noreg og som vil utføre transport av personar eller gods mot vederlag til eller frå utlandet, må ha rett til å utføre tilsvarande transport innanlands og dessutan ha særskilt samtykke frå vedkommande stat dersom dette krevst.
+>
+
 ## § 11 a
 
 ### 2022-06-17 — lov/2022-06-17-70
@@ -103,6 +178,17 @@ refid: "lov/2002-06-21-45"
 
 ## § 12
 
+### 2013-06-21 — lov/2013-06-21-104
+
+*§ 12 skal lyde:*
+
+> § 12.Løyve
+>
+> (1) Løyve etter §§ 4 og 5 vert gjevne av Statens vegvesen.
+>
+> (2) Løyve etter § 9 vert gjevne av fylkeskommunen.
+>
+
 ### 2024-03-15 — lov/2024-03-15-10
 
 *§ 12 andre ledd skal lyde:*
@@ -115,6 +201,19 @@ refid: "lov/2002-06-21-45"
 
 *§ 12 andre ledd skal lyde:*
 
+## § 14
+
+### 2013-06-21 — lov/2013-06-21-104
+
+*§ 14 skal lyde:*
+
+> § 14.Internasjonal transport og kabotasje utanfor EØS
+>
+> (1) Tillatingar etter § 10 første ledd vert gjevne av Statens vegvesen.
+>
+> (2) Samtykke til transport etter § 10 andre og tredje ledd vert gjeve av departementet.
+>
+
 ## § 19
 
 ### 2024-03-15 — lov/2024-03-15-10
@@ -126,6 +225,17 @@ refid: "lov/2002-06-21-45"
 *§ 19 oppheves.*
 
 ## § 20
+
+### 2017-12-15 — lov/2017-12-15-111
+
+*§ 20 skal lyde:*
+
+> § 20.Samkøyring og ambulansetransport
+>
+> (1) Det trengst ikkje løyve når den som rår over ein personbil, tek med seg folk som har eit samanfallande transportbehov som han sjølv. Vederlaget for transporten kan ikkje overstige passasjerane sin forholdsmessige del av transportkostnadene. Transportkostnadene etter andre punktum vert rekna ut frå den skattefrie satsen for kilometergodtgjersle i reiseregulativ for staten, med tillegg av eventuelle kostnader til bompengar og ferje.
+>
+> (2) Likeins krevst det ikkje løyve for transport av sjuke eller skadde personar med godkjend ambulanse.
+>
 
 ### 2024-03-15 — lov/2024-03-15-10
 
@@ -164,7 +274,46 @@ refid: "lov/2002-06-21-45"
 > (1) Fylkeskommunen kan gjere vedtak om at godtgjersle til rutetransport skal gå til eit selskap som administrerer rutesambanda i fylket. § 22 femte ledd gjeld tilsvarande.
 >
 
+## § 26
+
+### 2015-01-23 — lov/2015-01-23-6
+
+*§ 26 skal lyde:*
+
+> § 26.Politiattest
+>
+> Det skal krevjast ordinær politiattest ved søknad om løyve etter denne lova, og etter at løyve er gitt etter ein tidsperiode som vert nærare fastsett av departementet.
+>
+
+## § 26 a
+
+### 2013-06-21 — lov/2013-06-21-104
+
+*Ny § 26 a skal lyde:*
+
+> § 26 a.Erklæring om at transportleiarar ikkje er skikka til å leie transportverksemd
+>
+> (1) Løyvestyresmaktene skal erklære at ein transportleiar er uskikka til å leie transportverksemd dersom transportleiaren ikkje lenger oppfyller kravet til god vandel. Det skal gå fram av erklæringa at ho gjeld for den perioden kravet til god vandel ikkje er oppfylt.
+>
+> (2) Departementet kan gje nærare forskrift om erklæring om uskikka transportleiarar.
+>
+
 ## § 27
+
+### 2013-06-21 — lov/2013-06-21-104
+
+*§ 27 skal lyde:*
+
+> § 27.Kor lenge eit løyve gjeld
+>
+> (1) Løyve etter §§ 4 og 5 gjeld i ti år.
+>
+> (2) Løyve etter § 9 gjeld utan avgrensing i tid, jf. likevel § 9 andre ledd.
+>
+> (3) Behovsprøvde løyve etter §§ 6 og 7 gjeld i ti år. Ved bruk av konkurranse ved tildeling av løyve, eller når det følgjer av forskrift gjeve med heimel i denne lova, gjeld løyve for den tid inngått kontrakt om offentleg tenesteyting gjeld. Løyve som er gjeve når denne lova tok til å gjelde, gjeld for den tida dei er gjevne for. Løyvestyresmaktene kan ta att eit løyve før løyvetida er ute i samband med innføring av konkurranse for vedkommande rute eller ruteområde.
+>
+> (4) Departementet kan i løyvetida gjere endringar i forskriftene for løyvepliktig verksemd og i vilkår som er sette for eit løyve. Vil løyvehavaren ikkje halde fram med drifta på dei nye vilkåra, skal han få ei rimeleg tid til å leggje ned verksemda.
+>
 
 ### 2019-07-01 — lov/2019-06-21-67
 
@@ -190,6 +339,19 @@ refid: "lov/2002-06-21-45"
 *§ 27 andre ledd skal lyde:*
 
 ## § 29 a
+
+### 2013-06-21 — lov/2013-06-21-104
+
+*Ny § 29 a skal lyde:*
+
+> § 29 a.Elektronisk register over dei som har og dei som søkjer om løyve etter lova her
+>
+> (1) Departementet skal opprette og drive eit elektronisk register over dei som har forretningsstad i Noreg, og som har eller som søkjer om løyve etter lova her. Registeret skal innehalde opplysningar knytt til løyve, mellom anna opplysningar om namn og juridisk form på verksemda, verksemda si adresse, namn på transportleiarar og løyvetype som er tildelt verksemda. I tillegg skal registeret innehalde opplysningar om vandel knytt til person og verksemd.
+>
+> (2) Registeret skal koplast saman med dei elektroniske registra i dei andre EØS-landa for utveksling av informasjon etter vilkår som vert nærare fastsette av departementet.
+>
+> (3) Departementet kan gje nærare forskrift om registeret.
+>
 
 ### 2022-06-22 — lov/2022-06-22-84
 
@@ -246,6 +408,23 @@ refid: "lov/2002-06-21-45"
 
 ## § 32 a
 
+### 2014-08-29 — lov/2014-08-29-63
+
+*Ny § 32 a skal lyde:*
+
+> § 32 a.Passasjerrettar
+>
+> (1) Departementet kan gje forskrift om gjennomføring og utfylling av reglar om busspassasjerrettar som er tekne inn i EØS-avtalen.
+>
+> (2) Departementet kan peike ut bussterminalar som skal tilby assistanse til personar med nedsett funksjons- eller rørsleevne, og kan gje nærare forskrift om slike ordningar.
+>
+> (3) Departementet kan gje forskrift om skiping av eit klageorgan for løysing av tvistar mellom passasjerar og den som driv persontransport med motorvogn i rute, eller andre som i samband med slik transport har plikter overfor passasjerane. Departementet kan gje forskrift om at klageorganet heilt eller delvis skal finansierast gjennom gebyr frå den som mot vederlag driv persontransport med motorvogn i rute, andre som er omfatta av ordninga, og klagarane. Departementet kan òg gje forskrift om innkrevjing av gebyr og forskrift som nemnt i luftfartsloven § 10-44 andre ledd første punktum og andre punktum nr. 1 til 3 og nr. 5 og 6. Reglane i luftfartsloven §§ 10-45 til 10-47 gjeld tilsvarande. Avgjerdene i klageorganet skal ikkje vere rettsleg bindande.
+>
+> (4) Departementet kan fastsetje at den som mot vederlag driv persontransport i rute med motorvogn i, til eller frå Noreg, eller andre som i samband med slik transport har plikter overfor passasjerane, skal vere omfatta av klageordninga i tredje ledd.
+>
+> (5) Departementet kan peike ut eit handhevingsorgan som skal føre tilsyn med at reglar gjevne i, eller med heimel i, første til fjerde ledd vert følgde. Handhevingsorganet kan gje pålegg om retting og tvangsmulkt ved brot på reglane i første til fjerde ledd. Departementet kan gje forskrift om at handhevingsorganet utan omsyn til teieplikta kan krevje innsyn og informasjon frå den som mot vederlag driv persontransport med motorvogn i rute, eller andre som i samband med slik transport har pliktar overfor passasjerane.
+>
+
 ### 2020-05-20 — lov/2020-05-20-42
 
 *§ 32 a femte ledd skal lyde:*
@@ -289,6 +468,22 @@ refid: "lov/2002-06-21-45"
 
 ## § 37 a
 
+### 2009-06-19 — lov/2009-06-19-108
+
+*§ 37 a tredje ledd skal lyde:*
+
+> Kjøresetel blir utferda for 10 år. For person som er fylt 60 år blir kjøresetelen utferda for 5 år, men ikkje lenger enn til innehavaren fyller 75 år. Etter fylte 70 år må gyldig legeattest som ikkje er eldre enn 1 år, takast med for at kjøresetelen skal vere gyldig. Dersom særlege helseforhold tilseier det, skal perioden kjøresetelen er gyldig for setjast kortare.
+>
+> I § 37 h første ledd andre punktum skal «Statens helsetilsyn» endrast til «Helsedirektoratet».
+>
+
+### 2015-01-23 — lov/2015-01-23-6
+
+*§ 37 a andre ledd skal lyde:*
+
+> Kjøresetelen gjeld for heile landet og blir utferda av politimeisteren eller den han gir myndigheit der vedkommande bur. Det er ikkje nødvendig med ny kjøresetel ved skifte av bustad, jf. likevel § 37 c fjerde ledd.
+>
+
 ### 2019-07-01 — lov/2019-06-21-67
 
 *§ 37 a første ledd skal lyde:*
@@ -331,6 +526,21 @@ refid: "lov/2002-06-21-45"
 *§ 37 b andre ledd første punktum oppheves.*
 
 ## § 37 c
+
+### 2015-01-23 — lov/2015-01-23-6
+
+*§ 37 c skal lyde:*
+
+> § 37 c.Vilkår for tildeling av kjøresetel m.m.
+>
+> Den som skal få kjøresetel, må vere fylt 20 år og ha slik vandel at politiet ikkje finn vedkommande uskikka til å virke som førar av slik motorvogn som nemnd i § 37 a.
+>
+> For utlendingar krevst det 4 års butid i Noreg før kjøresetel kan utferdast. Kravet om butid gjeld likevel ikkje forEØS-borgarar som legg fram politiattest frå heimstaten sin,utlendingar frå land utanfor EØS som har opphald i eit EØS-land og som kan leggje fram politiattest og bevis på lovleg opphald frå EØS-landet,utlendingar frå land utanfor EØS med tidlegare opphald i Noreg, der fråveret ikkje er av eit slikt omfang at det ikkje kan gjennomførast tilfredsstillande vandelskontroll.
+>
+> For tredjelandsborgarar som ikkje har fått opphaldstillating før innreise til Noreg, skal butida reknast frå den datoen søknaden om opphaldstillating vert registrert hos utlendingsstyresmaktene. For EØS-borgarar, og tredjelandsborgarar som har fått opphaldstillating før innreise til Noreg, vert butida rekna frå det tidspunktet som følgjer av politiregisterforskrifta § 28-4 andre ledd.
+>
+> Politimeisteren eller den han gir myndigheit kan bestemme at det for å få kjøresetel for drosje kan krevjast avlagt prøve som viser tilstrekkeleg kjennskap til løyvedistriktet. Er slikt vedtak sett i verk, gjeld ikkje kjøresetel frå anna politidistrikt utan påteikning frå politiet om at vedkommande har stått til kjentmannsprøven.
+>
 
 ### 2019-07-01 — lov/2019-06-21-67
 
@@ -380,6 +590,17 @@ refid: "lov/2002-06-21-45"
 
 ## § 4
 
+### 2013-06-21 — lov/2013-06-21-104
+
+*§ 4 skal lyde:*
+
+> § 4.Løyve for persontransport med motorvogn
+>
+> (1) Den som mot vederlag vil drive nasjonal eller internasjonal persontransport med motorvogn, må ha løyve. Det same gjeld den som utfører persontransport mot vederlag på liknande måte som drosje når tilbod om transport vert retta til ålmenta på offentleg plass.
+>
+> (2) Løyve kan tildelast den somdriv ei faktisk og varig verksemd i Noreg,har god vandel,har tilfredsstillande økonomisk evne, oghar tilstrekkeleg fagleg kompetanse.
+>
+
 ### 2019-07-01 — lov/2019-06-21-67
 
 *§ 4 første ledd skal lyde:*
@@ -423,6 +644,21 @@ refid: "lov/2002-06-21-45"
 
 ## § 40 a
 
+### 2009-06-19 — lov/2009-06-19-108
+
+*Ny § 40 a skal lyde:*
+
+> § 40 a.Lovbrotsgebyr
+>
+> (1) Den som med vilje eller aktløyse bryt § 38, kan påleggjast lovbrotsgebyr. Når slikt lovbrot er gjort av nokon som har handla på vegne av eit føretak, kan lovbrotsgebyr påleggjast føretaket. Dette gjeld sjølv om lovbrotsgebyr ikkje kan bli pålagd nokon einskild person. Med føretak er her meint selskap, enkeltmannsføretak, stifting, foreining eller anna samanslutning, bu eller offentleg verksemd. Lovbrotsgebyr kan påleggjast av tenestemann frå politiet og Statens vegvesen, eller av annan offentleg tenestemann som departementet har gjeve rett til å føre kontroll etter denne lova.
+>
+> (2) Når ikkje anna er bestemt, er fristen for å betale lovbrotsgebyr fire veker.
+>
+> (3) Endeleg vedtak om lovbrotsgebyr er tvangsgrunnlag for utlegg.
+>
+> (4) Departementet kan gje forskrifter om fastsetjing og gjennomføring av pålegg om lovbrotsgebyr. Forskriftene kan innehalde reglar om rente og tilleggsgebyr dersom lovbrotsgebyr ikkje blir betalt ved forfall, og om at også andre enn den som er pålagd sanksjonen, er ansvarleg for at dette blir betalt.
+>
+
 ### 2019-07-01 — lov/2019-06-21-67
 
 *§ 40 a første ledd skal lyde:*
@@ -439,6 +675,31 @@ refid: "lov/2002-06-21-45"
 > (1) Den som har fullmakt til å føre kontroll etter denne lova kan påleggje lovbrotsgebyr til den som med vilje eller aktløyse bryt føresegner fastsette i medhald av denne lova. Når slikt lovbrot er gjort av nokon som har handla på vegne av eit føretak, kan lovbrotsgebyr påleggjast føretaket. Dette gjeld sjølv om lovbrotsgebyr ikkje kan bli pålagd nokon einskild person. Med føretak er her meint selskap, enkeltpersonføretak, stifting, foreining eller anna samanslutning, bu eller offentleg verksemd.
 >
 > (2) Departementet kan gje forskrift om kva for brot på reglar som er gjevne i medhald av denne lova, som skal kunne føre til lovbrotsgebyr. Departementet kan òg gje forskrift om fastsetjing og gjennomføring av pålegg om lovbrotsgebyr, reglar om betalingsfristar, gebyrets størrelse, rente og tilleggsgebyr dersom eit lovbrotsgebyr ikkje blir betalt ved forfall, og om at også andre enn den som er pålagd gebyret, er ansvarleg for at det blir betalt.
+>
+
+## § 40 b
+
+### 2015-12-11 — lov/2015-12-11-102
+
+*Ny § 40 b skal lyde:*
+
+> § 40 b.Lovbrotsgebyr knytt til tildeling av tenestekonsesjonskontraktar
+>
+> (1) Departementet kan påleggje oppdragsgjevar eit lovbrotsgebyr dersom oppdragsgjevaren bryt reglar som skal sikre openheit og ikkje-diskriminering i prosessen med å tildele konsesjonskontraktar for transporttenester etter lova her. Lovbrotsgebyret kan verte pålagt dersom eitt av følgjande vilkår er oppfylt:brotet er konstatert ved rettskraftig dom i ein norsk domstol,brotet er konstatert ved dom i EFTA-domstolen, ellernorske styresmakter har innrømt brotet etter at saka er handsama i EFTAs overvakingsorgan. Dersom oppdragsgjevaren ikkje har hatt høve til å uttale seg i saka før innrømminga fann stad, og det er grunn til å rekne med at dette har hatt verknad på innrømminga, kan innrømminga ikkje gje grunnlag for lovbrotsgebyr.
+>
+> (2) Lovbrotsgebyret skal ikkje overstige 15 % av kontraktsverdien.
+>
+> (3) Ved utmåling av gebyret skal det særleg leggjast vekt på kontraktsverdien, kor grovt brotet er, om oppdragsgjevaren har gjort gjentekne brot, den preventive verknaden av lovbrotsgebyret, kor langt tilbake i tid brotet har skjedd, og om brotet har ført til skadebot, terminering eller avkorting av kontrakten.
+>
+> (4) Fristen for å betale lovbrotsgebyret er åtte veker frå vedtaket vart gjort.
+>
+> (5) Avgjerd om å påleggje lovbrotsgebyr etter denne føresegna skal følgje reglane om enkeltvedtak i forvaltningslova så langt dei høver. Dersom ei avgjerd om lovbrotsgebyr vert bringa inn for ein domstol, kan domstolen prøve alle sidene av saka. Retten kan gje dom for realitet.
+>
+> (6) Lovbrotsgebyr kan ikkje påleggjast seinare enn tre år etter at kontrakten vart inngått. Fristen vert avbroten ved at det vert teke ut søksmål ved norsk domstol eller ved EFTA-domstolen for å få dom i saka, eller ved at EFTAs overvakingsorgan tek opp saka skriftleg med norske styresmakter.
+>
+> (7) I tilfelle der departementet sjølv eller eit anna statleg organ som er underlagt departementet gjer brot som nemnt i første ledd, kan departementet delegere kompetansen til å påleggje lovbrotsgebyret til Klagenemnda for offentlige anskaffelser. Avgjerd frå Klagenemnda for offentlige anskaffelser om å påleggje lovbrotsgebyr kan ikkje påklagast.
+>
+> (8) Departementet kan gje forskrift om fastsetjing av lovbrotsgebyret, medrekna utmåling av gebyret, renter og tilleggsgebyr og avgrensing av kva tenestekonsesjonskontraktar som fell inn under føresegna her.
 >
 
 ## § 41 a
@@ -464,6 +725,24 @@ refid: "lov/2002-06-21-45"
 
 ## § 5
 
+### 2009-06-19 — lov/2009-06-19-108
+
+*§ 5 skal lyde:*
+
+> § 5.Løyve for godstransport med motorvogn
+>
+> (1) Den som mot vederlag vil drive godstransport med motorvogn eller motorvogn med tilhengar, med tillaten totalvekt over ei vektgrense som vert nærare fastsett av departementet må ha løyve. Det same gjeld den som utfører godstransport mot vederlag med motorvogn som elles er friteken frå kravet til løyve i medhald av § 16, når transporten kan sjåast som ledd i næringsverksemd. § 4 andre ledd gjeld tilsvarande.
+>
+> (2) Som motorvogn etter denne lova reknast varebil, lastebil, kombinert bil og trekkbil tillaten brukt på offentleg veg.
+>
+
+### 2013-06-21 — lov/2013-06-21-104
+
+*§ 5 første ledd første punktum skal lyde:*
+
+> (1) Den som mot vederlag vil drive nasjonal eller internasjonal godstransport med motorvogn eller motorvogn med tilhengar, med tillaten totalvekt over ei vektgrense som vert nærare fastsett av departementet, må ha løyve.
+>
+
 ### 2023-05-26 — lov/2023-05-26-16
 
 *§ 5 andre ledd skal lyde:*
@@ -484,6 +763,13 @@ refid: "lov/2002-06-21-45"
 
 ## § 7
 
+### 2015-01-23 — lov/2015-01-23-6
+
+*§ 7 første ledd skal lyde:*
+
+> (1) Den som mot vederlag vil drive persontransport i rute med luftputefartøy, eller med anna fartøy over 8 m lengde tilsvarande 4 bruttotonn må ha ruteløyve. § 4 andre ledd bokstav b) og c) og § 6 andre ledd gjeld tilsvarande.
+>
+
 ### 2022-06-17 — lov/2022-06-17-70
 
 *§ 7 første ledd annet punktum skal lyde:*
@@ -493,6 +779,31 @@ refid: "lov/2002-06-21-45"
 
 ## § 8
 
+### 2009-06-19 — lov/2009-06-19-108
+
+*§ 8 skal lyde:*
+
+> § 8.Tildeling av løyve ved konkurranse
+>
+> (1) Tildeling av løyve etter §§ 6 og 7 kan skje ved konkurranse.
+>
+> (2) Reglane i arbeidsmiljøloven §§ 16-2 til 16-7, om arbeidstakarane sine rettar ved overdraging av verksemd gjeld tilsvarande når løyvet blir tildelt ved konkurranse, dersom verksemda etter konkurranse blir driven med same type transportmiddel som før.
+>
+> (3) Løyvestyresmakta skal informere dei som vil delta i konkurransen, om kor mange tilsette den verksemda har som no har løyvet knytt til den rutetenesta konkurransen gjeld, og om deira alder, ansiennitet og lønns- og arbeidsvilkår.
+>
+> (4) Løyvestyresmakta kan krevje informasjonen nemnt i tredje ledd frå den som har løyve etter §§ 6 eller 7.
+>
+> (5) Den som får tildelt løyve gjennom konkurranse, må forplikte seg til å sikre at dei tilsette som direkte arbeider med å oppfylle kontrakten, får lønns- og arbeidsvilkår som ikkje er dårlegare enn det som følgjer av gjeldande landsomfattande tariffavtale, eller det som elles er normalt for vedkommande stad og yrke. Tilsvarande plikt gjeld òg for underleverandørar.
+>
+> (6) Andre til femte ledd gjeld òg når konkurranse blir gjennomført av administrasjonsselskap på oppdrag frå løyvestyresmakta.
+>
+> (7) Departementet kan gje nærare forskrift om konkurranse.
+>
+> § 16 fjerde ledd blir oppheva.
+>
+> I §§ 22, 24 og 27 skal uttrykket «anbod» endrast til «konkurranse».
+>
+
 ### 2017-06-09 — lov/2017-06-09-40
 
 *§ 8 første ledd skal lyde:*
@@ -501,6 +812,20 @@ refid: "lov/2002-06-21-45"
 >
 
 ## § 9
+
+### 2013-06-21 — lov/2013-06-21-104
+
+*§ 9 første ledd skal lyde:*
+
+> (1) Den som mot vederlag vil drive persontransport utanfor rute med motorvogn registrert for inntil 9 personar, må ha særskilt drosjeløyve. § 4 andre ledd gjeld tilsvarande.
+>
+
+### 2017-12-15 — lov/2017-12-15-111
+
+*§ 9 andre ledd skal lyde:*
+
+> (2) Løyve for drosjekøyring gjeven til fysisk person fell bort når innehavaren fyller 75 år.
+>
 
 ### 2019-07-01 — lov/2019-06-21-67
 

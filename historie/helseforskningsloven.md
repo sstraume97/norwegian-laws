@@ -86,6 +86,20 @@ refid: "lov/2008-06-20-44"
 
 ## § 17
 
+### 2013-04-05 — lov/2013-04-05-12
+
+*§ 17 første ledd skal lyde:*
+
+> Rett til å samtykke til deltakelse i medisinsk og helsefaglig forskning har:personer over 18 år, med mindre annet følger av sjette ledd, ogpersoner mellom 16 og 18 år, med mindre annet følger av særlige lovbestemmelser eller av tiltakets art.
+>
+
+### 2013-04-05 — lov/2013-04-05-12
+
+*§ 17 sjette ledd skal lyde:*
+
+> For personer som er fratatt rettslig handleevne på det personlige området, gjelder pasient- og brukerrettighetsloven § 4-7 tilsvarende.
+>
+
 ### 2025-06-20 — lov/2025-06-20-71
 
 *§ 17 skal lyde:*

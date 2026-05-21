@@ -27,6 +27,13 @@ refid: "lov/1993-06-11-101"
 > Med hensyn til straffebestemmelsenes anvendelse på handlinger foretatt utenfor norsk område gjelder reglene i den borgerlige straffelov kapittel 1, jf. nærværende lovs § 15-2 annet ledd.
 >
 
+### 2009-06-19 — lov/2009-06-19-74
+
+*§ 1-2 fjerde ledd skal lyde:*
+
+> Med hensyn til straffebestemmelsenes anvendelse på handlinger foretatt utenfor norsk område gjelder reglene i straffeloven §§ 5-8, jf. nærværende lovs § 15-2 annet ledd.
+>
+
 ## § 1-3
 
 ### 2024-06-25 — lov/2024-06-25-70
@@ -107,6 +114,33 @@ refid: "lov/1993-06-11-101"
 > når vilkårene etter § 3-2 eller i forskrift gitt med hjemmel i § 16-1 om gjennomføring av EØS-avtalen på luftfartens område ikke lenger er til stede,
 >
 
+## § 3-21
+
+### 2007-02-27 — lov/2007-01-26-3
+
+*§ 3-21 fjerde ledd skal lyde:*
+
+> De innskrenkninger i adgangen til å ta anke til følge som er fastsatt i tinglysingsloven §§ 10 a og 10 b, gjelder tilsvarende ved klage over registreringsmyndighetens avgjørelser.
+>
+
+## § 3-22
+
+### 2007-02-27 — lov/2007-01-26-3
+
+*§ 3-22 annet ledd annet punktum skal lyde:*
+
+> Det samme gjelder beslutning om en midlertidig forføyning i medhold av tvisteloven kapittel 32 og 34.
+>
+
+## § 3-24
+
+### 2020-12-18 — lov/2020-12-18-149
+
+*§ 3-24 annet ledd første punktum skal lyde:*
+
+> Dokument utstedt av arvingene som har overtatt boet til privat skifte mens privat skifte av hjemmelshaverens dødsbo pågår, kan registreres når det senest samtidig registreres attest fra tingretten om at boet er overtatt til privat skifte.
+>
+
 ## § 3-25
 
 ### 2001-07-01 — lov/2001-05-04-18
@@ -114,6 +148,29 @@ refid: "lov/1993-06-11-101"
 *§ 3-25 annet ledd skal lyde:*
 
 > Bestemmelsen i første ledd gjelder også dokument utstedt av loddeiere eller skifterett i medhold av § 3-24 annet eller tredje ledd. Loddeiere som ønsker selv å overta registrert luftfartøy som de har arvet, får registerhjemmel ved registrering av erklæring om overtagelsen. Blir boet overtatt av gjenlevende ektefelle alene i medhold av lov 3. mars 1972 nr. 5 om arv m.m. § 6, går hjemmelen over til gjenlevende ektefelle ved registrering av attest fra skifteretten om at boet er overtatt av den gjenlevende.
+>
+
+### 2020-12-18 — lov/2020-12-18-149
+
+*§ 3-25 annet ledd skal lyde:*
+
+> Bestemmelsen i første ledd gjelder også dokument utstedt av arvinger eller tingrett i medhold av § 3-24 annet eller tredje ledd. Arvinger som ønsker selv å overta registrert luftfartøy som de har arvet, får registerhjemmel ved registrering av erklæring om overtagelsen. Blir boet overtatt av gjenlevende ektefelle alene i medhold av arveloven §§ 8 og 9, går hjemmelen over til gjenlevende ektefelle ved registrering av attest fra retten om at boet er overtatt av den gjenlevende.
+>
+> 20.I lov 12. mai 1995 nr. 23 om jord skal § 3 fjerde punktum lyde:
+>
+> Fylkesmannen kan med verknad for ein bestemt tidsperiode påleggje kommunar å sende inn fortløpande utskrift av alle avgjerder i ein eller fleire sakstypar etter denne lova eller konsesjonslova.
+>
+> 21.I lov 7. juni 1996 nr. 32 om gravplasser, kremasjon og gravferd skal § 9 femte ledd nytt tredje punktum lyde:
+>
+> Er boet ikke overtatt til privat skifte eller uskifte innen fristene etter arveloven, og det heller ikke er åpnet offentlig skifte eller utstedt fullmakt etter arveloven § 95, har tingretten fullmakt til å disponere over arvelaterens eiendeler slik at kommunen får dekket sitt krav mot boet.
+>
+> 22.I lov 13. juni 1997 nr. 44 om aksjeselskaper skal § 18-3 første ledd lyde:
+>
+> (1) Når tingretten behandler saker etter loven her, gjelder reglene om saksbehandling i arveloven § 169 når noe annet ikke fremgår av loven her.
+>
+> 23.I lov 13. juni 1997 nr. 45 om allmennaksjeselskaper skal § 18-3 første ledd lyde:
+>
+> (1) Når tingretten behandler saker etter loven her, gjelder reglene om saksbehandling i arveloven § 169 når noe annet ikke fremgår av loven her.
 >
 
 ## § 3-37
@@ -713,6 +770,15 @@ refid: "lov/1993-06-11-101"
 > Forslaget legges ut på et høvelig sted til ettersyn for dem saken vedkommer. Utleggingen og kunngjøringen om utleggingen skal skje etter bestemmelsene i plan- og bygningsloven § 5-2 annet og tredje ledd.
 >
 
+## § 7-18
+
+### 2007-02-27 — lov/2007-01-26-3
+
+*§ 7-18 annet ledd tredje punktum skal lyde:*
+
+> Regelen om oppfriskning i tvisteloven §§ 16-12 til 16-14 gjelder tilsvarende.
+>
+
 ## § 7-22
 
 ### 2001-07-01 — lov/2001-05-04-18
@@ -895,7 +961,113 @@ refid: "lov/1993-06-11-101"
 > Departementet gir forskrifter om opprettelse av restriksjonsområder og andre begrensninger i luftrommet for å unngå sammenstøt mellom luftfartøyer eller andre luftfartsulykker, og for å ivareta viktige samfunnsinteresser.
 >
 
+## § 10-4
+
+### 2004-01-16 — lov/2004-01-16-4
+
+*§ 10-4 skal lyde:*
+
+> Om reisegodsbevis
+>
+> Fraktføreren skal utstede reisegodsbevis til passasjeren for hvert stykke innskrevet reisegods.
+>
+> Transportavtalen og bestemmelsene i kapitlet her gjelder selv om bestemmelsene i paragrafen her ikke er overholdt.
+>
+> I § 10-5 gjøres følgende endringer:
+>
+> Annet ledd første punktum skal lyde:
+>
+> Luftfraktbrev behøver ikke å utferdiges dersom opplysningene om befordringen registreres på annen måte.
+>
+> Tredje ledd oppheves.
+>
+> I § 10-10 gjøres følgende endringer:
+>
+> Første ledd nytt tredje punktum skal lyde:
+>
+> Avsenderen er ansvarlig etter første og annet punktum selv om den som har opptrådt på hans vegne, også er agent for fraktføreren.
+>
+> Første ledd nåværende tredje punktum blir nytt fjerde punktum.
+>
+> I § 10-16 gjøres følgende endringer:
+>
+> Nytt første ledd skal lyde:
+>
+> Fraktføreren kan forlange at avsenderen skal utstede et dokument som angir godsets art, dersom slik dokumentasjon kreves av tollvesenet, politiet eller andre offentlige myndigheter. Dette skal ikke medføre noen forpliktelser eller ansvar for fraktføreren.
+>
+
+## § 10-18
+
+### 2004-01-16 — lov/2004-01-16-4
+
+*§ 10-18 skal lyde:*
+
+> Ansvar for reisegods
+>
+> Blir innskrevet reisegods skadd, eller går det helt eller delvis tapt, er fraktføreren ansvarlig, såfremt den hendelse som har forårsaket skaden, er inntruffet om bord på luftfartøy eller mens godset var i fraktførerens varetekt. Fraktføreren er likevel ikke ansvarlig i den utstrekning skaden skyldes reisegodsets egen beskaffenhet eller av feil eller mangler ved reisegodset.
+>
+> For ikke innskrevet reisegods, herunder personlige eiendeler, er fraktføreren ansvarlig dersom skaden er forårsaket av feil begått av fraktføreren, dennes ansatte eller andre som fraktføreren svarer for.
+>
+> Passasjeren kan gjøre gjeldende sine rettigheter etter første og annet ledd dersom innskrevet reisegods ikke er kommet frem senest 21 dager etter at det skulle ha kommet frem, eller dersom fraktføreren erkjenner at innskrevet reisegods er gått tapt.
+>
+> I § 10-19 gjøres følgende endringer:
+>
+> Overskriften skal lyde:Ansvar for gods
+>
+> Første ledd annet punktum skal lyde:
+>
+> Han blir likevel ikke ansvarlig i den utstrekning han godtgjør at skaden er en følge av:godsets egen beskaffenhet eller feil eller mangler ved godset,mangelfull pakking av godset som er utført av noen annen enn fraktføreren, dennes ansatte eller noen som denne svarer for,krigshandling eller væpnet konflikt, ellerutøvelse av offentlig myndighet i forbindelse med at godset innføres, utføres eller omlastes.
+>
+> Annet ledd første punktum skal lyde:
+>
+> Som lufttransport regnes i paragrafen her den tid som godset er i fraktførerens varetekt.
+>
+> Annet ledd nytt fjerde punktum skal lyde:
+>
+> Dersom fraktføreren uten avsenderens samtykke helt eller delvis erstatter den avtalte lufttransportbefordringen med en annen form for befordring, skal slik annen befordring også ved anvendelsen av denne lov regnes som en del av lufttransporten.
+>
+
+## § 10-20
+
+### 2004-01-16 — lov/2004-01-16-4
+
+*§ 10-20 skal lyde:*
+
+> Ansvar for forsinkelser
+>
+> Fraktføreren er ansvarlig for tap som følge av forsinkelse ved lufttransport av passasjerer, reisegods og gods, med mindre han godtgjør at han selv og hans folk har tatt alle forholdsregler som med rimelighet kan kreves for å unngå tapet, eller at dette ikke har vært mulig for dem.
+>
+> I § 10-21 gjøres følgende endringer:
+>
+> Første ledd skal lyde:
+>
+> Erstatning etter kapitlet her skal settes ned eller helt falle bort dersom fraktføreren godtgjør at den skadelidte, eller den som skadelidte utleder sin rett fra, ved egen skyld har medvirket til skaden. Blir en passasjer drept eller skadd og noen annen enn passasjeren selv krever erstatning, skal erstatningen også settes ned eller helt falle bort dersom fraktføreren godtgjør at passasjeren ved egen skyld har medvirket til skaden.
+>
+> Annet ledd oppheves.
+>
+
 ## § 10-22
+
+### 2004-01-16 — lov/2004-01-16-4
+
+*§ 10-22 skal lyde:*
+
+> Begrensninger i fraktførers ansvar
+>
+> Fraktføreren kan ikke fraskrive seg eller begrense ansvar etter § 10-17 ved befordring av passasjerer, som ikke overstiger et erstatningsbeløp på 100.000 SDR for hver enkelt passasjer. For beløp som overstiger 100.000 SDR for hver enkelt passasjer, er fraktføreren ikke ansvarlig etter § 10-17 dersom fraktføreren godtgjør at:skaden ikke er forårsaket ved skyld utvist av fraktføreren, hans tilsatte eller andre han svarer for, ellerskaden utelukkende er forårsaket av tredjemanns skyld.
+>
+> Fraktførerens ansvar for tap som følge av forsinkelse ved befordring av passasjer er begrenset til 4.150 SDR for hver passasjer.
+>
+> Ved befordring av reisegods er fraktførerens ansvar for tap på grunn av at reisegodset forsinkes, skades eller helt eller delvis går tapt, begrenset til 1.000 SDR for hver passasjer. Dersom passasjeren ved overlevering av innskrevet reisegods til fraktføreren særskilt angir verdien av reisegodset og betaler fastsatte tilleggsavgifter, gjelder det oppgitte beløp som grense for fraktførerens ansvar. Dette gjelder likevel ikke dersom fraktføreren godtgjør at verdien er lavere enn det oppgitte beløp.
+>
+> Ved befordring av gods er fraktførerens ansvar for tap på grunn av at godset forsinkes, skades eller helt eller delvis går tapt, begrenset til 17 SDR pr. kg. Dersom avsenderen ved overlevering av godset til fraktføreren særskilt angir verdien av godset og betaler fastsatte tilleggsavgifter, gjelder det oppgitte beløp som grense for fraktførerens ansvar. Dette gjelder likevel ikke dersom fraktføreren godtgjør at verdien er lavere enn det oppgitte beløp. Dersom bare en del av godset forsinkes, skades eller helt eller delvis går tapt, regnes bare den sammenlagte vekten av de berørte kolli med når grensen for fraktførerens ansvar skal bestemmes. Dersom verdien av andre kolli som omfattes av samme luftfraktbrev, godskvittering eller registrering på annen måte jf. § 10-5 annet ledd påvirkes, skal disse kolliene regnes med.
+>
+> Ansvarsbegrensningene i annet og tredje ledd kommer ikke til anvendelse dersom det godgjøres at fraktføreren selv eller hans tilsatte eller andre han svarer for, under utførelse av deres tjeneste eller verv har forårsaket skaden med forsett eller grovt uaktsomt med forståelse av at skade sannsynligvis ville bli voldt.
+>
+> Sakskostnader inkludert renter kan tilkjennes saksøkeren uten hinder av ansvarsgrensene i denne paragraf. Dette gjelder likevel ikke dersom fraktføreren innen 6 måneder fra tidspunktet for skadehendelsen eller innen saksanlegget skriftlig har tilbudt skadelidte en erstatning som ikke er mindre enn domsbeløpet bortsett fra sakskostnadene.
+>
+> Med «SDR» menes i loven her den spesielle trekkkrettighet som er fastsatt av Det internasjonale valutafond. I tilfelle søksmål skal ansvarsgrensene regnes til norske penger etter kronens verdi uttrykt i spesielle trekkrettigheter på dagen for domsavsigelsen.
+>
 
 ### 2010-12-10 — lov/2010-12-10-75
 
@@ -910,16 +1082,125 @@ refid: "lov/1993-06-11-101"
 > Ved befordring av gods er fraktførerens ansvar for tap på grunn av at godset forsinkes, skades eller helt eller delvis går tapt, begrenset til et beløp pr. kg fastsatt av departementet i forskrift. Dersom avsenderen ved overlevering av godset til fraktføreren særskilt angir verdien av godset og betaler fastsatte tilleggsavgifter, gjelder det oppgitte beløp som grense for fraktførerens ansvar. Dette gjelder likevel ikke dersom fraktføreren godtgjør at verdien er lavere enn det oppgitte beløp. Dersom bare en del av godset forsinkes, skades eller helt eller delvis går tapt, regnes bare den sammenlagte vekten av de berørte kolli med når grensen for fraktførerens ansvar skal bestemmes. Dersom verdien av andre kolli som omfattes av samme luftfraktbrev, godskvittering eller registrering på annen måte jf. § 10-5 annet ledd påvirkes, skal disse kolliene regnes med.
 >
 
-## § 10-38a
+## § 10-22 a
 
-### 2005-06-10 — lov/2005-06-10-54
+### 2004-01-16 — lov/2004-01-16-4
 
-*§ 10-38a nytt fjerde ledd skal lyde:*
+*Ny § 10-22 a skal lyde:*
 
-> EØS-avtalen vedlegg XIII (europaparlaments- og rådsforordning (EF) nr. 785/2004 om forsikringskrav for luftfartsselskaper og luftfartøyoperatører) gjelder som lov, med den EØS-tilpasning som følger av vedlegg XIII, protokoll 1 til avtalen og avtalen for øvrig. Forordningen nevnt i første punktum gjelder også for befordring uten vederlag.
+> Utbetaling av forskudd
+>
+> Ved flyulykke som medfører at en passasjer omkommer eller blir skadd på legeme eller helbred, skal fraktføreren omgående, og senest 15 dager etter at vedkommende passasjer er identifisert, utbetale et forskudd på erstatningen til fysiske personer som har rett til å kreve erstatning, til dekning av deres umiddelbare behov. Forskuddets størrelse skal stå i forhold til den skaden som er lidt. Slik forskuddsutbetaling innebærer ikke erkjennelse av ansvar, og forskuddet kan trekkes fra i senere erstatningsutbetalinger fra fraktføreren.
+>
+> Har passasjeren omkommet, skal forskuddet utgjøre minst 16.000 SDR per passasjer.
+>
+> Forskuddet skal tilbakebetales bare i tilfelle som nevnt i § 10-21 første ledd, eller det godtgjøres at den som har mottatt forskuddet, ikke var den person som har rett til erstatning.
+>
+
+## § 10-23
+
+### 2004-01-16 — lov/2004-01-16-4
+
+*§ 10-23 skal lyde:*
+
+> Om adgangen til å fravike ansvarsgrensene ved avtale
+>
+> Fraktføreren kan avtale at det for befordringen ikke skal gjelde noen ansvarsgrenser, eller at det skal gjelde høyere ansvarsgrenser enn det som følger av § 10-22.
+>
+> Ethvert forbehold som tilsikter å frita fraktføreren for ansvar eller å fastsette en lavere ansvarsgrense enn bestemt i § 10-22 er ugyldig.
+>
+
+## § 10-24
+
+### 2004-01-16 — lov/2004-01-16-4
+
+*§ 10-24 annet ledd oppheves.*
+
+## § 10-25
+
+### 2004-01-16 — lov/2004-01-16-4
+
+*§ 10-25 nytt annet ledd skal lyde:*
+
+> Unntatt ved befordring av gods, kommer bestemmelsen i første ledd ikke til anvendelse dersom det godtgjøres at person som nevnt i første ledd har forårsaket skaden med forsett eller grovt uaktsomt med forståelse av at skade sannsynligvis ville bli voldt.
+>
+
+## § 10-26
+
+### 2004-01-16 — lov/2004-01-16-4
+
+*§ 10-26 skal lyde:*
+
+> Om mottakers reklamasjon
+>
+> Mottas innskrevet reisegods eller gods uten klage fra mottakerens side, formodes godset å være utlevert i god stand og overensstemmende med befordringsdokumentet eller de på annen måte registrerte opplysninger jf. § 10-5 annet ledd første punktum, om ikke annet blir godtgjort.
+>
+> Er godset skadd eller delvis tapt, må mottakeren klage om det til fraktføreren umiddelbart etter at skaden eller tapet oppdages, og senest innen 7 dager for innskrevet reisegods og 14 dager for gods, regnet fra mottakelsen. Ved forsinkelse må det klages senest innen 21 dager fra den dag da godset ble stilt til rådighet for mottakeren.
+>
+> Enhver klage skal være skriftlig og overlevert eller avsendt innen fristens utløp.
+>
+
+## § 10-28
+
+### 2004-01-16 — lov/2004-01-16-4
+
+*§ 10-28 skal lyde:*
+
+> Om verneting
+>
+> Erstatningssøksmål etter dette kapittel må reises ved norsk domstol eller ved domstol i annen stat som er tilsluttet Montreal-konvensjonen, enten på fraktførerens bosted eller på det sted hvor bedriften har sitt hovedsete eller den forretningsavdeling som har sluttet fraktavtalen, eller på bestemmelsesstedet.
+>
+> Ved død eller personskade på passasjer kan erstatningssøksmål også reises i den stat hvor passasjeren hadde sin faste bopel på ulykkestidspunktet, dersom fraktføreren:driver lufttransport til eller fra den staten, enten med egne luftfartøy eller med luftfartøy tilhørende en annen fraktfører, etter forretningsavtale med denne, ogfraktføreren også i den staten utøver lufttransportvirksomheten i lokaler som eies eller leies av fraktføreren selv, eller av en annen fraktfører som denne har en forretningsavtale med. Søksmål etter første punktum må reises ved passasjerens hjemting på ulykkestidspunktet.
+>
+
+### 2007-02-27 — lov/2007-01-26-3
+
+*§ 10-28 annet ledd nr. 2 skal lyde:*
+
+> fraktføreren også i den staten utøver lufttransportvirksomheten i lokaler som eies eller leies av fraktføreren selv, eller av en annen fraktfører som denne har en forretningsavtale med. Søksmål etter første punktum må reises ved passasjerens alminnelige verneting på ulykkestidspunktet.
+>
+
+## § 10-36
+
+### 2007-02-27 — lov/2007-01-26-3
+
+*§ 10-36 annet ledd skal lyde:*
+
+> Blir søksmål reist mot bare den ene fraktfører og vil denne gjøre regresskrav gjeldende mot den annen, kan han dra regresskravet inn i saken i samsvar med tvisteloven § 15-2 annet og tredje ledd uten hensyn til om det hører under norsk domsmyndighet.
+>
+
+## § 10-37
+
+### 2004-01-16 — lov/2004-01-16-4
+
+*§ 10-37 første ledd nytt annet punktum skal lyde:*
+
+> Kapitlet gjelder likevel for befordring med annet befordringsmiddel etter § 10-19 annet ledd fjerde punktum.
+>
+
+## § 10-38
+
+### 2004-01-16 — lov/2004-01-16-4
+
+*§ 10-38 annet ledd skal lyde:*
+
+> Ved godsbefordring kan det dog uten hinder av første ledd skriftlig avtales at tvist skal avgjøres ved voldgift, forutsatt at voldgiftsbehandlingen etter saksøkerens valg skal skje på et sted som er rett verneting etter § 10-28, og at saken skal avgjøres i samsvar med Montreal-konvensjonens bestemmelser. En voldgiftsbestemmelse i strid med dette er ugyldig.
 >
 
 ## § 10-38 a
+
+### 2004-01-16 — lov/2004-01-16-4
+
+*Ny § 10-38 a skal lyde:*
+
+> Forsikringsplikt
+>
+> Norske fraktførere skal tegne tilstrekkelig forsikring til å dekke sitt erstatningsansvar etter dette kapittel. Den norske stat, når denne er fraktfører, kan være selvassurandør.
+>
+> Utenlandske fraktførere som transporterer passasjerer, reisegods eller gods til, fra eller innom Norge, skal kunne dokumentere at man innehar tilstrekkelig forsikring til å dekke sitt erstatningsansvar etter dette kapittel. Første ledd annet punktum gjelder tilsvarende når en fremmed stat er fraktfører.
+>
+> Departementet kan gi nærmere forskrifter om forsikringsplikten, herunder om størrelsen på forsikringen og om virkningen av at forsikringen ikke holdes i kraft. Departementet kan i forskrift sette vilkår for at en stat kan stå som selvassurandør etter første og annet ledd, herunder krav om dokumentasjon.
+>
 
 ### 2013-04-05 — lov/2013-04-05-11
 
@@ -931,6 +1212,38 @@ refid: "lov/1993-06-11-101"
 ### 2013-04-05 — lov/2013-04-05-11
 
 *§ 10-38 a fjerde ledd oppheves.*
+
+## § 10-38a
+
+### 2005-06-10 — lov/2005-06-10-54
+
+*§ 10-38a nytt fjerde ledd skal lyde:*
+
+> EØS-avtalen vedlegg XIII (europaparlaments- og rådsforordning (EF) nr. 785/2004 om forsikringskrav for luftfartsselskaper og luftfartøyoperatører) gjelder som lov, med den EØS-tilpasning som følger av vedlegg XIII, protokoll 1 til avtalen og avtalen for øvrig. Forordningen nevnt i første punktum gjelder også for befordring uten vederlag.
+>
+
+## § 10-40
+
+### 2004-01-16 — lov/2004-01-16-4
+
+*§ 10-40 skal lyde:*
+
+> Om Montreal-konvensjonen
+>
+> Med Montreal-konvensjonen forstås overenskomst om innføring av visse ensartede regler for internasjonal luftbefordring, undertegnet i Montreal 28. mai 1999.
+>
+> Med Warszawa-konvensjonen forstås den overenskomst om internasjonal luftbefordring som ble undertegnet i Warszawa 12. oktober 1929, slik den er endret ved protokoll avsluttet i Haag 28. september 1955.
+>
+> I § 10-41 gjøres følgende endringer:
+>
+> Første ledd skal lyde:
+>
+> Bestemmelsene i dette kapittel gjelder ikke for luftbefordring som er unntatt fra Montreal-konvensjonens virkeområde i henhold til forbehold som en stat har tatt etter Montreal-konvensjonens artikkel 57.
+>
+> Annet ledd oppheves.
+>
+> Overskriften til kapittel XI skal lyde:Ansvar og forsikring for skade og tap på tredjeperson
+>
 
 ## § 10-41 a
 
@@ -1035,6 +1348,19 @@ refid: "lov/1993-06-11-101"
 
 ## § 11-1
 
+### 2004-01-16 — lov/2004-01-16-4
+
+*§ 11-1 skal lyde:*
+
+> Objektivt ansvar for skade på tredjeperson mv
+>
+> Eieren av et luftfartøy er uansett skyld ansvarlig for skade eller tap som oppstår utenfor fartøyet som følge av at fartøyet brukes til luftfart. Dersom fartøyet er registrert i luftfartøyregisteret, anses den som eier som står oppført i registeret som luftfartøyets eier.
+>
+> Når luftfartøyet i henhold til en leieavtale godkjent av luftfartsmyndigheten benyttes i ervervsmessig luftfartsvirksomhet av en annen enn eieren, hefter den som etter leieavtalen innehar luftfartøyet solidarisk med eieren etter første ledd.
+>
+> Første og annet ledd gjelder ikke:skade på annet luftfartøy, eller på person eller ting i slikt fartøy,skade på person eller ting som faller innenfor området for fraktførerens ansvar etter kapittel X.
+>
+
 ### 2024-06-25 — lov/2024-06-25-70
 
 *Nytt § 11-1 fjerde ledd skal lyde:*
@@ -1043,6 +1369,10 @@ refid: "lov/1993-06-11-101"
 >
 
 ## § 11-2
+
+### 2004-01-16 — lov/2004-01-16-4
+
+*§ 11-2 annet ledd oppheves.*
 
 ### 2005-06-10 — lov/2005-06-10-54
 
@@ -1111,6 +1441,17 @@ refid: "lov/1993-06-11-101"
 > Om nødvendig kan undersøkelsesmyndigheten kreve hjelp av politiet.
 >
 
+## § 12-17
+
+### 2007-02-27 — lov/2007-01-26-3
+
+*§ 12-17 skal lyde:*
+
+> § 12-17.Bevissikring
+>
+> Undersøkelsesmyndigheten kan kreve bevissikring utenfor rettssak etter reglene i tvisteloven § 28-3 tredje ledd og § 28-4. Krav om bevissikring fremmes for den tingrett hvor de som skal avhøres, bor eller oppholder seg eller realbevis skal undersøkes.
+>
+
 ## § 12-28
 
 ### 2012-08-10 — lov/2012-08-10-63
@@ -1141,6 +1482,15 @@ refid: "lov/1993-06-11-101"
 *§ 13-2 fjerde ledd skal lyde:*
 
 > Reglene i første og andre ledd får anvendelse i den grad de ikke kommer i konflikt med lov 26. juni 1992 nr. 86 om tvangsfullbyrdelse og midlertidig sikring (tvangsfullbyrdelsesloven) og Overenskomst om innføring av visse ensartede regler om arrest i luftfartøyer av 29. mai 1933.
+>
+
+### 2007-02-27 — lov/2007-01-26-3
+
+*§ 13-2 fjerde ledd skal lyde:*
+
+> Reglene i første og andre ledd får anvendelse i den grad de ikke kommer i konflikt med lov 26. juni 1992 nr. 86 om tvangsfullbyrdelse, tvisteloven sjuende del og Overenskomst om innføring av visse ensartede regler om arrest i luftfartøyer av 29. mai 1933.
+>
+> 104. Lov 25. mars 1994 nr. 6 om granskingskommisjon for gransking av påstander om ulovlig overvåking av norske borgere oppheves.
 >
 
 ## § 13-4
@@ -1329,6 +1679,20 @@ refid: "lov/1993-06-11-101"
 
 ## § 14-12
 
+### 2009-06-19 — lov/2009-06-19-74
+
+*§ 14-12 første punktum skal lyde:*
+
+> Den som gjør tjeneste ombord i strid med bestemmelsene i § 6-11 første ledd, straffes med bøter eller med fengsel inntil 2 år.
+>
+
+### 2009-06-19 — lov/2009-06-19-74
+
+*§ 14-12 nytt tredje punktum skal lyde:*
+
+> Medvirkning straffes ikke.
+>
+
 ### 2012-08-10 — lov/2012-08-10-63
 
 *§ 14-12 skal lyde:*
@@ -1364,6 +1728,12 @@ refid: "lov/1993-06-11-101"
 >
 > § 14-13 annet og tredje ledd blir tredje og nytt fjerde ledd.
 >
+
+## § 14-22
+
+### 2009-06-19 — lov/2009-06-19-74
+
+*§ 14-22 annet punktum oppheves.*
 
 ## § 14-23
 
@@ -1406,6 +1776,10 @@ refid: "lov/1993-06-11-101"
 >
 
 ## § 14-25
+
+### 2009-06-19 — lov/2009-06-19-74
+
+*§ 14-25 annet ledd oppheves*
 
 ### 2012-08-10 — lov/2012-08-10-63
 
@@ -1456,6 +1830,10 @@ refid: "lov/1993-06-11-101"
 
 ## § 14-32
 
+### 2009-06-19 — lov/2009-06-19-74
+
+*§ 14-32 oppheves.*
+
 ### 2024-06-25 — lov/2024-06-25-70
 
 *Ny § 14-32 skal lyde:*
@@ -1494,6 +1872,15 @@ refid: "lov/1993-06-11-101"
 *§ 15-1 første ledd skal lyde:*
 
 > For ubemannet luftfartøy eller luftfartøy som ikke drives frem med motor, eller som for øvrig er av særlig art, kan departementet gjøre unntak fra bestemmelsene i denne lov eller gi særlige forskrifter, for så vidt det ikke er betenkelig av hensyn til luftfartens sikkerhet eller av andre grunner. Dog kan det ikke foretas endring i bestemmelser av privatrettslig eller strafferettslig innhold.
+>
+
+## § 15-2
+
+### 2009-06-19 — lov/2009-06-19-74
+
+*§ 15-2 annet ledd skal lyde:*
+
+> For så vidt angår overtredelser av vedkommende bestemmelser, regnes et slikt fartøy som norsk etter straffelovens § 4.
 >
 
 ## § 15-3
@@ -1567,6 +1954,25 @@ refid: "lov/1993-06-11-101"
 > De bestemmelser som er gitt foran i §§ 5-8, 6-11, 6-12, 6-13, §§ 7-12 til 7-22, §§ 7-24, 11-1 eller 12-1, § 12-3 første og annet ledd, §§ 12-4 til 12-7 og § 13-1 gjelder tilsvarende for norsk militær luftfart.
 >
 
+## § 19-3
+
+### 2004-01-16 — lov/2004-01-16-4
+
+*§ 19-3 skal lyde:*
+
+> Om Warszawa-konvensjonen m.v. og ikrafttredelse
+>
+> Så lenge den opprinnelige Warszawa-konvensjon av 12. oktober 1929 ikke er trådt ut av kraft i forhold til Norge, skal lov av 12. juni 1936 om befordring med luftfartøy og forskrifter gitt i medhold av denne lov vedbli å gjelde for internasjonal luftbefordring når avgangsstedet og bestemmelsesstedet etter fraktavtalen ligger i konvensjonsstater som ikke begge har sluttet seg til Haag-protokollen, eller når disse steder ligger i en konvensjonsstat som ikke har sluttet seg til Haag-protokollen, og mellomlandingssted i en annen stat er avtalt, selv om dette ikke er en konvensjonsstat. Videre får reglene i luftfartsloven § 10-25, slik paragrafen lød ved vedtakelsen 11. juni 1993, tilsvarende anvendelse i tilfelle som omhandlet i dette ledd. Det samme gjelder §§ 10-31 – 10-36 og 10-38 annet ledd annet punktum slik den lød ved vedtakelsen 11. juni 1993. Likeledes får § 10-23 annet ledd, slik den lød ved vedtakelsen 11. juni 1993, anvendelse for så vidt gjelder befordring utført av en annen fraktfører enn den som har sluttet fraktavtalen. Henvisningene i §§ 10-25, slik paragrafen lød ved vedtakelsen av loven 11. juni 1993, og 10-31 – 10-36 til bestemmelsene i kap. X gjelder i stedet de tilsvarende bestemmelser i nevnte lov av 12. juni 1936 med tilhørende forskrifter.
+>
+> I den utstrekning loven av 12. juni 1936 fortsatt gjelder, skal annet punktum i dens § 8 annet ledd lyde: «I tilfelle av forsinkelse skal meddelelsen gis senest 14 dager regnet fra den dag da godset ble utlevert.»
+>
+> Så lenge Warszawa-konvensjonen med endringer etter Haag-protokollen 28. september 1955 ikke er trådt ut av kraft i forhold til Norge, skal luftbefordring som omfattes av konvensjonen, reguleres av bestemmelsene i lov av 16. desember 1960 om luftfart kapittel IX, slik de lød før endringene ved lov av 18. desember 1987 nr. 94.
+>
+> I forhold til en stat som er bundet av Warszawa-konvensjonen slik den lyder etter Montreal-protokoll nr. 4 av 25. september 1975, skal for så vidt gjelder befordring av passasjerer og reisegodsreglene i lov 16. desember 1960 om luftfart kapittel IX gjelde, slik de lød før endringene ved lov av 18. desember 1987 nr. 94. Hva gjelder befordring av gods skal reglene i lov 16. desember 1960 om luftfart kapittel IX gjelde, slik de lød etter endringene av 18. desember 1987 nr. 94.
+>
+> Opphører Warszawa-konvensjonen slik den lyder i sin opprinnelige form 12. oktober 1929 eller i sin endrede form gjennom Haag-protokollen 28. september 1955 å gjelde mellom Norge og andre stater som følge av oppsiing fra norsk side, skal departementet kunngjøre dette.
+>
+
 ## (annet)
 
 ### 2001-07-01 — lov/2001-05-04-18
@@ -1583,6 +1989,51 @@ refid: "lov/1993-06-11-101"
 ### 2003-06-20 — lov/2003-06-20-52
 
 *Nåværende første ledd i § 13-8 blir nytt annet ledd.*
+
+### 2004-01-16 — lov/2004-01-16-4
+
+*Nåværende tredje ledd blir fjerde ledd.*
+
+### 2004-01-16 — lov/2004-01-16-4
+
+*Nåværende første ledd blir annet ledd.*
+
+> Annet ledd første punktum skal lyde:
+>
+> Avsenderen plikter å gi opplysninger og legge frem dokumenter som er nødvendige for å oppfylle krav fra tollmyndighetene, politi eller andre offentlige myndigheter, før godset kan utleveres til mottakeren.
+>
+
+### 2004-01-16 — lov/2004-01-16-4
+
+*Nåværende annet ledd blir tredje ledd.*
+
+> I § 10-17 gjøres følgende endringer:
+>
+> Første punktum skal lyde:
+>
+> Blir en passasjer drept eller skadd på legeme eller helse, er fraktføreren ansvarlig, såfremt den ulykken som har forårsaket skaden, er inntruffet om bord i luftfartøyet eller i sammenheng med at passasjeren går om bord eller forlater fartøyet.
+>
+> Annet punktum oppheves.
+>
+> I § 10-17 a gjøres følgende endringer:
+>
+> Første punktum skal lyde:
+>
+> EØS-avtalen vedlegg XIII (rådsforordning (EF) nr. 2027/97 om luftfartsselskapers erstatningsansvar ved ulykker som endret ved rådsforordning (EF) nr. 889/2002) gjelder som lov, med den EØS-tilpasning som følger av vedlegg XIII, protokoll 1 til avtalen og avtalen for øvrig.
+>
+> Annet punktum oppheves.
+>
+
+### 2004-01-16 — lov/2004-01-16-4
+
+*Nåværende tredje ledd blir annet ledd og skal lyde:*
+
+> Nedsetting eller bortfall av erstatning etter første ledd skjer etter en vurdering av hva som er rimelig hensett til graden av medvirkning.
+>
+
+### 2004-01-16 — lov/2004-01-16-4
+
+*Nåværende fjerde ledd blir tredje ledd.*
 
 ### 2007-06-29 — lov/2007-06-29-95
 

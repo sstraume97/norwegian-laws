@@ -11,6 +11,19 @@ refid: "lov/1970-04-17-21"
 
 *§ 1 annet ledd oppheves.*
 
+## § 11
+
+### 2009-06-19 — lov/2009-06-19-74
+
+*§ 11 første ledd skal lyde:*
+
+> Den som på urettmessig måte utnytter eller åpenbarer opplysning som han som følge av denne lovs bestemmelser får vedrørende andres oppfinnelser, straffes med bøter eller fengsel inntil 3 måneder.
+>
+
+### 2009-06-19 — lov/2009-06-19-74
+
+*§ 11 annet ledd oppheves.*
+
 ## § 12
 
 ### 2002-12-06 — lov/2002-12-06-73

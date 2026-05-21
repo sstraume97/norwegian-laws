@@ -926,6 +926,13 @@ refid: "lov/1997-06-13-44"
 
 ## § 5-12
 
+### 2007-02-27 — lov/2007-01-26-3
+
+*§ 5-12 første ledd fjerde punktum skal lyde:*
+
+> Rettens avgjørelse etter tredje punktum kan ikke ankes.
+>
+
 ### 2021-05-28 — lov/2021-05-28-51
 
 *§ 5-12 første ledd nytt femte punktum skal lyde:*
@@ -1507,6 +1514,20 @@ refid: "lov/1997-06-13-44"
 > (10) Departementet kan ved forskrift eller enkeltvedtak gjøre unntak fra reglene i første til åttende ledd og §§ 8-8 og 8-9 for erverv av aksjer av eller for ansatte i selskapet. Tilsvarende gjelder for erverv av aksjer av eller for ansatte i selskap i samme konsern eller foretaksgruppe som nevnt i § 8-7 tredje ledd nr. 3.
 >
 > (11) Departementet kan i forskrift gi nærmere regler om innsending av redegjørelse og erklæring etter sjette ledd til Foretaksregisteret, offentliggjøring av informasjon i redegjørelsen og erklæringen, gebyr for å registrere redegjørelsen og erklæringen, samt gebyr for innsyn.
+>
+
+### 2021-06-18 — lov/2021-06-18-137
+
+*§ 8-10 åttande ledd andre punktum skal lyde:*
+
+> Innsideinformasjon etter markedsmisbruksforordningen artikkel 7, jf. verdipapirhandelloven § 3-1, skal ikke sendes Foretaksregisteret.
+>
+
+### 2021-06-18 — lov/2021-06-18-137
+
+*§ 8-10 tiande ledd andre punktum skal lyde:*
+
+> Tilsvarende gjelder for erverv av aksjer av eller for ansatte i selskap i samme konsern eller foretaksgruppe som nevnt i § 8-7 fjerde ledd nr. 3.
 >
 
 ### 2025-06-20 — lov/2025-06-20-106
@@ -2451,7 +2472,22 @@ refid: "lov/1997-06-13-44"
 > Er det begjært gransking etter §§ 5-25 til 5-28, regnes fristen fra den dag begjæringen er endelig avslått eller i tilfelle granskingen er avsluttet.
 >
 
+## § 17-7
+
+### 2021-06-18 — lov/2021-06-18-122
+
+*§ 17-7 første ledd oppheves. Nåværende annet ledd blir nytt første ledd.*
+
 ## § 18-3
+
+### 2007-02-27 — lov/2007-01-26-3
+
+*§ 18-3 annet og tredje ledd skal lyde:*
+
+> Kjennelser og beslutninger som tingretten treffer etter denne loven, kan ankes.
+>
+> Anke etter annet ledd kan ikke grunnes på at avgjørelsen er uhensiktsmessig eller uheldig. Dette gjelder ikke kjennelse etter §§ 5-25 til 5-27 og § 8-4.
+>
 
 ### 2013-06-14 — lov/2013-06-14-40
 
@@ -2476,6 +2512,26 @@ refid: "lov/1997-06-13-44"
 ### 2017-06-16 — lov/2017-06-16-71
 
 *§ 18-5 oppheves.*
+
+## § 19-1
+
+### 2009-06-19 — lov/2009-06-19-74
+
+*§ 19-1 første ledd annet punktum oppheves.*
+
+### 2009-06-19 — lov/2009-06-19-74
+
+*§ 19-1 tredje ledd første punktum oppheves.*
+
+## § 19-2
+
+### 2009-06-19 — lov/2009-06-19-74
+
+*§ 19-2 første ledd tredje punktum oppheves.*
+
+### 2009-06-19 — lov/2009-06-19-74
+
+*§ 19-2 annet ledd første punktum oppheves.*
 
 ## § 20-1
 

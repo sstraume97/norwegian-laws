@@ -209,6 +209,15 @@ refid: "lov/1992-05-15-47"
 > Når det bevilges vesentlige økonomiske midler til tiltak som omfattes av lovens formål, kan det for en nærmere bestemt tidsperiode ved enkeltvedtak eller forskrift stilles krav om at fisket eller en forholdsmessig andel av fisket skal forvaltes til fordel for allmennheten. I vassdrag eller deler av vassdrag der kravene ikke er oppfylt, kan departementet i særskilte tilfelle unnlate å åpne for fiske.
 >
 
+## § 27
+
+### 2017-05-11 — lov/2017-05-11-26
+
+*§ 27 tredje ledd første punktum skal lyde:*
+
+> Spørsmål om rettighetshaverne etter alminnelige rettsgrunnsetninger har krav på erstatning for tap som følge av vedtak etter denne paragraf, avgjøres ved skjønn styrt av tingretten om ikke annet blir avtalt.
+>
+
 ## § 28
 
 ### 2012-12-14 — lov/2012-12-14-94
@@ -263,6 +272,23 @@ refid: "lov/1992-05-15-47"
 > § 30.Statlig fiskeravgiftDen som vil fiske etter anadrome laksefisk etter å ha fylt 18 år, skal betale avgift til Statens fiskefond. Departementet kan gi forskrift om avgift på faststående redskap som benyttes til fangst av anadrome laksefisk.Stangfiske i sjøen er unntatt fra avgiftsplikten etter første ledd. Norske og svenske flyttsamer er fritatt for å betale avgift for fiske som de etter reindriftslovgivningen har rett til å drive.Betaling av avgift til Statens fiskefond er et vilkår for utøving av fiske, men gir ikke rett til fiske i noe bestemt område.Departementet fastsetter størrelsen på avgiften og for hvilket tidsrom betalingen gjelder. Departementet kan gi forskrift om dispensasjon fra plikten til å betale avgift, om betalingen og om kontroll med slik betaling.
 >
 > § 30.Statlig fiskeravgift
+>
+
+## § 31
+
+### 2017-05-11 — lov/2017-05-11-26
+
+*§ 31 tredje ledd annet punktum skal lyde:*
+
+> Partene kan innen 3 måneder etter departementets vedtak kreve spørsmålet avgjort ved skjønn styrt av tingretten.
+>
+> 15.I lov 19. juni 1992 nr. 59 om bygdeallmenninger skal § 6-11. (skjønn) lyde:
+>
+> Når allmenningsstyret har gitt samtykke etter § 6-1 annet ledd, tillatelse etter § 6-2, eller foretatt utvisning etter § 6-4 annet ledd eller § 6-10 første ledd, eller festet bort setergrunn etter § 6-8 første ledd annet punktum, og noen bruksberettiget mener vilkårene ikke foreligger, kan vedkommende kreve dette spørsmålet avgjort ved skjønn.
+>
+> 16.I lov 9. desember 1994 nr. 64 om løysingsrettar skal § 22 annet ledd lyde:
+>
+> Skjønnet vert styrt av jordskifteretten.
 >
 
 ## § 34
@@ -335,6 +361,21 @@ refid: "lov/1992-05-15-47"
 *§ 37 sjette ledd skal lyde:*
 
 > Fisk som fanges og ikke settes ut umiddelbart, skal avlives omgående. Organismer som ikke er av stedegen stamme, skal ikke gjenutsettes, men avlives omgående. Første punktum gjelder ikke for fangst av edelkreps eller for fiske med tillatelse etter § 13 eller naturmangfoldloven § 18.
+>
+
+## § 4
+
+### 2009-06-19 — lov/2009-06-19-74
+
+*§ 4 annet punktum oppheves.*
+
+> 145. I lov 19. juni 1992 nr. 59 om bygdeallmenninger skal § 9-3 første ledd nytt annet punktum lyde:
+>
+> Medvirkning straffes ikke.
+>
+> 146. I lov 19. juni 1992 nr. 60 om skogsdrift m.v. i statsallmenningene skal § 4-9 første ledd nytt annet punktum lyde:
+>
+> Medvirkning straffes ikke.
 >
 
 ## § 41
@@ -449,6 +490,20 @@ refid: "lov/1992-05-15-47"
 >
 
 ## § 49
+
+### 2009-06-19 — lov/2009-06-19-74
+
+*§ 49 første ledd første punktum skal lyde:*
+
+> Den som forsettlig eller uaktsomt overtrer bestemmelser gitt i eller i medhold av denne lov eller opprettholdt ved loven eller vilkår fastsatt i medhold av loven, straffes med bøter eller fengsel i inntil 1 år dersom forholdet ikke rammes av et strengere straffebud.
+>
+
+### 2009-06-19 — lov/2009-06-19-74
+
+*§ 49 tredje og fjerde ledd oppheves.*
+
+> 144. I lov 29. mai 1992 nr. 50 om inspeksjoner i samsvar med Avtalen om konvensjonelle styrker i Europa (CFE-avtalen) og om immunitet og privilegier for inspektørene m.fl. gjøres følgende endring:
+>
 
 ### 2012-12-14 — lov/2012-12-14-94
 

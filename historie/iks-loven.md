@@ -274,6 +274,22 @@ refid: "lov/1999-01-29-6"
 > §§ 40 og 41 blir oppheva.
 >
 
+## § 34
+
+### 2007-02-27 — lov/2007-01-26-3
+
+*§ 34 fjerde ledd annet punktum skal lyde:*
+
+> Rettens avgjørelse treffes ved kjennelse som kan ankes.
+>
+
+### 2007-02-27 — lov/2007-01-26-3
+
+*§ 34 sjette ledd tredje punktum skal lyde:*
+
+> Deltaker hvis representanter ikke representerer flertallet i sak om fordeling av likvidasjonsutbytte, kan bringe spørsmålet om fordelingen inn for tingretten som fastsetter fordelingen i kjennelse som kan ankes.
+>
+
 ## § 4
 
 ### 2023-06-02 — lov/2023-06-02-22

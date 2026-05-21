@@ -132,6 +132,22 @@ refid: "lov/2003-11-28-98"
 > som er konsesjonspliktige eller som krever vedtak etter vannfallrettighetsloven,
 >
 
+## § 20
+
+### 2009-06-19 — lov/2009-06-19-74
+
+*§ 20 annet ledd første punktum skal lyde:*
+
+> Overtredelse av forbudet i første ledd straffes med bøter.
+>
+
+### 2009-06-19 — lov/2009-06-19-74
+
+*§ 20 annet ledd nytt tredje punktum skal lyde:*
+
+> Medvirkning straffes ikke.
+>
+
 ## § 4
 
 ### 2009-06-19 — lov/2009-06-19-98
@@ -206,6 +222,13 @@ refid: "lov/2003-11-28-98"
 > Ved erverv av bebygd eiendom hvor fulldyrka og overflatedyrka jord er mer enn 35 dekar, eller eiendommen består av mer enn 500 dekar produktiv skog, er konsesjonsfriheten etter første ledd nr. 1 og 2 betinget av at erververen bosetter seg på eiendommen innen ett år og selv bebor den i minst 5 år. Som bebygd eiendom regnes her eiendom med bebyggelse som er eller har vært brukt som helårsbolig. Det samme gjelder eiendom med bebyggelse som ikke er tatt i bruk som helårsbolig, herunder eiendom med bebyggelse under oppføring dersom tillatelse til bebyggelse er gitt med sikte på boligformål. Erverver gjenlevende ektefelle eiendom fra sin avdøde ektefelle som eier eller ved uskifte, skal botiden gjenlevende har gjennomført før overtagelsen regnes mot plikttiden.
 >
 > Første og andre ledd gjelder tilsvarende for samboere i ekteskapslignende forhold. Som samboere etter bestemmelsen her regnes samboere som fyller vilkårene i arveloven § 28 a.
+>
+
+### 2020-12-18 — lov/2020-12-18-149
+
+*§ 5 tredje ledd skal lyde:*
+
+> Første og andre ledd gjelder tilsvarende for samboere i ekteskapslignende forhold. Som samboere etter bestemmelsen her regnes samboere som fyller vilkårene i arveloven § 2 tredje ledd.
 >
 
 ## § 6

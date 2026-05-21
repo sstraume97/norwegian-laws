@@ -15,9 +15,29 @@ refid: "lov/1992-12-04-132"
 
 *Nåværende annet, tredje og fjerde ledd blir nytt fjerde, femte og sjette ledd.*
 
+### 2008-03-07 — lov/2008-03-07-4
+
+*Nåværende første og annet ledd blir nye annet og tredje ledd.*
+
+> 8. I lov 6. mai 1994 nr. 10 om gjennomføring av Konvensjonen om forbod mot utvikling, produksjon, lagring og bruk av kjemiske våpen samt øydelegging av dei gjøres følgende endring:
+>
+
 ### 2008-12-19 — lov/2008-12-19-110
 
 *Noverande § 33 blir ny § 34.*
+
+### 2009-06-19 — lov/2009-06-19-74
+
+*Nåværende første og annet ledd blir nye annet og tredje ledd.*
+
+> 154. I lov 12. mars 1993 nr. 32 om planteforedlerrett skal § 22 lyde:
+>
+> Den som gjør inngrep i den enerett en planteforedlerrett medfører, straffes med bøter eller fengsel inntil tre måneder.
+>
+> Den som forsettlig eller grovt uaktsomt overtrer reglene om anvendelse av sortsnavn i § 20, straffes med bøter.
+>
+> 155. I lov 2. april 1993 nr. 38 om framstilling og bruk av genmodifiserte organismer m.m. gjøres følgende endring:
+>
 
 ### 2014-05-23 — lov/2014-05-23-18
 
@@ -177,6 +197,13 @@ refid: "lov/1992-12-04-132"
 
 ## § 14
 
+### 2001-06-15 — lov/2001-06-15-94
+
+*§ 14 nytt femte ledd skal lyde:*
+
+> Departementet kan pålegge grossister og andre som driver engrosomsetning, å registrere opplysninger om omsetningen. Opplysningene skal gjøres tilgjengelig for departementet. Departementet kan gi bestemmelser om hvordan opplysningene skal oppbevares og gjøres tilgjengelig.
+>
+
 ### 2024-06-25 — lov/2024-06-25-68
 
 *§ 14 skal lyde:*
@@ -264,7 +291,27 @@ refid: "lov/1992-12-04-132"
 > Varer som regnes som legemidler etter denne loven, kan til teknisk, vitenskapelig og annen ikke-medisinsk bruk selges av apotek, tilvirkere, grossister og andre som har fått tillatelse i samsvar med forskrifter gitt av departementet.
 >
 
+## § 17
+
+### 2001-06-15 — lov/2001-06-15-94
+
+*§ 17 tredje ledd skal lyde*
+
+> På steder hvor det er vanskelig adgang til apotek eller lege, kan departementet gi tillatelse til at en autorisert sykepleier har et mindre forråd av legemidler m.v. til bruk i påkommende tilfelle. I særlige tilfeller kan departementet gi slik tillatelse til andre enn autorisert sykepleier. Det er ikke adgang til å beregne noen fortjeneste ved utlevering fra slikt forråd. Varene skal leveres fra et bestemt apotek, som påtar seg å føre nødvendig tilsyn.
+>
+
 ## § 18
+
+### 2001-06-15 — lov/2001-06-15-94
+
+*Ny § 18 skal lyde:*
+
+> Grossister og andre som driver engrosomsetning, skal betale avgift på legemiddel som selges videre. Grossisten skal kreve legemiddelavgiften dekket av legemidlets kjøper. Avgiften fastsettes årlig av Stortinget og brukes etter Stortingets bestemmelse.
+>
+> Ved inndrivelse av avgiften får de regler som gjelder for formues- og inntektsskatten til staten, tilsvarende anvendelse. Legemiddelavgift er tvangsgrunnlag for utlegg.
+>
+> Departementet gir nærmere bestemmelser om beregning og innkreving av legemiddelavgift og kan i forskrift gjøre unntak fra avgiftsplikten.
+>
 
 ### 2008-12-19 — lov/2008-12-19-110
 
@@ -482,6 +529,13 @@ refid: "lov/1992-12-04-132"
 
 ## § 25
 
+### 2009-06-19 — lov/2009-06-19-74
+
+*§ 25 tredje ledd oppheves.*
+
+> 156. I lov 11. juni 1993 nr. 66 om pristiltak gjøres følgende endring:
+>
+
 ### 2011-06-24 — lov/2011-06-24-28
 
 *§ 25 første og annet ledd skal lyde:*
@@ -674,6 +728,10 @@ refid: "lov/1992-12-04-132"
 
 ## § 31
 
+### 2009-06-19 — lov/2009-06-19-74
+
+*§ 31 fjerde ledd første punktum oppheves.*
+
 ### 2011-06-24 — lov/2011-06-24-28
 
 *§ 31 annet ledd skal lyde:*
@@ -717,6 +775,20 @@ refid: "lov/1992-12-04-132"
 
 ## § 32
 
+### 2008-03-07 — lov/2008-03-07-4
+
+*§ 32 nytt første ledd skal lyde:*
+
+> Dersom vilkårene for inndragning etter straffeloven er oppfylt, kan påtalemyndigheten beslutte at beslaglagte stoffer som er oppført på narkotikalisten, inndras. Beslutningen skal være skriftlig og begrunnet. Eieren eller besitteren skal så vidt mulig underrettes om påtalemyndighetens beslutning og kan kreve saken forelagt for retten innen 1 måned etter at beslaget ble foretatt.
+>
+
+### 2009-06-19 — lov/2009-06-19-74
+
+*§ 32 nytt første ledd skal lyde:*
+
+> Dersom vilkårene for inndragning etter straffeloven er oppfylt, kan påtalemyndigheten beslutte at beslaglagte stoffer som er oppført på narkotikalisten, inndras. Beslutningen skal være skriftlig og begrunnet. Eieren eller besitteren skal så vidt mulig underrettes om påtalemyndighetens beslutning og kan kreve saken forelagt for retten innen 1 måned etter at beslaget ble foretatt.
+>
+
 ### 2011-06-24 — lov/2011-06-24-28
 
 *§ 32 annet ledd skal lyde:*
@@ -742,7 +814,34 @@ refid: "lov/1992-12-04-132"
 > § 33.
 >
 
+## § 4
+
+### 2009-06-19 — lov/2009-06-19-74
+
+*§ 4 første ledd bokstav d oppheves.*
+
+> 157. I lov 11. juni 1993 nr. 73 om prisregulering ved import av fisk og fiskevarer m.v. skal § 4 annet punktum lyde:
+>
+> På samme måte straffes forsøk.
+>
+
+## § 5
+
+### 2008-03-07 — lov/2008-03-07-4
+
+*§ 5 første punktum skal lyde:*
+
+> Den som bryt denne lova eller føresegner som er gjevne med heimel i lova, vert straffa med bot eller fengsel i opptil fem år dersom handlinga ikkje vert ramma av strengare strafføresegner som til dømes straffelova §§ 107 og 142.
+>
+
 ## § 6
+
+### 2001-06-15 — lov/2001-06-15-94
+
+*§ 6 nytt annet ledd skal lyde:*
+
+> Kongen kan i forskrift fastsette regler om behandlingsmåten for søknad fra et legemiddels rettighetshaver om godkjenning av legemidlet for offentlig refusjon samt avgift for å dekke utgifter ved behandling av søknad og ved oppfølging av refusjonsvedtak.
+>
 
 ### 2002-12-20 — lov/2002-12-20-101
 

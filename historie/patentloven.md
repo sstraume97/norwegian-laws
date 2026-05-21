@@ -230,6 +230,12 @@ refid: "lov/1967-12-15-9"
 > Patent meddeles ikke på fremgangsmåter for kirurgisk behandling, terapi eller diagnostisering, som foretas på mennesker eller dyr. Denne bestemmelse er ikke til hinder for meddelelse av patent på produkter, herunder stoffer eller stoffblandinger, til bruk i slike fremgangsmåter.
 >
 
+## § 130 a
+
+### 2014-05-09 — lov/2014-05-09-16
+
+*§ 130 a fjerde ledd blir nytt tredje ledd annet til fjerde punktum. Femte til niende ledd blir fjerde til åttende ledd.*
+
 ## § 15a
 
 ### 2003-12-19 — lov/2003-12-19-127
@@ -249,6 +255,13 @@ refid: "lov/1967-12-15-9"
 >
 
 ## § 19
+
+### 2014-05-09 — lov/2014-05-09-16
+
+*§ 19 første ledd nr. 3 skal lyde:*
+
+> rettslige avgjørelser som blir tatt eller avlest i rettsmøtet, og pålegg som blir gitt av retten eller dens leder.
+>
 
 ### 2019-06-21 — lov/2019-06-21-49
 
@@ -308,6 +321,37 @@ refid: "lov/1967-12-15-9"
 > Søkes patent av oppfinneren, kan Patentstyret innrømme søkeren fritak for å betale meddelelsesgebyr dersom det er forbundet med betydelig vanskelighet for søkeren å betale gebyret, og det er begjært fritak innen to måneder etter at søkeren er underrettet om at patent kan meddeles. Avslås begjæringen om fritak, skal gebyr som betales innen to måneder deretter, anses som betalt i rett tid.
 >
 
+## § 202 c
+
+### 2014-05-09 — lov/2014-05-09-16
+
+*§ 202 c første til sjette ledd skal lyde:*
+
+> Når noen med skjellig grunn mistenkes for en handling eller forsøk på handling som etter loven kan medføre straff av fengsel i 10 år eller mer, eller som rammes av straffeloven §§ 90, 91, 91 a, 94 jf. 90, 104 a første ledd annet punktum, eller 104 a annet ledd jf. første ledd annet punktum, § 147 d, eller som rammes av lov om kontroll med eksport av strategiske varer, tjenester og teknologi m.v. § 5, kan retten ved kjennelse gi politiet tillatelse til åplassere teknisk peileutstyr i klær eller gjenstander som den mistenkte bærer på seg,plassere teknisk peileutstyr i veske eller annen håndbagasje som den mistenkte bærer med seg, ellerforeta innbrudd for å plassere teknisk peileutstyr som nevnt i bestemmelsen her eller i § 202 b.§ 202 b første ledd annet og tredje punktum gjelder tilsvarende.
+>
+> Tillatelse etter første ledd kan bare gis dersom det må antas at teknisk sporing vil være av vesentlig betydning for å oppklare saken, og at oppklaring ellers i vesentlig grad vil bli vanskeliggjort. Tillatelse etter første ledd bokstav c kan dessuten bare gis dersom det er strengt nødvendig å foreta innbrudd for å plassere peileutstyret.
+>
+> Når politiet ber om rettens tillatelse til teknisk sporing, gjelder § 216 d annet ledd tilsvarende. Dersom det ved opphold er stor fare for at etterforskningen vil lide, kan ordre fra påtalemyndigheten tre istedenfor kjennelse av retten, men ikke ut over 24 timer. § 197 tredje ledd og § 216 d gjelder tilsvarende.
+>
+> Rettens tillatelse skal gis for et bestemt tidsrom, som ikke må være lenger enn strengt nødvendig. Tillatelsen må ikke gis for mer enn 4 uker om gangen. § 216 f annet ledd gjelder tilsvarende.
+>
+> Rettens avgjørelse treffes uten at den mistenkte eller den som avgjørelsen ellers rammer, gis adgang til å uttale seg, og kjennelsen blir ikke meddelt dem. Når bruken av peileutstyr er avsluttet, skal den mistenkte underrettes om kjennelsen og om resultatet av peilingen.
+>
+> Dersom det er strengt nødvendig for etterforskningen i saken at underretning ikke gis, kan påtalemyndigheten i saker om overtredelse av straffeloven kapittel 8 eller 9 beslutte at underretning skal utsettes eller unnlates helt. I andre saker kan retten på de samme vilkår ved kjennelse beslutte at underretning kan utsettes for inntil 8 uker om gangen. Med mindre det er bestemt at underretning helt skal unnlates, skal underretning senest gis når tiltale tas ut. § 216 f annet ledd gjelder tilsvarende.
+>
+> I § 242 syvende ledd erstattes ordet «borgerlig» med «sivilt».
+>
+> I § 339 første ledd annet punktum erstattes ordet «formann» med «leder».
+>
+> 9. I lov 17. desember 1982 nr. 86 om rettsgebyr skal § 4 lyde:
+>
+> Gebyrplikten for sivile tvister, skjønn, tvangsfullbyrdelse og midlertidig sikring inntrer når saken er ført inn i sakslisten og for overprøving ved høyere instans innføring i dennes saksliste. Ved tinglysing er påføringen av attest for tinglysing avgjørende for gebyrplikten. For bobehandling gjelder de særlige regler i kapittel 5.
+>
+> 10. I lov 12. juni 1987 nr. 48 om norsk internasjonalt skipsregister (NIS-loven) skal § 8 overskriften lyde:
+>
+> Skipsarbeidsloven
+>
+
 ## § 21
 
 ### 2014-08-15 — lov/2014-08-15-58
@@ -341,6 +385,13 @@ refid: "lov/1967-12-15-9"
 > Er en prøve av biologisk materiale deponert etter § 8 a, har enhver rett til å få utlevert en prøve av materialet når dokumentene i saken er blitt tilgjengelige etter første, annet eller tredje ledd. Etter at patent er meddelt, kan utlevering skje til enhver som ber om det, uansett om patentet er opphørt eller kjent ugyldig. Dette innebærer likevel ikke at prøve skal utleveres til noen som i henhold til lov eller forskrift ikke har rett til å ha befatning med det deponerte materialet. Bestemmelsen i første punktum medfører heller ikke at prøve skal utleveres til noen hvis befatning med den må antas å være forbundet med betydelig risiko på grunn av materialets skadevoldende egenskaper.
 >
 > Med virkning for tiden før patent er meddelt eller søknaden er endelig avgjort uten at patent er meddelt, kan søkeren uansett syvende ledd kreve at prøve bare utleveres til en særlig sakkyndig. Hvis patentsøknaden er avslått eller trukket tilbake, gjelder det samme i en periode på 20 år fra patentsøknaden ble inngitt. Kongen fastsetter en frist for å sette frem krav om utleveringsbegrensning og fastsetter hvem som kan nyttes som sakkyndig.
+>
+
+### 2007-02-27 — lov/2007-01-26-3
+
+*§ 22 annet ledd annet punktum skal lyde:*
+
+> Er søknaden henlagt eller avslått, skal dokumentene likevel ikke holdes tilgjengelige med mindre søkeren begjærer gjenopptakelse, påklager avgjørelsen eller begjærer søknaden tatt under behandling i medhold av § 72 eller § 73.
 >
 
 ## § 24
@@ -379,6 +430,13 @@ refid: "lov/1967-12-15-9"
 > Dersom innsigeren påstår seg berettiget til patentet og i innsigelsen har begjært patentet overført til seg, skal Patentstyret overføre patentet til innsigeren istedenfor å oppheve det dersom det finner at det er innsigeren som etter § 1 er berettiget til patentet. § 53 tredje ledd gjelder tilsvarende.
 >
 > Patentstyret skal forkaste en innsigelse dersom det ikke foreligger hinder som nevnt i første ledd for at patentet opprettholdes. Er Patentstyret i tvil om et patent er meddelt i strid med § 1 b, skal Patentstyret innhente en rådgivende uttalelse etter § 15 a.
+>
+
+### 2014-05-09 — lov/2014-05-09-16
+
+*§ 25 femte ledd første punktum skal lyde:*
+
+> Når Patentstyrets eller Klagenemndens avgjørelse av en innsigelse er rettskraftig, skal melding om avgjørelsen innføres i patentregisteret og kunngjøres.
 >
 
 ### 2019-06-21 — lov/2019-06-21-49
@@ -480,7 +538,27 @@ refid: "lov/1967-12-15-9"
 > Ved anvendelsen av §§ 48 og 56 anses en internasjonal patentsøknad å være gjort tilgjengelig for enhver når den er gjort tilgjengelig etter tredje ledd. En internasjonal søknad som er på engelsk, og som er gjort tilgjengelig etter tredje ledd, anses bare å være gjort tilgjengelig for enhver ved anvendelsen av § 60 første ledd når søkeren har sendt inn en oversettelse av patentkravene til norsk, og Patentstyret har kunngjort at slik oversettelse er innsendt, jf. § 60 annet ledd første til tredje punktum.
 >
 
+## § 35
+
+### 2014-05-09 — lov/2014-05-09-16
+
+*§ 35 annet og tredje ledd skal lyde:*
+
+> For øvrig treffes alle avgjørelser med alminnelig flertall når ikke annet er bestemt. Står stemmene likt, gjelder ved avgjørelser om straff eller rettsfølger som nevnt i § 2 nr. 1 og 2, den mening som er gunstigst for siktede; ellers gjør lederens stemme utslaget.
+>
+> Spørsmålet om vilkårene for mortifikasjon foreligger, blir avgjort med alminnelig flertall. Står stemmene likt, gjør lederens stemme utslaget.
+>
+
 ## § 36
+
+### 2014-05-09 — lov/2014-05-09-16
+
+*§ 36 annet ledd annet punktum skal lyde:*
+
+> Om klagefrist mm og adgangen til å bringe avgjørelser truffet av Klagenemnden inn for domstolene gjelder § 27 tilsvarende.
+>
+> I § 52 første ledd nr. 5 erstattes ordet «uvidet» med «utvidet».
+>
 
 ### 2019-06-21 — lov/2019-06-21-49
 
@@ -489,6 +567,15 @@ refid: "lov/1967-12-15-9"
 > Har en del av en internasjonal patentsøknad ikke vært gjenstand for internasjonal nyhetsgransking eller internasjonal forberedende patenterbarhetsprøving fordi søknaden ble ansett å omfatte oppfinnelser som er uavhengige av hverandre og søkeren ikke innen den foreskrevne tid betalte tilleggsgebyr i henhold til samarbeidskonvensjonen, skal Patentstyret prøve om vurderingen var riktig. Finnes dette å være tilfelle, skal den del av søknaden som ikke er gransket eller prøvet, anses trukket tilbake, med mindre søkeren betaler fastsatt gebyr innen to måneder fra Patentstyret har sendt ham underretning om sin avgjørelse.
 >
 > I § 38 andre ledd andre punktum skal «søknadsavgift» erstattes av «søknadsgebyr».
+>
+
+## § 37
+
+### 2014-05-09 — lov/2014-05-09-16
+
+*§ 37 første ledd annet punktum skal lyde:*
+
+> Står da stemmene likt, gjør lederens stemme utslaget.
 >
 
 ## § 39 a
@@ -592,7 +679,20 @@ refid: "lov/1967-12-15-9"
 > Patentvernet for biologisk materiale som allerede forekommer i naturen, omfatter bare den delen av materialet som er nødvendig for den industrielle anvendelse som er angitt i patentsøknaden. Det skal fremgå tydelig av patentsøknaden på hvilken måte det biologiske materialet kan utnyttes industrielt.
 >
 
+## § 412
+
+### 2013-05-31 — lov/2013-05-31-25
+
+*§ 412 nr. 119 skal lyde:*
+
 ## § 44
+
+### 2014-05-09 — lov/2014-05-09-16
+
+*§ 44 tredje punktum skal lyde:*
+
+> Ellers kan lederen foreta rettingen.
+>
 
 ### 2015-01-23 — lov/2015-01-23-4
 
@@ -707,6 +807,13 @@ refid: "lov/1967-12-15-9"
 > I en dom som meddeler eller utvider en tvangslisens, kan retten fastsette at tvangslisenshaveren skal ha rett til å utnytte oppfinnelsen i samsvar med dommen før dommen er rettskraftig. Tvistemålsloven § 148 annet ledd gjelder tilsvarende. Oppheves eller innskrenkes tvangslisensen som følge av at dommen angripes før den er rettskraftig, plikter tvangslisenshaveren å betale erstatning i den utstrekning det finnes rimelig for det tap utnyttelsen har medført. Retten kan i avgjørelse etter første punktum pålegge lisenshaveren å stille sikkerhet for ansvar etter tredje punktum. Angripes en dom som meddeler eller utvider en tvangslisens før den er rettskraftig, kan den rett dommen bringes inn for, treffe eller omgjøre avgjørelse etter første og fjerde punktum. Avgjørelsen treffes ved kjennelse eller i den dom som avslutter saken, jf. annet punktum. En kjennelse etter sjette punktum kan bare angripes i tilslutning til anke over den dom som avslutter saken.
 >
 
+### 2007-02-27 — lov/2007-01-26-3
+
+*§ 50 fjerde ledd annet punktum skal lyde:*
+
+> Begjæring om foregrepet tvangskraft må fremsettes før forhandlingene forut for dommen er avsluttet.
+>
+
 ## § 50a
 
 ### 2003-12-19 — lov/2003-12-19-127
@@ -735,6 +842,13 @@ refid: "lov/1967-12-15-9"
 > det er meddelt til tross for at vilkårene i §§ 1 til 2 ikke er oppfylt,
 >
 
+### 2007-02-27 — lov/2007-01-26-3
+
+*§ 52 femte ledd oppheves. § 53 annet ledd skal lyde:*
+
+> Søksmålsfristene i § 52 fjerde ledd kommer tilsvarende til anvendelse på søksmål som her omhandlet.
+>
+
 ### 2007-06-29 — lov/2007-06-29-80
 
 *§ 52 første ledd skal lyde:*
@@ -747,6 +861,28 @@ refid: "lov/1967-12-15-9"
 *§ 52 femte ledd skal lyde:*
 
 > Dom som nevnt i første ledd har virkning fra den dag patentsøknaden ble inngitt.
+>
+
+### 2014-05-09 — lov/2014-05-09-16
+
+*§ 52 femte ledd skal lyde:*
+
+> Den som i samsvar med § 24 har fremsatt innsigelse med påstand om at patentet er meddelt til en annen enn den som har rett til det, kan reise søksmål om spørsmålet innen to måneder etter den dagen da meddelelse om Patentstyrets eller Klagenemndens endelige avgjørelse i innsigelsessaken ble sendt vedkommende part.
+>
+> § 52 e tredje ledd blir annet ledd nytt annet og tredje punktum. Nåværende fjerde ledd blir tredje ledd.
+>
+> § 58 annet ledd blir første ledd nytt annet punktum. Nåværende tredje til sjette ledd blir annet til femte ledd.
+>
+> § 59 annet ledd blir første ledd nytt tredje og fjerde punktum. Nåværende tredje og fjerde ledd blir annet og tredje ledd.
+>
+> I § 63 c annet punktum erstattes ordet «sakens» med «saken».
+>
+
+### 2014-05-09 — lov/2014-05-09-16
+
+*§ 52 tredje ledd fjerde punktum skal lyde:*
+
+> Opplysninger i kjennelsen som det er besluttet at forsvareren ikke skal opplyses om, jf. § 130 a tredje ledd fjerde punktum, skal ikke meddeles forsvareren.
 >
 
 ### 2019-06-21 — lov/2019-06-21-49
@@ -839,6 +975,21 @@ refid: "lov/1967-12-15-9"
 
 ## § 57
 
+### 2009-06-19 — lov/2009-06-19-74
+
+*§ 57 første ledd skal lyde:*
+
+> Den som gjør inngrep i den enerett patent medfører (patentinngrep), straffes med bøter eller fengsel inntil 3 måneder.
+>
+> 76. I lov 7. juni 1968 nr. 4 til gjennomføring av bindende vedtak av De Forente Nasjoners Sikkerhetsråd skal § 2 lyde:
+>
+> Den som overtrer bestemmelser gitt i medhold av denne lov, straffes med bøter eller fengsel inntil tre år eller begge deler.
+>
+> Den som uaktsomt overtrer bestemmelser som nevnt i første ledd, straffes med bøter eller fengsel inntil seks måneder, eller begge deler.
+>
+> Straffelovens § 8 kommer ikke til anvendelse.
+>
+
 ### 2013-05-31 — lov/2013-05-31-25
 
 *§ 57 skal lyde:*
@@ -848,6 +999,17 @@ refid: "lov/1967-12-15-9"
 > Dersom det foreligger særlig skjerpende omstendigheter, er straffen bøter eller fengsel inntil tre år. Ved vurderingen av om særlig skjerpende omstendigheter foreligger, skal det særlig legges vekt på den skade som er påført rettighetshaveren, herunder skade på rettighetshaverens kommersielle omdømme, den vinning som inngriperen har oppnådd, og omfanget av inngrepet for øvrig.
 >
 > Offentlig påtale finner bare sted hvis den fornærmede ber om det, med mindre det kreves av allmenne hensyn.
+>
+
+### 2013-05-31 — lov/2013-05-31-25
+
+*§ 57 skal lyde:*
+
+> Den som begår patentinngrep, straffes med bøter eller fengsel inntil ett år.
+>
+> Dersom det foreligger særlig skjerpende omstendigheter, er straffen bøter eller fengsel inntil tre år. Ved vurderingen av om særlig skjerpende omstendigheter foreligger skal det særlig legges vekt på den skade som er påført rettighetshaveren, herunder skade på rettighetshaverens kommersielle omdømme, den vinning som inngriperen har oppnådd, og omfanget av inngrepet for øvrig.
+>
+> For overtredelse av denne bestemmelsen kan påtale unnlates hvis ikke allmenne hensyn tilsier påtale, jf. straffeprosessloven § 62 a.
 >
 
 ## § 58
@@ -1062,6 +1224,15 @@ refid: "lov/1967-12-15-9"
 > Dersom Den utvidete klagenemnden i Det europeiske patentverket opphever en avgjørelse fra Klagenemnden i Det europeiske patentverket om å nekte patent, forfaller årsavgift for avgiftsår som har begynt etter at Klagenemnden traff sin avgjørelse og frem til den dagen da Den utvidete klagenemnden traff sin avgjørelse, to måneder etter sistnevnte dag.
 >
 
+## § 66 g
+
+### 2014-05-09 — lov/2014-05-09-16
+
+*§ 66 g annet ledd første punktum skal lyde:*
+
+> Utnytter noen i nærings- eller driftsøyemed en oppfinnelse som er gjenstand for en europeisk patentsøknad og som er kunngjort etter første ledd, gjelder bestemmelsene om patentinngrep i loven her, bortsett fra § 57 og § 58 fjerde ledd, dersom søknaden fører til patent i Norge.
+>
+
 ## § 66 j
 
 ### 2014-08-15 — lov/2014-08-15-58
@@ -1078,6 +1249,17 @@ refid: "lov/1967-12-15-9"
 *§ 66 m annet ledd første punktum skal lyde:*
 
 > Dersom vilkårene i første ledd er oppfylt, skal Patentstyret ta søknaden under behandling når søkeren innen en frist fastsatt av Kongen betaler fastsatt gebyr og sender inn en oversettelse av søknaden til norsk eller engelsk, eller en kopi av søknaden dersom den er på engelsk.
+>
+
+## § 67
+
+### 2014-05-09 — lov/2014-05-09-16
+
+*§ 67 første og annet ledd skal lyde:*
+
+> Meddelelser fra Patentstyret eller Klagenemnden til en søker, patenthaver, innsiger eller en som krever administrativ overprøving regnes alltid som avgitt når de er sendt til den adressen som vedkommende senest har oppgitt til Patentstyret eller Klagenemnden. Adressen innføres i patentregistret. Første punktum gjelder tilsvarende for meddelelser fra Konkurransetilsynet til patenthaveren i saker etter § 50 a.
+>
+> Hvis den registrerte adressen viser seg å være feil, inntas meddelelsen eller et sammendrag i Norsk Patenttidende med opplysning om at dokumentet kan fås hos Patentstyret eller Klagenemnden.
 >
 
 ## § 68
@@ -1114,6 +1296,39 @@ refid: "lov/1967-12-15-9"
 
 ## § 72
 
+### 2007-02-27 — lov/2007-01-26-3
+
+*§ 72 første ledd første punktum skal lyde:*
+
+> Dersom en patentsøker, bortsett fra i de tilfelle som er nevnt i annet ledd, har oversittet en frist fastsatt i eller i medhold av denne lov, og som følge av dette har lidt rettstap, skal saken likevel tas under behandling såfremt han godtgjør at han og hans fullmektig har utvist all den omhu som med rimelighet kan kreves.
+>
+
+### 2007-02-27 — lov/2007-01-26-3
+
+*§ 72 annet ledd annet punktum skal lyde:*
+
+> Begjæringen må likevel være framsatt og årsavgiften betalt senest seks måneder etter fristens utløp.
+>
+
+### 2014-05-09 — lov/2014-05-09-16
+
+*§ 72 tredje ledd skal lyde:*
+
+> Første ledd gjelder ikke frister som nevnt i § 6 første ledd, § 27 tredje ledd, § 39 d tredje ledd, § 52 fjerde og femte ledd, § 52 e tredje ledd og § 53 annet ledd.
+>
+> 6. I lov 13. juni 1975 nr. 39 om utlevering av lovbrytere m.v. skal § 10 nr. 1 lyde:Er den som begjæres utlevert domfelt for handlingen i den fremmede stat, skal utlevering ikke skje dersom det er særlig grunn til å tro at dommen ikke bygger på en riktig vurdering av spørsmålet om vedkommende er skyldig i gjerningen.
+>
+> 7. I lov 18. mai 1979 nr. 18 om foreldelse av fordringer skal § 4 lyde:
+>
+> § 4.(Bankinnskudd m.m.)
+>
+> 1. Fordring på bank eller offentlig kasse i anledning innskudd eller verdier som er gitt i forvaring, samt rentekrav i tilknytning til slik fordring, foreldes først 20 år etter at det er gitt melding etter finansavtaleloven § 22 første ledd. Dette gjelder selv om kontoen påføres renter etter at slik melding er gitt. Foreldelse inntrer bare dersom institusjonen forut for foreldelsesfristens utløp har gjort det som med rimelighet kan forventes for å komme i kontakt med kontohaveren eller arvingene.
+>
+> 2. Foreldelse avbrytes når fordringshaveren melder seg for institusjonen eller kontoen disponeres over ved uttak eller ved at midler settes inn på kontoen. Med bank likestilles annen innretning som med hjemmel i lov skaffer seg midler til sin virksomhet ved å motta innskudd fra en ubestemt krets av innskytere.
+>
+> 3. Finansavtaleloven § 22 gjelder tilsvarende for fordring på offentlig kasse.8. I lov 22. mai 1981 nr. 25 om rettergangsmåten i straffesaker gjøres følgende endringer:
+>
+
 ### 2019-06-21 — lov/2019-06-21-49
 
 *§ 72 skal lyde:*
@@ -1129,6 +1344,20 @@ refid: "lov/1967-12-15-9"
 
 ## § 73
 
+### 2007-02-27 — lov/2007-01-26-3
+
+*§ 73 første ledd innledningen skal lyde:*
+
+> Har søkeren i de tilfelle som er omhandlet i §§ 31 eller 38, sendt dokument eller avgift med postoperatør og sendingen ikke kommer frem til Patentstyret i rett tid, skal søknaden tas under behandling dersom handlingen blir foretatt innen to måneder fra søkeren innså eller burde ha innsett at fristen var overskredet, likevel senest innen ett år fra fristens utløp, og
+>
+
+### 2007-02-27 — lov/2007-01-26-3
+
+*§ 73 annet ledd skal lyde:*
+
+> Vil søkeren kreve søknaden tatt under behandling etter første ledd, må han innen den frist som der er nevnt, fremsette skriftlig begjæring om det til Patentstyret.
+>
+
 ### 2019-06-21 — lov/2019-06-21-49
 
 *§ 73 første ledd skal lyde:*
@@ -1136,7 +1365,23 @@ refid: "lov/1967-12-15-9"
 > Har søkeren i de tilfelle som er omhandlet i §§ 31 eller 38, sendt dokument, avgift eller gebyr med postoperatør, og sendingen ikke kommer frem til Patentstyret i rett tid, skal søknaden tas under behandling dersom handlingen blir foretatt innen to måneder fra søkeren innså eller burde ha innsett at fristen var overskredet, likevel senest innen ett år fra fristens utløp, ogpostforbindelsene har vært avbrutt i løpet av de ti siste dager før fristens utløp på grunn av krig, revolusjon, urolighet, streik, naturkatastrofe, eller annen liknende årsak på det sted der avsenderen oppholder seg eller har sin virksomhet, og dokumentet, avgiften eller gebyret er sendt til Patentstyret innen fem dager fra postforbindelsene ble gjenopprettet, ellerdokumentet, avgiften eller gebyret ble sendt til Patentstyret ved rekommandert brev senest fem dager før utløpet av fristen. Er brevet ikke sendt som flypost, skal dette likevel bare gjelde dersom avsenderen har hatt grunn til å tro at brevet ville komme frem innen to dager fra avsendingsdagen, eller dersom sending som flypost ikke var mulig.
 >
 
+## § 74
+
+### 2007-02-27 — lov/2007-01-26-3
+
+*§ 74 første ledd skal lyde:*
+
+> Er en patentsøknad som etter § 22 er tilgjengelig for enhver, henlagt eller avslått eller er et patent bortfalt, og får søkeren saken tatt under behandling på grunn av hva som foreskrives i § 72 eller § 73, skal Patentstyret utferdige kunngjøring om det.
+>
+
 ## § 75
+
+### 2007-02-27 — lov/2007-01-26-3
+
+*§ 75 første punktum skal lyde:*
+
+> Patentstyrets sjef bestemmer hvem som skal avgjøre begjæringer i henhold til §§ 72 og 73.
+>
 
 ### 2020-06-12 — lov/2020-06-12-67
 
@@ -1177,6 +1422,38 @@ refid: "lov/1967-12-15-9"
 > Skal det ved utøvelsen av en oppfinnelse anvendes biologisk materiale som verken er allment tilgjengelig eller kan beskrives slik i søknadsdokumentene at en fagperson på grunnlag av disse kan utøve oppfinnelsen, skal en prøve av det biologiske materialet deponeres senest den dag søknaden inngis.
 >
 
+## § 8 b
+
+### 2009-06-19 — lov/2009-06-19-74
+
+*§ 8 b fjerde ledd første punktum skal lyde:*
+
+> Brudd på opplysningsplikten er straffbart så langt det følger av straffeloven § 221.
+>
+
+### 2013-05-31 — lov/2013-05-31-25
+
+*§ 8 b fjerde ledd første punktum skal lyde:*
+
+> Brudd på opplysningsplikten er straffbart så langt det følger av straffeloven § 221.
+>
+
+## § 8 c
+
+### 2009-06-19 — lov/2009-06-19-74
+
+*§ 8 c annet ledd første punktum skal lyde:*
+
+> Brudd på opplysningsplikten er straffbart så langt det følger av straffeloven § 221.
+>
+
+### 2013-05-31 — lov/2013-05-31-25
+
+*§ 8 c annet ledd første punktum skal lyde:*
+
+> Brudd på opplysningsplikten er straffbart så langt det følger av straffeloven § 221.
+>
+
 ## § 8a
 
 ### 2003-12-19 — lov/2003-12-19-127
@@ -1212,4 +1489,13 @@ refid: "lov/1967-12-15-9"
 > Dersom en oppfinnelse gjelder eller anvender biologisk materiale fra mennesker, skal det fremgå av patentsøknaden om personen som materialet stammer fra, har samtykket i den aktuelle anvendelsen av materialet i samsvar med lov 21. februar 2003 nr. 12 om biobanker.
 >
 > Brudd på opplysningsplikten er straffbart så langt det følger av straffeloven § 166. Opplysningsplikten berører ikke behandlingen av patentsøknaden eller gyldigheten av patentet.
+>
+
+## § 99
+
+### 2014-05-09 — lov/2014-05-09-16
+
+*§ 99 første ledd annet punktum skal lyde:*
+
+> Dette gjelder likevel ikke i saker etter vegtrafikkloven § 22 første og femte ledd, jf. § 31, eller hvor retten på grunnlag av sakens art og forholdene ellers finner det ubetenkelig at han er uten forsvarer.
 >

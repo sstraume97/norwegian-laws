@@ -107,6 +107,13 @@ refid: "lov/2005-06-17-101"
 
 ## § 10
 
+### 2014-06-20 — lov/2014-06-20-52
+
+*§ 10 første ledd skal lyde:*
+
+> Før ny grunneigedom, ny anleggseigedom, ny festegrunn eller nytt jordsameige kan opprettast i matrikkelen, må det liggje føre løyve etter plan- og bygningslova § 20-2. For innføring av ny eigarseksjon må det liggje føre kommunalt seksjoneringsvedtak etter eigarseksjonslova § 9.
+>
+
 ### 2018-04-20 — lov/2018-04-20-12
 
 *§ 10 overskrifta skal lyde:*

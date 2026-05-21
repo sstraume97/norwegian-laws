@@ -5,6 +5,12 @@ refid: "lov/1998-06-26-47"
 
 # Endringshistorikk: Småbåtloven – småbåtl
 
+## § 9-7 a
+
+### 2009-06-19 — lov/2009-06-19-74
+
+*§ 9-7 a annet ledd oppheves.*
+
 ## (annet)
 
 ### 2003-01-01 — lov/2002-12-20-98
@@ -14,6 +20,17 @@ refid: "lov/1998-06-26-47"
 ### 2003-01-01 — lov/2002-12-20-98
 
 *§§ 16 til 19 oppheves.*
+
+### 2005-06-17 — lov/2005-06-17-77
+
+*§§ 2 til 5, §§ 8 til 13 og § 15 oppheves.*
+
+### 2009-06-19 — lov/2009-06-19-74
+
+*Nåværende femte og sjette ledd blir nytt sjette og syvende ledd.*
+
+> 194. I lov 17. juli 1998 nr. 54 om gjennomføring av Konvensjonen om forbud mot bruk, lagring, produksjon og overføring av antipersonellminer og om ødeleggelse av slike miner gjøres følgende endring:
+>
 
 ### 2010-06-25 — lov/2010-06-25-50
 
@@ -107,6 +124,13 @@ refid: "lov/1998-06-26-47"
 
 *§ 37 tredje punktum oppheves.*
 
+### 2009-06-19 — lov/2009-06-19-74
+
+*§ 37 nytt annet ledd skal lyde:*
+
+> Medvirkning straffes ikke.
+>
+
 ## § 40
 
 ### 2013-06-21 — lov/2013-06-21-101
@@ -128,6 +152,15 @@ refid: "lov/1998-06-26-47"
 > Kongen kan i forskrift gjøre unntak fra bestemmelser i forskrift gitt i medhold av tredje og fjerde ledd for bruk av fartøy som nevnt i første ledd til andre transportformål.
 >
 
+## § 40 a
+
+### 2009-06-19 — lov/2009-06-19-74
+
+*§ 40 a skal lyde:*
+
+> Den som forsettlig eller uaktsomt overtrer bestemmelsen i § 40 tredje ledd eller bestemmelser i forskrift fastslått med hjemmel i § 40 tredje ledd, straffes med bøter.
+>
+
 ## § 40a
 
 ### 2013-06-21 — lov/2013-06-21-101
@@ -140,6 +173,13 @@ refid: "lov/1998-06-26-47"
 >
 
 ## § 41 a
+
+### 2009-06-19 — lov/2009-06-19-74
+
+*§ 41 a nytt femte ledd skal lyde:*
+
+> Når Statens innkrevingssentral er pålagt å inndrive tvangsmulkt som nevnt i annet ledd, kan den inndrive det ved trekk i lønn og andre lignende ytelser etter reglene i dekningsloven § 2-7. Innkrevingssentralen kan også inndrive tvangsmulkt ved å stifte utleggspant for kravet dersom panteretten får rettsvern ved registrering i et register eller ved underretning til en tredjeperson, jf. panteloven kapittel 5, og utleggsforretningen kan holdes på innkrevingssentralens kontor etter tvangsfullbyrdelsesloven § 7-9 første ledd.
+>
 
 ### 2025-04-25 — lov/2025-04-25-12
 
@@ -163,6 +203,17 @@ refid: "lov/1998-06-26-47"
 > Småbåter som har fast havn her i riket eller som brukes i norsk kystfarvann, innsjø eller vassdrag av person med fast oppholdssted her i riket, og som harmotor som fremdriftsmiddel, ellerseil som fremdriftsmiddel og en største lengde på 4,5 meter eller mer,kan registreres i småbåtregisteret av eieren i henhold til loven her. Ved overdragelse av båt som er registrert, kan både selger og kjøper sende melding om overdragelsen til småbåtregisteret.
 >
 > Kongen kan i forskrift gi nærmere bestemmelser om:når en båt skal anses å ha fast havn her i riket, ognår en person skal anses å ha fast oppholdssted i riket.
+>
+
+### 2009-06-19 — lov/2009-06-19-74
+
+*§ 5 første ledd tredje punktum oppheves.*
+
+> 195. I lov 17. juli 1998 nr. 56 om årsregnskap m.v. (regnskapsloven) skal § 8-5 lyde:
+>
+> Den som betydelig overtrer bestemmelser om bokføring eller regnskap, straffes etter straffeloven §§ 392-394.
+>
+> 196. I lov 17. juli 1998 nr. 61 om grunnskolen og den vidaregåande opplæringa gjøres følgende endring:
 >
 
 ## § 8

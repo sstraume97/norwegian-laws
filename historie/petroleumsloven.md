@@ -197,6 +197,12 @@ refid: "lov/1996-11-29-72"
 > Bestemmelsene i § 4-12 annet ledd kommer tilsvarende til anvendelse såfremt den spesielle situasjon ikke tilsier noe annet.
 >
 
+## § 5-1
+
+### 2009-06-19 — lov/2009-06-19-74
+
+*§ 5-1 annet ledd oppheves.*
+
 ## § 5-3
 
 ### 2009-06-19 — lov/2009-06-19-104
@@ -292,6 +298,19 @@ refid: "lov/1996-11-29-72"
 > For å sikre etterlevelse av første ledd kan departementet i det enkelte tilfelle, og i den grad det anses nødvendig i forhold til omfanget av rettighetshavers virksomhet, oppstille særskilte krav til rettighetshavers organisasjon i Norge. Departementet kan også, dersom hensynet til god ressursforvaltning eller helse, miljø og sikkerhet tilsier det, pålegge rettighetshaver å bruke bestemte baser.
 >
 > Rettighetshaver skal påse at forholdene blir lagt til rette, slik at fagforeningsvirksomhet blant egne ansatte og entreprenørens og underentreprenørens personell kan foregå i samsvar med norsk praksis.
+>
+
+## § 10-17
+
+### 2009-06-19 — lov/2009-06-19-74
+
+*§ 10-17 tredje punktum oppheves. Nåværende fjerde punktum blir nytt tredje punktum.*
+
+> 177. I lov 29. november 1996 nr. 73 om formidling av landsdekkende postsendinger skal § 24 første punktum lyde:
+>
+> Den som forsettlig eller uaktsomt overtrer bestemmelsene i § 4, § 6 og § 7 eller forskrifter gitt med hjemmel i disse, straffes med bøter eller med fengsel i inntil tre måneder, dersom forholdet ikke går inn under noen strengere straffebestemmelse.
+>
+> 178. I lov 6. desember 1996 nr. 75 om sikringsordninger for banker, forsikringsselskapenes garantiordninger og offentlig administrasjon m.v. av finansinstitusjoner gjøres følgende endring:
 >
 
 ## § 10-18
@@ -414,10 +433,6 @@ refid: "lov/1996-11-29-72"
 ### 2010-06-18 — lov/2010-06-18-27
 
 *Nåværende andre og tredje ledd blir hhv. nytt fjerde og femte ledd.*
-
-### 2024-01-01 — forskrift/2023-12-18-2278
-
-*I følgende forskrifter endres «Oljedirektoratet» til «Sokkeldirektoratet» gjennomgående eller i angitt paragraf:Forskrift 19. juni 2009 nr. 700 om kompensasjon til fiskere for tapt fangsttid ved lokalisering, opptak og ilandbringelse av skrap som ikke stammer fra petroleumsvirksomhet § 4.Forskrift 12. desember 2008 nr. 1357 til lov 29. november 1996 nr. 72 om petroleumsvirksomhet kapittel 8 om erstatning til fiskere § 2, § 3, § 5.Forskrift 20. desember 2005 nr. 1625 om andres bruk av innretninger § 10 og § 14.Forskrift 19. juni 1997 nr. 618 om Petroleumsregisteret § 1-2, § 1-4 og § 4-3.*
 
 ### 2025-07-01 — lov/2025-06-20-109
 

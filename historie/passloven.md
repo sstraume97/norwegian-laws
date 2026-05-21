@@ -39,6 +39,13 @@ refid: "lov/1997-06-19-82"
 > Kongen kan bestemme at § 6 annet ledd (innhenting og lagring av biometrisk personinformasjon i passet) og § 6 a (innsyn i og sletting av biometrisk personinformasjon innhentet for personalisering av passet og etterfølgende identitetskontroll) også skal omfatte diplomatpass, spesialpass og tjenestepass utstedt etter regler gitt i medhold av lov 3. mai 2002 nr. 13 om utenrikstjenesten, samt utlendingspass i medhold av lov 24. juni 1988 nr. 64 om utlendingers adgang til riket og deres opphold her, jf. § 19.
 >
 
+### 2009-06-19 — lov/2009-06-19-86
+
+*§ 1 tredje ledd skal lyde:*
+
+> Kongen kan bestemme at § 6 annet ledd (innhenting og lagring av biometrisk personinformasjon i passet) og § 6a (innsyn i og sletting av biometrisk personinformasjon for personalisering av passet og etterfølgende identitetskontroll) også skal omfatte diplomatpass, spesialpass og tjenestepass utstedt etter regler gitt i medhold av lov 3. mai 2002 nr. 13 om utenrikstjenesten, samt utlendingspass og reisebevis for flyktninger i medhold av lov 24. juni 1988 nr. 64 om utlendingers adgang til riket og deres opphold her, jf. § 19.
+>
+
 ### 2010-12-17 — lov/2010-12-17-87
 
 *§ 1 tredje ledd skal lyde:*
@@ -250,6 +257,21 @@ refid: "lov/1997-06-19-82"
 > Passinnehaveren må ikke endre passets utseende. Det skal oppbevares på en betryggende måte. Dersom det kommer bort, skal passinnehaveren straks gi melding til passmyndigheten.
 >
 
+### 2009-06-19 — lov/2009-06-19-86
+
+*§ 6 skal lyde:*
+
+> Passets innhold, gyldighetstid og oppbevaring
+>
+> Pass skal bare inneholde opplysninger om en enkelt person. Departementet kan likevel gi forskrifter om utstedelse av pass til organisert gruppe av reisende med felles reiseleder (fellespass).
+>
+> Til bruk for senere verifisering eller kontroll av passinnehaverens identitet, kan det innhentes og lagres i passet biometrisk personinformasjon i form av ansiktsfoto og fingeravtrykk (to fingre). Informasjonen lagres elektronisk eller på annen måte i passet slik at hensynet til informasjonens ekthet, integritet og konfidensialitet blir ivaretatt.
+>
+> Passet er gyldig i ti år etter utstedelsesdagen. Departementet kan gi forskrifter om begrenset eller forlenget gyldighetstid. Passet gjelder for alle stater. Gyldighetsområdet kan likevel begrenses for fellespass og i særlige tilfeller hvor vilkårene for passhindring er til stede.
+>
+> Passinnehaveren må ikke endre passets utseende eller innhold. Det skal oppbevares på en betryggende måte. Dersom det kommer bort, skal passinnehaver straks gi melding til passmyndigheten. Pass som er meldt tapt må ikke på ny tas i bruk.
+>
+
 ### 2017-06-21 — lov/2017-06-21-93
 
 *§ 6 overskriften og første ledd skal lyde:*
@@ -294,6 +316,25 @@ refid: "lov/1997-06-19-82"
 > Biometrisk personinformasjon innhentet etter første ledd skal slettes så snart som mulig etter at identiteten er verifisert mot gyldig reisedokument, eller når identiteten er fastslått på annen måte.
 >
 
+## § 6a
+
+### 2009-06-19 — lov/2009-06-19-86
+
+*§ 6a skal lyde:*
+
+> Rett til innsyn i og retting av biometrisk informasjon om seg selv og sletting av biometrisk informasjon innhentet for utstedelse av pass og til gjennomføring av passkontroll (verifikasjon) mv.
+>
+> Vedkommende som passet er utstedt til har rett til innsyn i personopplysninger som er innført i passet eller i passregisteret, herunder den biometriske informasjonen, og kan kreve uriktig informasjon rettet eller slettet.
+>
+> Biometrisk personinformasjon som er innhentet til bruk ved personalisering av passet, skal slettes så snart passet er oversendt eller utlevert til passinnehaver.
+>
+> Biometrisk personinformasjon (ansiktsfoto og fingeravtrykk) kan innhentes elektronisk av alle som passerer grensekontroll eller annet kontrollsted for kontroll av reisedokumenter.
+>
+> Biometrisk personinformasjon innhentet i henhold til tredje ledd skal slettes så snart som mulig etter at vedkommendes identitet er verifisert mot gyldig reisedokument, eller når vedkommendes identitet er fastslått på annen måte.
+>
+> Bestemmelsene om kassasjon og retting i lov 4. desember 1992 nr. 126 om arkiv § 9 bokstav c og d berøres ikke av bestemmelsene i denne paragraf.
+>
+
 ## § 7
 
 ### 2017-06-21 — lov/2017-06-21-93
@@ -321,6 +362,29 @@ refid: "lov/1997-06-19-82"
 >
 
 ## § 8
+
+### 2009-06-19 — lov/2009-06-19-86
+
+*§ 8 skal lyde:*
+
+> Passregister
+>
+> Det kan opprettes et sentralt passregister. Også utlendingspass og reisebevis for flyktninger kan registreres i registeret.
+>
+> Registeret kan inneholde passinnehavers navn, fødselsnummer, høyde, øyenfarge, hårfarge, fødested, utsendelsesadresse, samt passnummer, utstedende myndighet, utstedelsesdato og utløpsdato. Ved endring av navn eller lignende, og ved utstedelse av nytt pass, kan også tidligere data beholdes i registeret.
+>
+> I registeret kan også inntas passinnehavers signatur og ansiktsfoto.
+>
+> Bare passmyndigheten, Kripos og norsk grensekontrollmyndighet skal ha tilgang til passregisteret.
+>
+> I registeret inntas for øvrig slike opplysninger som er nødvendig for forvaltning av registeret og utstedelse av pass.
+>
+> Behandlingsansvarlig for passregisteret er Politidirektoratet.
+>
+> Ved passmyndighet som ikke er tilknyttet det sentrale passregister, kan det føres midlertidig passregister etter regler gitt av Politidirektoratet.
+>
+> For diplomatpass, spesialpass og tjenestepass utstedt etter regler gitt i medhold av lov om utenrikstjenesten § 1 kan det også inntas andre opplysninger etter forskrift fastsatt av Utenriksdepartementet.
+>
 
 ### 2013-06-21 — lov/2013-06-21-87
 

@@ -52,6 +52,15 @@ refid: "lov/2003-03-14-15"
 > Den som søknaden overføres til, skal betale nytt søknadsgebyr, ellers henlegges søknaden.
 >
 
+## § 36
+
+### 2007-02-27 — lov/2007-01-26-3
+
+*§ 36 fjerde ledd skal lyde:*
+
+> Avgjørelsen om å avvise eller avslå et krav omgjenopptakelse etter § 19 fjerde ledd,unntak fra offentlighet etter §§ 21 fjerde ledd, 27 sjette ledd og 38 femte ledd,innsyn i dokumenter i saker etter loven her,fornyelse av en designregistrering etter § 24, ellerat en sak skal tas under behandling etter § 50,kan påklages til Patentstyrets annen avdeling av den som har fremsatt kravet.
+>
+
 ## § 37
 
 ### 2019-06-21 — lov/2019-06-21-49
@@ -59,6 +68,15 @@ refid: "lov/2003-03-14-15"
 *§ 37 fjerde punktum skal lyde:*
 
 > Fastsatt klagegebyr skal betales, ellers opptas ikke klagen til behandling.
+>
+
+## § 39
+
+### 2007-02-27 — lov/2007-01-26-3
+
+*§ 39 annet ledd tredje punktum skal lyde:*
+
+> Det kan ikke gis oppfriskning mot oversittelse av søksmålsfristen.
 >
 
 ## § 40
@@ -121,6 +139,12 @@ refid: "lov/2003-03-14-15"
 > I dom i sak om inngrep kan retten bestemme at informasjon om dommen skal formidles på passende måte for inngriperens regning. Dette gjelder tilsvarende ved medvirkning til inngrep og i tilfeller som nevnt i § 39 a annet punktum.
 >
 
+## § 412
+
+### 2013-05-31 — lov/2013-05-31-25
+
+*§ 412 ny nr. 269 skal lyde:*
+
 ## § 42
 
 ### 2013-05-31 — lov/2013-05-31-25
@@ -143,6 +167,17 @@ refid: "lov/2003-03-14-15"
 
 ## § 44
 
+### 2009-06-19 — lov/2009-06-19-74
+
+*§ 44 skal lyde:*
+
+> Den som forsettlig utnytter en design i strid med loven her, straffes med bøter eller med fengsel i inntil tre måneder.
+>
+
+### 2009-06-19 — lov/2009-06-19-74
+
+*§ 44 annet ledd og § 45 annet ledd oppheves.*
+
 ### 2013-05-31 — lov/2013-05-31-25
 
 *§ 44 skal lyde:*
@@ -155,6 +190,25 @@ refid: "lov/2003-03-14-15"
 >
 > Offentlig påtale finner bare sted hvis den fornærmede ber om det, med mindre det kreves av allmenne hensyn.
 >
+
+### 2013-05-31 — lov/2013-05-31-25
+
+*§ 44 skal lyde:*
+
+> § 44.Straff
+>
+> Den som begår designinngrep, straffes med bøter eller fengsel inntil ett år.
+>
+> Dersom det foreligger særlig skjerpende omstendigheter, er straffen bøter eller fengsel inntil tre år. Ved vurderingen av om særlig skjerpende omstendigheter foreligger skal det særlig legges vekt på den skade som er påført rettighetshaveren, herunder skade på rettighetshaverens kommersielle omdømme, den vinning som inngriperen har oppnådd, og omfanget av inngrepet for øvrig.
+>
+> For overtredelse av denne bestemmelsen kan påtale unnlates hvis ikke allmenne hensyn tilsier påtale, jf. straffeprosessloven § 62 a.
+>
+
+## § 45
+
+### 2013-05-31 — lov/2013-05-31-25
+
+*§ 45 annet ledd oppheves.*
 
 ## § 46
 
@@ -174,7 +228,45 @@ refid: "lov/2003-03-14-15"
 > En lisenshaver som reiser søksmål om designinngrep, skal i rekommandert brev gi melding om dette til den som er innført i designregisteret som designhaver, hvis adressen er angitt i registeret.
 >
 
+## § 48
+
+### 2007-02-27 — lov/2007-01-26-3
+
+*§ 48 skal lyde:*
+
+> Retten skal sende Patentstyret utskrift av dommer i sivil sak etter loven her.
+>
+> I § 50 skal overskriften lyde:
+>
+> Fristoversitting
+>
+
+## § 49
+
+### 2014-05-09 — lov/2014-05-09-16
+
+*§ 49 første og annet ledd skal lyde:*
+
+> Meldinger fra Patentstyret eller Klagenemnden til en søker, designhaver eller en som har krevd administrativ overprøving, regnes alltid som avgitt når de er sendt til den adressen som vedkommende senest har oppgitt til Patentstyret eller Klagenemnden. Adressen innføres i designregistret. For søkere og designhavere som har fullmektig, kan meddelelser etter leddet her sendes til fullmektigen.
+>
+> Hvis den registrerte adressen viser seg å være feil, inntas meldingen eller et sammendrag i Norsk Designtidende med opplysning om at dokumentet kan fås hos Patentstyret eller Klagenemden.
+>
+
 ## § 50
+
+### 2007-02-27 — lov/2007-01-26-3
+
+*§ 50 første ledd første punktum skal lyde:*
+
+> Den som overfor Patentstyret har oversittet en frist fastsatt i eller i medhold av bestemmelsene i kapittel 2, 4 eller 6, og som følge av dette har lidt rettstap, skal når denne krever det, likevel få en sak tatt under behandling hvis det godtgjøres at vedkommende selv og eventuelt fullmektigen har vist den aktsomhet som med rimelighet kan forventes.
+>
+
+### 2007-02-27 — lov/2007-01-26-3
+
+*§ 50 annet ledd annet punktum skal lyde:*
+
+> Heller ikke kan klage på avgjørelser som nevnt i § 36 annet ledd, tas til behandling dersom fristen i § 37 er oversittet.
+>
 
 ### 2019-06-21 — lov/2019-06-21-49
 
@@ -217,4 +309,29 @@ refid: "lov/2003-03-14-15"
 *§ 54 andre ledd tredje punktum skal lyde:*
 
 > For slik deling skal det betales fastsatt gebyr, ellers anses kravet om deling som ikke innkommet.
+>
+
+## § 58
+
+### 2014-05-09 — lov/2014-05-09-16
+
+*§ 58 annet ledd skal lyde:*
+
+> Frem til den internasjonale registreringen er innført i designregistret og kunngjort etter § 57 fjerde ledd, har registreringen samme virkning som en søknad om designregistrering i Norge. Utnytter noen designen uten samtykke fra den internasjonale designhaveren, og skjer utnyttelsen etter at den internasjonale registreringen er kunngjort av Det internasjonale byrået, gjelder § 39 a, § 40 første til tredje og femte ledd og §§ 41, 41 a og 41 b tilsvarende hvis registreringen senere blir innført i designregistret. Foreldelsesfristen for krav etter dette leddet begynner ikke å løpe før registreringen er innført i designregistret.
+>
+
+## § 7
+
+### 2009-06-19 — lov/2009-06-19-74
+
+*§ 7 første ledd nr. 2 skal lyde:*
+
+> uten tillatelse inneholder et våpen eller annet tegn som er omfattet av straffeloven § 165 bokstav b og § 166, et statsflagg eller et offentlig kontroll- eller garantimerke for produkter av samme eller liknende slag som produktene designen gjelder, eller noe som er egnet til å oppfattes som et slikt tegn, flagg eller merke.
+>
+
+### 2013-05-31 — lov/2013-05-31-25
+
+*§ 7 første ledd nr. 2 skal lyde:*
+
+> uten tillatelse inneholder et våpen eller annet tegn som er omfattet av straffeloven § 165 bokstav b og § 166, et statsflagg eller et offentlig kontroll- eller garantimerke for produkter av samme eller liknende slag som produktene designen gjelder, eller noe som er egnet til å oppfattes som et slikt tegn, flagg eller merke.
 >

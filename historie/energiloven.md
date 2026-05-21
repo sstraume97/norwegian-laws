@@ -1877,6 +1877,13 @@ refid: "lov/1990-06-29-50"
 > Departementet kan gi forskrifter om energivurdering av tekniske anlegg, kvalifikasjonskrav og måleutstyr, samt om hvilke klimaanlegg som skal omfattes.
 >
 
+### 2009-04-24 — lov/2009-04-24-22
+
+*Ledeteksten til endringen i § 1-4 skal lyde:*
+
+> §1-4 skallyde:
+>
+
 ### 2009-06-19 — lov/2009-06-19-105
 
 *Nåværende §§ 3-4 og 3-5 blir nye §§ 3-5 og 3-6.*

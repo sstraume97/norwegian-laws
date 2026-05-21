@@ -95,6 +95,45 @@ refid: "lov/1966-12-16-9"
 > § 13 b.Veiledningsplikt
 >
 
+## § 15
+
+### 2007-02-27 — lov/2007-01-26-3
+
+*§ 15 nr. 2 annet punktum og nytt tredje punktum skal lyde:*
+
+> Forklaring kan foruten av retten selv, opptas av en av dens medlemmer, saksforberedere, ved de alminnelige domstoler etter reglene om bevissikring i tvisteloven § 28-3 tredje ledd og § 28-4 eller ved politiet. Krav om bevissikring fremmes for den tingrett hvor de som skal avhøres, bor eller oppholder seg eller realbevis skal undersøkes.
+>
+
+### 2007-02-27 — lov/2007-01-26-3
+
+*§ 15 nr. 3 annet og tredje punktum skal lyde:*
+
+> For øvrig plikter enhver å avgi forklaring og gi tilgang til gjenstander mv. som kan utgjøre bevis, med de begrensninger som er nevnt i tvisteloven §§ 22-1 til 22-12. Den som opptar forklaringer etter reglene i nr. 2, kan gi fritak som nevnt i tvisteloven § 22-8 annet ledd og påbud som nevnt i tvisteloven § 22-10 annet punktum.
+>
+
+### 2007-02-27 — lov/2007-01-26-3
+
+*§ 15 nr. 4 oppheves, og nåværende nr. 5-7 blir nr. 4-6. Nr. 4 første ledd skal lyde:*
+
+> Retten kan kreve at besitteren legger fram eller gir tilgang til bevis når reglene i tvisteloven kapittel 22 ikke utelukker eller fritar for dette. Tvisteloven § 26-7 gjelder tilsvarende.
+>
+
+### 2007-02-27 — lov/2007-01-26-3
+
+*§ 15 nr. 6 skal lyde:*
+
+> Avgjørelser som nevnt under nr. 1-5 kan også treffes av rettens administrator.
+>
+
+## § 18
+
+### 2007-02-27 — lov/2007-01-26-3
+
+*§ 18 skal lyde:*
+
+> En part har rett til å la seg bistå av prosessfullmektig etter samme regler som fastsatt i tvisteloven kapittel 3 i søksmål for lagmannsrett og for tingrett.
+>
+
 ## § 21
 
 ### 2003-12-19 — lov/2003-12-19-135
@@ -126,6 +165,26 @@ refid: "lov/1966-12-16-9"
 
 *§ 22 første ledd skal lyde:*
 
+## § 23
+
+### 2007-02-27 — lov/2007-01-26-3
+
+*§ 23 annet ledd skal lyde:*
+
+> Søksmål kan av partene bringes inn uten forliksmegling for lagmannsretten i det lagdømme hvor den ankende part for Trygderetten har sitt alminnelige verneting.
+>
+
+### 2007-02-27 — lov/2007-01-26-3
+
+*§ 23 tredje ledd fjerde punktum oppheves.*
+
+### 2007-02-27 — lov/2007-01-26-3
+
+*§ 23 femte ledd annet punktum skal lyde:*
+
+> Det kan gis oppfriskning mot oversitting av søksmålsfristen etter reglene i tvisteloven §§ 16-12 til 16-14.
+>
+
 ## § 25
 
 ### 2001-12-21 — lov/2001-12-21-118
@@ -141,6 +200,15 @@ refid: "lov/1966-12-16-9"
 > Rettens avgjørelser om saksomkostninger kan påkjæres separat. Bestemmelsene i tvistemålsloven § 181 gjelder tilsvarende. Kjæremålsrett er den lagmannsrett som er nevnt i § 23 andre ledd i loven her. Fristen for å erklære kjæremål er fire uker fra den dag vedkommende mottok underretning om avgjørelsen.
 >
 
+### 2007-02-27 — lov/2007-01-26-3
+
+*§ 25 fjerde ledd skal lyde:*
+
+> Rettens avgjørelser om saksomkostninger kan ankes separat. Bestemmelsene i tvisteloven §§ 20-9 og 20-10 gjelder tilsvarende. Ankedomstol er den lagmannsrett som er nevnt i § 23 andre ledd i loven her. Ankefristen er én måned fra den dag vedkommende mottok underretning om avgjørelsen.
+>
+> 50. I lov 10. februar 1967 om behandlingsmåten i forvaltningssaker gjøres følgende endringer:
+>
+
 ## § 26
 
 ### 2017-12-19 — lov/2017-12-19-113
@@ -152,6 +220,26 @@ refid: "lov/1966-12-16-9"
 > (5) Departementet kan i enkeltsaker overta utøvelsen av statens partsstilling.
 >
 > Noverande femte ledd blir nytt sjette ledd.
+>
+
+## § 27
+
+### 2007-02-27 — lov/2007-01-26-3
+
+*§ 27 tredje ledd tredje og fjerde punktum skal lyde:*
+
+> Er det etter § 27 b i loven her eller etter særskilt lovbestemmelse et vilkår for søksmål at klageadgangen er nyttet, eller at søksmålet anlegges innen en viss frist, skal parten i underretningen om vedtaket også gjøres oppmerksom på dette. I motsatt fall kommer slike vilkår for søksmål ikke til anvendelse overfor parten.
+>
+
+## § 27 b
+
+### 2007-02-27 — lov/2007-01-26-3
+
+*Ny § 27 b skal lyde:*
+
+> § 27 b.(vilkår for å reise sak for domstolene om vedtaket).
+>
+> Det forvaltningsorgan som har truffet vedtaket, kan bestemme at søksmål om gyldigheten av forvaltningsvedtak eller krav om erstatning som følge av vedtaket ikke skal kunne reises uten at vedkommende part har nyttet sin adgang til å klage over vedtaket, og at klagen er avgjort av den høyeste klageinstans som står åpen. Søksmål skal likevel i alle tilfelle kunne reises når det er gått 6 måneder fra klage første gang ble framsatt, og det ikke skyldes forsømmelse fra klagerens side at klageinstansens avgjørelse ikke foreligger.
 >
 
 ## § 28
@@ -172,6 +260,13 @@ refid: "lov/1966-12-16-9"
 >
 
 ## § 3
+
+### 2007-06-15 — lov/2007-06-15-38
+
+*§ 3 femte ledd skal lyde:*
+
+> Kongen oppnevner for fire år om gangen et utvalg av legmedlemmer. Om lag halvparten av medlemmene skal ha særlig kyndighet i de saksforhold Trygderetten får til behandling. De som oppnevnes skal være pliktige til å gjøre tjeneste som medlemmer av Trygderetten. Valgbare er menn og kvinner som har fylt 18 år, og som er vederheftige og valgbare ved kommunale valg. Domstolloven § 74 første ledd og § 100 får tilsvarende anvendelse.
+>
 
 ### 2017-12-19 — lov/2017-12-19-113
 
@@ -217,6 +312,13 @@ refid: "lov/1966-12-16-9"
 
 ## § 4
 
+### 2007-02-27 — lov/2007-01-26-3
+
+*§ 4 første ledd bokstav b skal lyde:*
+
+> saker som forvaltningsorganet selv behandler eller avgjør i medhold av rettspleielovene (straffeprosesslovene, domstolloven, tvisteloven, voldgiftsloven, tvangsfullbyrdelsesloven, skjønnsloven) eller lover som knytter seg til disse lovene (konkursloven, skifteloven og gjeldsordningsloven), eller jordskifteloven eller rettsgebyrloven.
+>
+
 ### 2019-12-20 — lov/2019-12-20-84
 
 *§ 4 skal lyde:*
@@ -261,6 +363,13 @@ refid: "lov/1966-12-16-9"
 >
 
 ## § 8
+
+### 2007-02-27 — lov/2007-01-26-3
+
+*§ 8 annet ledd femte punktum skal lyde:*
+
+> Er det på tale å utelukke Trygderettens leder eller to av Trygderettens faste medlemmer kan Trygderettens leder beslutte at saken skal forelegges for Høyesteretts ankeutvalg.
+>
 
 ### 2025-06-20 — lov/2025-06-20-38
 

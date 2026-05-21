@@ -190,6 +190,28 @@ refid: "lov/1987-06-12-56"
 
 ## § 3-4
 
+### 2007-02-27 — lov/2007-01-26-3
+
+*§ 3-4 første ledd nr. 1 skal lyde:*
+
+> Enhver har rett til å inngi prosesskriv med bilag, skriftlige bevis eller andre skriftlige henvendelser på samisk. Skal domstolen formidle henvendelsen til en motpart, sørger den for oversettelse til norsk. Oversettelse kan unnlates dersom motparten samtykker.
+>
+
+### 2007-02-27 — lov/2007-01-26-3
+
+*§ 3-4 første ledd nr. 4 og 5 skal lyde:*
+
+> Når en part begjærer det, kan rettens leder bestemme at forhandlingsspråket skal være samisk. Nr. 3 andre punktum gjelder tilsvarende.Er forhandlingsspråket samisk, kan rettens leder bestemme at også rettsboken skal føres på samisk. Domstolen sørger for oversettelse til norsk.
+>
+> 88. I lov 13. mai 1988 nr. 26 om inkassovirksomhet og annen inndriving av forfalte pengekrav skal § 23 første ledd annet punktum lyde:
+>
+> Gjelder tvisten fordringshaverens krav på å få dekket kostnadene ved inndrivingen, kan den likevel bringes inn etter tvistelovens regler til behandling for de alminnelige domstolene sammen med hovedkravet.
+>
+> 89. I lov 20. mai 1988 nr. 32 om militær disiplinærmyndighet skal § 36 første punktum lyde:
+>
+> Søksmål etter tvisteloven kan bare reises når klageadgangen er uttømt.
+>
+
 ### 2023-06-09 — lov/2023-06-09-28
 
 *§ 3-4 skal lyde:*

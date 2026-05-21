@@ -387,6 +387,13 @@ refid: "lov/1980-06-13-35"
 > til den som har vært utsatt for handling som nevnt i straffeprosessloven § 107 a første ledd bokstav a eller b, for å vurdere forhold av betydning for anmeldelse.
 >
 
+### 2009-06-19 — lov/2009-06-19-41
+
+*§ 11 første ledd nr. 1 skal lyde:*
+
+> for utlending som har rett til fri rettshjelp etter utlendingsloven § 92 første ledd, annet ledd og tredje ledd første punktum, eller for den som har rett til fri rettshjelp etter statsborgerloven § 27 sjuende ledd første punktum.
+>
+
 ### 2010-01-15 — lov/2010-01-15-2
 
 *§ 11 andre ledd nr. 5 skal lyde:*
@@ -413,6 +420,13 @@ refid: "lov/1980-06-13-35"
 *§ 11 første ledd nr. 1 skal lyde:*
 
 > for utlending som har rett til fri rettshjelp etter utlendingsloven § 92 første ledd, annet ledd og tredje ledd første punktum, eller for den som har rett til fri rettshjelp etter statsborgerloven § 27 sjuende ledd første eller tredje punktum.
+>
+
+### 2020-12-18 — lov/2020-12-18-149
+
+*§ 11 annet ledd nr. 1 skal lyde:*
+
+> i saker etter ekteskapsloven eller barneloven kap. 5, 6, 7 og 8, herunder saker om tvangsfullbyrdelse og midlertidig sikring.
 >
 
 ### 2022-05-06 — lov/2022-05-06-27
@@ -586,6 +600,36 @@ refid: "lov/1980-06-13-35"
 > for utlending i tilfeller som nevnt i utlendingsloven § 42 første og fjerde ledd annet punktum eller for den som har rett til fri sakførsel etter statsborgerloven § 27 sjuende ledd annet punktum.
 >
 
+### 2007-02-27 — lov/2007-01-26-3
+
+*§ 16 første ledd nr. 2 skal lyde:*
+
+> for den et tvangstiltak retter seg mot i saker om overprøving av administrative tvangsvedtak i helse- og sosialsektoren etter tvisteloven kap. 36.
+>
+
+### 2009-06-19 — lov/2009-06-19-41
+
+*§ 16 første ledd nr. 4 skal lyde:*
+
+> for utlending i tilfeller som nevnt i utlendingsloven § 92 tredje ledd annet punktum og fjerde ledd eller for den som har rett til fri sakførsel etter statsborgerloven § 27 sjuende ledd annet punktum.
+>
+> 6. I lov 22. mai 1981 nr. 25 om rettergangsmåten i straffesaker skal § 67 annet ledd bokstav d lyde:forbrytelse mot militær straffelov § 34 annet ledd annet straffalternativ, jf. tredje ledd, tolloven § 66, merverdiavgiftsloven § 72, ligningsloven § 12-1, utlendingsloven § 108 annet ledd, jf. femte ledd, regnskapsloven § 8-5 første ledd første og tredje punktum, jf. tredje ledd første punktum og bokføringsloven § 15 første ledd første og tredje punktum, jf. tredje ledd første punktum.
+>
+> 7. I lov 28. februar 1997 nr. 19 om folketrygd skal § 1-7 lyde:
+>
+> § 1-7.Flyktning
+>
+> Med flyktning menes i denne loven en person som er innvilget oppholdstillatelse i medhold av utlendingsloven § 28.
+>
+> 8. I lov 13. juni 1997 nr. 42 om kystvakten skal § 12 første ledd bokstav g lyde:lov 15. mai 2008 nr. 35 om utlendingers adgang til riket og deres opphold her (utlendingsloven),
+>
+> 9. I lov 19. juni 1997 nr. 82 om pass skal § 1 tredje ledd lyde:
+>
+> Kongen kan bestemme at § 6 annet ledd (innhenting og lagring av biometrisk personinformasjon i passet) og § 6 a (innsyn i og sletting av biometrisk personinformasjon innhentet for personalisering av passet og etterfølgende identitetskontroll) også skal omfatte diplomatpass, spesialpass og tjenestepass utstedt etter regler gitt i medhold av lov 3. mai 2002 nr. 13 om utenrikstjenesten, samt utlendingspass i medhold av utlendingsloven § 64.
+>
+> 10. I lov 16. juli 1999 nr. 66 om Schengen informasjonssystem skal § 7 nr. 2 lyde:opplysninger om personer som ikke skal gis tillatelse til innreise fordi det i forbindelse med utvisning etter utlendingsloven § 66 bokstav a, b, c, e eller f, §§ 67 eller 68 er truffet vedtak om innreiseforbud, og vedtaket fortsatt er gjeldende
+>
+
 ### 2015-12-18 — lov/2015-12-18-126
 
 *§ 16 annet ledd skal lyde:*
@@ -605,6 +649,19 @@ refid: "lov/1980-06-13-35"
 *§ 16 første ledd nr. 4 skal lyde:*
 
 > for utlending i tilfeller som nevnt i utlendingsloven § 92 tredje ledd annet punktum og fjerde ledd, § 129 annet ledd, eller for den som har rett til fri sakførsel etter statsborgerloven § 27 sjuende ledd annet eller tredje punktum.
+>
+
+### 2020-12-18 — lov/2020-12-18-149
+
+*§ 16 annet ledd skal lyde:*
+
+> Søknad om fri sakførsel kan innvilges til den som har inntekt og formue under bestemte grenser fastsatt av departementet, i følgende saker:saker etter barnelova kapittel 5, 6, 7 og 8, herunder saker om tvangsfullbyrdelse og midlertidig sikring,saker etter ekteskapsloven med unntak av saker etter lovens del II og § 91,saker som nevnt i § 11 annet ledd nr. 3, 4 og 5,saker etter barnebortføringskonvensjonen av 25. oktober 1980 artikkel 3 for den som har fått sitt barn ulovlig bortført til Norge.
+>
+> 9.I lov 8. april 1981 nr. 7 om barn og foreldre skal § 64 a første ledd lyde:
+>
+> Retten skal av eige tiltak og utan ugrunna opphald handsame sak om foreldreansvaret når den får melding etter arvelova § 89 andre ledd andre punktum om at eit dødsfall fører til at ingen lenger har foreldreansvaret for eit barn.
+>
+> 10.I lov 22. mai 1981 nr. 25 om rettergangsmåten i straffesaker skal § 3 første ledd nr. 5 lyde:krav om tap av arverett etter § 72 i lov 14. juni 2019 nr. 21 om arv og dødsboskifte og krav om tap av retten til deling av felleseie etter § 78 a i lov 4. juli 1991 nr. 47 om ekteskap,
 >
 
 ### 2022-05-06 — lov/2022-05-06-27
@@ -786,6 +843,15 @@ refid: "lov/1980-06-13-35"
 > Når fri sakførsel er innvilget til voldsofre i erstatningssak mot gjerningspersonen eller for den private part i en sak hvor søksmål er anbefalt av Sivilombudet, skal det også dekke ansvar for motpartens sakskostnader.
 >
 
+## § 23
+
+### 2007-02-27 — lov/2007-01-26-3
+
+*§ 23 første ledd skal lyde:*
+
+> Dersom en part som har fri rettshjelp, vinner saken, skal saksomkostninger etter tvisteloven kap. 20 i tilfelle tilkjennes det offentlige i den utstrekning det er nødvendig for å dekke utgiftene til fri rettshjelp.
+>
+
 ## § 25
 
 ### 2023-12-20 — lov/2023-12-20-109
@@ -802,6 +868,31 @@ refid: "lov/1980-06-13-35"
 *§ 25 tredje ledd oppheves. Nåværende fjerde ledd blir tredje ledd.*
 
 ## § 27
+
+### 2007-02-27 — lov/2007-01-26-3
+
+*§ 27 skal lyde:*
+
+> § 27.Anke
+>
+> Avgjørelser etter denne lov som er truffet av en domstol, kan ankes til overordnet domstol. Avgjørelser truffet av Arbeidsretten kan ikke ankes. Avgjørelser truffet av Trygderetten kan ankes til Borgarting lagmannsrett.
+>
+> For anke etter første ledd gjelder reglene i tvistemålsloven og domstolloven dersom ikke annet følger av paragrafen her.
+>
+> For den som har fått underretning om avgjørelsen, er fristen for å erklære anke én måned fra den dag vedkommende mottok underretningen. For andre er fristen én måned fra den dag da vedkommende har fått eller burde ha skaffet seg kjennskap til avgjørelsen, men likevel ikke utover tre måneder fra det tidspunkt avgjørelsen ble truffet.
+>
+> Domstolen skal tilrettelegge saken for ankedomstolen og gi slik redegjørelse for saken som er nødvendig for ankedomstolen.
+>
+> Om dekning av sakskostnader av det offentlige gjelder forvaltningsloven § 36 første ledd og tredje ledd første og annet punktum tilsvarende.
+>
+> 75. I lov 6. mars 1981 nr. 5 om barneombud skal § 4 tredje ledd første punktum lyde:
+>
+> Reglene i tvisteloven §§ 22-1, 22-2, 22-4 til 22-11 får tilsvarende anvendelse for Ombudets rett til å kreve opplysninger.
+>
+> 76. I lov 13. mars 1981 nr. 6 om vern om forurensninger og om avfall (Forurensningsloven) skal § 64 første ledd første punktum lyde:
+>
+> Søksmål om erstatning eller krav som gjelder fast eiendom kan samlet reises i enhver rettskrets hvor det er verneting for ett av kravene, såfremt grunnlaget for kravene er det samme eller vesentlig likeartet.
+>
 
 ### 2010-01-15 — lov/2010-01-15-2
 
@@ -835,6 +926,13 @@ refid: "lov/1980-06-13-35"
 >
 
 ## § 3
+
+### 2004-12-17 — lov/2004-12-17-92
+
+*§ 3 andre ledd skal lyde:*
+
+> For arbeid som betales av det offentlege skal den som yter fri rettshjelp kreve inn egenandel fra klienten etter § 9. Det kan ikke kreves eller mottas ytterligere vederlag av klienten.
+>
 
 ### 2005-04-15 — lov/2005-04-15-17
 
@@ -913,6 +1011,19 @@ refid: "lov/1980-06-13-35"
 ### 2002-09-27 — lov/2002-09-27-70
 
 *§ 9 oppheves.*
+
+### 2004-12-17 — lov/2004-12-17-92
+
+*Ny § 9 skal lyde:*
+
+> Mottaker av fri rettshjelp i behovsprøvde saker skal betale en egenandel av utgiftene til bistand etter denne lov. Egenandelen beregnes ut fra en grunndel tilsvarende gjeldende salærsats for straffesaker og benefiserte saker.
+>
+> Ved fritt rettsråd betales en egenandel tilsvarende grunndelen.
+>
+> Ved fri sakførsel skal det betales en egenandel på 25 pst. av utgiftene, men ikke mer enn 5 ganger grunndelen.
+>
+> Nærmere bestemmelser for beregning av egenandel fastsettes i forskrift.
+>
 
 ### 2017-01-01 — lov/2016-12-16-97
 

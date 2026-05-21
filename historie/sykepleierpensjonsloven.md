@@ -129,6 +129,17 @@ refid: "lov/1962-06-22-12"
 
 ## § 10 a
 
+### 2010-12-17 — lov/2010-12-17-77
+
+*§ 10 a andre ledd skal lyde:*
+
+> Levealdersjustering gjennomføres ved hjelp av forholdstall som fastsettes av Arbeids- og velferdsdirektoratet for årskull fra og med 1943-kullet, jf. folketrygdloven §§ 19-6 og 19-7.
+>
+> I endringen av § 39 skal femte ledd lyde:
+>
+> Ved regulering av pensjoner og pensjonsgrunnlag etter første til fjerde ledd benyttes de reguleringsfaktorer Kongen fastsetter etter folketrygdloven § 19-14 åttende ledd.
+>
+
 ### 2011-01-01 — lov/2010-06-25-29
 
 *Ny § 10 a skal lyde:*

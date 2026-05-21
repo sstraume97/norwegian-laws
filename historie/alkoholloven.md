@@ -5,6 +5,15 @@ refid: "lov/1989-06-02-27"
 
 # Endringshistorikk: Alkoholloven – alkhl
 
+## § 1-2
+
+### 2005-06-17 — lov/2005-06-17-59
+
+*§ 1-2 andre ledd skal lyde:*
+
+> Departementet kan gi forskrifter om lovens anvendelse på Svalbard, Jan Mayen og kontinentalsokkelen og kan fastsette særlige regler under hensyn til de stedlige forhold.
+>
+
 ## § 1-3
 
 ### 2002-12-13 — lov/2002-12-13-87
@@ -248,6 +257,19 @@ refid: "lov/1989-06-02-27"
 > Vandelskravene gjelder ikke for bevilling til AS Vinmonopolet, for adgang til å drive engrossalg etter § 1-4c, eller for bevilling etter § 5-3 og kapittel 6.
 >
 
+## § 1-7 b
+
+### 2005-06-17 — lov/2005-06-17-59
+
+*§ 1-7 b tredje og fjerde ledd skal lyde:*
+
+> I vurderingen av om en person har vesentlig innflytelse på virksomheten, kan det også tas hensyn til personens nærståendes innflytelse på virksomheten. Med nærstående menesektefelle eller person som vedkommende bor sammen med i ekteskapslignende forholdslektninger i rett oppstigende eller nedstigende linje, samt søskenektefelle til eller person som bor sammen med person som nevnt i nummer 2 i ekteskapslignende forhold
+>
+> Ved vurderingen av bevillingshavers og andre personers vandel etter første ledd kan det ikke tas hensyn til forhold som er eldre enn 10 år.
+>
+> Noverande § 1-7b fjerde og femte ledd blir femte og sjette ledd.
+>
+
 ## § 1-7c
 
 ### 2004-12-17 — lov/2004-12-17-86
@@ -324,6 +346,13 @@ refid: "lov/1989-06-02-27"
 *§ 1-8 tredje ledd skal lyde:*
 
 > En bevilling kan også inndras dersom det skjer gjentatt narkotikaomsetning på skjenkestedet, eller dersom det ved skjenkestedet skjer gjentatt diskriminering av grunner som nevnt i straffeloven § 349a.
+>
+
+### 2009-06-19 — lov/2009-06-19-74
+
+*§ 1-8 tredje ledd skal lyde:*
+
+> En bevilling kan også inndras dersom det skjer gjentatt narkotikaomsetning på skjenkestedet, eller dersom det ved skjenkestedet skjer gjentatt diskriminering av grunner som nevnt i straffeloven § 186.
 >
 
 ### 2015-09-18 — lov/2015-09-18-93
@@ -625,6 +654,15 @@ refid: "lov/1989-06-02-27"
 > Det kan bare selges alkoholholdig drikk som er levert av en som har tilvirknings- eller salgsbevilling eller som kan drive engrossalg, eller som er innført med hjemmel i tredje ledd eller av AS Vinmonopolet med hjemmel i § 2-1 annet ledd.
 >
 
+### 2005-06-17 — lov/2005-06-17-59
+
+*§ 3-1 første og andre ledd skal lyde:*
+
+> Salg av alkoholholdig drikk med høyere alkoholinnhold enn 4,7 volumprosent kan bare foretas av AS Vinmonopolet på grunnlag av kommunal bevilling, eller på grunnlag av tillatelse som nevnt i § 3-1a.
+>
+> Salg av annen alkoholholdig drikk enn nevnt i første ledd kan bare foretas på grunnlag av kommunal bevilling, eller på grunnlag av tillatelse som nevnt i § 3-1a. Det gjelder også der salget skal drives av et selskap som helt eller delvis eies av kommunen. Bevillingen gjelder for et bestemt lokale og en bestemt type virksomhet. Salgsbevilling kan ikke utøves sammen med skjenkebevilling i samme lokale.
+>
+
 ### 2011-05-06 — lov/2011-05-06-13
 
 *§ 3-1 første ledd skal lyde:*
@@ -697,6 +735,17 @@ refid: "lov/1989-06-02-27"
 >
 
 ## § 3-1a
+
+### 2005-06-17 — lov/2005-06-17-59
+
+*Ny § 3-1a skal lyde:*
+
+> § 3-1a.Salg av alkoholholdig drikk på flyplasser
+>
+> Avgiftsfritt salg av alkoholholdig drikk kan skje etter tillatelse fra toll- og avgiftsetaten. Tillatelse kan kun gis for salg til reisende på vei til utland fra norske flyplasser eller til reisende som ankommer norske flyplasser fra utland. Tillatelse kan ikke gis for reisende på vei til eller fra Svalbard, Jan Mayen og kontinentalsokkelen.
+>
+> For slikt salg gjelder § 3-1 sjette ledd tilsvarende.
+>
 
 ### 2016-06-17 — lov/2016-06-17-51
 
@@ -1026,6 +1075,25 @@ refid: "lov/1989-06-02-27"
 *§ 5-2 tredje ledd skal lyde:*
 
 > Bevilling etter første ledd nr. 3 til skjenking om bord i skip som er kollektive transportmidler, gir videre bare rett til å skjenke alkoholholdig drikk med 22 volumprosent alkohol eller mer dersom skipet går i fart mellom Norge og utlandet eller i kystfart over fire dagers varighet.
+>
+
+### 2009-06-19 — lov/2009-06-19-74
+
+*§ 5-2 siste punktum oppheves.*
+
+> 133. I lov 16. juni 1989 nr. 54 om offisiell statistikk og Statistisk Sentralbyrå skal § 5-1 lyde:
+>
+> (1) Overtredelse av § 2-2 eller vedtak med hjemmel i § 2-2 om oppgaveplikt, av § 2-5 om bruk av opplysninger eller av § 2-6 om offentliggjøring av opplysninger, kan straffes med bøter, med mindre overtredelsen faller inn under strengere straffebestemmelser.
+>
+> (2) Brudd på taushetsplikt eller på vilkår etter § 2-5 kan straffes etter straffeloven § 209.
+>
+> 134. I lov 16. juni 1989 nr. 59 om lostjenesten m.v. skal § 22 første ledd lyde:
+>
+> Med bøter straffes den som forsettlig eller uaktsomt overtrer bestemmelser gitt i eller i medhold av lovens kapittel III.
+>
+> 135. I lov 27. april 1990 nr. 9 om regulering av eksporten av fisk og fiskevarer skal § 9 annet punktum lyde:
+>
+> På samme måte straffes forsøk.
 >
 
 ### 2011-05-06 — lov/2011-05-06-13
@@ -1509,6 +1577,27 @@ refid: "lov/1989-06-02-27"
 
 ## § 10-1
 
+### 2009-06-19 — lov/2009-06-19-74
+
+*§ 10-1 første ledd skal lyde:*
+
+> Den som forsettlig eller uaktsomt overtrer bestemmelser gitt i eller i medhold av denne lov, straffes med bøter eller fengsel inntil 6 måneder.
+>
+
+### 2009-06-19 — lov/2009-06-19-74
+
+*§ 10-1 tredje ledd skal lyde:*
+
+> Overtredelse av §§ 2-1, 3-1, 8-1, 8-2 og 8-3 som gjelder et meget betydelig kvantum alkoholholdig drikk, straffes etter straffeloven § 233.
+>
+
+### 2009-06-19 — lov/2009-06-19-74
+
+*§ 10-1 femte ledd skal lyde:*
+
+> Forsøk straffes på samme måte.
+>
+
 ### 2016-06-17 — lov/2016-06-17-51
 
 *§ 10-1 tredje ledd skal lyde:*
@@ -1517,6 +1606,15 @@ refid: "lov/1989-06-02-27"
 >
 
 ## § 10-3
+
+### 2009-06-19 — lov/2009-06-19-74
+
+*§ 10-3 skal lyde:*
+
+> Dersom vilkårene for inndragning etter straffeloven er oppfylt, kan påtalemyndigheten beslutte at brennevin og gjærende eller gjæret udestillert væske tilintetgjøres. Det samme gjelder annen alkoholholdig drikk når den er skjenket i glass eller finnes i opptrukket flaske. Beslutning om inndragning av lovlig tilvirket brennevin skal være skriftlig og begrunnet. Eieren eller besitteren skal så vidt mulig underrettes om påtalemyndighetens beslutning ved kopi av beslutningen og kan kreve saken forelagt for retten innen 1 måned etter at beslaget ble foretatt.
+>
+> 132. I lov 16. juni 1989 nr. 53 om eiendomsmegling gjøres følgende endring:
+>
 
 ### 2011-05-06 — lov/2011-05-06-13
 

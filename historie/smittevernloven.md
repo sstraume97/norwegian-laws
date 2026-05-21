@@ -558,6 +558,13 @@ refid: "lov/1994-08-05-55"
 > Vedtaket skal gjøres umiddelbart etter at drøftingene i smittevernnemnda er slutt. Reglene i tvisteloven om dommers innhold og begrunnelse gjelder tilsvarende.
 >
 
+### 2007-02-27 — lov/2007-01-26-3
+
+*§ 5-7 annet ledd annet punktum skal lyde:*
+
+> Reglene i tvisteloven om dommers innhold og begrunnelse gjelder tilsvarende.
+>
+
 ### 2019-06-21 — lov/2019-06-21-46
 
 *§ 5-7 første ledd første punktum skal lyde:*
@@ -583,6 +590,29 @@ refid: "lov/1994-08-05-55"
 >
 
 ## § 5-9
+
+### 2007-02-27 — lov/2007-01-26-3
+
+*§ 5-9 skal lyde:*
+
+> § 5-9.Overprøving av tvangsvedtak
+>
+> Smittevernnemndas vedtak kan bringes inn for tingretten etter reglene i tvisteloven kapittel 36. Dette gjelder også hastevedtak etter § 5-8.
+>
+> Søksmål kan reises av den vedtaket retter seg mot eller vedkommendes nærmeste, av fylkeslegen eller statens helsetilsyn. En mindreårig kan opptre som part og gjøre partsrettigheter gjeldende dersom vedkommende er fylt 12 år og forstår hva saken gjelder.
+>
+> 107. I lov 3. februar 1995 nr. 7 om kontroll med etterretnings-, overvåkings- og sikkerhetstjeneste skal § 5 femte ledd annet punktum lyde:
+>
+> Tvisteloven §§ 22-1 og 22-3 gjelder ikke.
+>
+> 108. I lov 25. august 1995 nr. 57 om pakkereiser skal § 10-6 tredje ledd lyde:
+>
+> Departementet kan ved forskrift også fastsette regler om konsekvensene av at nemndas virksomhet opphører.
+>
+> 109. I lov 29. november 1996 nr. 72 om petroleumsvirksomhet skal § 8-6 fjerde ledd lyde:
+>
+> Ved oversittelse av fristen i annet ledd kan klageinstansen etter reglene i forvaltningsloven § 31 vedta at tingretten tar saken til behandling. Vedtak om fristoversittelsen kan ankes til tingretten.
+>
 
 ### 2012-06-22 — lov/2012-06-22-46
 

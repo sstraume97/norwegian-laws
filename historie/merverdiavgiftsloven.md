@@ -152,6 +152,17 @@ refid: "lov/2009-06-19-58"
 
 ## § 3-2
 
+### 2017-06-16 — lov/2017-06-16-55
+
+*§ 3-2 første ledd bokstav a skal lyde:*
+
+> omfattes av helse- og omsorgstjenesteloven og spesialisthelsetjenesteloven, samt tanntekniske tjenester.
+>
+
+### 2017-06-16 — lov/2017-06-16-55
+
+*§ 3-2 første ledd bokstav b oppheves.*
+
 ### 2021-01-01 — lov/2020-12-21-168
 
 *§ 3-2 annet og tredje ledd skal lyde:*
@@ -2076,6 +2087,13 @@ refid: "lov/2009-06-19-58"
 > § 6-37.Våpensystemet F-35
 >
 > Departementet kan treffe enkeltvedtak om fritak fra merverdiavgift ved omsetning av varer og tjenester til vedlikehold av våpensystemet F-35. Departementet kan gi forskrift om utfylling og gjennomføring av denne paragrafen, herunder fastsette vilkår for fritak.
+>
+
+### 2017-06-16 — lov/2017-06-16-55
+
+*Nåværende bokstav c, d og e blir bokstav b, c og d.*
+
+> 3.I lov 24. juni 2011 nr. 29 om folkehelsearbeid skal § 21 første ledd bokstav b lyde:relevant kunnskap fra kommunene og fra fylkeskommunens virksomhet med betydning for folkehelsen.
 >
 
 ### 2019-12-20 — lov/2019-12-20-98

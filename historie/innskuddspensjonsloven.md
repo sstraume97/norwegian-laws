@@ -25,6 +25,13 @@ refid: "lov/2000-11-24-81"
 > Innskuddsplan: den del av regelverket som fastsetter de innskudd som skal foretas for å sikre medlemmene alderspensjon.
 >
 
+### 2006-06-16 — lov/2006-06-16-31
+
+*§ 1-2 bokstav i skal lyde:*
+
+> Lønn: Skattepliktig lønnsinntekt, beregnet personinntekt og godtgjørelse til deltaker for arbeidsinnsats i deltakerlignet selskap.
+>
+
 ### 2008-03-14 — lov/2008-03-14-6
 
 *§ 1-2 ny bokstav e skal lyde:*
@@ -81,6 +88,13 @@ refid: "lov/2000-11-24-81"
 >
 
 ## § 2-3
+
+### 2006-06-16 — lov/2006-06-16-31
+
+*§ 2-3 andre ledd skal lyde:*
+
+> Et foretak som ikke omfattes av første ledd kan opprette pensjonsordning for selvstendig næringsdrivende, for personlig deltaker i deltakerlignet selskap eller for ansatt eier av aksjeselskap eller allmennaksjeselskap. Årlig innskudd til ordning som nevnt i foregående punktum kan ikke overstige 4 prosent av vedkommende persons samlede beregnede personinntekt fra næringsvirksomhet mellom 1 og 12 G eller lønn mellom 1 og 12 G. Dersom et foretak som nevnt i første punktum oppretter pensjonsordning, gjelder bestemmelsene i kapittel 4 om medlemskap for arbeidstakere og i kapittel 5 om innskudd for arbeidstakere tilsvarende så langt de passer.
+>
 
 ### 2008-03-14 — lov/2008-03-14-6
 
@@ -514,13 +528,6 @@ refid: "lov/2000-11-24-81"
 *§ 6-1 annet ledd skal lyde:*
 
 > (2) Ved opphør av medlemskap beholder medlemmet sin rett til den pensjonskapital som er opptjent ved fratredelsen.
->
-
-### 2024-12-20 — forskrift/2024-12-20-3416
-
-*§ 6-1 syvende ledd skal lyde:*
-
-> (7) Arbeidstaker kan velge å stå utenfor innskuddspensjonsordning dersom vedkommende er medlem av en utenlandsk pensjonsordning som oppfyller vilkårene i skatteloven § 6-72, og som foretaket betaler premie eller avgift til.
 >
 
 ## § 6-2

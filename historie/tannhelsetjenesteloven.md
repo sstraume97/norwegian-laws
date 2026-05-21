@@ -5,15 +5,6 @@ refid: "lov/1983-06-03-54"
 
 # Endringshistorikk: Tannhelsetjenesteloven – tannhl
 
-## § 1-1
-
-### 2017-06-16 — lov/2017-06-16-55
-
-*§ 1-1 nr. 5 skal lyde:*
-
-> sikre samhandling og at tjenestetilbudet blir tilgjengelig for pasient og bruker, sikre nødvendig opplæring av pasient, bruker og pårørende, samt sikre at tilbudet er tilpasset den enkeltes behov,
->
-
 ## § 1-3
 
 ### 2003-06-06 — lov/2003-06-06-37
@@ -144,17 +135,6 @@ refid: "lov/1983-06-03-54"
 > Personer nevnt i § 1-3 første ledd bokstav d som har midlertidig oppholdstillatelse i riket, skal ha fem års botid i riket for å ha rett til nødvendig tannhelsehjelp etter § 2-1.
 >
 
-## § 2-1f
-
-### 2017-06-16 — lov/2017-06-16-55
-
-*Ny § 2-1f skal lyde:*
-
-> § 2-1f.De regionale helseforetakenes ansvar for å forebygge, avdekke og avverge vold og seksuelle overgrep
->
-> De regionale helseforetakene skal ha særlig oppmerksomhet rettet mot at pasienter kan være utsatt for, eller kan stå i fare for å bli utsatt for, vold eller seksuelle overgrep. De regionale helseforetakene skal legge til rette for at spesialisthelsetjenesten blir i stand til å forebygge, avdekke og avverge vold og seksuelle overgrep.
->
-
 ## § 2-2
 
 ### 2003-06-06 — lov/2003-06-06-37
@@ -201,48 +181,6 @@ refid: "lov/1983-06-03-54"
 > Den som ikke får den hjelp som er bestemt i denne lov og godkjent plan, kan klage til det organ fylkeskommunen bestemmer. Går avgjørelsen klageren imot eller avvises klagen, kan avgjørelsen klages til Helsetilsynet i fylket.
 >
 
-## § 2-5c
-
-### 2017-06-16 — lov/2017-06-16-55
-
-*§ 2-5c første til tredje ledd skal lyde:*
-
-> Helseinstitusjon som omfattes av denne loven skal oppnevne kontaktlege for pasienter som har alvorlig sykdom, skade eller lidelse, og som har behov for behandling eller oppfølging av spesialisthelsetjenesten av en viss varighet. Kontaktlegen skal være involvert i behandlingen eller oppfølgingen av pasienten.
->
-> Helseinstitusjon som omfattes av denne loven, skal peke ut kontaktlege for pasienten så snart som mulig etter at det er vurdert at pasienten har rett til kontaktlege, senest første virkedag etter innleggelse eller poliklinisk undersøkelse. Pasienten skal så snart som mulig få vite hvem som er hans eller hennes kontaktlege, og skal orienteres om hvilket ansvar og hvilke oppgaver kontaktlegen har.
->
-> Kontaktlegen skal være pasientens faste medisinskfaglige kontakt. For å sikre kontinuitet i pasientforløpet skal helseinstitusjon som omfattes av denne loven vurdere om kontaktlegen også skal være informasjonsansvarlig etter helsepersonelloven § 10 og journalansvarlig etter helsepersonelloven § 39.
->
-> 4.I lov 24. juni 2011 nr. 30 om kommunale helse- og omsorgstjenester m.m. gjøres følgende endringer:
->
-
-## § 3-2
-
-### 2017-06-16 — lov/2017-06-16-55
-
-*§ 3-2 første ledd nr. 3 skal lyde:*
-
-> Hjelp ved ulykker og andre akutte situasjoner, herunder:legevakt,heldøgns medisinsk akuttberedskap,medisinsk nødmeldetjeneste, ogpsykososial beredskap og oppfølging.
->
-
-### 2017-06-16 — lov/2017-06-16-55
-
-*§ 3-2 andre ledd nytt første punktum skal lyde:*
-
-> For å oppfylle ansvaret etter § 3-1 skal kommunen ha knyttet til seg lege, sykepleier, fysioterapeut, jordmor og helsesøster.
->
-
-## § 3-3 a
-
-### 2017-06-16 — lov/2017-06-16-55
-
-*Ny § 3-3 a skal lyde:*
-
-> § 3-3 a.Kommunens ansvar for å forebygge, avdekke og avverge vold og seksuelle overgrep
->
-> Kommunen skal ha særlig oppmerksomhet rettet mot at pasienter og brukere kan være utsatt for, eller kan stå i fare for å bli utsatt for, vold eller seksuelle overgrep. Kommunen skal legge til rette for at helse- og omsorgstjenesten blir i stand til å forebygge, avdekke og avverge vold og seksuelle overgrep.
->
-
 ## § 4-2
 
 ### 2024-06-21 — lov/2024-06-21-43
@@ -272,17 +210,6 @@ refid: "lov/1983-06-03-54"
 > Departementet kan gi forskrift om føring av atskilte regnskaper, krav til fordeling av inntekter og utgifter, regulering av overskudd, kontrollsystemer, informasjon og andre krav som er nødvendige for å unngå kryssubsidiering mellom tannhelsetjenester som fylkeskommunen tilbyr der det ikke foreligger annet tilstrekkelig tilbud, og tjenester som tilbys i konkurranse med private tjenesteytere.
 >
 
-## § 5-11
-
-### 2017-06-16 — lov/2017-06-16-55
-
-*Ny § 5-11 skal lyde:*
-
-> § 5-11.Veiledningsplikt overfor spesialisthelsetjenesten
->
-> Personell som yter tjenester omfattet av loven her, skal gi spesialisthelsetjenesten råd, veiledning og opplysninger om helsemessige forhold som er påkrevd for at spesialisthelsetjenesten skal kunne løse sine oppgaver etter lov og forskrift.
->
-
 ## (annet)
 
 ### 2003-06-06 — lov/2003-06-06-37
@@ -310,13 +237,6 @@ refid: "lov/1983-06-03-54"
 ### 2017-06-16 — lov/2017-06-16-55
 
 *2.I lov 28. februar 1997 nr. 19 om folketrygd skal § 5-8 tredje ledd første og andre punktum oppheves.*
-
-> 3.I lov 2. juli 1999 nr. 61 om spesialisthelsetjenesten m.m. gjøres følgende endringer:
->
-
-### 2017-06-16 — lov/2017-06-16-55
-
-*Nåværende første punktum blir andre punktum.*
 
 ### 2021-05-07 — lov/2021-05-07-31
 

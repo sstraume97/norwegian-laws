@@ -15,7 +15,31 @@ refid: "lov/1978-06-09-50"
 
 *Noverande § 23b blir ny § 23c.*
 
+## § 11
+
+### 2017-05-11 — lov/2017-05-11-26
+
+*§ 11 annet ledd annet punktum skal lyde:*
+
+> Skjønnet styres av jordskifteretten.
+>
+
 ## § 12
+
+### 2017-05-11 — lov/2017-05-11-26
+
+*§ 12 femte ledd annet punktum skal lyde:*
+
+> Dersom partene ikke blir enige om hvilken erstatning som skal gis, fastsettes erstatningen ved skjønn styrt av tingretten.
+>
+> 11.I lov 13. juni 1980 nr. 35 om fri rettshjelp skal § 10 første ledd lyde:
+>
+> Fri rettshjelp som ikke omfattes av § 15, gis som fritt rettsråd, herunder behandling for forliksrådet, jordskifteretten og voldgiftssaker.
+>
+> 12.I lov 13. mars 1981 nr. 6 om vern mot forurensninger og om avfall skal § 22 tredje ledd tredje punktum lyde:
+>
+> I mangel av avtale, fastsettes merkostnaden og fordelingen av dette ved skjønn styrt av tingretten.
+>
 
 ### 2018-06-22 — lov/2018-06-22-82
 

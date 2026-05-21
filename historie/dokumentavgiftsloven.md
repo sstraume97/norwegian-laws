@@ -5,11 +5,24 @@ refid: "lov/1975-12-12-59"
 
 # Endringshistorikk: Dokumentavgiftsloven – dal
 
+## (annet)
+
+### 2007-01-01 — lov/2006-12-15-76
+
+*Nåværende § 7 tredje til sjette ledd, blir nye annet til femte ledd.*
+
 ## § 2
 
 ### 2004-12-10 — lov/2004-12-10-77
 
 *§ 2 bokstav e og ny bokstav f skal lyde:*
+
+> betaling av renter av avgift som blir erlagt for sent og rentegodtgjørelse ved tilbakebetaling av avgift,innbetalingsordningen og om bankers plikt til å avvise betalingsoppdrag med mangelfulle opplysninger.
+>
+
+### 2011-06-24 — lov/2011-06-24-21
+
+*§ 2 bokstav e og f skal lyde:*
 
 > betaling av renter av avgift som blir erlagt for sent og rentegodtgjørelse ved tilbakebetaling av avgift,innbetalingsordningen og om bankers plikt til å avvise betalingsoppdrag med mangelfulle opplysninger.
 >
@@ -74,6 +87,38 @@ refid: "lov/1975-12-12-59"
 
 ## § 7
 
+### 2006-07-01 — lov/2006-06-16-26
+
+*§ 7 femte ledd første punktum skal lyde:*
+
+> Er eiendoms- eller bruksrett til fast eiendom overtatt med hjemmel i lov til pris som er fastsatt med hjemmel i lov 1. juni 1917 nr. 1 om skjønn og ekspropriasjonssaker, i lov 11. juni 1993 nr. 66 om pristiltak eller i lov 20. desember 1996 nr. 106 om tomtefeste, skal avgiften beregnes etter denne pris.
+>
+
+### 2007-01-01 — lov/2006-12-15-76
+
+*§ 7 første ledd nytt annet punktum skal lyde:*
+
+> Avgift av dokument som overfører hjemmel til bygning på fremmed grunn og tilhørende festerett til tomta, beregnes tilsvarende.
+>
+
+### 2007-01-01 — lov/2006-12-15-76
+
+*§ 7 annet ledd oppheves.*
+
+### 2007-12-14 — lov/2007-12-14-102
+
+*§ 7 fjerde ledd siste punktum skal lyde:*
+
+> Er retten overtatt med hjemmel i lov til åsetespris, gjelder bestemmelsene i lov 19. juni 1964 nr. 14 om arveavgift § 14 fjerde ledd tilsvarende.
+>
+
+### 2009-07-01 — lov/2009-06-19-53
+
+*§ 7 fjerde ledd skal lyde:*
+
+> Er eiendoms- eller bruksrett til fast eiendom overtatt med hjemmel i lov til pris som er fastsatt med hjemmel i lov 1. juni 1917 nr. 1 om skjønn og ekspropriasjonssaker, i lov 11. juni 1993 nr. 66 om pristiltak, i lov 20. desember 1996 nr. 106 om tomtefeste eller i lov 7. juni 1966 nr. 33 om Opplysningsvesenets fond skal avgiften beregnes etter denne pris. Er retten overtatt med hjemmel i lov til åsetespris, gjelder bestemmelsene i lov 19. juni 1964 om arveavgift § 14 fjerde ledd tilsvarende.
+>
+
 ### 2010-06-25 — lov/2010-06-25-35
 
 *§ 7 fjerde ledd første punktum skal lyde:*
@@ -100,6 +145,20 @@ refid: "lov/1975-12-12-59"
 >
 
 ## § 8
+
+### 2007-01-01 — lov/2006-12-15-76
+
+*§ 8 nytt annet ledd skal lyde:*
+
+> Første ledd bokstav a gjelder tilsvarende ved overføring av felles bolig mellom samboere ved samlivsbrudd. Med samboere menes i denne lov to personer som har levd sammen i et ekteskapslignende eller partnerskapslignende forhold, og hatt felles folkeregistrert adresse i minst to år forut for samlivsbruddet, eller venter, har eller har hatt felles barn.
+>
+
+### 2009-01-01 — lov/2008-12-12-92
+
+*§ 8 annet ledd skal lyde:*
+
+> Første ledd bokstav a gjelder tilsvarende ved overføring av felles bolig mellom samboere ved samlivsbrudd. Med samboere menes i denne lov to personer som har levd sammen i et ekteskapslignende eller partnerskapslignende forhold, og hatt felles folkeregistrert adresse i minst to år forut for samlivsbruddet, eller venter, har eller har hatt felles barn. Dersom opphøret av samlivet skjer som følge av den ene partens død, er det tilstrekkelig at samboerne på dødsfallstidspunktet var folkeregistrert på samme adresse.
+>
 
 ### 2015-12-18 — lov/2015-12-18-111
 

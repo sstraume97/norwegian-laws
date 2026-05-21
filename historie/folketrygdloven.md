@@ -684,6 +684,13 @@ refid: "lov/1997-02-28-19"
 
 ## § 3-15
 
+### 2001-12-21 — lov/2001-12-21-109
+
+*§ 3-15 annet ledd bokstav a skal lyde:*
+
+> pensjon, føderåd, livrente som er ledd i pensjonsordning i arbeidsforhold, engangs- og avløsningsbeløp for slike ytelser, utbetalinger etter innskuddspensjonsloven og utbetalinger under individuell pensjonsavtale etter skatteloven § 6-47 bokstav c.
+>
+
 ### 2006-01-01 — lov/2005-12-16-119
 
 *§ 3-15 annet ledd bokstav b skal lyde:*
@@ -691,9 +698,30 @@ refid: "lov/1997-02-28-19"
 > barnetillegg til tidsbegrenset uførestønad etter folketrygdloven § 12-13 nr. 1 fjerde ledd og overgangsstønad etter folketrygdloven § 15-7, § 16-7 og § 17-6.
 >
 
+### 2006-06-16 — lov/2006-06-16-28
+
+*§ 3-15 andre ledd ny bokstav e skal lyde:*
+
+> støtte etter lov om supplerande stønad til personar med kort butid i Noreg.
+>
+
 ### 2007-06-15 — lov/2007-06-15-21
 
 *§ 3-15 noverande femte, sjette og sjuande ledd blir nye fjerde, femte og sjette ledd.*
+
+### 2007-12-14 — lov/2007-12-14-106
+
+*§ 3-15 første ledd nytt annet punktum skal lyde:*
+
+> Som pensjonsgivende inntekt regnes også inntekt som omfattes av lov 29. november 1996 nr. 68 om skatt til Svalbard § 3-1 fjerde ledd b.
+>
+
+### 2008-12-12 — lov/2008-12-12-97
+
+*§ 3-15 annet ledd bokstav a skal lyde:*
+
+> pensjon i og utenfor arbeidsforhold, føderåd, livrente som er ledd i pensjonsordning i arbeidsforhold, engangs- og avløsningsbeløp for slike ytelser, engangsutbetaling fra pensjonsordning etter innskuddspensjonsloven og engangsutbetaling fra individuell pensjonsavtale som er i samsvar med regler gitt av departementet.
+>
 
 ### 2008-12-19 — lov/2008-12-19-106
 
@@ -1174,6 +1202,15 @@ refid: "lov/1997-02-28-19"
 > Redusert alderspensjon skal under opphold i institusjon utgjøre 12,5 prosent av minste pensjonsnivå med høy sats, jf. § 19-8, pluss 10 prosent av tilleggspensjonen. Ytelsen skal likevel utgjøre minst 22,5 prosent av minste pensjonsnivå med høy sats, jf. § 19-8.
 >
 > Gjeldende andre til sjette ledd blir nye tredje til sjuende ledd.
+>
+
+## § 3-29
+
+### 2001-06-15 — lov/2001-06-15-64
+
+*§ 3-29 første ledd skal lyde:*
+
+> Til en person som mottar ytelser til livsopphold etter kapittel 12, 16, 17 eller 19, og som sitter i varetekt, soner straff eller utholder særreaksjon i en av kriminalomsorgens anstalter, gis reduserte ytelser etter bestemmelsene i §§ 3-27 og 3-28.
 >
 
 ## § 3-30
@@ -2443,6 +2480,13 @@ refid: "lov/1997-02-28-19"
 
 ## § 6-8
 
+### 2001-06-15 — lov/2001-06-15-64
+
+*§ 6-8 første ledd annet punktum skal lyde:*
+
+> Det samme gjelder for et medlem som sitter i varetekt, soner straff eller utholder særreaksjon i en slik institusjon eller boform eller i en av kriminalomsorgens anstalter.
+>
+
 ### 2016-12-20 — lov/2016-12-20-105
 
 *§ 6-8 første ledd nytt tredje punktum skal lyde:*
@@ -3657,6 +3701,13 @@ refid: "lov/1997-02-28-19"
 
 ## § 8-54
 
+### 2001-06-15 — lov/2001-06-15-64
+
+*§ 8-54 første ledd skal lyde:*
+
+> Et medlem som sitter i varetekt, soner straff eller utholder særreaksjon i en av kriminalomsorgens anstalter, har ikke rett til sykepenger.
+>
+
 ### 2016-12-20 — lov/2016-12-20-105
 
 *§ 8-54 første ledd skal lyde:*
@@ -3829,6 +3880,13 @@ refid: "lov/1997-02-28-19"
 *§ 9-6 nytt sjette ledd skal lyde:*
 
 > Når en av foreldrene er alene om den daglige omsorgen, kan opptil 10 av stønadsdagene overføres til ektefelle, eller til samboer når samboerforholdet har vart i minst 12 måneder. Det er et vilkår at trygdekontoret får skriftlig melding om overføringen.
+>
+
+### 2005-06-17 — lov/2005-06-17-59
+
+*§ 9-6 andre ledd skal lyde:*
+
+> Dersom en arbeidstaker har kronisk syke eller funksjonshemmete barn og dette fører til en markert høyere risiko for fravær fra arbeidet, ytes det omsorgspenger etter reglene i første ledd med tillegg av 10 stønadsdager for hvert kronisk sykt eller funksjonshemmet barn. Når arbeidstakeren er alene om omsorgen, dobles antall stønadsdager
 >
 
 ### 2009-12-18 — lov/2009-12-18-133
@@ -4521,6 +4579,15 @@ refid: "lov/1997-02-28-19"
 > Dersom medlemmet mottar graderte ytelser etter kapittel 12, skal det ved gradering av ytelsen tas hensyn til allerede fastsatt uføregrad.
 >
 
+## § 10-13
+
+### 2001-06-15 — lov/2001-06-15-64
+
+*§ 10-13 første punktum skal lyde:*
+
+> Et medlem som utholder varetekt, straff eller særreaksjon i anstalt under kriminalomsorgen, har ikke rett til rehabiliteringspenger.
+>
+
 ## § 10-16
 
 ### 2004-01-01 — lov/2003-06-20-55
@@ -4798,6 +4865,15 @@ refid: "lov/1997-02-28-19"
 >
 
 ## § 11-14
+
+### 2001-06-15 — lov/2001-06-15-64
+
+*§ 11-14 skal lyde:*
+
+> § 11-14.Attføringspenger under opphold i fengsel
+>
+> Retten til attføringspenger faller bort når et medlem utholder varetekt, straff eller særreaksjon i anstalt under kriminalomsorgen.
+>
 
 ### 2007-06-15 — lov/2007-06-15-21
 
@@ -5964,6 +6040,27 @@ refid: "lov/1997-02-28-19"
 *§ 13-12 første ledd bokstav e skal lyde:*
 
 > medlemmer som utfører samfunnsstraff etter straffeloven § 28 a,
+>
+
+### 2001-06-15 — lov/2001-06-15-64
+
+*§ 13-12 første ledd skal lyde:*
+
+> Følgende personer er yrkesskadedekket:medlemmer som er under behandling i en helseinstitusjon som er offentlig godkjent etter sykehusloven,medlemmer som er under behandling i en rehabiliteringsinstitusjon, når utgiftene til oppholdet dekkes av det offentlige,medlemmer som er under opplæring i en offentlig godkjent attføringsinstitusjon,medlemmer som soner frihetsstraff eller utholder særreaksjon i en av kriminalomsorgens anstalter,medlemmer som utfører samfunnsstraff etter straffeloven § 28 a,medlemmer som sitter i varetekt.
+>
+
+### 2009-06-19 — lov/2009-06-19-74
+
+*§ 13-12 første ledd bokstav e skal lyde:*
+
+> medlemmer som utfører samfunnsstraff etter straffeloven § 48,
+>
+
+### 2010-12-10 — lov/2010-12-10-76
+
+*§ 13-12 første ledd bokstav e skal lyde:*
+
+> medlemmer som utfører samfunnsstraff etter straffeloven § 48,
 >
 
 ### 2017-12-15 — lov/2017-12-15-104
@@ -7922,6 +8019,13 @@ refid: "lov/1997-02-28-19"
 >
 
 ## § 18-10
+
+### 2001-06-15 — lov/2001-06-15-64
+
+*§ 18-10 første ledd skal lyde:*
+
+> Til en person som sitter i varetekt, soner straff eller utholder særreaksjon i en av kriminalomsorgens anstalter, ytes det redusert barnepensjon etter bestemmelsene i §§ 18-8 og 18-9.
+>
 
 ### 2014-06-20 — lov/2014-06-20-24
 
@@ -9923,6 +10027,28 @@ refid: "lov/1997-02-28-19"
 > Grunnstønad og hjelpestønad til barn som er plassert i fosterhjem etter barnevernloven § 4-14, utbetales til fosterforeldrene. Ved plassering i midlertidig hjem i påvente av fosterhjemsplassering, skjer utbetaling til barnevernet.
 >
 
+## § 22-4
+
+### 2013-04-05 — lov/2013-04-05-12
+
+*§ 22-4 første ledd skal lyde:*
+
+> For den som er innlagt i en helseinstitusjon for langtidspasienter, og som ikke er i stand til å disponere ytelsen selv, skal ytelsen utbetales til institusjonen. Helseinstitusjonen skal forvalte midlene til beste for den som har rett til ytelsen. Reglene i vergemålsloven får ikke anvendelse på midler som institusjonen forvalter. Fylkesmannen skal ha kopi av vedtak etter første punktum. Hvis fylkesmannen treffer vedtak om vergemål for personen etter reglene i vergemålsloven, kan fylkesmannen beslutte at midlene i stedet skal forvaltes av vergen. Er personen allerede under vergemål, må vergen samtykke til vedtak som nevnt i første punktum hvis forvaltning av midlene hører under vergens mandat.
+>
+> I § 22-6 skal overskriften lyde:
+>
+> § 22-6.Utbetaling til Nav-kontor o.a.
+>
+
+## § 22-6
+
+### 2013-04-05 — lov/2013-04-05-12
+
+*§ 22-6 nytt tredje ledd skal lyde:*
+
+> Reglene i vergemålsloven får ikke anvendelse på ytelser det er truffet vedtak om etter første ledd. Fylkesmannen skal ha kopi av vedtaket. Hvis fylkesmannen treffer vedtak om vergemål for personen etter reglene i vergemålsloven, kan fylkesmannen beslutte at ytelsen i stedet skal forvaltes av vergen. Er personen allerede under vergemål, må vergen samtykke til vedtak som nevnt i første ledd hvis forvaltning av ytelsen hører under vergens mandat.
+>
+
 ## § 22-7
 
 ### 2019-01-01 — lov/2018-12-20-98
@@ -10625,6 +10751,13 @@ refid: "lov/1997-02-28-19"
 
 ## § 23-2
 
+### 2001-12-21 — lov/2001-12-21-109
+
+*§ 23-2 fjerde ledd nytt tredje punktum skal lyde:*
+
+> Plikten til å svare arbeidsgiveravgift gjelder også engangsbeløp til avløsning av rett til pensjon i arbeidsforhold som ikke er sikret ved premie og tilskudd.
+>
+
 ### 2001-12-21 — lov/2001-12-21-113
 
 *§ 23-2 tredje ledd nytt annet punktum skal lyde:*
@@ -10643,6 +10776,24 @@ refid: "lov/1997-02-28-19"
 > Det skal ikke betales arbeidsgiveravgift for introduksjonsstønad etter introduksjonsloven.
 >
 
+### 2003-12-12 — lov/2003-12-12-106
+
+*§ 23-2 sjuende ledd annet punktum skal lyde:*
+
+> Bortfallet av avgiftsplikt etter første punktum gjelder bare når slik lønn fra husholdningen ikke overstiger 50 000 kroner i inntektsåret.
+>
+
+### 2004-05-28 — lov/2004-05-28-32
+
+*§ 23-2 niande ledd skal lyde:*
+
+> Det skal ikke betales arbeidsgiveravgift av godtgjørelse for arbeid i utlandet når arbeidet er utført av en utenlandsk arbeidstaker som ikke er medlem i trygden. Det skal heller ikke betales arbeidsgiveravgift av godtgjørelse for religiøst, humanitært eller filantropisk arbeid utført av person utstasjonert i utlandet av misjonsselskap, menighet eller humanitær organisasjon, når oppholdet i utlandet varer i minst to år. Departementet kan i forskrift avgrense avgiftsfritaket etter andre punktum og gi regler til utfylling og gjennomføring av det.
+>
+
+### 2005-12-09 — lov/2005-12-09-112
+
+*§ 23-2 tolvte ledd annet punktum oppheves.*
+
 ### 2005-12-09 — lov/2005-12-09-116
 
 *§ 23-2 femte ledd skal lyde:*
@@ -10650,11 +10801,39 @@ refid: "lov/1997-02-28-19"
 > Det skal ikke svares arbeidsgiveravgift av lønn og feriepenger så langt arbeidsgiveren får lønnen eller feriepengene refundert etter reglene i § 8-20 tredje ledd, § 8-21 tredje ledd eller § 22-3. Det skal heller ikke betales arbeidsgiveravgift av introduksjonsstønad etter introduksjonsloven.
 >
 
+### 2006-06-16 — lov/2006-06-16-28
+
+*§ 23-2 tredje ledd nytt andre punktum skal lyde:*
+
+> Det skal likevel betales avgift for verdien av fri kost på sokkelen, jf. skatteloven § 5-15 første ledd bokstav e nr. 1, uavhengig av om verdien inngår i trekkgrunnlaget.
+>
+
 ### 2007-10-26 — lov/2007-10-26-97
 
 *§ 23-2 femte ledd annet punktum skal lyde:*
 
 > Det skal heller ikke betales arbeidsgiveravgift av introduksjonsstønad etter introduksjonsloven eller kvalifiseringsstønad etter sosialtjenesteloven.
+>
+
+### 2007-12-14 — lov/2007-12-14-106
+
+*§ 23-2 fjerde ledd første punktum skal lyde:*
+
+> Det skal betales arbeidsgiveravgift av arbeidsgiveres og det offentliges tilskott til livrente- og pensjonsordninger og arbeidsgiveres tilskott til Overføringsavtalens sikringsordning.
+>
+
+### 2007-12-14 — lov/2007-12-14-106
+
+*§ 23-2 åttende ledd annet punktum skal lyde:*
+
+> Fritaket etter første punktum gjelder bare dersom institusjonens eller organisasjonens totale lønnsutgifter er opp til 450 000 kroner, og bare for lønnsutbetalinger opp til 45 000 kroner per ansatt.
+>
+
+### 2008-06-27 — lov/2008-06-27-59
+
+*§ 23-2 sjuande ledd andre punktum skal lyde:*
+
+> Bortfallet av avgiftsplikt etter første punktum gjelder bare når slik lønn fra husholdningen ikke overstiger 60 000 kroner i inntektsåret.
 >
 
 ### 2009-12-11 — lov/2009-12-11-121
@@ -10761,6 +10940,20 @@ refid: "lov/1997-02-28-19"
 
 ## § 23-3
 
+### 2001-12-21 — lov/2001-12-21-109
+
+*§ 23-3 annet ledd nr. 1 bokstav a skal lyde:*
+
+> pensjon, føderåd, livrente som er ledd i pensjonsordning i arbeidsforhold, engangs- og avløsningsbeløp for slike ytelser, utbetalinger etter innskuddspensjonsloven og individuell pensjonsavtale etter skatteloven § 6-47 bokstav c.
+>
+
+### 2001-12-21 — lov/2001-12-21-109
+
+*§ 23-3 fjerde ledd skal lyde:*
+
+> Det skal ikke betales avgift når inntekten er mindre enn 23 000 kroner. Avgiften må ikke utgjøre mer enn 25 pst av den del av inntekten som overstiger 23 000 kroner.
+>
+
 ### 2004-01-01 — lov/2003-06-20-55
 
 *§ 23-3 andre ledd nr. 2 bokstav b skal lyde:*
@@ -10779,6 +10972,34 @@ refid: "lov/1997-02-28-19"
 > Det skal ikke betales avgift når inntekten er inntil 29 600 kroner. Avgiften må ikke utgjøre mer enn 25 pst av den del av inntekten som overstiger 29 000 kroner.
 >
 
+### 2006-06-16 — lov/2006-06-16-28
+
+*§ 23-3 andre ledd nr. 1 ny bokstav e skal lyde:*
+
+> behovsprøvd barnetillegg beregnet etter folketrygdloven § 3-25 utbetalt til mottakere av tidsbegrenset uførestønad etter folketrygdloven kapittel 12.
+>
+
+### 2006-06-16 — lov/2006-06-16-28
+
+*§ 23-3 andre ledd nr. 1 bokstav a skal lyde:*
+
+> pensjon føderåd, livrente som er ledd i pensjonsordning i arbeidsforhold, engangs- og avløsningsbeløp for slike ytelser, utbetalinger etter innskuddspensjonsloven, individuell pensjonsavtale etter skatteloven § 6-47 bokstav c og støtte etter lov om supplerande stønad til personar med kort butid i Noreg.
+>
+
+### 2006-12-15 — lov/2006-12-15-80
+
+*§ 23-3 annet ledd nr. 2 bokstav c, d og e skal lyde:*
+
+> personinntekt fastsatt etter skatteloven § 12-10 vunnet i næring der det svares produktavgift som nevnt i § 23-5,personinntekt fastsatt etter skatteloven § 12-10 vunnet ved jordbruk med binæringer og skogbruk,personinntekt fastsatt etter skatteloven § 12-10 for pass og stell av barn som ikke har fylt 12 år før utgangen av inntektsåret, eller som har særlig behov for omsorg og pleie, når barnepasset skjer i barnepasserens hjem.
+>
+
+### 2006-12-15 — lov/2006-12-15-80
+
+*§ 23-3 fjerde ledd skal lyde:*
+
+> Det skal ikke betales avgift når inntekten er inntil 39 600 kroner. Avgiften må ikke overstige mer enn 25 pst av den del av inntekten som overstiger 39 600 kroner.
+>
+
 ### 2007-06-15 — lov/2007-06-15-25
 
 *§ 23-3 fjerde ledd annet punktum skal lyde:*
@@ -10791,6 +11012,27 @@ refid: "lov/1997-02-28-19"
 *§ 23-3 nr. 2 bokstav f skal lyde:*
 
 > kvalifiseringsstønad etter sosialtjenesteloven.
+>
+
+### 2007-12-14 — lov/2007-12-14-106
+
+*§ 23-3 sjette ledd skal lyde:*
+
+> Det svares også trygdeavgift med mellomsats av alminnelig inntekt fra enkeltpersonforetak og annen inntekt som er omfattet av lov 29. november 1996 nr. 68 om skatt til Svalbard § 3-1 fjerde ledd b.
+>
+
+### 2008-05-09 — lov/2008-05-09-22
+
+*§ 23-3 andre ledd nr. 2 ny bokstav g skal lyde:*
+
+> godtgjørelse til deltaker for arbeidsinnsats i deltakerlignet selskap innen jordbruk med binæringer og skogbruk.
+>
+
+### 2008-12-12 — lov/2008-12-12-97
+
+*§ 23-3 annet ledd nr. 1 bokstav a skal lyde:*
+
+> pensjon i og utenfor arbeidsforhold, føderåd, livrente som er ledd i pensjonsordning i arbeidsforhold, engangs- og avløsningsbeløp for slike ytelser, engangsutbetaling fra pensjonsordning etter innskuddspensjonsloven, engangsutbetaling fra individuell pensjonsavtale som er i samsvar med regler gitt av departementet og støtte etter lov om supplerande stønad til personar med kort butid i Noreg.
 >
 
 ### 2008-12-19 — lov/2008-12-19-106
@@ -11012,6 +11254,12 @@ refid: "lov/1997-02-28-19"
 > Det skal også svares avgifter for ytelser til personer som i henhold til § 1-3 b første ledd bokstav c eller e enten er omfattet av norsk trygdelovgivning, eller har rett til helsetjenester når Norge er kompetent stat.
 >
 
+## § 23-9
+
+### 2008-12-12 — lov/2008-12-12-97
+
+*§ 23-9 oppheves.*
+
 ## § 23-10
 
 ### 2019-01-01 — lov/2018-12-20-98
@@ -11037,6 +11285,42 @@ refid: "lov/1997-02-28-19"
 
 ## § 24-1
 
+### 2001-12-21 — lov/2001-12-21-109
+
+*§ 24-1 første, andre og tredje ledd skal lyde:*
+
+> For et medlem som etter skatteloven anses for å være bosatt i Norge, fastsettes den pensjonsgivende inntekten, trygdeavgiften og pensjonspoengene av ligningsmyndighetene for den kommunen der medlemmet anses bosatt ved skatteligningen for vedkommende inntektsår.
+>
+> Når det gjelder inntekt som er skattepliktig til Svalbard, fastsetter ligningsmyndighetene for Svalbard den pensjonsgivende inntekten, trygdeavgiften og pensjonspoengene.
+>
+> For et medlem som er bosatt utenfor Norge og som er norsk statsborger og arbeidstaker i den norske stats tjeneste, fastsetter ligningsmyndighetene for Oslo den pensjonsgivende inntekten, trygdeavgiften og pensjonspoengene av lønn fra staten. Det samme gjelder for et medlem som er norsk statsborger og arbeidstaker hos en slik person.
+>
+
+### 2007-06-29 — lov/2007-06-29-59
+
+*§ 24-1 første ledd skal lyde:*
+
+> For et medlem som etter skatteloven anses for å være bosatt i Norge, fastsettes den pensjonsgivende inntekten, trygdeavgiften og pensjonspoengene av det skattekontor som fastsetter skatten for vedkommende inntektsår.
+>
+
+### 2007-06-29 — lov/2007-06-29-59
+
+*§ 24-1 tredje ledd første punktum skal lyde:*
+
+> Når det gjelder lønn fra staten til medlem som er norsk statsborger, ansatt i den norske stats tjeneste og bosatt i utlandet etter skatteloven, fastsettes den pensjonsgivende inntekten, trygdeavgiften og pensjonspoengene av det skattekontor som departementet bestemmer.
+>
+
+### 2007-06-29 — lov/2007-06-29-59
+
+*§ 24-1 fjerde ledd skal lyde:*
+
+> For inntekt som er skattepliktig etter skatteloven § 2-3, petroleumsskatteloven eller artistskatteloven fastsettes den pensjonsgivende inntekten, trygdeavgiften og pensjonspoengene av det skattekontor som departementet bestemmer. Det samme gjelder for et medlem som ikke er skattepliktig til Norge, når medlemmet er bosatt i utlandet og er ansatt på norskregistrert skip eller på et utenlandsregistrert skip leid av et norsk rederi som har ansvaret for bemanning og utrustning (bareboat-befraktet skip).
+>
+
+### 2008-12-12 — lov/2008-12-12-97
+
+*§ 24-1 femte ledd oppheves.*
+
 ### 2012-06-22 — lov/2012-06-22-39
 
 *§ 24-1 skal lyde:*
@@ -11057,6 +11341,17 @@ refid: "lov/1997-02-28-19"
 > Departementet kan i forskrift bestemme at Arbeids- og velferdsetaten skal fastsette pensjonsgivende inntekt og trygdeavgift for nærmere angitte grupper av personer eller deler av deres inntekt.
 >
 
+### 2016-12-20 — lov/2016-12-20-110
+
+*§ 24-1 skal lyde:*
+
+> § 24-1.Skatteetatens og Arbeids- og velferdsetatens oppgaver
+>
+> (1) Pensjonsgivende inntekt fastsettes av det skattekontoret som Skattedirektoratet bestemmer. Departementet kan i forskrift bestemme at Arbeids- og velferdsetaten skal fastsette pensjonsgivende inntekt for nærmere angitte grupper av personer eller deler av deres inntekt.
+>
+> (2) Skattemyndighetene kan vedta økning av pensjonsgivende inntekt når den skattepliktige forlanger det som følge av feil som i høy grad er sannsynliggjort, og som han eller hun ikke kan lastes for. Ved slik økning skal pensjonspoeng og trygdeavgift økes tilsvarende. Trygdeavgiften kan økes uten hinder av fristene for endring av skattefastsetting etter skatteforvaltningsloven.
+>
+
 ### 2021-12-17 — lov/2021-12-17-146
 
 *§ 24-1 andre ledd andre punktum skal lyde:*
@@ -11065,6 +11360,20 @@ refid: "lov/1997-02-28-19"
 >
 
 ## § 24-3
+
+### 2005-06-17 — lov/2005-06-17-73
+
+*§ 24-3 femte ledd skal lyde:*
+
+> Arbeidsgiver kan anmode Skattedirektoratet og ligningskontorene om å avgi bindende forhåndsuttalelse i saker som gjelder arbeidsgiveravgift.
+>
+
+### 2008-05-09 — lov/2008-05-09-22
+
+*§ 24-3 femte ledd skal lyde:*
+
+> Arbeidsgiver kan anmode Skattedirektoratet og skattekontoret om å avgi bindende forhåndsuttalelse i saker som gjelder arbeidsgiveravgift.
+>
 
 ### 2009-12-11 — lov/2009-12-11-121
 
@@ -11091,6 +11400,13 @@ refid: "lov/1997-02-28-19"
 
 ## § 24-4
 
+### 2007-06-29 — lov/2007-06-29-59
+
+*§ 24-4 annet ledd skal lyde:*
+
+> Dersom arbeidsgiveren ikke gir beregningsoppgave etter § 24-3 første ledd, eller gir en uriktig eller ufullstendig oppgave, kan skattekontoret fastsette avgiften.
+>
+
 ### 2010-01-01 — lov/2009-06-19-49
 
 *§ 24-4 tredje ledd annet punktum skal lyde:*
@@ -11098,11 +11414,25 @@ refid: "lov/1997-02-28-19"
 > For et slikt vedtak gjelder ligningsloven kapittel 9 om saksbehandling, §§ 10-2 til 10-5 om tilleggsskatt, og § 11-2 om søksmål fra det offentlige.
 >
 
+### 2010-12-10 — lov/2010-12-10-76
+
+*§ 24-4 femte ledd skal lyde:*
+
+> Den som forsettlig eller grovt uaktsomt gir uriktige eller ufullstendige opplysninger, eller unnlater å sende inn pliktig oppgave til skatteoppkreveren eller ligningsmyndighetene i forbindelse med beregning, fastsetting eller endring av arbeidsgiveravgiften, straffes etter bestemmelsene i ligningsloven kapittel 12.
+>
+
 ### 2012-06-22 — lov/2012-06-22-39
 
 *§ 24-4 første ledd skal lyde:*
 
 > Skatteoppkreveren skal føre kontroll med at arbeidsgivere og andre sender meldinger og beregner arbeidsgiveravgift i samsvar med reglene og de pålegg som er gitt. Arbeidsgiveren plikter på anmodning å gi fullstendige opplysninger om forhold som kontrollmyndighetene finner er av betydning for fastsettelsen av avgiften og avgiftsgrunnlaget etter § 24-3 annet og tredje ledd i denne loven.
+>
+
+### 2016-12-20 — lov/2016-12-20-110
+
+*§ 24-4 første ledd annet punktum skal lyde:*
+
+> Arbeidsgiveren plikter på anmodning å gi fullstendige opplysninger om forhold som kontrollmyndighetene finner er av betydning for fastsettelsen av avgiften og avgiftsgrunnlaget etter skatteforvaltningsloven.
 >
 
 ### 2017-06-21 — lov/2017-06-21-77
@@ -11134,6 +11464,25 @@ refid: "lov/1997-02-28-19"
 > § 24-4 a.Innkreving av avgift fastsatt av Arbeids- og velferdsetaten
 >
 > Avgift fastsatt av Arbeids- og velferdsetaten i medhold av § 24-1 er tvangsgrunnlag for utlegg. Avgiften inndrives etter reglene i skattebetalingsloven av det organ Arbeids- og velferdsdirektoratet bestemmer.
+>
+
+### 2016-12-20 — lov/2016-12-20-110
+
+*§ 24-4 a oppheves.*
+
+## § 24-5
+
+### 2008-12-12 — lov/2008-12-12-97
+
+*§ 24-5 skal lyde:*
+
+> § 24-5.Kontroll av arbeidsgivere mv.
+>
+> Skatteoppkreveren skal føre kontroll med at arbeidsgivere og andre sender meldinger og beregner arbeidsgiveravgift i samsvar med reglene og de pålegg som er gitt. Arbeidsgiveren plikter på anmodning å gi fullstendige opplysninger om forhold som kontrollmyndighetene finner er av betydning for fastsettelsen av avgiften og avgiftsgrunnlaget etter § 24-4 annet og tredje ledd i denne loven.
+>
+> Skatteoppkreveren eller den offentlige myndighet som har fullmakt fra skatteoppkreveren, kan foreta bokettersyn hos dem som plikter å beregne og betale arbeidsgiveravgift og kan herunder kreve fremlagt arbeidsgiverens regnskap med bilag, kontrakter, korrespondanse eller andre dokumenter av betydning for kontrollen. Med dokumenter menes også elektronisk lagrede dokumenter. Pliktene gjelder også elektroniske programmer og programsystemer. Også skattekontoret eller Riksrevisjonen kan foreta slike ettersyn og kreve fremlagt dokumenter som nevnt.
+>
+> Ved gjennomsyn av virksomhetens arkiver kan skatteoppkreveren eller skattekontoret foreta kopiering til datalagringsmedium for senere gjennomgang hos arbeidsgiver, skatteoppkrever eller skattekontor. Departementet kan i forskrift fastsette begrensninger for hvilke metoder for kopiering skatteoppkreveren kan benytte.
 >
 
 ## § 25-1
@@ -11774,6 +12123,13 @@ refid: "lov/1997-02-28-19"
 
 *Nåværende tredje og fjerde ledd blir andre og tredje ledd.*
 
+### 2005-06-17 — lov/2005-06-17-73
+
+*Folketrygdloven § 23-3 fjerde ledd skal lyde:*
+
+> Det skal ikke betales avgift når inntekten er inntil 29 600 kroner. Avgiften må ikke utgjøre mer enn 25 pst av den del av inntekten som overstiger 29 600 kroner.
+>
+
 ### 2005-12-16 — lov/2005-12-16-118
 
 *Nåværende andre ledd blir tredje ledd.*
@@ -11975,6 +12331,10 @@ refid: "lov/1997-02-28-19"
 
 *I innleiinga til kapittel 25 skal strekpunkta 10 og 11 opphevast.*
 
+### 2007-12-14 — lov/2007-12-14-106
+
+*Nåværende sjette ledd blir syvende ledd.*
+
 ### 2008-06-27 — lov/2008-06-27-52
 
 *Overskriften til § 8-36 skal lyde:*
@@ -11988,6 +12348,10 @@ refid: "lov/1997-02-28-19"
 
 > Opphør av forsikring for tillegg til sykepenger
 >
+
+### 2008-12-12 — lov/2008-12-12-97
+
+*Nåværende § 24-5 blir ny § 24-6.*
 
 ### 2008-12-19 — lov/2008-12-19-106
 
@@ -12540,6 +12904,13 @@ refid: "lov/1997-02-28-19"
 > Departementet gir forskrifter om gjennomføringen av denne paragrafen.
 >
 
+### 2010-01-01 — lov/2009-06-05-32
+
+*Ved en inkurie ble to strekpunkter i innholdsfortegnelsen til kapittel 20 slått sammen. Kapittel 20 innholdsfortegnelsen skal lyde:*
+
+> Bestemmelser omformål og virkeområde står i § 20-1alder står i § 20-2sammensetning av alderspensjon står i § 20-3pensjonsbeholdning står i § 20-4pensjonsopptjening på grunnlag av pensjonsgivende inntekt står i § 20-5pensjonsopptjening ved avtjening av førstegangstjeneste står i § 20-6pensjonsopptjening for dagpengemottakere står i § 20-7pensjonsopptjening ved omsorgsarbeid står i § 20-8garantipensjon står i §§ 20-9, 20-10 og 20-11levealdersjustering, nøytralt uttak og delingstall står i §§ 20-12 og 20-13uttak av alderspensjon står i § 20-14vilkår for uttak av alderspensjon før 67 år står i § 20-15omregning av pensjon ved endring i pensjonsgrad står i § 20-16omregning av pensjon ved opptjening mv. etter pensjonsuttak står i § 20-17regulering av pensjonsbeholdning og pensjoner står i § 20-18alderspensjon til årskullene 1954–1962 står i § 20-19garanti for opptjente rettigheter står i § 20-20pensjon opptjent før 1. januar 2010 står i § 20-21.
+>
+
 ### 2010-06-04 — lov/2010-06-04-17
 
 *Nåværende fjerde ledd blir nytt femte ledd.*
@@ -12726,6 +13097,49 @@ refid: "lov/1997-02-28-19"
 
 *Kapittel 9 Stønad ved barns og andre nærståendes sykdom*
 
+### 2013-04-05 — lov/2013-04-05-12
+
+*Nåværende tredje ledd blir nytt fjerde ledd.*
+
+> 38. I lov 23. mai 1997 nr. 31 om eierseksjoner skal § 38 annet ledd tredje punktum lyde:
+>
+> Bare myndige personer kan være styremedlemmer.
+>
+> 39. I lov 13. juni 1997 nr. 44 om aksjeselskaper skal § 6-8 første ledd annet punktum lyde:
+>
+> Det samme gjelder hvis et styremedlem blir fratatt rettslig handleevne eller blir satt i konkurskarantene etter konkursloven §§ 142 og 143.
+>
+> 40. I lov 13. juni 1997 nr. 45 om allmennaksjeselskaper skal § 6-8 første ledd annet punktum lyde:
+>
+> Det samme gjelder hvis et styremedlem blir fratatt rettslig handleevne eller blir satt i konkurskarantene etter konkursloven §§ 142 og 143.
+>
+> 41. I lov 19. juni 1997 nr. 82 om pass skal § 4 lyde:
+>
+> § 4.
+>
+> Pass til mindreårige og personer som er fratatt rettslighandleevne
+>
+> Til barn under 18 år utstedes ikke pass uten samtykke fra den eller de som har foreldreansvaret. Har foreldrene felles foreldreansvar, må begge samtykke. Pass kan likevel utstedes til barn med bare den ene av foreldrenes samtykke i tilfelle der vedkommende i henhold til barneloven har anledning til å ta med barnet ut av landet uten den annens samtykke. Dersom barneverntjenesten har overtatt omsorgen for barnet etter barnevernloven § 4-8 eller § 4-12, skal samtykke kun innhentes fra barneverntjenesten.
+>
+> Til person som er fratatt rettslig handleevne, utstedes ikke pass uten samtykke fra vergen.
+>
+> Pass kan i særlige tilfeller utstedes til person som nevnt i første og annet ledd uten samtykke dersom det er åpenbart ubetenkelig.
+>
+> 42. I lov 25. juni 1999 nr. 46 om finansavtaler og finansoppdrag skal § 25 lyde:
+>
+> § 25.Kontohaver under vergemål
+>
+> (1) En mindreårig som har fylt 15 år, kan inngå avtale om innskuddskonto for midler han eller hun har rett til å disponere over, jf. vergemålsloven § 12. Den mindreårige kan selv disponere over en slik konto, med mindre institusjonen har fått melding fra fylkesmannen om at den mindreårige er fratatt rådigheten over midlene etter vergemålsloven § 12 tredje ledd.
+>
+> (2) Midler som etter vergemålsloven eller vedtak om vergemål bare kan disponeres av vergen eller fylkesmannen, skal ikke settes inn på konto som personen under vergemål har rett til å disponere over på egen hånd.
+>
+> (3) En verge kan inngå avtale om konto i den mindreåriges navn uten den andre vergens samtykke. Ved avtaleinngåelsen skal vergen opplyse om det finnes andre verger for den mindreårige. Dersom det finnes flere verger, skal institusjonen informere den andre vergen om opprettelsen av kontoen.
+>
+> (4) Har en kontohaver under vergemål flere verger, disponerer de kontoen i fellesskap med mindre de skriftlig har gitt melding om noe annet, fylkesmannen har besluttet at en av vergene skal disponere kontoen, jf. vergemålsloven § 18 fjerde ledd, eller en gaveyter eller arvelater har besluttet at arven eller gaven skal forvaltes på en bestemt måte, jf. vergemålsloven § 95.
+>
+> (5) Opplysninger som institusjonen etter loven her skal meddele kontohaveren, skal gis verge med mindre opplysningene gjelder midler personen under vergemål har rett til å disponere over på egen hånd. Kongen kan i forskrift fastsette at de samme opplysningene også skal gis fylkesmannen, eller at fylkesmannen skal gis en kontoutskrift for disse kontoene ved årets slutt.
+>
+
 ### 2013-06-14 — lov/2013-06-14-33
 
 *Nåværende femte ledd blir nytt sjette ledd.*
@@ -12876,6 +13290,13 @@ refid: "lov/1997-02-28-19"
 ### 2016-06-17 — lov/2016-06-17-47
 
 *Nåværende § 21-11a sjuende ledd blir nytt åttende ledd*
+
+### 2016-12-20 — lov/2016-12-20-110
+
+*Kapittel 24 innholdsfortegnelsen skal lyde:*
+
+> Bestemmelser omSkatteetatens og Arbeids- og velferdsetatens oppgaver står i § 24-1,kontroll av arbeidsgivere står i § 24-4,forskrifter står i § 24-5.
+>
 
 ### 2017-10-01 — lov/2017-05-11-25
 
@@ -13552,6 +13973,19 @@ refid: "lov/1997-02-28-19"
 
 *Nåværende 3. strekpunkt til 20. strekpunkt blir 4. til 21. strekpunkt.*
 
+### 2021-01-01 — lov/2020-12-18-144
+
+*Lov 28. februar 1997 nr. 19 om folketrygd § 5-3 skal lyde:*
+
+> § 5-3.Utgiftstak for egenandeler
+>
+> Stortinget fastsetter et egenandelstak, som er det høyeste samlede beløp et medlem skal betale i godkjente egenandeler i løpet av et kalenderår for følgende helsetjenester:legehjelppsykologhjelpviktige legemidler og spesielt medisinsk utstyrreiseutgifter, jf. spesialisthelsetjenesteloven § 5-5 nr. 4radiologisk undersøkelse og behandlinglaboratorieprøverhelsehjelp som utføres poliklinisktannlege- og tannpleierhjelpfysioterapiopphold ved opptreningsinstitusjoner og andre private rehabiliteringsinstitusjoner som har driftsavtale med regionalt helseforetakbehandlingsreiser til utlandet (klimareiser).
+>
+> Når et medlem i et kalenderår har betalt godkjente egenandeler opp til egenandelstaket, dekker trygden utgiftene til godkjente egenandeler for helsetjenester som nevnt i første ledd i resten av kalenderåret.
+>
+> Departementet gir forskrifter om egenandelsordningen, og kan herunder bestemme hvilke utgifter som skal medregnes under egenandelstaket.
+>
+
 ### 2021-06-18 — lov/2021-06-18-90
 
 *Nåværende sjette ledd blir nytt syvende ledd.*
@@ -13851,4 +14285,15 @@ refid: "lov/1997-02-28-19"
 > § 17 A-6.Reduksjon av ytelse på grunn av inntektPensjonen eller overgangsstønaden til den gjenlevende ektefellen skal reduseres på grunnlag av pensjonsgivende inntekt som den gjenlevende har eller kan forventes å få. Ved fastsetting av forventet inntekt skal det blant annet legges vekt på alder, evner, utdanning, yrkesbakgrunn, arbeidsmuligheter på hjemstedet, og arbeidsmuligheter på andre steder der det er rimelig at vedkommende tar arbeid. Det skal også legges vekt på eventuelle barns tilsynsbehov.En gjenlevende ektefelle som ikke har fylt 55 år, skal forventes å få en pensjonsgivende inntekt på minst to ganger grunnbeløpet etter en overgangsperiode på ett år etter dødsfallet. Dette gjelder likevel ikke dersom det er en rimelig grunn til at den gjenlevende ektefellen har en lavere inntekt. Kravet til forventet inntekt gjelder ikke dersom den gjenlevende ektefellen fyller vilkårene for rett til overgangsstønad etter § 17-6 slik paragrafen lød før 1. januar 2024.Pensjonen eller overgangsstønaden skal ikke reduseres hvis den faktiske eller forventede pensjonsgivende inntekten på årsbasis er mindre enn halvparten av grunnbeløpet. Ytelsen skal reduseres med 40 prosent av pensjonsgivende inntekt over halvparten av grunnbeløpet.Likestilt med pensjonsgivende inntekt er tilsvarende inntekt fra utlandet og pensjonsytelser som det gis statstilskott til etter AFP-tilskottsloven og avtalefestet pensjon etter lov om avtalefestet pensjon for medlemmer av Statens pensjonskasse kapittel 2 eller tilsvarende ordning.Departementet kan gi forskrifter om fastsetting og endring av forventet pensjonsgivende inntekt. Det kan herunder gjøres unntak fra bestemmelsene i § 22-12.
 >
 > § 17 A-6.Reduksjon av ytelse på grunn av inntekt
+>
+
+## § 24
+
+### 2009-06-19 — lov/2009-06-19-74
+
+*§ 24 femte ledd skal lyde:*
+
+> Den som forsettlig eller grovt uaktsomt gir uriktige eller ufullstendige opplysninger, eller unnlater å sende inn pliktig oppgave til skatteoppkreveren eller ligningsmyndighetene i forbindelse med beregning, fastsetting eller endring av arbeidsgiveravgiften, straffes etter bestemmelsene i ligningsloven kapittel 12.
+>
+> 180. Utgår.
 >

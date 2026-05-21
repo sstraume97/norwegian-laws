@@ -31,6 +31,12 @@ refid: "lov/2013-06-21-102"
 > § 3-2.Ansettelse med prøvetid
 >
 
+## § 3-7
+
+### 2014-05-09 — lov/2014-05-09-16
+
+*§ 3-7 annet ledd oppheves. Nåværende tredje og fjerde ledd blir nytt annet og tredje ledd.*
+
 ## § 4-2
 
 ### 2019-06-14 — lov/2019-06-14-22

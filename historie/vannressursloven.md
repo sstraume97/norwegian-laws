@@ -37,15 +37,6 @@ refid: "lov/2000-11-24-82"
 > Grunnvannstiltak skal fylle alle krav som med rimelighet kan stilles til sikring mot fare for mennesker, miljø eller eiendom.
 >
 
-## § 10
-
-### 2014-06-20 — lov/2014-06-20-52
-
-*§ 10 første ledd skal lyde:*
-
-> Før ny grunneigedom, ny anleggseigedom, ny festegrunn eller nytt jordsameige kan opprettast i matrikkelen, må det liggje føre løyve etter plan- og bygningslova § 20-2. For innføring av ny eigarseksjon må det liggje føre kommunalt seksjoneringsvedtak etter eigarseksjonslova § 9.
->
-
 ## § 12
 
 ### 2012-01-27 — lov/2012-01-27-11
@@ -160,8 +151,6 @@ refid: "lov/2000-11-24-82"
 *§ 29 annet ledd første punktum skal lyde:*
 
 > Endringer i et manøvreringsreglement som gir adgang til å variere vannstanden eller vannføringen, skal sendes på høring etter forvaltningslovens regler om forskrifter og kunngjøres etter reglene i plan- og bygningsloven § 12-10 første ledd første og annet punktum, annet og fjerde ledd, jf. § 5-2.
->
-> 2. I lov 17. juni 2005 nr. 101 om eigedomsregistrering (matrikkellova) gjøres følgende endringer:
 >
 
 ## § 45

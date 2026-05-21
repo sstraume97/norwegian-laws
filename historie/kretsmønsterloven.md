@@ -39,6 +39,23 @@ refid: "lov/1990-06-15-27"
 
 ## § 7
 
+### 2009-06-19 — lov/2009-06-19-74
+
+*§ 7 annet punktum oppheves.*
+
+> 139. I lov 15. mars 1991 nr. 3 om megling i konfliktråd skal § 10 første ledd siste punktum lyde:
+>
+> Brudd på taushetsplikten straffes etter straffeloven § 209.
+>
+> 140. I lov 20. juli 1991 nr. 67 om overføring av domfelte skal § 5 annet ledd lyde:
+>
+> Fullbyrding i Norge av en utenlandsk straffereaksjon mot en utilregnelig person kan bare skje etter dom på overføring til tvungent psykisk helsevern etter straffeloven § 62 eller til tvungen omsorg etter straffeloven § 63.
+>
+> 141. I lov 30. august 1991 nr. 71 om statsforetak skal § 58 lyde:
+>
+> Styremedlem, medlem av bedriftsforsamlingen eller administrerende direktør som forsettlig eller uaktsomt overtrer bestemmelser gitt i eller i medhold av denne lov, straffes med bøter eller under skjerpende forhold med fengsel inntil tre måneder.
+>
+
 ### 2013-05-31 — lov/2013-05-31-25
 
 *§ 7 skal lyde:*
@@ -79,6 +96,26 @@ refid: "lov/1990-06-15-27"
 >
 
 ## § 9
+
+### 2009-06-19 — lov/2009-06-19-74
+
+*§ 9 første ledd skal lyde:*
+
+> Den som forsettlig eller grovt uaktsomt krenker en annens rett etter denne loven, straffes med bøter eller fengsel inntil 3 måneder.
+>
+
+### 2009-06-19 — lov/2009-06-19-74
+
+*§ 9 tredje ledd oppheves.*
+
+> 137. I lov 29. juni 1990 nr. 50 om produksjon, omforming, overføring, omsetning, fordeling og bruk av energi m.m. skal § 7-5 første og annet ledd lyde:
+>
+> Den som overtrer denne lov eller bestemmelser eller pålegg gitt i medhold av loven, straffes med bøter eller fengsel i inntil 1 år eller begge deler. Forsøk straffes på samme måte.
+>
+> Den som uaktsomt overtrer bestemmelse som nevnt i første ledd, straffes med bøter eller fengsel inntil tre måneder eller begge deler.
+>
+> 138. I lov 21. desember 1990 nr. 72 om avgift på utslipp av CO2i petroleumsvirksomhet på kontinentalsokkelen gjøres følgende endring:
+>
 
 ### 2013-05-31 — lov/2013-05-31-25
 

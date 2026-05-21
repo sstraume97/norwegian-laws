@@ -296,6 +296,13 @@ refid: "lov/1999-07-02-64"
 > Departementet kan i forskrift gi nærmere bestemmelser om gjennomføringen av kravet om politiattest.
 >
 
+### 2009-06-19 — lov/2009-06-19-74
+
+*§ 20 a annet ledd første punktum skal lyde:*
+
+> Politiattesten skal vise om vedkommende er siktet, tiltalt, ilagt forelegg eller er dømt for brudd på straffeloven §§ 291, 295, 296, 299, 302, 304, 305, 309, 311, 312 og 314.
+>
+
 ### 2015-12-11 — lov/2015-12-11-98
 
 *§ 20 a annet ledd første punktum skal lyde:*
@@ -383,6 +390,20 @@ refid: "lov/1999-07-02-64"
 >
 
 ## § 23
+
+### 2021-06-18 — lov/2021-06-18-122
+
+*§ 23 tredje ledd oppheves.*
+
+> 21.I lov 15. juni 2001 nr. 79 om miljøvern på Svalbard gjøres følgende endring:
+>
+
+### 2021-06-18 — lov/2021-06-18-122
+
+*§ 23 annet ledd oppheves.*
+
+> 23.I lov 14. mars 2003 nr. 15 om beskyttelse av design gjøres følgende endring:
+>
 
 ### 2026-01-23 — lov/2026-01-23-1
 
@@ -769,6 +790,20 @@ refid: "lov/1999-07-02-64"
 
 ## § 35
 
+### 2007-06-29 — lov/2007-06-29-61
+
+*§ 35 første ledd første punktum skal lyde:*
+
+> Lege eller jordmor skal gi melding om fødsel til folkeregistermyndigheten.
+>
+
+### 2007-06-29 — lov/2007-06-29-61
+
+*§ 35 andre ledd skal lyde:*
+
+> Dersom farskapet ikke er klarlagt eller foreldrene ikke lever sammen, skal fødselsmeldingen sendes til både folkeregistermyndigheten og bidragsfogden.
+>
+
 ### 2025-06-20 — lov/2025-06-20-40
 
 *§ 35 første ledd andre punktum skal lyde:*
@@ -887,6 +922,12 @@ refid: "lov/1999-07-02-64"
 
 > Avslag på krav om sletting kan påklages til statsforvalteren. Dersom statsforvalteren mener at sletting kan være i strid med bestemmelsene gitt i eller i medhold av arkivlova § 6 bokstav b, § 13 eller § 20, skal det innhentes uttalelse fra Nasjonalarkivet.
 >
+
+## § 44
+
+### 2021-06-18 — lov/2021-06-18-122
+
+*§ 44 tredje ledd oppheves.*
 
 ## § 45
 
@@ -1403,6 +1444,13 @@ refid: "lov/1999-07-02-64"
 
 ## § 67
 
+### 2009-06-19 — lov/2009-06-19-74
+
+*§ 67 første ledd skal lyde:*
+
+> Den som forsettlig eller grovt uaktsomt overtrer bestemmelser i loven eller i medhold av den, straffes med bøter eller fengsel i inntil tre måneder.
+>
+
 ### 2017-06-16 — lov/2017-06-16-53
 
 *§ 67 skal lyde:*
@@ -1414,6 +1462,10 @@ refid: "lov/1999-07-02-64"
 > Den som forsettlig eller grovt uaktsomt overtrer øvrige bestemmelser i loven eller i medhold av den, straffes med bøter eller fengsel inntil 1 år. Påtale skal finne sted dersom Statens helsetilsyn begjærer det. For øvrig gjelder straffeprosessloven § 62 a.
 >
 
+### 2021-06-18 — lov/2021-06-18-122
+
+*§ 67 annet ledd oppheves.*
+
 ### 2026-01-23 — lov/2026-01-23-1
 
 *§ 67 skal lyde:*
@@ -1424,6 +1476,15 @@ refid: "lov/1999-07-02-64"
 >
 
 ## § 67 a
+
+### 2021-06-18 — lov/2021-06-18-122
+
+*§ 67 a første ledd annet punktum skal lyde:*
+
+> Det samme gjelder for politianmeldelse.
+>
+> 20.I lov 12. mai 2000 nr. 36 om strålevern og bruk av stråling gjøres følgende endring:
+>
 
 ### 2022-05-20 — lov/2022-05-20-29
 
@@ -1551,4 +1612,13 @@ refid: "lov/1999-07-02-64"
 *§ 9 andre ledd skal lyde:*
 
 > Helsepersonell må heller ikke motta fra pasient eller bruker gave, provisjon, tjeneste eller annen ytelse som har mer enn en ubetydelig verdi.
+>
+
+## § 99
+
+### 2021-06-18 — lov/2021-06-18-122
+
+*§ 99 annet ledd oppheves.*
+
+> 22.I lov 8. mars 2002 nr. 4 om barnetrygd gjøres følgende endring:
 >

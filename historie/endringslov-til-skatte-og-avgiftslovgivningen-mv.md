@@ -24,3 +24,15 @@ refid: "lov/2004-12-10-77"
 
 > Arveavgiftsverdien på vederlagsaksje, hvor rådigheten, jf. arveavgiftsloven §§ 9 og 10, går over 10. november til 31. desember 2005, fastsettes for nystiftet selskap til vederlagsaksjenes andel av den arveavgiftsverdi de overførte aksjene og andelene ville hatt hvis aksjene eller andelen var overført direkte til arvingen eller gavemottakeren, tillagt eventuelt kontantvederlag ved omdannelsen. Ved overføring til eksisterende selskap skal tilsvarende verdi legges til grunn pluss arveavgiftsverdien av aksjene i det eksisterende selskap 1. januar i 2005.
 >
+
+### 2007-12-14 — lov/2007-12-14-109
+
+*Nåværende annet til femte ledd blir tredje til sjette ledd.*
+
+### 2008-05-09 — lov/2008-05-09-25
+
+*Nåværende tredje til sjette ledd blir fjerde til syvende ledd.*
+
+### 2008-05-09 — lov/2008-05-09-25
+
+*Endringene i § 6-10 nr. 1 oppheves.*

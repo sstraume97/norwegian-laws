@@ -25,6 +25,10 @@ refid: "lov/1974-06-28-58"
 > Oreigning av ein eigedom eller delar av den blir i høve til reglane i denne paragrafen rekna likt med avhending. Det same gjeld feste eller grunnleige når feste- eller leigetida er minst 20 år, eller festaren eller leigaren, når tida er ute, har rett til fornying slik at tida samanlagt blir minst 20 år.
 >
 
+### 2020-12-18 — lov/2020-12-18-149
+
+*6.I lov 18. mai 1979 nr. 18 om foreldelse av fordringer skal § 15 nr. 1 tredje punktum oppheves. Nåværende fjerde punktum blir nytt tredje punktum.*
+
 ### 2024-12-06 — lov/2024-12-06-74
 
 *I lov 28. juni 1974 nr. 58 om odelsretten og åsetesretten skal § 33 tredje ledd lyde:*
@@ -159,6 +163,13 @@ refid: "lov/1974-06-28-58"
 > Når sambuarar i ekteskapsliknande forhold blir eigarar av ein eigedom med like partar og sameiget varer i heile hevdstida, hevdar dei odelsrett for seg sjølve og for fellesbarn og særkullsbarn. Døyr ein av sameigarane før hevdstida er ute, får likevel fellesbarn og særkullsbarn odelsrett når den attlevande fullfører odelshevda. Som sambuar etter dette stykket reknar ein den som fyller vilkåra i arvelova § 28 a.
 >
 
+### 2020-12-18 — lov/2020-12-18-149
+
+*§ 15 fjerde ledd tredje punktum skal lyde:*
+
+> Som sambuar etter dette stykket reknar ein den som fyller vilkåra i arvelova § 2 tredje ledd.
+>
+
 ## § 16
 
 ### 2001-06-15 — lov/2001-06-15-78
@@ -245,6 +256,13 @@ refid: "lov/1974-06-28-58"
 > Den som har avhendt odelsjord, har ikkje løysingsrett mot kjøparen eller rettsetterfølgjaren hans, med atterhald for der jorda er fråseld eigaren ved tvangssal.
 >
 
+### 2020-12-18 — lov/2020-12-18-149
+
+*§ 19 første ledd annet punktum skal lyde:*
+
+> Odelsrett kan òg gjerast gjeldande på skifte, jf. arvelova § 108 og ekteskapslova § 66 andre stykket.
+>
+
 ## § 2
 
 ### 2001-05-04 — lov/2001-05-04-17
@@ -302,6 +320,20 @@ refid: "lov/1974-06-28-58"
 > Tilbod og svar skal vere skriftleg. Tilbod og svar kan likevel gjerast ved bruk av elektronisk medium dersom eigaren og den som får tilbodet, er samde om det.
 >
 > Er det umyndige mellom dei som det er aktuelt å gi eit slikt tilbod, skal tilbodet også sendast overformynderiet.
+>
+
+### 2013-04-05 — lov/2013-04-05-12
+
+*§ 20 a overskriften skal lyde:*
+
+> § 20 a.Frist og formkrav mv.
+>
+
+### 2013-04-05 — lov/2013-04-05-12
+
+*§ 20 a tredje ledd skal lyde:*
+
+> Er det mindreårige eller personar som heilt eller delvis manglar rettsleg handleevne mellom dei som det er aktuelt å gi eit slikt tilbod, skal tilbodet også sendast fylkesmannen.
 >
 
 ## § 20 b
@@ -801,6 +833,13 @@ refid: "lov/1974-06-28-58"
 > Når slik verdsetjing skjer ved skiftetakst, jf. skiftelova § 125, gjeld §§ 50 og 71 andre stykket tilsvarande så langt dei høver.
 >
 
+### 2020-12-18 — lov/2020-12-18-149
+
+*§ 49 annet ledd annet punktum skal lyde:*
+
+> Når slik verdsetjing skjer ved skiftetakst, jf. arvelova § 106, gjeld §§ 50 og 71 andre stykket tilsvarande så langt dei høver.
+>
+
 ## § 5
 
 ### 2009-06-19 — lov/2009-06-19-98
@@ -912,6 +951,13 @@ refid: "lov/1974-06-28-58"
 > Åsetesarvingen har krav på at det ved skjøn blir fastsett ein overtakingspris som er rimeleg etter dei tilhøva som ligg føre. Verdsetjinga skal gjerast med særleg tanke på at overtakaren kan makte å bli sitjande med eigedomen. Åsetestakst må ikkje setjast høgare enn verdien av eigedomen ved odelstakst, jf. § 49.
 >
 
+### 2020-12-18 — lov/2020-12-18-149
+
+*§ 56 første ledd tredje og nytt fjerde punktum skal lyde:*
+
+> Er det gjeld i buet, skal taksten minst svare til gjelda. Åsetestaksten må ikkje i noko høve setjast høgare enn verdien av eigedomen ved odelstakst, jf. § 49.
+>
+
 ## § 57
 
 ### 2009-06-19 — lov/2009-06-19-98
@@ -947,6 +993,13 @@ refid: "lov/1974-06-28-58"
 >
 
 ## § 59
+
+### 2007-02-27 — lov/2007-01-26-3
+
+*§ 59 skal lyde:*
+
+> For odelsløysingssaker gjeld føresegnene i tvisteloven, så langt ikkje anna er fastsett i dette kapitlet.
+>
 
 ### 2009-06-19 — lov/2009-06-19-98
 
@@ -984,6 +1037,13 @@ refid: "lov/1974-06-28-58"
 
 ## § 61
 
+### 2007-02-27 — lov/2007-01-26-3
+
+*§ 61 første ledd første punktum skal lyde:*
+
+> Om stemninga gjeld føresegnene i tvisteloven § 9-2.
+>
+
 ### 2009-06-19 — lov/2009-06-19-98
 
 *§ 61 ny overskrift skal lyde:*
@@ -1019,6 +1079,13 @@ refid: "lov/1974-06-28-58"
 
 ## § 64
 
+### 2007-02-27 — lov/2007-01-26-3
+
+*§ 64 annet punktum skal lyde:*
+
+> I så fall held saka fram etter dei vanlege reglane i tvisteloven.
+>
+
 ### 2009-06-19 — lov/2009-06-19-98
 
 *§ 64 ny overskrift skal lyde:*
@@ -1027,6 +1094,13 @@ refid: "lov/1974-06-28-58"
 >
 
 ## § 65
+
+### 2007-02-27 — lov/2007-01-26-3
+
+*§ 65 første ledd første punktum skal lyde:*
+
+> Når saka ikkje sluttar med frifinningsdom etter § 64 eller med forlik og heving, og domaren ikkje finn grunn til vidare saksførebuing med mekling, fastset han tid og stad for eit rettsmøte til førehaving av løysingssaka.
+>
 
 ### 2009-06-19 — lov/2009-06-19-98
 
@@ -1063,6 +1137,13 @@ refid: "lov/1974-06-28-58"
 >
 
 ## § 69
+
+### 2007-02-27 — lov/2007-01-26-3
+
+*§ 69 tredje ledd skal lyde:*
+
+> Har saksøkte motsegner mot løysingskravet, som ikkje er avgjorde tidlegare, held saksførehavinga fram etter dei vanlege reglane for sivile tvistar. Skal retten setjast med meddommarar, kan desse etter loddtrekning takast mellom dei som har vore skjønnsmedlemer i saka.
+>
 
 ### 2009-06-19 — lov/2009-06-19-98
 
@@ -1118,11 +1199,43 @@ refid: "lov/1974-06-28-58"
 
 ## § 74
 
+### 2007-02-27 — lov/2007-01-26-3
+
+*§ 74 tredje ledd sjuende punktum skal lyde:*
+
+> Mot oversitjing av fristen etter dette stykket kan det ikkje gjevast oppfrisking.
+>
+
 ### 2009-06-19 — lov/2009-06-19-98
 
 *§ 74 ny overskrift skal lyde:*
 
 > § 74.Når saksøkjaren døyr eller misser rettsleg handleevne før løysingssaka er sluttført
+>
+
+### 2013-04-05 — lov/2013-04-05-12
+
+*§ 74 annet ledd skal lyde:*
+
+> Føresegna i første stykket gjeld tilsvarande dersom saksøkjaren misser si rettslege handleevne før løysingssaka er sluttførd, og fylkesmannen fråfell saka på hans vegner.
+>
+> 18. I lov 13. juni 1975 nr. 50 om svangerskapsavbrudd skal § 4 tredje ledd lyde:
+>
+> Er kvinnen uten verge i tilfelle som nevnt i første ledd tredje punktum eller annet ledd, skal fylkesmannen etter begjæring fra hennes lege eller nemnda (jfr. § 7) oppnevne verge.
+>
+> 19. I lov 3. juni 1977 nr. 57 om sterilisering skal § 4 fjerde ledd lyde:
+>
+> Er en person uten verge i tilfelle som nevnt i annet eller tredje ledd, skal fylkesmannen etter begjæring fra vedkommende lege eller nemnda (jfr. § 6 annet ledd) eller rådet (jfr. § 6 første ledd), oppnevne verge.
+>
+> 20. I lov 10. juni 1977 nr. 71 om anerkjennelse og fullbyrding av nordiske dommer på privatrettens område skal § 7 nr. 1 bokstav a lyde:avgjørelse eller forlik om oppheving av formuesfellesskapet, separasjon, skilsmisse, omstøting av ekteskap, stiftelse eller oppheving av adopsjonsforhold, hel eller delvis fratakelse av rettslig handleevne eller endring av vedtak om dette, eller om deling av formue eller erstatning i forbindelse med separasjon, skilsmisse eller omstøting av ekteskap, for så vidt gjelder fullbyrding får loven dog anvendelse på avgjørelse som har bindende virkning her i landet etter artikkel 22 i konvensjon 6 februar 1931 mellom Danmark, Finland, Island, Norge og Sverige angående internasjonal-privatrettslige bestemmelser om ekteskap, adopsjon og vergemål,
+>
+> 21. I lov 18. mai 1979 nr. 18 om foreldelse av fordringer skal § 12 nr. 1 bokstav a lyde:person under vergemål mot verge, eller
+>
+> 22. I lov 13. juni 1980 nr. 24 om ligningsforvaltning skal § 4-5 nr. 2 lyde:For skattyter som er mindreårig eller fratatt rettslig handleevne, skal selvangivelse m.v. leveres av vergen. Dette gjelder ikke barn som har nådd den alder da det etter skatteloven anses som selvstendig skattyter og leverer selvangivelse selv.
+>
+> 23. I lov 13. juni 1980 nr. 35 om fri rettshjelp skal § 16 første ledd lyde:
+>
+> Fri sakførsel innvilges uten behovsprøving i saker som nevnt i § 11 første ledd nr. 4, 5 og 7, samt i følgende tilfeller:for den vernepliktige i militærnektersaker etter lov 19. mars 1965 nr. 3 om fritaking for militærtjeneste av overbevisningsgrunner,for den et tvangstiltak retter seg mot i saker om overprøving av administrative tvangsvedtak i helse- og sosialsektoren etter tvisteloven kapittel 36,for den private part i saker hvor søksmål er anbefalt av Stortingets ombudsmann for forvaltningen,for utlending i tilfeller som nevnt i utlendingsloven § 92 tredje ledd annet punktum og fjerde ledd eller for den som har rett til fri sakførsel etter statsborgerloven § 27 sjuende ledd annet punktum,til den som er begjært fratatt rettslig handleevne, eller som begjærer et vedtak om fratakelse av rettslig handleevne opphevet etter vergemålsloven,til den det oppnevnes advokat for i medhold av barneloven § 61 første ledd nr. 5.
 >
 
 ## § 75
@@ -1197,4 +1310,11 @@ refid: "lov/1974-06-28-58"
 *§ 9 ny overskrift skal lyde:*
 
 > § 9.Odelsrett til barn født utanom ekteskap og adoptivbarn
+>
+
+### 2020-12-18 — lov/2020-12-18-149
+
+*§ 9 første ledd skal lyde:*
+
+> Barn får odelsrett etter faren og farsslekta når farskapen er fastsett slik at han gir grunnlag for arverett etter § 7 første stykket i arvelova.
 >

@@ -11,6 +11,10 @@ refid: "lov/1933-05-19-11"
 
 *Nåværende annet punktum blir nytt tredje punktum.*
 
+### 2008-05-09 — lov/2008-05-09-14
+
+*Nåværende § 7 blir § 8.*
+
 ## § 1
 
 ### 2004-12-10 — lov/2004-12-10-77
@@ -37,6 +41,13 @@ refid: "lov/1933-05-19-11"
 >
 
 ## § 4
+
+### 2007-01-01 — lov/2006-12-15-70
+
+*§ 4 annet ledd skal lyde:*
+
+> Registrert eier og bruker av motorvogn er solidarisk ansvarlige for avgift etter denne paragraf.
+>
 
 ### 2010-01-01 — lov/2009-12-11-113
 
@@ -79,6 +90,27 @@ refid: "lov/1933-05-19-11"
 *§ 7 nytt annet ledd skal lyde:*
 
 > Departementet kan bestemme at politiet, skattemyndighetene og Mattilsynet uten hinder av taushetsplikt plikter å gi toll- og avgiftsetaten nødvendige opplysninger for behandling av søknader om registrering for avgift på alkoholholdige drikkevarer.
+>
+
+### 2007-06-29 — lov/2007-06-29-46
+
+*§ 7 første ledd skal lyde:*
+
+> De myndigheter som er tillagt funksjoner etter lov om pristiltak, plikter på forlangende og uten hinder av den taushetsplikt som ellers påhviler dem, å gi skattekontoret og Skattedirektoratet opplysninger om tilskudd som de har latt utbetale av offentlige midler eller av særskilte prisreguleringsfond.
+>
+
+### 2008-05-09 — lov/2008-05-09-14
+
+*§ 7 skal lyde:*
+
+> Reglene om taushetsplikt mv. i tolloven § 8 gjelder tilsvarende for tollmyndighetens arbeid knyttet til denne lov.
+>
+
+### 2009-06-19 — lov/2009-06-19-50
+
+*§ 7 skal lyde:*
+
+> Reglene om taushetsplikt mv. i tolloven § 12-1 gjelder tilsvarende for tollmyndighetenes arbeid knyttet til denne lov.
 >
 
 ### 2016-01-01 — lov/2015-06-19-46

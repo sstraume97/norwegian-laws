@@ -146,6 +146,19 @@ refid: "lov/2017-06-16-50"
 > Er søksmål reist ved tingretten og en part ønsker saken avgjort av nemnda, kan retten stanse den videre behandlingen etter begjæring av parten. Tvisteloven § 16-15, § 16-18 tredje og fjerde ledd og § 16-19 gjelder tilsvarende. Ved rettens avgjørelse av om saken skal stanses, skal det legges vekt på om det er rimelig å stanse saken i påvente av nemndas avgjørelse når hensyn tas til tidsbruken og kostnadene som vil påløpe for partene ved stansing. Saken bringes i gang igjen i tingretten etter begjæring fra en av partene, men tidligst etter at avgjørelsen er fattet, og senest innen én måned etter at avgjørelsen er meddelt partene.
 >
 
+## § 19
+
+### 2021-06-18 — lov/2021-06-18-122
+
+*§ 19 paragrafoverskriften skal lyde:*
+
+> § 19.Dom for tiltak
+>
+
+### 2021-06-18 — lov/2021-06-18-122
+
+*§ 19 første ledd oppheves. Nåværende annet ledd blir nytt første ledd.*
+
 ## § 2
 
 ### 2021-06-18 — lov/2021-06-18-93

@@ -73,6 +73,13 @@ refid: "lov/1969-06-13-26"
 
 ## § 3-3
 
+### 2009-06-19 — lov/2009-06-19-74
+
+*§ 3-3 skal lyde:*
+
+> Bestemmelsene i §§ 3-1 og 3-2 gjelder tilsvarende ved erstatning for krenking eller mislig atferd som nevnt i straffeloven §§ 168, 169, 192-199, 200 tredje ledd, 217-221, kap. 24, § 271 eller §§ 327-331. § 3-2a anvendes ikke.
+>
+
 ### 2015-12-18 — lov/2015-12-18-124
 
 *§ 3-3 skal lyde:*
@@ -84,6 +91,13 @@ refid: "lov/1969-06-13-26"
 
 ## § 3-5
 
+### 2009-06-19 — lov/2009-06-19-74
+
+*§ 3-5 første ledd annet punktum skal lyde:*
+
+> Ved krenking eller mislig atferd som nevnt i straffeloven §§ 299 eller 302, skal det ved utmålingen av oppreisning særlig legges vekt på handlingens art, hvor lang tid forholdet har pågått, om handlingen er et misbruk av slektskapsforhold, omsorgsforhold, avhengighetsforhold eller tillitsforhold, og om handlingen er begått på en særlig smertefull eller krenkende måte.
+>
+
 ### 2017-06-21 — lov/2017-06-21-91
 
 *§ 3-5 annet ledd skal lyde:*
@@ -91,7 +105,48 @@ refid: "lov/1969-06-13-26"
 > Har flere i fellesskap voldt skade, tilføyd krenking eller utvist mislig atferd, kan det fastsettes separate krav om oppreisning for den enkelte ansvarlige. I vurderingen etter første punktum skal det særlig legges vekt på den økte belastningen for fornærmede av at flere handlet i fellesskap.
 >
 
+## § 3-6
+
+### 2009-06-19 — lov/2009-06-19-74
+
+*§ 3-6 og ny § 3-6 a skal lyde:*
+
+> § 3-6.(erstatning for krenking av privatlivets fred)
+>
+> Den som har krenket privatlivets fred, skal, såfremt han har utvist uaktsomhet eller vilkårene for straff er oppfylt, yte erstatning for den lidte skade og slik erstatning for tap i fremtidig erverv som retten under henvisning til den utviste skyld og forholdene ellers finner rimelig. Han kan også pålegges å betale slik erstatning (oppreisning) for skade av ikke-økonomisk art som retten finner rimelig. I dom som går ut på straff, kan retten pålegge domfelte å betale til fornærmede et beløp til kunngjøring av dommen.
+>
+> Ansvaret etter første ledd omfatter ikke den som bare har deltatt ved teknisk fremstilling eller formidling av ytringen.
+>
+> Er noen som har handlet i tjenesten til en eier eller utgiver av et massemedium ansvarlig etter første ledd, hefter også eieren eller utgiveren for erstatningen. Det samme gjelder oppreisning, med mindre retten av særlige grunner fritar dem. Eieren eller utgiveren kan også pålegges slik ytterligere oppreisning som retten i forhold til dem finner rimelig.
+>
+> § 3-6 a.(erstatning for ærekrenkelser)
+>
+> Den som uaktsomt har satt frem en ytring som er egnet til å krenke en annens ærefølelse eller omdømme, skal yte erstatning for den lidte skade og slik erstatning for tap i fremtidig erverv som retten ut fra den utviste skyld og forholdene ellers finner rimelig. Han kan også pålegges å betale slik erstatning (oppreisning) for skade av ikke-økonomisk art som retten finner rimelig. Dersom den krenkede døde mindre enn 15 år før krenkelsen etter første ledd fant sted, kan krav om oppreisning settes frem av hans nærmeste.
+>
+> En ærekrenkende ytring medfører ikke ansvar etter første ledd dersom den anses berettiget etter en avveining av de hensyn som begrunner ytringsfrihet. Ved denne vurderingen skal det særlig legges vekt på om ytringen hviler på et fyldestgjørende faktisk grunnlag, på ytringens grad av krenkelse, og om hensynet til den krenkede er tilfredsstillende ivaretatt ved for eksempel adgang til imøtegåelse, om allmenne interesser eller andre gode grunner tilsa at den ble satt frem, og om ytreren har vært i aktsom god tro med hensyn til de momenter som kan gjøre ytringen berettiget.
+>
+> Reglene i § 3-6 annet og tredje ledd gjelder tilsvarende.
+>
+
+## § 3-8
+
+### 2007-02-27 — lov/2007-01-26-3
+
+*Ny § 3-8 skal lyde:*
+
+> § 3-8.(adgang til ny sak)
+>
+> Et avsluttet oppgjør om menerstatning eller erstatning for tap i framtidig erverv eller utgifter, kan kreves opptatt til ny behandling hvis en forverring av skadelidtes helse rokker ved det som ble lagt til grunn for oppgjøret, og det er klar sannsynlighetsovervekt for at dette vil gi rett til en vesentlig høyere erstatning.
+>
+
 ## § 3-9
+
+### 2007-02-27 — lov/2007-01-26-3
+
+*§ 3-9 tredje punktum skal lyde:*
+
+> Når det finnes grunn til det, kan tingretten i den rettskrets der skadelidte har alminnelig verneting, etter begjæring av en part ved kjennelse helt eller delvis omgjøre terminbeløp til engangserstatning.
+>
 
 ### 2015-05-12 — lov/2015-05-12-29
 
@@ -116,6 +171,15 @@ refid: "lov/1969-06-13-26"
 > Kongen kan i forskrift fastsette en kapitaliseringsrente (realrente) som skal anvendes for å komme frem til nåverdien av fremtidig tap når erstatningen fastsettes til en engangssum. Hvis særlige hensyn tilsier det, kan retten anvende en annen rente enn den som følger av forskrift gitt i medhold av første punktum. Kongen kan fastsette en egen kapitaliseringsrente (realrente) som kan anvendes i tilfeller der erstatningen fullt ut eller delvis skal plasseres som bankinnskudd etter vergemålsloven § 51 første ledd.
 >
 
+## § 3-10
+
+### 2007-02-27 — lov/2007-01-26-3
+
+*§ 3-10 tredje ledd skal lyde:*
+
+> Avgjørelse etter denne paragraf treffes ved kjennelse av tingretten i den rettskrets der skadelidte har sitt alminnelige verneting med mindre spørsmålet bringes inn for den dømmende rett eller Pasientskadenemnda til avgjørelse i samband med avgjørelsen av erstatningskravet eller ved kjennelse forut for dette.
+>
+
 ## § 5-3
 
 ### 2017-06-21 — lov/2017-06-21-91
@@ -126,6 +190,10 @@ refid: "lov/1969-06-13-26"
 >
 
 ## (annet)
+
+### 2007-02-27 — lov/2007-01-26-3
+
+*54. I lov 17. april 1970 nr. 21 om retten til oppfinnelser som er gjort av arbeidstakere skal § 14 annet ledd oppheves.*
 
 ### 2017-06-21 — lov/2017-06-21-91
 

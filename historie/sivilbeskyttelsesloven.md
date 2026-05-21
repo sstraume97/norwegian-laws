@@ -197,6 +197,13 @@ refid: "lov/2010-06-25-45"
 > Tilsynsorganer med ansvar i den aktuelle sektor skal føre tilsyn etter §§ 24a, 24b, 24c og 24d.
 >
 
+### 2016-04-22 — lov/2016-04-22-3
+
+*§ 29 tredje ledd skal lyde:*
+
+> For tilsyn med lovligheten av kommunens oppfyllelse av plikter etter §§ 12, 13, 14, 15, 20 og 21 gjelder kapittel 10 A i kommuneloven.
+>
+
 ## § 3
 
 ### 2012-12-14 — lov/2012-12-14-90
@@ -218,6 +225,15 @@ refid: "lov/2010-06-25-45"
 *§ 3 ny bokstav f skal lyde:*
 
 > Tjeneste:kurs, øvelser og innsatser.
+>
+
+## § 32
+
+### 2016-04-22 — lov/2016-04-22-3
+
+*§ 32 annet ledd skal lyde:*
+
+> Tilsynspersonellet skal legitimere seg i samsvar med forvaltningsloven § 15, og om mulig sette seg i kontakt med representant for eier eller bruker av objektet.
 >
 
 ## § 34
@@ -281,6 +297,13 @@ refid: "lov/2010-06-25-45"
 >
 
 ## § 38
+
+### 2016-04-22 — lov/2016-04-22-3
+
+*§ 38 første ledd første punktum skal lyde:*
+
+> Når ikke annet er bestemt i medhold av forvaltningsloven § 5 annet ledd, gjelder forvaltningsloven i fredstid for behandling av saker etter denne lov.
+>
 
 ### 2021-04-16 — lov/2021-04-16-20
 

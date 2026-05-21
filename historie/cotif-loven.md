@@ -34,6 +34,26 @@ refid: "lov/2004-12-10-82"
 > For krav i overenskomsten som omhandler sikkerhetssertifisering, tilsyn og utøvelse av myndighetsoppgaver for øvrig, gjelder jernbaneloven tilsvarende.
 >
 
+## § 4
+
+### 2007-02-27 — lov/2007-01-26-3
+
+*§ 4 første ledd første punktum skal lyde:*
+
+> Dommer, fraværsdommer og rettsforlik, som er avsagt av en kompetent domstol i en konvensjonsstat med grunnlag i overenskomsten, og som etter konvensjonsstatens rett gir adgang til tvangsfullbyrdelse, kan fullbyrdes her i riket.
+>
+
+## § 5
+
+### 2007-02-27 — lov/2007-01-26-3
+
+*§ 5 tredje og fjerde ledd skal lyde:*
+
+> Enhver transportør som ønsker å gjøre sin regressrett gjeldende kan reise søksmål ved domstol i Norge om en av transportørene som har deltatt i transporten har alminnelig verneting i Norge.
+>
+> Når søksmål skal reises mot flere transportører som har alminnelig verneting i Norge, har den regressøkende transportør rett til å velge i hvilken av disse kretser den vil anlegge saken.
+>
+
 ## § 7
 
 ### 2006-12-22 — lov/2006-12-22-105

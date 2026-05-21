@@ -130,6 +130,17 @@ refid: "lov/1993-03-12-32"
 > Om anmerkninger i registeret og om virkningen av anmerkninger gjelder patentloven §§ 44 og 44 a tilsvarende. Nærmere regler om registeret, herunder om krav om anmerkninger i registeret og behandlingen av dem, og om gebyrer for utskrifter og anmerkninger gis i forskrift som fastsettes av Kongen. Gebyrsatsene for utskrifter og kopier skal fastsettes slik at de samlete inntektene ikke blir større enn de faktiske omkostningene ved formidling av informasjonen, med tillegg av en rimelig fortjeneste.
 >
 
+## § 27
+
+### 2014-05-09 — lov/2014-05-09-16
+
+*§ 27 første og annet ledd skal lyde:*
+
+> Meddelelser fra Plantesortsnemnda eller Klagenemnda til en søker, sortseier eller innsiger regnes alltid som avgitt når de er sendt til den adressen som vedkommende senest har oppgitt til Plantesortsnemnda eller Klagenemnda. Adressen innføres i plantesortsregistret. For søkere og sortseiere som har fullmektig, kan meddelelser som nevnt i første punktum sendes til fullmektigen.
+>
+> Hvis den registrerte adressen viser seg å være feil, inntas meddelelsen eller et sammendrag i Norsk lysingsblad med opplysning om at dokumentet kan fås hos Plantesortsnemnda eller Klagenemnda.
+>
+
 ## § 29
 
 ### 2013-05-31 — lov/2013-05-31-25

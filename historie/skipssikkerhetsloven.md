@@ -11,6 +11,10 @@ refid: "lov/2007-02-16-9"
 
 *Noverande §§ 72, 73 og 74 blir nye §§ 73, 74 og 75.*
 
+### 2009-06-19 — lov/2009-06-19-74
+
+*Nåværende fjerde ledd blir nytt femte ledd.*
+
 ### 2025-06-20 — lov/2025-06-20-110
 
 *Nåværende tredje ledd blir nytt fjerde ledd.*
@@ -44,6 +48,13 @@ refid: "lov/2007-02-16-9"
 
 ## § 50
 
+### 2009-06-19 — lov/2009-06-19-74
+
+*§ 50 nytt fjerde ledd skal lyde:*
+
+> Ved inndrivelse av tvangsmulkt gjelder bestemmelsen i § 48 annet ledd tilsvarende.
+>
+
 ### 2025-04-25 — lov/2025-04-25-12
 
 *§ 50 tredje ledd andre punktum oppheves.*
@@ -58,6 +69,15 @@ refid: "lov/2007-02-16-9"
 >
 
 ## § 55
+
+### 2009-06-19 — lov/2009-06-19-74
+
+*§ 55 annet og tredje ledd skal lyde:*
+
+> Tilsynsmyndigheten kan ilegge overtredelsesgebyr til en skipsfører som, i strid med sine plikter etter §§ 19, 29 og 37, forsettlig eller uaktsomt overtrer bestemmelser gitt i eller i medhold av § 12, § 14, § 15 annet ledd, § 16, § 22, § 24 eller §§ 32 til 35.
+>
+> Tilsynsmyndigheten kan dessuten ilegge overtredelsesgebyr til andre som har sitt arbeid om bord som, i strid med sine plikter etter bestemmelser gitt i eller i medhold av § 20 første ledd bokstav c, d og e samt § 38, forsettlig eller uaktsomt overtrer bestemmelser gitt i eller i medhold av § 14, § 15 annet ledd, § 16 eller § 33.
+>
 
 ### 2023-12-20 — lov/2023-12-20-115
 
@@ -86,6 +106,35 @@ refid: "lov/2007-02-16-9"
 *§ 57 andre ledd første punktum skal lyde:*
 
 > For å sikre betaling av overtredelsesgebyr etter §§ 55 og 56 som rederiet, arbeidsgiveren, skipsføreren eller andre som har sitt arbeid om bord, er eller antas å ville bli ilagt, kan tilsynsmyndigheten forby skipet å forlate havn, pålegge det å gå til havn eller fastsette andre nødvendige tiltak inntil overtredelsesgebyret er betalt, eller det er stilt tilstrekkelig sikkerhet for beløpet.
+>
+
+## § 59
+
+### 2009-06-19 — lov/2009-06-19-74
+
+*§ 59 bokstav e skal lyde:*
+
+> vesentlig overtrer bestemmelser gitt i eller i medhold av § 16, jf. § 6 med krav om å påse og sørge for at de som har sitt arbeid om bord har de nødvendige kvalifikasjoner og sertifikater.
+>
+
+## § 68
+
+### 2009-06-19 — lov/2009-06-19-74
+
+*§ 68 skal lyde:*
+
+> § 68.Straffansvar for den som ikke er offentlig tjenestemann
+>
+> Benyttes under utøvelsen av tilsynet personer som ikke er offentlige tjenestemenn, gjelder for disse samme strafferettslige ansvar som for offentlige tjenestemenn i henhold til straffeloven.
+>
+
+## § 70
+
+### 2009-06-19 — lov/2009-06-19-74
+
+*§ 70 første ledd skal lyde:*
+
+> For å sikre betaling av bot etter dette kapitlet eller foretaksstraff etter straffeloven § 27 som rederiet, skipsføreren eller andre som har sitt arbeid om bord er eller antas å ville bli ilagt, kan retten etter begjæring fra påtalemyndigheten beslutte å forby skipet å forlate havn, pålegge det å gå til havn eller fastsette andre nødvendige tiltak, inntil boten eller foretaksstraffen er betalt eller det er stilt tilstrekkelig sikkerhet for beløpet.
 >
 
 ## § 71

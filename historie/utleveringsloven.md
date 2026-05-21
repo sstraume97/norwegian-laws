@@ -29,7 +29,38 @@ refid: "lov/1975-06-13-39"
 > For innstevning av vitner gjelder likevel reglene i straffeprosessloven § 275 femte ledd tilsvarende.
 >
 
+## § 17
+
+### 2007-02-27 — lov/2007-01-26-3
+
+*§ 17 nr. 3 skal lyde:*
+
+> Kjennelsen kan ankes i samsvar med reglene i straffeprosessloven kapittel 26. Fristen for å anke kjennelsen er 3 dager. Anke har alltid oppsettende virkning.
+>
+
+## § 19
+
+### 2007-02-27 — lov/2007-01-26-3
+
+*§ 19 nr. 2 fjerde punktum skal lyde:*
+
+> Kjennelse om bruk av tvangsmidler kan ankes etter straffeprosessloven kapittel 26.
+>
+
 ## § 20
+
+### 2007-02-27 — lov/2007-01-26-3
+
+*§ 20 nr. 1 fjerde punktum skal lyde:*
+
+> Rettens kjennelse om bruk av tvangsmidler kan ankes etter reglene i straffeprosessloven kapittel 26.
+>
+> 65. I lov 10. juni 1977 nr. 71 om anerkjennelse og fullbyrding av nordiske dommer på privatrettens område skal § 8 nr. 1 bokstav c lyde:en vernetingsavtale som ikke fyller kravene i tvisteloven § 4-6, såframt avgjørelsen gjelder en saksøkt som på avtaletidspunktet hadde alminnelig verneting i Norge og framleis har det.
+>
+> 66. I lov 10. juni 1977 nr. 73 om jernbaneansvar (jernbaneansvarsloven) skal § 7 lyde:
+>
+> Søksmål kan reises i rettskrets hvor det er verneting etter tvisteloven kapittel 4 II, og dessuten i rettskrets på avreise- eller bestemmelsesstedet.
+>
 
 ### 2019-06-21 — lov/2019-06-21-50
 

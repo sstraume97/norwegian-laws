@@ -50,6 +50,13 @@ refid: "lov/1965-06-18-4"
 > Forbud mot bruk av kjøretøy, inndragning av kjennemerke og vognkort og pålegg om hvile
 >
 
+### 2009-06-19 — lov/2009-06-19-74
+
+*Nåværende § 31 første ledd fjerde punktum skal lyde:*
+
+> Den som ved bruk av motorvogn uaktsomt volder betydelig legemsskade eller en annens død, straffes etter straffeloven § 280 eller § 281.
+>
+
 ### 2013-05-24 — lov/2013-05-24-21
 
 *Nåværende tredje til sjette ledd blir nye fjerde til sjuende ledd.*
@@ -319,6 +326,20 @@ refid: "lov/1965-06-18-4"
 >
 
 ## § 22
+
+### 2009-06-19 — lov/2009-06-19-74
+
+*§ 22 første ledd første punktum skal lyde:*
+
+> Ingen må føre motorvogn når han er påvirket av alkohol (ikke edru) eller annet berusende eller bedøvende middel.
+>
+
+### 2009-06-19 — lov/2009-06-19-74
+
+*§ 22 annet ledd skal lyde:*
+
+> Fører av motorvogn må ikke nyte alkohol eller ta annet berusende eller bedøvende middel i de første seks timer etter at han er ferdig med kjøringen, når han forstår at det kan bli politietterforskning på grunn av kjøringen eller utviser grov uaktsomhet i så måte. Dette forbudet gjelder likevel ikke etter at blodprøve eller utåndingsprøve er tatt, eller politiet har avgjort at slik prøve ikke skal tas. Forsøk straffes ikke.
+>
 
 ### 2010-12-17 — lov/2010-12-17-91
 
@@ -706,6 +727,27 @@ refid: "lov/1965-06-18-4"
 
 ## § 31
 
+### 2009-06-19 — lov/2009-06-19-74
+
+*§ 31 første ledd nytt tredje punktum skal lyde:*
+
+> Forsøk straffes ikke, med unntak for § 22 første ledd.
+>
+
+### 2009-06-19 — lov/2009-06-19-74
+
+*§ 31 annet ledd bokstav d skal lyde:*
+
+> med bot og ubetinget fengsel ved alkoholkonsentrasjon i blodet over 1,5 promille eller alkoholkonsentrasjon i utåndingsluften over 0,75 milligram per liter luft. I stedet for bot og ubetinget fengsel med vilkår som nevnt i straffeloven § 37 bokstav f.
+>
+
+### 2009-06-19 — lov/2009-06-19-74
+
+*§ 31 tredje ledd siste punktum skal lyde:*
+
+> I stedet for bot og ubetinget fengsel kan det idømmes bot og betinget fengsel med vilkår som nevnt i straffeloven § 37 bokstav f.
+>
+
 ### 2010-12-17 — lov/2010-12-17-91
 
 *§ 31 annet ledd skal lyde:*
@@ -732,6 +774,13 @@ refid: "lov/1965-06-18-4"
 *§ 31 åttende ledd oppheves. Nåværende niende ledd blir åttende ledd.*
 
 ## § 31 a
+
+### 2007-02-27 — lov/2007-01-26-3
+
+*§ 31 a fjerde ledd fjerde punktum skal lyde:*
+
+> Avgjørelsen treffes ved kjennelse og kan ankes.
+>
 
 ### 2024-12-06 — lov/2024-12-06-74
 
@@ -881,6 +930,21 @@ refid: "lov/1965-06-18-4"
 *§ 36 nytt nr. 9 skal lyde:*
 
 > Departementet kan i forskrift gi politiet og regionvegkontoret myndighet til å gi pålegg om å gjennomføre nødvendig hvile når bestemmelser gitt i medhold av § 21 annet ledd er overtrådt.
+>
+
+### 2009-06-19 — lov/2009-06-19-74
+
+*§ 36 nr. 2 bokstav c skal lyde:*
+
+> har brukt kjøretøyet til kjøring ellers i strid med bestemmelser i eller i medhold av denne lov, og han tidligere er ilagt straff eller domfelt for overtredelser av slik bestemmelse eller for overtredelse av straffeloven kapittel 25 under bruk av motorvogn eller tilhenger til motorvogn, eller
+>
+> 66. I lov 25. juni 1965 nr. 2 om adgang til regulering av penge- og kredittforholdene skal § 18 lyde:
+>
+> Den som forsettlig eller aktløst overtrer bestemmelser som er gitt i medhold av §§ 11 og 13-15, straffes med bøter.
+>
+> 67. I lov 10. juni 1966 nr. 3 om avgift til statskassen på inngangspenger til forestillinger og framvisninger m.v. skal § 4 annet ledd lyde:
+>
+> Den som i hensikt å skaffe seg eller andre en uberettiget vinning unnlater å betale avgift av avgiftspliktige inngangspenger, straffes som bestemt for underslag i straffeloven kap. 27.
 >
 
 ### 2012-06-22 — lov/2012-06-22-59
@@ -1200,6 +1264,15 @@ refid: "lov/1965-06-18-4"
 *§ 44 nytt fjerde ledd skal lyde:*
 
 > Reglene i § 33 og § 34 om førerett, førerkort og førerkortpliktig motorvogn skal gjelde tilsvarende for mopedførerbevis og tilhørende førerett.
+>
+
+## § 47
+
+### 2007-02-27 — lov/2007-01-26-3
+
+*§ 47 annet ledd skal lyde:*
+
+> Undersøkelsesmyndigheten kan kreve bevissikring utenfor rettssak etter reglene i tvisteloven § 28-3 tredje ledd og § 28-4. Krav om bevissikring fremmes for den tingrett hvor de som skal avhøres, bor eller oppholder seg eller realbevis skal undersøkes.
 >
 
 ## § 5

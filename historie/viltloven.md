@@ -5,7 +5,22 @@ refid: "lov/1981-05-29-38"
 
 # Endringshistorikk: Viltloven – viltl
 
+## § 8-3
+
+### 2009-06-19 — lov/2009-06-19-74
+
+*§ 8-3 tredje ledd oppheves.*
+
 ## (annet)
+
+### 2009-01-09 — lov/2009-01-09-4
+
+*4. I lov 17. juli 1998 nr. 61 om grunnskolen og den vidaregåande opplæringa skal ny § 13-3 c lyde:*
+
+> § 13-3 c.Fylkeskommunens ansvar for veiledning og kvalitetsutviklingstiltak
+>
+> Fylkeskommunen skal etter oppdrag fra departementet veilede om og bidra til kvalitetsutviklingstiltak som bl.a. kan gi god sammenheng mellom grunnskolen og videregående opplæring. Departementet kan gi nærmere forskrifter om disse oppgavene.
+>
 
 ### 2024-06-14 — lov/2024-06-14-37
 
@@ -36,11 +51,45 @@ refid: "lov/1981-05-29-38"
 
 ## § 21
 
+### 2009-01-09 — lov/2009-01-09-4
+
+*§ 21 annet ledd skal lyde:*
+
+> Innen en avstand av 2 kilometer fra land, herunder holmer og skjær, er det forbudt å drive jakt fra motorbåt eller annet flytende eller svevende fartøy drevet med motor. Fylkeskommunen kan for bestemte områder og tidsrom øke eller minske avstanden.
+>
+
 ### 2014-03-28 — lov/2014-03-28-9
 
 *§ 21 annet ledd skal lyde:*
 
 > Innen en avstand av 2 kilometer fra land, herunder holmer og skjær, er det forbudt å drive jakt fra motorbåt eller annet flytende eller svevende fartøy drevet med motor. Dette gjelder likevel ikke ved ettersøk av påskutt sjøfugl i sjø når fartøyets hastighet ikke overstiger 5 knop. Jegeren har bevisbyrden for lovlig påskyting og skal snarest varsle politi og kommunen om bruk av motor under ettersøket. Fylkeskommunen kan for bestemte områder og tidsrom øke eller minske avstanden.
+>
+
+## § 37
+
+### 2009-01-09 — lov/2009-01-09-4
+
+*§ 37 sjette ledd skal lyde:*
+
+> Departementet gir nærmere regler om gjennomføring av bestemmelsene i denne paragraf, herunder om at fylkeskommunen skal tre i stedet for kommunen når eiendommene ligger i forskjellige kommuner.
+>
+
+## § 38
+
+### 2009-01-09 — lov/2009-01-09-4
+
+*§ 38 fjerde ledd skal lyde:*
+
+> Departementet gir nærmere regler om gjennomføring av bestemmelsene i denne paragraf, herunder at fylkeskommunen skal tre i stedet for kommunen når eiendommene ligger i forskjellige kommuner.
+>
+
+## § 4
+
+### 2009-01-09 — lov/2009-01-09-4
+
+*§ 4 første ledd skal lyde:*
+
+> I viltforvaltningen er det følgende organer:departementetDirektoratet for naturforvaltningfylkesmannenfylkeskommunenkommunen
 >
 
 ## § 48
@@ -50,4 +99,34 @@ refid: "lov/1981-05-29-38"
 *§ 48 første ledd annet punktum skal lyde:*
 
 > Det samme gjelder forlatte egg, egg som oppbevares ulovlig, fallvilt og vilt som er avlivet i medhold av naturmangfoldloven §§ 17, 17 a og 18.
+>
+
+## § 51
+
+### 2009-01-09 — lov/2009-01-09-4
+
+*§ 51 første ledd skal lyde:*
+
+> Skuddpremie kan bare fastsettes for viltarter som har jakttid og som gjør skade. Fastsettelse av skuddpremie trenger godkjennelse av fylkeskommunen eller den fylkeskommunen i samråd med direktoratet gir fullmakt.
+>
+> 2. I lov 25. september 1992 nr. 107 om kommuner og fylkeskommuner oppheves § 60 nr. 6.
+>
+> 3. I lov 15. mai 1992 nr. 47 om laksefisk og innlandsfisk mv. skal § 6 første ledd lyde:
+>
+> Fiskeforvaltningen etter denne lov er:DepartementetDirektoratet for naturforvaltningFylkesmannenFylkeskommunenKommunen
+>
+
+## § 56
+
+### 2009-06-19 — lov/2009-06-19-74
+
+*§ 56 annet ledd første og annet punktum oppheves.*
+
+### 2009-06-19 — lov/2009-06-19-74
+
+*§ 56 annet ledd skal lyde:*
+
+> Uaktsom overtredelse er straffbar.
+>
+> 108. I lov 12. juni 1981 nr. 52 om verdipapirfond gjøres følgende endring:
 >

@@ -199,6 +199,12 @@ refid: "lov/2007-06-29-81"
 > rett til å bli innkalla og til å delta i årsmøtet, jf. §§ 46 og 36, jf. § 37,
 >
 
+## § 159
+
+### 2021-06-18 — lov/2021-06-18-122
+
+*§ 159 første ledd oppheves. Nåværende annet ledd blir nytt første ledd.*
+
 ## § 36
 
 ### 2021-05-28 — lov/2021-05-28-51
@@ -351,6 +357,15 @@ refid: "lov/2007-06-29-81"
 > Med møte er meint i denne lova møte kor dei som deltar anten er fysisk til stades på møtet (fysisk møte), eller deltek ved bruk av elektroniske hjelpemiddel (elektronisk møte).
 >
 
+## § 72
+
+### 2013-04-05 — lov/2013-04-05-12
+
+*§ 72 første ledd annet punktum skal lyde:*
+
+> Det same gjeld dersom ein styremedlem blir fråteken rettsleg handleevne eller blir sett i konkurskarantene etter konkursloven §§ 142 og 143.
+>
+
 ## § 75
 
 ### 2021-05-28 — lov/2021-05-28-51
@@ -372,6 +387,10 @@ refid: "lov/2007-06-29-81"
 >
 
 ## § 8
+
+### 2013-04-05 — lov/2013-04-05-12
+
+*§ 8 annet ledd annet punktum oppheves.*
 
 ### 2021-05-28 — lov/2021-05-28-51
 

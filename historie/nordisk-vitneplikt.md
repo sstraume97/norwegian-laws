@@ -5,13 +5,38 @@ refid: "lov/1975-03-21-9"
 
 # Endringshistorikk: Lov om nordisk vitneplikt
 
+## § 1
+
+### 2007-02-27 — lov/2007-01-26-3
+
+*§ 1 tredje ledd skal lyde:*
+
+> Reglane i straffeprosesslova og tvisteloven om innkalling og avhøyr av vitne gjeld tilsvarande, når ikkje anna følgjer av denne lova.
+>
+
 ## § 3
+
+### 2007-02-27 — lov/2007-01-26-3
+
+*§ 3 skal lyde:*
+
+> Ingen må påleggast å gje vitneforklaring i strid med reglane i straffeprosessloven §§ 117 til 125 eller tvisteloven kapittel 22 (jf likevel barnelova § 21), eller med lovgjevinga i det landet der vitnet er busett.
+>
 
 ### 2025-06-20 — lov/2025-06-20-40
 
 *§ 3 skal lyde:*
 
 > Ingen må påleggast å gje vitneforklaring i strid med reglane i straffeprosessloven §§ 117 til 125 eller tvisteloven kapittel 22 eller med lovgjevinga i det landet der vitnet er busett.
+>
+
+## § 4
+
+### 2007-02-27 — lov/2007-01-26-3
+
+*§ 4 annet ledd skal lyde:*
+
+> Reglane i straffeprosesslova § 115 første ledd og tvisteloven § 24-5 første alternativ, om avhenting av vitne som ikkje møter, kan ikkje brukast mot vitne så lenge det oppheld seg utanfor Norge.
 >
 
 ## § 7
@@ -23,7 +48,28 @@ refid: "lov/1975-03-21-9"
 > Fastsetting av godtgjersle etter denne lova kan påkjærast til høgare domstol etter reglane i rettshjelpsloven § 27.
 >
 
+### 2007-02-27 — lov/2007-01-26-3
+
+*§ 7 femte ledd skal lyde:*
+
+> Fastsetting av godtgjersle etter denne lova kan ankast til høgare domstol etter reglane i rettshjelpsloven § 27.
+>
+
 ## § 8
+
+### 2007-02-27 — lov/2007-01-26-3
+
+*§ 8 tredje ledd tredje punktum skal lyde:*
+
+> Ein part som ikkje møter og som oppheld seg her i landet, kan avhentas etter reglane i tvisteloven § 23-1 fjerde leden.
+>
+
+### 2007-02-27 — lov/2007-01-26-3
+
+*§ 8 fjerde ledd skal lyde:*
+
+> Elles gjeld reglane om partar i tvisteloven og barnelova tilsvarande.
+>
 
 ### 2025-06-20 — lov/2025-06-20-40
 

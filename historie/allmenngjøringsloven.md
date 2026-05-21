@@ -11,6 +11,12 @@ refid: "lov/1993-06-04-58"
 
 *§ 1-1 oppheves.*
 
+## § 25-12
+
+### 2021-06-18 — lov/2021-06-18-122
+
+*§ 25-12 tredje og fjerde ledd oppheves.*
+
 ## (annet)
 
 ### 2009-06-19 — lov/2009-06-19-42
@@ -234,6 +240,13 @@ refid: "lov/1993-06-04-58"
 > Berørte arbeidstakere eller deres fagforening kan reise privat straffesak etter reglene i straffeprosessloven kap. 28.
 >
 > Unnlatelse av å følge pålegg som nevnt i § 10 straffes med bøter.
+>
+
+### 2021-06-18 — lov/2021-06-18-122
+
+*§ 15 annet ledd oppheves. Nåværende tredje ledd blir nytt annet ledd.*
+
+> 14.I lov 28. februar 1997 nr. 19 om folketrygd gjøres følgende endring:
 >
 
 ## § 2

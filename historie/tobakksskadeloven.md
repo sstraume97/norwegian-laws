@@ -11,6 +11,17 @@ refid: "lov/1973-03-09-14"
 
 *Nåværende §§ 8 til 12 blir §§ 9 til 13.*
 
+### 2009-06-19 — lov/2009-06-19-74
+
+*93 a. I lov 30. mai 1975 nr. 18 sjømannsloven skal ny § 54 C lyde:*
+
+> § 54 C.Straff
+>
+> Med bøter eller fengsel inntil 6 måneder straffes den som forsettlig eller grovt uaktsomt lar en sjømann være ansatt på vesentlig andre vilkår enn de som fremgår av loven, forskrifter gitt i medhold av loven eller tariffavtale som gjelder for sjømannen.
+>
+> Ved vurderingen av om en overtredelse av første ledd er vesentlig, skal det særlig legges vekt på overtredelsens omfang, virkninger og graden av utvist skyld.
+>
+
 ### 2013-05-24 — lov/2013-05-24-17
 
 *Foran § 1 skal ny kapitteloverskrift til kapittel 1 lyde:*
@@ -482,6 +493,20 @@ refid: "lov/1973-03-09-14"
 > § 10.Tobakksvarers innhold
 >
 > Departementet kan gi forskrifter om tobakksvarers innhold, herunder maksimalgrenser for bestanddeler, vekt, filter, innpakning mv.
+>
+
+### 2009-06-19 — lov/2009-06-19-74
+
+*§ 10 første ledd annet punktum skal lyde:*
+
+> Forsøk straffes på samme måte.
+>
+
+### 2009-06-19 — lov/2009-06-19-74
+
+*§ 10 første ledd tredje punktum oppheves.*
+
+> 91. I lov 7. juni 1974 nr. 22 om prisregler for jern og stål gjøres følgende endring:
 >
 
 ### 2013-05-24 — lov/2013-05-24-17
@@ -1356,6 +1381,13 @@ refid: "lov/1973-03-09-14"
 > Loven kommer til anvendelse for petroleumsvirksomhet til havs i den grad slik virksomhet omfattes av lov 17. juni 2005 nr. 62 om arbeidsmiljø, arbeidstid og stillingsvern mv. (arbeidsmiljøloven) § 1-3.
 >
 
+### 2009-06-19 — lov/2009-06-19-74
+
+*§ 3 annet ledd oppheves.*
+
+> 92. I lov 14. juni 1974 nr. 39 om eksplosive varer (gjelder bare for Svalbard) gjøres følgende endring:
+>
+
 ### 2013-05-24 — lov/2013-05-24-17
 
 *§ 3 skal lyde:*
@@ -2075,6 +2107,19 @@ refid: "lov/1973-03-09-14"
 > Opplysninger mottatt i medhold av kapittel 3 og 3A kan uten hinder av lovbestemt taushetsplikt utveksles mellom Helsedirektoratet, politiet, tollmyndighetene og skattemyndighetene.
 >
 > Departementet kan i forskrift gi nærmere bestemmelser om utlevering av opplysninger som nevnt i første til tredje ledd.
+>
+
+## § 41
+
+### 2009-06-19 — lov/2009-06-19-74
+
+*§ 41 første ledd skal lyde:*
+
+> Den som forsettlig eller aktløst overtrer denne lov eller forskrifter, pålegg, forbud eller andre bestemmelser som er gitt eller opprettholdt i medhold av loven, straffes med bøter eller fengsel inntil tre måneder for så vidt ikke forholdet rammes av strengere straffebud.
+>
+> 93. I lov 6. juni 1975 nr. 31 om utnytting av rettar og lunnende m.m. i statsallmenningane (fjellova) skal § 37 første ledd nytt siste punktum lyde:
+>
+> Medverknad blir ikkje straffa.
 >
 
 ## § 42

@@ -404,6 +404,17 @@ refid: "lov/1993-06-11-100"
 > Den som uaktsomt eller forsettlig overtrer forbudet i §§ 3 a eller 3 b, straffes med bøter eller fengsel inntil ett år. Overtredelse er forseelse.
 >
 
+### 2009-06-19 — lov/2009-06-19-74
+
+*§ 22 første ledd skal lyde:*
+
+> Den som uaktsomt eller forsettlig overtrer bestemmelse eller vilkår som er gitt i eller med hjemmel i loven, straffes med bøter dersom forholdet ikke går inn under strengere straffebestemmelse.
+>
+
+### 2009-06-19 — lov/2009-06-19-74
+
+*§ 22 annet ledd annet punktum oppheves.*
+
 ## § 3 a
 
 ### 2016-12-16 — lov/2016-12-16-102
@@ -733,6 +744,21 @@ refid: "lov/1993-06-11-100"
 *§ 8 f blir ny § 8 c.*
 
 ## § 8 g
+
+### 2009-06-19 — lov/2009-06-19-108
+
+*Ny § 8 g skal lyde:*
+
+> § 8 g.(Arbeidstakernes rettigheter ved konkurranse om avtale om persontransport med jernbane, herunder sporvei, tunnelbane og forstadsbane)
+>
+> Reglene i arbeidsmiljøloven §§ 16-2 til 16-7 om arbeidstakernes rettigheter ved virksomhetsoverdragelse gjelder tilsvarende ved konkurranse om avtale om persontransport med jernbane, dersom virksomheten etter konkurransen blir drevet med samme type transportmiddel som før.
+>
+> Oppdragsgiveren skal informere de som vil delta i konkurransen, om hvor mange ansatte i den virksomheten som driver den transporten oppdraget gjelder, som blir berørt av konkurransen, og om deres ansiennitet, alder og lønns- og arbeidsvilkår.
+>
+> Fylkeskommunen kan i forbindelse med slik konkurranse kreve informasjonen nevnt i andre ledd, utlevert fra enhver virksomhet som driver persontransport med jernbane.
+>
+> Den som får tildelt avtale om persontransport med jernbane gjennom konkurranse, må forplikte seg til å sikre at de ansatte som direkte medvirker til å oppfylle kontrakten, får lønns- og arbeidsvilkår som ikke er dårligere enn det som følger av gjeldende landsomfattende tariffavtale, eller det som ellers er normalt for vedkommende sted og yrke. Tilsvarende plikt gjelder også for underleverandører.
+>
 
 ### 2016-12-16 — lov/2016-12-16-101
 

@@ -333,6 +333,15 @@ refid: "lov/1980-02-08-2"
 > (2) Panteretten faller bort og panthaveren kan kreve at pantekravet blir innfridd når et pantsatt patent, en pantsatt varemerkerett, et pantsatt supplerende beskyttelsessertifikat eller en pantsatt planteforedlerrett:blir overført til en annen fordi pantsetteren ikke har retten til oppfinnelsen, varemerket eller plantesorten,blir satt til side som ugyldig,opphører å gjelde fordi innehaveren har unnlatt å betale årsavgift eller fornyelsesavgift uten at panthaveren har gitt samtykke til det,opphører etter planteforedlerloven § 18, ellerslettes etter varemerkeloven §§ 36 eller 37.
 >
 
+## § 5-1
+
+### 2020-12-18 — lov/2020-12-18-149
+
+*§ 5-1 bokstav b skal lyde:*
+
+> panterett stiftet av tingretten i midler som er under skiftebehandling, til sikkerhet for ektefelles, arvings eller kreditors krav ifølge skiftet (skifteutlegg).
+>
+
 ## § 5-2
 
 ### 2005-12-21 — lov/2005-12-21-130
@@ -429,6 +438,13 @@ refid: "lov/1980-02-08-2"
 *§ 6-4 nytt niende ledd skal lyde:*
 
 > (9) Konkursboet har ikke lovbestemt pant etter første ledd i formuesgoder som inngår i en finansiell sikkerhetsstillelse etter lov 26. mars 2004 nr. 17 om finansiell sikkerhetsstillelse.
+>
+
+### 2020-12-18 — lov/2020-12-18-149
+
+*§ 6-4 tredje ledd fjerde punktum skal lyde:*
+
+> I særlige tilfeller kan tingretten bestemme at verdsettingen skal skje ved skiftetakst, jf. arveloven § 106.
 >
 
 ### 2021-04-30 — lov/2021-04-30-28

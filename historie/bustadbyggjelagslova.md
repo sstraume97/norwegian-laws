@@ -102,6 +102,15 @@ refid: "lov/2003-06-06-38"
 > (3) Føresegna i § 5-6 fjerde ledd gjeld tilsvarande for ekstraordinære generalforsamlingar.
 >
 
+## § 5-12
+
+### 2007-02-27 — lov/2007-01-26-3
+
+*§ 5-12 første ledd tredje punktum skal lyde:*
+
+> Har tingretten innkalla generalforsamlinga, skal retten peike ut den som skal opne møtet, og den avgjerda kan ikke ankast.
+>
+
 ## § 5-17
 
 ### 2021-03-26 — lov/2021-03-26-16
@@ -244,6 +253,29 @@ refid: "lov/2003-06-06-38"
 *§ 10-16 første ledd skal lyde:*
 
 > (1) Er varsel til laget kunngjort etter § 10-15 andre ledd, og laget ikkje har retta tilhøvet innan fristen i kunngjeringa, skal Føretaksregisteret eller Rekneskapsregisteret varsle tingretten om dette.
+>
+
+## § 11-7
+
+### 2021-06-18 — lov/2021-06-18-122
+
+*§ 11-7 første ledd oppheves. Nåværende annet ledd blir første ledd.*
+
+## § 12-2
+
+### 2007-02-27 — lov/2007-01-26-3
+
+*§ 12-2 annet og tredje ledd skal lyde:*
+
+> (2) Orskurdar og vedtak som tingretten gjer etter lova her, kan ankast.
+>
+> (3) Anke etter andre ledd kan ikkje grunnast på at avgjerda er utenleg eller uheldig. Dette gjeld ikkje orskurd etter §§ 5-24 til 5-26.
+>
+> 132. I lov 6. juni 2003 nr. 39 om burettslag (burettslagslova) skal § 13-2 annet og tredje ledd lyde:
+>
+> (2) Orskurdar og vedtak som retten gjer etter lova her, kan ankast.
+>
+> (3) Ein anke etter andre ledd kan ikkje grunnast på at avgjerda er utenleg eller uheldig. Dette gjeld ikkje orskurd etter §§ 7-14 til 7-16.
 >
 
 ## (annet)

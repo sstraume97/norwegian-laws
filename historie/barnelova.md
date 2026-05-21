@@ -220,6 +220,52 @@ refid: "lov/1981-04-08-7"
 
 *I ny § 88 endres «§ 44 andre stykket første punktum» til «§ 42 andre stykket første punktum».*
 
+### 2007-02-27 — lov/2007-01-26-3
+
+*Nytt kapittel 4 A skal lyde:*
+
+> § 29 a.Verkeområdet og tilhøvet til allmenne rettargangsreglar
+>
+> Reglane i dette kapitlet gjeld sak for domstolane om ein slektskap i rett opp- eller nedstigande line (slektskapssak), anna enn farskap.
+>
+> I ei slektskapssak kan andre tvistar berre takast opp når dei følgjer av slektskapen eller slektskapssaka.
+>
+> Reglane i domstolloven og tvisteloven gjeld så langt ikkje anna er sagt.
+>
+> § 29 b.Kven som kan vere part i slektskapssak
+>
+> Berre dei som det er påstått er i slekt, kan reise slektskapssak seg imellom. Saka må reisast mot den eller dei som er påstått nærast i slekt.
+>
+> For å vareta offentlege interesser har fylkestrygdekontoret rett til å møte i ei slektskapssak og til å anke eller krevje gjenopning av saka. Retten skal gje melding til fylkestrygdekontoret om saka og om nokon av partane ikkje møter.
+>
+> Dersom nokon som påstår å vere lengre ute i slekt har reist sak, har livsarvingane etter ein slektning som ikkje lenger er i live, rett til å gå inn i saka og til å anke eller krevje gjenopning av saka.
+>
+> Døyr ein part før dom er sagt, kan dei næraste slektningane i rett opp- eller nedstigande line til den avlidne halde fram med saka. Døyr ein part etter at dom er sagt, kan dei som er nemnde i første punktum, dødsbuet eller arvingar om dommen rører ved interessene deira, anke eller krevje at saka vert gjenopna.
+>
+> § 29 c.Stillinga til verja
+>
+> Verja kan ikkje reise slektskapssak for ein umyndig som har fylt 15 år, utan samtykke frå den umyndige med mindre den umyndige er alvorleg psykisk sjuk eller utviklingshemma.
+>
+> § 29 d.Utvida rettskraft
+>
+> Rettskraftig dom i ei slektskapssak gjeld for og mot alle og skal leggjast til grunn i alle høve der slektskapen har noko å seie.
+>
+> Er saka reist mellom nokon som det er påstått er lengre ut i slekt, gjeld dommen berre mot ein nærare slektning eller livsarvingane hans eller hennar dersom vedkommande er gått inn i saka eller varsla om ho.
+>
+> Det same gjeld for den som sjølv krev å vere forelder eller den som slektskapssaka gjeld.
+>
+> § 29 e.Gjenopning
+>
+> Fristen for gjenopning av saka etter tvisteloven § 31-6 andre ledd gjeld ikkje i slektskapssaker.
+>
+
+### 2007-02-27 — lov/2007-01-26-3
+
+*Overskriften til § 62 skal lyde:*
+
+> Anke over avgjerder under saksførebuinga
+>
+
 ### 2008-06-27 — lov/2008-06-27-53
 
 *I kapittel 2 skal kapitteloverskriften lyde:*
@@ -260,6 +306,29 @@ refid: "lov/1981-04-08-7"
 > Folkeregistermyndigheita skal, utan hinder av teieplikt, gje dei opplysingane som er naudsynte for utføring av oppgåver etter lova her.
 >
 
+## § 1
+
+### 2007-06-29 — lov/2007-06-29-53
+
+*§ 1 første ledd første punktum skal lyde:*
+
+> Når eit barn er født, skal lækjaren eller jordmora gje fødselsmelding til folkeregistermyndigheita.
+>
+
+### 2007-06-29 — lov/2007-06-29-53
+
+*§ 1 andre ledd skal lyde:*
+
+> Når barnet er født utan at lækjar eller jordmor var til stades, skal mora sjølv gje fødselsmelding til folkeregistermyndigheita innan ein månad. Føder ho barnet medan ho mellombels held til i utlandet, skal ho gje melding til folkeregistermyndigheita innan ein månad etter at barnet er kome til Noreg.
+>
+
+### 2007-06-29 — lov/2007-06-29-53
+
+*§ 1 fjerde ledd skal lyde:*
+
+> I tilfelle då farskapen enno ikkje er fastsett eller foreldra ikkje lever saman, skal fødselsmeldinga sendast både til folkeregistermyndigheita og tilskotsfuten.
+>
+
 ## § 1 a
 
 ### 2008-06-27 — lov/2008-06-27-53
@@ -276,6 +345,13 @@ refid: "lov/1981-04-08-7"
 *§ 1 a oppheves.*
 
 ## § 10
+
+### 2007-06-29 — lov/2007-06-29-53
+
+*§ 10 første ledd tredje punktum skal lyde:*
+
+> Vert farskapen vedgått, skal tilskotsfuten melde frå om det til folkeregistermyndigheita.
+>
 
 ### 2013-06-21 — lov/2013-06-21-64
 
@@ -328,7 +404,23 @@ refid: "lov/1981-04-08-7"
 > Endar ei rettssak utan at farskapen vert fastsett, og han heller ikkje vert fastsett seinare, kan Arbeids- og velferdsdirektoratet sende saka til retten på nytt dersom det kjem fram nye opplysningar som tyder på at faren kan vere ein mann som tidlegare ikkje har vore part i saka.
 >
 
+## § 14
+
+### 2007-02-27 — lov/2007-01-26-3
+
+*§ 14 skal lyde:*
+
+> For farskapssaker gjeld reglane i dette kapittel, domstolloven og tvisteloven.
+>
+
 ## § 15
+
+### 2007-02-27 — lov/2007-01-26-3
+
+*§ 15 skal lyde:*
+
+> Saka skal reisast ved det alminnelege vernetinget til barnet. Lever ikkje barnet eller bur det utanfor riket, skal saka reisast ved det alminnelege vernetinget til mora. Er også ho død eller busett utanfor riket, skal saka reisast ved det alminnelege vernetinget til den oppgjevne faren.
+>
 
 ### 2013-06-21 — lov/2013-06-21-64
 
@@ -344,6 +436,30 @@ refid: "lov/1981-04-08-7"
 > Dersom mora eller barnet bur på sperra adresse, jf. lov 9. desember 2016 nr. 88 om folkeregistrering med forskrifter, eller det er søkt om eller gjeve løyve til å nytte fiktive personopplysningar for mora eller barnet, jf. lov 4. august 1995 nr. 53 om politiet § 14 a, kan saka reisast for Oslo tingrett.
 >
 
+## § 17
+
+### 2007-02-27 — lov/2007-01-26-3
+
+*§ 17 tredje ledd skal lyde:*
+
+> Kjem det fram opplysningar som tyder på at nokon annan kan vere faren, skal retten ved prosesskriv gjere han til saksøkt.
+>
+
+## § 19
+
+### 2007-02-27 — lov/2007-01-26-3
+
+*§ 19 annet ledd oppheves.*
+
+## § 21
+
+### 2007-02-27 — lov/2007-01-26-3
+
+*§ 21 tredje ledd skal lyde:*
+
+> I farskapssaker kan ingen nekte å svare på spørsmål fordi svaret kan føre til vesentleg tap av sosialt omdøme eller anna vesentleg velferdstap for vedkomande, jf. tvisteloven § 22-9.
+>
+
 ## § 22
 
 ### 2013-06-21 — lov/2013-06-21-64
@@ -351,6 +467,17 @@ refid: "lov/1981-04-08-7"
 *§ 22 oppheves.*
 
 ## § 24
+
+### 2007-02-27 — lov/2007-01-26-3
+
+*§ 24 tredje ledd tredje punktum skal lyde:*
+
+> Elles gjeld tvangsfullbyrdelsesloven § 13-8 på tilsvarande måte.
+>
+> I § 28 skal overskriften lyde:
+>
+> Særreglar for ankesaker
+>
 
 ### 2013-06-21 — lov/2013-06-21-64
 
@@ -376,6 +503,12 @@ refid: "lov/1981-04-08-7"
 > Retten kan heve saka i orskurd nårein mann erklærer i samsvar med § 4 at han er far til barnet, ellerden oppgjevne faren bur i utlandet og det er uråd å få nok opplysningar til å fastsetje farskapen.
 >
 
+## § 28
+
+### 2007-02-27 — lov/2007-01-26-3
+
+*§ 28 annet ledd oppheves.*
+
 ## § 28 a
 
 ### 2002-12-20 — lov/2002-12-20-92
@@ -387,6 +520,17 @@ refid: "lov/1981-04-08-7"
 > Ei rettskraftig avgjerd kan krevjast gjenoppteke utan omsyn til vilkåra i tvistemålslova §§ 405-408 dersom det ikkje låg føre ein DNA-analyse i saka. Vert det kravd gjenopptaking, skal retten gje pålegg om blodprøve og DNA-analyse. Når DNA-analysen ligg føre, gjeld regelen i § 25 første ledd.
 >
 
+### 2007-02-27 — lov/2007-01-26-3
+
+*§ 28 a skal lyde:*
+
+> § 28 a.Særreglar om gjenopning
+>
+> Dersom det ikkje låg føre ein DNA-analyse i saka, kan ei rettskraftig avgjerd krevjast gjenopna utan omsyn til vilkåra i tvisteloven §§ 31-3 til 31-6. Vert det kravd gjenopning, skal retten gje pålegg om blodprøve og DNA-analyse. Når DNA-analysen ligg føre, gjeld regelen i § 25 første stykket.
+>
+> I andre farskapssaker gjeld ikkje fristen i tvisteloven § 31-6 andre stykket for å krevje gjenopning av saka.
+>
+
 ## § 29 b
 
 ### 2013-06-21 — lov/2013-06-21-64
@@ -396,6 +540,17 @@ refid: "lov/1981-04-08-7"
 > Når det er naudsynt for å oppfylle pliktene etter § 5 tredje stykket, kan Arbeids- og velferdsdirektoratet reise sak om kven som er mor til barnet.
 >
 > Gjeldende § 29 b tredje og fjerde ledd blir fjerde og femte ledd.
+>
+
+## § 29 c
+
+### 2013-04-05 — lov/2013-04-05-12
+
+*§ 29 c skal lyde:*
+
+> § 29 c.Stillinga til verja
+>
+> Verja kan ikkje reise slektskapssak for ein person under verjemål som har fylt 15 år, utan samtykke frå personen med mindre personen ikkje er i stand til å forstå kva eit samtykke fører med seg.
 >
 
 ## § 3
@@ -487,6 +642,17 @@ refid: "lov/1981-04-08-7"
 > Eit barn som er fylt sju år, og yngre barn som er i stand til å danne seg eigne synspunkt, skal få informasjon og høve til å seie meininga si før det blir teke avgjerd om personlege forhold for barnet, mellom anna om foreldreansvaret, kvar barnet skal bu fast og samvær. Meininga til barnet skal bli vektlagt etter alder og modning. Når barnet er fylt 12 år, skal det leggjast stor vekt på kva barnet meiner.
 >
 
+## § 33
+
+### 2013-04-05 — lov/2013-04-05-12
+
+*§ 33 skal lyde:*
+
+> § 33.Barnet sin sjølvråderett
+>
+> Foreldra skal gje barnet stendig større sjølvråderett med alderen og fram til det fyller 18 år.
+>
+
 ## § 34
 
 ### 2003-06-20 — lov/2003-06-20-40
@@ -517,6 +683,13 @@ refid: "lov/1981-04-08-7"
 > Foreldra som ikkje er gifte eller har foreldreansvaret saman etter andre ledd, kan likevel etter avtale gje melding til folkeregisteret om at dei skal ha foreldreansvaret saman eller at faren skal ha foreldreansvaret åleine.
 >
 > Har ugifte foreldre foreldreansvaret saman, men barnet bur fast berre saman med den eine, gjeld reglane i § 37.
+>
+
+### 2007-06-29 — lov/2007-06-29-53
+
+*§ 35 tredje ledd skal lyde:*
+
+> Foreldra som ikkje er gifte eller har foreldreansvaret saman etter andre ledd, kan likevel etter avtale gje melding til folkeregistermyndigheita om at dei skal ha foreldreansvaret saman eller at faren skal ha foreldreansvaret åleine.
 >
 
 ### 2017-03-31 — lov/2017-03-31-13
@@ -625,6 +798,15 @@ refid: "lov/1981-04-08-7"
 > Avtale eller avgjerd om foreldreansvaret skal meldast til folkeregisteret. Avtale om foreldreansvar som ikkje er meldt til folkeregisteret er ikkje gyldig. Dersom farskap er fastsett og foreldra er folkeregistrerte på same adresse eller erklærer i melding til folkeregisteret at dei bur saman, skal folkeregisteret registrera at foreldra har foreldreansvaret saman.
 >
 
+### 2007-06-29 — lov/2007-06-29-53
+
+*§ 39 skal lyde:*
+
+> Registrering av foreldreansvaret
+>
+> Avtale eller avgjerd om foreldreansvaret skal meldast til folkeregistermyndigheita. Avtale om foreldreansvar som ikkje er meldt til folkeregistermyndigheita er ikkje gyldig. Dersom farskap er fastsett og foreldra er folkeregistrerte på same adresse eller erklærer i melding til folkeregistermyndigheita at dei bur saman, skal folkeregistermyndigheita registrera at foreldra har foreldreansvaret saman.
+>
+
 ### 2008-06-27 — lov/2008-06-27-53
 
 *§ 39 tredje punktum skal lyde:*
@@ -656,6 +838,20 @@ refid: "lov/1981-04-08-7"
 > Vedgåing kan dessutan gjevast ved påteikning på farskapsførelegg.
 >
 > Er den som vil vedgå farskapen under 18 år, må også dei som har foreldreansvaret for han, skrive under vedgåinga.
+>
+
+### 2007-06-29 — lov/2007-06-29-53
+
+*§ 4 andre ledd bokstav a skal lyde:*
+
+> folkeregistermyndigheita
+>
+
+### 2007-06-29 — lov/2007-06-29-53
+
+*§ 4 tredje ledd første punktum skal lyde:*
+
+> Dersom sambuarar er folkeregistrerte på same adresse eller erklærer i melding til folkeregistermyndigheita at dei bur saman, kan sambuaren til mora vedgå farskapen etter paragrafen her, utan at mora medverkar etter andre stykket andre punktum.
 >
 
 ### 2008-06-27 — lov/2008-06-27-53
@@ -1060,6 +1256,15 @@ refid: "lov/1981-04-08-7"
 > Departementet kan ved forskrift gje utfyllande reglar om utmåling av fostringstilskot etter lova her.
 >
 
+## § 55
+
+### 2007-02-27 — lov/2007-01-26-3
+
+*§ 55 tredje ledd skal lyde:*
+
+> Saka må bringast inn for den fylkesmannen der barnet har alminneleg verneting på den tida saka vert reist.
+>
+
 ## § 56
 
 ### 2001-06-15 — lov/2001-06-15-37
@@ -1089,6 +1294,13 @@ refid: "lov/1981-04-08-7"
 > § 57.Kvar sak skal reisast
 >
 > Sak etter § 56 må reisast for den domstolen der barnet har heimting på den tida saka vert reist. Dersom saka gjeld sysken med ulikt heimting, kan felles sak for barna reisast der eitt av barna har heimting. Dersom barnet bur på sperra adresse, jf. lov 16. januar 1970 nr. 1 om folkeregistrering med forskrifter, eller det er søkt om eller gjeve løyve til å nytte fiktive personopplysningar for barnet, jf. lov 4. august 1995 nr. 53 om politiet § 14 a, kan saka reisast for Oslo tingrett.
+>
+
+### 2007-02-27 — lov/2007-01-26-3
+
+*§ 57 første og annet punktum skal lyde:*
+
+> Sak etter § 56 må reisast for den domstolen der barnet har alminneleg verneting på den tida saka vert reist. Dersom saka gjeld søsken med ulikt alminneleg verneting, kan felles sak for barna reisast der eitt av barna har alminneleg verneting.
 >
 
 ### 2018-06-22 — lov/2018-06-22-51
@@ -1127,6 +1339,13 @@ refid: "lov/1981-04-08-7"
 > Førebels avgjerd etter første og andre stykket gjeld frå og med den månaden kravet om fastsetjing eller endring vart sett fram. Slik avgjerd kan fullførast straks om ikkje anna er fastsett, og gjeld berre til det ligg føre ei endeleg avgjerd i saka.
 >
 
+### 2007-02-27 — lov/2007-01-26-3
+
+*§ 59 tredje ledd skal lyde:*
+
+> Domstolloven og tvisteloven gjeld for retten si handsaming av saker etter kapitlet her, så langt ikkje anna følgjer av reglane her.
+>
+
 ## § 6
 
 ### 2002-12-20 — lov/2002-12-20-92
@@ -1136,6 +1355,13 @@ refid: "lov/1981-04-08-7"
 > Barnet, kvar av foreldra og tredjemann som meiner han er far til eit barn som allereie har ein far, kan alltid reise sak for domstolane om farskap etter ekteskap eller vedgåing.
 >
 > Annet og tredje ledd oppheves.
+>
+
+### 2013-04-05 — lov/2013-04-05-12
+
+*§ 6 annet punktum skal lyde:*
+
+> Er barnet mindreårig, vert saka reist av oppnemnd verje.
 >
 
 ### 2013-06-21 — lov/2013-06-21-64
@@ -1249,6 +1475,15 @@ refid: "lov/1981-04-08-7"
 > § 61 a.Fritak for teieplikt for barnevernstenesta
 >
 > Barnevernstenesta kan uhindra av teieplikta etter barnevernloven § 6-7 gi opplysningar til domstolen i sak om foreldreansvar, kvar barnet skal bu fast og samvær.
+>
+
+## § 62
+
+### 2007-02-27 — lov/2007-01-26-3
+
+*§ 62 første ledd første punktum skal lyde:*
+
+> Rettens val av tiltak etter § 61 første stykket kan ikkje ankast.
 >
 
 ## § 63

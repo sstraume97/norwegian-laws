@@ -7,10 +7,6 @@ refid: "lov/2018-04-20-8"
 
 ## (annet)
 
-### 2022-04-29 — lov/2022-04-29-26
-
-*§§ 14 og 15 oppheves.*
-
 ### 2023-12-20 — lov/2023-12-20-110
 
 *15.I lov 20. april 2018 nr. 8 om grensetilsyn og grensekontroll av personer skal § 3 første ledd lyde:*
@@ -32,24 +28,6 @@ refid: "lov/2018-04-20-8"
 *§ 1 første ledd annet punktum skal lyde:*
 
 > Loven skal også legge til rette for lovlig bevegelse over grensene og bidra til å bekjempe grensekryssende kriminalitet, ulovlig innvandring og trusler mot folkehelsen.
->
-
-## § 100 b
-
-### 2022-04-29 — lov/2022-04-29-26
-
-*§ 100 b første ledd første punktum skal lyde:*
-
-> I forbindelse med kontroll etter § 21 eller grenseloven § 15, eller i forbindelse med behandlingen av en sak etter utlendingsloven, kan politiet, Utlendingsdirektoratet, Utlendingsnemnda, Utenriksdepartementet, utenriksstasjon eller andre med kontrollmyndighet etter § 22 eller grenseloven innhente biometrisk personinformasjon i form av ansiktsfoto og fingeravtrykk til kontroll av fremlagt oppholdskort eller kontroll av annet kort med registrert biometrisk personinformasjon etter § 100 a annet ledd.
->
-
-## § 108
-
-### 2022-04-29 — lov/2022-04-29-26
-
-*§ 108 annet ledd bokstav a skal lyde:*
-
-> Med bot eller med fengsel inntil seks måneder eller med begge deler straffes den som:Forsettlig eller uaktsomt overtrer de bestemmelsene som er angitt i det følgende, eller forbud, påbud eller vilkår gitt i medhold av disse bestemmelsene:§ 8 første ledd§ 9 første og fjerde ledd§ 16 første ledd§ 19 første og annet ledd§ 20 tredje ledd§ 21 første ledd§ 27 første ledd, jf. fjerde ledd§ 55 første og annet ledd, med mindre overtredelsen rammes av tredje ledd bokstav f§ 83 første og annet ledd§ 90 sjette ledd§ 93 første ledd annet punktum§ 100 b første ledd annet punktum§ 105 første ledd§ 126 første ledd§ 130 første ledd, jf. § 105
 >
 
 ## § 13
@@ -88,17 +66,6 @@ refid: "lov/2018-04-20-8"
 > § 16.Forhåndsmelding om reisende og mannskap
 >
 > Transportør av luftfartøy som kommer fra eller går til utlandet, og fører av sjøfartøy på vei til eller fra indre farvann eller norsk havn, skal, med mindre annet er bestemt, oversende opplysninger om reisende og mannskap til politiet, og melde planlagt tid og sted for ankomst eller anløp og avreise.
->
-
-### 2022-04-29 — lov/2022-04-29-26
-
-*§ 16 skal lyde:*
-
-> § 16.Adgang til riket for sjøfolk som fratrer stilling mv.
->
-> Sjøfolk eller blindpassasjer om bord på sjøfartøy som skal innreisekontrolleres etter grenseloven § 17, kan ikke forlate fartøyet før det er fastsatt hvor og når innreisekontrollen skal gjennomføres.
->
-> Kongen kan gi forskrift om vilkårene for sjøfolk og blindpassasjerers adgang til riket, blant annet om sjøfolks landlov, og om saksbehandlingen og klageadgangen i slike saker.
 >
 
 ## § 16 a
@@ -157,29 +124,7 @@ refid: "lov/2018-04-20-8"
 > § 19.Overvåking av ytre Schengen-grense
 >
 
-## § 20
-
-### 2022-04-29 — lov/2022-04-29-26
-
-*§ 20 første ledd bokstav a og b oppheves. Nåværende bokstav c til g blir bokstav a til e.*
-
-### 2022-04-29 — lov/2022-04-29-26
-
-*§ 20 nytt fjerde ledd skal lyde:*
-
-> Regler om plikt for transportør av luft- og sjøfartøy til å gi forhåndsmelding om reisende og mannskap følger av grenseloven § 16.
->
-
 ## § 22
-
-### 2022-04-29 — lov/2022-04-29-26
-
-*§ 22 skal lyde:*
-
-> § 22.Adgang til å gjennomføre utlendingskontroll
->
-> Kongen kan gi forskrift om Tolletatens og andre myndigheters adgang til å gjennomføre utlendingskontroll.
->
 
 ### 2025-06-20 — lov/2025-06-20-85
 
@@ -259,34 +204,6 @@ refid: "lov/2018-04-20-8"
 ### 2022-04-29 — lov/2022-04-29-26
 
 *§ 28 annet ledd nr. 4 skal lyde:*
-
-> 4.I lov 15. mai 2008 nr. 35 om utlendingers adgang til riket og deres opphold her gjøres følgende endringer:
->
-
-## § 6
-
-### 2022-04-29 — lov/2022-04-29-26
-
-*§ 6 annet ledd skal lyde:*
-
-> Kongen kan i forskrift fravike lovens regler for innretninger og anlegg som nevnt i første ledd, samt gi forskrift om kontroll ved reise mellom disse og norsk landterritorium.
->
-
-### 2022-04-29 — lov/2022-04-29-26
-
-*§ 6 femte ledd skal lyde:*
-
-> Loven gjelder ikke for norske sjøfartøy i utenriksfart. Kongen kan i forskrift gi nærmere regler om når loven eller regler gitt i medhold av loven får anvendelse for norske sjøfartøy i utenriksfart som anløper norsk havn.
->
-
-## § 66
-
-### 2022-04-29 — lov/2022-04-29-26
-
-*§ 66 første ledd bokstav a skal lyde:*
-
-> når utlendingen grovt eller gjentatte ganger har overtrådt en eller flere bestemmelser i loven her eller grenseloven, forsettlig eller grovt uaktsomt har gitt vesentlig uriktige eller åpenbart villedende opplysninger i en sak etter loven, eller unndrar seg gjennomføringen av et vedtak som innebærer at vedkommende skal forlate riket,
->
 
 ## § 8
 

@@ -7,6 +7,32 @@ refid: "lov/2001-05-18-21"
 
 ## (annet)
 
+### 2001-06-15 — lov/2001-06-15-64
+
+*Nåværende annet punktum blir nytt tredje punktum.*
+
+### 2001-06-15 — lov/2001-06-15-64
+
+*Nåværende annet punktum blir nytt tredje punktum.*
+
+### 2005-12-21 — lov/2005-12-21-131
+
+*Overskrifta til kapittel 3 skal lyde:*
+
+### 2005-12-21 — lov/2005-12-21-131
+
+*Overskrifta til § 39 skal lyde:*
+
+> Umiddelbar utelukkelse som følge av brudd ved gjennomføring av fengselsstraff, forvaring og strafferettslige særreaksjoner.
+>
+
+### 2005-12-21 — lov/2005-12-21-131
+
+*Overskrifta til § 40 skal lyde:*
+
+> Reaksjon på brudd ved gjennomføring av fengselsstraff, forvaring og strafferettslige særreaksjoner.
+>
+
 ### 2008-03-07 — lov/2008-03-07-5
 
 *Overskriften i kapittel 2 skal lyde:*
@@ -333,6 +359,15 @@ refid: "lov/2001-05-18-21"
 
 ## § 1
 
+### 2005-12-21 — lov/2005-12-21-131
+
+*§ 1 skal lyde:*
+
+> Anvendelsesområde
+>
+> Denne loven gjelder for gjennomføring av fengselsstraff, strafferettslige særreaksjoner, forvaring, samfunnsstraff og varetektsfengsling og for gjennomføring av andre reaksjoner når det er særskilt bestemt i lov.
+>
+
 ### 2016-12-16 — lov/2016-12-16-98
 
 *§ 1 nytt annet ledd skal lyde:*
@@ -367,6 +402,15 @@ refid: "lov/2001-05-18-21"
 >
 
 ## § 10
+
+### 2005-12-21 — lov/2005-12-21-131
+
+*§ 10 første og annet ledd skal lyde:*
+
+> Fengselsstraff, forvaring og strafferettslige særreaksjoner kan gjennomføresi fengsel med høyt sikkerhetsnivå (lukket fengsel),i fengsel med lavere sikkerhetsnivå (åpent fengsel),i overgangsbolig,utenfor fengsel med særlige vilkår etter § 16, ellersom prøveløslatt med vilkår etter § 43 annet ledd.
+>
+> Avdeling i fengsel med høyt sikkerhetsnivå kan tilrettelegges for innsatte med særlige behov, herunder personer som er idømt en strafferettslig særreaksjon eller forvaring, eller innrettes med særlig høyt sikkerhetsnivå.
+>
 
 ### 2011-06-24 — lov/2011-06-24-35
 
@@ -424,6 +468,13 @@ refid: "lov/2001-05-18-21"
 
 ## § 11
 
+### 2005-12-21 — lov/2005-12-21-131
+
+*§ 11 tredje ledd skal lyde:*
+
+> Domfelte med særlige behov, herunder personer som er idømt en strafferettslig særreaksjon eller forvaring, bør settes inn i avdeling tilrettelagt for dette etter § 10 annet ledd.
+>
+
 ### 2012-01-20 — lov/2012-01-20-6
 
 *§ 11 nytt femte ledd skal lyde:*
@@ -452,6 +503,15 @@ refid: "lov/2001-05-18-21"
 *§ 11 tredje ledd skal lyde:*
 
 > Domfelte med særlige behov, herunder personer som er idømt forvaring, bør settes inn i avdeling tilrettelagt for dette etter § 10 annet ledd.
+>
+
+## § 12
+
+### 2001-06-15 — lov/2001-06-15-64
+
+*§ 12 nytt annet punktum skal lyde:*
+
+> Den domfelte skal kunne holdes tilbake mot sin vilje og hentes tilbake ved unnvikelse, om nødvendig med tvang og med bistand fra offentlig myndighet.
 >
 
 ## § 14
@@ -493,6 +553,15 @@ refid: "lov/2001-05-18-21"
 *§ 14 femte ledd første punktum skal lyde:*
 
 > Domfelte som gjennomfører forvaring i fengsel, kan overføres til avdeling tilrettelagt for innsatte med særlige behov, jf. § 10 annet ledd, selv om vilkårene i første ledd bokstavene a til g eller annet ledd ikke er oppfylt.
+>
+
+## § 15
+
+### 2001-06-15 — lov/2001-06-15-64
+
+*§ 15 første ledd nytt annet punktum skal lyde:*
+
+> Det samme gjelder for personer som etter psykisk helsevernloven § 5-6 er besluttet overført til anstalt under kriminalomsorgen såfremt de samtykker.
 >
 
 ## § 16
@@ -658,6 +727,15 @@ refid: "lov/2001-05-18-21"
 > § 22.Opphold i friluft
 >
 
+## § 24
+
+### 2009-06-19 — lov/2009-06-19-74
+
+*§ 24 tredje ledd nytt tredje og fjerde punktum skal lyde:*
+
+> Forsøk straffes på samme måte. Medvirkning straffes ikke.
+>
+
 ## § 27
 
 ### 2011-06-24 — lov/2011-06-24-35
@@ -710,6 +788,13 @@ refid: "lov/2001-05-18-21"
 
 ## § 3
 
+### 2005-12-21 — lov/2005-12-21-131
+
+*§ 3 fjerde ledd skal lyde:*
+
+> Ved gjennomføringen av fengselsstraff, forvaring og strafferettslige særreaksjoner skal det så vidt mulig skje en gradvis overgang fra fengsel til full frihet og gis tilbud om deltagelse i fritidsaktiviteter.
+>
+
 ### 2023-12-20 — lov/2023-12-20-111
 
 *§ 3 tredje ledd første punktum skal lyde:*
@@ -755,6 +840,12 @@ refid: "lov/2001-05-18-21"
 
 > Innsatte skal kunne motta besøk hvis ikke annet følger av denne bestemmelsen eller § 45 b.
 >
+
+## § 34
+
+### 2009-06-19 — lov/2009-06-19-74
+
+*§ 34 tredje ledd oppheves. Nåværende fjerde ledd blir nytt tredje ledd.*
 
 ## § 36
 
@@ -808,6 +899,13 @@ refid: "lov/2001-05-18-21"
 *§ 37 fjerde ledd skal lyde:*
 
 > Dersom hel utelukkelse fra fellesskapet overstiger 14 dager, skal regionalt nivå ta stilling til om den innsatte fortsatt skal utelukkes. Dersom utelukkelsen samlet overstiger 42 dager, skal tiltaket meldes til Kriminalomsorgsdirektoratet. Melding skal deretter gis til direktoratet med 14 dagers mellomrom. Utelukkelse etter første ledd bokstavene a til e kan bare strekke seg utover ett år dersom innsatte selv ønsker det.
+>
+
+### 2016-04-22 — lov/2016-04-22-3
+
+*§ 37 første ledd bokstav a skal lyde:*
+
+> hindre at innsatte fortsetter å påvirke miljøet i fengslet på en særlig negativ måte,
 >
 
 ### 2026-05-12 — lov/2026-05-12-18
@@ -1004,6 +1102,20 @@ refid: "lov/2001-05-18-21"
 
 ## § 40
 
+### 2005-12-21 — lov/2005-12-21-131
+
+*§ 40 sjuende ledd første punktum skal lyde:*
+
+> Den som forsettlig unndrar seg gjennomføringen av fengselsstraff, forvaring eller strafferettslige særreaksjoner, straffes med bøter eller fengsel inntil 6 måneder.
+>
+
+### 2009-06-19 — lov/2009-06-19-74
+
+*§ 40 sjuende ledd skal lyde:*
+
+> Den som forsettlig eller grovt uaktsomt unnlater å etterkomme pålegg som nevnt i straffeprosessloven § 461 første ledd, straffes med bøter eller fengsel inntil 3 måneder. Fengselsstraff under 14 dager kan idømmes.
+>
+
 ### 2012-01-20 — lov/2012-01-20-6
 
 *§ 40 nytt tiende ledd skal lyde:*
@@ -1083,6 +1195,13 @@ refid: "lov/2001-05-18-21"
 
 ## § 44
 
+### 2009-06-19 — lov/2009-06-19-74
+
+*§ 44 annet ledd skal lyde:*
+
+> Hvis den prøveløslatte etter at kriminalomsorgen har holdt innskjerpingssamtale eller fastsatt vilkår etter første ledd, på nytt bryter vilkår, kan regionalt nivå bringe saken inn for tingretten med begjæring om gjeninnsettelse i fengsel for hel eller delvis fullbyrding av reststraffen. Bestemmelsene om omgjøring av dom på samfunnsstraff etter straffeloven § 52 første ledd bokstav a gis tilsvarende anvendelse på saker om gjeninnsettelse for fullbyrdelse av reststraff etter prøveløslatelse.
+>
+
 ### 2010-12-17 — lov/2010-12-17-85
 
 *§ 44 fjerde ledd skal lyde:*
@@ -1105,6 +1224,15 @@ refid: "lov/2001-05-18-21"
 >
 
 ## § 45
+
+### 2009-06-19 — lov/2009-06-19-74
+
+*§ 45 skal lyde:*
+
+> Begår den prøveløslatte en ny straffbar handling i prøvetiden, gjelder bestemmelsene om omgjøring av dom på samfunnsstraff etter straffeloven § 52 første ledd bokstav b tilsvarende. Det er likevel tilstrekkelig om tiltale blir reist eller saken blir begjært pådømt innen 6 måneder etter at prøvetiden gikk ut.
+>
+> Dersom den prøveløslatte er siktet for en straffbar handling som kan føre til gjeninnsettelse for fullbyrdelse av reststraffen etter straffeloven § 52 første ledd bokstav b, kan gjennomføringen av straffen avbrytes.
+>
 
 ### 2024-11-29 — lov/2024-11-29-73
 
@@ -1137,6 +1265,13 @@ refid: "lov/2001-05-18-21"
 
 ## § 5
 
+### 2005-12-21 — lov/2005-12-21-131
+
+*§ 5 fjerde ledd skal lyde:*
+
+> Kongen kan gi nærmere regler om kriminalomsorgens virksomhet, organisering og gjennomføringen av fengselsstraff, forvaring, strafferettslige særreaksjoner, varetekt, samfunnsstraff og andre reaksjoner når det er særskilt bestemt i lov.
+>
+
 ### 2014-02-28 — lov/2014-02-28-3
 
 *§ 5 første og annet ledd skal lyde:*
@@ -1159,7 +1294,59 @@ refid: "lov/2001-05-18-21"
 > §§ 12, 15, 16, 20, 33, 35, 36, 40 åttende ledd og 41 til 45 i loven her gjelder ikke.
 >
 
+### 2016-04-22 — lov/2016-04-22-3
+
+*§ 52 annet punktum skal lyde:*
+
+> §§ 12, 15, 16, 20, 33, 35, 36 og 41 til 45 i loven her gjelder ikke.
+>
+> 23. I lov 15. juni 2001 nr. 65 om gjennomføring i norsk rett av Den internasjonale straffedomstols vedtekter 17. juli 1998 (Roma-vedtektene) skal § 12 første ledd lyde:
+>
+> For straffansvar for uriktig forklaring for Domstolen gjelder straffeloven § 221 tilsvarende.
+>
+
+## § 53
+
+### 2009-06-19 — lov/2009-06-19-74
+
+*§ 53 første ledd skal lyde:*
+
+> De idømte timene samfunnsstraff etter straffeloven § 49 første ledd bokstav a skal gå ut påsamfunnsnyttig tjeneste,program, ellerandre tiltak som er egnet til å motvirke ny kriminalitet.
+>
+
+## § 54
+
+### 2009-06-19 — lov/2009-06-19-74
+
+*§ 54 første ledd bokstav d skal lyde:*
+
+> overholde vilkårene som domstolen har fastsatt etter straffeloven § 50, og
+>
+
+### 2009-06-19 — lov/2009-06-19-74
+
+*§ 54 tredje ledd skal lyde:*
+
+> Den domfelte skal ikke begå en ny straffbar handling før utløpet av gjennomføringstiden.
+>
+
+## § 56
+
+### 2009-06-19 — lov/2009-06-19-74
+
+*§ 56 første ledd første punktum skal lyde:*
+
+> Hvis retten har satt vilkår etter straffeloven § 50 eller kriminalomsorgen etter § 55 eller § 58 første ledd har forbudt den domfelte å bruke berusende eller bedøvende midler, skal kriminalomsorgen undersøke om vilkåret eller forbudet blir overholdt.
+>
+
 ## § 58
+
+### 2009-06-19 — lov/2009-06-19-74
+
+*§ 58 annet ledd skal lyde:*
+
+> Hvis den domfelte etter at kriminalomsorgen har holdt innskjerpingssamtale eller fastsatt vilkår etter første ledd, på nytt bryter kravene eller vilkår fastsatt etter første ledd bokstav a til d, bør regionalt nivå bringe saken inn for retten med begjæring om at den subsidiære fengselsstraffen skal fullbyrdes helt eller delvis i medhold av straffeloven § 52 første ledd bokstav a.
+>
 
 ### 2013-06-14 — lov/2013-06-14-44
 
@@ -1175,7 +1362,27 @@ refid: "lov/2001-05-18-21"
 > Kriminalomsorgen kan anmode politiet om å avhente den domfelte etter straffeprosessloven § 461 annet ledd hvis det er nødvendig for å få iverksatt en reaksjon etter første ledd.
 >
 
+## § 59
+
+### 2009-06-19 — lov/2009-06-19-74
+
+*§ 59 skal lyde:*
+
+> Begår den domfelte en ny straffbar handling før utløpet av gjennomføringstiden, kan påtalemyndigheten bringe saken inn for retten med begjæring om at den subsidiære fengselsstraffen skal fullbyrdes helt eller delvis i medhold av straffeloven § 52 første ledd bokstav b.
+>
+> Dersom den domfelte er siktet for en straffbar handling som kan føre til fullbyrding av den subsidiære fengselsstraffen etter straffeloven § 52 første ledd bokstav b, kan gjennomføringen av straffen avbrytes. Når påtalemyndigheten beslutter å bringe saken inn for retten, avbrytes gjennomføringen av straffen fra det tidspunkt begjæringen er oversendt retten.
+>
+> 218. I lov 18. mai 2001 nr. 24 om helseregistre og behandling av helseopplysninger (helseregisterloven) gjøres følgende endring:
+>
+
 ## § 6
+
+### 2005-12-21 — lov/2005-12-21-131
+
+*§ 6 annet ledd annet punktum skal lyde:*
+
+> Når den domfelte er idømt fengselsstraff på mer enn ti år, idømt en strafferettslig særreaksjon eller forvaring eller innsatt i avdeling med særlig høyt sikkerhetsnivå etter § 10 annet ledd, treffer regionalt nivå også avgjørelse etter §§ 12 til 16, 20, 33, 35, 36 og 42 til 44.
+>
 
 ### 2011-06-24 — lov/2011-06-24-34
 

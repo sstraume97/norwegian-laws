@@ -48,6 +48,24 @@ refid: "lov/1917-12-14-16"
 
 *§ 10 oppheves.*
 
+## § 14
+
+### 2009-06-19 — lov/2009-06-19-74
+
+*§ 14 første ledd annet punktum oppheves.*
+
+> 15. I lov 27. februar 1930 nr. 3 om Bouvet-øya, Peter I's øy og Dronning Maud Land m.m. gjøres følgende endring:
+>
+
+## § 18
+
+### 2009-06-19 — lov/2009-06-19-74
+
+*§ 18 nytt femte punktum skal lyde:*
+
+> Medvirkning straffes ikke.
+>
+
 ## § 2
 
 ### 2004-06-25 — lov/2004-06-25-56
@@ -108,6 +126,22 @@ refid: "lov/1917-12-14-16"
 ### 2008-09-26 — lov/2008-09-26-78
 
 *§ 2 femte ledd oppheves.*
+
+## § 24
+
+### 2009-06-19 — lov/2009-06-19-74
+
+*§ 24 tredje ledd skal lyde:*
+
+> Hvis de omhandlede erklæringer er uriktige, kommer straffelovens § 221 til anvendelse.
+>
+
+### 2009-06-19 — lov/2009-06-19-74
+
+*§ 24 første ledd annet punktum oppheves.*
+
+> 11. I lov 17. juli 1925 nr. 11 om Svalbard gjøres følgende endring:
+>
 
 ## § 26
 
@@ -244,6 +278,17 @@ refid: "lov/1917-12-14-16"
 > Denne lovs bestemmelser om erverv av eiendomsrett til vannfall eller annen rådighet over vannfall skal gjelde ved erverv av mer enn 90 prosent av aksjene, partene eller rettigheter til aksjene eller partene i selskaper som nevnt i § 36 eller § 37 a som direkte eller indirekte innehar eiendomsrett eller annen rettighet som erververen ikke kunne erverve uten konsesjon eller vedtak etter denne lov.
 >
 
+## § 39 b
+
+### 2009-06-19 — lov/2009-06-19-74
+
+*§ 39 b første ledd nytt annet punktum skal lyde:*
+
+> Medvirkning er ikke straffbar.
+>
+> 10. I lov 14. desember 1917 nr. 17 om vasdragsreguleringer gjøres følgende endring:
+>
+
 ## § 4
 
 ### 2004-06-25 — lov/2004-06-25-56
@@ -264,6 +309,39 @@ refid: "lov/1917-12-14-16"
 > Departementet kan gi samtykke til at eksisterende bruksretter, langsiktige disposisjonsretter og leieforhold som nevnt i første ledd overdras til foretak mv. som nevnt i § 2 første ledd i forbindelse med omorganisering eller liknende.
 >
 > Bestemmelsene i §§ 5 a annet ledd første punktum, 30, 31 og 32 får tilsvarende anvendelse så langt de passer.
+>
+
+### 2009-06-19 — lov/2009-06-19-74
+
+*§ 4 annet ledd annet punktum oppheves.*
+
+> 12. Lov 25. juni 1926 nr. 4 om straff for å delta i og medvirke til smugling på andre land oppheves.
+>
+> 13. I lov 29. mai 1928 nr. 7 om tilvirkning og omsetning av alkoholholdige drikkevarer på Svalbard skal § 2 annet ledd lyde:
+>
+> Overtredelsene er straffbare, også om de er begått ved uaktsomhet. Forsøk straffes som fullbyrdet overtredelse. Medvirkning straffes ikke.
+>
+> 14. I lov 24. mai 1929 nr. 4 om tilsyn med elektriske anlegg og elektrisk utstyr gjøres følgende endring:
+>
+
+### 2009-06-19 — lov/2009-06-19-74
+
+*§ 4 annet punktum oppheves.*
+
+> 16. I lov 27. mai 1932 nr. 3 om chekker gjøres følgende endring:
+>
+
+### 2009-06-19 — lov/2009-06-19-74
+
+*§ 4 annet ledd annet punktum oppheves.*
+
+> 19. I lov 19. mai 1933 nr. 11 om særavgifter skal § 2 første ledd lyde:
+>
+> Overtredelse av forskrifter som utferdiges i henhold til denne lov, straffes også når overtredelsen er skjedd ved uaktsomhet, med bøter, for så vidt det ikke for overtredelsen er fastsatt særskilt straff i straffeloven.
+>
+> 20. I lov 29. juni 1933 nr. 2 om flagging på kommunenes offentlige bygninger skal I tredje ledd lyde:
+>
+> Overtredelse av denne lov straffes med bøter eller fengsel i inntil 3 måneder.
 >
 
 ### 2009-06-19 — lov/2009-06-19-106
@@ -321,4 +399,17 @@ refid: "lov/1917-12-14-16"
 *§ 5 a annet ledd nytt annet punktum skal lyde:*
 
 > Søknad om omgjøring av tidligere fastsatte vilkår om tidsbegrensning og hjemfall, skal innvilges så fremt konsesjonæren oppfyller vilkårene i § 2 første ledd.
+>
+
+## § 66
+
+### 2009-06-19 — lov/2009-06-19-74
+
+*§ 66 annet ledd oppheves.*
+
+> 17. Lov 17. juni 1932 nr. 2 om enkelte bestemmelser om fremmede konsulers rettsstilling oppheves.
+>
+> 18. I lov 17. juni 1932 nr. 6 om kvalitetskontroll med landbruksvarer m.v. skal § 4 annet ledd lyde:
+>
+> Den som bruker en beskyttet betegnelse i strid med forskrifter gitt i medhold av § 2 a straffes med bøter eller fengsel i inntil 3 måneder.
 >
