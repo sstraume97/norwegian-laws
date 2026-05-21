@@ -22,18 +22,25 @@ jobs:
           pip install build
           python -m build
 
-      - name: Create or update GitHub Release
-        uses: softprops/action-gh-release@v2
-        with:
-          # Don't generate notes if a release already exists at this tag —
-          # preserve the manually-authored ones. Without this, the action's
-          # 'finalize' step would error 'already_exists' on the tag_name
-          # (observed on v0.3.0 push 2026-05-20T00:22Z; release was created
-          # manually via API a few minutes before the tag push, so the
-          # workflow's auto-create-and-finalize flow collided with the
-          # existing release).
-          generate_release_notes: false
-          files: dist/*
-          # Upload assets to whatever release already exists at the tag
-          # rather than failing if the release was pre-created.
-          fail_on_unmatched_files: false
+      # softprops/action-gh-release@v2 was used previously but it ALWAYS
+      # tries to PATCH (finalize) the release after uploading assets, even
+      # when --generate_release_notes is false. That PATCH errors with
+      # 'already_exists: tag_name' when the release was created manually
+      # via API just before the tag push, which is the v0.3.x workflow.
+      # See v0.3.0 / v0.4.0 release attempts for the failure mode.
+      #
+      # gh CLI handles both cases cleanly: `gh release upload --clobber`
+      # targets the existing release without touching the tag/body, and
+      # `gh release create` is only used when no release exists yet.
+      - name: Upload assets to GitHub Release
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          TAG=${GITHUB_REF#refs/tags/}
+          if gh release view "$TAG" >/dev/null 2>&1; then
+            echo "Release $TAG exists, uploading assets..."
+            gh release upload "$TAG" dist/* --clobber
+          else
+            echo "Release $TAG does not exist, creating with auto notes..."
+            gh release create "$TAG" dist/* --generate-notes --title "$TAG"
+          fi
