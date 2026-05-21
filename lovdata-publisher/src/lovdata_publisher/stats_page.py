@@ -222,11 +222,18 @@ def generate_stats_page(
     top_forskrifter = [(r["target_law"], r["n"]) for r in rows if r["target_law"].startswith("forskrift/")][:top_n]
 
     # Year breakdown
+    # IMPORTANT: count only acts that actually amend an existing law/forskrift —
+    # the amendment_acts table is misleadingly named; it contains every Lovtidend
+    # publication including new standalone forskrifter, delegations, repeals,
+    # and decisions (~17,478 of 38,672 don't amend anything). Filtering by
+    # presence in the amendments table gives the correct count of true
+    # endringslover.
     year_rows = conn.execute(
         """
-        SELECT substr(date_published, 1, 4) AS y, COUNT(*) AS n
+        SELECT substr(date_published, 1, 4) AS y, COUNT(DISTINCT refid) AS n
         FROM amendment_acts
         WHERE date_published IS NOT NULL AND date_published != ''
+          AND refid IN (SELECT DISTINCT act_refid FROM amendments)
         GROUP BY y ORDER BY y DESC
         LIMIT 26
         """
@@ -234,12 +241,13 @@ def generate_stats_page(
     year_data = [(r["y"], r["n"]) for r in year_rows]
     max_year_count = max((c for _, c in year_data), default=1)
 
-    # Ministry breakdown
+    # Ministry breakdown — same filtering: count only acts that actually amend.
     ministry_rows = conn.execute(
         """
-        SELECT ministry, COUNT(*) AS n
+        SELECT ministry, COUNT(DISTINCT refid) AS n
         FROM amendment_acts
         WHERE ministry IS NOT NULL AND ministry != ''
+          AND refid IN (SELECT DISTINCT act_refid FROM amendments)
         GROUP BY ministry
         ORDER BY n DESC
         LIMIT 20

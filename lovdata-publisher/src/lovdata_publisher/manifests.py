@@ -182,11 +182,16 @@ def generate_manifests(db_path: str, output_dir: str) -> tuple[int, int]:
 _ACTS_SCHEMA = {
     "$schema": "https://json-schema.org/draft/2020-12/schema",
     "$id": "https://sondreskarsten.github.io/norwegian-laws/schemas/amendment-acts.schema.json",
-    "title": "Amendment act (one row per amending act)",
+    "title": "Lovtidend act (one row per published act)",
     "description": (
-        "One amending act of Norwegian law or regulation. Each row matches one "
-        "entry in feed.xml. Sourced from amendment_acts in the snapshot SQLite "
-        "database, originally parsed from Lovdata XML."
+        "One published act from Norsk Lovtidend. Despite the file name, this "
+        "table contains ALL Lovtidend publications, not just amendments — "
+        "about 55% are actual endringslover that amend existing laws; the "
+        "remaining ~45% are new standalone forskrifter, repeals, delegations, "
+        "decisions, etc. To filter for acts that actually amend something, "
+        "join on amendments.act_refid (see amendments.schema.json). Sourced "
+        "from amendment_acts in the snapshot SQLite database, originally "
+        "parsed from Lovdata XML."
     ),
     "type": "object",
     "required": ["refid", "title", "date_published"],

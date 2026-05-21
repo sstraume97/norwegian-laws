@@ -85,6 +85,11 @@ def parse_effective_date(date_str: str, fallback_published: str) -> tuple[str, b
     """Parse an effective date, falling back to publication date if deferred.
 
     Returns (resolved_date, is_deferred).
+
+    Years > 2050 are treated as parse errors. Source data has known typos —
+    e.g. forskrift/2016-12-21-1854 has '2107-01-01' as its in-force date
+    (likely meant 2017). Without the guard, these propagate to the JSONL
+    manifest and break downstream sorting / time-series analysis.
     """
     if any(p in date_str for p in DEFERRED_PATTERNS):
         pub = parse_publication_date(fallback_published)
@@ -94,11 +99,20 @@ def parse_effective_date(date_str: str, fallback_published: str) -> tuple[str, b
     for fmt in ["%Y-%m-%d", "%d.%m.%Y"]:
         try:
             dt = datetime.strptime(date_str, fmt)
+            if dt.year > 2050:
+                # Clearly a typo (e.g. 2107 for 2017). Fall back to published.
+                pub = parse_publication_date(fallback_published)
+                return pub, True
             return dt.strftime("%Y-%m-%d"), False
         except ValueError:
             continue
 
     if re.match(r"^\d{4}-\d{2}-\d{2}", date_str):
+        # Extra-loose match; check year sanity here too.
+        year = int(date_str[:4])
+        if year > 2050:
+            pub = parse_publication_date(fallback_published)
+            return pub, True
         return date_str[:10], False
 
     pub = parse_publication_date(fallback_published)

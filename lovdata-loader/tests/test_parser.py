@@ -115,3 +115,25 @@ class TestLawDataSerialization:
         assert restored.refid == law.refid
         assert restored.title == law.title
         assert restored.ministry == law.ministry
+
+
+def test_parse_effective_date_year_typo_falls_back_to_published():
+    """Source data has known typos like '2107-01-01' (intended 2017).
+    Without sanity, these propagate to JSONL and break time-series. Real
+    case caught by data review 2026-05-20: forskrift/2016-12-21-1854 had
+    in_force='2107-01-01' which made it dominate /aktivitet.html's
+    year-range max.
+    """
+    # Typo: 2107 instead of 2017
+    date, deferred = parse_effective_date("2107-01-01", "2016-12-30")
+    assert date == "2016-12-30"
+    assert deferred is True
+
+    # Realistic far-future date (deferred to next century) — also rejected
+    date, _ = parse_effective_date("2099-01-01", "2024-01-01")
+    assert date == "2024-01-01"
+
+    # Just-OK boundary (year 2050)
+    date, deferred = parse_effective_date("2050-01-01", "2024-01-01")
+    assert date == "2050-01-01"
+    assert deferred is False
