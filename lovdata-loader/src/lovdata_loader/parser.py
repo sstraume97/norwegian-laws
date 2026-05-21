@@ -386,8 +386,11 @@ _MONTHS = {
 
 
 def _extract_law_refid_from_preamble(text: str) -> str:
+    # Matches e.g. 'lov 17. juni 2005 nr. 90', 'forskrift 21. desember 1979
+    # nr. 77' and also capitalized variants at start of a sentence
+    # ('Lov 20. mai 2005 nr. 28 om straff endres slik').
     m = re.search(
-        r"(lov|forskrift)\s+(?:av\s+)?(\d+)\.\s*(\w+)\s+(\d{4})\s+nr\.\s*(\d+)", text
+        r"(lov|forskrift|Lov|Forskrift)\s+(?:av\s+)?(\d+)\.\s*(\w+)\s+(\d{4})\s+nr\.\s*(\d+)", text
     )
     if not m:
         return ""
@@ -395,7 +398,45 @@ def _extract_law_refid_from_preamble(text: str) -> str:
     month = _MONTHS.get(month_name.lower(), "")
     if not month:
         return ""
-    return f"{kind}/{year}-{month}-{day.zfill(2)}-{nr}"
+    return f"{kind.lower()}/{year}-{month}-{day.zfill(2)}-{nr}"
+
+
+def _is_law_preamble(text: str) -> bool:
+    """A 'law preamble' paragraph announces which law the following amendment
+    instructions apply to, e.g. 'I lov 17. juni 2005 nr. 90 om mekling og
+    rettergang i sivile tvister (tvisteloven) gjøres følgende endringer:'.
+
+    In flat-format multi-law endringslover (no <section> wrappers), these
+    preambles also appear in numbered list form, e.g. '1. I lov 20. juli 1893
+    nr. 2 om Stranding og Vrag gjøres følgende endringer:'. Both forms must
+    be recognised so the parser can re-anchor target_law mid-stream as it
+    walks through the children of a flat body.
+
+    Several phrasings are used in the corpus, with 'gjøres følgende
+    endringer' being most common but not universal:
+      - 'I lov ... gjøres følgende endringer:' (most common)
+      - 'Lov ... endres slik:' (e.g. lov/2009-06-19-74)
+      - 'I lov ... gjøres disse endringene:' (less common)
+      - 'Lova vert oppheva' (repeal)
+    Heuristic: contains one of these phrases AND an extractable refid.
+    The phrase check is necessary to distinguish from incidental references
+    to other laws inside amendment instructions (e.g. '§ 14 skal vise til
+    lov 17. juli 1925 nr. 11 om Svalbard').
+    """
+    if not text:
+        return False
+    phrases = (
+        "gjøres følgende endringer",
+        "gjøres disse endringene",
+        "gjeres følgjande endringar",
+        "vert gjort følgjande endringar",
+        "endres slik",
+        "endrast slik",
+        "Lova vert oppheva",
+    )
+    if not any(p in text for p in phrases):
+        return False
+    return bool(_extract_law_refid_from_preamble(text))
 
 
 def _parse_old_format_section(section: Tag, target_law: str = "") -> list[Amendment]:
@@ -416,6 +457,16 @@ def _parse_old_format_section(section: Tag, target_law: str = "") -> list[Amendm
     current_type = "unknown"
     text_parts = []
 
+    def flush() -> None:
+        if current_instruction is not None:
+            amendments.append(Amendment(
+                change_type=current_type,
+                target=current_target,
+                instruction=current_instruction,
+                new_text="\n".join(text_parts),
+                target_law=target_law,
+            ))
+
     for child in children:
         classes = child.get("class", [])
         text = child.get_text(strip=True)
@@ -423,17 +474,28 @@ def _parse_old_format_section(section: Tag, target_law: str = "") -> list[Amendm
         if child.name in ("h1", "h2", "h3", "h4", "h5", "h6"):
             continue
 
+        # A law-preamble paragraph mid-stream re-anchors target_law for all
+        # subsequent amendments. The current amendment (if any) is flushed
+        # against the OLD target_law before switching. Preambles may use
+        # `defaultP` (numbered list items, e.g. '3. I lov ... gjøres ...') or
+        # `legalP` (the act's first/anchor preamble, e.g. 'I lov ... gjøres
+        # følgende endringer:' at the very top of the body, before the
+        # numbered law list begins).
+        if any(c in classes for c in ("defaultP", "legalP")) and _is_law_preamble(text):
+            new_law = _extract_law_refid_from_preamble(text)
+            if new_law:
+                flush()
+                current_instruction = None
+                current_target = ""
+                current_type = "unknown"
+                text_parts = []
+                target_law = new_law
+                continue
+
         is_instr = "defaultP" in classes and _is_old_instruction(text)
 
         if is_instr:
-            if current_instruction is not None:
-                amendments.append(Amendment(
-                    change_type=current_type,
-                    target=current_target,
-                    instruction=current_instruction,
-                    new_text="\n".join(text_parts),
-                    target_law=target_law,
-                ))
+            flush()
 
             current_target = _extract_target(text)
             current_type = _classify_old_instruction(text)
@@ -472,26 +534,33 @@ def _parse_old_format_section(section: Tag, target_law: str = "") -> list[Amendm
             elif "defaultP" in classes and text:
                 text_parts.append(text)
 
-    if current_instruction is not None:
-        amendments.append(Amendment(
-            change_type=current_type,
-            target=current_target,
-            instruction=current_instruction,
-            new_text="\n".join(text_parts),
-            target_law=target_law,
-        ))
+    flush()
 
     return amendments
 
 
-def _parse_old_format_amendments(body: Tag) -> list[Amendment]:
+def _parse_old_format_amendments(
+    body: Tag, header_fallback_law: str = ""
+) -> list[Amendment]:
+    """Parse amendments from an act body. `header_fallback_law` is used as
+    the initial target_law when no preamble is found in the section — set
+    only when the act's <changesToDocuments> contains exactly one refid,
+    so we can confidently anchor amendments to it. Caught by data review
+    2026-05-20: single-law endringslover like lov/2008-12-12-99 have their
+    target only in the act title, not repeated as a preamble in each
+    <section> body.
+    """
     amendments = []
     sections = body.find_all("section", recursive=False)
     if sections:
         for section in sections:
-            amendments.extend(_parse_old_format_section(section))
+            amendments.extend(
+                _parse_old_format_section(section, target_law=header_fallback_law)
+            )
     else:
-        amendments.extend(_parse_old_format_section(body))
+        amendments.extend(
+            _parse_old_format_section(body, target_law=header_fallback_law)
+        )
     return amendments
 
 
@@ -566,7 +635,15 @@ def parse_lovtidend_file(content: bytes, filename: str) -> AmendmentActData | No
     if not amendments:
         body = soup.find("main", class_="documentBody") or soup.find("body")
         if body:
-            amendments = _parse_old_format_amendments(body)
+            # If the act amends exactly one law/forskrift, use that as the
+            # fallback target_law when no in-body preamble is found.
+            # Multi-law endringslover always have explicit preambles per
+            # section, so the fallback would only confuse them.
+            changes_to = extract_header_list(header, "changesToDocuments")
+            header_fallback_law = (
+                changes_to[0] if len(changes_to) == 1 else ""
+            )
+            amendments = _parse_old_format_amendments(body, header_fallback_law)
 
     return AmendmentActData(
         refid=refid,
