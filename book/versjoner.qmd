@@ -22,7 +22,7 @@ slik de var ved utgangen av det året, basert på [`law-history`-grenen](https:/
 | `v2013` | [v2013](https://github.com/sondreskarsten/norwegian-laws/tree/v2013/lover) | [v2012...v2013](https://github.com/sondreskarsten/norwegian-laws/compare/v2012...v2013) | 1437 vedtak |
 | `v2014` | [v2014](https://github.com/sondreskarsten/norwegian-laws/tree/v2014/lover) | [v2013...v2014](https://github.com/sondreskarsten/norwegian-laws/compare/v2013...v2014) | 1423 vedtak |
 | `v2015` | [v2015](https://github.com/sondreskarsten/norwegian-laws/tree/v2015/lover) | [v2014...v2015](https://github.com/sondreskarsten/norwegian-laws/compare/v2014...v2015) | 1478 vedtak |
-| `v2016` | [v2016](https://github.com/sondreskarsten/norwegian-laws/tree/v2016/lover) | [v2015...v2016](https://github.com/sondreskarsten/norwegian-laws/compare/v2015...v2016) | 1544 vedtak |
+| `v2016` | [v2016](https://github.com/sondreskarsten/norwegian-laws/tree/v2016/lover) | [v2015...v2016](https://github.com/sondreskarsten/norwegian-laws/compare/v2015...v2016) | 1545 vedtak |
 | `v2017` | [v2017](https://github.com/sondreskarsten/norwegian-laws/tree/v2017/lover) | [v2016...v2017](https://github.com/sondreskarsten/norwegian-laws/compare/v2016...v2017) | 1597 vedtak |
 | `v2018` | [v2018](https://github.com/sondreskarsten/norwegian-laws/tree/v2018/lover) | [v2017...v2018](https://github.com/sondreskarsten/norwegian-laws/compare/v2017...v2018) | 1438 vedtak |
 | `v2019` | [v2019](https://github.com/sondreskarsten/norwegian-laws/tree/v2019/lover) | [v2018...v2019](https://github.com/sondreskarsten/norwegian-laws/compare/v2018...v2019) | 1352 vedtak |
@@ -32,7 +32,7 @@ slik de var ved utgangen av det året, basert på [`law-history`-grenen](https:/
 | `v2023` | [v2023](https://github.com/sondreskarsten/norwegian-laws/tree/v2023/lover) | [v2022...v2023](https://github.com/sondreskarsten/norwegian-laws/compare/v2022...v2023) | 1629 vedtak |
 | `v2024` | [v2024](https://github.com/sondreskarsten/norwegian-laws/tree/v2024/lover) | [v2023...v2024](https://github.com/sondreskarsten/norwegian-laws/compare/v2023...v2024) | 1584 vedtak |
 | `v2025` | [v2025](https://github.com/sondreskarsten/norwegian-laws/tree/v2025/lover) | [v2024...v2025](https://github.com/sondreskarsten/norwegian-laws/compare/v2024...v2025) | 1716 vedtak |
-| `v2026` | [v2026](https://github.com/sondreskarsten/norwegian-laws/tree/v2026/lover) | [v2025...v2026](https://github.com/sondreskarsten/norwegian-laws/compare/v2025...v2026) | 860 vedtak |
+| `v2026` | [v2026](https://github.com/sondreskarsten/norwegian-laws/tree/v2026/lover) | [v2025...v2026](https://github.com/sondreskarsten/norwegian-laws/compare/v2025...v2026) | 866 vedtak |
 
 ## Verktøy
 
