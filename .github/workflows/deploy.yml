@@ -1,9 +1,8 @@
 name: Update laws and deploy book
 
 on:
-  schedule:
-    - cron: '0 6 * * 1'
-  workflow_dispatch:
+  repository_dispatch:
+    types: [lovdata-updated]
   push:
     branches: [main]
     paths:
@@ -61,6 +60,13 @@ jobs:
       - name: Update 'Recent amendments' section in README
         run: python -m lovdata_publisher.readme_updater README.md snapshot/amendments.db
 
+      - name: Refresh Lovdata manifest state file
+        run: |
+          mkdir -p .github/state
+          curl -sf https://api.lovdata.no/v1/publicData/list \
+            | jq -S 'sort_by(.filename) | map({filename, lastModified, sizeBytes})' \
+            > .github/state/lovdata-manifest.json
+
       - name: Commit law updates
         id: commit
         run: |
@@ -69,7 +75,7 @@ jobs:
           # Feeds and feed.xml are NOT committed — they're build artifacts
           # regenerated every run from snapshot/amendments.db. They go straight
           # into deploy-book via the snapshot artifact.
-          git add lover/ forskrifter/ book/ _quarto.yml index.qmd laws.json README.md
+          git add lover/ forskrifter/ book/ _quarto.yml index.qmd laws.json README.md .github/state/
           git rm -r --cached historie/ 2>/dev/null || true
           git rm --cached feed.xml 2>/dev/null || true
           git add historie/
