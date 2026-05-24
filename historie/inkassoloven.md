@@ -81,6 +81,13 @@ refid: "lov/1988-05-13-26"
 > Kongen kan gi forskrift om høyere beløp som en fordringshaver kan kreve av en erstatningsansvarlig skyldner som erstatning for kostnader ved å drive inn kravet selv, når en advokat som har stilt sikkerhet etter advokatloven § 5, har den faglige ledelse av inndrivingen.
 >
 
+### 2026-05-22 — lov/2026-05-22-19
+
+**
+
+> Fra samme tid oppheves lov 13. mai 1988 nr. 26 om inkassovirksomhet og annen inndriving av forfalte pengekrav.
+>
+
 ## § 10
 
 ### 2001-12-21 — lov/2001-12-21-117

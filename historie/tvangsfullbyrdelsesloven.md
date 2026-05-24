@@ -337,6 +337,13 @@ refid: "lov/1992-06-26-86"
 > Videre kan en jurist være prosessfullmektig under tvangsfullbyrdelse.
 >
 
+### 2026-05-22 — lov/2026-05-22-19
+
+*§ 5-1 andre ledd andre punktum skal lyde:*
+
+> Dessuten kan den som er godkjent prosessfullmektig i et fremmedinkassoforetak etter inkassoloven § 11, være prosessfullmektig etter samme regler som advokater under tvangsfullbyrdelse i inkassooppdrag som inkassoforetaket har for parten.
+>
+
 ## § 5-2
 
 ### 2025-04-25 — lov/2025-04-25-12
@@ -528,6 +535,13 @@ refid: "lov/1992-06-26-86"
 *§ 6-2 andre punktum skal lyde:*
 
 > Videre kan en jurist være prosessfullmektig under tvangsfullbyrdelse.
+>
+
+### 2026-05-22 — lov/2026-05-22-19
+
+*§ 6-2 første punktum skal lyde:*
+
+> Den som er godkjent prosessfullmektig i et fremmedinkassoforetak etter inkassoloven § 11, kan være prosessfullmektig etter samme regler som advokater under tvangsfullbyrdelse i inkassooppdrag som inkassoforetaket har for parten.
 >
 
 ## § 6-3

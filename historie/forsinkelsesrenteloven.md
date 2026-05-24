@@ -5,6 +5,15 @@ refid: "lov/1976-12-17-100"
 
 # Endringshistorikk: Forsinkelsesrenteloven – rentel
 
+## (annet)
+
+### 2026-05-22 — lov/2026-05-22-19
+
+*1.I lov 17. desember 1976 nr. 100 om renter ved forsinket betaling m.m. skal § 4 bokstav b lyde:*
+
+> Fordringshaveren kan i tillegg til forsinkelsesrenten ikke kreve andre gebyrer eller gjennomsnittsberegnede tapsposter enn erstatningsbeløpene som kan kreves etter inkassoloven § 18 eller forskrift gitt med hjemmel i inkassoloven § 19.
+>
+
 ## § 2
 
 ### 2004-01-01 — lov/2003-12-12-111

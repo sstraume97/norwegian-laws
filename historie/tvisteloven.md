@@ -237,6 +237,13 @@ refid: "lov/2005-06-17-90"
 > (4) Når en sak skal behandles i forliksrådet etter tvangsfullbyrdelsesloven § 7-7, regnes utleggsbegjæringen som forliksklage.
 >
 
+### 2026-05-22 — lov/2026-05-22-19
+
+*§ 6-3 tredje ledd andre punktum skal lyde:*
+
+> Hvis klageren krever erstatning for kostnader ved utenrettslig inndriving, skal betalingsoppfordringen etter inkassoloven § 21 vedlegges.
+>
+
 ## § 6-4
 
 ### 2007-02-27 — lov/2007-01-26-3
@@ -289,6 +296,13 @@ refid: "lov/2005-06-17-90"
 > ansatt eller annen person med tilknytning til næringsvirksomhet saken gjelder,
 >
 > en skikket myndig person etter tillatelse fra forliksrådet i den enkelte sak.
+>
+
+### 2026-05-22 — lov/2026-05-22-19
+
+*§ 6-7 første ledd bokstav c skal lyde:*
+
+> den som er godkjent prosessfullmektig i et fremmedinkassoforetak etter inkassoloven § 11 med inkassooppdrag for saken,
 >
 
 ## § 6-10

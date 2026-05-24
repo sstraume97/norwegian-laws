@@ -36,6 +36,13 @@ refid: "lov/1984-06-08-58"
 
 *Nåværende §§ 161 og 162 blir §§ 176 og 177 i fjerde del.*
 
+### 2026-05-22 — lov/2026-05-22-19
+
+*2.I lov 8. juni 1984 nr. 58 om gjeldsforhandling og konkurs skal § 149 andre ledd andre punktum lyde:*
+
+> Dessuten kan den som er godkjent prosessfullmektig i et fremmedinkassoforetak etter inkassoloven § 11, være prosessfullmektig etter samme regler som advokater for en fordringshaver i inkassooppdrag som inkassoforetaket har for fordringshaveren.
+>
+
 ## § 1
 
 ### 2003-01-01 — forskrift/2002-10-11-1094
