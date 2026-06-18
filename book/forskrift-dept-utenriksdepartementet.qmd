@@ -1,6 +1,6 @@
 # Utenriksdepartementet
 
-*65 forskrifter*
+*66 forskrifter*
 
 | Forskrift | Lovdata | Historikk |
 |-----------|---------|-----------|
@@ -62,6 +62,7 @@
 | [Forskrift om sanksjoner og tiltak mot Iran](../forskrifter/forskrift-2007-02-09-149.html) | [lovdata.no](https://lovdata.no/dokument/SF/forskrift/2007-02-09-149) | [log](https://github.com/sondreskarsten/norwegian-laws/commits/law-history/forskrifter/forskrift-2007-02-09-149.md) |
 | [Forskrift om utenlandsk vitenskapelig havforskning i Norges indre farvann, sjøte](../forskrifter/forskrift-2001-03-30-360.html) | [lovdata.no](https://lovdata.no/dokument/SF/forskrift/2001-03-30-360) | [log](https://github.com/sondreskarsten/norwegian-laws/commits/law-history/forskrifter/forskrift-2001-03-30-360.md) |
 | [Forskrift om vigsel ved utsendt utenrikstjenesteansatt](../forskrifter/forskrift-2025-04-11-731.html) | [lovdata.no](https://lovdata.no/dokument/SF/forskrift/2025-04-11-731) | [log](https://github.com/sondreskarsten/norwegian-laws/commits/law-history/forskrifter/forskrift-2025-04-11-731.md) |
+| [Forskrift om økt tollavgift på landbruksvarer og kunstgjødsel fra Russland og Be](../forskrifter/forskrift-2026-06-12-1055.html) | [lovdata.no](https://lovdata.no/dokument/SF/forskrift/2026-06-12-1055) | [log](https://github.com/sondreskarsten/norwegian-laws/commits/law-history/forskrifter/forskrift-2026-06-12-1055.md) |
 | [Forskrift til gjennomføring av den alminnelige utførselsregulering.](../forskrifter/forskrift-1989-01-10-52.html) | [lovdata.no](https://lovdata.no/dokument/SF/forskrift/1989-01-10-52) | [log](https://github.com/sondreskarsten/norwegian-laws/commits/law-history/forskrifter/forskrift-1989-01-10-52.md) |
 | [Res. angående flagg for Kronprinsen og Kronprinsessen](../forskrifter/forskrift-1924-09-26-4.html) | [lovdata.no](https://lovdata.no/dokument/SF/forskrift/1924-09-26-4) | [log](https://github.com/sondreskarsten/norwegian-laws/commits/law-history/forskrifter/forskrift-1924-09-26-4.md) |
 | [Res. om Kongeflaget m.v.](../forskrifter/forskrift-1905-11-15-2.html) | [lovdata.no](https://lovdata.no/dokument/SF/forskrift/1905-11-15-2) | [log](https://github.com/sondreskarsten/norwegian-laws/commits/law-history/forskrifter/forskrift-1905-11-15-2.md) |

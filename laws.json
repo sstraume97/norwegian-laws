@@ -2146,7 +2146,7 @@
    "v2025",
    "v2026"
   ],
-  "amendments": 31
+  "amendments": 32
  },
  {
   "file": "lov-1950-07-14-10.md",
@@ -2494,7 +2494,7 @@
    "v2025",
    "v2026"
   ],
-  "amendments": 23
+  "amendments": 24
  },
  {
   "file": "lov-1953-06-26-8.md",
@@ -3306,7 +3306,7 @@
    "v2025",
    "v2026"
   ],
-  "amendments": 24
+  "amendments": 26
  },
  {
   "file": "lov-1963-06-21-12.md",
@@ -4690,7 +4690,7 @@
   "kind": "lov",
   "path": "lover/lov-1975-06-13-39.md",
   "ikrafttredelse": "1975-08-01",
-  "sist_endret": "lov/2012-01-20-4",
+  "sist_endret": "lov/2026-06-12-30",
   "github": "https://github.com/sondreskarsten/norwegian-laws/blob/main/lover/lov-1975-06-13-39.md",
   "lovdata": "https://lovdata.no/dokument/NL/lov/1975-06-13-39",
   "log": "https://github.com/sondreskarsten/norwegian-laws/commits/law-history/lover/lov-1975-06-13-39.md",
@@ -4704,7 +4704,7 @@
    "v2025",
    "v2026"
   ],
-  "amendments": 5
+  "amendments": 6
  },
  {
   "file": "lov-1975-12-12-59.md",
@@ -5316,7 +5316,7 @@
    "v2025",
    "v2026"
   ],
-  "amendments": 96
+  "amendments": 97
  },
  {
   "file": "lov-1981-05-29-38.md",
@@ -6330,7 +6330,7 @@
   "kind": "lov",
   "path": "lover/lov-1989-06-02-27.md",
   "ikrafttredelse": "1990-01-01",
-  "sist_endret": "lov/2025-04-25-12",
+  "sist_endret": "lov/2026-05-29-21",
   "github": "https://github.com/sondreskarsten/norwegian-laws/blob/main/lover/lov-1989-06-02-27.md",
   "lovdata": "https://lovdata.no/dokument/NL/lov/1989-06-02-27",
   "log": "https://github.com/sondreskarsten/norwegian-laws/commits/law-history/lover/lov-1989-06-02-27.md",
@@ -6344,7 +6344,7 @@
    "v2025",
    "v2026"
   ],
-  "amendments": 22
+  "amendments": 23
  },
  {
   "file": "lov-1989-06-09-32.md",
@@ -8242,7 +8242,7 @@
    "v2025",
    "v2026"
   ],
-  "amendments": 203
+  "amendments": 205
  },
  {
   "file": "lov-1997-05-09-26.md",
@@ -8866,7 +8866,7 @@
    "v2025",
    "v2026"
   ],
-  "amendments": 4
+  "amendments": 5
  },
  {
   "file": "lov-1999-05-21-30.md",
@@ -8997,7 +8997,7 @@
   "kind": "lov",
   "path": "lover/lov-1999-07-02-61.md",
   "ikrafttredelse": "2001-01-01, 2001-07-01",
-  "sist_endret": "lov/2025-06-20-96",
+  "sist_endret": "lov/2025-06-20-67",
   "github": "https://github.com/sondreskarsten/norwegian-laws/blob/main/lover/lov-1999-07-02-61.md",
   "lovdata": "https://lovdata.no/dokument/NL/lov/1999-07-02-61",
   "log": "https://github.com/sondreskarsten/norwegian-laws/commits/law-history/lover/lov-1999-07-02-61.md",
@@ -9011,7 +9011,7 @@
    "v2025",
    "v2026"
   ],
-  "amendments": 35
+  "amendments": 36
  },
  {
   "file": "lov-1999-07-02-62.md",
@@ -9026,7 +9026,7 @@
   "kind": "lov",
   "path": "lover/lov-1999-07-02-62.md",
   "ikrafttredelse": "2001-01-01, 2001-07-01, 2002-01-01",
-  "sist_endret": "lov/2022-12-20-115",
+  "sist_endret": "lov/2025-06-20-67",
   "github": "https://github.com/sondreskarsten/norwegian-laws/blob/main/lover/lov-1999-07-02-62.md",
   "lovdata": "https://lovdata.no/dokument/NL/lov/1999-07-02-62",
   "log": "https://github.com/sondreskarsten/norwegian-laws/commits/law-history/lover/lov-1999-07-02-62.md",
@@ -9055,7 +9055,7 @@
   "kind": "lov",
   "path": "lover/lov-1999-07-02-63.md",
   "ikrafttredelse": "2001-01-01, 2001-07-01",
-  "sist_endret": "lov/2025-06-20-39",
+  "sist_endret": "lov/2025-06-20-67",
   "github": "https://github.com/sondreskarsten/norwegian-laws/blob/main/lover/lov-1999-07-02-63.md",
   "lovdata": "https://lovdata.no/dokument/NL/lov/1999-07-02-63",
   "log": "https://github.com/sondreskarsten/norwegian-laws/commits/law-history/lover/lov-1999-07-02-63.md",
@@ -9069,7 +9069,7 @@
    "v2025",
    "v2026"
   ],
-  "amendments": 49
+  "amendments": 50
  },
  {
   "file": "lov-1999-07-02-64.md",
@@ -9084,7 +9084,7 @@
   "kind": "lov",
   "path": "lover/lov-1999-07-02-64.md",
   "ikrafttredelse": "2001-01-01, 2000-04-14",
-  "sist_endret": "lov/2025-12-22-126",
+  "sist_endret": "lov/2025-06-20-71",
   "github": "https://github.com/sondreskarsten/norwegian-laws/blob/main/lover/lov-1999-07-02-64.md",
   "lovdata": "https://lovdata.no/dokument/NL/lov/1999-07-02-64",
   "log": "https://github.com/sondreskarsten/norwegian-laws/commits/law-history/lover/lov-1999-07-02-64.md",
@@ -9113,7 +9113,7 @@
   "kind": "lov",
   "path": "lover/lov-1999-07-16-66.md",
   "ikrafttredelse": "2001-01-01",
-  "sist_endret": "lov/2024-06-21-47",
+  "sist_endret": "lov/2026-06-12-31",
   "github": "https://github.com/sondreskarsten/norwegian-laws/blob/main/lover/lov-1999-07-16-66.md",
   "lovdata": "https://lovdata.no/dokument/NL/lov/1999-07-16-66",
   "log": "https://github.com/sondreskarsten/norwegian-laws/commits/law-history/lover/lov-1999-07-16-66.md",
@@ -9127,7 +9127,7 @@
    "v2025",
    "v2026"
   ],
-  "amendments": 6
+  "amendments": 7
  },
  {
   "file": "lov-1999-07-16-68.md",
@@ -10058,7 +10058,7 @@
    "v2025",
    "v2026"
   ],
-  "amendments": 23
+  "amendments": 24
  },
  {
   "file": "lov-2002-06-28-61.md",
@@ -10160,7 +10160,7 @@
   "kind": "lov",
   "path": "lover/lov-2003-02-21-12.md",
   "ikrafttredelse": "2003-07-01",
-  "sist_endret": "lov/2022-06-10-37",
+  "sist_endret": "lov/2025-06-20-67",
   "github": "https://github.com/sondreskarsten/norwegian-laws/blob/main/lover/lov-2003-02-21-12.md",
   "lovdata": "https://lovdata.no/dokument/NL/lov/2003-02-21-12",
   "log": "https://github.com/sondreskarsten/norwegian-laws/commits/law-history/lover/lov-2003-02-21-12.md",
@@ -10392,7 +10392,7 @@
   "kind": "lov",
   "path": "lover/lov-2003-06-27-64.md",
   "ikrafttredelse": "2004-01-01",
-  "sist_endret": "lov/2021-06-18-122",
+  "sist_endret": "lov/2025-06-20-67",
   "github": "https://github.com/sondreskarsten/norwegian-laws/blob/main/lover/lov-2003-06-27-64.md",
   "lovdata": "https://lovdata.no/dokument/NL/lov/2003-06-27-64",
   "log": "https://github.com/sondreskarsten/norwegian-laws/commits/law-history/lover/lov-2003-06-27-64.md",
@@ -11331,7 +11331,7 @@
    "v2025",
    "v2026"
   ],
-  "amendments": 50
+  "amendments": 51
  },
  {
   "file": "lov-2005-05-27-31.md",
@@ -11586,7 +11586,7 @@
    "v2025",
    "v2026"
   ],
-  "amendments": 23
+  "amendments": 24
  },
  {
   "file": "lov-2005-06-17-67.md",
@@ -11900,7 +11900,7 @@
    "v2025",
    "v2026"
   ],
-  "amendments": 8
+  "amendments": 9
  },
  {
   "file": "lov-2006-06-16-20.md",
@@ -12391,7 +12391,7 @@
   "kind": "lov",
   "path": "lover/lov-2008-05-15-35.md",
   "ikrafttredelse": "2010-01-01",
-  "sist_endret": "lov/2025-06-20-96",
+  "sist_endret": "lov/2026-06-12-31",
   "github": "https://github.com/sondreskarsten/norwegian-laws/blob/main/lover/lov-2008-05-15-35.md",
   "lovdata": "https://lovdata.no/dokument/NL/lov/2008-05-15-35",
   "log": "https://github.com/sondreskarsten/norwegian-laws/commits/law-history/lover/lov-2008-05-15-35.md",
@@ -12404,7 +12404,7 @@
    "v2025",
    "v2026"
   ],
-  "amendments": 73
+  "amendments": 76
  },
  {
   "file": "lov-2008-06-06-37.md",
@@ -12519,7 +12519,7 @@
    "v2025",
    "v2026"
   ],
-  "amendments": 27
+  "amendments": 28
  },
  {
   "file": "lov-2008-10-17-79.md",
@@ -13455,7 +13455,7 @@
    "v2025",
    "v2026"
   ],
-  "amendments": 25
+  "amendments": 26
  },
  {
   "file": "lov-2011-06-24-39.md",
@@ -14184,7 +14184,7 @@
    "v2025",
    "v2026"
   ],
-  "amendments": 4
+  "amendments": 5
  },
  {
   "file": "lov-2013-12-13-110.md",
@@ -14388,7 +14388,7 @@
   "kind": "lov",
   "path": "lover/lov-2014-06-20-42.md",
   "ikrafttredelse": "2015-01-01",
-  "sist_endret": "lov/2025-12-22-126",
+  "sist_endret": "lov/2025-06-20-67",
   "github": "https://github.com/sondreskarsten/norwegian-laws/blob/main/lover/lov-2014-06-20-42.md",
   "lovdata": "https://lovdata.no/dokument/NL/lov/2014-06-20-42",
   "log": "https://github.com/sondreskarsten/norwegian-laws/commits/law-history/lover/lov-2014-06-20-42.md",
@@ -14415,7 +14415,7 @@
   "kind": "lov",
   "path": "lover/lov-2014-06-20-43.md",
   "ikrafttredelse": "2015-01-01",
-  "sist_endret": "lov/2025-12-22-126",
+  "sist_endret": "lov/2025-06-20-67",
   "github": "https://github.com/sondreskarsten/norwegian-laws/blob/main/lover/lov-2014-06-20-43.md",
   "lovdata": "https://lovdata.no/dokument/NL/lov/2014-06-20-43",
   "log": "https://github.com/sondreskarsten/norwegian-laws/commits/law-history/lover/lov-2014-06-20-43.md",
@@ -14680,7 +14680,7 @@
   "kind": "lov",
   "path": "lover/lov-2015-05-07-25.md",
   "ikrafttredelse": "2016-01-01",
-  "sist_endret": "lov/2021-06-18-122",
+  "sist_endret": "lov/2025-06-20-67",
   "github": "https://github.com/sondreskarsten/norwegian-laws/blob/main/lover/lov-2015-05-07-25.md",
   "lovdata": "https://lovdata.no/dokument/NL/lov/2015-05-07-25",
   "log": "https://github.com/sondreskarsten/norwegian-laws/commits/law-history/lover/lov-2015-05-07-25.md",
@@ -16139,7 +16139,7 @@
   "kind": "lov",
   "path": "lover/lov-2018-04-20-8.md",
   "ikrafttredelse": "2022-05-01, 2025-10-12",
-  "sist_endret": "lov/2025-06-20-85",
+  "sist_endret": "lov/2026-06-12-31",
   "github": "https://github.com/sondreskarsten/norwegian-laws/blob/main/lover/lov-2018-04-20-8.md",
   "lovdata": "https://lovdata.no/dokument/NL/lov/2018-04-20-8",
   "log": "https://github.com/sondreskarsten/norwegian-laws/commits/law-history/lover/lov-2018-04-20-8.md",
@@ -16150,7 +16150,7 @@
    "v2025",
    "v2026"
   ],
-  "amendments": 4
+  "amendments": 5
  },
  {
   "file": "lov-2018-06-01-23.md",
@@ -17359,7 +17359,7 @@
    "v2025",
    "v2026"
   ],
-  "amendments": 9
+  "amendments": 11
  },
  {
   "file": "lov-2020-11-20-128.md",
@@ -17909,7 +17909,7 @@
    "v2025",
    "v2026"
   ],
-  "amendments": 12
+  "amendments": 13
  },
  {
   "file": "lov-2021-06-18-99.md",
@@ -18559,7 +18559,7 @@
    "v2025",
    "v2026"
   ],
-  "amendments": 7
+  "amendments": 8
  },
  {
   "file": "lov-2023-06-16-62.md",
@@ -19017,7 +19017,7 @@
   "kind": "lov",
   "path": "lover/lov-2024-06-21-47.md",
   "ikrafttredelse": "2024-06-21, 2025-09-19, 2025-10-12, Kongen bestemmer",
-  "sist_endret": "lov/2025-06-20-85",
+  "sist_endret": "lov/2026-06-12-31",
   "github": "https://github.com/sondreskarsten/norwegian-laws/blob/main/lover/lov-2024-06-21-47.md",
   "lovdata": "https://lovdata.no/dokument/NL/lov/2024-06-21-47",
   "log": "https://github.com/sondreskarsten/norwegian-laws/commits/law-history/lover/lov-2024-06-21-47.md",
@@ -19026,7 +19026,7 @@
    "v2025",
    "v2026"
   ],
-  "amendments": 0
+  "amendments": 2
  },
  {
   "file": "lov-2024-06-21-50.md",
@@ -19787,7 +19787,7 @@
   ],
   "kind": "lov",
   "path": "lover/lov-2025-06-20-105.md",
-  "ikrafttredelse": "2026-01-01, Kongen bestemmer",
+  "ikrafttredelse": "2026-01-01, 2026-07-01, Kongen bestemmer",
   "sist_endret": "",
   "github": "https://github.com/sondreskarsten/norwegian-laws/blob/main/lover/lov-2025-06-20-105.md",
   "lovdata": "https://lovdata.no/dokument/NL/lov/2025-06-20-105",
@@ -19810,7 +19810,7 @@
   ],
   "kind": "lov",
   "path": "lover/lov-2025-06-20-106.md",
-  "ikrafttredelse": "2026-01-01, Kongen bestemmer",
+  "ikrafttredelse": "2026-01-01, 2026-07-01, Kongen bestemmer",
   "sist_endret": "",
   "github": "https://github.com/sondreskarsten/norwegian-laws/blob/main/lover/lov-2025-06-20-106.md",
   "lovdata": "https://lovdata.no/dokument/NL/lov/2025-06-20-106",
@@ -21366,6 +21366,248 @@
   "github": "https://github.com/sondreskarsten/norwegian-laws/blob/main/lover/lov-2026-05-12-18.md",
   "lovdata": "https://lovdata.no/dokument/NL/lov/2026-05-12-18",
   "log": "https://github.com/sondreskarsten/norwegian-laws/commits/law-history/lover/lov-2026-05-12-18.md",
+  "tags": [
+   "v2026"
+  ],
+  "amendments": 0
+ },
+ {
+  "file": "lov-2026-05-22-19.md",
+  "refid": "lov/2026-05-22-19",
+  "eli": "/eli/lov/2026/05/22/19",
+  "tittel": "Lov om inkassovirksomhet og inndriving av forfalte pengekrav (inkassoloven)",
+  "korttittel": "Inkassoloven",
+  "aliases": [],
+  "departement": [
+   "Justis- og beredskapsdepartementet"
+  ],
+  "kind": "lov",
+  "path": "lover/lov-2026-05-22-19.md",
+  "ikrafttredelse": "Kongen bestemmer",
+  "sist_endret": "",
+  "github": "https://github.com/sondreskarsten/norwegian-laws/blob/main/lover/lov-2026-05-22-19.md",
+  "lovdata": "https://lovdata.no/dokument/NL/lov/2026-05-22-19",
+  "log": "https://github.com/sondreskarsten/norwegian-laws/commits/law-history/lover/lov-2026-05-22-19.md",
+  "tags": [
+   "v2026"
+  ],
+  "amendments": 0
+ },
+ {
+  "file": "lov-2026-05-29-20.md",
+  "refid": "lov/2026-05-29-20",
+  "eli": "/eli/lov/2026/05/29/20",
+  "tittel": "Lov om undersøkelser av offentlige virksomheters arbeid i saker om drap, vold, overgrep og omsorgssvikt mot barn (barnevoldsundersøkelsesloven)",
+  "korttittel": "Barnevoldsundersøkelsesloven",
+  "aliases": [],
+  "departement": [
+   "Barne- og familiedepartementet"
+  ],
+  "kind": "lov",
+  "path": "lover/lov-2026-05-29-20.md",
+  "ikrafttredelse": "2026-07-01",
+  "sist_endret": "",
+  "github": "https://github.com/sondreskarsten/norwegian-laws/blob/main/lover/lov-2026-05-29-20.md",
+  "lovdata": "https://lovdata.no/dokument/NL/lov/2026-05-29-20",
+  "log": "https://github.com/sondreskarsten/norwegian-laws/commits/law-history/lover/lov-2026-05-29-20.md",
+  "tags": [
+   "v2026"
+  ],
+  "amendments": 0
+ },
+ {
+  "file": "lov-2026-05-29-21.md",
+  "refid": "lov/2026-05-29-21",
+  "eli": "/eli/lov/2026/05/29/21",
+  "tittel": "Lov om midlertidig endring av alkoholloven (unntak fra maksimaltiden for skjenking under fotball-VM for herrer 2026)",
+  "korttittel": "Endringslov til alkoholloven",
+  "aliases": [],
+  "departement": [
+   "Helse- og omsorgsdepartementet"
+  ],
+  "kind": "lov",
+  "path": "lover/lov-2026-05-29-21.md",
+  "ikrafttredelse": "2026-05-29 – 2026-07-20",
+  "sist_endret": "",
+  "github": "https://github.com/sondreskarsten/norwegian-laws/blob/main/lover/lov-2026-05-29-21.md",
+  "lovdata": "https://lovdata.no/dokument/NL/lov/2026-05-29-21",
+  "log": "https://github.com/sondreskarsten/norwegian-laws/commits/law-history/lover/lov-2026-05-29-21.md",
+  "tags": [
+   "v2026"
+  ],
+  "amendments": 0
+ },
+ {
+  "file": "lov-2026-06-12-22.md",
+  "refid": "lov/2026-06-12-22",
+  "eli": "/eli/lov/2026/06/12/22",
+  "tittel": "Lov om midlertidige endringer i lovverket som følge av ankomst av fordrevne fra Ukraina (videreføring m.m.)",
+  "korttittel": "Midlertidig endringslov, ankomst av fordrevne fra Ukraina",
+  "aliases": [],
+  "departement": [
+   "Arbeids- og inkluderingsdepartementet"
+  ],
+  "kind": "lov",
+  "path": "lover/lov-2026-06-12-22.md",
+  "ikrafttredelse": "2026-07-01 – 2028-07-01",
+  "sist_endret": "",
+  "github": "https://github.com/sondreskarsten/norwegian-laws/blob/main/lover/lov-2026-06-12-22.md",
+  "lovdata": "https://lovdata.no/dokument/NL/lov/2026-06-12-22",
+  "log": "https://github.com/sondreskarsten/norwegian-laws/commits/law-history/lover/lov-2026-06-12-22.md",
+  "tags": [
+   "v2026"
+  ],
+  "amendments": 0
+ },
+ {
+  "file": "lov-2026-06-12-23.md",
+  "refid": "lov/2026-06-12-23",
+  "eli": "/eli/lov/2026/06/12/23",
+  "tittel": "Lov om endringer i integreringsloven (integreringserklæring)",
+  "korttittel": "Endringslov til integreringsloven",
+  "aliases": [],
+  "departement": [
+   "Arbeids- og inkluderingsdepartementet"
+  ],
+  "kind": "lov",
+  "path": "lover/lov-2026-06-12-23.md",
+  "ikrafttredelse": "Kongen bestemmer",
+  "sist_endret": "",
+  "github": "https://github.com/sondreskarsten/norwegian-laws/blob/main/lover/lov-2026-06-12-23.md",
+  "lovdata": "https://lovdata.no/dokument/NL/lov/2026-06-12-23",
+  "log": "https://github.com/sondreskarsten/norwegian-laws/commits/law-history/lover/lov-2026-06-12-23.md",
+  "tags": [
+   "v2026"
+  ],
+  "amendments": 0
+ },
+ {
+  "file": "lov-2026-06-12-24.md",
+  "refid": "lov/2026-06-12-24",
+  "eli": "/eli/lov/2026/06/12/24",
+  "tittel": "Lov om endringer i folketrygdloven og enkelte andre lover (oppfølging av Stortingets vedtak om økt fribeløp for uføre)",
+  "korttittel": "Endringslov til folketrygdloven mv.",
+  "aliases": [],
+  "departement": [
+   "Arbeids- og inkluderingsdepartementet"
+  ],
+  "kind": "lov",
+  "path": "lover/lov-2026-06-12-24.md",
+  "ikrafttredelse": "2026-10-01, Kongen bestemmer",
+  "sist_endret": "",
+  "github": "https://github.com/sondreskarsten/norwegian-laws/blob/main/lover/lov-2026-06-12-24.md",
+  "lovdata": "https://lovdata.no/dokument/NL/lov/2026-06-12-24",
+  "log": "https://github.com/sondreskarsten/norwegian-laws/commits/law-history/lover/lov-2026-06-12-24.md",
+  "tags": [
+   "v2026"
+  ],
+  "amendments": 0
+ },
+ {
+  "file": "lov-2026-06-12-25.md",
+  "refid": "lov/2026-06-12-25",
+  "eli": "/eli/lov/2026/06/12/25",
+  "tittel": "Lov om særskilt innsats mot negativ sosial kontroll og æresmotivert vold",
+  "korttittel": "",
+  "aliases": [],
+  "departement": [
+   "Arbeids- og inkluderingsdepartementet"
+  ],
+  "kind": "lov",
+  "path": "lover/lov-2026-06-12-25.md",
+  "ikrafttredelse": "2026-07-01",
+  "sist_endret": "",
+  "github": "https://github.com/sondreskarsten/norwegian-laws/blob/main/lover/lov-2026-06-12-25.md",
+  "lovdata": "https://lovdata.no/dokument/NL/lov/2026-06-12-25",
+  "log": "https://github.com/sondreskarsten/norwegian-laws/commits/law-history/lover/lov-2026-06-12-25.md",
+  "tags": [
+   "v2026"
+  ],
+  "amendments": 0
+ },
+ {
+  "file": "lov-2026-06-12-26.md",
+  "refid": "lov/2026-06-12-26",
+  "eli": "/eli/lov/2026/06/12/26",
+  "tittel": "Lov om endringer i lov om pensjonsordning for sykepleiere (opptjening under permisjon ved mottak av pleiepenger)",
+  "korttittel": "Endringslov til lov om pensjonsordning for sykepleiere",
+  "aliases": [],
+  "departement": [
+   "Arbeids- og inkluderingsdepartementet"
+  ],
+  "kind": "lov",
+  "path": "lover/lov-2026-06-12-26.md",
+  "ikrafttredelse": "2026-07-01",
+  "sist_endret": "",
+  "github": "https://github.com/sondreskarsten/norwegian-laws/blob/main/lover/lov-2026-06-12-26.md",
+  "lovdata": "https://lovdata.no/dokument/NL/lov/2026-06-12-26",
+  "log": "https://github.com/sondreskarsten/norwegian-laws/commits/law-history/lover/lov-2026-06-12-26.md",
+  "tags": [
+   "v2026"
+  ],
+  "amendments": 0
+ },
+ {
+  "file": "lov-2026-06-12-27.md",
+  "refid": "lov/2026-06-12-27",
+  "eli": "/eli/lov/2026/06/12/27",
+  "tittel": "Lov om endringer i folketrygdloven (delvis avvikling av stønad til enslig mor eller far)",
+  "korttittel": "Endringslov til folketrygdloven",
+  "aliases": [],
+  "departement": [
+   "Arbeids- og inkluderingsdepartementet"
+  ],
+  "kind": "lov",
+  "path": "lover/lov-2026-06-12-27.md",
+  "ikrafttredelse": "2026-07-01, 2026-07-01 med virkning fra 2026-01-01",
+  "sist_endret": "",
+  "github": "https://github.com/sondreskarsten/norwegian-laws/blob/main/lover/lov-2026-06-12-27.md",
+  "lovdata": "https://lovdata.no/dokument/NL/lov/2026-06-12-27",
+  "log": "https://github.com/sondreskarsten/norwegian-laws/commits/law-history/lover/lov-2026-06-12-27.md",
+  "tags": [
+   "v2026"
+  ],
+  "amendments": 0
+ },
+ {
+  "file": "lov-2026-06-12-28.md",
+  "refid": "lov/2026-06-12-28",
+  "eli": "/eli/lov/2026/06/12/28",
+  "tittel": "Lov om endringer i straffeloven (selvstendig inndragning m.m.)",
+  "korttittel": "Endringslov til straffeloven",
+  "aliases": [],
+  "departement": [
+   "Justis- og beredskapsdepartementet"
+  ],
+  "kind": "lov",
+  "path": "lover/lov-2026-06-12-28.md",
+  "ikrafttredelse": "Kongen bestemmer",
+  "sist_endret": "",
+  "github": "https://github.com/sondreskarsten/norwegian-laws/blob/main/lover/lov-2026-06-12-28.md",
+  "lovdata": "https://lovdata.no/dokument/NL/lov/2026-06-12-28",
+  "log": "https://github.com/sondreskarsten/norwegian-laws/commits/law-history/lover/lov-2026-06-12-28.md",
+  "tags": [
+   "v2026"
+  ],
+  "amendments": 0
+ },
+ {
+  "file": "lov-2026-06-12-32.md",
+  "refid": "lov/2026-06-12-32",
+  "eli": "/eli/lov/2026/06/12/32",
+  "tittel": "Lov om endringer i utlendingsloven mv. (straff for utilbørlig utnyttelse av utlendinger)",
+  "korttittel": "Endringslov til utlendingsloven mv.",
+  "aliases": [],
+  "departement": [
+   "Justis- og beredskapsdepartementet"
+  ],
+  "kind": "lov",
+  "path": "lover/lov-2026-06-12-32.md",
+  "ikrafttredelse": "2026-09-15",
+  "sist_endret": "",
+  "github": "https://github.com/sondreskarsten/norwegian-laws/blob/main/lover/lov-2026-06-12-32.md",
+  "lovdata": "https://lovdata.no/dokument/NL/lov/2026-06-12-32",
+  "log": "https://github.com/sondreskarsten/norwegian-laws/commits/law-history/lover/lov-2026-06-12-32.md",
   "tags": [
    "v2026"
   ],
@@ -28625,8 +28867,8 @@
   "file": "forskrift-1984-03-19-2319.md",
   "refid": "forskrift/1984-03-19-2319",
   "eli": "/eli/forskrift/1984/03/19/2319",
-  "tittel": "Forskrift om pensjonsgrunnlag i Statens pensjonskasse ved midlertidig tjeneste i høyere lønnet stilling",
-  "korttittel": "Forskrift om pensjonsgrunnlag i Statens pensjonskasse ved midlertidig tjeneste i høyere lønnet stilling",
+  "tittel": "Forskrift om pensjonsgrunnlag i Statens pensjonskasse ved midlertidig tjeneste i høyere lønnet stilling og ved delt pensjonsgrunnlag",
+  "korttittel": "Forskrift om pensjonsgrunnlag i Statens pensjonskasse ved midlertidig tjeneste i høyere lønnet stilling og ved delt pensjonsgrunnlag",
   "aliases": [],
   "departement": [
    "Arbeids- og inkluderingsdepartementet"
@@ -28634,7 +28876,7 @@
   "kind": "forskrift",
   "path": "forskrifter/forskrift-1984-03-19-2319.md",
   "ikrafttredelse": "1984-05-01",
-  "sist_endret": "forskrift/2021-10-12-3045",
+  "sist_endret": "forskrift/2026-05-21-893",
   "github": "https://github.com/sondreskarsten/norwegian-laws/blob/main/forskrifter/forskrift-1984-03-19-2319.md",
   "lovdata": "https://lovdata.no/dokument/SF/forskrift/1984-03-19-2319",
   "log": "https://github.com/sondreskarsten/norwegian-laws/commits/law-history/forskrifter/forskrift-1984-03-19-2319.md",
@@ -28648,7 +28890,7 @@
    "v2025",
    "v2026"
   ],
-  "amendments": 1
+  "amendments": 2
  },
  {
   "file": "forskrift-1984-03-30-819.md",
@@ -31795,7 +32037,7 @@
   "kind": "forskrift",
   "path": "forskrifter/forskrift-1990-01-25-92.md",
   "ikrafttredelse": "1990-04-01",
-  "sist_endret": "forskrift/2026-02-23-273",
+  "sist_endret": "forskrift/2026-05-05-742",
   "github": "https://github.com/sondreskarsten/norwegian-laws/blob/main/forskrifter/forskrift-1990-01-25-92.md",
   "lovdata": "https://lovdata.no/dokument/SF/forskrift/1990-01-25-92",
   "log": "https://github.com/sondreskarsten/norwegian-laws/commits/law-history/forskrifter/forskrift-1990-01-25-92.md",
@@ -32346,7 +32588,7 @@
   "kind": "forskrift",
   "path": "forskrifter/forskrift-1991-03-22-157.md",
   "ikrafttredelse": "1991-07-01",
-  "sist_endret": "forskrift/2025-12-09-2491",
+  "sist_endret": "forskrift/2026-02-27-890",
   "github": "https://github.com/sondreskarsten/norwegian-laws/blob/main/forskrifter/forskrift-1991-03-22-157.md",
   "lovdata": "https://lovdata.no/dokument/SF/forskrift/1991-03-22-157",
   "log": "https://github.com/sondreskarsten/norwegian-laws/commits/law-history/forskrifter/forskrift-1991-03-22-157.md",
@@ -32360,7 +32602,7 @@
    "v2025",
    "v2026"
   ],
-  "amendments": 11
+  "amendments": 12
  },
  {
   "file": "forskrift-1991-05-10-300.md",
@@ -34811,7 +35053,7 @@
   "kind": "forskrift",
   "path": "forskrifter/forskrift-1994-10-04-918.md",
   "ikrafttredelse": "1995-01-01, 1996-01-01, 1997-01-01",
-  "sist_endret": "forskrift/2026-03-10-371",
+  "sist_endret": "forskrift/2026-05-13-855",
   "github": "https://github.com/sondreskarsten/norwegian-laws/blob/main/forskrifter/forskrift-1994-10-04-918.md",
   "lovdata": "https://lovdata.no/dokument/SF/forskrift/1994-10-04-918",
   "log": "https://github.com/sondreskarsten/norwegian-laws/commits/law-history/forskrifter/forskrift-1994-10-04-918.md",
@@ -39658,7 +39900,7 @@
   "kind": "forskrift",
   "path": "forskrifter/forskrift-1998-12-11-1300.md",
   "ikrafttredelse": "1999-01-01",
-  "sist_endret": "forskrift/2024-09-13-2152",
+  "sist_endret": "forskrift/2026-06-03-1008",
   "github": "https://github.com/sondreskarsten/norwegian-laws/blob/main/forskrifter/forskrift-1998-12-11-1300.md",
   "lovdata": "https://lovdata.no/dokument/SF/forskrift/1998-12-11-1300",
   "log": "https://github.com/sondreskarsten/norwegian-laws/commits/law-history/forskrifter/forskrift-1998-12-11-1300.md",
@@ -39672,7 +39914,7 @@
    "v2025",
    "v2026"
   ],
-  "amendments": 8
+  "amendments": 9
  },
  {
   "file": "forskrift-1998-12-11-1390.md",
@@ -40081,7 +40323,7 @@
    "v2025",
    "v2026"
   ],
-  "amendments": 37
+  "amendments": 38
  },
  {
   "file": "forskrift-1999-03-26-376.md",
@@ -40705,7 +40947,7 @@
   "kind": "forskrift",
   "path": "forskrifter/forskrift-1999-10-01-1069.md",
   "ikrafttredelse": "1999-10-01",
-  "sist_endret": "forskrift/2026-04-30-694",
+  "sist_endret": "forskrift/2026-05-08-891",
   "github": "https://github.com/sondreskarsten/norwegian-laws/blob/main/forskrifter/forskrift-1999-10-01-1069.md",
   "lovdata": "https://lovdata.no/dokument/SF/forskrift/1999-10-01-1069",
   "log": "https://github.com/sondreskarsten/norwegian-laws/commits/law-history/forskrifter/forskrift-1999-10-01-1069.md",
@@ -40719,7 +40961,7 @@
    "v2025",
    "v2026"
   ],
-  "amendments": 8
+  "amendments": 9
  },
  {
   "file": "forskrift-1999-10-14-1084.md",
@@ -42331,7 +42573,7 @@
   "kind": "forskrift",
   "path": "forskrifter/forskrift-2000-12-13-1253.md",
   "ikrafttredelse": "2001-01-01",
-  "sist_endret": "forskrift/2025-12-09-2491",
+  "sist_endret": "forskrift/2026-02-27-890",
   "github": "https://github.com/sondreskarsten/norwegian-laws/blob/main/forskrifter/forskrift-2000-12-13-1253.md",
   "lovdata": "https://lovdata.no/dokument/SF/forskrift/2000-12-13-1253",
   "log": "https://github.com/sondreskarsten/norwegian-laws/commits/law-history/forskrifter/forskrift-2000-12-13-1253.md",
@@ -42345,7 +42587,7 @@
    "v2025",
    "v2026"
   ],
-  "amendments": 15
+  "amendments": 16
  },
  {
   "file": "forskrift-2000-12-15-1268.md",
@@ -43435,7 +43677,7 @@
   "kind": "forskrift",
   "path": "forskrifter/forskrift-2001-06-15-634.md",
   "ikrafttredelse": "2001-06-15",
-  "sist_endret": "forskrift/2025-09-12-2247",
+  "sist_endret": "forskrift/2026-06-04-1010",
   "github": "https://github.com/sondreskarsten/norwegian-laws/blob/main/forskrifter/forskrift-2001-06-15-634.md",
   "lovdata": "https://lovdata.no/dokument/SF/forskrift/2001-06-15-634",
   "log": "https://github.com/sondreskarsten/norwegian-laws/commits/law-history/forskrifter/forskrift-2001-06-15-634.md",
@@ -43449,7 +43691,7 @@
    "v2025",
    "v2026"
   ],
-  "amendments": 5
+  "amendments": 6
  },
  {
   "file": "forskrift-2001-06-22-704.md",
@@ -46323,7 +46565,7 @@
    "v2025",
    "v2026"
   ],
-  "amendments": 26
+  "amendments": 27
  },
  {
   "file": "forskrift-2003-02-06-139.md",
@@ -46454,7 +46696,7 @@
   "kind": "forskrift",
   "path": "forskrifter/forskrift-2003-02-25-256.md",
   "ikrafttredelse": "2003-03-01",
-  "sist_endret": "forskrift/2017-03-21-363",
+  "sist_endret": "forskrift/2026-05-18-859",
   "github": "https://github.com/sondreskarsten/norwegian-laws/blob/main/forskrifter/forskrift-2003-02-25-256.md",
   "lovdata": "https://lovdata.no/dokument/SF/forskrift/2003-02-25-256",
   "log": "https://github.com/sondreskarsten/norwegian-laws/commits/law-history/forskrifter/forskrift-2003-02-25-256.md",
@@ -46744,7 +46986,7 @@
   "kind": "forskrift",
   "path": "forskrifter/forskrift-2003-04-25-486.md",
   "ikrafttredelse": "2003-07-01",
-  "sist_endret": "forskrift/2021-05-11-1471",
+  "sist_endret": "forskrift/2026-05-27-910",
   "github": "https://github.com/sondreskarsten/norwegian-laws/blob/main/forskrifter/forskrift-2003-04-25-486.md",
   "lovdata": "https://lovdata.no/dokument/SF/forskrift/2003-04-25-486",
   "log": "https://github.com/sondreskarsten/norwegian-laws/commits/law-history/forskrifter/forskrift-2003-04-25-486.md",
@@ -46758,7 +47000,7 @@
    "v2025",
    "v2026"
   ],
-  "amendments": 8
+  "amendments": 9
  },
  {
   "file": "forskrift-2003-04-25-614.md",
@@ -48832,7 +49074,7 @@
   "kind": "forskrift",
   "path": "forskrifter/forskrift-2004-01-19-298.md",
   "ikrafttredelse": "2004-03-01, 2004-07-01",
-  "sist_endret": "forskrift/2025-09-22-1899",
+  "sist_endret": "forskrift/2026-04-15-596",
   "github": "https://github.com/sondreskarsten/norwegian-laws/blob/main/forskrifter/forskrift-2004-01-19-298.md",
   "lovdata": "https://lovdata.no/dokument/SF/forskrift/2004-01-19-298",
   "log": "https://github.com/sondreskarsten/norwegian-laws/commits/law-history/forskrifter/forskrift-2004-01-19-298.md",
@@ -49996,7 +50238,7 @@
   "kind": "forskrift",
   "path": "forskrifter/forskrift-2004-10-01-1339.md",
   "ikrafttredelse": "2005-01-01",
-  "sist_endret": "forskrift/2026-04-20-621",
+  "sist_endret": "forskrift/2026-04-15-596",
   "github": "https://github.com/sondreskarsten/norwegian-laws/blob/main/forskrifter/forskrift-2004-10-01-1339.md",
   "lovdata": "https://lovdata.no/dokument/SF/forskrift/2004-10-01-1339",
   "log": "https://github.com/sondreskarsten/norwegian-laws/commits/law-history/forskrifter/forskrift-2004-10-01-1339.md",
@@ -50883,7 +51125,7 @@
   "kind": "forskrift",
   "path": "forskrifter/forskrift-2005-03-18-242.md",
   "ikrafttredelse": "2005-04-01",
-  "sist_endret": "forskrift/2023-12-18-2258",
+  "sist_endret": "forskrift/2026-05-28-939",
   "github": "https://github.com/sondreskarsten/norwegian-laws/blob/main/forskrifter/forskrift-2005-03-18-242.md",
   "lovdata": "https://lovdata.no/dokument/SF/forskrift/2005-03-18-242",
   "log": "https://github.com/sondreskarsten/norwegian-laws/commits/law-history/forskrifter/forskrift-2005-03-18-242.md",
@@ -50896,7 +51138,7 @@
    "v2025",
    "v2026"
   ],
-  "amendments": 14
+  "amendments": 15
  },
  {
   "file": "forskrift-2005-03-21-247.md",
@@ -55012,7 +55254,7 @@
   "kind": "forskrift",
   "path": "forskrifter/forskrift-2007-02-09-149.md",
   "ikrafttredelse": "2007-02-09",
-  "sist_endret": "forskrift/2025-10-20-2073",
+  "sist_endret": "forskrift/2026-05-11-809",
   "github": "https://github.com/sondreskarsten/norwegian-laws/blob/main/forskrifter/forskrift-2007-02-09-149.md",
   "lovdata": "https://lovdata.no/dokument/SF/forskrift/2007-02-09-149",
   "log": "https://github.com/sondreskarsten/norwegian-laws/commits/law-history/forskrifter/forskrift-2007-02-09-149.md",
@@ -55685,7 +55927,7 @@
   "kind": "forskrift",
   "path": "forskrifter/forskrift-2007-06-28-814.md",
   "ikrafttredelse": "2008-03-03",
-  "sist_endret": "forskrift/2026-03-26-554",
+  "sist_endret": "forskrift/2026-04-29-746",
   "github": "https://github.com/sondreskarsten/norwegian-laws/blob/main/forskrifter/forskrift-2007-06-28-814.md",
   "lovdata": "https://lovdata.no/dokument/SF/forskrift/2007-06-28-814",
   "log": "https://github.com/sondreskarsten/norwegian-laws/commits/law-history/forskrifter/forskrift-2007-06-28-814.md",
@@ -55881,7 +56123,7 @@
   "kind": "forskrift",
   "path": "forskrifter/forskrift-2007-06-29-876.md",
   "ikrafttredelse": "2007-11-01, 2008-01-01",
-  "sist_endret": "forskrift/2025-09-23-1913",
+  "sist_endret": "forskrift/2026-06-08-1028",
   "github": "https://github.com/sondreskarsten/norwegian-laws/blob/main/forskrifter/forskrift-2007-06-29-876.md",
   "lovdata": "https://lovdata.no/dokument/SF/forskrift/2007-06-29-876",
   "log": "https://github.com/sondreskarsten/norwegian-laws/commits/law-history/forskrifter/forskrift-2007-06-29-876.md",
@@ -59510,7 +59752,7 @@
   "kind": "forskrift",
   "path": "forskrifter/forskrift-2009-05-13-591.md",
   "ikrafttredelse": "2009-07-01",
-  "sist_endret": "forskrift/2025-12-17-2681",
+  "sist_endret": "forskrift/2026-05-13-811",
   "github": "https://github.com/sondreskarsten/norwegian-laws/blob/main/forskrifter/forskrift-2009-05-13-591.md",
   "lovdata": "https://lovdata.no/dokument/SF/forskrift/2009-05-13-591",
   "log": "https://github.com/sondreskarsten/norwegian-laws/commits/law-history/forskrifter/forskrift-2009-05-13-591.md",
@@ -60323,14 +60565,14 @@
   "korttittel": "Plantevernmiddelrestforskriften",
   "aliases": [],
   "departement": [
-   "Nærings- og fiskeridepartementet",
+   "Helse- og omsorgsdepartementet",
    "Landbruks- og matdepartementet",
-   "Helse- og omsorgsdepartementet"
+   "Nærings- og fiskeridepartementet"
   ],
   "kind": "forskrift",
   "path": "forskrifter/forskrift-2009-08-18-1117.md",
   "ikrafttredelse": "2009-08-18",
-  "sist_endret": "forskrift/2026-03-20-446",
+  "sist_endret": "forskrift/2026-06-08-1025",
   "github": "https://github.com/sondreskarsten/norwegian-laws/blob/main/forskrifter/forskrift-2009-08-18-1117.md",
   "lovdata": "https://lovdata.no/dokument/SF/forskrift/2009-08-18-1117",
   "log": "https://github.com/sondreskarsten/norwegian-laws/commits/law-history/forskrifter/forskrift-2009-08-18-1117.md",
@@ -60583,7 +60825,7 @@
   "kind": "forskrift",
   "path": "forskrifter/forskrift-2009-10-15-1286.md",
   "ikrafttredelse": "2010-01-01",
-  "sist_endret": "forskrift/2026-03-27-497",
+  "sist_endret": "forskrift/2026-06-12-1060",
   "github": "https://github.com/sondreskarsten/norwegian-laws/blob/main/forskrifter/forskrift-2009-10-15-1286.md",
   "lovdata": "https://lovdata.no/dokument/SF/forskrift/2009-10-15-1286",
   "log": "https://github.com/sondreskarsten/norwegian-laws/commits/law-history/forskrifter/forskrift-2009-10-15-1286.md",
@@ -60596,7 +60838,7 @@
    "v2025",
    "v2026"
   ],
-  "amendments": 167
+  "amendments": 169
  },
  {
   "file": "forskrift-2009-10-16-1280.md",
@@ -63654,7 +63896,7 @@
   "kind": "forskrift",
   "path": "forskrifter/forskrift-2011-03-01-214.md",
   "ikrafttredelse": "2011-03-01",
-  "sist_endret": "forskrift/2026-04-24-651",
+  "sist_endret": "forskrift/2026-05-27-912",
   "github": "https://github.com/sondreskarsten/norwegian-laws/blob/main/forskrifter/forskrift-2011-03-01-214.md",
   "lovdata": "https://lovdata.no/dokument/SF/forskrift/2011-03-01-214",
   "log": "https://github.com/sondreskarsten/norwegian-laws/commits/law-history/forskrifter/forskrift-2011-03-01-214.md",
@@ -63666,7 +63908,7 @@
    "v2025",
    "v2026"
   ],
-  "amendments": 52
+  "amendments": 53
  },
  {
   "file": "forskrift-2011-03-04-251.md",
@@ -65127,7 +65369,7 @@
    "v2025",
    "v2026"
   ],
-  "amendments": 3
+  "amendments": 4
  },
  {
   "file": "forskrift-2011-11-24-1134.md",
@@ -65250,7 +65492,7 @@
   "kind": "forskrift",
   "path": "forskrifter/forskrift-2011-12-06-1357.md",
   "ikrafttredelse": "2013-01-01",
-  "sist_endret": "forskrift/2025-12-16-2615",
+  "sist_endret": "forskrift/2026-06-05-1020",
   "github": "https://github.com/sondreskarsten/norwegian-laws/blob/main/forskrifter/forskrift-2011-12-06-1357.md",
   "lovdata": "https://lovdata.no/dokument/SF/forskrift/2011-12-06-1357",
   "log": "https://github.com/sondreskarsten/norwegian-laws/commits/law-history/forskrifter/forskrift-2011-12-06-1357.md",
@@ -65262,7 +65504,7 @@
    "v2025",
    "v2026"
   ],
-  "amendments": 27
+  "amendments": 28
  },
  {
   "file": "forskrift-2011-12-06-1358.md",
@@ -65277,7 +65519,7 @@
   "kind": "forskrift",
   "path": "forskrifter/forskrift-2011-12-06-1358.md",
   "ikrafttredelse": "2013-01-01",
-  "sist_endret": "forskrift/2026-04-10-580",
+  "sist_endret": "forskrift/2026-06-05-1019",
   "github": "https://github.com/sondreskarsten/norwegian-laws/blob/main/forskrifter/forskrift-2011-12-06-1358.md",
   "lovdata": "https://lovdata.no/dokument/SF/forskrift/2011-12-06-1358",
   "log": "https://github.com/sondreskarsten/norwegian-laws/commits/law-history/forskrifter/forskrift-2011-12-06-1358.md",
@@ -65952,7 +66194,7 @@
   "kind": "forskrift",
   "path": "forskrifter/forskrift-2011-12-22-1523.md",
   "ikrafttredelse": "2012-01-01",
-  "sist_endret": "forskrift/2025-12-19-2743",
+  "sist_endret": "forskrift/2026-05-13-827",
   "github": "https://github.com/sondreskarsten/norwegian-laws/blob/main/forskrifter/forskrift-2011-12-22-1523.md",
   "lovdata": "https://lovdata.no/dokument/SF/forskrift/2011-12-22-1523",
   "log": "https://github.com/sondreskarsten/norwegian-laws/commits/law-history/forskrifter/forskrift-2011-12-22-1523.md",
@@ -65979,7 +66221,7 @@
   "kind": "forskrift",
   "path": "forskrifter/forskrift-2011-12-23-1502.md",
   "ikrafttredelse": "2012-01-01",
-  "sist_endret": "forskrift/2026-03-10-370",
+  "sist_endret": "forskrift/2026-06-10-1047",
   "github": "https://github.com/sondreskarsten/norwegian-laws/blob/main/forskrifter/forskrift-2011-12-23-1502.md",
   "lovdata": "https://lovdata.no/dokument/SF/forskrift/2011-12-23-1502",
   "log": "https://github.com/sondreskarsten/norwegian-laws/commits/law-history/forskrifter/forskrift-2011-12-23-1502.md",
@@ -65991,7 +66233,7 @@
    "v2025",
    "v2026"
   ],
-  "amendments": 34
+  "amendments": 35
  },
  {
   "file": "forskrift-2012-01-03-8.md",
@@ -67500,7 +67742,7 @@
   "kind": "forskrift",
   "path": "forskrifter/forskrift-2012-11-29-1283.md",
   "ikrafttredelse": "2013-01-01",
-  "sist_endret": "forskrift/2025-05-27-902",
+  "sist_endret": "forskrift/2026-05-26-940",
   "github": "https://github.com/sondreskarsten/norwegian-laws/blob/main/forskrifter/forskrift-2012-11-29-1283.md",
   "lovdata": "https://lovdata.no/dokument/SF/forskrift/2012-11-29-1283",
   "log": "https://github.com/sondreskarsten/norwegian-laws/commits/law-history/forskrifter/forskrift-2012-11-29-1283.md",
@@ -67512,7 +67754,7 @@
    "v2025",
    "v2026"
   ],
-  "amendments": 34
+  "amendments": 35
  },
  {
   "file": "forskrift-2012-11-30-1114.md",
@@ -67728,7 +67970,7 @@
    "v2025",
    "v2026"
   ],
-  "amendments": 0
+  "amendments": 1
  },
  {
   "file": "forskrift-2012-12-17-1325.md",
@@ -68149,7 +68391,7 @@
   "kind": "forskrift",
   "path": "forskrifter/forskrift-2013-02-14-199.md",
   "ikrafttredelse": "2013-02-14",
-  "sist_endret": "forskrift/2025-12-19-2928",
+  "sist_endret": "forskrift/2026-05-15-892",
   "github": "https://github.com/sondreskarsten/norwegian-laws/blob/main/forskrifter/forskrift-2013-02-14-199.md",
   "lovdata": "https://lovdata.no/dokument/SF/forskrift/2013-02-14-199",
   "log": "https://github.com/sondreskarsten/norwegian-laws/commits/law-history/forskrifter/forskrift-2013-02-14-199.md",
@@ -68360,7 +68602,7 @@
   "korttittel": "Forskrift om IT-standarder i offentlig forvaltning",
   "aliases": [],
   "departement": [
-   "Kommunal- og distriktsdepartementet"
+   "Digitaliserings- og forvaltningsdepartementet"
   ],
   "kind": "forskrift",
   "path": "forskrifter/forskrift-2013-04-05-959.md",
@@ -68900,7 +69142,7 @@
   "korttittel": "Forskrift om universell utforming av IKT-løsninger",
   "aliases": [],
   "departement": [
-   "Kommunal- og distriktsdepartementet"
+   "Digitaliserings- og forvaltningsdepartementet"
   ],
   "kind": "forskrift",
   "path": "forskrifter/forskrift-2013-06-21-732.md",
@@ -71528,7 +71770,7 @@
   "kind": "forskrift",
   "path": "forskrifter/forskrift-2014-08-15-1076.md",
   "ikrafttredelse": "2014-08-15",
-  "sist_endret": "forskrift/2026-03-27-535",
+  "sist_endret": "forskrift/2026-05-27-938",
   "github": "https://github.com/sondreskarsten/norwegian-laws/blob/main/forskrifter/forskrift-2014-08-15-1076.md",
   "lovdata": "https://lovdata.no/dokument/SF/forskrift/2014-08-15-1076",
   "log": "https://github.com/sondreskarsten/norwegian-laws/commits/law-history/forskrifter/forskrift-2014-08-15-1076.md",
@@ -71540,7 +71782,7 @@
    "v2025",
    "v2026"
   ],
-  "amendments": 28
+  "amendments": 29
  },
  {
   "file": "forskrift-2014-08-22-1097.md",
@@ -73451,7 +73693,7 @@
   "kind": "forskrift",
   "path": "forskrifter/forskrift-2015-05-06-455.md",
   "ikrafttredelse": "2015-06-01",
-  "sist_endret": "forskrift/2026-05-04-716",
+  "sist_endret": "forskrift/2026-06-08-1022",
   "github": "https://github.com/sondreskarsten/norwegian-laws/blob/main/forskrifter/forskrift-2015-05-06-455.md",
   "lovdata": "https://lovdata.no/dokument/SF/forskrift/2015-05-06-455",
   "log": "https://github.com/sondreskarsten/norwegian-laws/commits/law-history/forskrifter/forskrift-2015-05-06-455.md",
@@ -73462,7 +73704,7 @@
    "v2025",
    "v2026"
   ],
-  "amendments": 72
+  "amendments": 73
  },
  {
   "file": "forskrift-2015-05-07-488.md",
@@ -74116,7 +74358,7 @@
    "v2025",
    "v2026"
   ],
-  "amendments": 7
+  "amendments": 8
  },
  {
   "file": "forskrift-2015-06-22-752.md",
@@ -74168,7 +74410,7 @@
    "v2025",
    "v2026"
   ],
-  "amendments": 17
+  "amendments": 18
  },
  {
   "file": "forskrift-2015-06-26-795.md",
@@ -74376,7 +74618,7 @@
    "v2025",
    "v2026"
   ],
-  "amendments": 7
+  "amendments": 8
  },
  {
   "file": "forskrift-2015-07-02-867.md",
@@ -74469,7 +74711,7 @@
   "kind": "forskrift",
   "path": "forskrifter/forskrift-2015-07-03-871.md",
   "ikrafttredelse": "2015-07-03",
-  "sist_endret": "forskrift/2026-02-09-174",
+  "sist_endret": "forskrift/2026-06-09-1033",
   "github": "https://github.com/sondreskarsten/norwegian-laws/blob/main/forskrifter/forskrift-2015-07-03-871.md",
   "lovdata": "https://lovdata.no/dokument/SF/forskrift/2015-07-03-871",
   "log": "https://github.com/sondreskarsten/norwegian-laws/commits/law-history/forskrifter/forskrift-2015-07-03-871.md",
@@ -74480,7 +74722,7 @@
    "v2025",
    "v2026"
   ],
-  "amendments": 6
+  "amendments": 7
  },
  {
   "file": "forskrift-2015-07-06-874.md",
@@ -74610,7 +74852,7 @@
    "v2025",
    "v2026"
   ],
-  "amendments": 16
+  "amendments": 17
  },
  {
   "file": "forskrift-2015-09-04-1032.md",
@@ -79443,7 +79685,7 @@
   "kind": "forskrift",
   "path": "forskrifter/forskrift-2017-05-24-2480.md",
   "ikrafttredelse": "2017-05-24",
-  "sist_endret": "forskrift/2021-06-02-4049",
+  "sist_endret": "forskrift/2025-10-29-3079",
   "github": "https://github.com/sondreskarsten/norwegian-laws/blob/main/forskrifter/forskrift-2017-05-24-2480.md",
   "lovdata": "https://lovdata.no/dokument/SF/forskrift/2017-05-24-2480",
   "log": "https://github.com/sondreskarsten/norwegian-laws/commits/law-history/forskrifter/forskrift-2017-05-24-2480.md",
@@ -79691,7 +79933,7 @@
    "v2025",
    "v2026"
   ],
-  "amendments": 14
+  "amendments": 15
  },
  {
   "file": "forskrift-2017-06-19-941.md",
@@ -80368,7 +80610,7 @@
    "v2025",
    "v2026"
   ],
-  "amendments": 3
+  "amendments": 4
  },
  {
   "file": "forskrift-2017-09-01-1416.md",
@@ -81444,8 +81686,8 @@
   "file": "forskrift-2017-12-20-2306.md",
   "refid": "forskrift/2017-12-20-2306",
   "eli": "/eli/forskrift/2017/12/20/2306",
-  "tittel": "Forskrift om pensjonsgrunnlag i pensjonsordning for apotekvirksomhet ved midlertidig tjeneste i høyere lønnet stilling",
-  "korttittel": "Pensjonsgrunnlag i pensjonsordning for apotekvirksomhet ved midlertidig tjeneste i høyere lønnet stilling",
+  "tittel": "Forskrift om pensjonsgrunnlag i pensjonsordning for apotekvirksomhet ved midlertidig tjeneste i høyere lønnet stilling og ved delt pensjonsgrunnlag",
+  "korttittel": "Pensjonsgrunnlag i pensjonsordning for apotekvirksomhet ved midlertidig tjeneste i høyere lønnet stilling og ved delt pensjonsgrunnlag",
   "aliases": [],
   "departement": [
    "Arbeids- og inkluderingsdepartementet"
@@ -81453,7 +81695,7 @@
   "kind": "forskrift",
   "path": "forskrifter/forskrift-2017-12-20-2306.md",
   "ikrafttredelse": "2018-01-01",
-  "sist_endret": "forskrift/2021-10-12-3047",
+  "sist_endret": "forskrift/2026-05-21-894",
   "github": "https://github.com/sondreskarsten/norwegian-laws/blob/main/forskrifter/forskrift-2017-12-20-2306.md",
   "lovdata": "https://lovdata.no/dokument/SF/forskrift/2017-12-20-2306",
   "log": "https://github.com/sondreskarsten/norwegian-laws/commits/law-history/forskrifter/forskrift-2017-12-20-2306.md",
@@ -81464,7 +81706,7 @@
    "v2025",
    "v2026"
   ],
-  "amendments": 1
+  "amendments": 2
  },
  {
   "file": "forskrift-2017-12-20-2308.md",
@@ -82181,7 +82423,7 @@
   "kind": "forskrift",
   "path": "forskrifter/forskrift-2018-06-01-1546.md",
   "ikrafttredelse": "2018-08-01",
-  "sist_endret": "forskrift/2026-03-11-406",
+  "sist_endret": "forskrift/2026-05-27-909",
   "github": "https://github.com/sondreskarsten/norwegian-laws/blob/main/forskrifter/forskrift-2018-06-01-1546.md",
   "lovdata": "https://lovdata.no/dokument/SF/forskrift/2018-06-01-1546",
   "log": "https://github.com/sondreskarsten/norwegian-laws/commits/law-history/forskrifter/forskrift-2018-06-01-1546.md",
@@ -82192,7 +82434,7 @@
    "v2025",
    "v2026"
   ],
-  "amendments": 29
+  "amendments": 30
  },
  {
   "file": "forskrift-2018-06-01-785.md",
@@ -82911,7 +83153,7 @@
   "kind": "forskrift",
   "path": "forskrifter/forskrift-2018-09-01-1295.md",
   "ikrafttredelse": "2018-09-01",
-  "sist_endret": "forskrift/2026-02-03-142",
+  "sist_endret": "forskrift/2026-05-18-831",
   "github": "https://github.com/sondreskarsten/norwegian-laws/blob/main/forskrifter/forskrift-2018-09-01-1295.md",
   "lovdata": "https://lovdata.no/dokument/SF/forskrift/2018-09-01-1295",
   "log": "https://github.com/sondreskarsten/norwegian-laws/commits/law-history/forskrifter/forskrift-2018-09-01-1295.md",
@@ -83067,7 +83309,7 @@
   "kind": "forskrift",
   "path": "forskrifter/forskrift-2018-09-26-1467.md",
   "ikrafttredelse": "2018-10-01",
-  "sist_endret": "forskrift/2025-12-17-2716",
+  "sist_endret": "forskrift/2026-05-13-854",
   "github": "https://github.com/sondreskarsten/norwegian-laws/blob/main/forskrifter/forskrift-2018-09-26-1467.md",
   "lovdata": "https://lovdata.no/dokument/SF/forskrift/2018-09-26-1467",
   "log": "https://github.com/sondreskarsten/norwegian-laws/commits/law-history/forskrifter/forskrift-2018-09-26-1467.md",
@@ -83899,7 +84141,7 @@
   "kind": "forskrift",
   "path": "forskrifter/forskrift-2018-12-28-2247.md",
   "ikrafttredelse": "2019-01-01",
-  "sist_endret": "forskrift/2026-03-24-473",
+  "sist_endret": "forskrift/2026-06-08-1027",
   "github": "https://github.com/sondreskarsten/norwegian-laws/blob/main/forskrifter/forskrift-2018-12-28-2247.md",
   "lovdata": "https://lovdata.no/dokument/SF/forskrift/2018-12-28-2247",
   "log": "https://github.com/sondreskarsten/norwegian-laws/commits/law-history/forskrifter/forskrift-2018-12-28-2247.md",
@@ -83910,7 +84152,7 @@
    "v2025",
    "v2026"
   ],
-  "amendments": 34
+  "amendments": 36
  },
  {
   "file": "forskrift-2019-01-11-18.md",
@@ -84414,7 +84656,7 @@
   "korttittel": "Forskrift om elektronisk faktura i offentlige anskaffelser",
   "aliases": [],
   "departement": [
-   "Kommunal- og distriktsdepartementet"
+   "Digitaliserings- og forvaltningsdepartementet"
   ],
   "kind": "forskrift",
   "path": "forskrifter/forskrift-2019-04-01-444.md",
@@ -86370,7 +86612,7 @@
   "kind": "forskrift",
   "path": "forskrifter/forskrift-2019-12-18-1989.md",
   "ikrafttredelse": "2019-12-20",
-  "sist_endret": "forskrift/2026-03-24-468",
+  "sist_endret": "forskrift/2026-06-08-1021",
   "github": "https://github.com/sondreskarsten/norwegian-laws/blob/main/forskrifter/forskrift-2019-12-18-1989.md",
   "lovdata": "https://lovdata.no/dokument/SF/forskrift/2019-12-18-1989",
   "log": "https://github.com/sondreskarsten/norwegian-laws/commits/law-history/forskrifter/forskrift-2019-12-18-1989.md",
@@ -86381,7 +86623,7 @@
    "v2025",
    "v2026"
   ],
-  "amendments": 5
+  "amendments": 6
  },
  {
   "file": "forskrift-2019-12-18-1991.md",
@@ -87268,7 +87510,7 @@
   "kind": "forskrift",
   "path": "forskrifter/forskrift-2020-03-09-709.md",
   "ikrafttredelse": "2020-04-07",
-  "sist_endret": "",
+  "sist_endret": "forskrift/2026-05-26-905",
   "github": "https://github.com/sondreskarsten/norwegian-laws/blob/main/forskrifter/forskrift-2020-03-09-709.md",
   "lovdata": "https://lovdata.no/dokument/SF/forskrift/2020-03-09-709",
   "log": "https://github.com/sondreskarsten/norwegian-laws/commits/law-history/forskrifter/forskrift-2020-03-09-709.md",
@@ -87278,7 +87520,7 @@
    "v2025",
    "v2026"
   ],
-  "amendments": 0
+  "amendments": 1
  },
  {
   "file": "forskrift-2020-03-09-710.md",
@@ -89010,7 +89252,7 @@
   "kind": "forskrift",
   "path": "forskrifter/forskrift-2020-10-28-2170.md",
   "ikrafttredelse": "2020-11-01, 2023-04-01",
-  "sist_endret": "forskrift/2025-12-17-2717",
+  "sist_endret": "forskrift/2026-05-13-856",
   "github": "https://github.com/sondreskarsten/norwegian-laws/blob/main/forskrifter/forskrift-2020-10-28-2170.md",
   "lovdata": "https://lovdata.no/dokument/SF/forskrift/2020-10-28-2170",
   "log": "https://github.com/sondreskarsten/norwegian-laws/commits/law-history/forskrifter/forskrift-2020-10-28-2170.md",
@@ -89188,7 +89430,7 @@
   "kind": "forskrift",
   "path": "forskrifter/forskrift-2020-11-23-2476.md",
   "ikrafttredelse": "2021-01-01",
-  "sist_endret": "forskrift/2026-04-13-590",
+  "sist_endret": "forskrift/2026-05-18-832",
   "github": "https://github.com/sondreskarsten/norwegian-laws/blob/main/forskrifter/forskrift-2020-11-23-2476.md",
   "lovdata": "https://lovdata.no/dokument/SF/forskrift/2020-11-23-2476",
   "log": "https://github.com/sondreskarsten/norwegian-laws/commits/law-history/forskrifter/forskrift-2020-11-23-2476.md",
@@ -91564,7 +91806,7 @@
   "kind": "forskrift",
   "path": "forskrifter/forskrift-2021-05-07-1452.md",
   "ikrafttredelse": "2021-06-01",
-  "sist_endret": "forskrift/2026-04-29-684",
+  "sist_endret": "forskrift/2026-05-27-911",
   "github": "https://github.com/sondreskarsten/norwegian-laws/blob/main/forskrifter/forskrift-2021-05-07-1452.md",
   "lovdata": "https://lovdata.no/dokument/SF/forskrift/2021-05-07-1452",
   "log": "https://github.com/sondreskarsten/norwegian-laws/commits/law-history/forskrifter/forskrift-2021-05-07-1452.md",
@@ -91574,7 +91816,7 @@
    "v2025",
    "v2026"
   ],
-  "amendments": 7
+  "amendments": 8
  },
  {
   "file": "forskrift-2021-05-09-1476.md",
@@ -94666,7 +94908,7 @@
   "kind": "forskrift",
   "path": "forskrifter/forskrift-2021-12-23-3910.md",
   "ikrafttredelse": "2022-01-01",
-  "sist_endret": "forskrift/2026-04-09-578",
+  "sist_endret": "forskrift/2026-05-18-837",
   "github": "https://github.com/sondreskarsten/norwegian-laws/blob/main/forskrifter/forskrift-2021-12-23-3910.md",
   "lovdata": "https://lovdata.no/dokument/SF/forskrift/2021-12-23-3910",
   "log": "https://github.com/sondreskarsten/norwegian-laws/commits/law-history/forskrifter/forskrift-2021-12-23-3910.md",
@@ -95602,7 +95844,7 @@
   "kind": "forskrift",
   "path": "forskrifter/forskrift-2022-04-06-633.md",
   "ikrafttredelse": "2022-04-28",
-  "sist_endret": "forskrift/2026-04-27-674",
+  "sist_endret": "forskrift/2026-06-12-1073",
   "github": "https://github.com/sondreskarsten/norwegian-laws/blob/main/forskrifter/forskrift-2022-04-06-633.md",
   "lovdata": "https://lovdata.no/dokument/SF/forskrift/2022-04-06-633",
   "log": "https://github.com/sondreskarsten/norwegian-laws/commits/law-history/forskrifter/forskrift-2022-04-06-633.md",
@@ -95804,7 +96046,7 @@
   "kind": "forskrift",
   "path": "forskrifter/forskrift-2022-04-29-665.md",
   "ikrafttredelse": "2022-05-01",
-  "sist_endret": "forskrift/2025-09-09-1810",
+  "sist_endret": "forskrift/2026-06-12-1061",
   "github": "https://github.com/sondreskarsten/norwegian-laws/blob/main/forskrifter/forskrift-2022-04-29-665.md",
   "lovdata": "https://lovdata.no/dokument/SF/forskrift/2022-04-29-665",
   "log": "https://github.com/sondreskarsten/norwegian-laws/commits/law-history/forskrifter/forskrift-2022-04-29-665.md",
@@ -95814,7 +96056,7 @@
    "v2025",
    "v2026"
   ],
-  "amendments": 2
+  "amendments": 3
  },
  {
   "file": "forskrift-2022-04-29-667.md",
@@ -95906,7 +96148,7 @@
   "kind": "forskrift",
   "path": "forskrifter/forskrift-2022-05-19-902.md",
   "ikrafttredelse": "2022-05-19",
-  "sist_endret": "forskrift/2025-02-11-211",
+  "sist_endret": "forskrift/2026-06-09-1051",
   "github": "https://github.com/sondreskarsten/norwegian-laws/blob/main/forskrifter/forskrift-2022-05-19-902.md",
   "lovdata": "https://lovdata.no/dokument/SF/forskrift/2022-05-19-902",
   "log": "https://github.com/sondreskarsten/norwegian-laws/commits/law-history/forskrifter/forskrift-2022-05-19-902.md",
@@ -95916,7 +96158,7 @@
    "v2025",
    "v2026"
   ],
-  "amendments": 4
+  "amendments": 5
  },
  {
   "file": "forskrift-2022-05-20-883.md",
@@ -96218,7 +96460,7 @@
    "v2025",
    "v2026"
   ],
-  "amendments": 2
+  "amendments": 3
  },
  {
   "file": "forskrift-2022-06-10-995.md",
@@ -96309,7 +96551,7 @@
   "kind": "forskrift",
   "path": "forskrifter/forskrift-2022-06-16-1029.md",
   "ikrafttredelse": "2022-09-01",
-  "sist_endret": "forskrift/2025-12-04-2417",
+  "sist_endret": "forskrift/2026-05-14-814",
   "github": "https://github.com/sondreskarsten/norwegian-laws/blob/main/forskrifter/forskrift-2022-06-16-1029.md",
   "lovdata": "https://lovdata.no/dokument/SF/forskrift/2022-06-16-1029",
   "log": "https://github.com/sondreskarsten/norwegian-laws/commits/law-history/forskrifter/forskrift-2022-06-16-1029.md",
@@ -96662,7 +96904,7 @@
   "kind": "forskrift",
   "path": "forskrifter/forskrift-2022-06-28-1233.md",
   "ikrafttredelse": "2022-10-01",
-  "sist_endret": "forskrift/2026-03-24-472",
+  "sist_endret": "forskrift/2026-05-13-853",
   "github": "https://github.com/sondreskarsten/norwegian-laws/blob/main/forskrifter/forskrift-2022-06-28-1233.md",
   "lovdata": "https://lovdata.no/dokument/SF/forskrift/2022-06-28-1233",
   "log": "https://github.com/sondreskarsten/norwegian-laws/commits/law-history/forskrifter/forskrift-2022-06-28-1233.md",
@@ -97190,7 +97432,7 @@
   "kind": "forskrift",
   "path": "forskrifter/forskrift-2022-09-08-1573.md",
   "ikrafttredelse": "2022-09-16",
-  "sist_endret": "forskrift/2026-04-27-712",
+  "sist_endret": "forskrift/2026-06-03-1023",
   "github": "https://github.com/sondreskarsten/norwegian-laws/blob/main/forskrifter/forskrift-2022-09-08-1573.md",
   "lovdata": "https://lovdata.no/dokument/SF/forskrift/2022-09-08-1573",
   "log": "https://github.com/sondreskarsten/norwegian-laws/commits/law-history/forskrifter/forskrift-2022-09-08-1573.md",
@@ -97200,7 +97442,7 @@
    "v2025",
    "v2026"
   ],
-  "amendments": 18
+  "amendments": 19
  },
  {
   "file": "forskrift-2022-09-09-1552.md",
@@ -98752,7 +98994,7 @@
    "v2025",
    "v2026"
   ],
-  "amendments": 1
+  "amendments": 2
  },
  {
   "file": "forskrift-2023-01-27-105.md",
@@ -100117,7 +100359,7 @@
   "kind": "forskrift",
   "path": "forskrifter/forskrift-2023-10-24-1694.md",
   "ikrafttredelse": "2023-11-01",
-  "sist_endret": "forskrift/2026-04-27-657",
+  "sist_endret": "forskrift/2026-05-26-942",
   "github": "https://github.com/sondreskarsten/norwegian-laws/blob/main/forskrifter/forskrift-2023-10-24-1694.md",
   "lovdata": "https://lovdata.no/dokument/SF/forskrift/2023-10-24-1694",
   "log": "https://github.com/sondreskarsten/norwegian-laws/commits/law-history/forskrifter/forskrift-2023-10-24-1694.md",
@@ -100127,7 +100369,7 @@
    "v2025",
    "v2026"
   ],
-  "amendments": 26
+  "amendments": 27
  },
  {
   "file": "forskrift-2023-10-24-1695.md",
@@ -100142,7 +100384,7 @@
   "kind": "forskrift",
   "path": "forskrifter/forskrift-2023-10-24-1695.md",
   "ikrafttredelse": "2023-11-01",
-  "sist_endret": "forskrift/2026-04-27-658",
+  "sist_endret": "forskrift/2026-05-26-943",
   "github": "https://github.com/sondreskarsten/norwegian-laws/blob/main/forskrifter/forskrift-2023-10-24-1695.md",
   "lovdata": "https://lovdata.no/dokument/SF/forskrift/2023-10-24-1695",
   "log": "https://github.com/sondreskarsten/norwegian-laws/commits/law-history/forskrifter/forskrift-2023-10-24-1695.md",
@@ -100152,7 +100394,7 @@
    "v2025",
    "v2026"
   ],
-  "amendments": 25
+  "amendments": 26
  },
  {
   "file": "forskrift-2023-10-24-1696.md",
@@ -100167,7 +100409,7 @@
   "kind": "forskrift",
   "path": "forskrifter/forskrift-2023-10-24-1696.md",
   "ikrafttredelse": "2023-11-01",
-  "sist_endret": "forskrift/2026-04-27-659",
+  "sist_endret": "forskrift/2026-05-26-944",
   "github": "https://github.com/sondreskarsten/norwegian-laws/blob/main/forskrifter/forskrift-2023-10-24-1696.md",
   "lovdata": "https://lovdata.no/dokument/SF/forskrift/2023-10-24-1696",
   "log": "https://github.com/sondreskarsten/norwegian-laws/commits/law-history/forskrifter/forskrift-2023-10-24-1696.md",
@@ -100177,7 +100419,7 @@
    "v2025",
    "v2026"
   ],
-  "amendments": 26
+  "amendments": 27
  },
  {
   "file": "forskrift-2023-10-24-1697.md",
@@ -100192,7 +100434,7 @@
   "kind": "forskrift",
   "path": "forskrifter/forskrift-2023-10-24-1697.md",
   "ikrafttredelse": "2023-11-01",
-  "sist_endret": "forskrift/2026-04-27-660",
+  "sist_endret": "forskrift/2026-05-26-945",
   "github": "https://github.com/sondreskarsten/norwegian-laws/blob/main/forskrifter/forskrift-2023-10-24-1697.md",
   "lovdata": "https://lovdata.no/dokument/SF/forskrift/2023-10-24-1697",
   "log": "https://github.com/sondreskarsten/norwegian-laws/commits/law-history/forskrifter/forskrift-2023-10-24-1697.md",
@@ -100202,7 +100444,7 @@
    "v2025",
    "v2026"
   ],
-  "amendments": 26
+  "amendments": 27
  },
  {
   "file": "forskrift-2023-10-24-1698.md",
@@ -100217,7 +100459,7 @@
   "kind": "forskrift",
   "path": "forskrifter/forskrift-2023-10-24-1698.md",
   "ikrafttredelse": "2023-11-01",
-  "sist_endret": "forskrift/2026-04-27-661",
+  "sist_endret": "forskrift/2026-05-26-946",
   "github": "https://github.com/sondreskarsten/norwegian-laws/blob/main/forskrifter/forskrift-2023-10-24-1698.md",
   "lovdata": "https://lovdata.no/dokument/SF/forskrift/2023-10-24-1698",
   "log": "https://github.com/sondreskarsten/norwegian-laws/commits/law-history/forskrifter/forskrift-2023-10-24-1698.md",
@@ -100227,7 +100469,7 @@
    "v2025",
    "v2026"
   ],
-  "amendments": 25
+  "amendments": 26
  },
  {
   "file": "forskrift-2023-10-24-1699.md",
@@ -100242,7 +100484,7 @@
   "kind": "forskrift",
   "path": "forskrifter/forskrift-2023-10-24-1699.md",
   "ikrafttredelse": "2023-11-01",
-  "sist_endret": "forskrift/2026-04-27-662",
+  "sist_endret": "forskrift/2026-05-26-947",
   "github": "https://github.com/sondreskarsten/norwegian-laws/blob/main/forskrifter/forskrift-2023-10-24-1699.md",
   "lovdata": "https://lovdata.no/dokument/SF/forskrift/2023-10-24-1699",
   "log": "https://github.com/sondreskarsten/norwegian-laws/commits/law-history/forskrifter/forskrift-2023-10-24-1699.md",
@@ -100252,7 +100494,7 @@
    "v2025",
    "v2026"
   ],
-  "amendments": 25
+  "amendments": 26
  },
  {
   "file": "forskrift-2023-10-27-1706.md",
@@ -102061,7 +102303,7 @@
   "kind": "forskrift",
   "path": "forskrifter/forskrift-2024-06-03-901.md",
   "ikrafttredelse": "2024-08-01",
-  "sist_endret": "forskrift/2026-04-13-591",
+  "sist_endret": "forskrift/2026-05-18-830",
   "github": "https://github.com/sondreskarsten/norwegian-laws/blob/main/forskrifter/forskrift-2024-06-03-901.md",
   "lovdata": "https://lovdata.no/dokument/SF/forskrift/2024-06-03-901",
   "log": "https://github.com/sondreskarsten/norwegian-laws/commits/law-history/forskrifter/forskrift-2024-06-03-901.md",
@@ -102383,7 +102625,7 @@
    "v2025",
    "v2026"
   ],
-  "amendments": 0
+  "amendments": 1
  },
  {
   "file": "forskrift-2024-06-18-1108.md",
@@ -102407,7 +102649,7 @@
    "v2025",
    "v2026"
   ],
-  "amendments": 1
+  "amendments": 2
  },
  {
   "file": "forskrift-2024-06-19-1059.md",
@@ -102998,7 +103240,7 @@
   "kind": "forskrift",
   "path": "forskrifter/forskrift-2024-09-02-2076.md",
   "ikrafttredelse": "2024-09-02",
-  "sist_endret": "forskrift/2025-06-20-1186",
+  "sist_endret": "forskrift/2026-05-14-813",
   "github": "https://github.com/sondreskarsten/norwegian-laws/blob/main/forskrifter/forskrift-2024-09-02-2076.md",
   "lovdata": "https://lovdata.no/dokument/SF/forskrift/2024-09-02-2076",
   "log": "https://github.com/sondreskarsten/norwegian-laws/commits/law-history/forskrifter/forskrift-2024-09-02-2076.md",
@@ -105082,7 +105324,7 @@
   "kind": "forskrift",
   "path": "forskrifter/forskrift-2025-01-29-115.md",
   "ikrafttredelse": "2025-02-01, 2026-01-01, 2027-01-01, 2030-01-01",
-  "sist_endret": "",
+  "sist_endret": "forskrift/2026-05-15-836",
   "github": "https://github.com/sondreskarsten/norwegian-laws/blob/main/forskrifter/forskrift-2025-01-29-115.md",
   "lovdata": "https://lovdata.no/dokument/SF/forskrift/2025-01-29-115",
   "log": "https://github.com/sondreskarsten/norwegian-laws/commits/law-history/forskrifter/forskrift-2025-01-29-115.md",
@@ -106787,7 +107029,7 @@
   "kind": "forskrift",
   "path": "forskrifter/forskrift-2025-06-27-1361.md",
   "ikrafttredelse": "2025-07-01 – 2026-06-30",
-  "sist_endret": "forskrift/2025-10-24-2094",
+  "sist_endret": "forskrift/2026-06-12-1086",
   "github": "https://github.com/sondreskarsten/norwegian-laws/blob/main/forskrifter/forskrift-2025-06-27-1361.md",
   "lovdata": "https://lovdata.no/dokument/SF/forskrift/2025-06-27-1361",
   "log": "https://github.com/sondreskarsten/norwegian-laws/commits/law-history/forskrifter/forskrift-2025-06-27-1361.md",
@@ -106795,7 +107037,7 @@
    "v2025",
    "v2026"
   ],
-  "amendments": 2
+  "amendments": 4
  },
  {
   "file": "forskrift-2025-06-30-1375.md",
@@ -109373,7 +109615,7 @@
    "v2025",
    "v2026"
   ],
-  "amendments": 0
+  "amendments": 1
  },
  {
   "file": "forskrift-2025-12-05-2419.md",
@@ -110446,7 +110688,7 @@
   "kind": "forskrift",
   "path": "forskrifter/forskrift-2025-12-19-2811.md",
   "ikrafttredelse": "2026-01-01 – 2026-12-31",
-  "sist_endret": "forskrift/2025-12-23-2894",
+  "sist_endret": "forskrift/2026-05-04-825",
   "github": "https://github.com/sondreskarsten/norwegian-laws/blob/main/forskrifter/forskrift-2025-12-19-2811.md",
   "lovdata": "https://lovdata.no/dokument/SF/forskrift/2025-12-19-2811",
   "log": "https://github.com/sondreskarsten/norwegian-laws/commits/law-history/forskrifter/forskrift-2025-12-19-2811.md",
@@ -110492,7 +110734,7 @@
   "kind": "forskrift",
   "path": "forskrifter/forskrift-2025-12-19-2821.md",
   "ikrafttredelse": "2026-01-01 – 2026-12-31",
-  "sist_endret": "forskrift/2026-02-02-138",
+  "sist_endret": "forskrift/2026-06-16-1088",
   "github": "https://github.com/sondreskarsten/norwegian-laws/blob/main/forskrifter/forskrift-2025-12-19-2821.md",
   "lovdata": "https://lovdata.no/dokument/SF/forskrift/2025-12-19-2821",
   "log": "https://github.com/sondreskarsten/norwegian-laws/commits/law-history/forskrifter/forskrift-2025-12-19-2821.md",
@@ -110500,7 +110742,7 @@
    "v2025",
    "v2026"
   ],
-  "amendments": 3
+  "amendments": 4
  },
  {
   "file": "forskrift-2025-12-19-2822.md",
@@ -110538,7 +110780,7 @@
   "kind": "forskrift",
   "path": "forskrifter/forskrift-2025-12-19-2826.md",
   "ikrafttredelse": "2026-01-01 – 2026-12-31",
-  "sist_endret": "forskrift/2026-04-16-613",
+  "sist_endret": "forskrift/2026-06-04-1009",
   "github": "https://github.com/sondreskarsten/norwegian-laws/blob/main/forskrifter/forskrift-2025-12-19-2826.md",
   "lovdata": "https://lovdata.no/dokument/SF/forskrift/2025-12-19-2826",
   "log": "https://github.com/sondreskarsten/norwegian-laws/commits/law-history/forskrifter/forskrift-2025-12-19-2826.md",
@@ -110546,7 +110788,7 @@
    "v2025",
    "v2026"
   ],
-  "amendments": 6
+  "amendments": 7
  },
  {
   "file": "forskrift-2025-12-19-2828.md",
@@ -110561,7 +110803,7 @@
   "kind": "forskrift",
   "path": "forskrifter/forskrift-2025-12-19-2828.md",
   "ikrafttredelse": "2026-01-01 – 2026-12-31",
-  "sist_endret": "",
+  "sist_endret": "forskrift/2026-05-22-904",
   "github": "https://github.com/sondreskarsten/norwegian-laws/blob/main/forskrifter/forskrift-2025-12-19-2828.md",
   "lovdata": "https://lovdata.no/dokument/SF/forskrift/2025-12-19-2828",
   "log": "https://github.com/sondreskarsten/norwegian-laws/commits/law-history/forskrifter/forskrift-2025-12-19-2828.md",
@@ -110569,7 +110811,7 @@
    "v2025",
    "v2026"
   ],
-  "amendments": 0
+  "amendments": 2
  },
  {
   "file": "forskrift-2025-12-19-2829.md",
@@ -110883,7 +111125,7 @@
   "kind": "forskrift",
   "path": "forskrifter/forskrift-2025-12-29-2899.md",
   "ikrafttredelse": "2026-01-01 – 2026-12-31",
-  "sist_endret": "forskrift/2026-02-18-234",
+  "sist_endret": "forskrift/2026-06-12-1083",
   "github": "https://github.com/sondreskarsten/norwegian-laws/blob/main/forskrifter/forskrift-2025-12-29-2899.md",
   "lovdata": "https://lovdata.no/dokument/SF/forskrift/2025-12-29-2899",
   "log": "https://github.com/sondreskarsten/norwegian-laws/commits/law-history/forskrifter/forskrift-2025-12-29-2899.md",
@@ -110891,7 +111133,7 @@
    "v2025",
    "v2026"
   ],
-  "amendments": 1
+  "amendments": 2
  },
  {
   "file": "forskrift-2026-01-05-13.md",
@@ -110906,14 +111148,14 @@
   "kind": "forskrift",
   "path": "forskrifter/forskrift-2026-01-05-13.md",
   "ikrafttredelse": "2026-01-05 – 2026-12-31",
-  "sist_endret": "",
+  "sist_endret": "forskrift/2026-06-04-1017",
   "github": "https://github.com/sondreskarsten/norwegian-laws/blob/main/forskrifter/forskrift-2026-01-05-13.md",
   "lovdata": "https://lovdata.no/dokument/SF/forskrift/2026-01-05-13",
   "log": "https://github.com/sondreskarsten/norwegian-laws/commits/law-history/forskrifter/forskrift-2026-01-05-13.md",
   "tags": [
    "v2026"
   ],
-  "amendments": 0
+  "amendments": 1
  },
  {
   "file": "forskrift-2026-01-05-4.md",
@@ -112033,7 +112275,7 @@
   "kind": "forskrift",
   "path": "forskrifter/forskrift-2026-03-23-454.md",
   "ikrafttredelse": "Departementet bestemmer, 2026-12-31, 2030-01-01",
-  "sist_endret": "",
+  "sist_endret": "forskrift/2026-05-13-812",
   "github": "https://github.com/sondreskarsten/norwegian-laws/blob/main/forskrifter/forskrift-2026-03-23-454.md",
   "lovdata": "https://lovdata.no/dokument/SF/forskrift/2026-03-23-454",
   "log": "https://github.com/sondreskarsten/norwegian-laws/commits/law-history/forskrifter/forskrift-2026-03-23-454.md",
@@ -112187,14 +112429,14 @@
   "kind": "forskrift",
   "path": "forskrifter/forskrift-2026-04-09-579.md",
   "ikrafttredelse": "2026-04-15",
-  "sist_endret": "",
+  "sist_endret": "forskrift/2026-05-26-898",
   "github": "https://github.com/sondreskarsten/norwegian-laws/blob/main/forskrifter/forskrift-2026-04-09-579.md",
   "lovdata": "https://lovdata.no/dokument/SF/forskrift/2026-04-09-579",
   "log": "https://github.com/sondreskarsten/norwegian-laws/commits/law-history/forskrifter/forskrift-2026-04-09-579.md",
   "tags": [
    "v2026"
   ],
-  "amendments": 3
+  "amendments": 4
  },
  {
   "file": "forskrift-2026-04-13-592.md",
@@ -112297,14 +112539,14 @@
   "kind": "forskrift",
   "path": "forskrifter/forskrift-2026-04-17-614.md",
   "ikrafttredelse": "2026-04-17 – 2026-10-23",
-  "sist_endret": "",
+  "sist_endret": "forskrift/2026-06-10-1048",
   "github": "https://github.com/sondreskarsten/norwegian-laws/blob/main/forskrifter/forskrift-2026-04-17-614.md",
   "lovdata": "https://lovdata.no/dokument/SF/forskrift/2026-04-17-614",
   "log": "https://github.com/sondreskarsten/norwegian-laws/commits/law-history/forskrifter/forskrift-2026-04-17-614.md",
   "tags": [
    "v2026"
   ],
-  "amendments": 0
+  "amendments": 2
  },
  {
   "file": "forskrift-2026-04-17-615.md",
@@ -112721,6 +112963,580 @@
   "github": "https://github.com/sondreskarsten/norwegian-laws/blob/main/forskrifter/forskrift-2026-05-12-793.md",
   "lovdata": "https://lovdata.no/dokument/SF/forskrift/2026-05-12-793",
   "log": "https://github.com/sondreskarsten/norwegian-laws/commits/law-history/forskrifter/forskrift-2026-05-12-793.md",
+  "tags": [
+   "v2026"
+  ],
+  "amendments": 0
+ },
+ {
+  "file": "forskrift-2026-05-12-810.md",
+  "refid": "forskrift/2026-05-12-810",
+  "eli": "/eli/forskrift/2026/05/12/810",
+  "tittel": "Forskrift om endring i forskrift om begrensning i bruk av helse- og miljøfarlige kjemikalier og andre produkter (produktforskriften)",
+  "korttittel": "Endr. i produktforskriften",
+  "aliases": [],
+  "departement": [
+   "Klima- og miljødepartementet"
+  ],
+  "kind": "forskrift",
+  "path": "forskrifter/forskrift-2026-05-12-810.md",
+  "ikrafttredelse": "2026-07-01",
+  "sist_endret": "",
+  "github": "https://github.com/sondreskarsten/norwegian-laws/blob/main/forskrifter/forskrift-2026-05-12-810.md",
+  "lovdata": "https://lovdata.no/dokument/SF/forskrift/2026-05-12-810",
+  "log": "https://github.com/sondreskarsten/norwegian-laws/commits/law-history/forskrifter/forskrift-2026-05-12-810.md",
+  "tags": [
+   "v2026"
+  ],
+  "amendments": 0
+ },
+ {
+  "file": "forskrift-2026-05-13-827.md",
+  "refid": "forskrift/2026-05-13-827",
+  "eli": "/eli/forskrift/2026/05/13/827",
+  "tittel": "Forskrift om sjøfartskort og andre identitetsbevis på skip og flyttbare innretninger (sjøfartskortforskriften)",
+  "korttittel": "Sjøfartskortforskriften",
+  "aliases": [],
+  "departement": [
+   "Nærings- og fiskeridepartementet"
+  ],
+  "kind": "forskrift",
+  "path": "forskrifter/forskrift-2026-05-13-827.md",
+  "ikrafttredelse": "2026-05-19",
+  "sist_endret": "",
+  "github": "https://github.com/sondreskarsten/norwegian-laws/blob/main/forskrifter/forskrift-2026-05-13-827.md",
+  "lovdata": "https://lovdata.no/dokument/SF/forskrift/2026-05-13-827",
+  "log": "https://github.com/sondreskarsten/norwegian-laws/commits/law-history/forskrifter/forskrift-2026-05-13-827.md",
+  "tags": [
+   "v2026"
+  ],
+  "amendments": 0
+ },
+ {
+  "file": "forskrift-2026-05-18-859.md",
+  "refid": "forskrift/2026-05-18-859",
+  "eli": "/eli/forskrift/2026/05/18/859",
+  "tittel": "Forskrift om utøving av fiske etter anadrome laksefisk",
+  "korttittel": "",
+  "aliases": [],
+  "departement": [
+   "Klima- og miljødepartementet"
+  ],
+  "kind": "forskrift",
+  "path": "forskrifter/forskrift-2026-05-18-859.md",
+  "ikrafttredelse": "2026-05-18, Miljødirektoratet bestemmer",
+  "sist_endret": "",
+  "github": "https://github.com/sondreskarsten/norwegian-laws/blob/main/forskrifter/forskrift-2026-05-18-859.md",
+  "lovdata": "https://lovdata.no/dokument/SF/forskrift/2026-05-18-859",
+  "log": "https://github.com/sondreskarsten/norwegian-laws/commits/law-history/forskrifter/forskrift-2026-05-18-859.md",
+  "tags": [
+   "v2026"
+  ],
+  "amendments": 0
+ },
+ {
+  "file": "forskrift-2026-05-21-960.md",
+  "refid": "forskrift/2026-05-21-960",
+  "eli": "/eli/forskrift/2026/05/21/960",
+  "tittel": "Forskrift om offentlig kontroll – særlige regler om forsendelser av varer mellom Nord-Irland og Storbritannia, og ikke-kommersiell forflytning av visse kjæledyr til Nord-Irland – forordning (EU) 2023/1231 (Nord-Irland-forskriften)",
+  "korttittel": "Nord-Irland-forskriften",
+  "aliases": [],
+  "departement": [
+   "Helse- og omsorgsdepartementet",
+   "Landbruks- og matdepartementet",
+   "Nærings- og fiskeridepartementet"
+  ],
+  "kind": "forskrift",
+  "path": "forskrifter/forskrift-2026-05-21-960.md",
+  "ikrafttredelse": "2026-05-21",
+  "sist_endret": "",
+  "github": "https://github.com/sondreskarsten/norwegian-laws/blob/main/forskrifter/forskrift-2026-05-21-960.md",
+  "lovdata": "https://lovdata.no/dokument/SF/forskrift/2026-05-21-960",
+  "log": "https://github.com/sondreskarsten/norwegian-laws/commits/law-history/forskrifter/forskrift-2026-05-21-960.md",
+  "tags": [
+   "v2026"
+  ],
+  "amendments": 0
+ },
+ {
+  "file": "forskrift-2026-05-22-869.md",
+  "refid": "forskrift/2026-05-22-869",
+  "eli": "/eli/forskrift/2026/05/22/869",
+  "tittel": "Forskrift om grunnbeløp, reguleringsfaktorer, satser for minste pensjonsnivå og satser for garantipensjon i folketrygden fra 1. mai 2026 og virknings-tidspunkt for regulering av kravet til minsteinntekt for rett til ytelser etter folketrygdloven kapitlene 4, 8, 9 og 14",
+  "korttittel": "",
+  "aliases": [],
+  "departement": [
+   "Arbeids- og inkluderingsdepartementet"
+  ],
+  "kind": "forskrift",
+  "path": "forskrifter/forskrift-2026-05-22-869.md",
+  "ikrafttredelse": "2026-05-22, med virkning fra 2026-05-01",
+  "sist_endret": "",
+  "github": "https://github.com/sondreskarsten/norwegian-laws/blob/main/forskrifter/forskrift-2026-05-22-869.md",
+  "lovdata": "https://lovdata.no/dokument/SF/forskrift/2026-05-22-869",
+  "log": "https://github.com/sondreskarsten/norwegian-laws/commits/law-history/forskrifter/forskrift-2026-05-22-869.md",
+  "tags": [
+   "v2026"
+  ],
+  "amendments": 0
+ },
+ {
+  "file": "forskrift-2026-05-22-870.md",
+  "refid": "forskrift/2026-05-22-870",
+  "eli": "/eli/forskrift/2026/05/22/870",
+  "tittel": "Forskrift til oreigningslova (oreigningsforskrifta)",
+  "korttittel": "Oreigningsforskrifta",
+  "aliases": [],
+  "departement": [
+   "Justis- og beredskapsdepartementet"
+  ],
+  "kind": "forskrift",
+  "path": "forskrifter/forskrift-2026-05-22-870.md",
+  "ikrafttredelse": "2026-06-01",
+  "sist_endret": "",
+  "github": "https://github.com/sondreskarsten/norwegian-laws/blob/main/forskrifter/forskrift-2026-05-22-870.md",
+  "lovdata": "https://lovdata.no/dokument/SF/forskrift/2026-05-22-870",
+  "log": "https://github.com/sondreskarsten/norwegian-laws/commits/law-history/forskrifter/forskrift-2026-05-22-870.md",
+  "tags": [
+   "v2026"
+  ],
+  "amendments": 0
+ },
+ {
+  "file": "forskrift-2026-05-22-871.md",
+  "refid": "forskrift/2026-05-22-871",
+  "eli": "/eli/forskrift/2026/05/22/871",
+  "tittel": "Forskrift om overordna mål og prinsipp for grunnskoleopplæringa og den vidaregåande opplæringa",
+  "korttittel": "",
+  "aliases": [],
+  "departement": [
+   "Kunnskapsdepartementet"
+  ],
+  "kind": "forskrift",
+  "path": "forskrifter/forskrift-2026-05-22-871.md",
+  "ikrafttredelse": "2026-08-01",
+  "sist_endret": "",
+  "github": "https://github.com/sondreskarsten/norwegian-laws/blob/main/forskrifter/forskrift-2026-05-22-871.md",
+  "lovdata": "https://lovdata.no/dokument/SF/forskrift/2026-05-22-871",
+  "log": "https://github.com/sondreskarsten/norwegian-laws/commits/law-history/forskrifter/forskrift-2026-05-22-871.md",
+  "tags": [
+   "v2026"
+  ],
+  "amendments": 0
+ },
+ {
+  "file": "forskrift-2026-05-22-895.md",
+  "refid": "forskrift/2026-05-22-895",
+  "eli": "/eli/forskrift/2026/05/22/895",
+  "tittel": "Forskrift om overnattingsavgift til kommunene",
+  "korttittel": "",
+  "aliases": [],
+  "departement": [
+   "Nærings- og fiskeridepartementet"
+  ],
+  "kind": "forskrift",
+  "path": "forskrifter/forskrift-2026-05-22-895.md",
+  "ikrafttredelse": "2026-07-01",
+  "sist_endret": "",
+  "github": "https://github.com/sondreskarsten/norwegian-laws/blob/main/forskrifter/forskrift-2026-05-22-895.md",
+  "lovdata": "https://lovdata.no/dokument/SF/forskrift/2026-05-22-895",
+  "log": "https://github.com/sondreskarsten/norwegian-laws/commits/law-history/forskrifter/forskrift-2026-05-22-895.md",
+  "tags": [
+   "v2026"
+  ],
+  "amendments": 0
+ },
+ {
+  "file": "forskrift-2026-05-26-897.md",
+  "refid": "forskrift/2026-05-26-897",
+  "eli": "/eli/forskrift/2026/05/26/897",
+  "tittel": "Forskrift om Statens kunstnarstipend",
+  "korttittel": "",
+  "aliases": [],
+  "departement": [
+   "Kultur- og likestillingsdepartementet"
+  ],
+  "kind": "forskrift",
+  "path": "forskrifter/forskrift-2026-05-26-897.md",
+  "ikrafttredelse": "2026-07-01",
+  "sist_endret": "",
+  "github": "https://github.com/sondreskarsten/norwegian-laws/blob/main/forskrifter/forskrift-2026-05-26-897.md",
+  "lovdata": "https://lovdata.no/dokument/SF/forskrift/2026-05-26-897",
+  "log": "https://github.com/sondreskarsten/norwegian-laws/commits/law-history/forskrifter/forskrift-2026-05-26-897.md",
+  "tags": [
+   "v2026"
+  ],
+  "amendments": 0
+ },
+ {
+  "file": "forskrift-2026-05-26-906.md",
+  "refid": "forskrift/2026-05-26-906",
+  "eli": "/eli/forskrift/2026/05/26/906",
+  "tittel": "Forskrift om endring i forskrift om statens stipend og garantiinntekter for kunstnere",
+  "korttittel": "",
+  "aliases": [],
+  "departement": [
+   "Kultur- og likestillingsdepartementet"
+  ],
+  "kind": "forskrift",
+  "path": "forskrifter/forskrift-2026-05-26-906.md",
+  "ikrafttredelse": "2026-07-01",
+  "sist_endret": "",
+  "github": "https://github.com/sondreskarsten/norwegian-laws/blob/main/forskrifter/forskrift-2026-05-26-906.md",
+  "lovdata": "https://lovdata.no/dokument/SF/forskrift/2026-05-26-906",
+  "log": "https://github.com/sondreskarsten/norwegian-laws/commits/law-history/forskrifter/forskrift-2026-05-26-906.md",
+  "tags": [
+   "v2026"
+  ],
+  "amendments": 0
+ },
+ {
+  "file": "forskrift-2026-05-29-941.md",
+  "refid": "forskrift/2026-05-29-941",
+  "eli": "/eli/forskrift/2026/05/29/941",
+  "tittel": "Forskrift om etablering og gjennomføring av psykisk helsevern m.m. (psykisk helsevernforskriften)",
+  "korttittel": "Psykisk helsevernforskriften",
+  "aliases": [],
+  "departement": [
+   "Helse- og omsorgsdepartementet"
+  ],
+  "kind": "forskrift",
+  "path": "forskrifter/forskrift-2026-05-29-941.md",
+  "ikrafttredelse": "2026-06-01",
+  "sist_endret": "",
+  "github": "https://github.com/sondreskarsten/norwegian-laws/blob/main/forskrifter/forskrift-2026-05-29-941.md",
+  "lovdata": "https://lovdata.no/dokument/SF/forskrift/2026-05-29-941",
+  "log": "https://github.com/sondreskarsten/norwegian-laws/commits/law-history/forskrifter/forskrift-2026-05-29-941.md",
+  "tags": [
+   "v2026"
+  ],
+  "amendments": 0
+ },
+ {
+  "file": "forskrift-2026-06-02-977.md",
+  "refid": "forskrift/2026-06-02-977",
+  "eli": "/eli/forskrift/2026/06/02/977",
+  "tittel": "Forskrift om regulering av fisket etter lodde ved Island, Grønland og Jan Mayen i 2026",
+  "korttittel": "",
+  "aliases": [],
+  "departement": [
+   "Nærings- og fiskeridepartementet"
+  ],
+  "kind": "forskrift",
+  "path": "forskrifter/forskrift-2026-06-02-977.md",
+  "ikrafttredelse": "2026-06-02 – 2026-12-31",
+  "sist_endret": "",
+  "github": "https://github.com/sondreskarsten/norwegian-laws/blob/main/forskrifter/forskrift-2026-06-02-977.md",
+  "lovdata": "https://lovdata.no/dokument/SF/forskrift/2026-06-02-977",
+  "log": "https://github.com/sondreskarsten/norwegian-laws/commits/law-history/forskrifter/forskrift-2026-06-02-977.md",
+  "tags": [
+   "v2026"
+  ],
+  "amendments": 0
+ },
+ {
+  "file": "forskrift-2026-06-05-1011.md",
+  "refid": "forskrift/2026-06-05-1011",
+  "eli": "/eli/forskrift/2026/06/05/1011",
+  "tittel": "Forskrift om endring i forskrift om fastsetjing og endring av fostringstilskot",
+  "korttittel": "",
+  "aliases": [],
+  "departement": [
+   "Barne- og familiedepartementet"
+  ],
+  "kind": "forskrift",
+  "path": "forskrifter/forskrift-2026-06-05-1011.md",
+  "ikrafttredelse": "2026-07-01",
+  "sist_endret": "",
+  "github": "https://github.com/sondreskarsten/norwegian-laws/blob/main/forskrifter/forskrift-2026-06-05-1011.md",
+  "lovdata": "https://lovdata.no/dokument/SF/forskrift/2026-06-05-1011",
+  "log": "https://github.com/sondreskarsten/norwegian-laws/commits/law-history/forskrifter/forskrift-2026-06-05-1011.md",
+  "tags": [
+   "v2026"
+  ],
+  "amendments": 0
+ },
+ {
+  "file": "forskrift-2026-06-05-1018.md",
+  "refid": "forskrift/2026-06-05-1018",
+  "eli": "/eli/forskrift/2026/06/05/1018",
+  "tittel": "Forskrift om endring i forskrift om gjennomføring av bestemmelsene om inntektsprøving av forskott",
+  "korttittel": "",
+  "aliases": [],
+  "departement": [
+   "Barne- og familiedepartementet"
+  ],
+  "kind": "forskrift",
+  "path": "forskrifter/forskrift-2026-06-05-1018.md",
+  "ikrafttredelse": "2026-07-01",
+  "sist_endret": "",
+  "github": "https://github.com/sondreskarsten/norwegian-laws/blob/main/forskrifter/forskrift-2026-06-05-1018.md",
+  "lovdata": "https://lovdata.no/dokument/SF/forskrift/2026-06-05-1018",
+  "log": "https://github.com/sondreskarsten/norwegian-laws/commits/law-history/forskrifter/forskrift-2026-06-05-1018.md",
+  "tags": [
+   "v2026"
+  ],
+  "amendments": 0
+ },
+ {
+  "file": "forskrift-2026-06-05-1024.md",
+  "refid": "forskrift/2026-06-05-1024",
+  "eli": "/eli/forskrift/2026/06/05/1024",
+  "tittel": "Forskrift om tilskudd til bygging og rehabilitering av anlegg for idrett og fysisk aktivitet fra spilloverskuddet til Norsk Tipping (anleggsforskriften)",
+  "korttittel": "Anleggsforskriften",
+  "aliases": [],
+  "departement": [
+   "Kultur- og likestillingsdepartementet"
+  ],
+  "kind": "forskrift",
+  "path": "forskrifter/forskrift-2026-06-05-1024.md",
+  "ikrafttredelse": "2026-06-15",
+  "sist_endret": "",
+  "github": "https://github.com/sondreskarsten/norwegian-laws/blob/main/forskrifter/forskrift-2026-06-05-1024.md",
+  "lovdata": "https://lovdata.no/dokument/SF/forskrift/2026-06-05-1024",
+  "log": "https://github.com/sondreskarsten/norwegian-laws/commits/law-history/forskrifter/forskrift-2026-06-05-1024.md",
+  "tags": [
+   "v2026"
+  ],
+  "amendments": 0
+ },
+ {
+  "file": "forskrift-2026-06-09-1029.md",
+  "refid": "forskrift/2026-06-09-1029",
+  "eli": "/eli/forskrift/2026/06/09/1029",
+  "tittel": "Forskrift om skole- og feriedager (skoleruta) (2026–2027), Samisk videregående skole, Karasjok",
+  "korttittel": "",
+  "aliases": [],
+  "departement": [
+   "Kunnskapsdepartementet"
+  ],
+  "kind": "forskrift",
+  "path": "forskrifter/forskrift-2026-06-09-1029.md",
+  "ikrafttredelse": "2026-08-01 – 2027-07-31",
+  "sist_endret": "",
+  "github": "https://github.com/sondreskarsten/norwegian-laws/blob/main/forskrifter/forskrift-2026-06-09-1029.md",
+  "lovdata": "https://lovdata.no/dokument/SF/forskrift/2026-06-09-1029",
+  "log": "https://github.com/sondreskarsten/norwegian-laws/commits/law-history/forskrifter/forskrift-2026-06-09-1029.md",
+  "tags": [
+   "v2026"
+  ],
+  "amendments": 0
+ },
+ {
+  "file": "forskrift-2026-06-09-1032.md",
+  "refid": "forskrift/2026-06-09-1032",
+  "eli": "/eli/forskrift/2026/06/09/1032",
+  "tittel": "Forskrift om gjennomføring av forordning (EU) 2020/2155 og forordning (EU) 2020/2156",
+  "korttittel": "",
+  "aliases": [],
+  "departement": [
+   "Energidepartementet"
+  ],
+  "kind": "forskrift",
+  "path": "forskrifter/forskrift-2026-06-09-1032.md",
+  "ikrafttredelse": "2026-07-01",
+  "sist_endret": "",
+  "github": "https://github.com/sondreskarsten/norwegian-laws/blob/main/forskrifter/forskrift-2026-06-09-1032.md",
+  "lovdata": "https://lovdata.no/dokument/SF/forskrift/2026-06-09-1032",
+  "log": "https://github.com/sondreskarsten/norwegian-laws/commits/law-history/forskrifter/forskrift-2026-06-09-1032.md",
+  "tags": [
+   "v2026"
+  ],
+  "amendments": 0
+ },
+ {
+  "file": "forskrift-2026-06-09-1053.md",
+  "refid": "forskrift/2026-06-09-1053",
+  "eli": "/eli/forskrift/2026/06/09/1053",
+  "tittel": "Forskrift om endring i forskrift om pasienters, ledsageres og pårørendes rett til dekning av utgifter ved reise til helsetjenester (pasientreiseforskriften)",
+  "korttittel": "Endr. i pasientreiseforskriften",
+  "aliases": [],
+  "departement": [
+   "Helse- og omsorgsdepartementet"
+  ],
+  "kind": "forskrift",
+  "path": "forskrifter/forskrift-2026-06-09-1053.md",
+  "ikrafttredelse": "2027-01-01",
+  "sist_endret": "",
+  "github": "https://github.com/sondreskarsten/norwegian-laws/blob/main/forskrifter/forskrift-2026-06-09-1053.md",
+  "lovdata": "https://lovdata.no/dokument/SF/forskrift/2026-06-09-1053",
+  "log": "https://github.com/sondreskarsten/norwegian-laws/commits/law-history/forskrifter/forskrift-2026-06-09-1053.md",
+  "tags": [
+   "v2026"
+  ],
+  "amendments": 0
+ },
+ {
+  "file": "forskrift-2026-06-09-1072.md",
+  "refid": "forskrift/2026-06-09-1072",
+  "eli": "/eli/forskrift/2026/06/09/1072",
+  "tittel": "Forskrift om skole- og feriedager (skoleruta) (2026–2027), Samisk videregående skole og reindriftsskole, Kautokeino",
+  "korttittel": "",
+  "aliases": [],
+  "departement": [
+   "Kunnskapsdepartementet"
+  ],
+  "kind": "forskrift",
+  "path": "forskrifter/forskrift-2026-06-09-1072.md",
+  "ikrafttredelse": "2026-08-01 – 2027-07-31",
+  "sist_endret": "",
+  "github": "https://github.com/sondreskarsten/norwegian-laws/blob/main/forskrifter/forskrift-2026-06-09-1072.md",
+  "lovdata": "https://lovdata.no/dokument/SF/forskrift/2026-06-09-1072",
+  "log": "https://github.com/sondreskarsten/norwegian-laws/commits/law-history/forskrifter/forskrift-2026-06-09-1072.md",
+  "tags": [
+   "v2026"
+  ],
+  "amendments": 0
+ },
+ {
+  "file": "forskrift-2026-06-10-1052.md",
+  "refid": "forskrift/2026-06-10-1052",
+  "eli": "/eli/forskrift/2026/06/10/1052",
+  "tittel": "Forskrift om opptak, studium og eksamen ved Høgskulen i Volda",
+  "korttittel": "",
+  "aliases": [],
+  "departement": [
+   "Kunnskapsdepartementet"
+  ],
+  "kind": "forskrift",
+  "path": "forskrifter/forskrift-2026-06-10-1052.md",
+  "ikrafttredelse": "2026-08-01",
+  "sist_endret": "",
+  "github": "https://github.com/sondreskarsten/norwegian-laws/blob/main/forskrifter/forskrift-2026-06-10-1052.md",
+  "lovdata": "https://lovdata.no/dokument/SF/forskrift/2026-06-10-1052",
+  "log": "https://github.com/sondreskarsten/norwegian-laws/commits/law-history/forskrifter/forskrift-2026-06-10-1052.md",
+  "tags": [
+   "v2026"
+  ],
+  "amendments": 0
+ },
+ {
+  "file": "forskrift-2026-06-12-1055.md",
+  "refid": "forskrift/2026-06-12-1055",
+  "eli": "/eli/forskrift/2026/06/12/1055",
+  "tittel": "Forskrift om økt tollavgift på landbruksvarer og kunstgjødsel fra Russland og Belarus",
+  "korttittel": "",
+  "aliases": [],
+  "departement": [
+   "Utenriksdepartementet"
+  ],
+  "kind": "forskrift",
+  "path": "forskrifter/forskrift-2026-06-12-1055.md",
+  "ikrafttredelse": "2026-07-01",
+  "sist_endret": "",
+  "github": "https://github.com/sondreskarsten/norwegian-laws/blob/main/forskrifter/forskrift-2026-06-12-1055.md",
+  "lovdata": "https://lovdata.no/dokument/SF/forskrift/2026-06-12-1055",
+  "log": "https://github.com/sondreskarsten/norwegian-laws/commits/law-history/forskrifter/forskrift-2026-06-12-1055.md",
+  "tags": [
+   "v2026"
+  ],
+  "amendments": 0
+ },
+ {
+  "file": "forskrift-2026-06-12-1057.md",
+  "refid": "forskrift/2026-06-12-1057",
+  "eli": "/eli/forskrift/2026/06/12/1057",
+  "tittel": "Forskrift om endring i forskrift om internasjonalt samarbeid i straffesaker",
+  "korttittel": "",
+  "aliases": [],
+  "departement": [
+   "Justis- og beredskapsdepartementet"
+  ],
+  "kind": "forskrift",
+  "path": "forskrifter/forskrift-2026-06-12-1057.md",
+  "ikrafttredelse": "2026-07-01",
+  "sist_endret": "",
+  "github": "https://github.com/sondreskarsten/norwegian-laws/blob/main/forskrifter/forskrift-2026-06-12-1057.md",
+  "lovdata": "https://lovdata.no/dokument/SF/forskrift/2026-06-12-1057",
+  "log": "https://github.com/sondreskarsten/norwegian-laws/commits/law-history/forskrifter/forskrift-2026-06-12-1057.md",
+  "tags": [
+   "v2026"
+  ],
+  "amendments": 0
+ },
+ {
+  "file": "forskrift-2026-06-12-1077.md",
+  "refid": "forskrift/2026-06-12-1077",
+  "eli": "/eli/forskrift/2026/06/12/1077",
+  "tittel": "Overgangsregler til lov 12. juni 2026 nr. 22 om midlertidige endringer i lovverket som følge av ankomst av fordrevne fra Ukraina (videreføring m.m) del VIII (integreringsloven kapittel 6A)",
+  "korttittel": "",
+  "aliases": [],
+  "departement": [
+   "Arbeids- og inkluderingsdepartementet"
+  ],
+  "kind": "forskrift",
+  "path": "forskrifter/forskrift-2026-06-12-1077.md",
+  "ikrafttredelse": "2026-07-01 – 2028-07-01",
+  "sist_endret": "",
+  "github": "https://github.com/sondreskarsten/norwegian-laws/blob/main/forskrifter/forskrift-2026-06-12-1077.md",
+  "lovdata": "https://lovdata.no/dokument/SF/forskrift/2026-06-12-1077",
+  "log": "https://github.com/sondreskarsten/norwegian-laws/commits/law-history/forskrifter/forskrift-2026-06-12-1077.md",
+  "tags": [
+   "v2026"
+  ],
+  "amendments": 0
+ },
+ {
+  "file": "forskrift-2026-06-12-1085.md",
+  "refid": "forskrift/2026-06-12-1085",
+  "eli": "/eli/forskrift/2026/06/12/1085",
+  "tittel": "Forskrift om endring i forskrift om tekniske krav til byggverk (Byggteknisk forskrift)",
+  "korttittel": "Endr. i Byggteknisk forskrift (TEK17)",
+  "aliases": [],
+  "departement": [
+   "Kommunal- og distriktsdepartementet"
+  ],
+  "kind": "forskrift",
+  "path": "forskrifter/forskrift-2026-06-12-1085.md",
+  "ikrafttredelse": "2026-07-01",
+  "sist_endret": "",
+  "github": "https://github.com/sondreskarsten/norwegian-laws/blob/main/forskrifter/forskrift-2026-06-12-1085.md",
+  "lovdata": "https://lovdata.no/dokument/SF/forskrift/2026-06-12-1085",
+  "log": "https://github.com/sondreskarsten/norwegian-laws/commits/law-history/forskrifter/forskrift-2026-06-12-1085.md",
+  "tags": [
+   "v2026"
+  ],
+  "amendments": 0
+ },
+ {
+  "file": "forskrift-2026-06-15-1084.md",
+  "refid": "forskrift/2026-06-15-1084",
+  "eli": "/eli/forskrift/2026/06/15/1084",
+  "tittel": "Forskrift om endring i forskrifter hjemlet i helsepersonelloven og pasientjournalloven mv. som en følge av ikraftsetting av lov 23. januar 2026 nr. 1 om endringer i helsepersonelloven og pasientjournalloven mv. (taushetsplikt og tilgjengeliggjøring av pasientopplysninger)",
+  "korttittel": "",
+  "aliases": [],
+  "departement": [
+   "Helse- og omsorgsdepartementet"
+  ],
+  "kind": "forskrift",
+  "path": "forskrifter/forskrift-2026-06-15-1084.md",
+  "ikrafttredelse": "2026-07-01",
+  "sist_endret": "",
+  "github": "https://github.com/sondreskarsten/norwegian-laws/blob/main/forskrifter/forskrift-2026-06-15-1084.md",
+  "lovdata": "https://lovdata.no/dokument/SF/forskrift/2026-06-15-1084",
+  "log": "https://github.com/sondreskarsten/norwegian-laws/commits/law-history/forskrifter/forskrift-2026-06-15-1084.md",
+  "tags": [
+   "v2026"
+  ],
+  "amendments": 0
+ },
+ {
+  "file": "forskrift-2026-06-15-1087.md",
+  "refid": "forskrift/2026-06-15-1087",
+  "eli": "/eli/forskrift/2026/06/15/1087",
+  "tittel": "Forskrift om endring i utlendingsforskriften (forenkling av fireårskravet og melding om adresseendring mv.)",
+  "korttittel": "Endr. i utlendingsforskriften",
+  "aliases": [],
+  "departement": [
+   "Justis- og beredskapsdepartementet"
+  ],
+  "kind": "forskrift",
+  "path": "forskrifter/forskrift-2026-06-15-1087.md",
+  "ikrafttredelse": "2026-07-01, 2026-09-01, departementet bestemmer",
+  "sist_endret": "",
+  "github": "https://github.com/sondreskarsten/norwegian-laws/blob/main/forskrifter/forskrift-2026-06-15-1087.md",
+  "lovdata": "https://lovdata.no/dokument/SF/forskrift/2026-06-15-1087",
+  "log": "https://github.com/sondreskarsten/norwegian-laws/commits/law-history/forskrifter/forskrift-2026-06-15-1087.md",
   "tags": [
    "v2026"
   ],
