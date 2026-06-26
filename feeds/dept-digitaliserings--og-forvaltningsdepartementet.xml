@@ -3,10 +3,29 @@
   <title>Digitaliserings- og forvaltningsdepartementet — endringer</title>
   <link href="https://sondreskarsten.github.io/norwegian-laws/feeds/dept-digitaliserings--og-forvaltningsdepartementet.xml" rel="self"/>
   <link href="https://sondreskarsten.github.io/norwegian-laws/"/>
-  <updated>2026-06-25T06:27:50Z</updated>
+  <updated>2026-06-26T06:29:19Z</updated>
   <id>https://sondreskarsten.github.io/norwegian-laws/feeds/dept-digitaliserings--og-forvaltningsdepartementet.xml</id>
   <author><name>Lovtidend</name></author>
   <subtitle>Endringer i lover og forskrifter under Digitaliserings- og forvaltningsdepartementet</subtitle>
+<entry>
+  <id>https://sondreskarsten.github.io/norwegian-laws/feeds/forskrift/2024-12-18-3313/forskrift/2026-06-22-1320</id>
+  <title>Forskrift om endring i forskrift om datasenter</title>
+  <link href="https://sondreskarsten.github.io/norwegian-laws/forskrifter/forskrift-2024-12-18-3313.html"/>
+  <updated>2026-06-25T00:00:00Z</updated>
+  <category term="§ 1-3" label="§ 1-3"/>
+  <category term="§ 1-4" label="§ 1-4"/>
+  <category term="§ 1-5" label="§ 1-5"/>
+  <category term="§ 1-6" label="§ 1-6"/>
+  <category term="§ 1-7" label="§ 1-7"/>
+  <category term="§ 2-2" label="§ 2-2"/>
+  <category term="§ 3-2" label="§ 3-2"/>
+  <summary>Ikrafttredelse: 2026-07-01
+Departement: Digitaliserings- og forvaltningsdepartementet
+Endrer: forskrift/2024-12-18-3313
+Lovtidend: 2026-0813
+Berørte paragrafer: § 1-3, § 1-4, § 1-5, § 1-6, § 1-7, § 2-2, § 3-2
+Hjemmel:Fastsatt av Digitaliserings- og forvaltningsdepartementet 22. juni 2026 med hjemmel i lov 13. desember 2024 nr. 76 om elektronisk kommunikasjon (ekomloven) § 3-7.</summary>
+</entry>
 <entry>
   <id>https://sondreskarsten.github.io/norwegian-laws/feeds/forskrift/2024-12-20-3410/forskrift/2026-06-23-1250</id>
   <title>Forskrift om cybersikkerhetssertifisering</title>
@@ -551,16 +570,5 @@ Departement: Kommunal- og distriktsdepartementet
 Endrer: forskrift/2013-06-21-732
 Lovtidend: 2023-0079
 Hjemmel:Fastsatt av Kommunal- og distriktsdepartementet 17. januar 2023 med hjemmel i lov 16. juni 2017 nr. 51 om likestilling og forbud mot diskriminering (likestillings- og diskrimineringsloven) § 2, § 18, § 19a, § 36, § 36a og § 41, jf. delegeringsvedtak 21. juni 2013 nr. 717, delegeringsvedtak 1</summary>
-</entry>
-<entry>
-  <id>https://sondreskarsten.github.io/norwegian-laws/feeds/forskrift/2013-10-21-1241/forskrift/2022-12-23-2505</id>
-  <title>Forskrift om endring i forskrift om prioritet i mobilnett</title>
-  <link href="https://sondreskarsten.github.io/norwegian-laws/forskrifter/forskrift-2013-10-21-1241.html"/>
-  <updated>2022-12-28T00:00:00Z</updated>
-  <summary>Ikrafttredelse: 2023-09-15
-Departement: Kommunal- og distriktsdepartementet
-Endrer: forskrift/2013-10-21-1241
-Lovtidend: 2022-1972
-Hjemmel:Fastsatt av Nasjonal kommunikasjonsmyndighet 23. desember 2022 med hjemmel i lov 4. juli 2003 nr. 83 om elektronisk kommunikasjon (ekomloven) § 1-4, § 2-10, § 10-1 og § 10-3, jf. delegeringsvedtak 18. juni 2021 nr. 2024.</summary>
 </entry>
 </feed>
