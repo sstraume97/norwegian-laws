@@ -3,10 +3,34 @@
   <title>Helse- og omsorgsdepartementet — endringer</title>
   <link href="https://sondreskarsten.github.io/norwegian-laws/feeds/dept-helse--og-omsorgsdepartementet.xml" rel="self"/>
   <link href="https://sondreskarsten.github.io/norwegian-laws/"/>
-  <updated>2026-07-24T05:38:17Z</updated>
+  <updated>2026-07-25T05:34:32Z</updated>
   <id>https://sondreskarsten.github.io/norwegian-laws/feeds/dept-helse--og-omsorgsdepartementet.xml</id>
   <author><name>Lovtidend</name></author>
   <subtitle>Endringer i lover og forskrifter under Helse- og omsorgsdepartementet</subtitle>
+<entry>
+  <id>https://sondreskarsten.github.io/norwegian-laws/feeds/forskrift/2022-09-08-1573/forskrift/2026-07-03-1578</id>
+  <title>Forskrift om endring i forskrift om legemidler til dyr</title>
+  <link href="https://sondreskarsten.github.io/norwegian-laws/forskrifter/forskrift-2022-09-08-1573.html"/>
+  <updated>2026-07-24T00:00:00Z</updated>
+  <category term="§ 1-3" label="§ 1-3"/>
+  <summary>Ikrafttredelse: 2026-07-11
+Departement: Helse- og omsorgsdepartementet
+Endrer: forskrift/2022-09-08-1573
+Lovtidend: 2026-0943
+Berørte paragrafer: § 1-3
+Hjemmel:Fastsatt av Helse- og omsorgsdepartementet 3. juli 2026 med hjemmel i lov 4. desember 1992 nr. 132 om legemidler m.v. (legemiddelloven) § 2d.EØS-henvisninger:EØS-avtalen vedlegg II kap. XIII nr. 22b (forordning (EU) 2021/17 som sist endret ved forordning (EU) 2026/758).</summary>
+</entry>
+<entry>
+  <id>https://sondreskarsten.github.io/norwegian-laws/feeds/forskrift/2021-05-09-1476/forskrift/2026-07-03-1579</id>
+  <title>Forskrift om endring i forskrift om medisinsk utstyr</title>
+  <link href="https://sondreskarsten.github.io/norwegian-laws/forskrifter/forskrift-2021-05-09-1476.html"/>
+  <updated>2026-07-24T00:00:00Z</updated>
+  <summary>Ikrafttredelse: 2026-07-11
+Departement: Helse- og omsorgsdepartementet
+Endrer: forskrift/2021-05-09-1476
+Lovtidend: 2026-0944
+Hjemmel:Fastsatt av Helse- og omsorgsdepartementet 3. juli 2026 med hjemmel i lov 7. mai 2020 nr. 37 om medisinsk utstyr § 1.EØS-henvisninger:EØS-avtalen vedlegg II kap. XXX nr. 12d (forordning (EU) 2023/2713 som endret ved forordning (EU) 2025/2526).</summary>
+</entry>
 <entry>
   <id>https://sondreskarsten.github.io/norwegian-laws/feeds/forskrift/2005-04-12-319/forskrift/2026-07-14-1562</id>
   <title>Forskrift om endring i forskrift om tilsetningsstoffer til bruk i fôrvarer</title>
@@ -539,27 +563,5 @@ Endrer: lov/1992-12-04-132,lov/2000-06-02-39,lov/2020-05-07-37
 Lovtidend: 2026-0635
 Berørte paragrafer: § 5-4
 Prop. 77 LS (2025–2026), Innst. 347 L (2025–2026), Lovvedtak 66 (2025–2026). Stortingets første og andre gangs behandling hhv. 4. og 8. juni 2026. Fremmet av Helse- og omsorgsdepartementet.</summary>
-</entry>
-<entry>
-  <id>https://sondreskarsten.github.io/norwegian-laws/feeds/lov/1999-07-02-64/forskrift/2026-06-19-1142</id>
-  <title>Ikraftsetting av lov 19. juni 2026 nr. 42 om endringar i pasient- og brukerrettighetsloven mv. (rett til å ha med andre personar når det blir gitt helse- og omsorgstenester)</title>
-  <link href="https://sondreskarsten.github.io/norwegian-laws/lover/lov-1999-07-02-64.html"/>
-  <updated>2026-06-19T00:00:00Z</updated>
-  <summary>Ikrafttredelse: 2026-07-01
-Departement: Helse- og omsorgsdepartementet
-Endrer: lov/1999-07-02-61,lov/1999-07-02-63,lov/1999-07-02-64,lov/2011-06-24-30
-Lovtidend: 2026-0729
-Hjemmel:Fastsatt ved kgl.res. 19. juni 2026 med hjemmel i lov 19. juni 2026 nr. 42 om endringar i pasient- og brukerrettighetsloven mv. (rett til å ha med andre personar når det blir gitt helse- og omsorgstenester) del V. Fremmet av Helse- og omsorgsdepartementet.</summary>
-</entry>
-<entry>
-  <id>https://sondreskarsten.github.io/norwegian-laws/feeds/lov/1999-07-02-64/lov/2026-06-19-42</id>
-  <title>Endringslov til pasient- og brukerrettighetsloven mv.</title>
-  <link href="https://sondreskarsten.github.io/norwegian-laws/lover/lov-1999-07-02-64.html"/>
-  <updated>2026-06-19T00:00:00Z</updated>
-  <summary>Ikrafttredelse: Kongen fastset
-Departement: Helse- og omsorgsdepartementet
-Endrer: lov/1999-07-02-61,lov/1999-07-02-63,lov/1999-07-02-64,lov/2011-06-24-30
-Lovtidend: 2026-0634
-Prop. 53 L (2025–2026), Innst. 344 L (2025–2026), Lovvedtak 65 (2025–2026). Stortingets første og andre gongs behandling hvv. 4. og 8. juni 2026. Fremja av Helse- og omsorgsdepartementet.</summary>
 </entry>
 </feed>
