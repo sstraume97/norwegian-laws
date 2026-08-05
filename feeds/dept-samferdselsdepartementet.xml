@@ -3,10 +3,21 @@
   <title>Samferdselsdepartementet — endringer</title>
   <link href="https://sondreskarsten.github.io/norwegian-laws/feeds/dept-samferdselsdepartementet.xml" rel="self"/>
   <link href="https://sondreskarsten.github.io/norwegian-laws/"/>
-  <updated>2026-08-04T05:34:22Z</updated>
+  <updated>2026-08-05T05:32:40Z</updated>
   <id>https://sondreskarsten.github.io/norwegian-laws/feeds/dept-samferdselsdepartementet.xml</id>
   <author><name>Lovtidend</name></author>
   <subtitle>Endringer i lover og forskrifter under Samferdselsdepartementet</subtitle>
+<entry>
+  <id>https://sondreskarsten.github.io/norwegian-laws/feeds/forskrift/2026-01-16-55/forskrift/2026-08-03-1604</id>
+  <title>Forskrift om opprettelse av et permanent restriksjonsområde over Jan Mayen mv.</title>
+  <link href="https://sondreskarsten.github.io/norwegian-laws/forskrifter/forskrift-2026-01-16-55.html"/>
+  <updated>2026-08-04T00:00:00Z</updated>
+  <summary>Ikrafttredelse: 2026-08-03
+Departement: Samferdselsdepartementet
+Endrer: forskrift/2026-01-16-55
+Lovtidend: 2026-0960
+Hjemmel:Fastsatt av Luftfartstilsynet 3. august 2026 med hjemmel i lov 11. juni 1993 nr. 101 om luftfart (luftfartsloven) § 9-1a første ledd, jf. § 13a-5, jf. delegeringsvedtak 14. august 2017 nr. 1639 og forskrift 14. desember 2021 nr. 3530 om luftromsorganisering § 17, jf. § 4.</summary>
+</entry>
 <entry>
   <id>https://sondreskarsten.github.io/norwegian-laws/feeds/forskrift/2023-10-24-1697/forskrift/2026-07-27-1591</id>
   <title>Endr. i veglister spesialtransport</title>
@@ -557,19 +568,5 @@ Departement: Samferdselsdepartementet
 Endrer: forskrift/2011-03-01-214
 Lovtidend: 2026-0574
 Hjemmel:Fastsatt av Samferdselsdepartementet 27. mai 2026 med hjemmel i lov 11. juni 1993 nr. 101 om luftfart (luftfartsloven) § 7-24.</summary>
-</entry>
-<entry>
-  <id>https://sondreskarsten.github.io/norwegian-laws/feeds/forskrift/1994-10-04-918/forskrift/2026-05-13-855</id>
-  <title>Endr. i kjøretøyforskriften</title>
-  <link href="https://sondreskarsten.github.io/norwegian-laws/forskrifter/forskrift-1994-10-04-918.html"/>
-  <updated>2026-05-20T00:00:00Z</updated>
-  <category term="§ 6-9" label="§ 6-9"/>
-  <category term="§ 7-2" label="§ 7-2"/>
-  <summary>Ikrafttredelse: 2026-06-08
-Departement: Samferdselsdepartementet
-Endrer: forskrift/1994-10-04-918
-Lovtidend: 2026-0541
-Berørte paragrafer: § 6-9, § 7-2
-Hjemmel:Fastsatt av Vegdirektoratet 13. mai 2026 med hjemmel i lov 18. juni 1965 nr. 4 om vegtrafikk (vegtrafikkloven) §§ 13 og 14, jf. delegeringsvedtak 24. november 1980 nr. 1.</summary>
 </entry>
 </feed>
