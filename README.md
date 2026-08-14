@@ -10,7 +10,7 @@
   <a href="https://github.com/sondreskarsten/norwegian-laws/actions/workflows/deploy.yml"><img alt="Build" src="https://github.com/sondreskarsten/norwegian-laws/actions/workflows/deploy.yml/badge.svg"></a>
   <a href="https://github.com/sondreskarsten/norwegian-laws/commits/main"><img alt="Last commit" src="https://img.shields.io/github/last-commit/sondreskarsten/norwegian-laws?label=updated&color=2780e3"></a>
   <img alt="Coverage" src="https://img.shields.io/badge/coverage-4%2C204_documents-2780e3">
-  <img alt="Amendments" src="https://img.shields.io/badge/dated_amendments-39%2C092-ba0c2f">
+  <img alt="Amendments" src="https://img.shields.io/badge/dated_amendments-39%2C094-ba0c2f">
   <img alt="Feeds" src="https://img.shields.io/badge/atom_feeds-2%2C627-7a92b8">
   <a href="LICENSE"><img alt="License" src="https://img.shields.io/badge/code-MIT-success"></a>
   <img alt="Data license" src="https://img.shields.io/badge/data-NLOD_2.0-blue">
@@ -52,11 +52,11 @@ The most recently published lover and forskrifter from Norsk Lovtidend, auto-upd
 
 | Date | Amendment | Targets |
 |---|---|---|
+| 2026-08-13 | Endr. i skiltforskriften | [`forskrift/2005-10-07-1219`](https://sondreskarsten.github.io/norwegian-laws/forskrifter/forskrift-2005-10-07-1219.html) |
+| 2026-08-13 | Forskrift om endring i forskrift om studium og eksamen ved Høgskule… | [`forskrift/2025-06-12-1547`](https://sondreskarsten.github.io/norwegian-laws/forskrifter/forskrift-2025-06-12-1547.html) |
 | 2026-08-07 | Forskrift om studier og eksamen ved Samisk høgskole | [`forskrift/2011-02-15-460`](https://sondreskarsten.github.io/norwegian-laws/forskrifter/forskrift-2011-02-15-460.html) [`forskrift/2015-05-27-890`](https://sondreskarsten.github.io/norwegian-laws/forskrifter/forskrift-2015-05-27-890.html) |
 | 2026-08-06 | Forskrift om endring i forskrift om regulering i fisket etter sild … | [`forskrift/2025-12-19-2828`](https://sondreskarsten.github.io/norwegian-laws/forskrifter/forskrift-2025-12-19-2828.html) |
 | 2026-08-05 | Endr. i finansforetaksforskriften | [`forskrift/2016-12-09-1502`](https://sondreskarsten.github.io/norwegian-laws/forskrifter/forskrift-2016-12-09-1502.html) |
-| 2026-08-04 | Forskrift om opprettelse av et permanent restriksjonsområde over Ja… | [`forskrift/2026-01-16-55`](https://sondreskarsten.github.io/norwegian-laws/forskrifter/forskrift-2026-01-16-55.html) |
-| 2026-08-04 | Forskrift om endring i forskrift om regulering av brosme og lange n… | [`forskrift/2025-12-18-2688`](https://sondreskarsten.github.io/norwegian-laws/forskrifter/forskrift-2025-12-18-2688.html) |
 <!-- RECENT_AMENDMENTS_END -->
 
 ---
@@ -152,7 +152,7 @@ Pick a law, pick two versions, see exactly what changed. Word-level diff in the 
 |---|---|
 | 📜 **Complete coverage** | All 783 formal laws + 3,421 central regulations |
 | 🔔 **Per-law Atom feeds** | 2,627 subscribable feeds — one per law/forskrift with amendments, plus 35 rettsområde and 16 ministry feeds |
-| 🕰️ **Backdated git history** | 39,092 amendment acts as backdated commits, with commit date = ikrafttredelse |
+| 🕰️ **Backdated git history** | 39,094 amendment acts as backdated commits, with commit date = ikrafttredelse |
 | 📑 **Endringshistorikk per paragraf** | Per-law amendment timeline ([example](https://sondreskarsten.github.io/norwegian-laws/historie/regnskapsloven.html)) plus 13,700+ per-paragraph history pages ([example: § 7-25](https://sondreskarsten.github.io/norwegian-laws/historikk/lov-1998-07-17-56/para-7-25.html)) |
 | 🔍 **Full-text search** | Searches title, body, refid, and common abbreviations (`aml`, `pbl`, `rskl`) |
 | 📊 **Cross-version diff** | Browser-based diff between any two yearly snapshots (`v2001`–`v2027`) |
