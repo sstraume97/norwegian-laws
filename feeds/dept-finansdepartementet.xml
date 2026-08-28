@@ -3,10 +3,25 @@
   <title>Finansdepartementet — endringer</title>
   <link href="https://sondreskarsten.github.io/norwegian-laws/feeds/dept-finansdepartementet.xml" rel="self"/>
   <link href="https://sondreskarsten.github.io/norwegian-laws/"/>
-  <updated>2026-08-27T12:51:57Z</updated>
+  <updated>2026-08-28T14:21:58Z</updated>
   <id>https://sondreskarsten.github.io/norwegian-laws/feeds/dept-finansdepartementet.xml</id>
   <author><name>Lovtidend</name></author>
   <subtitle>Endringer i lover og forskrifter under Finansdepartementet</subtitle>
+<entry>
+  <id>https://sondreskarsten.github.io/norwegian-laws/feeds/forskrift/2022-10-27-1901/forskrift/2026-08-26-1683</id>
+  <title>Endr. i vareførselsforskriften</title>
+  <link href="https://sondreskarsten.github.io/norwegian-laws/forskrifter/forskrift-2022-10-27-1901.html"/>
+  <updated>2026-08-27T00:00:00Z</updated>
+  <category term="§ 2-2" label="§ 2-2"/>
+  <category term="§ 2-4" label="§ 2-4"/>
+  <category term="§ 7-2" label="§ 7-2"/>
+  <summary>Ikrafttredelse: 2026-09-15
+Departement: Finansdepartementet
+Endrer: forskrift/2022-10-27-1901
+Lovtidend: 2026-0992
+Berørte paragrafer: § 2-2, § 2-4, § 7-2
+Hjemmel:Fastsatt av Tolletaten 26. august 2026 med hjemmel i lov 11. mars 2022 nr. 9 om inn- og utførsel av varer (vareførselsloven) §§ 2-2, 2-3, 2-4 og 7-2, jf. delegeringsvedtak 19. oktober 2022 nr. 1761.</summary>
+</entry>
 <entry>
   <id>https://sondreskarsten.github.io/norwegian-laws/feeds/forskrift/2025-06-24-1296/forskrift/2026-08-20-1657</id>
   <title>Endr. i DORA-forskriften mfl.</title>
@@ -604,18 +619,5 @@ Endrer: lov/1915-08-13-5,lov/1916-06-30-1,lov/1918-05-31-4,lov/1932-05-27-2,lov/
 Lovtidend: 2026-0675
 Berørte paragrafer: § 6-5
 Prop. 56 L (2025–2026), Innst. 355 L (2025–2026), Lovvedtak 79 (2025–2026). Stortingets første og andre gangs behandling hhv. 9. og 15. juni 2026. Fremmet av Justis- og beredskapsdepartementet.</summary>
-</entry>
-<entry>
-  <id>https://sondreskarsten.github.io/norwegian-laws/feeds/lov/2009-06-19-58/lov/2026-06-19-41</id>
-  <title>Særavgiftsloven</title>
-  <link href="https://sondreskarsten.github.io/norwegian-laws/lover/lov-2009-06-19-58.html"/>
-  <updated>2026-06-19T00:00:00Z</updated>
-  <category term="§ 6-7" label="§ 6-7"/>
-  <summary>Ikrafttredelse: Kongen bestemmer
-Departement: Finansdepartementet
-Endrer: lov/1927-07-01-1,lov/1933-05-19-11,lov/1959-06-19-2,lov/1963-06-21-23,lov/1975-12-12-59,lov/2001-06-15-93,lov/2005-06-17-67,lov/2005-06-17-85,lov/2007-06-29-73,lov/2009-06-19-58,lov/2016-05-27-14
-Lovtidend: 2026-0639
-Berørte paragrafer: § 6-7
-Prop. 55 L (2025–2026), Innst. 364 L (2025–2026), Lovvedtak 70 (2025–2026). Stortingets første og andre gangs behandling hhv. 5. og 8. juni 2026. Fremmet av Finansdepartementet.</summary>
 </entry>
 </feed>
