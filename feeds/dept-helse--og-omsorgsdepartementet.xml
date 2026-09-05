@@ -3,10 +3,21 @@
   <title>Helse- og omsorgsdepartementet — endringer</title>
   <link href="https://sondreskarsten.github.io/norwegian-laws/feeds/dept-helse--og-omsorgsdepartementet.xml" rel="self"/>
   <link href="https://sondreskarsten.github.io/norwegian-laws/"/>
-  <updated>2026-09-04T07:17:26Z</updated>
+  <updated>2026-09-05T07:01:59Z</updated>
   <id>https://sondreskarsten.github.io/norwegian-laws/feeds/dept-helse--og-omsorgsdepartementet.xml</id>
   <author><name>Lovtidend</name></author>
   <subtitle>Endringer i lover og forskrifter under Helse- og omsorgsdepartementet</subtitle>
+<entry>
+  <id>https://sondreskarsten.github.io/norwegian-laws/feeds/forskrift/2022-05-02-814/forskrift/2026-07-13-1728</id>
+  <title>Forskrift om endring i forskrift om prøvetaking og analysemetoder for restmengder av farmakologisk virksomme stoffer som brukes i dyr bestemt til næringsmiddelproduksjon</title>
+  <link href="https://sondreskarsten.github.io/norwegian-laws/forskrifter/forskrift-2022-05-02-814.html"/>
+  <updated>2026-09-04T00:00:00Z</updated>
+  <summary>Ikrafttredelse: 2026-07-13
+Departement: Helse- og omsorgsdepartementet
+Endrer: forskrift/2022-05-02-814
+Lovtidend: 2026-1019
+Hjemmel:Fastsatt av Mattilsynet 13. juli 2026 med hjemmel i lov 19. desember 2003 nr. 124 om matproduksjon og mattrygghet mv. (matloven) § 9, § 16 og § 33, jf. delegeringsvedtak 19. desember 2003 nr. 1790 og delegeringsvedtak 5. mai 2004 nr. 884.EØS-henvisninger:EØS-avtalen vedlegg I kap. I del 7.2 </summary>
+</entry>
 <entry>
   <id>https://sondreskarsten.github.io/norwegian-laws/feeds/forskrift/2013-02-14-199/forskrift/2026-08-26-1682</id>
   <title>Endr. i narkotikaforskriften</title>
@@ -550,18 +561,5 @@ Departement: Helse- og omsorgsdepartementet
 Endrer: lov/1999-07-02-61,lov/1999-07-02-63,lov/1999-07-02-64,lov/2011-06-24-30
 Lovtidend: 2026-0729
 Hjemmel:Fastsatt ved kgl.res. 19. juni 2026 med hjemmel i lov 19. juni 2026 nr. 42 om endringar i pasient- og brukerrettighetsloven mv. (rett til å ha med andre personar når det blir gitt helse- og omsorgstenester) del V. Fremmet av Helse- og omsorgsdepartementet.</summary>
-</entry>
-<entry>
-  <id>https://sondreskarsten.github.io/norwegian-laws/feeds/lov/1999-07-02-63/lov/2026-06-19-42</id>
-  <title>Endringslov til pasient- og brukerrettighetsloven mv.</title>
-  <link href="https://sondreskarsten.github.io/norwegian-laws/lover/lov-1999-07-02-63.html"/>
-  <updated>2026-06-19T00:00:00Z</updated>
-  <category term="§ 3-1" label="§ 3-1"/>
-  <summary>Ikrafttredelse: Kongen fastset
-Departement: Helse- og omsorgsdepartementet
-Endrer: lov/1999-07-02-61,lov/1999-07-02-63,lov/1999-07-02-64,lov/2011-06-24-30
-Lovtidend: 2026-0634
-Berørte paragrafer: § 3-1
-Prop. 53 L (2025–2026), Innst. 344 L (2025–2026), Lovvedtak 65 (2025–2026). Stortingets første og andre gongs behandling hvv. 4. og 8. juni 2026. Fremja av Helse- og omsorgsdepartementet.</summary>
 </entry>
 </feed>
