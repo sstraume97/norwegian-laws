@@ -888,6 +888,12 @@
    "korttittel": "Lov om internasjonal sikkerhet i mobilt løsøre",
    "count": 1
   },
+  "lov/2026-06-12-24": {
+   "path": "feeds/lov-2026-06-12-24.xml",
+   "tittel": "Lov om endringer i folketrygdloven og enkelte andre lover (oppfølging av Stortingets vedtak om økt fribeløp for uføre)",
+   "korttittel": "Endringslov til folketrygdloven mv.",
+   "count": 1
+  },
   "lov/1977-06-10-73": {
    "path": "feeds/lov-1977-06-10-73.xml",
    "tittel": "Lov om jernbaneansvar (jernbaneansvarsloven)",
@@ -8878,7 +8884,7 @@
    "path": "feeds/forskrift-2018-09-26-1467.xml",
    "tittel": "Forskrift om fartsskriververksteder",
    "korttittel": "",
-   "count": 13
+   "count": 14
   },
   "forskrift/2009-12-17-1593": {
    "path": "feeds/forskrift-2009-12-17-1593.xml",
@@ -10690,7 +10696,7 @@
    "path": "feeds/forskrift-2025-12-02-2405.xml",
    "tittel": "Forskrift om fastlegeordning i kommunene (fastlegeforskriften)",
    "korttittel": "Fastlegeforskriften",
-   "count": 2
+   "count": 3
   },
   "forskrift/2023-04-21-532": {
    "path": "feeds/forskrift-2023-04-21-532.xml",
@@ -11758,7 +11764,7 @@
    "path": "feeds/forskrift-2024-03-06-538.xml",
    "tittel": "Forskrift om EU-gjødselvarer (EU-gjødselvareforskriften)",
    "korttittel": "EU-gjødselvareforskriften",
-   "count": 4
+   "count": 5
   },
   "forskrift/2021-05-11-1459": {
    "path": "feeds/forskrift-2021-05-11-1459.xml",
@@ -12790,6 +12796,12 @@
    "path": "feeds/forskrift-2016-06-03-573.xml",
    "tittel": "Forskrift om registre for administrering og samordning av syketransport (syketransportregisterforskriften)",
    "korttittel": "Syketransportregisterforskriften",
+   "count": 1
+  },
+  "forskrift/2022-12-21-2456": {
+   "path": "feeds/forskrift-2022-12-21-2456.xml",
+   "tittel": "Forskrift om overgangsregler i forbindelse med endringer i folketrygdloven kapittel 4 fra 1. januar 2023",
+   "korttittel": "",
    "count": 1
   },
   "forskrift/2008-06-27-744": {
