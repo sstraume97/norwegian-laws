@@ -3,10 +3,21 @@
   <title>Kultur- og likestillingsdepartementet — endringer</title>
   <link href="https://sondreskarsten.github.io/norwegian-laws/feeds/dept-kultur--og-likestillingsdepartementet.xml" rel="self"/>
   <link href="https://sondreskarsten.github.io/norwegian-laws/"/>
-  <updated>2026-10-02T08:23:17Z</updated>
+  <updated>2026-10-03T08:02:14Z</updated>
   <id>https://sondreskarsten.github.io/norwegian-laws/feeds/dept-kultur--og-likestillingsdepartementet.xml</id>
   <author><name>Lovtidend</name></author>
   <subtitle>Endringer i lover og forskrifter under Kultur- og likestillingsdepartementet</subtitle>
+<entry>
+  <id>https://sondreskarsten.github.io/norwegian-laws/feeds/forskrift/2026-06-05-1024/forskrift/2026-09-29-1974</id>
+  <title>Endr. i anleggsforskriften</title>
+  <link href="https://sondreskarsten.github.io/norwegian-laws/forskrifter/forskrift-2026-06-05-1024.html"/>
+  <updated>2026-10-02T00:00:00Z</updated>
+  <summary>Ikrafttredelse: 2026-10-15
+Departement: Kultur- og likestillingsdepartementet
+Endrer: forskrift/2026-06-05-1024
+Lovtidend: 2026-1120
+Hjemmel:Fastsatt av Kultur- og likestillingsdepartementet 29. september 2026 med hjemmel i lov 18. mars 2022 nr. 12 om pengespill (pengespilloven) § 12.</summary>
+</entry>
 <entry>
   <id>https://sondreskarsten.github.io/norwegian-laws/feeds/forskrift/2016-10-31-1264/forskrift/2026-09-24-1948</id>
   <title>Forskrift om endring i forskrift om tilskudd til audiovisuell produksjon</title>
@@ -614,16 +625,5 @@ Departement: Kultur- og likestillingsdepartementet
 Endrer: lov/1973-03-09-14,lov/1987-05-15-21,lov/1989-06-02-27,lov/1992-12-04-127,lov/1992-12-04-132,lov/2015-02-06-7
 Lovtidend: 2025-0170
 Prop. 66 LS (2023–2024), Innst. 117 L (2024–2025), Lovvedtak 33 (2024–2025). Stortingets første og andre gangs behandling hhv. 13. og 18. februar 2025. Fremmet av Kultur- og likestillingsdepartementet.</summary>
-</entry>
-<entry>
-  <id>https://sondreskarsten.github.io/norwegian-laws/feeds/forskrift/2019-12-20-2114/forskrift/2025-01-13-209</id>
-  <title>Endr. i språkvedtaksforskrifta</title>
-  <link href="https://sondreskarsten.github.io/norwegian-laws/forskrifter/forskrift-2019-12-20-2114.html"/>
-  <updated>2025-02-14T00:00:00Z</updated>
-  <summary>Ikrafttredelse: 2025-01-13
-Departement: Kultur- og likestillingsdepartementet
-Endrer: forskrift/2019-12-20-2114
-Lovtidend: 2025-0034
-Heimel:Fastsett av Språkrådet 13. januar 2025 med heimel i lov 21. mai 2021 nr. 42 om språk (språklova) § 11 og forskrift 5. desember 1980 nr. 4938 om målbruk i offentleg teneste § 8 jf. delegeringsvedtak 3. juni 2016 nr. 1951.</summary>
 </entry>
 </feed>
