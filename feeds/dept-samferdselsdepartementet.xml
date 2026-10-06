@@ -3,10 +3,21 @@
   <title>Samferdselsdepartementet — endringer</title>
   <link href="https://sondreskarsten.github.io/norwegian-laws/feeds/dept-samferdselsdepartementet.xml" rel="self"/>
   <link href="https://sondreskarsten.github.io/norwegian-laws/"/>
-  <updated>2026-10-03T08:02:14Z</updated>
+  <updated>2026-10-06T09:00:15Z</updated>
   <id>https://sondreskarsten.github.io/norwegian-laws/feeds/dept-samferdselsdepartementet.xml</id>
   <author><name>Lovtidend</name></author>
   <subtitle>Endringer i lover og forskrifter under Samferdselsdepartementet</subtitle>
+<entry>
+  <id>https://sondreskarsten.github.io/norwegian-laws/feeds/forskrift/2007-07-02-877/forskrift/2026-10-02-1991</id>
+  <title>Forskrift om endring i forskrift om kjøre- og hviletid og fartsskriver for vegtransport i EØS</title>
+  <link href="https://sondreskarsten.github.io/norwegian-laws/forskrifter/forskrift-2007-07-02-877.html"/>
+  <updated>2026-10-05T00:00:00Z</updated>
+  <summary>Ikrafttredelse: 2027-01-01
+Departement: Samferdselsdepartementet
+Endrer: forskrift/2007-07-02-877
+Lovtidend: 2026-1133
+Hjemmel:Fastsatt av Samferdselsdepartementet 2. oktober 2026 med hjemmel i lov 18. juni 1965 nr. 4 om vegtrafikk (vegtrafikkloven) § 21.</summary>
+</entry>
 <entry>
   <id>https://sondreskarsten.github.io/norwegian-laws/feeds/forskrift/2022-06-28-1233/forskrift/2026-10-02-1981</id>
   <title>Forskrift om endring i forskrift om godkjenning av bil og tilhenger til bil</title>
@@ -570,16 +581,5 @@ Departement: Samferdselsdepartementet
 Endrer: forskrift/2025-10-24-2093
 Lovtidend: 2026-0888
 Hjemmel:Fastsatt av Luftfartstilsynet 1. juli 2026 med hjemmel i lov 11. juni 1993 nr. 101 om luftfart (luftfartsloven), § 4-10, § 5-1, § 5-3, § 5-4 første ledd, § 7-1, § 7-2, § 7-4 og § 16-1 første ledd, jf. forskrift 24. oktober 2025 nr. 2093 om informasjonssikkerhet i sivil luftfart § 4.EØS-henvi</summary>
-</entry>
-<entry>
-  <id>https://sondreskarsten.github.io/norwegian-laws/feeds/forskrift/2015-11-28-1365/forskrift/2026-07-01-1483</id>
-  <title>Forskrift om endring i forskrift om sertifisering av besetningsmedlemmer</title>
-  <link href="https://sondreskarsten.github.io/norwegian-laws/forskrifter/forskrift-2015-11-28-1365.html"/>
-  <updated>2026-07-02T00:00:00Z</updated>
-  <summary>Ikrafttredelse: 2026-07-01
-Departement: Samferdselsdepartementet
-Endrer: forskrift/2015-11-28-1365
-Lovtidend: 2026-0891
-Hjemmel:Fastsatt av Luftfartstilsynet 1. juli 2026 med hjemmel i lov 11. juni 1993 nr. 101 om luftfart (luftfartsloven) § 5-1, § 5-3, § 5-4 første ledd, § 16-1 første ledd, jf. forskrift 28. november 2015 nr. 1365 om sertifisering av besetningsmedlemmer § 4.EØS-henvisninger:EØS-avtalen vedlegg XIII </summary>
 </entry>
 </feed>

@@ -3,10 +3,21 @@
   <title>Digitaliserings- og forvaltningsdepartementet — endringer</title>
   <link href="https://sondreskarsten.github.io/norwegian-laws/feeds/dept-digitaliserings--og-forvaltningsdepartementet.xml" rel="self"/>
   <link href="https://sondreskarsten.github.io/norwegian-laws/"/>
-  <updated>2026-10-03T08:02:14Z</updated>
+  <updated>2026-10-06T09:00:15Z</updated>
   <id>https://sondreskarsten.github.io/norwegian-laws/feeds/dept-digitaliserings--og-forvaltningsdepartementet.xml</id>
   <author><name>Lovtidend</name></author>
   <subtitle>Endringer i lover og forskrifter under Digitaliserings- og forvaltningsdepartementet</subtitle>
+<entry>
+  <id>https://sondreskarsten.github.io/norwegian-laws/feeds/forskrift/2025-12-23-2895/forskrift/2026-09-30-1990</id>
+  <title>Vedtak om ikrafttredelse av forskrift 23. desember 2025 nr. 2895 om Klagenemnda for elektronisk kommunikasjon</title>
+  <link href="https://sondreskarsten.github.io/norwegian-laws/forskrifter/forskrift-2025-12-23-2895.html"/>
+  <updated>2026-10-05T00:00:00Z</updated>
+  <summary>Ikrafttredelse: 2026-09-30
+Departement: Digitaliserings- og forvaltningsdepartementet
+Endrer: forskrift/2025-12-23-2895
+Lovtidend: 2026-1136
+Hjemmel:Fastsatt av Digitaliserings- og forvaltningsdepartementet 30. september 2026 med hjemmel i lov 13. desember 2024 nr. 76 om elektroniske kommunikasjonsnett og elektroniske kommunikasjonstjenester (ekomloven) § 1-4 og § 16-6, jf. forskrift 23. desember 2025 nr. 2895om Klagenemnda for elektroni</summary>
+</entry>
 <entry>
   <id>https://sondreskarsten.github.io/norwegian-laws/feeds/forskrift/2024-12-20-3410/forskrift/2026-06-23-1357</id>
   <title>Vedtak om ikrafttredelse av forskrift 20. desember 2024 nr. 3410 om elektroniske kommunikasjonsnett og elektroniske kommunikasjonstjenester (ekomforskriften) § 4-15 første ledd andre punktum</title>
@@ -559,16 +570,5 @@ Departement: Kommunal- og distriktsdepartementet
 Endrer: forskrift/2004-02-16-426
 Lovtidend: 2023-0608
 Hjemmel:Fastsatt av Nasjonal kommunikasjonsmyndighet 12. juni 2023 med hjemmel i lov 4. juli 2003 nr. 83 om elektronisk kommunikasjon (ekomloven) § 7-1 og funksjonsfordelingsvedtak 18. juni 2021 nr. 2024.</summary>
-</entry>
-<entry>
-  <id>https://sondreskarsten.github.io/norwegian-laws/feeds/forskrift/2012-01-19-77/forskrift/2023-04-25-624</id>
-  <title>Endr. i fribruksforskriften</title>
-  <link href="https://sondreskarsten.github.io/norwegian-laws/forskrifter/forskrift-2012-01-19-77.html"/>
-  <updated>2023-04-28T00:00:00Z</updated>
-  <summary>Ikrafttredelse: 2023-05-01
-Departement: Kommunal- og distriktsdepartementet
-Endrer: forskrift/2012-01-19-77
-Lovtidend: 2023-0418
-Hjemmel:Fastsatt av Nasjonal kommunikasjonsmyndighet 25. april 2023 med hjemmel i lov 4. juli 2003 nr. 83 om elektronisk kommunikasjon (ekomloven) § 6-2, jf. delegeringsvedtak 18. juni 2021 nr. 2024.EØS-henvisninger:EØS-avtalen vedlegg XI nr. 5cr (vedtak 2005/50/EF, endret ved beslutning 2011/485/EU</summary>
 </entry>
 </feed>
