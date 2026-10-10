@@ -3,10 +3,21 @@
   <title>Samferdselsdepartementet — endringer</title>
   <link href="https://sondreskarsten.github.io/norwegian-laws/feeds/dept-samferdselsdepartementet.xml" rel="self"/>
   <link href="https://sondreskarsten.github.io/norwegian-laws/"/>
-  <updated>2026-10-09T08:54:05Z</updated>
+  <updated>2026-10-10T08:24:00Z</updated>
   <id>https://sondreskarsten.github.io/norwegian-laws/feeds/dept-samferdselsdepartementet.xml</id>
   <author><name>Lovtidend</name></author>
   <subtitle>Endringer i lover og forskrifter under Samferdselsdepartementet</subtitle>
+<entry>
+  <id>https://sondreskarsten.github.io/norwegian-laws/feeds/forskrift/2022-12-20-2384/forskrift/2026-10-09-2029</id>
+  <title>Forskrift om endring i forskrift om utslippskrav til kjøretøy ved offentlig anskaffelse til veitransport</title>
+  <link href="https://sondreskarsten.github.io/norwegian-laws/forskrifter/forskrift-2022-12-20-2384.html"/>
+  <updated>2026-10-09T00:00:00Z</updated>
+  <summary>Ikrafttredelse: 2026-10-09
+Departement: Samferdselsdepartementet
+Endrer: forskrift/2022-12-20-2384
+Lovtidend: 2026-1155
+Hjemmel:Fastsatt av Samferdselsdepartementet 9. oktober 2026 med hjemmel i lov 17. juni 2016 nr. 73 om offentlige anskaffelser (anskaffelsesloven) § 5c og § 16 fjerde ledd og lov 21. juni 2002 nr. 45 om yrkestransport med motorvogn og fartøy (yrkestransportlova) § 11a.</summary>
+</entry>
 <entry>
   <id>https://sondreskarsten.github.io/norwegian-laws/feeds/forskrift/2007-07-02-877/forskrift/2026-10-02-1991</id>
   <title>Forskrift om endring i forskrift om kjøre- og hviletid og fartsskriver for vegtransport i EØS</title>
@@ -570,16 +581,5 @@ Departement: Samferdselsdepartementet
 Endrer: forskrift/2015-08-25-1000
 Lovtidend: 2026-0899
 Hjemmel:Fastsatt av Luftfartstilsynet 1. juli 2026 med hjemmel i lov 11. juni 1993 nr. 101 om luftfart (luftfartsloven) §§ 7-1, 7-11 og 16-1, jf. delegeringsvedtak 10. desember 1999 nr. 1273 og forskrift 25. august 2015 nr. 1000 om sertifisering av flyplasser mv. § 4, jf. delegeringsvedtak 24. juni </summary>
-</entry>
-<entry>
-  <id>https://sondreskarsten.github.io/norwegian-laws/feeds/forskrift/2025-10-24-2093/forskrift/2026-07-01-1481</id>
-  <title>Forskrift om endring i forskrift om informasjonssikkerhet i sivil luftfart</title>
-  <link href="https://sondreskarsten.github.io/norwegian-laws/forskrifter/forskrift-2025-10-24-2093.html"/>
-  <updated>2026-07-02T00:00:00Z</updated>
-  <summary>Ikrafttredelse: 2026-07-01
-Departement: Samferdselsdepartementet
-Endrer: forskrift/2025-10-24-2093
-Lovtidend: 2026-0888
-Hjemmel:Fastsatt av Luftfartstilsynet 1. juli 2026 med hjemmel i lov 11. juni 1993 nr. 101 om luftfart (luftfartsloven), § 4-10, § 5-1, § 5-3, § 5-4 første ledd, § 7-1, § 7-2, § 7-4 og § 16-1 første ledd, jf. forskrift 24. oktober 2025 nr. 2093 om informasjonssikkerhet i sivil luftfart § 4.EØS-henvi</summary>
 </entry>
 </feed>
