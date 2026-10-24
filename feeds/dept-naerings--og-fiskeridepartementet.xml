@@ -3,10 +3,21 @@
   <title>Nærings- og fiskeridepartementet — endringer</title>
   <link href="https://sondreskarsten.github.io/norwegian-laws/feeds/dept-naerings--og-fiskeridepartementet.xml" rel="self"/>
   <link href="https://sondreskarsten.github.io/norwegian-laws/"/>
-  <updated>2026-10-23T07:24:27Z</updated>
+  <updated>2026-10-24T07:14:12Z</updated>
   <id>https://sondreskarsten.github.io/norwegian-laws/feeds/dept-naerings--og-fiskeridepartementet.xml</id>
   <author><name>Lovtidend</name></author>
   <subtitle>Endringer i lover og forskrifter under Nærings- og fiskeridepartementet</subtitle>
+<entry>
+  <id>https://sondreskarsten.github.io/norwegian-laws/feeds/forskrift/2020-11-20-2424/forskrift/2026-10-22-2113</id>
+  <title>Forskrift om endring i forskrift om særskilte forenklede importvilkår fastsatt i ekvivalensavtaler</title>
+  <link href="https://sondreskarsten.github.io/norwegian-laws/forskrifter/forskrift-2020-11-20-2424.html"/>
+  <updated>2026-10-23T00:00:00Z</updated>
+  <summary>Ikrafttredelse: 2026-10-22
+Departement: Helse- og omsorgsdepartementetLandbruks- og matdepartementetNærings- og fiskeridepartementet
+Endrer: forskrift/2020-11-20-2424
+Lovtidend: 2026-1192
+Hjemmel:Fastsatt av Mattilsynet 22. oktober 2026 med hjemmel i lov 19. desember 2003 nr. 124 om matproduksjon og mattrygghet mv. (matloven) § 23 tredje ledd, jf. § 33, jf. delegeringsvedtak 19. desember 2003 nr. 1790 og delegeringsvedtak 5. mai 2004 nr. 884.</summary>
+</entry>
 <entry>
   <id>https://sondreskarsten.github.io/norwegian-laws/feeds/forskrift/2025-12-19-2737/forskrift/2026-10-20-2107</id>
   <title>Forskrift om endring i forskrift om regulering av fisket etter sei i Nordsjøen og Skagerrak i 2026</title>
@@ -549,16 +560,5 @@ Departement: Nærings- og fiskeridepartementet
 Endrer: forskrift/2025-12-19-2826
 Lovtidend: 2026-1014
 Hjemmel:Fastsatt av Fiskeridirektoratet 31. august 2026 med hjemmel i forskrift 19. desember 2025 nr. 2826 om regulering av fisket etter torsk, hyse og sei nord for 62 grader nord i 2026 § 36.</summary>
-</entry>
-<entry>
-  <id>https://sondreskarsten.github.io/norwegian-laws/feeds/forskrift/2016-08-30-1042/forskrift/2026-08-30-1713</id>
-  <title>Forskrift om endring i forskrift om skipsutstyr</title>
-  <link href="https://sondreskarsten.github.io/norwegian-laws/forskrifter/forskrift-2016-08-30-1042.html"/>
-  <updated>2026-09-01T00:00:00Z</updated>
-  <summary>Ikrafttredelse: 2026-08-31
-Departement: Nærings- og fiskeridepartementet
-Endrer: forskrift/2016-08-30-1042
-Lovtidend: 2026-1011
-Hjemmel:Fastsatt av Sjøfartsdirektoratet 30. august 2026 med hjemmel i lov 16. februar 2007 nr. 9 om skipssikkerhet (skipssikkerhetsloven) § 9, § 32 og § 45, jf. delegeringsvedtak 16. februar 2007 nr. 171, delegeringsvedtak 31. mai 2007 nr. 590 og delegeringsvedtak 29. juni 2007 nr. 849, lov 16. jun</summary>
 </entry>
 </feed>
