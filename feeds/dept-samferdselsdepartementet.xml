@@ -3,10 +3,21 @@
   <title>Samferdselsdepartementet — endringer</title>
   <link href="https://sondreskarsten.github.io/norwegian-laws/feeds/dept-samferdselsdepartementet.xml" rel="self"/>
   <link href="https://sondreskarsten.github.io/norwegian-laws/"/>
-  <updated>2026-10-27T07:42:13Z</updated>
+  <updated>2026-10-28T08:16:36Z</updated>
   <id>https://sondreskarsten.github.io/norwegian-laws/feeds/dept-samferdselsdepartementet.xml</id>
   <author><name>Lovtidend</name></author>
   <subtitle>Endringer i lover og forskrifter under Samferdselsdepartementet</subtitle>
+<entry>
+  <id>https://sondreskarsten.github.io/norwegian-laws/feeds/forskrift/2007-07-02-877/forskrift/2026-10-27-2152</id>
+  <title>Forskrift om endring i forskrift om kjøre- og hviletid og fartsskriver for vegtransport i EØS</title>
+  <link href="https://sondreskarsten.github.io/norwegian-laws/forskrifter/forskrift-2007-07-02-877.html"/>
+  <updated>2026-10-27T00:00:00Z</updated>
+  <summary>Ikrafttredelse: 2026-10-27
+Departement: Samferdselsdepartementet
+Endrer: forskrift/2007-07-02-877
+Lovtidend: 2026-1212
+Hjemmel:Fastsatt av Samferdselsdepartementet 27. oktober 2026 med hjemmel i lov 18.juni 1965 nr. 4 om vegtrafikk (vegtrafikkloven) §§ 13 fjerde ledd, 13a og 21 andre ledd.EØS-henvisninger:EØS-avtalen vedlegg XIII nr. 21a (direktiv (EU) 2024/846).</summary>
+</entry>
 <entry>
   <id>https://sondreskarsten.github.io/norwegian-laws/feeds/forskrift/2021-11-19-3223/forskrift/2026-10-14-2062</id>
   <title>Forskrift om endring i forskrift om avgiftssatser for bruk av lufthavner drevet av Avinor AS</title>
@@ -568,16 +579,5 @@ Departement: Samferdselsdepartementet
 Endrer: forskrift/2011-03-01-214
 Lovtidend: 2026-0928
 Hjemmel:Fastsatt av Luftfartstilsynet 13. juli 2026 med hjemmel i lov 11. juni 1993 nr. 101 om luftfart (luftfartsloven) § 7-24 andre ledd, § 7-25 første og andre ledd og § 16-1, jf. forskrift 1. mars 2011 nr. 214 om forebyggelse av anslag mot sikkerheten i luftfarten mv. § 4 andre ledd.EØS-henvisni</summary>
-</entry>
-<entry>
-  <id>https://sondreskarsten.github.io/norwegian-laws/feeds/forskrift/2007-07-02-877/forskrift/2026-07-07-1529</id>
-  <title>Forskrift om endring i forskrift om kjøre- og hviletid og fartsskriver for vegtransport i EØS</title>
-  <link href="https://sondreskarsten.github.io/norwegian-laws/forskrifter/forskrift-2007-07-02-877.html"/>
-  <updated>2026-07-09T00:00:00Z</updated>
-  <summary>Ikrafttredelse: 2026-07-07
-Departement: Samferdselsdepartementet
-Endrer: forskrift/2007-07-02-877
-Lovtidend: 2026-0915
-Hjemmel:Fastsatt av Samferdselsdepartementet 7. juli 2026 med hjemmel i lov 18.juni 1965 nr. 4 om vegtrafikk (vegtrafikkloven) §§ 13 tredje ledd, 13a, 19b, 21 andre ledd, 32 og 36.EØS-henvisninger:EØS-avtalen vedlegg XIII nr. 21bd (forordning (EU) 2024/1886) og nr. 24e (forordning (EU) 2024/1258).</summary>
 </entry>
 </feed>
