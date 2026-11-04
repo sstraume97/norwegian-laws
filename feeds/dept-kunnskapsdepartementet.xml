@@ -3,10 +3,21 @@
   <title>Kunnskapsdepartementet — endringer</title>
   <link href="https://sondreskarsten.github.io/norwegian-laws/feeds/dept-kunnskapsdepartementet.xml" rel="self"/>
   <link href="https://sondreskarsten.github.io/norwegian-laws/"/>
-  <updated>2026-11-03T09:23:46Z</updated>
+  <updated>2026-11-04T08:57:39Z</updated>
   <id>https://sondreskarsten.github.io/norwegian-laws/feeds/dept-kunnskapsdepartementet.xml</id>
   <author><name>Lovtidend</name></author>
   <subtitle>Endringer i lover og forskrifter under Kunnskapsdepartementet</subtitle>
+<entry>
+  <id>https://sondreskarsten.github.io/norwegian-laws/feeds/forskrift/2015-05-07-540/forskrift/2026-10-28-2239</id>
+  <title>Forskrift om opptak, studier og eksamen ved Høgskolen i Molde – Vitenskapelig høgskole i logistikk</title>
+  <link href="https://sondreskarsten.github.io/norwegian-laws/forskrifter/forskrift-2015-05-07-540.html"/>
+  <updated>2026-11-03T00:00:00Z</updated>
+  <summary>Ikrafttredelse: 2026-10-28
+Departement: Kunnskapsdepartementet
+Endrer: forskrift/2015-05-07-540
+Lovtidend: 2026-1246
+Hjemmel:Fastsatt av styret ved Høgskolen i Molde – Vitenskapelig høgskole i logistikk 28. oktober 2026 med hjemmel i lov 8. mars 2024 nr. 9 om universiteter og høyskoler (universitets- og høyskoleloven) § 10-6, § 10-7, § 11-1, § 11-4, § 11-6 og § 11-7.</summary>
+</entry>
 <entry>
   <id>https://sondreskarsten.github.io/norwegian-laws/feeds/forskrift/2024-06-19-1643/forskrift/2026-10-22-2217</id>
   <title>Forskrift om endring i forskrift om studier og eksamen ved Nord universitet</title>
@@ -684,22 +695,5 @@ Departement: Kunnskapsdepartementet
 Endrer: lov/2023-06-09-30,lov/2003-07-04-84,lov/2005-06-17-64,lov/2025-06-20-99
 Lovtidend: 2026-0719
 Hjemmel:Fastsatt ved kgl.res 19. juni 2026 med hjemmel i lov 19. juni 2026 nr. 59 om endringer i opplæringslova og barnehageloven mv. del VI. Fremmet av Kunnskapsdepartementet.</summary>
-</entry>
-<entry>
-  <id>https://sondreskarsten.github.io/norwegian-laws/feeds/lov/2023-06-09-30/lov/2026-06-19-59</id>
-  <title>Endringslov til opplæringslova og barnehageloven mv.</title>
-  <link href="https://sondreskarsten.github.io/norwegian-laws/lover/lov-2023-06-09-30.html"/>
-  <updated>2026-06-19T00:00:00Z</updated>
-  <category term="§ 14-4" label="§ 14-4"/>
-  <category term="§ 15-2" label="§ 15-2"/>
-  <category term="§ 22-2" label="§ 22-2"/>
-  <category term="§ 25-1" label="§ 25-1"/>
-  <category term="§ 29-1" label="§ 29-1"/>
-  <summary>Ikrafttredelse: 2026-06-19, Kongen bestemmer
-Departement: Kunnskapsdepartementet
-Endrer: lov/2003-07-04-84,lov/2005-06-17-64,lov/2023-06-09-30,lov/2025-06-20-100,lov/2025-06-20-99
-Lovtidend: 2026-0636
-Berørte paragrafer: § 14-4, § 15-2, § 22-2, § 25-1, § 29-1
-Prop. 79 L (2025–2026), Innst. 356 L (2025–2026), Lovvedtak 67 (2025–2026). Stortingets første og andre gangs behandling hhv. 4. og 8. juni 2026. Fremmet av Kunnskapsdepartementet.</summary>
 </entry>
 </feed>
