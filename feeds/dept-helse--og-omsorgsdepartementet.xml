@@ -3,10 +3,21 @@
   <title>Helse- og omsorgsdepartementet — endringer</title>
   <link href="https://sondreskarsten.github.io/norwegian-laws/feeds/dept-helse--og-omsorgsdepartementet.xml" rel="self"/>
   <link href="https://sondreskarsten.github.io/norwegian-laws/"/>
-  <updated>2026-11-04T08:57:39Z</updated>
+  <updated>2026-11-05T09:25:25Z</updated>
   <id>https://sondreskarsten.github.io/norwegian-laws/feeds/dept-helse--og-omsorgsdepartementet.xml</id>
   <author><name>Lovtidend</name></author>
   <subtitle>Endringer i lover og forskrifter under Helse- og omsorgsdepartementet</subtitle>
+<entry>
+  <id>https://sondreskarsten.github.io/norwegian-laws/feeds/forskrift/2023-01-11-48/forskrift/2026-11-03-2261</id>
+  <title>Forskrift om endring i forskrift om nasjonal løsning for tilgjengeliggjøring av helsedata</title>
+  <link href="https://sondreskarsten.github.io/norwegian-laws/forskrifter/forskrift-2023-01-11-48.html"/>
+  <updated>2026-11-04T00:00:00Z</updated>
+  <summary>Ikrafttredelse: 2027-01-01
+Departement: Helse- og omsorgsdepartementet
+Endrer: forskrift/2023-01-11-48
+Lovtidend: 2026-1263
+Hjemmel:Fastsatt av Folkehelseinstituttet 3. november 2026 med hjemmel i lov 20. juni 2014 nr. 43 om helseregistre og behandling av helseopplysninger (helseregisterloven) § 19e og § 20, jf. forskrift 11. januar 2023 nr. 48 om nasjonal løsning for tilgjengeliggjøring av helsedata § 3.</summary>
+</entry>
 <entry>
   <id>https://sondreskarsten.github.io/norwegian-laws/feeds/forskrift/2024-06-26-1322/forskrift/2026-10-28-2219</id>
   <title>Forskrift om endring i forskrift om stønad til dekning av utgifter til undersøkelse og behandling hos lege</title>
@@ -549,16 +560,5 @@ Departement: Helse- og omsorgsdepartementet
 Endrer: forskrift/2010-02-26-247
 Lovtidend: 2026-0974
 Hjemmel:Fastsatt av Mattilsynet 19. august 2026 med hjemmel i forskrift 26. februar 2010 nr. 247 om tilsetning av vitaminer, mineraler og visse andre stoffer til næringsmidler (forskrift om vitamintilsetning mv. til næringsmidler) § 16 jf. lov 19. desember 2003 nr. 124 om matproduksjon og mattrygghe</summary>
-</entry>
-<entry>
-  <id>https://sondreskarsten.github.io/norwegian-laws/feeds/forskrift/2017-03-31-416/forskrift/2026-08-21-1649</id>
-  <title>Forskrift om endring i forskrift 31. mars 2017 nr. 416 om overgangsregler til lov 10. februar 2017 nr. 5 om endringer i lov 9. mars 1973 nr. 14 om vern mot tobakksskader</title>
-  <link href="https://sondreskarsten.github.io/norwegian-laws/forskrifter/forskrift-2017-03-31-416.html"/>
-  <updated>2026-08-21T00:00:00Z</updated>
-  <summary>Ikrafttredelse: 2026-08-21
-Departement: Helse- og omsorgsdepartementet
-Endrer: forskrift/2017-03-31-416
-Lovtidend: 2026-0981
-Hjemmel:Fastsatt ved kgl.res. 21. august 2026 med hjemmel i lov 10. februar 2017 nr. 5 om endringer i tobakksskadeloven (gjennomføring av direktiv 2014/40/EU og standardiserte tobakkspakninger) del II andre punktum. Fremmet av Helse- og omsorgsdepartementet.</summary>
 </entry>
 </feed>
