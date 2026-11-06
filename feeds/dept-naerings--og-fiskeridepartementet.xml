@@ -3,10 +3,21 @@
   <title>Nærings- og fiskeridepartementet — endringer</title>
   <link href="https://sondreskarsten.github.io/norwegian-laws/feeds/dept-naerings--og-fiskeridepartementet.xml" rel="self"/>
   <link href="https://sondreskarsten.github.io/norwegian-laws/"/>
-  <updated>2026-11-05T09:25:25Z</updated>
+  <updated>2026-11-06T09:14:33Z</updated>
   <id>https://sondreskarsten.github.io/norwegian-laws/feeds/dept-naerings--og-fiskeridepartementet.xml</id>
   <author><name>Lovtidend</name></author>
   <subtitle>Endringer i lover og forskrifter under Nærings- og fiskeridepartementet</subtitle>
+<entry>
+  <id>https://sondreskarsten.github.io/norwegian-laws/feeds/forskrift/2000-12-08-1281/forskrift/2026-10-19-2271</id>
+  <title>Forskrift om endring i forskrift om hvilke fag som er lagt under lov om mesterbrev i håndverk og annen næring</title>
+  <link href="https://sondreskarsten.github.io/norwegian-laws/forskrifter/forskrift-2000-12-08-1281.html"/>
+  <updated>2026-11-05T00:00:00Z</updated>
+  <summary>Ikrafttredelse: 2026-10-19
+Departement: Nærings- og fiskeridepartementet
+Endrer: forskrift/2000-12-08-1281
+Lovtidend: 2026-1266
+Hjemmel:Fastsatt av Mesterbrevnemnda 19. oktober 2026 med hjemmel i lov 20. juni 1986 nr. 35 om mesterbrev i håndverk og annen næring § 6 jf. § 1, jf. forskrift 12. desember 1986 nr. 2187 til mesterbrevloven § 1 første ledd.</summary>
+</entry>
 <entry>
   <id>https://sondreskarsten.github.io/norwegian-laws/feeds/forskrift/2025-12-19-2828/forskrift/2026-11-03-2262</id>
   <title>Forskrift om endring i forskrift om regulering av fisket etter sild i Nordsjøen og Skagerrak i 2026</title>
@@ -549,16 +560,5 @@ Departement: Nærings- og fiskeridepartementet
 Endrer: forskrift/2025-12-19-2828
 Lovtidend: 2026-1049
 Hjemmel:Fastsatt av Fiskeridirektoratet 10. september 2026 med hjemmel i lov 6. juni 2008 nr. 37 om forvaltning av viltlevande marine ressursar (havressurslova) § 12 og delegeringsvedtak 16. oktober 2001 nr. 4686.</summary>
-</entry>
-<entry>
-  <id>https://sondreskarsten.github.io/norwegian-laws/feeds/forskrift/2021-12-23-3910/forskrift/2026-09-14-1783</id>
-  <title>Endr. i høstingsforskriften</title>
-  <link href="https://sondreskarsten.github.io/norwegian-laws/forskrifter/forskrift-2021-12-23-3910.html"/>
-  <updated>2026-09-14T00:00:00Z</updated>
-  <summary>Ikrafttredelse: 2026-09-14
-Departement: Nærings- og fiskeridepartementet
-Endrer: forskrift/2021-12-23-3910
-Lovtidend: 2026-1050
-Hjemmel:Fastsatt av Fiskeridirektoratet 14. september 2026 med hjemmel i lov 6. juni 2008 nr. 37 om forvaltning av viltlevande marine ressursar (havressurslova) § 16 og forskrift 23. desember 2021 nr. 3910 om gjennomføring av fiske, fangst og høsting av viltlevende marine ressurser (høstingsforskrif</summary>
 </entry>
 </feed>
