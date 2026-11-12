@@ -3,10 +3,21 @@
   <title>Finansdepartementet — endringer</title>
   <link href="https://sondreskarsten.github.io/norwegian-laws/feeds/dept-finansdepartementet.xml" rel="self"/>
   <link href="https://sondreskarsten.github.io/norwegian-laws/"/>
-  <updated>2026-11-11T09:12:12Z</updated>
+  <updated>2026-11-12T09:42:19Z</updated>
   <id>https://sondreskarsten.github.io/norwegian-laws/feeds/dept-finansdepartementet.xml</id>
   <author><name>Lovtidend</name></author>
   <subtitle>Endringer i lover og forskrifter under Finansdepartementet</subtitle>
+<entry>
+  <id>https://sondreskarsten.github.io/norwegian-laws/feeds/forskrift/2018-12-19-2145/forskrift/2026-11-10-2308</id>
+  <title>Forskrift om endring i forskrift til lov om Bankenes sikringsfond</title>
+  <link href="https://sondreskarsten.github.io/norwegian-laws/forskrifter/forskrift-2018-12-19-2145.html"/>
+  <updated>2026-11-11T00:00:00Z</updated>
+  <summary>Ikrafttredelse: 2026-11-10
+Departement: Finansdepartementet
+Endrer: forskrift/2018-12-19-2145
+Lovtidend: 2026-1275
+Hjemmel:Fastsatt av Finansdepartementet 10. november 2026 med hjemmel i lov 23. mars 2018 nr. 3 om Bankenes sikringsfond § 9 annet ledd og lov 23. mars 2018 nr. 2 om endringer i finansforetaksloven mv. (innskuddsgaranti og krisehåndtering av banker) avsnitt IV nr. 3 og 4.</summary>
+</entry>
 <entry>
   <id>https://sondreskarsten.github.io/norwegian-laws/feeds/lov/1959-06-19-2/forskrift/2026-10-30-2205</id>
   <title>Ikraftsetting av lov 19. juni 2026 nr. 41 om særavgifter (særavgiftsloven)</title>
@@ -613,20 +624,5 @@ Departement: Finansdepartementet
 Endrer: forskrift/2025-07-01-1379
 Lovtidend: 2026-0772
 Hjemmel:Fastsatt av Finansdepartementet 22. juni 2026 med hjemmel i lov 10. april 2015 nr. 17 om finansforetak og finanskonsern (finansforetaksloven) § 11-21.</summary>
-</entry>
-<entry>
-  <id>https://sondreskarsten.github.io/norwegian-laws/feeds/forskrift/2001-12-11-1451/forskrift/2026-06-23-1247</id>
-  <title>Forskrift om endring i forskrift om særavgifter</title>
-  <link href="https://sondreskarsten.github.io/norwegian-laws/forskrifter/forskrift-2001-12-11-1451.html"/>
-  <updated>2026-06-23T00:00:00Z</updated>
-  <category term="§ 3-6" label="§ 3-6"/>
-  <category term="§ 4-3" label="§ 4-3"/>
-  <category term="§ 4-6" label="§ 4-6"/>
-  <summary>Ikrafttredelse: 2026-06-23
-Departement: Finansdepartementet
-Endrer: forskrift/2001-12-11-1451
-Lovtidend: 2026-0778
-Berørte paragrafer: § 3-6, § 4-3, § 4-6
-Hjemmel:Fastsatt av Finansdepartementet 23. juni 2026 med hjemmel i lov 19. mai 1933 nr. 11 om særavgifter (særavgiftsloven) § 1 og stortingsvedtak om CO2-avgift på mineralske produkter § 6.</summary>
 </entry>
 </feed>
