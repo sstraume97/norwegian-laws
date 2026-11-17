@@ -3,10 +3,23 @@
   <title>Finansdepartementet — endringer</title>
   <link href="https://sondreskarsten.github.io/norwegian-laws/feeds/dept-finansdepartementet.xml" rel="self"/>
   <link href="https://sondreskarsten.github.io/norwegian-laws/"/>
-  <updated>2026-11-15T09:07:49Z</updated>
+  <updated>2026-11-17T10:39:02Z</updated>
   <id>https://sondreskarsten.github.io/norwegian-laws/feeds/dept-finansdepartementet.xml</id>
   <author><name>Lovtidend</name></author>
   <subtitle>Endringer i lover og forskrifter under Finansdepartementet</subtitle>
+<entry>
+  <id>https://sondreskarsten.github.io/norwegian-laws/feeds/forskrift/2009-12-15-1540/forskrift/2026-11-16-2362</id>
+  <title>Endr. i merverdiavgiftsforskriften</title>
+  <link href="https://sondreskarsten.github.io/norwegian-laws/forskrifter/forskrift-2009-12-15-1540.html"/>
+  <updated>2026-11-16T00:00:00Z</updated>
+  <category term="§ 5-1" label="§ 5-1"/>
+  <summary>Ikrafttredelse: 2027-01-01
+Departement: Finansdepartementet
+Endrer: forskrift/2009-12-15-1540
+Lovtidend: 2026-1295
+Berørte paragrafer: § 5-1
+Hjemmel:Fastsatt av Skattedirektoratet 16. november 2026 med hjemmel i lov 19. juni 2009 nr. 58 om merverdiavgift (merverdiavgiftsloven) § 5-1 tredje ledd og delegeringsvedtak 15. desember 2009 nr. 1523.</summary>
+</entry>
 <entry>
   <id>https://sondreskarsten.github.io/norwegian-laws/feeds/lov/2021-12-22-163/forskrift/2026-11-13-2341</id>
   <title>Ikraftsetting av lov 19. juni 2026 nr. 48 om endringer i konkursloven mv. (rekonstruksjonsforhandling)</title>
@@ -585,26 +598,5 @@ Endrer: forskrift/2009-12-15-1540
 Lovtidend: 2026-0861
 Berørte paragrafer: § 15-9
 Hjemmel:Fastsatt av Skattedirektoratet 26. juni 2026 med hjemmel i lov 19. juni 2009 nr. 58 om merverdiavgift (merverdiavgiftsloven) § 15-9, jf. delegeringsvedtak 15. desember 2009 nr. 1523.</summary>
-</entry>
-<entry>
-  <id>https://sondreskarsten.github.io/norwegian-laws/feeds/forskrift/2007-12-21-1766/forskrift/2026-06-26-1385</id>
-  <title>Endr. i skattebetalingsforskriften</title>
-  <link href="https://sondreskarsten.github.io/norwegian-laws/forskrifter/forskrift-2007-12-21-1766.html"/>
-  <updated>2026-06-29T00:00:00Z</updated>
-  <category term="§ 10-10" label="§ 10-10"/>
-  <category term="§ 11-1" label="§ 11-1"/>
-  <category term="§ 11-2" label="§ 11-2"/>
-  <category term="§ 11-5" label="§ 11-5"/>
-  <category term="§ 11-7" label="§ 11-7"/>
-  <category term="§ 5-10" label="§ 5-10"/>
-  <category term="§ 5-7" label="§ 5-7"/>
-  <category term="§ 5-9" label="§ 5-9"/>
-  <category term="§ 9-1" label="§ 9-1"/>
-  <summary>Ikrafttredelse: 2026-06-26
-Departement: Finansdepartementet
-Endrer: forskrift/2007-12-21-1766
-Lovtidend: 2026-0848
-Berørte paragrafer: § 10-10, § 11-1, § 11-2, § 11-5, § 11-7, § 5-10, § 5-7, § 5-9, § 9-1
-Hjemmel:Fastsatt av Skattedirektoratet 26. juni 2026 med hjemmel i lov 17. juni 2005 nr. 67 om betaling og innkreving av skatte- og avgiftskrav (skattebetalingsloven) § 5-7 tredje ledd, § 5-9 første ledd bokstav c, § 5-10 fjerde ledd, § 9-1 tredje ledd, § 10-10 tredje ledd, § 11-5 fjerde ledd, 11-7 </summary>
 </entry>
 </feed>

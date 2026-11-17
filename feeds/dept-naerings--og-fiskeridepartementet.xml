@@ -3,10 +3,21 @@
   <title>Nærings- og fiskeridepartementet — endringer</title>
   <link href="https://sondreskarsten.github.io/norwegian-laws/feeds/dept-naerings--og-fiskeridepartementet.xml" rel="self"/>
   <link href="https://sondreskarsten.github.io/norwegian-laws/"/>
-  <updated>2026-11-15T09:07:49Z</updated>
+  <updated>2026-11-17T10:39:02Z</updated>
   <id>https://sondreskarsten.github.io/norwegian-laws/feeds/dept-naerings--og-fiskeridepartementet.xml</id>
   <author><name>Lovtidend</name></author>
   <subtitle>Endringer i lover og forskrifter under Nærings- og fiskeridepartementet</subtitle>
+<entry>
+  <id>https://sondreskarsten.github.io/norwegian-laws/feeds/forskrift/2022-04-06-633/forskrift/2026-11-15-2361</id>
+  <title>Endr. i dyreimportforskriften</title>
+  <link href="https://sondreskarsten.github.io/norwegian-laws/forskrifter/forskrift-2022-04-06-633.html"/>
+  <updated>2026-11-16T00:00:00Z</updated>
+  <summary>Ikrafttredelse: 2026-12-03
+Departement: Landbruks- og matdepartementet
+Endrer: forskrift/2022-04-06-633
+Lovtidend: 2026-1294
+Hjemmel:Fastsatt av Mattilsynet 15. november 2026 med hjemmel i lov 19. desember 2003 nr. 124 om matproduksjon og mattrygghet mv. (matloven) § 23 tredje ledd, jf. § 12 og § 19.EØS-henvisninger:EØS-avtalen vedlegg I kap. I innledende del nr. 7 (forordning (EU) 2026/2503).</summary>
+</entry>
 <entry>
   <id>https://sondreskarsten.github.io/norwegian-laws/feeds/lov/1997-06-13-45/forskrift/2026-11-13-2341</id>
   <title>Ikraftsetting av lov 19. juni 2026 nr. 48 om endringer i konkursloven mv. (rekonstruksjonsforhandling)</title>
@@ -549,16 +560,5 @@ Departement: Statsministerens kontor
 Endrer: lov/2025-12-22-128
 Lovtidend: 2026-1081
 Hjemmel:Fastsatt ved kgl.res. 18. september 2026 med hjemmel i Kongeriket Norges Grunnlov 17. mai 1814 § 12. Fremmet av Statsministerens kontor.</summary>
-</entry>
-<entry>
-  <id>https://sondreskarsten.github.io/norwegian-laws/feeds/forskrift/2025-12-19-2826/forskrift/2026-09-16-1869</id>
-  <title>Forskrift om endring i forskrift om regulering av fisket etter torsk, hyse og sei i 2026</title>
-  <link href="https://sondreskarsten.github.io/norwegian-laws/forskrifter/forskrift-2025-12-19-2826.html"/>
-  <updated>2026-09-23T00:00:00Z</updated>
-  <summary>Ikrafttredelse: 2026-09-16
-Departement: Nærings- og fiskeridepartementet
-Endrer: forskrift/2025-12-19-2826
-Lovtidend: 2026-1078
-Hjemmel:Fastsatt av Fiskeridirektoratet 16. september 2026 med hjemmel i forskrift 19. desember 2025 nr. 2826 om regulering av fisket etter torsk, hyse og sei nord for 62 grader nord i 2026 § 36.</summary>
 </entry>
 </feed>
