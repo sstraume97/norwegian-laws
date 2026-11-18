@@ -3,10 +3,21 @@
   <title>Justis- og beredskapsdepartementet — endringer</title>
   <link href="https://sondreskarsten.github.io/norwegian-laws/feeds/dept-justis--og-beredskapsdepartementet.xml" rel="self"/>
   <link href="https://sondreskarsten.github.io/norwegian-laws/"/>
-  <updated>2026-11-17T10:39:02Z</updated>
+  <updated>2026-11-18T10:05:42Z</updated>
   <id>https://sondreskarsten.github.io/norwegian-laws/feeds/dept-justis--og-beredskapsdepartementet.xml</id>
   <author><name>Lovtidend</name></author>
   <subtitle>Endringer i lover og forskrifter under Justis- og beredskapsdepartementet</subtitle>
+<entry>
+  <id>https://sondreskarsten.github.io/norwegian-laws/feeds/forskrift/2009-10-15-1286/forskrift/2026-11-16-2373</id>
+  <title>Endr. i utlendingsforskriften</title>
+  <link href="https://sondreskarsten.github.io/norwegian-laws/forskrifter/forskrift-2009-10-15-1286.html"/>
+  <updated>2026-11-17T00:00:00Z</updated>
+  <summary>Ikrafttredelse: 2026-11-16
+Departement: Justis- og beredskapsdepartementet
+Endrer: forskrift/2009-10-15-1286
+Lovtidend: 2026-1299
+Hjemmel:Fastsatt av Justis- og beredskapsdepartementet 16. november 2026 med hjemmel i lov 15. mai 2008 nr. 35 om utlendingers adgang til riket og deres opphold her (utlendingsloven) § 126 syvende ledd, § 127 sjette ledd bokstav d og § 129 syvende ledd, jf. delegeringsvedtak 9. oktober 2009 nr. 1260</summary>
+</entry>
 <entry>
   <id>https://sondreskarsten.github.io/norwegian-laws/feeds/lov/1982-12-17-86/forskrift/2026-11-13-2341</id>
   <title>Ikraftsetting av lov 19. juni 2026 nr. 48 om endringer i konkursloven mv. (rekonstruksjonsforhandling)</title>
@@ -554,18 +565,5 @@ Departement: Justis- og beredskapsdepartementet
 Endrer: forskrift/2020-02-17-183
 Lovtidend: 2026-1006
 Hjemmel:Fastsettes av Justis- og beredskapsdepartementet 13. juli 2026 med hjemmel i lov 15. mai 2008 nr. 35 om utlendingers adgang til riket og deres opphold her (utlendingsloven) § 90g, jf. delegeringsvedtak 9. oktober 2009 nr. 1260 og omorganiseringsvedtak 18. desember 2009 nr. 1582 og til gjenno</summary>
-</entry>
-<entry>
-  <id>https://sondreskarsten.github.io/norwegian-laws/feeds/forskrift/2009-10-15-1286/forskrift/2026-08-26-1696</id>
-  <title>Endr. i utlendingsforskriften</title>
-  <link href="https://sondreskarsten.github.io/norwegian-laws/forskrifter/forskrift-2009-10-15-1286.html"/>
-  <updated>2026-08-28T00:00:00Z</updated>
-  <category term="§ 7-6" label="§ 7-6"/>
-  <summary>Ikrafttredelse: 2026-08-28
-Departement: Justis- og beredskapsdepartementet
-Endrer: forskrift/2009-10-15-1286
-Lovtidend: 2026-0995
-Berørte paragrafer: § 7-6
-Hjemmel:Fastsatt av Justis- og beredskapsdepartementet 26. august 2026 med hjemmel i lov 15. mai 2008 nr. 35 om utlendingers adgang til riket og deres opphold her (utlendingsloven) § 35, jf. delegeringsvedtak 9. oktober 2009 nr. 1260 og omorganiseringsvedtak 18. desember 2009 nr. 1582.</summary>
 </entry>
 </feed>
