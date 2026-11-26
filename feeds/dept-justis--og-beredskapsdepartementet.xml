@@ -3,10 +3,21 @@
   <title>Justis- og beredskapsdepartementet — endringer</title>
   <link href="https://sondreskarsten.github.io/norwegian-laws/feeds/dept-justis--og-beredskapsdepartementet.xml" rel="self"/>
   <link href="https://sondreskarsten.github.io/norwegian-laws/"/>
-  <updated>2026-11-25T11:10:01Z</updated>
+  <updated>2026-11-26T10:49:29Z</updated>
   <id>https://sondreskarsten.github.io/norwegian-laws/feeds/dept-justis--og-beredskapsdepartementet.xml</id>
   <author><name>Lovtidend</name></author>
   <subtitle>Endringer i lover og forskrifter under Justis- og beredskapsdepartementet</subtitle>
+<entry>
+  <id>https://sondreskarsten.github.io/norwegian-laws/feeds/forskrift/1993-08-23-824/forskrift/2026-11-24-2474</id>
+  <title>Forskrift om endring i forskrift om konkursregisteret og om kunngjøringer etter konkursloven</title>
+  <link href="https://sondreskarsten.github.io/norwegian-laws/forskrifter/forskrift-1993-08-23-824.html"/>
+  <updated>2026-11-25T00:00:00Z</updated>
+  <summary>Ikrafttredelse: 2027-01-01
+Departement: Justis- og beredskapsdepartementet
+Endrer: forskrift/1993-08-23-824
+Lovtidend: 2026-1323
+Hjemmel:Fastsatt av Justis- og beredskapsdepartementet 24. november 2026 med hjemmel i konkursloven §§ 78, 144, 156, 156a og 172.</summary>
+</entry>
 <entry>
   <id>https://sondreskarsten.github.io/norwegian-laws/feeds/lov/1814-05-17/forskrift/2026-11-20-2434</id>
   <title>Endr. i Grunnloven</title>
@@ -552,18 +563,5 @@ Departement: Kunnskapsdepartementet
 Endrer: forskrift/2005-12-16-1576,forskrift/2005-11-25-1330
 Lovtidend: 2026-1041
 Hjemmel:Fastsatt ved kgl.res. 11. september 2026 med hjemmel i lov 8. mars 2024 nr. 9 om universiteter og høyskoler (universitets- og høyskoleloven) § 1-2 tredje ledd bokstav a og lov 4. august 1995 nr. 53 om politiet (politiloven) § 24a, § 24b annet ledd og § 24c. Fremmet av Kunnskapsdepartementet.</summary>
-</entry>
-<entry>
-  <id>https://sondreskarsten.github.io/norwegian-laws/feeds/forskrift/2009-10-15-1286/forskrift/2026-09-01-1715</id>
-  <title>Endr. i utlendingsforskriften</title>
-  <link href="https://sondreskarsten.github.io/norwegian-laws/forskrifter/forskrift-2009-10-15-1286.html"/>
-  <updated>2026-09-01T00:00:00Z</updated>
-  <category term="§ 6-19" label="§ 6-19"/>
-  <summary>Ikrafttredelse: 2026-09-01
-Departement: Justis- og beredskapsdepartementet
-Endrer: forskrift/2009-10-15-1286
-Lovtidend: 2026-1013
-Berørte paragrafer: § 6-19
-Hjemmel:Fastsatt av Justis- og beredskapsdepartementet 1. september 2026 med hjemmel i lov 15. mai 2008 nr. 35 om utlendingers adgang til riket og deres opphold her (utlendingsloven) § 26, jf. delegeringsvedtak 9. oktober 2009 nr. 1260 og omorganiseringsvedtak 18. desember 2009 nr. 1582.</summary>
 </entry>
 </feed>
