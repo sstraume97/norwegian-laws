@@ -3,10 +3,21 @@
   <title>Barne- og familiedepartementet — endringer</title>
   <link href="https://sondreskarsten.github.io/norwegian-laws/feeds/dept-barne--og-familiedepartementet.xml" rel="self"/>
   <link href="https://sondreskarsten.github.io/norwegian-laws/"/>
-  <updated>2026-11-27T10:50:44Z</updated>
+  <updated>2026-11-28T10:07:53Z</updated>
   <id>https://sondreskarsten.github.io/norwegian-laws/feeds/dept-barne--og-familiedepartementet.xml</id>
   <author><name>Lovtidend</name></author>
   <subtitle>Endringer i lover og forskrifter under Barne- og familiedepartementet</subtitle>
+<entry>
+  <id>https://sondreskarsten.github.io/norwegian-laws/feeds/forskrift/2023-10-13-1632/forskrift/2026-11-24-2506</id>
+  <title>Forskrift om endring i forskrift om fosterhjem</title>
+  <link href="https://sondreskarsten.github.io/norwegian-laws/forskrifter/forskrift-2023-10-13-1632.html"/>
+  <updated>2026-11-27T00:00:00Z</updated>
+  <summary>Ikrafttredelse: 2027-01-01
+Departement: Barne- og familiedepartementet
+Endrer: forskrift/2023-10-13-1632
+Lovtidend: 2026-1340
+Hjemmel:Fastsatt av Barne- og familiedepartementet 24. november 2026 med hjemmel i lov 18. juni 2021 nr. 97 om barnevern (barnevernsloven) § 9-11.</summary>
+</entry>
 <entry>
   <id>https://sondreskarsten.github.io/norwegian-laws/feeds/lov/2020-04-24-31/forskrift/2026-11-13-2341</id>
   <title>Ikraftsetting av lov 19. juni 2026 nr. 48 om endringer i konkursloven mv. (rekonstruksjonsforhandling)</title>
@@ -626,16 +637,5 @@ Departement: Barne- og familiedepartementet
 Endrer: forskrift/1997-01-10-16
 Lovtidend: 2025-1322
 Hjemmel:Fastsatt av Barne- og familiedepartementet 20. oktober 2025 med hjemmel i lov 7. juni 1996 nr. 32 om gravplasser, kremasjon og gravferd (gravplassloven) § 30.</summary>
-</entry>
-<entry>
-  <id>https://sondreskarsten.github.io/norwegian-laws/feeds/forskrift/2014-06-13-724/forskrift/2025-06-24-1201</id>
-  <title>Forskrift om endring i forskrift om livsoppholdssatser ved utleggstrekk og gjeldsordning</title>
-  <link href="https://sondreskarsten.github.io/norwegian-laws/forskrifter/forskrift-2014-06-13-724.html"/>
-  <updated>2025-06-24T00:00:00Z</updated>
-  <summary>Ikrafttredelse: 2025-07-01
-Departement: Barne- og familiedepartementet
-Endrer: forskrift/2014-06-13-724
-Lovtidend: 2025-0824
-Hjemmel:Fastsatt av Barne- og familiedepartementet 24. juni 2025 med hjemmel i lov 17. juli 1992 nr. 99 om frivillig og tvungen gjeldsordning for privatpersoner (gjeldsordningsloven) § 4-3, jf. forskrift 13. juni 2014 nr. 724 om livsoppholdssatser ved utleggstrekk og gjeldsordning § 6.</summary>
 </entry>
 </feed>
